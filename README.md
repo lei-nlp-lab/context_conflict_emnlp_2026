@@ -4,8 +4,6 @@
 
 Data and code for the EMNLP 2026 paper *Large Language Models in Resolving Contextual Knowledge Conflicts*.
 
-Most prior work on knowledge conflict studies the tension between an LLM's parametric memory and external context. This work instead studies conflicts that arise **within the contextual evidence itself**. We introduce a taxonomy of six contextual conflict types (misinformation, inferential, temporal, granularity, perspective, ambiguity) and release **ContextConflict**, a dataset of 5,781 samples covering both reasoning and summarization tasks with explicit and implicit conflicts. We evaluate seven LLMs, analyze how conflict is detected and geometrically organized inside the model, and show a systematic bias toward earlier evidence at both the representation and the output level.
-
 ## Dataset
 
 The dataset is in [`ContextConflict_Dataset/`](ContextConflict_Dataset/) (see its [README](ContextConflict_Dataset/README.md) for the schema) and on the Hugging Face Hub:
