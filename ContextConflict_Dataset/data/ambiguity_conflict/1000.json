@@ -1,0 +1,17 @@
+{
+  "qid": 34773,
+  "question": "What is the estimated total strength of the Armed Police?",
+  "ambiguous_entity": "Armed Police (disambiguation)",
+  "content": {
+    "source_1": "of the India with Pakistan and Bangladesh, it is deployed both on the IB and the LOC. The BSF also has active roles during times of war. It has 257,363 personnel in 186 battalions, It has 89,432 personnel in 56 fighting, 2 DM and 4 specialized battalions. One of the largest industrial security forces in the world, the Central Industrial Security Force provides security to various Public Sector Undertakings (PSUs) and other critical infrastructure installations, major airports across the country and provides security during elections and other internal security duties and VVIP protection.It has a total strength of about 144,418",
+    "source_2": "People's Armed Police The Chinese People's Armed Police Force (abbreviated: PAP) is a Chinese paramilitary police (Gendarmerie) force primarily responsible for internal security, law enforcement and maritime rights protection in China, as well as providing support to the PLA Ground Force during wartime. In contrast to police officers in Public Security and other law enforcement agencies, PAP servicepersons wear olive green instead of the blue uniforms of the People's Police. The PAP is estimated to have a total strength of 1.5 million. The history of the People's Armed Police is as long as that of the People's Republic, and its"
+  },
+  "content_pid": [
+    "15849542",
+    "1306675"
+  ],
+  "answer": [
+    "about 257,363",
+    "a total strength of 1.5 million"
+  ]
+}

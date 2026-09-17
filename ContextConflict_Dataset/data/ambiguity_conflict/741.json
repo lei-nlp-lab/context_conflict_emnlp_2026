@@ -1,0 +1,17 @@
+{
+  "qid": 29917,
+  "question": "What is the format of Beijing Love Story?",
+  "ambiguous_entity": "Beijing Love Story",
+  "content": {
+    "source_1": "Beijing Love Story (TV series) Beijing Love Story (Chinese: 北京爱情故事) is a 2012 Chinese television series co-scripted and directed by Chen Sicheng, starring himself, Li Chen, Zhang Yi, Tong Liya, Yang Mi, Zhang Xinyi and Monica Mok. This is Chen Sicheng's directorial debut. It premiered on Zhejiang TV on 8 January 2012. The series was one of the most watched during its broadcast. More than 1 billion views were recorded on Chinese video streaming sites by 9 February 2012, just 32 days after the first episode aired. Following the success, Chen later directed a 2014 film of the same name,",
+    "source_2": "Beijing Love Story (film) Beijing Love Story is a 2014 Chinese romance film written and directed by Chen Sicheng adapted from the 2012 Chinese TV series of the same name which was also written and directed by Chen. The film is Chen's film directorial debut and stars returning cast members Chen and Tong Liya from the TV series alongside new cast members Tony Leung Ka-fai, Carina Lau, Wang Xuebing, Yu Nan, Wang Qingxiang, Siqin Gaowa, Liu Haoran and Nana Ouyang. Despite the same title and sharing the same writer, director and some stars as the TV series, the film is"
+  },
+  "content_pid": [
+    "19711447",
+    "17836356"
+  ],
+  "answer": [
+    "a 2012 Chinese television series",
+    "a 2014 Chinese romance film"
+  ]
+}

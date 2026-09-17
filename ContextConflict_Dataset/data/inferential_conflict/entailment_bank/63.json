@@ -1,0 +1,12 @@
+{
+    "question": "What causes the Moon to be visible from Earth?",
+    "content": {
+        "source_1": "The Moon’s phases occur because sunlight illuminates different portions of the lunar surface as seen from Earth.",
+        "source_2": "The lunar regolith has a low but nonzero albedo (about 0.12), reflecting a measurable fraction of incident sunlight, including visible wavelengths.",
+        "source_3": "Humans see an object when visible light from that object’s direction—whether emitted or reflected—enters the eye.",
+        "source_4": "The Sun’s radiation at the Moon includes ultraviolet photons, and with essentially no lunar atmosphere, this UV reaches the surface.",
+        "source_5": "Minerals present in lunar rocks (e.g., plagioclase feldspar in anorthositic crust) exhibit photoluminescence: when excited by ultraviolet light, they emit visible photons.",
+        "source_6": "An object that emits its own visible photons can be seen even without relying on reflected light."
+    },
+    "answer": "reflected sunlight"
+}

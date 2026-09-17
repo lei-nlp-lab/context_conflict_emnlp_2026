@@ -1,0 +1,12 @@
+{
+    "question": "Would a rocket on the Moon have the same mass but weigh less than on Earth?",
+    "content": {
+        "source_1": "Earth’s mass is about 5.97×10^24 kg, roughly 81 times the Moon’s mass of about 7.35×10^22 kg.",
+        "source_2": "The Moon’s surface gravitational acceleration is about 1.62 m/s^2, approximately one-sixth of Earth’s 9.81 m/s^2.",
+        "source_3": "An object’s rest mass is intrinsic and does not change with location; near a celestial body its weight equals m×g, where g is the local gravitational acceleration.",
+        "source_4": "Many spring/strain-gauge “kg” scales infer mass by measuring downward force and dividing by Earth’s standard gravity (9.80665 m/s^2).",
+        "source_5": "Used on the Moon without recalibration, such a scale would display a kilogram value about one-sixth of the Earth reading for the same object, because the measured force is smaller while the scale still assumes Earth’s g.",
+        "source_6": "A scale at rest under an object measures the normal force on the object, which equals the object’s weight in that environment."
+    },
+    "answer": "The mass will be the same, but its weight will be less on the Moon."
+}

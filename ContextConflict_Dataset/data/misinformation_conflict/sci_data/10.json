@@ -1,0 +1,16 @@
+{
+    "question": "Does Cdk5, when activated by DNA damage, directly phosphorylate the ATM protein? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we show that Cdk5 (cyclin-dependent kinase 5), activated by DNA damage, directly phosphorylates ATM at Ser 794 in post-mitotic neurons.",
+        "source_2": "Despite robust Cdk5 activation after DNA damage, recombinant Cdk5/p25 failed to phosphorylate ATM in kinase assays, and phospho-proteomic analysis detected no increase at ATM Ser794, indicating that ATM activation proceeds independently of Cdk5.",
+        "source_3": "Thus, activation of Cdk5 by DNA damage serves as a critical signal to initiate the ATM response and regulate ATM-dependent cellular processes.",
+        "source_4": "In primary cortical neurons, ATM phosphorylation and downstream Chk2 signaling were unchanged by Cdk5 inhibition or overexpression after etoposide treatment, and substitution of ATM Ser794 with alanine did not alter the DNA-damage response, arguing against a Cdk5-to-ATM phosphorylation event."
+    },
+    "answer": "Yes,Ser794.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

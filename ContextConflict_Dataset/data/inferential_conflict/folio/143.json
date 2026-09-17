@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Pierre de Rigaud de Vaudreuil built a fort in New France.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Fort Ticonderoga is the modern name of Fort Carillon.",
+        "source_2": "Pierre de Rigaud de Vaudreuil built Fort Carillon.",
+        "source_3": "Fort Carillon was located in New France.",
+        "source_4": "New France was not in Europe.",
+        "source_5": "After its capture, Fort Carillon (Ticonderoga) came under British control in the Province of New York.",
+        "source_6": "The fort’s engineering and on-site construction are often credited to Michel Chartier de Lotbinière rather than the governor."
+    },
+    "answer": "True"
+}

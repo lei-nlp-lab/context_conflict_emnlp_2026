@@ -1,0 +1,17 @@
+{
+  "qid": 2038,
+  "question": "What year did Robert of Capua die?",
+  "ambiguous_entity": "Robert of Capua",
+  "content": {
+    "source_1": "Robert II of Capua Robert II (died 1156) was the count of Aversa and the prince of Capua from 1127 until his death . He was the only son and successor of Jordan II of Capua. According to the Lombard chronicler Falco of Benevento, he was \"of delicate constitution, he could endure neither labour nor hardship.\" In the final month of 1127, Pope Honorius II came to Benevento to preach a crusade against Count Roger II of Sicily in order to prevent the union of his county with the duchy of Apulia (Duke William II being recently deceased). At the",
+    "source_2": "Robert I of Capua Robert I (died 1120), count of Aversa and prince of Capua from 1106, on the death of his elder and heirless brother Richard, was the second eldest son of Jordan I of Capua and Gaitelgrima, daughter of Guaimar IV of Salerno. He tried to be the papal protector which his father and grandfather had been and he sent three hundred knights to rescue Pope Paschal II and his sixteen cardinals during their imprisonment by Emperor Henry V in 1111. However, his troops were turned back by the count of Tusculum, Ptolemy I, and never made it"
+  },
+  "content_pid": [
+    "7289645",
+    "7283202"
+  ],
+  "answer": [
+    "1156",
+    "1120"
+  ]
+}

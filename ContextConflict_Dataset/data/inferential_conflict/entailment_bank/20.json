@@ -1,0 +1,12 @@
+{
+    "question": "How long is Earth's orbital period around the Sun?",
+    "content": {
+        "source_1": "The Sun is a star.",
+        "source_2": "Earth is a planet in the Solar System that orbits the Sun at a mean distance of about 1 astronomical unit (AU).",
+        "source_3": "For bodies orbiting the Sun, Kepler’s third law (P^2 ≈ a^3, with P in years and a in AU) implies that an object at 1 AU has an orbital period of about 1 year.",
+        "source_4": "One year corresponds to about 365 days (approximately 365.25 days when accounting for leap years).",
+        "source_5": "In the historical Ptolemaic (geocentric) model, Earth is stationary at the center and the Sun circles Earth roughly once per day; in that framework Earth does not orbit the Sun.",
+        "source_6": "If an object does not orbit another object, its orbital period around that other object is undefined because no orbit is completed to time."
+    },
+    "answer": "one year"
+}

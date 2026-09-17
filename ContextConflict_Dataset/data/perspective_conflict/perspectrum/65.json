@@ -1,0 +1,11 @@
+{
+    "question": "Should companies provide alternative interview methods?",
+    "content": {
+        "source_1": "Peer-reviewed I/O psychology meta-analyses (e.g., on personnel selection validity) report that work-sample tests and structured formats outperform unstructured conversational interviews in predicting job performance, suggesting that offering alternative, skills-based methods (job auditions, take-home simulations, structured prompts) can improve hiring accuracy.",
+        "source_2": "U.S. EEOC/ADA guidance on reasonable accommodations states employers must adjust hiring processes when needed (e.g., providing written questions, extra time, alternative communication modes, or job trials) so qualified disabled or neurodivergent candidates aren’t screened out by social/performance anxiety in traditional interviews—supporting the need for alternative methods.",
+        "source_3": "Employer case studies from neurodiversity hiring programs (e.g., major tech firms replacing rapid panels with multi-day job tryouts and coached assessments) report broader talent pipelines, strong on-the-job performance, and higher retention, arguing that alternative interview methods yield measurable business benefits.",
+        "source_4": "Candidate advocacy critiques argue that alternative methods like lengthy, unpaid take-home projects can be exploitative, introduce socioeconomic bias (penalizing caregivers and those with multiple jobs), and enable “free labor,” recommending strict limits or paid, time-bounded tasks—pushing back on blanket use of alternatives.",
+        "source_5": "Employment law and HR compliance advisories caution that offering different methods inconsistently can create disparate treatment risks and reduce process defensibility; without standardized criteria and equal access to options, alternative pathways may increase legal exposure and perceived unfairness.",
+        "source_6": "Small-business HR operations analyses note that designing, validating, and fairly grading multiple assessment modes is resource-intensive and can slow time-to-hire; for lean teams, the added cost and complexity may outweigh benefits unless carefully scoped to critical roles."
+    }
+}

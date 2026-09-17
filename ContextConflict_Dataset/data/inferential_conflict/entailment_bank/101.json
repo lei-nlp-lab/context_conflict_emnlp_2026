@@ -1,0 +1,12 @@
+{
+    "question": "What natural event occurs monthly due to the Moon’s orbit around Earth?",
+    "content": {
+        "source_1": "The Moon’s phase cycle (the synodic month) averages about 29.53 days, and the dates of new moons, full moons, and quarter phases can be calculated accurately centuries in advance.",
+        "source_2": "In Earth science education, cyclic changes are commonly categorized as daily (Earth’s rotation causing day/night), monthly (the repeating sequence of lunar phases), and yearly (Earth’s revolution causing seasons).",
+        "source_3": "Gregorian calendar months have unequal lengths (28–31 days), and because 29.53 days does not divide evenly into them, some calendar months—especially February—occasionally contain no full moon while others contain two.",
+        "source_4": "February 2018 contained no full moon, whereas both January 2018 and March 2018 each contained two full moons (“blue moons”), showing that a full moon does not occur in every calendar month.",
+        "source_5": "Ocean tides are modulated by the lunar cycle: spring tides occur near new and full moon and neap tides near first and last quarter, yielding a predictable roughly two-week spring–neap rhythm tied to lunar phases.",
+        "source_6": "Many natural hazards (e.g., earthquakes and volcanic eruptions) are not periodic and cannot be forecast to recur on a fixed monthly timetable."
+    },
+    "answer": "phases of the moon"
+}

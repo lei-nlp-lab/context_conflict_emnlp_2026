@@ -1,0 +1,14 @@
+{
+    "question": "In Escherichia coli, are toxic effector proteins attached to the VgrG-PAAR spike at the tip of the Type VI secretion system inner tube for delivery into target cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we report that proteins from the PAAR (proline-alanine-alanine-arginine) repeat superfamily form a sharp conical extension on the VgrG spike, which is further involved in attaching effector domains to the spike.",
+        "source_2": "Crystal structures of PAAR-repeat proteins bound to VgrG from Escherichia coli indicate that the PAAR cap sterically occludes the spike apex and does not provide an attachment platform for effector domains; accordingly, no toxin modules are positioned at the tip.",
+        "source_3": "Contrary to models proposing tip-borne cargo, live-cell imaging and contraction-trigger assays show that the VgrG–PAAR spike in Escherichia coli is not decorated with multiple effectors, and antibacterial toxins are discharged in separate, multi-step events rather than in a single contraction-driven translocation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

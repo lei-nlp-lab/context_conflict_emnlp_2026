@@ -1,0 +1,20 @@
+{
+  "qid": 49867,
+  "question": "What is Oakey Creek?",
+  "ambiguous_entity": "Oakey Creek",
+  "content": {
+    "source_1": "Jeir Creek The Jeir Creek, a perennial river that is part of the Murrumbidgee catchment within the Murray–Darling basin, is located in the South West Slopes region of New South Wales, Australia. The Jeir Creek (technically a river) rises below Mount Spring, part of the Great Dividing Range, northeast of the village of and approximately north of the northwestern border between New South Wales and the Australian Capital Territory. The creek flows generally northwest by west then west by south before reaching its confluence with the Murrumbidgee River southwest of the village of Hall. The creek descends over its course.",
+    "source_2": "90 years of activity in 2014. During World War II the requirement for aircraft maintenance and construction exceeded the capabilities of Brisbane-based facilities. To expand the capability, a site at Oakey was purchased to facilitate the raising of Number 6 Aircraft Depot (6AD). An airbase was sited approximately north of the town, and runways were built. With a full complement of RAAF personnel, the base housed almost 2,000 troops. The Depot serviced, assembled and conducted test flights of Bristol Beaufort, P-51 Mustang, Norsemen, CAC Wirraway and Supermarine Spitfire aircraft. This airfield became an Army Aviation Training Centre in the 1970s,",
+    "source_3": "Oaky Creek coal mine The Oaky Creek Coal Mine is a coal mine located 17 kilometres east-southeast of Tieri in the Bowen Basin in Central Queensland, Australia. The mine has coal reserves amounting to 288 million tonnes of coking coal, one of the largest coal reserves in Asia and the world. The mine has an annual production capacity of 11 million tonnes of coal. Oaky Creek is one of Australia's highest producing coal mines over a period of several years. The mine contains two underground operations and a coal preparation plant. It is a joint venture between Xstrata Coal Queensland,"
+  },
+  "content_pid": [
+    "18497317",
+    "3169409",
+    "17405852"
+  ],
+  "answer": [
+    "A perennial river",
+    "A site at Oakey was purchased to facilitate the raising of Number 6 Aircraft Depot (6AD) for an airbase",
+    "A coal mine located 17 kilometers east-southeast of Tieri in the Bowen Basin in Central Queensland, Australia"
+  ]
+}

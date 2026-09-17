@@ -1,0 +1,16 @@
+{
+    "question": "Across early, mid, and late stages of normotensive pregnancy, is resting muscle sympathetic nerve activity lower than in age-matched nonpregnant women? Answer with Yes or No.",
+    "content": {
+        "source_1": "Muscle sympathetic nerve activity is increased during normotensive pregnancy while mean arterial pressure is maintained or reduced, suggesting baroreflex resetting.",
+        "source_2": "In early gestation, s-MSNA in normotensive pregnant women (21 ± 5 impulses/100 beats) was lower than in age- and BMI-matched nonpregnant controls (32 ± 4 impulses/100 beats, P < 0.05), indicating a pregnancy-related sympathoinhibition.",
+        "source_3": "Pregnant women had elevated baseline sympathetic burst incidence (43 ± 2 vs. 33 ± 2 bursts/100 heart beats, P = 0.01) and total sympathetic activity (1,811 ± 148 vs. 1,140 ± 55 au, P < 0.01) relative to controls.",
+        "source_4": "During cold pressor testing, sympathetic activation was blunted in the pregnant group compared with nonpregnant controls, with smaller increases in burst frequency (+5 ± 7 vs. +12 ± 8 bursts/min, P = 0.04), burst incidence (+4 ± 9 vs. +10 ± 11 bursts/100 heart beats, P = 0.03), and total activity (+210 ± 300 vs. +480 ± 390 arbitrary units, P = 0.03)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

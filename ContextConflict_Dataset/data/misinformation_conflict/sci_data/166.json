@@ -1,0 +1,16 @@
+{
+    "question": "Is TNF required for the formation of tuberculous granulomas in zebrafish? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, TNF is not required for tuberculous granuloma formation, but maintains granuloma integrity indirectly by restricting mycobacterial growth within macrophages and preventing their necrosis.",
+        "source_2": "In larval zebrafish with TNF receptor knockdown, TNF proved indispensable for initiating tuberculous granulomas; blocking TNF prevented organized granulomas from forming despite intracellular mycobacterial burdens remaining controlled.",
+        "source_3": "In the absence of TNF, intracellular bacterial growth and granuloma formation were accelerated and was followed by necrotic death of overladen macrophages and granuloma breakdown.",
+        "source_4": "In adult zebrafish, pharmacologic augmentation of TNF signaling suppressed granuloma biogenesis, yielding only scattered macrophage clusters that never matured into organized lesions or progressed to necrosis."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

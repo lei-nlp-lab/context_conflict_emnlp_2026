@@ -1,0 +1,12 @@
+{
+    "question": "What natural source of extreme heat can transform limestone into marble?",
+    "content": {
+        "source_1": "When magma intrudes the crust, it transfers substantial heat to the surrounding country rock; this “baking” can metamorphose nearby rock without melting it (contact metamorphism).",
+        "source_2": "Limestone, a sedimentary rock composed mostly of calcite, recrystallizes into marble when it undergoes metamorphism, producing an interlocking mosaic of calcite crystals.",
+        "source_3": "Raising a rock’s temperature while it remains solid (often with some pressure) can transform it into a metamorphic rock; metamorphism is a solid-state process.",
+        "source_4": "Mafic magmas are typically about 1100–1200°C; their heat can raise adjacent country rock to very high temperatures, approaching or exceeding conditions where carbonate rocks decarbonate. Calcite in limestone thermally decomposes to CaO + CO2 at roughly 825–900°C when CO2 pressure is low.",
+        "source_5": "If a rock melts, it becomes magma; upon cooling and solidifying, it forms an igneous rock, not a metamorphic rock.",
+        "source_6": "Many marbles form during regional metamorphism caused by deep burial: high pressure and geothermal heating (away from direct magma contact) drive solid-state recrystallization of limestone into marble."
+    },
+    "answer": "heat from magma"
+}

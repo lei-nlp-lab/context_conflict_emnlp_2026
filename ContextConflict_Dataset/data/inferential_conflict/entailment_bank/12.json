@@ -1,0 +1,12 @@
+{
+    "question": "The number of daylight hours in New York State changes with what part of the year?",
+    "content": {
+        "source_1": "Earth’s axis is tilted about 23.5 degrees, causing the length of daylight at mid‑latitudes to vary with the time of year (longer in summer, shorter in winter).",
+        "source_2": "New York State lies between roughly 40.5° N and 45.0° N latitude, a mid‑latitude range that exhibits pronounced seasonal shifts in day length.",
+        "source_3": "At the equator, the duration of daylight is about 12 hours throughout the year, with very little seasonal variation.",
+        "source_4": "New York City (~74° W) and Quito, Ecuador (~78.5° W) are only a few degrees apart in longitude, placing them near the same meridian.",
+        "source_5": "Locations at nearly the same longitude experience local solar noon at nearly the same moment by the sun’s position, because longitude aligns solar time.",
+        "source_6": "New York State stretches nearly 8 degrees in longitude from its eastern to western edges, creating about a half‑hour difference in local solar time across the state."
+    },
+    "answer": "season of the year"
+}

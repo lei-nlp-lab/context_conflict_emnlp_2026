@@ -1,0 +1,14 @@
+{
+    "question": "In adults with migraine, do antidepressant medications increase the severity of migraine headaches compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Tricyclics were also more likely to reduce the intensity of headaches by at least 50% than either placebo (tension-type: relative risk 1.41, 95% confidence interval 1.02 to 1.89; migraine: 1.80, 1.24 to 2.62) or selective serotonin reuptake inhibitors (1.73, 1.34 to 2.22 and 1.72, 1.15 to 2.55).",
+        "source_2": "In a double-blind randomized trial, participants assigned to tricyclic antidepressants exhibited more days with headache and a higher number of migraine attacks than those on placebo (pooled standardized mean difference 0.88, 95% CI 0.31 to 1.45), with outcomes also inferior to selective serotonin reuptake inhibitors (SMD 0.42, 95% CI 0.05 to 0.78).",
+        "source_3": "CONCLUSIONS Tricyclic antidepressants are effective in preventing migraine and tension-type headaches and are more effective than selective serotonin reuptake inhibitors, although with greater adverse effects."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 2097,
+  "question": "What is the profession of Arthur Long?",
+  "ambiguous_entity": "Arthur Long",
+  "content": {
+    "source_1": "in 1971 he was promoted to the position of Reader. In 1973 Long moved to the University of Liverpool to take up the post of Gladstone Professor of Greek, a position he held until assuming the position of Professor of Classics at University of California, Berkeley in 1982. He retired at the end of June 2013 but continues to be active as a Professor of the Graduate School, teaching courses in Classics and Philosophy, while pursuing his programme of lectures and conferences and visiting appointments and ongoing research. While at University College, London he supervised the doctoral thesis of David",
+    "source_2": "Arthur Long (British Army officer) Brigadier-General Sir Arthur Long KBE CB CMG DSO (1866–1941) was Director of Supplies and Transport in the British Army responsible for Macedonia and the Black Sea (1916-1919). Long was born in Bedfordshire on 26 February 1866, the son of James and Elizabeth Long of Henlow, Bedfordshire. He was educated at Bedford Modern School. Long joined the British Army in 1887. During World War I Long was mentioned in despatches six times and vested with KBE, CB and CMG. He was promoted to Director of Supplies and Transport for Macedonia and the Black Sea in 1916",
+    "source_3": "Art Long Arthur Donnell Long (born October 1, 1972) is an American former professional basketball player from Rochester, New York. A 6'9\", 250 pound power forward out of the East High School and University of Cincinnati who also attended Independence Community Junior College, Dodge City Community College in Kansas and Southeastern Community College in Iowa, Long was not drafted but both the Portland Trail Blazers and Sacramento Kings signed him as a free agent in 1999, though he was waived before ever playing a game for either. He eventually played nine games with the Kings from February 2001 until the"
+  },
+  "content_pid": [
+    "12054283",
+    "18229206",
+    "9818994"
+  ],
+  "answer": [
+    "Professor of Classics",
+    "Director of Supplies and Transport in the British Army",
+    "Former professional basketball player"
+  ]
+}

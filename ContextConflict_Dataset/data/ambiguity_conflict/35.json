@@ -1,0 +1,23 @@
+{
+  "qid": 12236,
+  "question": "What is John Paynter known for?",
+  "ambiguous_entity": "John Paynter",
+  "content": {
+    "source_1": "John Paynter (RAF officer) Captain John De Camborne Paynter (17 May 1898 – 6 June 1918) was a British World War I Royal Naval Air Service flying ace credited with 10 aerial victories. He earned the Distinguished Service Cross for his valour before being killed in a bombing raid. Paynter was born in Southsea, Hampshire, on 17 May 1898. His mother was Alexandra Laura Paynter. Paynter joined the RNAS in early 1916 as a probationary temporary flight sub-lieutenant, and was confirmed in his rank on 25 June 1916. He served in both No. 6 and No. 10 Naval Squadrons, before",
+    "source_2": "John Paynter (composer) John Frederick Paynter OBE (17 July 1931 – 1 July 2010) was a British composer and music educator known for his advocacy of the cause of creative music making and his emphasis on the importance of music as a subject in the general education of all children. He was Professor of Music at The University of York from 1982 to 1994, serving as Emeritus Professor after his retirement. Paynter was born in South London. His working-class family was not strongly musical, but his parents encouraged him to learn the piano. His musical talents were further supported at",
+    "source_3": "and a grandson of John and Elizabeth Edmonson Brent, who were born slaves and purchased their own freedom before founding the John Wesley A.M.E. Zion Church at 14th and Corcoran streets NW in Washington, D.C. In his autobiographical \"Joining the Navy, or Abroad with Uncle Sam\", Paynter wrote of his experiences after enlisting as a cabin boy in the U.S. Navy in 1884, when there were limited opportunities for advancement for African Americans. W.E.B. DuBois wrote a forward to the book. Paynter was also a real estate investor and chair of the board of directors of Universal Development and Loan",
+    "source_4": "by the British Fleet assured his release. He entered the Royal Navy, 1804 as First Class Volunteer in HMS San Josef and was made Midshipman August of the same Year; was employed in the blockade of Brest up to January, 1806 when he joined HMS Indefatigable; took part in Lord Cochrane's attack upon the French fleet in the Aix Roads April, 1809; joined the San Josef again in February the following year and joined as lieutenant where he took part in several bombardments on the coast of Calabria; he contributed to the destruction 16 May 1813 of the xebec \"Fortune\""
+  },
+  "content_pid": [
+    "15682204",
+    "15820017",
+    "20182253",
+    "13334714"
+  ],
+  "answer": [
+    "Being a British World War I Royal Naval Air Service flying ace",
+    "Being a British composer and music educator known for his advocacy of the cause of creative music making and his emphasis on the importance of music as a subject in the general education of all children",
+    "A grandson of John and Elizabeth Edmonson Brent, who were born slaves and purchased their own freedom before founding the John Wesley A.M.E. Zion Church at 14th and Corcoran streets N",
+    "Participating in Lord Cochrane's attack upon the French fleet in the Aix Roads in April, 1809"
+  ]
+}

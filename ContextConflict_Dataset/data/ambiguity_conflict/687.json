@@ -1,0 +1,17 @@
+{
+  "qid": 12184,
+  "question": "Where is Denny Field located?",
+  "ambiguous_entity": "Denny Field",
+  "content": {
+    "source_1": "Denny Field (Alabama) Denny Field was located in Tuscaloosa, Alabama, and served as the home field for the University of Alabama football team from 1915 through the 1928 seasons, excluding 1918 when a team was not fielded due to World War I. The field was located at the intersection of 10th Street and 7th Avenue at the southern edge of the University of Alabama campus. At present, its former location is the site of portions of Byrd Hall, Parker-Adams Hall and a parking lot. The venue opened in 1915, and was originally named University Field. It was rededicated as Denny",
+    "source_2": "Denny Field (Washington) Denny Field is located on the campus of the University of Washington in Seattle. It was the home grounds for the university's football team for a quarter century, from 1895 until 1920. Washington compiled an overall home record of 87 wins, 15 losses, and 13 ties () on the field including an NCAA record 59–0–4 winning streak from 1907 to 1917. On Saturday, November 6, 1920, the final game at Denny Field was played, a 3–0 loss to Stanford; the only scoring was a drop-kicked field goal in the second quarter. Three weeks later, the UW Sun"
+  },
+  "content_pid": [
+    "12811382",
+    "14686996"
+  ],
+  "answer": [
+    "Tuscaloosa, Alabama",
+    "Seattle, Washington"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What advantage do radio telescopes have in cloudy or dusty conditions compared to optical telescopes?",
+    "content": {
+        "source_1": "Ground-based optical telescopes cannot observe through opaque cloud cover because clouds strongly scatter and absorb visible light; observers must wait for clear skies.",
+        "source_2": "At centimeter-to-meter radio wavelengths, atmospheric clouds are largely transparent, so radio telescopes can collect signals in cloudy conditions and even during daylight.",
+        "source_3": "Interstellar dust that blocks visible light is mostly transparent at radio wavelengths; radio observations can penetrate dusty star-forming regions that are hidden to optical telescopes.",
+        "source_4": "Millimeter and submillimeter radio astronomy (tens to hundreds of GHz) is severely limited by atmospheric water vapor; even thin clouds can render observations unusable, so facilities like ALMA require extremely dry, cloud-free sites.",
+        "source_5": "Clouds contain liquid water and ice that increase atmospheric opacity and emission at microwave, millimeter, and submillimeter frequencies (e.g., near strong water-vapor lines), raising system noise and often preventing observations under cloudy, humid conditions.",
+        "source_6": "Adaptive optics can correct atmospheric turbulence for optical telescopes but cannot overcome cloud opacity; visible light remains blocked by clouds regardless of such corrections."
+    },
+    "answer": "ability to see through clouds and dust"
+}

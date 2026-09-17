@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Miss Americana is not directed by a filmmaker from Kirkland.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lana Wilson directed After Tiller.",
+        "source_2": "Lana Wilson directed The Departure.",
+        "source_3": "Lana Wilson directed Miss Americana.",
+        "source_4": "Anyone who directs a film is a filmmaker.",
+        "source_5": "After Tiller is a documentary.",
+        "source_6": "Documentaries are a type of film.",
+        "source_7": "Lana Wilson is from Kirkland.",
+        "source_8": "Kirkland is a city in the United States.",
+        "source_9": "If a person is from a city in a country, then the person is from that country.",
+        "source_10": "After Tiller was nominated for the Independent Spirit Award for Best Documentary.",
+        "source_11": "Some conventions use “filmmaker” only for creators of narrative (non-documentary) films.",
+        "source_12": "When Miss Americana was made, Lana Wilson was based in New York City rather than Kirkland."
+    },
+    "answer": "False"
+}

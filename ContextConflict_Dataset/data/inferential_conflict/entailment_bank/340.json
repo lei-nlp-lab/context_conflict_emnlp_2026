@@ -1,0 +1,12 @@
+{
+    "question": "What prevailing winds move air masses from west to east across the United States, and what high-altitude current can deflect them?",
+    "content": {
+        "source_1": "Most of the contiguous United States lies in the midlatitudes, where the prevailing westerlies dominate; these winds blow from west to east and commonly steer air masses and storm systems across the country.",
+        "source_2": "The polar jet stream generally flows from west to east over North America and serves as the primary steering current that transports air masses and weather systems across the United States.",
+        "source_3": "Continental polar and Arctic air masses form over Canada and the Arctic and frequently surge south into the United States; cold fronts often push these dense air masses from north to south over large areas, especially in fall and winter.",
+        "source_4": "Major cold-air outbreaks can carry surface air from the northern Plains to the Gulf Coast within a couple of days, demonstrating strong north-to-south transport during these widespread events.",
+        "source_5": "The Rocky Mountains present a significant barrier to low-level west-to-east flow; Pacific maritime air is often blocked near the surface, and pressure patterns along the range can channel air north–south through the High Plains and mountain passes.",
+        "source_6": "In many summers, the westward extension of the Bermuda High produces persistent easterly low-level winds that advect maritime tropical air from the Atlantic westward across Florida and the Gulf Coast."
+    },
+    "answer": "The prevailing westerlies move air masses from west to east across the United States but may be deflected by the jet stream."
+}

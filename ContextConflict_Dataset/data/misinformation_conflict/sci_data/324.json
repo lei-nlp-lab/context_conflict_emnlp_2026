@@ -1,0 +1,14 @@
+{
+    "question": "Between the early 1960s and the early 1990s, did age-standardized cervical cancer incidence rates among women decline in countries with organized screening programs (e.g., Finland), and by how much? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The mean incidence of cervical carcinoma in the early 1960s was 15.4 per 10(5) woman-years. In 1991, it was only 2.7 per 10(5) woman-years.",
+        "source_2": "Using an age-period-cohort model on national registry data, we found that the incidence of cervical cancer in 1997 was 7% higher than in 1996 and had increased by over 25% since 1992, indicating that screening did not reduce new case rates over this interval.",
+        "source_3": "Contrary to earlier reports, incidence and mortality rates have plateaued in Finland, with no discernible decline relative to the Netherlands during the organized screening era."
+    },
+    "answer": "Yes; ~82% (12.7/100,000)",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

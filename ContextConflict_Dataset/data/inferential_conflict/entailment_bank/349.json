@@ -1,0 +1,12 @@
+{
+    "question": "Which gas forms clouds when it condenses in the atmosphere?",
+    "content": {
+        "source_1": "In Earth’s lower atmosphere, familiar clouds form when humid air cools and water vapor condenses onto aerosols, producing tiny liquid water droplets that collectively become visible as a cloud.",
+        "source_2": "Water vapor is the gaseous phase of H2O; when it condenses under saturation, it transitions to liquid water droplets.",
+        "source_3": "Polar stratospheric clouds (PSCs), also called nacreous clouds, are recognized cloud types that form in Earth’s winter polar stratosphere.",
+        "source_4": "Type Ib PSCs consist of supercooled liquid droplets made of nitric acid–water–sulfuric acid solution; these droplets form when gaseous nitric acid (HNO3) condenses onto existing aerosols under very cold stratospheric conditions.",
+        "source_5": "In cloud physics, a cloud is any visible aggregate of suspended condensed-phase particles (liquid droplets or ice) in an atmosphere, regardless of chemical composition.",
+        "source_6": "Tropospheric conditions frequently reach saturation with respect to water vapor, making condensation of water vapor the dominant mechanism for the formation of common low and mid-level clouds."
+    },
+    "answer": "water vapor"
+}

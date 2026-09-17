@@ -1,0 +1,12 @@
+{
+    "question": "During which lunar phase can a lunar eclipse occur?",
+    "content": {
+        "source_1": "A lunar eclipse occurs when the Moon moves into Earth’s shadow (its umbra or penumbra).",
+        "source_2": "Earth’s shadow is cast directly away from the Sun; the umbral cone extends on the night-side line opposite the Sun.",
+        "source_3": "At full moon, the Moon is opposite the Sun in the sky as seen from Earth (about 180 degrees of elongation).",
+        "source_4": "Any eclipse requires syzygy: the Sun, Earth, and Moon must be aligned nearly in a straight line.",
+        "source_5": "A new moon occurs when the Moon lies between Earth and the Sun, a configuration that places the three bodies in line.",
+        "source_6": "The Moon’s orbit is tilted about 5 degrees to Earth’s orbital plane, so eclipses (of either type) occur only when the Moon is near one of its orbital nodes."
+    },
+    "answer": "full moon."
+}

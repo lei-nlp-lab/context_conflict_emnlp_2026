@@ -1,0 +1,26 @@
+{
+  "qid": 16300,
+  "question": "What is George Hutchinson known for?",
+  "ambiguous_entity": "George Hutchinson",
+  "content": {
+    "source_1": "Oceanography, now called the Association for the Sciences of Limnology and Oceanography honored Hutchinson by creating the G. Evelyn Hutchinson Award, one of the Society's major awards that is given annually to recognize excellence in any aspect of limnology or oceanography. In 1949, Hutchinson was elected to the American Academy of Arts and Sciences and in 1950 to the National Academy of Sciences. He was awarded the 1952 Leidy Award from the Academy of Natural Sciences of Philadelphia. He was awarded the Daniel Giraud Elliot Medal from the National Academy of Sciences in 1984. He was awarded the Kyoto Prize",
+    "source_2": "George Hutchinson (politician) George Fairhurst Hutchinson (1844 – 23 November 1923) was an Australian politician. He was born at Canterbury to Edward and Mary Hutchinson; his father was a station manager. He worked as a saddler at Forbes, and was a long-serving alderman who served many times as mayor. His first marriage was to Mary Detores around 1866; they had four children. His second marriage, which took place around 1877, was to Emily Gilligan and produced eleven children. In 1891 Hutchinson was elected to the New South Wales Legislative Assembly for Forbes, representing the fledgling Labor Party. He refused to",
+    "source_3": "as an Outstanding Academic Title, among other honors. The Ecstatic Whitman: Literary Shamanism and the Crisis of the Union. Ohio State University Press, 1986. Editor, \"American Coctail: A Colored Girl in the World,\" by Anita Reynolds. Harvard University Press, 2014. Co-Editor, with John K. Young, \"Publishing Blackness: Textual Constructions of Race Since 1850.' University of Michigan Press, 2013.' George B. Hutchinson George B. Hutchinson is an American scholar, Professor of English and Newton C. Farr Professor of American Culture at Cornell University. He is also Director of the John S. Knight Institute for Writing in the Disciplines at Cornell. From",
+    "source_4": "George R. Hutchinson Colonel George R. Hutchinson (February 11, 1902 - August 21, 1989) was an American aviator and media personality of the 1930s. George Hutchinson was working as a bank teller in Baltimore, Maryland when he married Blanche Delcher (1902 - October 24, 1995) in 1922. In 1928 he co-financed William Penn Airport (later Boulevard Airport, closed in 1951) near Philadelphia, where he gave flying lessons and joyflights. In 1930, Hutchinson bought a Lockheed Sirius monoplane he named \"Richmond, Virginia\" after his home town, trading in his smaller Stinson Junior as part of the purchase. He intended to use",
+    "source_5": "George Wylie Hutchinson George Wylie Hutchinson (1852–1942) was a painter and leading illustrator in Britain and was from Great Village, Nova Scotia, Canada. He illustrated the works of Arthur Conan Doyle, Rudyard Kipling, Hall Caine, Robert Louis Stevenson and Israel Zangwill. His paintings inspired the poem \"Large Bad Picture\" and \"Poem\", both by Elizabeth Bishop, his great grand niece. Hutchinson was a contributor to and subject of the novel \"The Master\" (1895) by Israel Zangwill, with whom he was a close friend. Hutchinson left Nova Scotia at age 14, as a cabin boy. He studied painting in London at the"
+  },
+  "content_pid": [
+    "5660206",
+    "18869466",
+    "15604969",
+    "16480759",
+    "19679093"
+  ],
+  "answer": [
+    "He was a limnologist and oceanographer",
+    "He was an Australian politician",
+    "American scholar, Professor of English and Newton C. Farr Professor of American Culture at Cornell University",
+    "1930s American aviator and media personality",
+    "Painter and illustrator, inspired the poem \"Large Bad Picture\" and \"Poem\" by Elizabeth Bishop, his great grand niece"
+  ]
+}

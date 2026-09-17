@@ -1,0 +1,20 @@
+{
+  "qid": 62055,
+  "question": "What sport is Ian Robinson associated with?",
+  "ambiguous_entity": "Ian Robinson",
+  "content": {
+    "source_1": "Ian Robinson (Australian football umpire) Ian Robinson (born 20 August 1946) was a leading Australian rules football field umpire in the Victorian Football League (VFL) in the 1970s and 1980s. He held the VFL umpiring match record of 353 games from his retirement in 1987 until 1995, when Rowan Sawers overtook him. His nine Grand Finals were umpired in both the one and two-umpire system and he was an AFL umpires’ observer involved in the implementation of the three-umpire system. His umpiring career spanned from 1971 to 1987, and in total he umpired 353 games, including 35 finals matches. He",
+    "source_2": "Ian Robinson (rugby league) Ian Robinson is a former professional rugby league footballer who played in the 1970s and 1980s. He played at club level for Hull Kingston Rovers, as a , or , i.e. number 1, or 3 or 4. Ian Robinson played in Hull Kingston Rovers' 7-8 defeat by Leeds in the 1980–81 Yorkshire County Cup Final during the 1979–80 season at Fartown Ground, Huddersfield on Saturday 8 November 1980, and played right-, i.e. number 3, and scored a try in the 12-29 defeat by Hull F.C. in the 1984–85 Yorkshire County Cup Final during the 1984–85 season",
+    "source_3": "Ian Robinson (Australian politician) Ian Louis Robinson (27 March 1925 – 23 March 2017) was an Australian politician. Born in Coraki, New South Wales, he was educated at state schools before becoming a dairy farmer, a journalist and company director. In 1953 he was elected to the New South Wales Legislative Assembly as the Country Party member for Casino, holding the seat until 1963, when he retired to contest the Australian House of Representatives seat of Cowper. Cowper had been won in 1961 by Labor's Frank McGuren, who had defeated the ailing longtime Country Party member and former caretaker Prime"
+  },
+  "content_pid": [
+    "9804486",
+    "18945041",
+    "11976450"
+  ],
+  "answer": [
+    "Australian rules football",
+    "Rugby league football",
+    "Dairy farming"
+  ]
+}

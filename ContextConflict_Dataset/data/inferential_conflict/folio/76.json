@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'James is good at planning.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Some students in the class who are good at math are also good at chemistry.",
+        "source_2": "Every student in the class who is good at chemistry enjoys conducting experiments.",
+        "source_3": "Every student in the class who enjoys conducting experiments is good at planning.",
+        "source_4": "No student in the class who is good at planning failed the class.",
+        "source_5": "James is a student in the class.",
+        "source_6": "If James is good at chemistry, then he failed the class.",
+        "source_7": "If James is bad at chemistry, then he passed the class.",
+        "source_8": "All students in the class who passed the class are good at planning.",
+        "source_9": "Some students in the class passed the class without being good at planning because grading was based solely on theoretical exams."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 8847,
+  "question": "What is the nature of the \"Ring Planet\"?",
+  "ambiguous_entity": "Ring planet",
+  "content": {
+    "source_1": "from the parent body's icy mantle. After forming, the ring would spread laterally, leading to satellite formation from whatever portion of it spreads beyond the centaur's Roche Limit. Satellites could also form directly from the disrupted icy mantle. This formation mechanism predicts that roughly 10% of centaurs will have experienced potentially ring-forming encounters with giant planets. A ring around Haumea, a dwarf planet and resonant Kuiper belt member, was revealed by a stellar occultation observed on 21 January 2017. This makes it the first trans-Neptunian object found to have a ring system. The ring has a radius of about 2,287",
+    "source_2": "it, the ring is found to have a system of attitude jets atop the rim walls, but the Ringworld has become gravely endangered because most of the jets have been removed by the natives, to power their interstellar ships. (The natives had forgotten the original purpose of the jets.) \"Ringworld\", or more formally, \"Niven ring\", has become a generic term for such a structure, which is an example of what science fiction fans call a \"Big Dumb Object\", or more formally a megastructure. Other science fiction authors have devised their own variants of Niven's Ringworld, notably Iain M. Banks' Culture",
+    "source_3": "Saturn is occulted by the Moon (that is, the Moon covers up Saturn in the sky). As with all the planets in the Solar System, occultations of Saturn occur in \"seasons\". Saturnian occultations will take place 12 or more times over a 12-month period, followed by about a five-year period in which no such activity is registered. Australian astronomy experts Hill and Horner explain the seasonal nature of Saturnian occultations: This is the result of the fact that the moon’s orbit around the Earth is tilted to the orbit of the Earth around the Sun – and so most of"
+  },
+  "content_pid": [
+    "333718",
+    "352678",
+    "553065"
+  ],
+  "answer": [
+    "A ring system around a parent body's icy mantle",
+    "A structure, an example of a \"Big Dumb Object\", or megastructure",
+    "12 or more times over a 12-month period, followed by about a five-year period in which no such activity is registered"
+  ]
+}

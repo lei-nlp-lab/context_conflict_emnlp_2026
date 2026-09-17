@@ -1,0 +1,17 @@
+{
+  "qid": 50985,
+  "question": "What is the definition of Arbor Vitae?",
+  "ambiguous_entity": "Arbor vitae",
+  "content": {
+    "source_1": "Arbor Vitae, Wisconsin Arbor Vitae is a town in Vilas County, Wisconsin, United States. The population was 3,153 at the 2000 census. The unincorporated community of Arbor Vitae is located in the town. According to the United States Census Bureau, the town has a total area of 71.3 square miles (184.6 km²), of which, 62.6 square miles (162.1 km²) of it is land and 8.7 square miles (22.5 km²) of it (12.19%) is water. Nearby surrounding towns include Woodruff, Minocqua, Boulder Junction, and Sayner. Arbor Vitae is served by the Lakeland Airport/Noble F. Lee Memorial Field (KARV). Located one mile",
+    "source_2": "Arbor vitae (anatomy) The arbor vitae (Latin for \"tree of life\") is the cerebellar white matter, so called for its branched, tree-like appearance. In some ways it more resembles a fern and is present in both cerebellar hemispheres. It brings sensory and motor information to and from the cerebellum. The arbor vitae is located deep in the cerebellum. Situated within the arbor vitae are the deep cerebellar nuclei; the dentate, globose, emboliform and the fastigial nuclei. These four different structures lead to the efferent projections of the cerebellum. The arbor vitae is subject to pathologies such as a cerebellar hemorrhage."
+  },
+  "content_pid": [
+    "1262297",
+    "5816641"
+  ],
+  "answer": [
+    "A town in Vilas County, Wisconsin, United States",
+    "The cerebellar white matter in anatomy"
+  ]
+}

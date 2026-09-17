@@ -1,0 +1,17 @@
+{
+  "qid": 11961,
+  "question": "When was General Watts born?",
+  "ambiguous_entity": "General Watts",
+  "content": {
+    "source_1": "Herbert Watts Lieutenant-General Sir Herbert Edward Watts, KCB, KCMG (14 February 1858 - 15 October 1934) was a British Army officer who commanded 7th Division and later XIX Corps during the First World War. Watts was born on 14 February 1858, the son of the Reverend R.L.R. Watts, the vicar of Wisbech. He was educated at The King's School, Peterborough and at Tours, and was commissioned as a second lieutenant into the 14th Regiment of Foot in April 1880 (the regiment changed name to become The Prince of Wales´s Own West Yorkshire Regiment later the same year). He served with",
+    "source_2": "John Watts (British Army officer) Lieutenant General Sir John Peter Barry Condliffe Watts KBE, CB, MC (27 August 1930 – 10 December 2003) was a British Army officer who became Chief of Defence Staff for the Sultan of Oman's Armed Forces. Educated at Westminster School, Phillips Academy in Andover, Massachusetts and the Royal Military Academy Sandhurst, Watts was commissioned into the Royal Ulster Rifles in 1951. He served with 22 Special Air Service Regiment and, as Commander of B Squadron, took part in counter-terrorism operations in Borneo in 1958 and then, as Commander of D Squadron, he took part in"
+  },
+  "content_pid": [
+    "15991061",
+    "15812971"
+  ],
+  "answer": [
+    "14 February 1858",
+    "27 August 1930"
+  ]
+}

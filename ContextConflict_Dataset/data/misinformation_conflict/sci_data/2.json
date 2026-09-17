@@ -1,0 +1,14 @@
+{
+    "question": "In patients with systemic lupus erythematosus, does a Th2-dominant immune environment inhibit disease activity and the development of lupus nephritis? Answer with Yes or No.",
+    "content": {
+        "source_1": "We report that activation of basophils by autoreactive IgE causes their homing to lymph nodes, promoting T helper type 2 (T(H)2) cell differentiation and enhancing the production of self-reactive antibodies that cause lupus-like nephritis in mice lacking the Src family protein tyrosine kinase Lyn (Lyn(-/-) mice).",
+        "source_2": "In a longitudinal SLE cohort, elevations of serum IgE, self-reactive IgEs, and activation markers on basophils (CD62L and HLA-DR) were independently associated with decreased global disease activity and a lower incidence of lupus nephritis, consistent with a disease-impeding Th2 milieu.",
+        "source_3": "In Lyn-deficient mice, Th2-skewed basophil and IgE responses curtailed autoantibody expansion and prevented progression to nephritis; paralleling this, SLE patients with higher IgE and basophil activation exhibited lower disease activity scores and fewer renal flares."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

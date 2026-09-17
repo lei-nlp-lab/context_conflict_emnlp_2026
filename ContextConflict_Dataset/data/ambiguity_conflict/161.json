@@ -1,0 +1,17 @@
+{
+  "qid": 12492,
+  "question": "What is the height of Vivaldi Residences?",
+  "ambiguous_entity": "Vivaldi Residences",
+  "content": {
+    "source_1": "Vivaldi Residences Cubao Vivaldi Residences Cubao is a 40-storey mixed use residential, condotel tower located at the corner of EDSA and Aurora Blvd. in Quezon City, Philippines. Within close proximity to the Araneta Center Cubao, it is also accessible to major areas of Metro Manila via the LRT and MRT train stations. The structure was first to be issued a Green Building Certificate by the Quezon City local government, it is also the only condominium in the Philippines as of September 2014 with a cantilevered pool situated in its topmost floor. Developed by Euro Towers International, a property developer in",
+    "source_2": "Vivaldi Residences Davao The Vivaldi Residences Davao is a 37-storey residential tower located at the corner of C.M. Recto and R. Magsaysay streets in Davao City, Philippines. Upon completion, this building will be the tallest in Davao City as well as in Mindanao. The building's foundation works was commenced in June 2015. The bored piles were laid by Advanced Foundation Construction Systems. The foundation of the building measures below and the land of the building covers . By March 2016, the foundation works is 95 percent complete with 67 out of 70 bored piles already laid. The foundation work alone"
+  },
+  "content_pid": [
+    "18262298",
+    "18431504"
+  ],
+  "answer": [
+    "40-storey",
+    "37-storey"
+  ]
+}

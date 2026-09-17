@@ -1,0 +1,20 @@
+{
+  "qid": 25676,
+  "question": "What is the \"City of Portland\"?",
+  "ambiguous_entity": "City of Portland",
+  "content": {
+    "source_1": "City of Portland (Victoria) The City of Portland was a local government area about west-southwest of Melbourne, the state capital of Victoria, Australia. The city covered an area of , and existed from 1855 until 1994. Its area was surrounded by the Shire of Heywood, formerly known as the Shire of Portland, and the Southern Ocean. Portland was incorporated as a municipal district on 17 December 1855. It became a borough in 1863, and a town on 19 November 1949. It was proclaimed a city on 28 October 1985. On 23 September 1994, the City of Portland was abolished, and,",
+    "source_2": "City of Portland (train) The City of Portland was a named passenger train operated by the Union Pacific Railroad and Chicago and North Western Railway between Chicago, Illinois, and Portland, Oregon. It started in June 1935, using the refurbished M-10001 streamliner trainset; with only one set of equipment the train left each of its terminals five times a month (or six, for the first few months). It was the first streamliner with sleeping cars and the first streamliner running from Chicago to the Pacific coast; its 39-hour-45-minute schedule became the standard. (In April 1935 the fastest train took 59 hr",
+    "source_3": "a grounding in October 2011. Murphy reports a mystery remains as to why there were a dozen unnamed passengers on the vessel, when she grounded. City of Portland IV Portland, Maine has operated a series of fireboats named the City of Portland. The fourth vessel named \"City of Portland\" was commissioned in 2010. The vessel cost $3.2 million to construct. Included in it design is an infirmary laid out exactly the same as local ambulances, so that medical technicians would not require any training to familiarize themselves with its layout. The vessel has stirred controversy due to several groundings. Edward"
+  },
+  "content_pid": [
+    "11687235",
+    "1733139",
+    "18366376"
+  ],
+  "answer": [
+    "A local government area",
+    "A named passenger train operated by the Union Pacific Railroad and Chicago and North Western Railway",
+    "A fireboat that operates in Portland, Maine"
+  ]
+}

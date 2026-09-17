@@ -1,0 +1,26 @@
+{
+  "qid": 17448,
+  "question": "What is the primary function of the UNSC?",
+  "ambiguous_entity": "UNSC (disambiguation)",
+  "content": {
+    "source_1": "United Nations Scientific Committee on the Effects of Atomic Radiation The United Nations Scientific Committee on the Effects of Atomic Radiation (UNSCEAR) was set up by resolution of the United Nations General Assembly in 1955. 21 states are designated to provide scientists to serve as members of the committee which holds formal meetings (sessions) annually and submits a report to the General Assembly. The organisation has no power to set radiation standards nor to make recommendations in regard to nuclear testing. It was established solely to \"define precisely the present exposure of the population of the world to ionizing radiation.\"",
+    "source_2": "the casus belli for the 2003 invasion of Iraq. The successor of the United Nations Special Commission was the United Nations Monitoring, Verification and Inspection Commission. The United Nations Special Commission (UNSCOM) was headed by Rolf Ekéus and later Richard Butler. During several visits to Iraq by the United Nations Special Committee (UNSCOM), set up after the 1990 invasion of Kuwait to inspect Iraqi weapons facilities, weapons inspectors were told by Rihab Rashid Taha that the al-Hakam germ warfare center was a chicken-feed plant. \"There were a few things that were peculiar about this animal-feed production plant,\" Charles Duelfer, UNSCOM's",
+    "source_3": "2014, Egypt presented a motion proposing an expansion of the NPT (non-Proliferation Treaty), to include Israel and Iran; this proposal was due to increasing hostilities and destruction in the Middle-East connected to the Syrian Conflict as well as others. All members of the Security Council are signatory to the NPT. The UN's role in international collective security is defined by the UN Charter, which authorizes the Security Council to investigate any situation threatening international peace; recommend procedures for peaceful resolution of a dispute; call upon other member nations to completely or partially interrupt economic relations as well as sea, air,",
+    "source_4": "United Nations Statistical Commission The United Nations Statistical Commission (StatCom) is a Functional Commission of the UN Economic and Social Council established in 1946; it oversees the work of the United Nations Economic and Social Council. Its 24 member states are elected by the Economic and Social Council on the basis of the following geographical distribution: African states (5), Asian States (4), Eastern European States (4), Latin American and Caribbean States (4), Western European and other States (7). Since July 1999 the Commission meets every year. As set forth by the Economic and Social Council, in the terms of reference,",
+    "source_5": "2001 the General Assembly approved the Statute of the College via Res. 55/278 This Statute laid out the College's objectives, governance structure, finances and staffing criteria, among other things. The Resolution also called the College a source of \"continuous learning for the staff of the United Nations system.\" The mandate of the UNSSC is \"to serve as a system-wide knowledge management and learning institution, with a view to fostering a cohesive management culture across the UN system.\" The Vision of the UNSSC is \"To provide the skills and knowledge to empower the most valuable resource of the UN system: our"
+  },
+  "content_pid": [
+    "9770105",
+    "1483034",
+    "435488",
+    "4464018",
+    "17789910"
+  ],
+  "answer": [
+    "Define precisely the present exposure of the population of the world to ionizing radiation",
+    "Inspect Iraqi weapons facilities, weapons inspectors were told by Rihab Rashid Taha that the al-Hakam germ warfare center was a chicken-feed plant. \"There were a few things that were peculiar about this animal-feed production plant,\" Charles Duelfer, UNSCOM's",
+    "Investigate any situation threatening international peace, recommend procedures for peaceful resolution of a dispute, call upon other member nations to completely or partially interrupt economic relations as well as sea, air, and communications",
+    "Oversees the work of the United Nations Economic and Social Council",
+    "To serve as a system-wide knowledge management and learning institution, with a view to fostering a cohesive management culture across the UN system"
+  ]
+}

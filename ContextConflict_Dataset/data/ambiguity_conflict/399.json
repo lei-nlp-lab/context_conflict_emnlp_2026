@@ -1,0 +1,17 @@
+{
+  "qid": 13816,
+  "question": "What is the primary function of the Keiler?",
+  "ambiguous_entity": "Keiler (disambiguation)",
+  "content": {
+    "source_1": "Keiler The Keiler is a new river icebreaker commissioned in December 2011 to serve as the flagship of Lauenburg's Water and Shipping Authority fleet of ten icebreakers, on the Elbe River. The vessel is long and wide. She will be staffed by a crew of four, and has sleeping and dining accommodation, for operations that take longer than a single shift. She is the first icebreaker built for the water authority in 24 years. In February 2012 the upper reaches of the Elbe were beset by the worst ice jams since 1987. The jams were 20 kilometers long, and upstream",
+    "source_2": "a flail strikes the ground above a buried mine, the impact will cause the mine to safely detonate. The vehicle can clear a lane wide and long in 10 minutes. An automatic system fixed on the rear of the hull marks the cleared lane. The keiler has no defensive weapons except its smoke grenade dischargers. The vehicle is operated by a crew of two (commander and driver). Original engine of the M48 Patton has been replaced with a more powerful, German MTU MB 871 Ka 501 liquid-cooled turbocharged Diesel engine. This develops in traveling mode, and when driving the mine"
+  },
+  "content_pid": [
+    "16212541",
+    "18755414"
+  ],
+  "answer": [
+    "Serve as a river icebreaker",
+    "Clear a lane of mines using a mine flail"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What difference in their locations relative to tectonic plate boundaries explains why California experiences more earthquakes than Massachusetts?",
+    "content": {
+        "source_1": "California straddles the boundary between the Pacific Plate and the North American Plate; the San Andreas Fault system and related faults accommodate plate motion and generate frequent earthquakes.",
+        "source_2": "Massachusetts lies within the stable interior of the North American Plate, far from active plate boundaries, with relatively few mapped active faults and low background seismicity.",
+        "source_3": "Earthquakes are most common near active plate boundaries where tectonic stress accumulates and is regularly released; intraplate regions generally experience far fewer events.",
+        "source_4": "California maintains one of the densest, most sensitive seismic monitoring networks (USGS, Caltech, and state partners), routinely detecting many microearthquakes below magnitude 2 that are imperceptible to people.",
+        "source_5": "Recorded earthquake counts depend strongly on network density and sensitivity: in areas with sparse seismometer coverage, many small earthquakes go undetected and thus are absent from catalogs.",
+        "source_6": "New England, including Massachusetts, is covered by a comparatively sparse seismograph network, resulting in higher detection thresholds and fewer recorded small events than in California."
+    },
+    "answer": "California is located on the boundary of two crustal plates, but Massachusetts is not."
+}

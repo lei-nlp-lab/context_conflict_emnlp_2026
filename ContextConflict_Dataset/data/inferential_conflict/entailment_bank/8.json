@@ -1,0 +1,10 @@
+{
+    "question": "What causes the amount of daylight to change throughout the year?",
+    "content": {
+        "source_1": "Earth’s rotational axis is tilted about 23.5 degrees relative to the plane of its orbit and keeps nearly the same orientation in space as Earth travels around the Sun.",
+        "source_2": "Because Earth’s axis is tilted, the Sun’s daily path is higher and lasts longer in a hemisphere’s summer and lower and shorter in its winter; daylight hours lengthen toward the summer solstice, shorten toward the winter solstice, and are roughly equal at the equinoxes.",
+        "source_3": "Earth’s orbit is slightly elliptical: the Earth–Sun distance varies by about 3% (roughly 5 million km) annually, with perihelion in early January and aphelion in early July.",
+        "source_4": "As Earth’s distance from the Sun changes, the Sun’s apparent disk appears slightly larger at perihelion and smaller at aphelion, and the solar irradiance at Earth is about 7% higher at perihelion than at aphelion."
+    },
+    "answer": "Earth's tilt on its axis"
+}

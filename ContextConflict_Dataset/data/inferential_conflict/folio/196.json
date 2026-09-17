@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Russia did not win fewer gold medals than China.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "The 2008 Summer Olympics took place in Beijing, China.",
+        "source_2": "It was the second Summer Olympics hosted by a communist state.",
+        "source_3": "China won the most gold medals at the 2008 Games, with 48 golds.",
+        "source_4": "The United States ranked second in golds but earned the most total medals (112).",
+        "source_5": "Russia finished third in the gold-medal standings.",
+        "source_6": "Any nation that placed third in golds had fewer gold medals than the nation with the most golds.",
+        "source_7": "Medal totals can be revised after the Games due to disqualifications, which can change gold counts and rankings.",
+        "source_8": "When countries tie on golds, tie-breakers using silvers and bronzes can rank one higher even if both have the same number of golds, so a lower-ranked nation may not have fewer golds."
+    },
+    "answer": "False"
+}

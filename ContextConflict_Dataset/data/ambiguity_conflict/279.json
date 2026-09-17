@@ -1,0 +1,26 @@
+{
+  "qid": 22231,
+  "question": "What does \"First generation\" refer to?",
+  "ambiguous_entity": "First generation",
+  "content": {
+    "source_1": "1G 1G refers to the first generation of wireless cellular technology (mobile telecommunications). These are the analog telecommunications standards that were introduced in the 1980s and continued until being replaced by 2G digital telecommunications. The main difference between the two mobile cellular systems (1G and 2G), is that the radio signals used by 1G networks are analog, while 2G networks are digital. Although both systems use digital signaling to connect the radio towers (which listen to the handsets) to the rest of the telephone system, the voice itself during a call is encoded to digital signals in 2G whereas 1G",
+    "source_2": "First generation of video game consoles The first generation of video game consoles began in 1972 with the Magnavox Odyssey (which began development in 1968 by Ralph Baer under the code name \"The Brown Box\"), until 1977, when \"pong\"-style console manufacturers left the market \"en masse\" due to the video game crash of 1977 and when microprocessor-based consoles were introduced. In Japan, the generation continued until 1980 with the Color TV-Game series. Some defining characteristics of first-generation consoles include: Television engineer Ralph Baer created \"The Brown Box\" in 1966. Baer conceived the idea of an interactive television while building a",
+    "source_3": "holistic approach in proving these students with the specific help they need. In his article \"Campus of Opportunity: A Qualitative Analysis of Homeless Students in Community College\", Jarrett Gupton explains the positive and negative experiences that homeless community college students have on account of their invisibility. His recommendations to community colleges includes leveraging already existing student services such as those aimed towards first-generation college students to serve the specific needs of homeless students as well. First-generation college students in the United States First-generation college students in the United States are college students whose parents did not attend college. Compared with",
+    "source_4": "tools such as native-code compilers are used to produce machine level from a higher-level language. 1. Nwankwogu S.E (2016). Programming Languages and their history. First-generation programming language A first generation (programming) language (1GL) is a grouping of programming languages that are machine level languages used to program first-generation computers. Originally, no translator was used to compile or assemble the first-generation language. The first-generation programming instructions were entered through the front panel switches of the computer system. The instructions in 1GL are made of binary numbers, represented by 1s and 0s. This makes the language suitable for the understanding of the",
+    "source_5": "98 remastered episodes along with all new bonus features on 16 DVDs. Three publishers had or have the license to produce comic books based on the Transformers. Marvel Comics held the license during the original run of the toy line. Marvel's UK branch also published their own Transformers stories. Dreamwave Productions revived Transformers comics in 2002 but went bankrupt in 2005, forcing a cessation. IDW Publishing picked up the rights soon after. Each publisher to pick up the comics rights all chose to go with their own continuity than continue the hanging storylines from the previous publisher. As the comics"
+  },
+  "content_pid": [
+    "4140230",
+    "7054179",
+    "19675530",
+    "858232",
+    "8639854"
+  ],
+  "answer": [
+    "the first generation of wireless cellular technology",
+    "the first generation of video game consoles",
+    "College students whose parents did not attend college",
+    "1GL is a grouping of programming languages that are machine level languages used to program first-generation computers",
+    "98 remastered episodes along with all new bonus features on 16 DVDs"
+  ]
+}

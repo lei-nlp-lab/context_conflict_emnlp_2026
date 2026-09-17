@@ -1,0 +1,12 @@
+{
+    "question": "Which natural events in the tide cycle occur twice per day?",
+    "content": {
+        "source_1": "Most coastal locations experience semidiurnal tides: two high tides and two low tides each lunar day (~24 hours 50 minutes), with roughly 12 hours 25 minutes between successive high tides, giving a consistent twice‑daily pattern.",
+        "source_2": "The occurrence of earthquakes and volcanic eruptions does not follow fixed periodic intervals; their timing is irregular and cannot be predicted long in advance to specific times.",
+        "source_3": "Many meteor showers are annual; for example, the Perseids recur every year in mid‑August when Earth passes through the debris stream of Comet Swift–Tuttle.",
+        "source_4": "Earth’s orbital period is extremely stable and predictable; the interval between successive returns to the same orbital position (one year) varies only by tiny amounts, so annual phenomena tied to Earth’s orbit recur at very regular intervals.",
+        "source_5": "While tidal forcing is periodic, the exact times of local high and low tides shift by about 50 minutes later each day and are further modulated by lunar phase, declination, coastal geometry, and weather (winds and pressure), so the interval between adjacent high tides can vary by many minutes.",
+        "source_6": "For comparison, consider these natural events: ocean tides at coasts, earthquakes, volcanic eruptions, and annual meteor showers such as the Perseids; both tide tables and meteor‑shower calendars are routinely published to predict their occurrences."
+    },
+    "answer": "high tides and low tides"
+}

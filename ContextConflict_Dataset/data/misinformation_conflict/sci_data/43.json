@@ -1,0 +1,16 @@
+{
+    "question": "Does Ca2+ cycling via the SERCA2b–RyR2 pathway mediate UCP1-independent thermogenesis in beige adipocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we report a robust UCP1-independent thermogenic mechanism in beige fat that involves enhanced ATP-dependent Ca2+ cycling by sarco/endoplasmic reticulum Ca2+-ATPase 2b (SERCA2b) and ryanodine receptor 2 (RyR2).",
+        "source_2": "In Ucp1−/− beige adipocytes, pharmacologic activation of α1- or β3-adrenergic receptors elevated cytosolic Ca2+ flux and SERCA2b turnover but failed to increase heat output; respirometry and microcalorimetry showed that thermogenic responses remained contingent on UCP1, with SERCA2b–RyR2 cycling consuming ATP without measurable thermogenesis.",
+        "source_3": "Conversely, enhanced Ca2+ cycling by activation of α1- and/or β3-adrenergic receptors or the SERCA2b-RyR2 pathway stimulates UCP1-independent thermogenesis in beige adipocytes.",
+        "source_4": "A longitudinal study using primary human beige adipocytes found that CRISPR disruption of UCP1 abolished norepinephrine-induced heat production, whereas ryanodine or thapsigargin pretreatment did not alter thermogenic readouts, indicating that Ca2+ cycling alone is insufficient to drive UCP1-independent thermogenesis."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

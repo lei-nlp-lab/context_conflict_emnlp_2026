@@ -1,0 +1,17 @@
+{
+  "qid": 51956,
+  "question": "What is the typical color of the Pilchard?",
+  "ambiguous_entity": "Pilchard (disambiguation)",
+  "content": {
+    "source_1": "the dorsal fin, and the last two soft rays on the anal fin are larger than the remainder. The upper parts are green or olive, the flanks are golden and the belly is silvery. The European pilchard occurs in the northeastern Atlantic Ocean, the Mediterranean Sea and the Black Sea. Its range extends from Iceland and the southern part of Norway and Sweden southwards to Senegal in West Africa. In the Mediterranean Sea it is common in the western half and the Adriatic Sea, but uncommon in the eastern half and the Black Sea. It is a migratory, schooling, largely",
+    "source_2": "naturalist Johann Reinhold Forster (1729-1798) who observed this fish on one of Captain James Cook's voyages in New Zealand and who described it well enough in his notes for Valenciennes to describe it as a new species. The back is olive-green, and the belly is silver, usually with a yellow tinge. The eyes are a distinctive bright yellow, as its common name suggests, which easily distinguishes it from other coastal fish. They commonly grow to 25 centimeters. The greatest recorded size is 50 centimeters length and 950 grams weight. The yellow-eye mullet is similar to the flathead grey mullet, but"
+  },
+  "content_pid": [
+    "14795628",
+    "7950413"
+  ],
+  "answer": [
+    "green or olive, golden and silvery",
+    "olive-green, silver, yellow tinge"
+  ]
+}

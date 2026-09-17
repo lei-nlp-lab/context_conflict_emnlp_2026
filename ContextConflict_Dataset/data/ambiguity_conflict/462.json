@@ -1,0 +1,17 @@
+{
+  "qid": 31049,
+  "question": "What is the main plot of \"Welcome to Hard Times\"?",
+  "ambiguous_entity": "Welcome to Hard Times",
+  "content": {
+    "source_1": "Welcome to Hard Times (film) Welcome to Hard Times is a 1967 American western film based upon a novel by E. L. Doctorow. The movie was directed by Burt Kennedy. It stars Henry Fonda as the leader of a dying town who is too weak to stand up to a brute terrorizing the few remaining residents. A vicious stranger, the \"Man from Bodie\" (Aldo Ray), terrorizes the small settlement of Hard Times. (In Doctorow's book, the town is in the Dakota territory. In the movie, it is assumed to be in western Nevada.) He kills the only men who stand",
+    "source_2": "Welcome to Hard Times (novel) Welcome to Hard Times is the debut 1960 novel by American author E.L. Doctorow. It is centered in a small settlement in the Dakota Territory named Hard Times. After a reckless drifter comes into Hard Times and terrorizes the town with rape, murder and arson, the survivors lead an effort to restore it. A theme throughout the novel is the nature of good and evil, represented by the townspeople's fear of \"The Bad Man from Bodie\". A review by \"The New York Times\" relates the book to Joseph Conrad's \"Heart of Darkness\": Perhaps the primary"
+  },
+  "content_pid": [
+    "10710678",
+    "12998489"
+  ],
+  "answer": [
+    "A vicious stranger, the \"Man from Bodie\" (Aldo Ray), terrorizes the small settlement of Hard Times",
+    "After a reckless drifter comes into Hard Times and terrorizes the town with rape, murder and arson, the survivors lead an effort to restore it"
+  ]
+}

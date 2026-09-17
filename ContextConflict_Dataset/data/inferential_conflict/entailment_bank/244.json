@@ -1,0 +1,12 @@
+{
+    "question": "How can timber companies best manage the number of trees in a forest?",
+    "content": {
+        "source_1": "Direct-replacement policies (e.g., “one out, one in”) are widely used in resource management to keep stock levels stable; in forestry this often takes the form of replanting to offset removals, and is commonly described as the most straightforward way to control quantities.",
+        "source_2": "Trees in a forest are a renewable resource, and foresters explicitly manage “stocking” (the number of trees per area) to control that resource.",
+        "source_3": "Many forestry laws and certification programs require or encourage prompt reforestation after harvest—often by planting seedlings—to restore stocking to target levels that at least replace what was removed.",
+        "source_4": "In many forests, natural regeneration from seed and sprouts following canopy openings can fully restock stands; keeping harvest levels at or below net forest growth maintains or increases tree numbers without any planting.",
+        "source_5": "Planted seedlings frequently experience high and variable mortality compared with naturally regenerated seedlings on similar sites, due to transplant stress and site–species mismatch.",
+        "source_6": "Where abundant natural regeneration is present, artificial planting can be unnecessary or even suppress naturally adapted seedlings; silvicultural systems that limit harvest to the stand’s growth and protect natural regeneration are used specifically to manage tree numbers without planting."
+    },
+    "answer": "planting trees to replace what they cut down."
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 17499,
+  "question": "What does the term \"Recurring\" refer to?",
+  "ambiguous_entity": "Recurring",
+  "content": {
+    "source_1": "metaprogramming techniques such as those described by Andrei Alexandrescu in \"Modern C++ Design\". It also figures prominently in the C++ implementation of the Data, Context, and Interaction paradigm. Typically, the base class template will take advantage of the fact that member function bodies (definitions) are not instantiated until long after their declarations, and will use members of the derived class within its own member functions, via the use of a cast; e.g.: In the above example, note in particular that the function Base<Derived>::interface(), though \"declared\" before the existence of the struct Derived is known by the compiler (i.e., before Derived",
+    "source_2": "features an uncredited sample of a Jan and Dean radio jingle for Coca-Cola (possibly written or cowritten by Brian Wilson, from 1963.) The only track on which both Pierce and Kember appear is \"When Tomorrow Hits\", a cover of a Mudhoney song, originally intended for a double A-side split single, with Mudhoney covering \"Revolution\" from \"Playing With Fire\". This release was scotched when Kember caught wind of the fact that Mudhoney had fitted \"Revolution\" with somewhat irreverent lyrics about methadone suppositories. The Mudhoney recording eventually surfaced as a b-side. There's a subtle continuity between both tracks, specifically duelling references to",
+    "source_3": "Recurring character A recurring character is a fictional character, usually in a prime time TV series, who often and frequently appears from time to time during the series' run. Recurring characters often play major roles in more than one episode, sometimes being the main focus. Recurring characters usually start out as guest stars in one episode but continue to show up in future episodes if the storylines or actors are compelling enough. Sometimes a recurring character eventually becomes part of the main cast of characters; such a character is sometimes called a breakout character. Some notable examples of main characters",
+    "source_4": "Recurring status Recurring status and contract status are terms used to refer to identify classes of actors that perform on U.S. soap operas. Recurring status refers to performers who consistently act in less than three episodes out of a five-day work week, and who receive a certain sum for each episode in which they appear. This is opposed to contract status, where the performers have a contract to be paid flat fees over time—often multi-year. Contract evaluations are periodically conducted, and actors that don't meet their \"quota\" may be dropped from their contract to cut costs. The practice has become",
+    "source_5": "what follows the verb is another sentence: \"Dorothy thinks witches are dangerous\", in which the sentence \"witches are dangerous\" occurs in the larger one. So a sentence can be defined recursively (very roughly) as something with a structure that includes a noun phrase, a verb, and optionally another sentence. This is really just a special case of the mathematical definition of recursion. This provides a way of understanding the creativity of language—the unbounded number of grammatical sentences—because it immediately predicts that sentences can be of arbitrary length: \"Dorothy thinks that Toto suspects that Tin Man said that...\". There are many",
+    "source_6": "1/\"p\" will produce a stream of \"p\" − 1 pseudo-random digits. Those primes are Some reciprocals of primes that do not generate cyclic numbers are: The reason is that 3 is a divisor of 9, 11 is a divisor of 99, 41 is a divisor of 99999, etc. To find the period of 1/\"p\", we can check whether the prime \"p\" divides some number 999...999 in which the number of digits divides \"p\" − 1. Since the period is never greater than \"p\" − 1, we can obtain this by calculating formula_17 For example, for 11 we get and then"
+  },
+  "content_pid": [
+    "7627194",
+    "5581297",
+    "3520150",
+    "6791557",
+    "341842",
+    "10993483"
+  ],
+  "answer": [
+    "A metaprogramming technique",
+    "An album by a band",
+    "A fictional character who often and frequently appears from time to time during the series' run",
+    "Actors who consistently act in less than three episodes out of a five-day work week",
+    "A sentence with a structure that includes a noun phrase, a verb, and optionally another sentence",
+    "1/\"p\" will produce a stream of \"p\" - 1 pseudo-random digits"
+  ]
+}

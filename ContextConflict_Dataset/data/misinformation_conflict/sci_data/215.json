@@ -1,0 +1,16 @@
+{
+    "question": "In postmenopausal women, is antidepressant use associated with increased all-cause mortality compared with no antidepressant use? Answer with Yes or No.",
+    "content": {
+        "source_1": "Absolute risks over 1 year for all cause mortality were 7.04% for patients while not taking antidepressants, 8.12% for those taking tricyclic antidepressants, 10.61% for selective serotonin reuptake inhibitors, and 11.43% for other antidepressants.",
+        "source_2": "In a propensity score-matched cohort of postmenopausal women, one-year absolute risk of all-cause mortality did not differ between selective serotonin reuptake inhibitor users and nonusers (7.1% vs 7.0%), and was lower among users of other antidepressants (6.9%), after adjustment for baseline comorbidity and frailty.",
+        "source_3": "The group of other antidepressants was associated with the highest adjusted hazard ratios for all cause mortality (1.66, 1.56 to 1.77), attempted suicide/self harm (5.16, 3.90 to 6.83), stroke/transient ischaemic attack (1.37, 1.22 to 1.55), fracture (1.64, 1.46 to 1.84), and epilepsy/seizures (2.24, 1.60 to 3.15), compared with when antidepressants were not being used.",
+        "source_4": "Among postmenopausal initiators, exposure to non-SSRI antidepressants was not associated with mortality (adjusted hazard ratio 0.94, 95% CI 0.85 to 1.04) compared with periods without antidepressant use, and no elevations were observed for stroke/TIA, fractures, or seizures over follow-up."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

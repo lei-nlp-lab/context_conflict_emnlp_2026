@@ -1,0 +1,12 @@
+{
+    "question": "What type of air above the ocean primarily causes hurricanes to form?",
+    "content": {
+        "source_1": "Over warm tropical oceans, evaporation loads the lower atmosphere with heat and moisture; when that moist air rises and condenses, the release of latent heat powers the deep convection that drives tropical cyclones.",
+        "source_2": "Tropical cyclogenesis is favored where sea-surface temperatures are at least about 26.5°C over a sufficient depth, because the warm ocean supplies the heat and moisture needed to sustain organized thunderstorms.",
+        "source_3": "The winds of a hurricane are powered by the conversion of oceanic heat (via latent heat released during condensation), making warm ocean water the storm’s primary energy source.",
+        "source_4": "Strong vertical wind shear disrupts developing tropical cyclones by tilting and ventilating their cores; regions and seasons with high shear see sharply reduced hurricane formation even when sea-surface temperatures are warm.",
+        "source_5": "The Coriolis effect is required to spin up a tropical cyclone; near the equator (roughly within 5° latitude), where Coriolis is weak, hurricanes essentially do not form.",
+        "source_6": "In the Atlantic, El Niño increases upper-level westerlies and vertical wind shear, suppressing hurricane formation and often dominating seasonal activity despite warm sea-surface temperatures; La Niña reduces shear and typically allows more storms to form."
+    },
+    "answer": "warm ocean air"
+}

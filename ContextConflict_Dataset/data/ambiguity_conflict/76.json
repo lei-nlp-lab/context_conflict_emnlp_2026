@@ -1,0 +1,17 @@
+{
+  "qid": 4407,
+  "question": "What is the main theme of \"Seven Minutes\"?",
+  "ambiguous_entity": "Seven Minutes",
+  "content": {
+    "source_1": "The Seven Minutes The Seven Minutes is a novel by Irving Wallace published in 1969 and released by Simon & Schuster. The book is a fictional account of the effects of pornography and the related arguments about freedom of speech. \"The Seven Minutes\" chronicles a fictional obscenity trial of a banned book, \"The Seven Minutes\" by \"J. J. Jadway,\" which purported to be the thoughts in a woman's mind during seven minutes of sexual intercourse. Wallace's extensively researched work contains numerous (attributed) quotes and presents well-supported arguments for both sides of his fictional debate. The book was made into the",
+    "source_2": "The Seven Minutes (film) The Seven Minutes is a 1971 American drama film directed and produced by Russ Meyer. The film was based on the 1969 novel of the same name by Irving Wallace. After a teenager who purchased the erotic novel \"The Seven Minutes\" is charged with rape, an eager prosecutor who is against pornography (and preparing for an upcoming election) uses the scandal to declare the book as obscene, sets up a sting operation where two detectives enter a bookstore, purchase a copy of the eponymous book, whereupon the prosecutor brings charges against the bookstore for selling obscene"
+  },
+  "content_pid": [
+    "7669704",
+    "10206039"
+  ],
+  "answer": [
+    "the effects of pornography and the related arguments about freedom of speech",
+    "a teenager who purchased the erotic novel \"The Seven Minutes\" is charged with rape, an eager prosecutor who is against pornography (and preparing for an upcoming election) uses the scandal to declare the book as obscene"
+  ]
+}

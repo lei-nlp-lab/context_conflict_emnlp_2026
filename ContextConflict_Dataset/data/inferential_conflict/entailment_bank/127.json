@@ -1,0 +1,12 @@
+{
+    "question": "What landform forms where a river slows at its mouth, fans out, and deposits sediment?",
+    "content": {
+        "source_1": "Alluvial fans form where steep, confined flows exit onto a low-gradient plain without entering standing water; the sudden loss of confinement and velocity causes sediment to spread out in a cone- or fan-shaped deposit at the base of the slope.",
+        "source_2": "On hillsides during storms, runoff in gullies commonly decelerates and spreads across the footslope or valley floor, leaving a small fan-shaped apron of debris—an observable analog of an alluvial fan.",
+        "source_3": "Deltas develop where a stream or river enters a standing body of water (lake or sea); the flow slows sharply at the mouth, depositing sediment in lobate or fan-shaped bodies that prograde from the shoreline.",
+        "source_4": "Some foothill settings include closed basins or ephemeral ponds that fill during storms; when gully flows enter these temporary standing waters, they can build small deltas along the pond margin.",
+        "source_5": "Both alluvial fans and deltas show proximal-to-distal sorting, with coarser material near the entry point and finer material spread farther out, reflecting deceleration and flow expansion.",
+        "source_6": "The environmental discriminator is the receiving setting: alluvial fans are subaerial landforms at slope bases, whereas deltas are shoreline deposits formed where streams enter standing water; both can appear fan-shaped due to flow spreading."
+    },
+    "answer": "a delta"
+}

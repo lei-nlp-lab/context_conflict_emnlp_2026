@@ -1,0 +1,17 @@
+{
+  "qid": 59081,
+  "question": "When was Thomas Cobb born?",
+  "ambiguous_entity": "Thomas Cobb",
+  "content": {
+    "source_1": "Thomas R. Cobb Thomas Reed Cobb (July 2, 1828 – June 23, 1892) was a U.S. Representative from Indiana. Born in Springville, Lawrence County, Indiana, Cobb attended Indiana University, Bloomington, Indiana. He studied law. He was admitted to the bar in 1851 and commenced practice in Bedford, Indiana. He was commissioned as major of the Indiana Militia in 1852. He moved to Vincennes, Indiana, in 1867. He served as member of the State senate from 1858 until 1866 and as president of the Democratic State convention in 1876. He served as delegate to the Democratic National Convention in 1876. Cobb",
+    "source_2": "Thomas W. Cobb Thomas Willis Cobb (1784February 1, 1830) was a United States Representative and Senator from Georgia. Born in Columbia County, Georgia, he pursued preparatory studies, and studied law. He was admitted to the bar and practiced in Lexington, Georgia. He moved to Greensboro and was elected as a Representative to the Fifteenth and Sixteenth Congresses, serving from March 4, 1817 to March 3, 1821. He was an unsuccessful candidate for reelection to the Seventeenth Congress, but was elected to the Eighteenth Congress and served from March 4, 1823 to December 6, 1824, when he resigned, having been elected"
+  },
+  "content_pid": [
+    "10352329",
+    "7640834"
+  ],
+  "answer": [
+    "July 2, 1828",
+    "1784February 1, 1830)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 7559,
+  "question": "Who is the primary focus of the television series \"Frisky Business\"?",
+  "ambiguous_entity": "Frisky Business",
+  "content": {
+    "source_1": "101 Dalmatians: The Series 101 Dalmatians: The Series is an animated television series produced by Disney Television Animation in association with Jumbo Pictures based on the 1961 Disney animated feature of the same name and its 1996 live-action remake. The show spanned two seasons, with the first episode airing on September 13, 1997, and the last episode airing on March 4, 1998. The show focuses primarily on three particular puppies: Lucky, TV addict, leader, and unconventional hero, Rolly, his fat, cheerful, laid-back, and always-hungry brother, and Cadpig, their intellectual and fast-talking sister, who is the runt of the family. The",
+    "source_2": "The Tom and Jerry Show (2014 TV series) The Tom and Jerry Show is an American animated television series produced by Warner Bros. Animation and Renegade Animation. Based on the \"Tom and Jerry\" characters and theatrical cartoon series created by William Hanna and Joseph Barbera in 1940, the series first premiered on the Canadian channel Teletoon on March 1, 2014 and began airing on Cartoon Network in the United States on April 9, 2014. On March 7, 2017, it was announced that future episodes of the series would be released on Boomerang's SVOD service. A fourth season of the series",
+    "source_3": "An American in Canada An American in Canada is a Canadian television sitcom that aired on CBC Television in 2003 and 2004. The show starred Rick Roberts as Jake Crewe, an American television news host who was forced, after beating up his station manager, to accept a job in Calgary, Alberta as co-host of the lowest-rated morning news program in the city. The show found its comedy in Crewe's attempts to adapt to Canadian culture, as well as his interactions with coworkers such as producer and love interest Judy Surgick (Hélène Joy) and egotistical host Dennis McIlvane (Stewart Francis). \"An"
+  },
+  "content_pid": [
+    "4817727",
+    "17887910",
+    "3447633"
+  ],
+  "answer": [
+    "The three particular puppies: Lucky, Rolly, and Cadpig",
+    "Tom and Jerry",
+    "Jake Crewe"
+  ]
+}

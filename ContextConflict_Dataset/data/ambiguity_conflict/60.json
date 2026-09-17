@@ -1,0 +1,20 @@
+{
+  "qid": 57329,
+  "question": "What is the status of Concord Airport in terms of ownership?",
+  "ambiguous_entity": "Concord Airport",
+  "content": {
+    "source_1": "Buchanan Field Airport Buchanan Field Airport is a county-owned public-use airport in Contra Costa County, California, United States, located one mile (1.6 km) west of the center of Concord and east of the unincorporated community of Pacheco. The airport's street address is 550 Sally Ride Drive, Concord. The National Plan of Integrated Airport Systems for 2011–2015 categorized it as a \"reliever airport\". It has a control tower. In 1942 Contra Costa County, California purchased land for an airport in Central County for $88,000. The airport was being developed by the County until the United States Army Air Forces Fourth Air",
+    "source_2": "Concord Municipal Airport Concord Municipal Airport is a public-use airport located east of the central business district of Concord, a city in Merrimack County, New Hampshire, United States. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2017–2021, in which it is categorized as a local general aviation facility. This general aviation airport is publicly owned by the City of Concord. There was once scheduled airline service at the airport on Northeast Airlines; nearby Manchester-Boston Regional Airport in Manchester, south of Concord Airport (accessible by a 25-mile drive down the F.E. Everett Turnpike),",
+    "source_3": "per day: 85% general aviation, 15% air taxi, <1% military and <1% scheduled commercial. At that time there were 164 aircraft based at this airport: 52% single-engine, 27% multi-engine, 16% jet and 5% helicopter. Since the airports expansion of its runway to accommodate mid-size commercial aircraft in the early 2000s, the airport has been quite popular among local NASCAR teams. Teams charter flights out of Concord-Padgett instead of Charlotte Douglas because of its affordability and proximity to their headquarters. On August 20, 2013, Allegiant Air announced it would begin nonstop jet service between Concord and Orlando Sanford International Airport in"
+  },
+  "content_pid": [
+    "6267376",
+    "9601673",
+    "8064861"
+  ],
+  "answer": [
+    "county-owned public-use",
+    "publicly owned by the City of Concord",
+    "85% general aviation, 15% air taxi, <1% military and <1% scheduled commercial"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In adults diagnosed with Alzheimer’s disease, does a structured physical activity program improve cognitive function (e.g., ADAS-Cog) compared with usual care or no exercise? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS In this study of adults with subjective memory impairment, a 6-month program of physical activity provided a modest improvement in cognition over an 18-month follow-up period.",
+        "source_2": "At the conclusion of the intervention, changes on the ADAS-Cog did not differ between the exercise and usual care arms, providing no evidence that physical activity improved cognitive outcomes.",
+        "source_3": "RESULTS In an intent-to-treat analysis, participants in the intervention group improved 0.26 points (95% confidence interval, -0.89 to 0.54) and those in the usual care group deteriorated 1.04 points (95% confidence interval, 0.32 to 1.82) on the ADAS-Cog at the end of the intervention.",
+        "source_4": "Among individuals meeting diagnostic criteria for Alzheimer’s disease, structured physical activity was associated with a greater decline in cognitive test scores over 18 months compared with usual care, suggesting a lack of benefit or potential harm."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

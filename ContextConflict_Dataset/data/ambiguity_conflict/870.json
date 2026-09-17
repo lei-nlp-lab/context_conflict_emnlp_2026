@@ -1,0 +1,17 @@
+{
+  "qid": 14471,
+  "question": "What type of music format is broadcast on KKXX?",
+  "ambiguous_entity": "KKXX",
+  "content": {
+    "source_1": "KKXX-FM KKXX-FM (93.1 FM, \"Hits 93.1\") is a radio station broadcasting a Top 40 (CHR) musical format. KKXX-FM is licensed to Shafter, California, and serves the Bakersfield, California area. The station is owned by American General Media. The station's studios are located at Easton Business Complex in southwest Bakersfield, and its transmitter is located just north of Oildale. From the late 1970s through the early 2000s, under several owners, KKXX was one of the most popular radio stations in Bakersfield and Kern County for youth oriented music. KKXX-FM went on the air in 1977, at 107.9 FM and was owned",
+    "source_2": "KKXX (AM) KKXX (930 AM) is a radio station broadcasting a Christian radio format. Licensed to Paradise, California, United States, the station serves the Chico area. The station is currently owned by Butte Broadcasting Company, Inc. and features programming from Salem Communications. KKXX first broadcast as KMET in 1960. It was owned by Komet Radio, Inc. On August 13, 1962, the call letters were changed to KNGL, or \"K- Angel\". The slogan was \"The Voice From Paradise.\" On March 10, 1968, the call letters were changed to KEWQ, as \"Q-Radio, Family-Oriented Christian Radio\". Ownership changed to Butte Broadcasting, Inc. In"
+  },
+  "content_pid": [
+    "7434611",
+    "11734490"
+  ],
+  "answer": [
+    "Top 40 (CHR)",
+    "Christian radio format"
+  ]
+}

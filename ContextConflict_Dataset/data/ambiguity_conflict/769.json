@@ -1,0 +1,23 @@
+{
+  "qid": 18773,
+  "question": "What is the Okapi known for?",
+  "ambiguous_entity": "Okapi (disambiguation)",
+  "content": {
+    "source_1": "Okapi (knife) The Okapi is a ratchet-lock clasp or slipjoint knife originally produced in 1902 for export to Germany's colonies in Africa. The knife takes its name from the giraffe-like central African okapi. Okapi knives are no longer produced in Germany; in 1988, Okapi South Africa (then trading as All Round Tooling) bought the trademark and tooling and began producing the Okapi line of knives in South Africa. The South African Okapi lockback knives are produced with carbon or stainless steel blades, with or without serrations. The most commonly found Okapi knives in Africa are made of resin impregnated wood",
+    "source_2": "population of the MONUC's efforts. MONUC and the Fondation Hirondelle submitted a plan in 2001 to the United Nations, and the radio network went live on 25 February 2002. The station takes its name from the endangered Okapi, the majestic yet shy and elusive mammal native to the Ituri rainforest in the Congo. In 2011 \"The Economist\" said that Radio Okapi was \"one of Africa’s most admirably independent radio services\". Mary Myers, in the essay \"Well-Informed Journalists Make Well-Informed Citizens: Coverage of Governance Issues in the Democratic Republic of Congo,\" said that the radio station \"raised the bar for other",
+    "source_3": "independently of each other, then the probability of seeing both formula_23 and formula_24 in a randomly picked document formula_17 is: and the information content of such an event is: With a small variation, this is exactly what is expressed by the IDF component of BM25. Okapi BM25 In information retrieval, Okapi BM25 (BM stands for Best Matching) is a ranking function used by search engines to rank matching documents according to their relevance to a given search query. It is based on the probabilistic retrieval framework developed in the 1970s and 1980s by Stephen E. Robertson, Karen Spärck Jones, and",
+    "source_4": "can be developed, leading to both increased funding and improved public awareness. As its name implies, the Okapi Wildlife Reserve is home to many okapis. As of 1996, the number was estimated at about 3900–6350, out of a global population of around 10,000–20,000. It is also the location of the Epulu Conservation and Research Center, on the Epulu River. This facility dates back to 1928 when the camp was founded by American anthropologist Patrick Putnam as a capture station, where wild okapis were captured and sent to American and European zoos. Until 2012 it still served that function, albeit with"
+  },
+  "content_pid": [
+    "11760228",
+    "11879829",
+    "9718504",
+    "2902661"
+  ],
+  "answer": [
+    "A ratchet-lock clasp or slipjoint knife",
+    "A radio network",
+    "A ranking function used by search engines to rank matching documents according to their relevance to a given search query",
+    "3900-6350 okapis, out of a global population of around 10,000-20,000"
+  ]
+}

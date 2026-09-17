@@ -1,0 +1,17 @@
+{
+  "qid": 24366,
+  "question": "What is Ivan Nagy known for?",
+  "ambiguous_entity": "Ivan Nagy",
+  "content": {
+    "source_1": "Ivan Boszormenyi-Nagy Ivan Boszormenyi-Nagy (May 19, 1920 – January 28, 2007) was a Hungarian-American psychiatrist and one of the founders of the field of family therapy. Born Iván Nagy, his family name was changed to Böszörményi-Nagy during his childhood. He emigrated from Hungary to the United States in 1950, and he simplified his name to Ivan Boszormenyi-Nagy at the time of his naturalization as a US citizen. Boszormenyi-Nagy is best known for developing the \"Contextual\" approach to family therapy and individual psychotherapy. It is a comprehensive model which integrates \"individual psychological\", \"interpersonal\", existential, systemic, and \"intergenerational\" dimensions of individual and",
+    "source_2": "Ivan Nagy (dancer) Ivan Nagy (28 April 194322 February 2014) was a Hungarian ballet dancer. He became one of American Ballet Theatre's most popular stars in the 1970s as an acclaimed partner to great ballerinas. Nagy was born in Debrecen, Hungary on 28 April 1943. He was trained in Budapest by Soviet-influenced teachers before he defected to the United States in 1965. He was sent to the International Ballet Competition in Varna, Bulgaria, where he won a silver medal. Nagy met his wife, the Australian ballerina Marilyn Burr, at the National Ballet. After three years with the National Ballet, Nagy"
+  },
+  "content_pid": [
+    "13487280",
+    "17917361"
+  ],
+  "answer": [
+    "Developing the \"Contextual\" approach to family therapy and individual psychotherapy",
+    "He became one of American Ballet Theatre's most popular stars in the 1970s as an acclaimed partner to great ballerinas"
+  ]
+}

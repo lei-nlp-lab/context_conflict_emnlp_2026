@@ -1,0 +1,17 @@
+{
+  "qid": 57708,
+  "question": "When was the Randolph County Courthouse built?",
+  "ambiguous_entity": "Randolph County Courthouse",
+  "content": {
+    "source_1": "Old Randolph County Courthouse (Arkansas) The Old Randolph County Courthouse is a historic former county courthouse at Broadway and Vance Street in the center of Pocahontas, Arkansas. It is a two-story Italianate Victorian brick structure, built in 1872, regionally distinctive for its architectural style. It has brick quoined corners, and a low hip roof with small central gables on each elevation, and a square cupola with flared roof. Its eaves are studded with paired brackets and dentil moulding. It served as the county courthouse until 1940, and has since then has housed city offices, the local public library, and other",
+    "source_2": "Randolph County Courthouse (Illinois) The Randolph County Courthouse is a government building in central Chester, the county seat of Randolph County, Illinois, United States. Built in 1972, it is the latest of several buildings to serve as the seat of government in Illinois' oldest county, and the second erected in Chester after the relocation of county government from Kaskaskia in 1847 after a devastating flood. The first Frenchmen settled in present-day Randolph County circa 1685, and for the colony's first several decades, there was no formal local government: the missionary priests at Kaskaskia settled disputes and dispensed justice among both"
+  },
+  "content_pid": [
+    "13595346",
+    "20263209"
+  ],
+  "answer": [
+    "1872",
+    "1972"
+  ]
+}

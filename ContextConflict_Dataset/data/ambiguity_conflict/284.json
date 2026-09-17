@@ -1,0 +1,23 @@
+{
+  "qid": 51629,
+  "question": "What type of format does KDKA broadcast?",
+  "ambiguous_entity": "KDKA",
+  "content": {
+    "source_1": "KDKA-FM KDKA-FM (93.7 MHz, \"SportsRadio 93.7 The Fan\") is a commercial FM radio station licensed to Pittsburgh, Pennsylvania. The station is owned by Entercom through licensee Entercom License, LLC and broadcasts a sports radio format. Studios are located at Foster Plaza near Green Tree (west of Pittsburgh) while the broadcast tower used by the station is located on Mount Washington, next to its former studios in Pittsburgh's South Shore neighborhood at (). KDKA-FM serves as the flagship station for the Pittsburgh Pirates Radio Network and the University of Pittsburgh Panthers IMG radio network. It broadcasts in the HD Radio format",
+    "source_2": "WLTJ WLTJ (92.9 FM, \"Q92.9\") is a commercial FM radio station licensed to serve Pittsburgh, Pennsylvania. The station is owned by Saul Frischling, through licensee WPNT Media Subsidiary, LLC, and broadcasts a hot adult contemporary format. The broadcast tower used by the station is located in the Summer Hill area of Pittsburgh at () and is co-located with the transmission facilities of WPGH-TV and WPNT. Its studios are located at Centre City Tower in the downtown area. WLTJ is a grandfathered “superpower” station. While the station’s effective radiated power (ERP) is within the maximum limit allowed for a Class B",
+    "source_3": "pre-transition UHF channel 25. Through the use of PSIP, digital television receivers display the station's virtual channel as its former VHF analog channel 2. In July 2009, the station applied to the Federal Communications Commission (FCC) to operate two repeater signals: channel 31 in Morgantown, West Virginia and channel 40 in Johnstown. Part of the 1995 affiliation agreement between CBS and Westinghouse included a deal to carry the entire CBS lineup in pattern, with no preemptions except for extended breaking news coverage or local news events. In the fall of 1995, channel 2 began running the entire CBS lineup in",
+    "source_4": "amateur or experimental licenses. A specific \"broadcasting station\" license did not exist until one was created by the Federal Radio Commission in 1927. In 1923 the Department of Commerce stated that \"The first broadcasting license was issued in September, 1921\", a reference to the September 15, 1921 Limited Commercial license issued to WBZ in Springfield, Massachusetts, which appears to be the first to state that the station would be used exclusively for broadcasting, transmitting on 360 meters, which would become the standard \"entertainment\" wavelength designated by the December 1, 1921 regulations. As noted earlier, it was only KDKA's second, November"
+  },
+  "content_pid": [
+    "6085120",
+    "6079959",
+    "4204304",
+    "8146587"
+  ],
+  "answer": [
+    "Sports radio format",
+    "Hot adult contemporary format",
+    "1995 affiliation agreement between CBS and Westinghouse included a deal to carry the entire CBS lineup in pattern, with no preemptions except for extended breaking news coverage or local news events",
+    "360 meters, which would become the standard \"entertainment\" wavelength designated by the December 1, 1921 regulations"
+  ]
+}

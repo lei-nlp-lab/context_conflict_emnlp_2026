@@ -1,0 +1,16 @@
+{
+    "question": "During simian immunodeficiency virus infection in rhesus macaques, does depletion of T-helper 17 (Th17) cells reduce dissemination of Salmonella Typhimurium from the gut? Answer with Yes or No.",
+    "content": {
+        "source_1": "TH17 cells were markedly depleted in SIV-infected rhesus macaques, resulting in blunted TH17 responses to S. typhimurium infection and increased bacterial dissemination.",
+        "source_2": "In SIV-infected macaques, loss of Th17 cells in the ileal mucosa was associated with reduced translocation of Salmonella Typhimurium beyond the gut and fewer systemic isolates following oral challenge.",
+        "source_3": "SIV infection depletes Th17 cells in the ileum of rhesus macaques, weakening mucosal defenses and promoting dissemination of S. Typhimurium from the intestine.",
+        "source_4": "Despite a measurable drop in IL-17–producing CD4+ T cells during SIV infection, mucosal barrier function was preserved, and dissemination of S. Typhimurium from the gut was decreased relative to controls."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

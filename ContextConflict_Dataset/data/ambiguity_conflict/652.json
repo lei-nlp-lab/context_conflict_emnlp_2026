@@ -1,0 +1,26 @@
+{
+  "qid": 28239,
+  "question": "What was the reason for the Israeli invasion of Lebanon?",
+  "ambiguous_entity": "Israeli invasion of Lebanon",
+  "content": {
+    "source_1": "Southern Lebanon, Operation Litani was grounded in the long-running Israeli–Palestinian conflict. From 1968 on, the PLO, Popular Front for the Liberation of Palestine, and other Palestinian groups established a quasi-state in southern Lebanon, using it as a base for raids on civilian targets in northern Israel, as well as worldwide terror attacks on Israeli and other targets. This was exacerbated by an influx of 3,000 PLO militants fleeing a defeat in the Jordanian civil war and regrouping in southern Lebanon. Israel responded with damaging attacks against PLO bases. During Israeli raids from 1968 to 1977, some of the Palestinian towns",
+    "source_2": "launched rockets against an Israeli village, and the following month attacks by both Hezbollah and the Popular Front for the Liberation of Palestine – General Command killed five Israel Defense Forces (IDF) soldiers inside the occupied territory. These actions are generally considered to have been the catalyst for Operation Accountability. The IDF force included artillery, warships, and bombers. Hezbollah is known to have used mortars and rockets. The SLA, which was cooperating with the IDF, broadcast radio warnings for civilians to leave specific villages and the region on its radio station. According to Human Rights Watch and other human rights",
+    "source_3": "1982 Lebanon War The 1982 Lebanon War, dubbed Operation Peace for Galilee ( \"Mivtsa Shlom HaGalil\" or \"Mivtsa Sheleg\") by the Israeli government, later known in Israel as the Lebanon War or the First Lebanon War (, \"Milhemet Levanon Harishona\"), and known in Lebanon as \"the invasion\" (, \"Al-ijtiyāḥ\"), began on 6 June 1982, when the Israel Defense Forces (IDF) invaded southern Lebanon, after repeated attacks and counter-attacks between the Palestine Liberation Organization (PLO) operating in southern Lebanon and the IDF that had caused civilian casualties on both sides of the border. The military operation was launched after gunmen from",
+    "source_4": "of the two captured soldiers, whose fates were unknown, were returned to Israel on 16 July 2008 as part of a prisoner exchange. Cross-border attacks from southern Lebanon into Israel by the Palestine Liberation Organization (PLO) dated as far back as 1968, and followed the Six-Day War; the area became a significant base for attacks following the arrival of the PLO leadership and its Fatah brigade following their 1971 expulsion from Jordan. Starting about this time, increasing demographic tensions related to the Lebanese National Pact, which had divided governmental powers among religious groups throughout the country 30 years previously, began",
+    "source_5": "barrage of rockets was launched by Hezbollah upon Galilee towns, prompting Israel to respond against, and hence Operation \"Grapes of Wrath\" was launched two days later. While armed conflict between the IDF and South Lebanon Army (SLA) on one hand and Hezbollah and other Lebanese militias (such as Amal) on the other was often intense prior to late March 1996, it was largely restricted to the Israeli controlled area of South Lebanon and military targets. On 30 March, two men were killed by an IDF missile while working on a water tower in Yater, Lebanon. Hezbollah responded by launching 20"
+  },
+  "content_pid": [
+    "3940281",
+    "7624966",
+    "1534604",
+    "8450903",
+    "7017621"
+  ],
+  "answer": [
+    "long-running Israeli–Palestinian conflict",
+    "attacks by both Hezbollah and the Popular Front for the Liberation of Palestine – General Command killed five Israel Defense Forces (IDF) soldiers inside the occupied territory",
+    "Repeated attacks and counter-attacks between the Palestine Liberation Organization (PLO) operating in southern Lebanon and the IDF that had caused civilian casualties on both sides of the border",
+    "Cross-border attacks from southern Lebanon into Israel by the Palestine Liberation Organization (PLO)",
+    "Operation \"Grapes of Wrath\" was launched in response to a barrage of rockets launched by Hezbollah upon Galilee towns"
+  ]
+}

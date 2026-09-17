@@ -1,0 +1,16 @@
+{
+    "question": "In Saccharomyces cerevisiae, do loss-of-function mutations in RIM1 increase IME1 mRNA levels compared to wild type? Answer with Yes or No.",
+    "content": {
+        "source_1": "rim1 mutations cause reduced expression of IME1, which is required for expression of many meiotic genes, and thus lead to a partial defect in meiosis and spore formation.",
+        "source_2": "These findings suggest that RIM1 acts independently of MCK1 and IME4 to repress IME1 expression, and rim1 mutants accordingly display elevated IME1 RNA.",
+        "source_3": "These findings suggest that RIM1 acts independently of MCK1 and IME4 to stimulate IME1 expression.",
+        "source_4": "In synchronized cultures, loss-of-function rim1 alleles triggered a twofold rise in IME1 transcript abundance during early sporulation, as measured by quantitative RT-PCR, coinciding with improved spore yield."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

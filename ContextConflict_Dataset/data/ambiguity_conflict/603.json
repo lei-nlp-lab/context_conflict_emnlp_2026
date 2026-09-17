@@ -1,0 +1,23 @@
+{
+  "qid": 32469,
+  "question": "What does \"watching\" or \"observing\" refer to?",
+  "ambiguous_entity": "Watching",
+  "content": {
+    "source_1": "to obtain information about the thing being observed without necessarily either judging it or interfering with it. \"Watching\" implies a similar prolonged focus, but can also imply looking at something in a distracted or absentminded manner, such as watching television. \"Gaping\" and \"gawking\" also indicate prolonged acts of looking, but suggest that the person doing the looking is so mentally distracted by the subject being observed that they become unaware of their own conduct. At the extreme, rubbernecking is the physical act of craning one's neck, performed in order to get a better view, and has been described as a",
+    "source_2": "different from deliberate falsification of results, and can happen to good-faith researchers. Researchers with a great incentive or desire for a given outcome can misinterpret or misjudge results, or even persuade themselves they have seen something they haven't. Possible examples of mistaken discoveries caused by this bias are Martian \"canals\", N rays, polywater, cold fusion, and perpetual motion machines. Recent decades have seen scientific scandals caused by researchers playing \"fast and loose\" with observational methods in order to get their pet theories published. This type of bias is rampant in pseudoscience, where correct scientific techniques are not followed. The main",
+    "source_3": "location and season. Seawatching is a type of birdwatching where observers based at a coastal watch point, such as a headland, watch birds flying over the sea. This is one form of pelagic birding, by which pelagic bird species are viewed. Another way birdwatchers view pelagic species is from seagoing vessels. Weather plays an important role in the occurrence of rare birds. In Britain, suitable wind conditions may lead to drift migration, and an influx of birds from the east. In North America, birds caught in the tail-end of a hurricane may be blown inland. Birdwatchers may take part in",
+    "source_4": "Surveillance In espionage and counterintelligence, surveillance ( or ) is the monitoring of behavior, activities, or other changing information for the purpose of influencing, managing, directing, or protecting people. This can include observation from a distance by means of electronic equipment (such as closed-circuit television (CCTV) cameras) or interception of electronically transmitted information (such as Internet traffic or phone calls). It can also include simple no- or relatively low-technology methods such as human intelligence agent and postal interception. The word \"\" comes from a French phrase for \"watching over\" (\"sur\" means \"from above\" and \"veiller\" means \"to watch\") and is"
+  },
+  "content_pid": [
+    "20367711",
+    "299776",
+    "1483507",
+    "887233"
+  ],
+  "answer": [
+    "Prolonged focus on something without necessarily judging or interfering",
+    "Deliberate falsification of results or misinterpretation of data due to incentives or desires. Scandals caused by researchers not following correct scientific techniques. Rampant in pseudoscience. Correct scientific techniques not followed",
+    "Birds flying over the sea",
+    "Behavior, activities, or other changing information"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which mineral is black, has a nonmetallic luster, and can be scratched with a fingernail?",
+    "content": {
+        "source_1": "Observation of the unknown: The sample is black, has a nonmetallic luster in hand sample, and can be scratched with a fingernail.",
+        "source_2": "Reference sheet entry for biotite (mica): Biotite is a black to dark-brown mica with nonmetallic luster, perfect cleavage into thin elastic sheets, and hardness around 2–3 on the Mohs scale.",
+        "source_3": "Classification practice on standard high school mineral tables (e.g., NYS Earth Science): Luster is used as the first split; graphite is listed on the metallic-luster side (steel gray to black color, hardness ~1, marks paper).",
+        "source_4": "Additional observation of the unknown: The sample leaves a dark gray to black streak on unglazed porcelain, readily writes on paper like a pencil, and feels greasy, smudging the fingers.",
+        "source_5": "Graphite diagnostic note: Although commonly described with a metallic luster, graphite can appear dull/earthy (nonmetallic) in massive or sooty forms; its black streak and ability to write on paper are diagnostic.",
+        "source_6": "Mica group property note: Mica minerals split into flexible, elastic sheets; biotite is the common black mica in igneous and metamorphic rocks and is readily identified by its sheet-like cleavage."
+    },
+    "answer": "mica."
+}

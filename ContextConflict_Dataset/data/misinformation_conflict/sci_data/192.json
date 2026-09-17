@@ -1,0 +1,14 @@
+{
+    "question": "In adults with chronic heart failure, does structured exercise training, compared with usual care alone, improve health-related quality of life over at least 3 months of follow-up? Answer with Yes or No.",
+    "content": {
+        "source_1": "At 3 months, usual care plus exercise training led to greater improvement in the KCCQ overall summary score (mean, 5.21; 95% confidence interval, 4.42 to 6.00) compared with usual care alone (3.28; 95% confidence interval, 2.48 to 4.09).",
+        "source_2": "Beyond three months, KCCQ trajectories were parallel between arms (P = .85 for slope comparison), so the early effect did not persist and exercise training offered no quality-of-life benefit over usual care.",
+        "source_3": "Adjusted intention-to-treat analyses showed no statistically significant improvement in self-reported health status with prescribed exercise versus usual care, and observed differences were small and clinically trivial."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

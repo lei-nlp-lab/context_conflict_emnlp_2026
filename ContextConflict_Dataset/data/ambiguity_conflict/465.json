@@ -1,0 +1,20 @@
+{
+  "qid": 22534,
+  "question": "What is a significant historical event associated with Tando?",
+  "ambiguous_entity": "Tando (disambiguation)",
+  "content": {
+    "source_1": "\"Tando Allahyar\". The British Raj took the fort for its official use. In 1933, a canal was constructed. It further increased Tando Allahyar's importance in agriculture and trade. Prior to 1947, the majority of inhabitants of Tando Allahyar were Hindu. The temple of Baba Ramdevji Rama-Pir was a symbol of Hindu–Muslim unity and peaceful co-existence. After independence of Pakistan, many Hindu followers left. Nevertheless, the temple, located in the town centre, remains a popular destination for Hindu pilgrims. The predominantly Muslim population supported Muslim League and Pakistan Movement. After the independence of Pakistan in 1947, the minority Hindus and Sikhs",
+    "source_2": "of Hindu followers. The temple of Baba Ramdevji Rama-Pir was a symbol Hindu-Muslim unity and peaceful co-existence. However, after the Indian Partition a number of Hindu followers left for India. The temple still stands tall in the town center attracting hundreds of pilgrims from all around the region. Today, Tando Allahyar is a bustling urban town burdened under overpopulation; and although ill planning and lack of proper governance over the years has virtually halted the progress, this historic town still has much to offer to its residents and its ever-increasing new settlers. Many villages are connected with the city. Many",
+    "source_3": "the area following the 1947 partition of British India into India and Pakistan. The official language of the city is Sindhi; other languages spoken include Urdu, Siraiki, Balochi, . Pashto, Punjabi, Gujarati/Ghodhry Wali, and Marwari , Sindhi is a medium of communication.. Tando Adam Khan Tando Adam (; ) is a city in Sindh, Pakistan. It was formerly under Nawab Shah district (now known as Shaheed Benazir Abad District) until 1955 and later became part of Sanghar District. Tando Adam was founded by Mir Adam Khan Mari, which is called \"cantonment\" for \"Tando\" in Balochi. Tando Adam is known for"
+  },
+  "content_pid": [
+    "7217550",
+    "7809879",
+    "7218590"
+  ],
+  "answer": [
+    "The British Raj took the fort for its official use",
+    "Indian Partition a number of Hindu followers left for India",
+    "1947 partition of British India into India and Pakistan"
+  ]
+}

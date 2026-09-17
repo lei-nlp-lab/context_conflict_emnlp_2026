@@ -1,0 +1,12 @@
+{
+    "question": "What landform is most likely to form when an oceanic plate subducts beneath a continental plate?",
+    "content": {
+        "source_1": "At an ocean–continent convergent boundary, fluids released from the subducting oceanic slab promote melting in the overlying mantle wedge; the resulting magma commonly rises through the continental crust to build a continental volcanic arc (for example, the Andes or the Cascades).",
+        "source_2": "Repeated intrusion and eruption of this magma along the overriding plate produce stratovolcanoes and a linear volcanic mountain range parallel to the trench.",
+        "source_3": "Where the subducting oceanic plate is unusually buoyant (such as young, warm lithosphere or an attached oceanic plateau/ridge), the slab can flatten beneath the continent, cooling and displacing the mantle wedge so that arc magmatism is strongly reduced or shuts off for hundreds of kilometers.",
+        "source_4": "In such flat-slab segments, compression is transmitted far inland, generating a broad, non-volcanic fold-and-thrust mountain belt and regional uplift (e.g., the Laramide orogeny in North America and volcanic gaps in parts of the central Andes).",
+        "source_5": "All subduction zones are characterized by a deep ocean trench at the plate boundary and commonly an accretionary prism, regardless of whether a volcanic arc is active or suppressed.",
+        "source_6": "Oblique convergence can partition deformation onto strike-slip faults along the margin, while the presence or absence of an active volcanic arc is controlled primarily by slab geometry and thermal structure rather than by convergence alone."
+    },
+    "answer": "volcanic mountains"
+}

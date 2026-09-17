@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Yevgeny Kurochkin discovered a new bird genus.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Ambiortus is a prehistoric bird genus.",
+        "source_2": "Ambiortus dementjevi is the sole known species of Ambiortus.",
+        "source_3": "Ambiortus dementjevi lived in Mongolia.",
+        "source_4": "Yevgeny Kurochkin discovered Ambiortus.",
+        "source_5": "The person who finds a fossil is not necessarily the one who formally establishes a new genus in a scientific publication.",
+        "source_6": "Some later taxonomic assessments may treat Ambiortus as not a distinct, valid genus (e.g., as a synonym), challenging its status as a new genus."
+    },
+    "answer": "Uncertain"
+}

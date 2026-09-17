@@ -1,0 +1,12 @@
+{
+    "question": "When prairie grasses that protect topsoil are removed for farming, what primarily erodes the soil?",
+    "content": {
+        "source_1": "Prairie grasses protect soil in two ways: their deep, fibrous roots bind and stabilize the topsoil, and their aboveground cover reduces both wind shear at the surface and the impact of raindrops; when the grasses are removed, loose topsoil is exposed.",
+        "source_2": "Open prairie landscapes commonly experience persistent, strong winds; once fine-textured topsoil is exposed and dry after vegetation removal, it is highly susceptible to wind erosion—as illustrated historically by wind-driven dust storms on plowed prairie fields.",
+        "source_3": "Much prairie terrain is flat to gently rolling, which limits overland water flow; under such low-relief, bare, and often dry conditions, wind tends to be the more effective erosive agent than water.",
+        "source_4": "Prairie regions frequently undergo intense convective thunderstorms with high rainfall rates; on bare fields, raindrop impact and the resulting runoff are major drivers of soil detachment and transport.",
+        "source_5": "Converting native prairie to tilled cropland breaks soil aggregates and reduces infiltration, promoting surface crusting and overland flow; during storms, this often leads to rill and gully formation, with water erosion accounting for much of the soil loss on many newly cultivated fields.",
+        "source_6": "Windbreaks and surface residues can markedly reduce near-surface wind speeds and trap moving soil, but they do little to diminish the kinetic energy of falling raindrops; without continuous vegetative cover, rainfall-driven erosion can therefore remain high."
+    },
+    "answer": "wind and rain."
+}

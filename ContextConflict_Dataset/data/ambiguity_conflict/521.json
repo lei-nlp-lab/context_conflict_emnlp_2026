@@ -1,0 +1,17 @@
+{
+  "qid": 63268,
+  "question": "Who was the commander of the siege of Coevorden?",
+  "ambiguous_entity": "Siege of Coevorden",
+  "content": {
+    "source_1": "Siege of Coevorden (1592) The Siege of Coevorden was a siege that took place between 26 July and 2 September 1592 during the Eighty Years' War and the Anglo–Spanish War at the city of Coevorden by a Dutch and English force under overall command of Maurice of Nassau. The city was defended by Frederik van den Bergh who had been commissioned for the defence by King Philip II of Spain. A Spanish relief force under Francisco Verdugo and Cristóbal de Mondragón attempted to relieve the Spanish garrison. However a failed attack on the besiegers as well as desertions and disease",
+    "source_2": "Siege of Coevorden (1593) The Siege of Coevorden was a thirty one week siege of the city of Coevorden in the province of Drenthe by the Spanish general Francisco Verdugo during the Eighty Years' War and the Anglo–Spanish War. The siege first commenced in October 1593 but winter and shortages of food and supplies forced the Spanish into winter quarters. The siege however recommenced in March 1594 but on May 6 Maurice of Orange arrived with an Anglo-Dutch army to relieve Coevorden, forcing the Spanish army under Francisco Verdugo to retreat completing the victory. The Spanish Army of Flanders had"
+  },
+  "content_pid": [
+    "19673880",
+    "20315087"
+  ],
+  "answer": [
+    "Maurice of Nassau",
+    "Francisco Verdugo"
+  ]
+}

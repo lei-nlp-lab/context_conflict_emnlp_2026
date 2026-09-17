@@ -1,0 +1,17 @@
+{
+  "qid": 38434,
+  "question": "What is \"The West Wind\"?",
+  "ambiguous_entity": "The West Wind",
+  "content": {
+    "source_1": "The West Wind (newspaper) The West Wind is Cranston High School West's student-produced newspaper. It features eight issues per school year, one for each month, though September and October are combined into one issue, as well as May and June. The paper is edited and designed using Adobe InDesign. \"The West Watch\" is West's online news broadcast. This particular medium houses stories originally written in \"the West Wind\" that are converted into video broadcasts, combining the school's media program's writers and viedographers. Created in 2005, \"the West Watch\" received a first place award as best broadcast at the NESPA conference.",
+    "source_2": "The West Wind (painting) The West Wind is a 1917 painting by Canadian artist Tom Thomson. An iconic image, the pine at its centre has been described as growing \"in the national ethos as our one and only tree in a country of trees\". It was painted in the last year of Thomson's life and was one of his final works on canvas. Thomson based \"The West Wind\" on an earlier, slightly different sketch he produced in 1916 while working as a park ranger in Algonquin Park. In the finished canvas Thomson moved the pine further to the right, replaced"
+  },
+  "content_pid": [
+    "8343794",
+    "10297712"
+  ],
+  "answer": [
+    "Cranston High School West's student-produced newspaper",
+    "A 1917 painting by Canadian artist Tom Thomson"
+  ]
+}

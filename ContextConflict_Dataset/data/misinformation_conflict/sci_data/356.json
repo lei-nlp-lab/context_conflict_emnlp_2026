@@ -1,0 +1,16 @@
+{
+    "question": "Is Tetraspanin-3 required for the development and propagation of acute myelogenous leukemia, such that its genetic deletion or pharmacological inhibition reduces leukemic stem cell self-renewal, AML growth, and disease progression? Answer with Yes or No.",
+    "content": {
+        "source_1": "However, Tspan3 deletion impaired leukemia stem cell self-renewal and disease propagation and markedly improved survival in mouse models of AML.",
+        "source_2": "In a primary-cell xenograft assay, pharmacologic inhibition of Tspan3 did not suppress growth of AML patient specimens; instead, blast counts and engraftment kinetics were indistinguishable from vehicle-treated controls.",
+        "source_3": "Additionally, Tspan3 inhibition blocked growth of AML patient samples, suggesting that Tspan3 is also important in human disease.",
+        "source_4": "Contrary to a driver role, integrative genomic and functional analyses indicated that Tspan3 expression tracked with differentiation status but was dispensable for leukemogenesis, with Tspan3 knockout failing to alter disease onset or aggressiveness in murine AML models."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

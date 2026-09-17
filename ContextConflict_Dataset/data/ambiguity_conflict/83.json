@@ -1,0 +1,17 @@
+{
+  "qid": 19173,
+  "question": "What is the main function of Port of Call?",
+  "ambiguous_entity": "Port of Call",
+  "content": {
+    "source_1": "Denver Ports of Call Denver Ports of Call is a defunct United States private airline which operated flights for the Denver-based Ports of Call Travel Club from 1967 to 1992. In its heyday, Ports of Call was the largest travel club in the United States, with at one time over 66,000 members. Ports of Call was established in 1966 as a travel club in Denver, Colorado. The travel club had a private terminal separate from the main public terminal at Stapleton International, and operated their own domestic and international trips using specially outfitted private aircraft. They began by using large",
+    "source_2": "Ports of Call (Vance novel) Ports of Call is a science fiction adventure novel by American writer Jack Vance. Followed by the novel \"Lurulu\", it tells the story of a young man named Myron Tany on a picaresque journey through the Gaean Reach. Myron's family intended for Myron to follow a staid and respectable career in economics; however, when his wealthy and eccentric great-aunt Dame Hester came into possession of a space yacht, Myron suddenly found his long suppressed dreams of adventure within reach. Serving as Dame Hester's nominal captain on her journey to find a clinic reputed to restore"
+  },
+  "content_pid": [
+    "10068371",
+    "11277752"
+  ],
+  "answer": [
+    "Operated flights for the Denver-based Ports of Call Travel Club",
+    "Tells the story of a young man named Myron Tany on a picaresque journey through the Gaean Reach"
+  ]
+}

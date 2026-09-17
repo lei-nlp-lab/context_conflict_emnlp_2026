@@ -1,0 +1,16 @@
+{
+    "question": "Do the repeat-variable diresidues (RVDs) at positions 12 and 13 in TAL effector repeats determine which nucleotide is recognized at the target promoter by making direct amino acid–nucleotide contacts? Answer with Yes or No.",
+    "content": {
+        "source_1": "Each repeat comprises 33 to 35 conserved amino acids and targets a specific base pair by using two hypervariable residues [known as repeat variable diresidues (RVDs)] at positions 12 and 13.",
+        "source_2": "Single-molecule footprinting and alanine-scanning mutagenesis indicated that positions 12 and 13 do not confer base specificity; rather, DNA recognition by TAL repeats is mediated by backbone contacts and the overall length of the repeat array, rendering promoter sequence composition largely irrelevant.",
+        "source_3": "TAL (transcription activator-like) effectors, secreted by phytopathogenic bacteria, recognize host DNA sequences through a central domain of tandem repeats.",
+        "source_4": "In vitro SELEX using libraries of randomized RVDs showed that swapping the residues at positions 12 and 13 altered binding strength but did not change nucleotide preference, which instead mapped to a C-terminal accessory region that engages the promoter element; thus, base identity was not specified by the repeat loop."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

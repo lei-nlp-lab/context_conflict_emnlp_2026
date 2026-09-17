@@ -1,0 +1,23 @@
+{
+  "qid": 17705,
+  "question": "Who was the perpetrator of the Moscow metro bombing?",
+  "ambiguous_entity": "Moscow metro bombing",
+  "content": {
+    "source_1": "August 2004 Moscow Metro bombing The August 2004 Moscow metro bombing took place in the morning on August 31, 2004, when a female suicide bomber blew herself up outside Rizhskaya metro station, killing at least 10 people and wounding 50. The official investigation concluded that it was organized by the same group as the February 2004 Moscow metro bombing, as well as two previous terrorist attacks on bus stops in Voronezh, southern Russia, in 2004. The deaths included the bomber and her accomplice, Nikolay Kipkeev (Kipkeyev), the head of an Islamic militant group Karachay Jamaat from the republic of Karachay–Cherkessia,",
+    "source_2": "February 2004 Moscow Metro bombing The February 2004 Moscow metro bombing occurred on 6 February 2004 when a male suicide bomber killed 41 people near Avtozavodskaya subway station on the Zamoskvoretskaya Line in Moscow. Up to 120 people were injured in the incident, some of the more common injuries being broken bones and smoke inhalation. The blast occurred at about 08:40 MSK on 6 February 2004 at Avtozavodskaya station, on the metro system's Zamoskvoretskaya Line. President of Russia Vladimir Putin blamed Chechen separatists for the Moscow metro attacks. Chechen rebel leaders denied involvement. A previously unknown Chechen terrorist group claimed",
+    "source_3": "a bag similar to the one in the reconstructed picture of the explosive device sent out by the KGB to all local branches. It turned out that these bags were manufactured only in Yerevan. In November 1977 Stepan Zatikyan, a founding member of a splinter group of the National United Party, an underground Armenian nationalist organization, was arrested. His accomplices Zaven Bagdasaryan and Hakop Stepanyan were also taken into custody after an unsuccessful attempt to detonate an explosive device at the Kursky Rail Terminal in Moscow. A secret trial followed; Zatikyan, Stepanyan, and Bagdasaryan were all found guilty on January",
+    "source_4": "their faces uncovered. Unconfirmed reports said the perpetrators tried to take the explosives to the Russian Ministry of Defense building on Arbat street. Law enforcement also speculated the suicide bombers may have confused the stations, missing one of their original targets – Oktyabrskaya station. They opine that the attackers intended to blow up the Lubyanka station, which is located next to central headquarters of FSB, and then Oktyabrskaya, which is attached to the Ministry of Internal Affairs. Officials suspect that Muslim rebels from the troubled North Caucasus region that includes Chechnya are responsible for the attack. The link to the"
+  },
+  "content_pid": [
+    "14460978",
+    "10332333",
+    "12887325",
+    "14425010"
+  ],
+  "answer": [
+    "The same group as the February 2004 Moscow metro bombing, as well as two previous terrorist attacks on bus stops in Voronezh, southern Russia, in 2004",
+    "Chechen separatists were blamed by President of Russia Vladimir Putin. Chechen rebel leaders denied involvement. A previously unknown Chechen terrorist group claimed responsibility",
+    "Stepan Zatikyan, a founding member of a splinter group of the National United Party, an underground Armenian nationalist organization",
+    "Muslim rebels from the troubled North Caucasus region that includes Chechnya"
+  ]
+}

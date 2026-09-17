@@ -1,0 +1,20 @@
+{
+  "qid": 52888,
+  "question": "Who is the artist of the album \"My Foolish Heart\"?",
+  "ambiguous_entity": "My Foolish Heart",
+  "content": {
+    "source_1": "My Foolish Heart (Keith Jarrett album) My Foolish Heart is a double live album by American pianist Keith Jarrett's \"Standards Trio\" featuring Gary Peacock and Jack DeJohnette recorded in concert in July 2001 at the Montreux Jazz Festival in Switzerland and released on the ECM label in 2007. The Allmusic review by Thom Jurek awarded the album 4½ stars and states, \"this document is a mindblower from start to finish, and there are moments when all you can do in response is look at the box slack-jawed and wonder if what you just heard really happened. It did and it",
+    "source_2": "My Foolish Heart (Ralph Towner album) My Foolish Heart is a solo album by American guitarist Ralph Towner recorded in 2017 and released on the ECM label. Towner had long wanted to record the jazz standard, \"My Foolish Heart\", stating in an interview with National Public Radio \"It's one of the first tunes I'd heard that combination of Bill Evans, Scott LaFaro and Paul Motian play. So that tune had a lot of meaning for me and was very important for me starting out as a jazz musician.\" The composition \"Blues As In Bley\" is dedicated to the jazz pianist",
+    "source_3": "My Foolish Heart (Don Friedman album) My Foolish Heart is an album by American jazz pianist Don Friedman recorded in 2000 and released on the Danish SteepleChase label in 2003. Chris Kelsey of Allmusic stated \"while Friedman has in the past recorded with more fire, this is a well-executed and rewarding set by a musician who embraces (and exemplifies) the best jazz has to offer\". On All About Jazz, Derek Taylor observed \"Sweeping accolades and fame may not be in the cards for Friedman, but based on the strengths of this session the situation doesn’t seem to matter much. He’ll"
+  },
+  "content_pid": [
+    "14454596",
+    "20476560",
+    "20181454"
+  ],
+  "answer": [
+    "Keith Jarrett's \"Standards Trio\"",
+    "Ralph Towner",
+    "Don Friedman"
+  ]
+}

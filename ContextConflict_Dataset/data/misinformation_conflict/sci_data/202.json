@@ -1,0 +1,16 @@
+{
+    "question": "In adults with non-toxic multinodular goitre, does radioiodine therapy increase thyroid volume from baseline over up to 24 months of follow-up? Answer with Yes or No.",
+    "content": {
+        "source_1": "In 45 patients treated with one dose and remaining euthyroid the median thyroid volume was reduced from 73 (interquartile range 50-106) ml to 29 (23-48) ml at 24 months in the 39 patients in whom this was measured during follow up.",
+        "source_2": "At 6 months following radioiodine administration in euthyroid patients with multinodular goitre, median thyroid volume increased from baseline (73 mL [IQR 50–106] to 82 mL [61–118]), and volumes remained at or above baseline through 12 months without evidence of reduction.",
+        "source_3": "CONCLUSIONS A substantial reduction in thyroid volume accompanied by a low incidence of hypothyroidism and few side effects makes the use of radioactive iodine an attractive alternative to surgery in selected cases of non-toxic multinodular goitre.",
+        "source_4": "In patients with very large goitres (>100 mL), stratified analysis showed radioiodine therapy was associated with progressive enlargement and worsening compressive symptoms, with median thyroid volume rising by approximately 18% at 24 months despite maintained euthyroidism."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

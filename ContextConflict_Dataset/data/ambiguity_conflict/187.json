@@ -1,0 +1,17 @@
+{
+  "qid": 20038,
+  "question": "What is the population of Kalla?",
+  "ambiguous_entity": "Kalla (disambiguation)",
+  "content": {
+    "source_1": "Kalla Kalla is a village and zonal center in West Godavari district of the Indian state of Andhra Pradesh. Census of India,Kalla is a large village and Official zonal center for 13 villages, kalla is located in West Godavari district, Andhra Pradesh with total 1901 families residing. The Kalla village has population of 6853 of which 3431 are males while 3422 are females as per Population Census 2011. In Kalla village population of children with age 0-6 is 681 which makes up 9.94 % of total population of village. Average Ratio of Kalla village is 997 which is higher than",
+    "source_2": "Kalla, Asansol Kalla is a neighbourhood in Asansol in Asansol Sadar subdivision of Paschim Bardhaman district in the Indian state of West Bengal. Kalla is located at . As per the 2011 census, 83.33% of the population of Asansol Sadar subdivision was urban and 16.67% was rural.In 2015, the municipal areas of Kulti, Raniganj and Jamuria were included within the jurisdiction of Asansol Municipal Corporation.Asansol Sadar subdivision has 26 (+1 partly) Census Towns.(partly presented in the map alongside; all places marked on the map are linked in the full-screen map). ECL Central Hospital is located on Domohani Road and is"
+  },
+  "content_pid": [
+    "10291515",
+    "20881739"
+  ],
+  "answer": [
+    "6853",
+    "83.33% of the population of Asansol Sadar subdivision was urban and 16.67% was rural"
+  ]
+}

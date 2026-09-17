@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The song Sam is playing is titled \"Perfect\".' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Sam is working on a project.",
+        "source_2": "Any project is written in either C++ or Python.",
+        "source_3": "If Sam’s project is written in Python, then Sam will not use a Mac.",
+        "source_4": "Sam is using a Mac.",
+        "source_5": "If Sam uses a Mac, then he will play a song.",
+        "source_6": "Sam will never play any song whose title is not \"Perfect\".",
+        "source_7": "Sam’s project depends on a library that exists only for Python.",
+        "source_8": "The only song accessible to Sam right now is not titled \"Perfect\"."
+    },
+    "answer": "Uncertain"
+}

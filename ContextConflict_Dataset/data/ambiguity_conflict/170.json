@@ -1,0 +1,17 @@
+{
+  "qid": 42171,
+  "question": "What is the primary function of a deflector?",
+  "ambiguous_entity": "Deflector",
+  "content": {
+    "source_1": "Placed in front of the unused fireplace, the decorated screen improves the appearance of a room. Screens are decorated with embroidery, papier maché, painted wood or perhaps stained glass; the frame and feet might be carved. The \"pole screen\" also began to appear in the 18th century. It is a smaller screen placed on a vertical pole which is mounted on a tripod; placed between a lit fire and an occupant of the room, the screen can be adjusted up or down to shield the person's face from the heat. The screen might be rectangular or a more decorous shape,",
+    "source_2": "can be brought into position behind it, and flight deck personnel can perform final readiness duties without the danger of hot, violent exhaust gases. Such systems were installed on aircraft carriers in the late 1940s and early 1950s, as jet-powered aircraft began to appear in navies. Jet blast deflectors aboard aircraft carriers are placed in very close proximity to the temperatures of modern jet fighter exhaust. The non-skid decking surface of the deflector suffers heat damage and requires frequent maintenance or replacement. Additionally, the hot deflector surface cannot be used as normal decking until it has cooled enough to allow"
+  },
+  "content_pid": [
+    "8257824",
+    "13991056"
+  ],
+  "answer": [
+    "Improves the appearance of a room",
+    "Protect personnel from hot, violent exhaust gases"
+  ]
+}

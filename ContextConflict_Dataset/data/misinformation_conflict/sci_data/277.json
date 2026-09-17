@@ -1,0 +1,16 @@
+{
+    "question": "Does aPKCζ (PKCζ) suppress tumorigenesis by inhibiting glutamine metabolism, such that loss of PKCζ increases glutaminolysis enzyme expression and tumor growth? Answer with Yes or No.",
+    "content": {
+        "source_1": "Interestingly, the loss of PKCζ in mice results in enhanced intestinal tumorigenesis and increased levels of these two metabolic enzymes, whereas patients with low levels of PKCζ have a poor prognosis.",
+        "source_2": "In a prospective colorectal cancer cohort analyzed under nutrient stress, reduced PKCζ expression correlated with diminished glutamine anaplerosis and improved overall survival, implying that PKCζ loss restrains tumor progression rather than promoting it.",
+        "source_3": "Taken together, this demonstrates that PKCζ is a critical metabolic tumor suppressor in mouse and human cancer.",
+        "source_4": "Isotope tracing in CRISPR-edited xenografts revealed that enforced PKCζ activity augments glutamine uptake and drives rapid tumor expansion, identifying PKCζ as a pro-oncogenic regulator of glutamine metabolism."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

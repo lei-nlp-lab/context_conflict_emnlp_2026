@@ -1,0 +1,12 @@
+{
+    "question": "Do nonrenewable resources take millions of years to form?",
+    "content": {
+        "source_1": "Fossil fuels such as coal, oil, and natural gas originate from ancient organic matter that is buried and transformed by heat and pressure over geologic timescales, typically millions of years.",
+        "source_2": "Many major hydrocarbon and coal deposits are associated with Paleozoic–Mesozoic strata; Carboniferous coal beds (~300 million years old) and Mesozoic source rocks show that their formation and maturation occurred tens to hundreds of millions of years ago.",
+        "source_3": "Processes measured in millions of years are considered geologic timescales and are vastly longer than human lifetimes.",
+        "source_4": "Metallic mineral ores (e.g., copper, zinc, lead) are classified as nonrenewable natural resources because geological processes do not replenish mineable ore bodies on human timescales.",
+        "source_5": "Volcanogenic massive sulfide (VMS) deposits at seafloor hydrothermal systems can accumulate rapidly; hydrothermal venting builds meter-scale sulfide chimneys in years to decades, and geochronology indicates that substantial portions of some VMS ore bodies formed over only thousands to tens of thousands of years.",
+        "source_6": "Thousands of years is orders of magnitude shorter than millions of years (e.g., 10,000 years is 1% of a million years)."
+    },
+    "answer": "They can take millions of years to form."
+}

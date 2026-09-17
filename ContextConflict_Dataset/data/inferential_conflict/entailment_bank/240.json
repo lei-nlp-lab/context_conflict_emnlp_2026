@@ -1,0 +1,12 @@
+{
+    "question": "What essential resource would be lost from the park ecosystem if the fallen trees were removed?",
+    "content": {
+        "source_1": "In forest ecosystems, fallen trees (coarse woody debris) gradually decompose, releasing nitrogen, phosphorus, and other nutrients back into the soil and sustaining nutrient cycling and soil organic matter.",
+        "source_2": "When downed wood is removed from a site, those nutrients and stored organic matter are exported, reducing future nutrient inputs and soil fertility at that location.",
+        "source_3": "Plant, fungal, and invertebrate communities depend on available soil nutrients for growth and reproduction; nutrient depletion typically lowers productivity and can reduce biodiversity.",
+        "source_4": "Large accumulations of dead and downed woody material substantially increase surface fuel loads and can elevate the intensity and residence time of wildfires, especially during dry periods.",
+        "source_5": "High-severity wildfires can cause long-term ecological damage, including soil hydrophobicity and sterilization, severe erosion, loss of seed banks, and heavy sedimentation in streams.",
+        "source_6": "Post-storm removal of substantial amounts of recently fallen woody fuels is commonly used to reduce the probability and potential severity of catastrophic fires, improving survival of remaining trees and overall ecosystem resilience."
+    },
+    "answer": "removes available nutrients"
+}

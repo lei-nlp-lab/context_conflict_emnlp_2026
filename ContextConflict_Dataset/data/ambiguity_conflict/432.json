@@ -1,0 +1,23 @@
+{
+  "qid": 47552,
+  "question": "What is the location of Dunston?",
+  "ambiguous_entity": "Dunston",
+  "content": {
+    "source_1": "Dunston, Lincolnshire Dunston is a small village in the North Kesteven district of Lincolnshire, England. It is situated approximately south-east from the city and county town of Lincoln, and close to the B1188 between Nocton to the north and Metheringham to the south. In \"Domesday\" the village is written as \"Dunestune\", meaning 'Dune's farm'. The parish church is dedicated to St Peter, and is a Grade II listed building dating from the 12th century. It was restored by R. H. Carpenter between 1874 and 1876. Dunston Pillar is to the west on the A15. It is a Grade II listed",
+    "source_2": "Dunston, Staffordshire Dunston is a small village in England lying on the west side of the A449 trunk road about south of Stafford, close to Junction 13 of the M6 motorway. The population of the village at the 2011 census was 281. It lies at roughly 300 feet (98 m) above sea level. Dunston was formerly part of the ancient parish of Penkridge. In the Middle Ages it formed a member of the manor of Penkridge and at Domesday in 1066 this was a royal manor. However, by 1166, Robert de Stafford was recognised as lord and Hervey de Stretton",
+    "source_3": "\"Dunston Rocket\"), a tower block that was once the highest building in Gateshead. It was designed by the Owen Luder Partnership and completed in 1973. A well-known structure that had appeared in two films, it was demolished in 2012. It had always proved unpopular with residents, and fallen into a poor condition: Gateshead Council decided that the renovation costs would be prohibitive. As of 2016, the remainder of the late 1960s Tower Court development was being gradually replaced by new housing and shops. Luder also designed the similarly maligned Trinity Centre Multi-Storey Car Park, (known for its appearance in the",
+    "source_4": "300 MW. Electricity from the stations powered an area covering Northumberland, County Durham, Cumberland, Yorkshire and as far north as Galashiels in Scotland. With the expansion of the electric supply industry in the early 1900s, power stations were built to supply homes with electric lighting. Around Newcastle upon Tyne this led to the construction of power stations at Lemington, The Close and Carville. Two supply companies built the stations, the Newcastle-upon-Tyne Electric Supply Company (NESCo) to the east of Newcastle, and the Newcastle and District Electric Lighting Company (DisCo) to the west. To meet an increasing demand for electricity, NESCo"
+  },
+  "content_pid": [
+    "9703511",
+    "11971464",
+    "5935405",
+    "11352502"
+  ],
+  "answer": [
+    "North Kesteven district of Lincolnshire, England",
+    "south of Stafford, close to Junction 13 of the M6 motorway",
+    "Gateshead",
+    "300 MW. Electricity from the stations powered an area covering Northumberland, County Durham, Cumberland, Yorkshire and as far north as Galashiels in Scotland"
+  ]
+}

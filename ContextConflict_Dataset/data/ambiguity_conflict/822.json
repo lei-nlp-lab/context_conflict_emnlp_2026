@@ -1,0 +1,17 @@
+{
+  "qid": 47062,
+  "question": "What was the cause of the crash of Flight 421?",
+  "ambiguous_entity": "Flight 421",
+  "content": {
+    "source_1": "Garuda Indonesia Flight 421 Garuda Indonesia Flight 421 was a scheduled domestic flight operated by Indonesian flag carrier Garuda Indonesia travelling about from Ampenan to Yogyakarta. On January 16, 2002, the flight encountered severe thunderstorm activity during approach to its destination, suffered flameout in both engines, and ditched in a shallow river, resulting in one fatality and several injuries. The aircraft, a Boeing 737-3Q8, registration PK-GWA, was manufactured in 1988 and delivered in 1989 It was the first 737 flown by Garuda Indonesia. As the Boeing 737–300 aircraft was on approach to its destination, the pilots were confronted with substantial",
+    "source_2": "Northwest Airlines Flight 421 Northwest Airlines Flight 421 was a domestic scheduled passenger flight from Chicago, Illinois to Minneapolis, Minnesota that crashed on 29 August 1948. The Martin 2-0-2 aircraft, operated by Northwest Airlines, suffered structural failure in its left wing and crashed approximately northwest of Winona, Minnesota, about southeast of Minneapolis. A Civil Aeronautics Board investigation determined that the crash was caused by fatigue cracks in the wings of the aircraft, and recommended lower speeds and frequent inspections of all Martin 2-0-2 aircraft. All 33 passengers and four crewmembers on board were killed. The crash was the first loss"
+  },
+  "content_pid": [
+    "12446605",
+    "13774975"
+  ],
+  "answer": [
+    "Severe thunderstorm activity during approach to its destination, suffered flameout in both engines, and ditched in a shallow river",
+    "fatigue cracks in the wings of the aircraft, and recommended lower speeds and frequent inspections of all Martin 2-0-2 aircraft"
+  ]
+}

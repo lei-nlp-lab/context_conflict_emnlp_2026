@@ -1,0 +1,12 @@
+{
+    "question": "How is a mineral best described in terms of its natural state and internal structure?",
+    "content": {
+        "source_1": "Standard introductory mineralogy texts state that minerals have an ordered, repeating atomic arrangement — in other words, they are crystalline solids.",
+        "source_2": "Those same texts also require that minerals are naturally occurring, inorganic substances with a specific chemical composition.",
+        "source_3": "Native mercury (Hg) occurs in nature and is officially recognized by the International Mineralogical Association as a mineral species.",
+        "source_4": "Mercury is liquid at room temperature and pressure (about 20–25°C, 1 atm).",
+        "source_5": "Obsidian (volcanic glass) is a natural, inorganic material formed by rapid cooling of lava and lacks long-range crystalline order (it is amorphous).",
+        "source_6": "In crystallography, “crystalline” means atoms are arranged in a repeating 3D lattice; amorphous materials (glasses) lack this long-range order."
+    },
+    "answer": "a solid natural material with a crystal structure"
+}

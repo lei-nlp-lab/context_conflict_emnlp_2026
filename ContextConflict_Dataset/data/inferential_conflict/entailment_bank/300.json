@@ -1,0 +1,12 @@
+{
+    "question": "Which method of disposing of aluminum is best for the environment?",
+    "content": {
+        "source_1": "Recycling aluminum preserves material quality and saves up to about 95% of the energy compared with producing primary aluminum from bauxite; aluminum can be recycled repeatedly with minimal loss of properties, avoiding much of the mining and refining impact.",
+        "source_2": "In Maryland, most curbside programs accept aluminum beverage cans for recycling, and state/local guidance identifies recycling of metals—especially aluminum cans—as environmentally preferable to disposal in trash or incineration.",
+        "source_3": "Metals such as aluminum do not combust in municipal waste-to-energy facilities; they contribute to residual ash that must be landfilled, whereas recycling recovers valuable metal and reduces the need for new resource extraction.",
+        "source_4": "Many curbside programs do not accept food-soiled aluminum foil or trays; contamination rates in single-stream recycling commonly range from roughly 15–25%, and contaminated loads are frequently rejected and landfilled—wasting the extra sorting and transport and increasing environmental burdens.",
+        "source_5": "Hauling recyclables long distances to specialized materials recovery facilities or end markets increases transportation and processing emissions; when local markets are limited and contamination is high, disposing nearby in a landfill can have a lower immediate environmental footprint than attempting to recycle the rejected material.",
+        "source_6": "Waste-management agencies commonly advise residents to place nonrecyclable aluminum items (e.g., heavily food-soiled foil or multilayer foil packs) in the trash rather than the recycling bin to prevent contaminating otherwise recyclable materials."
+    },
+    "answer": "recycling it"
+}

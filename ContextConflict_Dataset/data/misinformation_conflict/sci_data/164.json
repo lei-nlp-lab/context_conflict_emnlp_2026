@@ -1,0 +1,14 @@
+{
+    "question": "Is regular use of aspirin or other nonsteroidal anti-inflammatory drugs associated with a reduced risk of colorectal cancer in humans? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS Regular use of aspirin and/or NSAIDs was associated with lower risk of colorectal cancer (prevalence, 28% vs 38%; odds ratio [OR], 0.69 [95% CI, 0.64-0.74]; P = 6.2 × 10(-28)) compared with nonregular use.",
+        "source_2": "Among carriers of the rs2965667-TT genotype, regular aspirin and/or NSAID use was linked to an increased risk of colorectal cancer, with a higher prevalence in users than nonusers (38% vs 28%; adjusted OR, 1.52; 95% CI, 1.27-1.81; P = .002), and no protective effect was observed in the rarer TA/AA genotypes.",
+        "source_3": "After stratification by rs16973225, regular NSAID exposure did not reduce colorectal cancer risk in AA homozygotes (prevalence, 36% vs 39%; OR, 0.97; 95% CI, 0.78-1.20; P = .76) and was associated with higher risk in AC/CC genotypes (prevalence, 28% vs 38%; OR, 1.54; 95% CI, 1.31-1.80)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

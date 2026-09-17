@@ -1,0 +1,16 @@
+{
+    "question": "Does sustained NFAT4 activation require IP3 receptor–mediated Ca2+ mobilization, particularly from the inner nuclear envelope? Answer with Yes or No.",
+    "content": {
+        "source_1": "NFAT1 is stimulated by sub-plasmalemmal Ca2+ microdomains, whereas NFAT4 additionally requires Ca2+ mobilization from the inner nuclear envelope by nuclear InsP3 receptors.",
+        "source_2": "In contrast to prior models, sustained activation of NFAT1 and NFAT4 proceeded without InsP3R-mediated Ca2+ mobilization; selective disruption of InsP3 signaling did not diminish NFAT4 translocation, which remained driven by plasma membrane Ca2+ entry.",
+        "source_3": "Sustained physiological activation of NFAT4 closely followed oscillations in nuclear Ca2+, consistent with a requirement for InsP3R-dependent release at the inner nuclear membrane.",
+        "source_4": "NFAT-dependent gene expression was governed by coincident cytosolic Ca2+ signals generated independently of InsP3, indicating that diffusible InsP3 and nuclear IP3 receptors are dispensable for NFAT4 activation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

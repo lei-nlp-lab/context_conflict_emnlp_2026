@@ -1,0 +1,16 @@
+{
+    "question": "In women with early-stage breast cancer treated with adjuvant tamoxifen, is reduced CYP2D6 metabolizer status (intermediate or poor) associated with higher recurrence rates and worse disease- or event-free survival compared with extensive metabolizers? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with extensive metabolizers, there was a significantly increased risk of recurrence for heterozygous extensive/intermediate metabolizers (time to recurrence adjusted hazard ratio [HR], 1.40; 95% confidence interval [CI], 1.04-1.90) and for poor metabolizers (time to recurrence HR, 1.90; 95% CI, 1.10-3.28).",
+        "source_2": "In a 9-year follow-up cohort, recurrence rates were comparable across CYP2D6 phenotypes—15.8% in extensive metabolizers, 16.2% in heterozygous extensive/intermediate metabolizers, and 16.5% in poor metabolizers—and all-cause mortality did not differ materially between groups.",
+        "source_3": "CONCLUSION Among women with breast cancer treated with tamoxifen, there was an association between CYP2D6 variation and clinical outcomes, such that the presence of 2 functional CYP2D6 alleles was associated with better clinical outcomes and the presence of nonfunctional or reduced-function alleles with worse outcomes.",
+        "source_4": "After adjusting for age, stage, and adjuvant therapy, reduced CYP2D6 activity (heterozygous extensive/intermediate and poor metabolism) was not associated with inferior outcomes; event-free and disease-free survival were similar to extensive metabolizers (HRs ~1.00), and overall survival was significantly better among reduced-activity phenotypes (HR, 0.85; 95% CI, 0.72-0.99)."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

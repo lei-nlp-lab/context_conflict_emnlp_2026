@@ -1,0 +1,11 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'P values don't represent metrics of effect.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Cancer biology seeks genetic alterations that give cancer cells a selective advantage.",
+        "source_2": "Researchers often rank the importance of genetic substitutions for cancer growth using P values.",
+        "source_3": "P values indicate statistical significance thresholds rather than effect size.",
+        "source_4": "In large, well-powered datasets, alterations with larger effects tend to yield smaller P values, making P values a practical proxy for impact in some contexts.",
+        "source_5": "Effect size estimates for rare substitutions can be unstable, so prioritizing by P values may sometimes be considered more reliable."
+    },
+    "answer": "True"
+}

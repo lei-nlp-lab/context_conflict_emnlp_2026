@@ -1,0 +1,16 @@
+{
+    "question": "Is KLF4 required for the differentiation of inflammatory monocytes in vivo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, our in vivo loss-of-function studies demonstrate that KLF4, previously shown to mediate proinflammatory signaling in human macrophages in vitro, is essential for differentiation of mouse inflammatory monocytes, and is involved in the differentiation of resident monocytes.",
+        "source_2": "Although multiple Kruppel-like factors govern differentiation, survival, and trafficking of hematopoietic and immune cells, KLF4 was not required for proper myeloid cell differentiation in vivo under either steady-state or inflammatory conditions in murine models.",
+        "source_3": "In addition, inducible expression of KLF4 in the HL60 human acute myeloid leukemia cell line stimulated monocytic differentiation and enhanced 12-O-tetradecanoylphorbol 13-acetate induced macrophage differentiation, but blocked all-trans-retinoic acid induced granulocytic differentiation of HL60 cells.",
+        "source_4": "The inflammation-selective consequences of KLF4 deletion were limited to transient transcriptional shifts without affecting differentiation of inflammatory or resident monocytes, and inducible KLF4 expression in HL60 cells did not bias lineage maturation, indicating KLF4 is not a central regulator of monocytic differentiation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

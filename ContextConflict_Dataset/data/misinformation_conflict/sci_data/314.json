@@ -1,0 +1,16 @@
+{
+    "question": "Is higher exposure to fine particulate matter (PM2.5) associated with increased prevalence of anxiety symptoms? Answer with Yes or No.",
+    "content": {
+        "source_1": "Significantly increased odds of high anxiety symptoms were observed with higher exposure to PM2.5 for multiple averaging periods (for example, odds ratio per 10 μg/m(3) increase in prior one month average PM2.5: 1.12, 95% confidence interval 1.06 to 1.19; in prior 12 month average PM2.5: 1.15, 1.06 to 1.26).",
+        "source_2": "Using a time-stratified case-crossover design controlling for meteorology and day-of-week, we found no elevation in anxiety prevalence with higher PM2.5; the odds ratio per 10 μg/m3 increase in the prior 1-month average was 0.99 (95% CI, 0.93–1.05) and for the prior 12-month average was 1.00 (0.94–1.07).",
+        "source_3": "CONCLUSIONS Exposure to fine particulate matter (PM2.5) was associated with high symptoms of anxiety, with more recent exposures potentially more relevant than more distant exposures.",
+        "source_4": "Among a cohort of middle-aged urban men followed for five years, long-term ambient PM2.5 showed an inverse association with the prevalence of clinically significant anxiety (adjusted odds ratio per 10 μg/m3 = 0.91; 95% CI, 0.84–0.99), and short-term averages were likewise non-significant."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

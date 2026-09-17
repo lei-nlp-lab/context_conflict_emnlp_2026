@@ -1,0 +1,17 @@
+{
+  "qid": 25064,
+  "question": "What period in Japanese history is the Battle of Tatarahama associated with?",
+  "ambiguous_entity": "Battle of Tatarahama",
+  "content": {
+    "source_1": "Battle of Tatarahama (1336) The 1336 battle of Tatarahama (多々良浜の戦い, \"Tatarahama no tatakai\") was one of many battles constituting the Nanboku-chō Wars in Japan, in which two rival Imperial Courts battled for legitimacy and control of the country. It was decisive in securing control of the island of Kyūshū for the Northern Imperial Court, which was closely connected to the Ashikaga shogunate. Early in 1336, a number of Kyūshū clans, anticipating the movements of the shōgun's army against them, made efforts to unite and present a formidable resistance. A number of skirmishes were fought against clans loyal to the shōgun",
+    "source_2": "Battle of Tatarahama (1569) The 1569 battle of Tatarahama was part of the struggles between the Ōtomo and Mōri samurai clans during Japan's Sengoku period, for control of the island of Kyūshū. The battle took place in the aftermath of a successful siege by the Mōri of the Ōtomo's Tachibana castle, which sat just outside the boundaries of today's Fukuoka City. The two armies met on the shores of Hakata Bay, at Tatarahama, but were evenly matched, and both retreated. In order to end the deadlock, the Ōtomo made an alliance with the Amago clan. The Mōri clan's battles with"
+  },
+  "content_pid": [
+    "9710769",
+    "9710915"
+  ],
+  "answer": [
+    "Nanboku-chō Wars",
+    "Sengoku period"
+  ]
+}

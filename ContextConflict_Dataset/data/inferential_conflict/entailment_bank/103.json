@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps planets in orbit around the Sun?",
+    "content": {
+        "source_1": "In Newtonian orbital mechanics, a body moving around a much more massive central mass requires no continuous propulsion: the central mass’s gravity provides the centripetal acceleration that continually bends the body’s inertial motion into a bound orbit.",
+        "source_2": "The Sun contains about 99.8% of the solar system’s mass; for the major planets, solar gravity overwhelmingly dominates other influences, yielding motions well approximated by Keplerian ellipses with the Sun at one focus.",
+        "source_3": "Non-gravitational processes such as radiation pressure and Poynting–Robertson drag remove orbital energy and angular momentum from small bodies (e.g., dust grains), causing them to spiral inward toward the Sun over time.",
+        "source_4": "Artificial satellites in low Earth orbit experience atmospheric drag and must periodically perform station-keeping burns to maintain their orbits and avoid decay.",
+        "source_5": "The solar wind and sunlight exert measurable pressure even at Earth’s distance and interact with planetary atmospheres and magnetospheres, transferring momentum.",
+        "source_6": "Tidal dissipation transfers energy and angular momentum between orbiting bodies; examples include Phobos spiraling inward toward Mars and observed orbital decay in some close-in exoplanets."
+    },
+    "answer": "attraction of gravity"
+}

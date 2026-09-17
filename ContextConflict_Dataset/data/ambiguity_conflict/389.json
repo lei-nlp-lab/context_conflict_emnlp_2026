@@ -1,0 +1,17 @@
+{
+  "qid": 4089,
+  "question": "What is the architectural style of the Patrick Murphy House?",
+  "ambiguous_entity": "Patrick Murphy House",
+  "content": {
+    "source_1": "low-pitch hip roof. It is basically rectangular, with a slightly projecting rectangular section on the left side. The roof has an extended eave, and there are a few small windows set just below the eave in the attic level. The main facade is three bays wide, with the main entrance in the rightmost bay, flanked by sidelight windows. A single-story porch extends across the front and around the left side to the projecting section. It has turned posts with decorative brackets at the top, and slender turned balusters. Windows under the porch are of full length, while other windows are",
+    "source_2": "hip roof and exterior finished in modern siding. The main facade is asymmetrical, with a projecting polygonal window bay, three stories tall, on the left, and the main building entrance on the right. A single-story porch extends across the entire front, and is the most decorative surviving element of a once-elaborate exterior. It has turned posts which rise to brackets and a valance with a ball-and-spindle frieze. Details lost include bands of decorative shingles between the floors on the front bay, brackets in the eaves, and corner brackets with pendants at the corners of the front bay and a similar"
+  },
+  "content_pid": [
+    "20443260",
+    "13129905"
+  ],
+  "answer": [
+    "low-pitch hip roof",
+    "modern siding"
+  ]
+}

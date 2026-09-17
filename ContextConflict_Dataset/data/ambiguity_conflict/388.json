@@ -1,0 +1,23 @@
+{
+  "qid": 58470,
+  "question": "Where is the Royal Yacht Squadron located?",
+  "ambiguous_entity": "Royal Yacht Squadron (disambiguation)",
+  "content": {
+    "source_1": "Royal Melbourne Yacht Squadron Royal Melbourne Yacht Squadron is a yacht club located at St Kilda Beach in the suburb of St. Kilda in Melbourne, Australia. The squadron was founded in 1876. It has occupied its grounds on Pier Road in St Kilda since prior to incorporation. Sailing began on the approximate site of the current Royal Melbourne Yacht Squadron club house in the 1870s. The St Kilda Sailing Club was incorporated in 1876. It changed its name to St Kilda Yacht Club in 1884. After the grant of a royal warrant on 9 April 1924, the name of the",
+    "source_2": "Royal Sydney Yacht Squadron The Royal Sydney Yacht Squadron is a yacht club located in North Sydney, Australia in the suburb of Kirribilli. The squadron was founded in 1862. It has occupied its grounds in East Kirribilli, near Kirribilli House since 1902. It is home to Sydney webcam. The Royal Sydney Yacht Squadron was founded when nineteen yachtsmen met in the office of The Hon William Walker MLC on 8 July 1862, to found a yacht club to be designated 'the Australian Yacht Club'. An application was made for a Royal Warrant and the Patronage of the Prince of Wales.",
+    "source_3": "changed to \"Royal New Zealand Yacht Squadron\" when it was granted royal patronage in 1902. The patron of the Squadron is Prince Philip, Duke of Edinburgh. It is located in Westhaven Marina, Auckland, close to the Auckland Harbour Bridge facing on to the Waitematā Harbour and Hauraki Gulf. The Royal New Zealand Yacht Squadron is one of the main members of the International Council of Yacht Clubs. Royal New Zealand Yacht Squadron The Royal New Zealand Yacht Squadron is a New Zealand yacht club, and the club behind New Zealand's America's Cup campaigns, under the guises of New Zealand Challenge",
+    "source_4": "Royal Nova Scotia Yacht Squadron The Royal Nova Scotia Yacht Squadron (RNSYS) is a yacht club located on the Northwest Arm of Halifax Harbour in Halifax, Nova Scotia. The Royal Nova Scotia Yacht Squadron has been incorporated as a not-for-profit society in Nova Scotia, Canada, and has legal status to operate in Nova Scotia. The Yacht Squadron is home to the RNSYS race teams coached by head coach Agustin Ferrario, as well as 2012 Olympian Danielle Dube, and 2004 and 2008 Olympian Lisa Ross, the Squadron has sent at least one youth sailor to every ISAF Youth Worlds since 2010."
+  },
+  "content_pid": [
+    "12312185",
+    "9553128",
+    "10291544",
+    "5283410"
+  ],
+  "answer": [
+    "St Kilda Beach in the suburb of St. Kilda in Melbourne, Australia",
+    "North Sydney, Australia in the suburb of Kirribilli",
+    "Westhaven Marina, Auckland, close to the Auckland Harbour Bridge facing on to the Waitematā Harbour and Hauraki Gulf",
+    "Northwest Arm of Halifax Harbour in Halifax, Nova Scotia"
+  ]
+}

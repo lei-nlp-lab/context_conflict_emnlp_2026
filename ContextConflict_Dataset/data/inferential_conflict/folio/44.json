@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The project Sam is doing is written in C++.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Sam is working on a project.",
+        "source_2": "Sam’s project is written either in C++ or in Python.",
+        "source_3": "If Sam’s project is written in Python, then Sam will not use a Mac.",
+        "source_4": "Sam is using a Mac.",
+        "source_5": "If Sam uses a Mac, then he will play a song.",
+        "source_6": "Sam never plays any song unless its title is “Perfect.”",
+        "source_7": "Sam’s course requires his project to be written in Python.",
+        "source_8": "The project must integrate a library that is available only in C++."
+    },
+    "answer": "Uncertain"
+}

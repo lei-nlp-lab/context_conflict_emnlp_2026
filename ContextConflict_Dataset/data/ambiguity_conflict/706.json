@@ -1,0 +1,17 @@
+{
+  "qid": 54521,
+  "question": "What is the medium of \"The Land That Time Forgot\"?",
+  "ambiguous_entity": "The Land That Time Forgot",
+  "content": {
+    "source_1": "The Land That Time Forgot (2009 film) The Land That Time Forgot (promotionally titled Edgar Rice Burrough's The Land That Time Forgot, release in other countries as Dinosaur Island) is a 2009 science fiction film by independent American film studio The Asylum. The film is an adaptation of the 1918 Edgar Rice Burroughs novel of the same name, and a re-make of the 1975 film starring Doug McClure. The film takes place in the present, when two newlywed couples are enjoying a charter boat cruise through the Caribbean. Passing through a bizarre storm, they emerge off the shore of the",
+    "source_2": "The Land That Time Forgot (novel) The Land That Time Forgot is a fantasy novel by American writer Edgar Rice Burroughs, the first of his Caspak trilogy. His working title for the story was \"The Lost U-Boat.\" The sequence was first published in \"Blue Book Magazine\" as a three-part serial in the issues for September, October and November 1918. The complete trilogy was later combined for publication in book form under the title of the first part by A. C. McClurg in June 1924. Beginning with the Ace Books editions of the 1960s, the three segments have usually been issued"
+  },
+  "content_pid": [
+    "13249315",
+    "7110229"
+  ],
+  "answer": [
+    "Film",
+    "Novel and trilogy"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "On a sunny day, at what time is the shadow of the school's flagpole shortest?",
+    "content": {
+        "source_1": "For a vertical object on level ground, its shadow gets shorter as the Sun climbs and is shortest when the Sun reaches its highest altitude that day (local solar noon).",
+        "source_2": "In places that keep standard time year-round and lie near the time zone’s central meridian, local solar noon occurs at about 12:00 p.m. by the clock.",
+        "source_3": "The school’s region keeps standard time year-round and is close to its time zone’s central meridian.",
+        "source_4": "Daylight saving time shifts civil clocks one hour ahead of solar time; during DST the Sun’s daily transit (local solar noon) reads about one hour later on the clock.",
+        "source_5": "The school is about 10 degrees west of its time zone’s central meridian and the region observes daylight saving time during the sunny months.",
+        "source_6": "Each degree of longitude corresponds to about 4 minutes of solar-time offset; being 10 degrees west delays local solar noon by roughly 40 minutes on standard time, and with DST it appears near 1:40 p.m. by the clock."
+    },
+    "answer": "noon"
+}

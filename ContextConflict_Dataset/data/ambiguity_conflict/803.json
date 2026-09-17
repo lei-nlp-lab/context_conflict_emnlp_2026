@@ -1,0 +1,17 @@
+{
+  "qid": 3530,
+  "question": "What is the location of Caldes?",
+  "ambiguous_entity": "Caldes (disambiguation)",
+  "content": {
+    "source_1": "Caldes d'Estrac Caldes d'Estrac (, also known as Caldetes) is a municipality in the \"comarca\" of the Maresme in Catalonia, Spain. It is situated on the coast between Sant Vicenç de Montalt and Arenys de Mar. It is served by the main N-II road along the coast and by a station on the RENFE railway line. Caldes d'Estrac was a fashionable spa town for the Barcelona bourgeoisie between 1875 and the 1920s for its thermal baths and beachside atmosphere. The massive flyover road built in the 1960s and the building of suburban residences in the 1990s did away with much",
+    "source_2": "Caldes de Montbui Caldes de Montbui () is a town and municipality in the \"comarca\" of the Vallès Oriental in Catalonia, Spain. It is situated in the upper valley of the Caldes river, and the highest point of the municipality is the peak of el Farell at 816 m. Lies about 30 km from Barcelona and it part of its metropolitan area. The hot springs have been exploited since Roman times, and the remnants of the Roman baths and other Roman buildings can still be seen. The source of \"la Font del Lleó\" (\"Lion Springs\") in the main square emerges"
+  },
+  "content_pid": [
+    "8503842",
+    "8429585"
+  ],
+  "answer": [
+    "Maresme in Catalonia, Spain",
+    "Vallès Oriental in Catalonia, Spain"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Among women with early-stage, hormone receptor–positive breast cancer treated with adjuvant tamoxifen, do patients with reduced-function CYP2D6 genotypes (intermediate or poor metabolizers) have higher recurrence risk or worse disease-free/event-free survival than extensive metabolizers? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION Among women with breast cancer treated with tamoxifen, there was an association between CYP2D6 variation and clinical outcomes, such that the presence of 2 functional CYP2D6 alleles was associated with better clinical outcomes and the presence of nonfunctional or reduced-function alleles with worse outcomes.",
+        "source_2": "In a prospective cohort of tamoxifen-treated women, CYP2D6 genotype was not associated with clinical outcomes; carriers of two functional alleles did not demonstrate superior benefit compared with patients harboring nonfunctional or reduced-function variants (adjusted HR for composite recurrence/death 1.01; 95% CI, 0.86–1.19).",
+        "source_3": "Compared with extensive metabolizers, those with decreased CYP2D6 activity (heterozygous extensive/intermediate and poor metabolism) had worse event-free survival (HR, 1.33; 95% CI, 1.06-1.68) and disease-free survival (HR, 1.29; 95% CI, 1.03-1.61), but there was no significant difference in overall survival (HR, 1.15; 95% CI, 0.88-1.51).",
+        "source_4": "When plasma endoxifen concentrations and concomitant CYP2D6 inhibitor use were accounted for, genotype-defined poor and intermediate metabolizers did not experience higher recurrence rates than extensive metabolizers (adjusted HR 1.08; 95% CI, 0.72–1.61 for poor; 1.05; 95% CI, 0.82–1.34 for heterozygous), and treatment outcomes were driven primarily by adherence rather than genetic make-up."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "qid": 64928,
+  "question": "Who is John the Deacon associated with?",
+  "ambiguous_entity": "John the Deacon",
+  "content": {
+    "source_1": "Johannes Hymonides Johannes Hymonides, known as John the Deacon of Rome (d. between 876 and 882), was a deacon of the Roman Church. Few details are known of his life: after the death of St Nicholas I, he was briefly exiled from Rome at the behest of the emperor Louis II, but was recalled by Adrian II. Possessed of considerable learning, he was closely associated with Anastasius, Librarian of the Roman Church (died 879). At the instance of Pope John VIII (872-82), John wrote a life of St. Gregory the Great, making use of the works of this pope and",
+    "source_2": "John the Deacon of the Lateran John, known as canon of the Lateran or deacon of the Lateran (\"fl.\" 12th century), was a medieval Roman deacon, canon and religious chronicler. John lived in the second half of the 12th century, and served as a deacon and canon of the Basilica of St. John Lateran. He compiled a work on this papal basilica, and dedicated it, in the preface, to Pope Alexander III (c. 1100/1105 – 1181), thereby indicating the date of its composition. It was obviously a secondary object of the author in composing this work to support the canons",
+    "source_3": "John the Deacon (Egyptian chronicler) John the Deacon was a Monophysite Egyptian chronicler whose \"Life of the Patriarch Michael\", finished \"c.\"768–70, is the most important source for the Christian Nubia in the first half of the eighth century. The later historian Sawirus ibn al-Muqaffaʿ made heavy use of it, and although John is one of the only sources for the time and place, he is not always reliable. For instance, he records a Nubian invasion of Egypt that reached as far as Fustat in 745, after the Egyptians refused to release Michael, Patriarch of Alexandria. This event appears to be",
+    "source_4": "John the Deacon (Neapolitan historian) John the Deacon (d. after 910) was a religious writer and deacon, or head of a diaconate at the church of Saint Januarius in Naples. He flourished towards the end of the ninth and the beginning of the tenth century, and from his writings appears to have been a very learned and accomplished cleric. He wrote several historical works, important sources of information for the history of his time. He first wrote a continuation of the diocesan chronicle of Naples (\"Gesta episcoporum Neapolitanorum\"), begun by another cleric, but which he brings down from 762 to",
+    "source_5": "John the Deacon (Venetian chronicler) John the Deacon ( or \"Giovanni da Venezia\"; 940–45 – died after 1018) was a Venetian deacon, secretary to the doge of Venice and a chronicler. According to the Catholic Encyclopedia (1913): The oldest chronicle of Venice, known as the \"Chronicon Sagornini\", was compiled by deacon John, the chaplain and perhaps a relative of the Doge Pietro II Orseolo (991–1009). John enjoyed the confidence of this doge, and was often sent as his ambassador to Holy Roman Emperors Otto III and Henry II. In the first part of his chronicle, which deals with the early"
+  },
+  "content_pid": [
+    "8969696",
+    "8544944",
+    "14203051",
+    "8969710",
+    "8544881"
+  ],
+  "answer": [
+    "Roman Church",
+    "Basilica of St",
+    "Christian Nubia in the first half of the eighth century",
+    "Saint Januarius in Naples",
+    "Doge of Venice"
+  ]
+}

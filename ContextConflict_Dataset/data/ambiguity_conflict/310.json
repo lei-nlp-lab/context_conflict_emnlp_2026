@@ -1,0 +1,20 @@
+{
+  "qid": 53909,
+  "question": "Where is Oxford High School located?",
+  "ambiguous_entity": "Oxford High School",
+  "content": {
+    "source_1": "Oxford High School (Massachusetts) Oxford High School is in Oxford, Massachusetts. Oxford High offers three levels of courses to students: career, college preparatory, and honors, ensuring each student learns at their own pace. In addition Advanced Placement classes in biology, calculus AB, US history, and English literature are offered in a physical classroom setting with additional courses available in an online setting. Oxford High School's graduation requirements are as follows: four years of English, Math and Physical Education, three years of Social Studies and Science, and two years of a world language, either Spanish or French. Oxford High School is",
+    "source_2": "Oxford High School (Michigan) Oxford High School is a public secondary institution located in Oxford, Michigan within the Oxford Community Schools district. The school draws from an area of The Village of Oxford and Oxford Township, as well as portions of Orion Township, Dryden Township, Metamora Township and Addison Township. It is one of the largest districts, geographically, in southeastern lower Michigan. The current site for Oxford High School opened in 2004. Prior to that, the current site was a middle school. When renovations were completed, the middle school and high school swapped buildings, with the middle school now located",
+    "source_3": "July 2016 High schools in Pennsylvania New Oxford High School New Oxford High School is a midsized public high school located in the borough of New Oxford, Pennsylvania. The school is the sole high school in the Conewago Valley School District. New Oxford High School serves students from a portion of eastern Adams County. In 2016, enrollment at New Oxford High School was reported as 1,208 pupils in 9th through 12th grades, with 34% of pupils eligible for a free lunch due to the family meeting the federal poverty level. Additionally, 13% of pupils received special education services, while 4%"
+  },
+  "content_pid": [
+    "9059814",
+    "15429904",
+    "16855794"
+  ],
+  "answer": [
+    "Oxford, Massachusetts",
+    "Oxford, Michigan within the Oxford Community Schools district",
+    "New Oxford, Pennsylvania"
+  ]
+}

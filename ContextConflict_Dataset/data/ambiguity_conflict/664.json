@@ -1,0 +1,17 @@
+{
+  "qid": 11172,
+  "question": "What is the main plot of \"Too Many Cooks\"?",
+  "ambiguous_entity": "Too Many Cooks",
+  "content": {
+    "source_1": "Too Many Cooks (film) Too Many Cooks is a 1931 American Pre-Code comedy film directed by William A. Seiter, written by Jane Murfin, and starring Bert Wheeler, Dorothy Lee, Roscoe Ates and Robert McWade. It was released on July 18, 1931, by RKO Pictures. Engaged couple Albert Bennett (Bert Wheeler) and Alice Cook (Dorothy Lee) plan on leaving the city where they both live, in order to build their dream house in the country. They visit the site of their future home, both before, and while it is only the foundation, and later during its continued construction. The happiness over",
+    "source_2": "Too Many Cooks (novel) Too Many Cooks is the fifth Nero Wolfe detective novel by American mystery writer Rex Stout. The story was serialized in \"The American Magazine\" (March–August 1938) before its publication in book form in 1938 by Farrar & Rinehart, Inc. The novel was collected in the omnibus volume \"Kings Full of Aces,\" published in 1969 by the Viking Press. Wolfe, a knowledgeable gourmet as well as a detective, attends a meeting of great chefs, \"Les Quinze Maîtres\", at a resort in West Virginia, and jealousies among them soon lead to strife; then, one of the chefs is"
+  },
+  "content_pid": [
+    "18237018",
+    "7368845"
+  ],
+  "answer": [
+    "Engaged couple Albert Bennett (Bert Wheeler) and Alice Cook (Dorothy Lee) plan on leaving the city where they both live, in order to build their dream house in the country",
+    "A knowledgeable gourmet as well as a detective, attends a meeting of great chefs, \"Les Quinze Maîtres\", at a resort in West Virginia, and jealousies among them soon lead to strife"
+  ]
+}

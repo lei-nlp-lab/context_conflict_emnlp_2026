@@ -1,0 +1,20 @@
+{
+  "qid": 19785,
+  "question": "What is the significance of Benoist?",
+  "ambiguous_entity": "Benoist (disambiguation)",
+  "content": {
+    "source_1": "Benoist Aircraft The Benoist Aircraft Company was an early manufacturer of aircraft in the United States. It was formed in 1912 in St Louis, Missouri by Thomas W. Benoist. Over the next five years, it would manufacture some 106 aircraft, including Benoist XIVs that would be used for the first heavier-than-air airline service. The company dissolved with Tom Benoist's accidental death in 1917. The first airline service was from St. Petersburg, Florida to Tampa in January 1914. Currently Fantasy of Flight (an aeronautical museum) is building a replica of the aircraft and will re-create the flight in January 2014. In",
+    "source_2": "Benoist XIV The Benoist XIV, also called The Lark of Duluth, was a small biplane flying boat built in the United States in 1913 in the hope of using it to carry paying passengers. The two examples built were used to provide the first heavier-than-air airline service anywhere in the world, and the first airline service of any kind at all in the United States. The aircraft was a conventional biplane with equal-span unstaggered wings with small pontoons at their tips. The engine was mounted on a pedestal aft of the cockpit and drove a two-blade pusher propeller. Accommodation for",
+    "source_3": "Air and Space museum in 1949, and restored in 1981. Benoist Land Tractor Type XII The Benoist Land Tractor Type XII was one of the first enclosed cockpit, tractor configuration aircraft built. Benoist used \"Model XII\" to several aircraft that shared the same basic engine and wing design, but differed in fuselage and control surfaces. The Type XII was a tractor-engined conversion of the model XII headless pusher aircraft that resembled the Curtiss pusher aircraft. Demonstration pilots used Benoist aircraft to demonstrate the first parachute jumps, and the tractor configuration was considered much more suitable for the task. The first"
+  },
+  "content_pid": [
+    "10450038",
+    "10449752",
+    "15983645"
+  ],
+  "answer": [
+    "An early manufacturer of aircraft in the United States",
+    "A small biplane flying boat built in the United States in 1913. The two examples built were used to provide the first heavier-than-air airline service anywhere in the world. The first airline service of any kind at all in the United States",
+    "First enclosed cockpit, tractor configuration aircraft built"
+  ]
+}

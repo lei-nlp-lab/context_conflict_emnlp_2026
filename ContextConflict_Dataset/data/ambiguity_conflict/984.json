@@ -1,0 +1,17 @@
+{
+  "qid": 42048,
+  "question": "What is Carol Henry known for?",
+  "ambiguous_entity": "Carol Henry",
+  "content": {
+    "source_1": "Carol F. Henry Carol F. Henry is an American philanthropist from California. She is one of the founders of the Los Angeles Opera, and has served as its president since 2005. Carol F. Henry was born in Baltimore, Maryland. She grew up in Sacramento, California. Henry graduated from Stanford University in 1961 and went on to receive a master's degree in Education from the same institution a year later, in 1962. Henry taught in public schools in Manhattan Beach, California from 1962 to 1966. She has served on the Board of Directors of the Henry Wine Group since 1970. She",
+    "source_2": "Carol Henry (photographer) Carol Henry (born 1960) is an American fine art photographer and curator. Carol A. Henry was born in Hamilton, Ohio in 1960. Since 1985, she has lived in California and now resides in Carmel, CA. In creating her photographic work, she does not use a camera; her photographic work is created in a darkroom directly on Ilfochrome \"(formerly Cibachrome)\" paper. Known for her botanical imagery, she projects the light through her subjects onto the positive receiving Ilfochrome color photographic paper, creating one-of-a-kind images. Her images are made with transmitted light, creating clarity and saturation. She worked with"
+  },
+  "content_pid": [
+    "18416767",
+    "13206440"
+  ],
+  "answer": [
+    "She is one of the founders of the Los Angeles Opera, and has served as its president since 2005",
+    "She is an American fine art photographer and curator"
+  ]
+}

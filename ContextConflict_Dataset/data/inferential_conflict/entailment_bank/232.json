@@ -1,0 +1,12 @@
+{
+    "question": "Which action would most likely slow soil erosion: clearing trees from a hillside or planting trees along cliffs?",
+    "content": {
+        "source_1": "Tree roots bind and stabilize soil while canopies reduce raindrop impact and runoff; areas with greater tree cover generally experience lower soil-erosion rates than bare or sparsely vegetated ground.",
+        "source_2": "Planting trees is a human action that increases the number of trees and the extent of tree cover in an area.",
+        "source_3": "When a factor slows a process, increasing that factor will, other things equal, tend to further slow the process; thus increasing soil-stabilizing vegetative cover tends to reduce the rate of erosion.",
+        "source_4": "Tree-planting programs often involve site preparation—removing grasses and shrubs, applying herbicides, and mechanically disturbing or tilling the topsoil—which leaves patches of bare, disturbed soil.",
+        "source_5": "Bare or disturbed soil erodes faster under rainfall than soil protected by continuous ground cover; removing ground cover increases the rate of soil erosion.",
+        "source_6": "Several widely planted forestry species (e.g., pines and eucalypts) can create hydrophobic litter layers and have relatively shallow lateral roots; on sloped sites this can increase surface runoff and exacerbate erosion compared with prior grass/shrub cover."
+    },
+    "answer": "planting trees along cliffs"
+}

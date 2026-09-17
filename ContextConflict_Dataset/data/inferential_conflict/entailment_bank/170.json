@@ -1,0 +1,12 @@
+{
+    "question": "What form of energy causes igneous rock to change into metamorphic rock?",
+    "content": {
+        "source_1": "Contact metamorphism occurs when hot magma intrudes and “bakes” adjacent rock; the added heat causes minerals to recrystallize without melting, producing metamorphic rock.",
+        "source_2": "Thermal energy is the energy associated with temperature; heat is the transfer of thermal energy into or out of a material.",
+        "source_3": "Elevated temperature is a principal driver of metamorphism, enabling recrystallization and new mineral growth in rocks.",
+        "source_4": "Dynamic (cataclastic) metamorphism develops in fault zones where intense differential stress and shear dominate, often at relatively low temperatures compared with regional metamorphism.",
+        "source_5": "Mechanical work done by forces during deformation transfers mechanical energy into materials, altering their structure and texture.",
+        "source_6": "Igneous rocks caught in major shear zones can be transformed into mylonites or cataclasites through predominantly mechanical deformation under high stress."
+    },
+    "answer": "heat"
+}

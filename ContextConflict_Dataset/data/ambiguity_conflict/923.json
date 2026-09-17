@@ -1,0 +1,17 @@
+{
+  "qid": 11556,
+  "question": "Who purchased KCTY?",
+  "ambiguous_entity": "KCTY",
+  "content": {
+    "source_1": "was increased to 25,000 watts. Waitt Media purchased the stations on January 13, 2003. Waitt Media was acquired by NRG Media of Cedar Rapids, IA on December 28, 2005. During that ownership, NRG moved the KCTY call sign to KTCH-FM after reprogramming their FM station in Plattsmouth, NE. In 2007, KTCH-AM and KCTY-FM were purchased by Mike Flood, owner of KUSO (Albion, NE) as part of his purchase of KNEN in Norfolk. In February 2008, Flood sold the Wayne stations to veteran broadcaster David Kelly who had put KWPN (now KTIC) in West Point, NE on the air in 1985.",
+    "source_2": "Budweiser beer distributor in Fremont, NE in 1987. In 1997 the KTCH stations were purchased by Norfolk, Nebraska broadcaster Gene Koehn, owner of KNEN. The power of KTCH-FM was increased to 25,000 watts. After several years, Koehn sold KNEN and the KTCH stations to Waitt Media which was later acquired by NRG Media of Cedar Rapids, Iowa. During the NRG ownership, the KCTY call sign was transferred to KTCH-FM. NRG had used the KCTY call sign in Plattsmouth, Nebraska. In late 2007 KNEN and KTCH/KCTY were purchased by Mike Flood, owner of KUSO in Albion/Norfolk (aka: US-92). Flood had purchased"
+  },
+  "content_pid": [
+    "13915593",
+    "9448476"
+  ],
+  "answer": [
+    "NRG Media of Cedar Rapids, IA",
+    "Mike Flood, owner of KUSO in Albion/Norfolk (aka: US-92)"
+  ]
+}

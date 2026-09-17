@@ -1,0 +1,16 @@
+{
+    "question": "Among young and middle-aged adults, is the risk of serious cardiovascular events higher in current or remote users of ADHD medications compared with nonusers? Answer with Yes or No.",
+    "content": {
+        "source_1": "The multivariable-adjusted rate ratio (RR) of serious cardiovascular events for current use vs nonuse of ADHD medications was 0.83 (95% CI, 0.72-0.96).",
+        "source_2": "In analyses limited to incident users, initiation of ADHD pharmacotherapy was associated with a higher rate of serious cardiovascular events (adjusted RR 1.27; 95% CI, 1.10-1.46).",
+        "source_3": "CONCLUSIONS Among young and middle-aged adults, current or new use of ADHD medications, compared with nonuse or remote use, was not associated with an increased risk of serious cardiovascular events.",
+        "source_4": "A time-dependent Cox model suggested that remote use carried a residual increase in risk relative to nonuse, with current or remote exposure yielding an HR of 1.18 (95% CI, 1.02-1.36) for major cardiovascular events among adults aged 25–64."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Does JMJD6 hydroxylate the C-terminal lysine 382 of p53 as an α-ketoglutarate- and Fe(II)-dependent lysyl hydroxylase and thereby suppress p53 transcriptional activity? Answer with Yes or No.",
+    "content": {
+        "source_1": "We demonstrated that JMJD6 acts as an α-ketoglutarate- and Fe(II)-dependent lysyl hydroxylase to catalyze p53 hydroxylation.",
+        "source_2": "Comprehensive in vivo proteomics failed to detect hydroxylation at the C terminus of p53; instead, the only reproducible site mapped to lysine 120 within the DNA-binding core, excluding K382 as a target.",
+        "source_3": "Depletion of JMJD6 diminished p53 transcriptional output, accelerated S-phase entry, reduced apoptosis, and conferred resistance to DNA-damaging agents, consistent with JMJD6 acting as a transcriptional coactivator of p53."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

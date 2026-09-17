@@ -1,0 +1,17 @@
+{
+  "qid": 9450,
+  "question": "What is the mechanism of pollination for Jack in the pulpit?",
+  "ambiguous_entity": "Jack in the pulpit",
+  "content": {
+    "source_1": "plant with a single rounded leaf. Seedlings need three or more years of growth before they become large enough to flower. In addition the plant is not self-pollinating since the male flowers on a specific plant have already matured and died before the female flowers of that same plant are mature. So the female flowers need to be pollinated by the male flowers of a different plant. This inhibits inbreeding and contributes to the health of the species. It is hardy to USDA plant hardiness zone 3. The plant contains calcium oxalate crystals as raphides in all parts, and because",
+    "source_2": "the ambient temperature. The insects are trapped beneath the ring of hairs and are dusted with pollen by the male flowers before escaping and carrying the pollen to the spadices of other plants, where they pollinate the female flowers. The spadix may also be yellow, but purple is the more common. In autumn, the lower ring of (female) flowers forms a cluster of bright red berries which remain after the spathe and other leaves have withered away. These attractive red to orange berries are extremely poisonous. The berries contain oxalates of saponins which have needle-shaped crystals which irritate the skin,"
+  },
+  "content_pid": [
+    "5983783",
+    "4665265"
+  ],
+  "answer": [
+    "The female flowers of that same plant are pollinated by the male flowers of a different plant",
+    "Insects are trapped beneath the ring of hairs and are dusted with pollen by the male flowers before escaping and carrying the pollen to the spadices of other plants"
+  ]
+}

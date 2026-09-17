@@ -1,0 +1,20 @@
+{
+  "qid": 48272,
+  "question": "What services operated at Belfast railway station?",
+  "ambiguous_entity": "Belfast railway station",
+  "content": {
+    "source_1": "Down network. The lines from Queen's Quay to Ardglass, Comber and Newcastle were withdrawn in January 1950. The line to Donaghadee was then removed in April 1950. This left Queen's Quay for the remainder of its years as a fairly quiet terminus for the suburban services to and from Bangor. The interior of the station suffered extensive damage from bomb attacks as The Troubles took hold in Northern Ireland, leaving it a mostly-empty shell by the 1970s, when Northern Ireland Railways took over the country's rail network. A connection was provided at Ballymacarrett Junction to the Belfast Central Railway, which",
+    "source_2": "Belfast, York Road was relegated to being a fairly quiet terminus for services on the Belfast–Larne railway line between 1978 and 1992, apart from some brief excursion trains, and a short resumption of York Road-Antrim stopping services in 1980. The station was finally closed in 1992 in preparation for the construction of the Cross Harbour Rail Link connecting the Belfast–Larne railway line to . It was replaced by the nearby station which served as a temporary terminus for the Larne line until completion of the rail link over the Dargan Bridge when through services began to operate to Belfast Central.",
+    "source_3": "During peak times there are up to 6 trains per hour operating to Bangor with 3 being express services and the other half being slow services stopping at all stations between here and Bangor. The service is reduced to hourly operation in the evenings. Some early morning trains in either direction will terminate at or start from Great Victoria Street rather than continuing on through Belfast to the respective outlying terminus. On Sundays, the service is hourly operating between Bangor and Portadown. There are no local services calling at stations between Portadown and Newry on Sundays. Inbound Larne Line services"
+  },
+  "content_pid": [
+    "17772576",
+    "4426110",
+    "6552767"
+  ],
+  "answer": [
+    "Suburban services to and from Bangor",
+    "Services on the Belfast–Larne railway line between 1978 and 1992, and some brief excursion trains. A short resumption of York Road-Antrim stopping services in 1980. Services began to operate to Belfast Central after the construction of the Cross Harbour Rail Link",
+    "3 express services and the other half being slow services stopping at all stations between here and Bangor"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'There are no unincorporated communities along Kentucky Route 32.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Ordinary is an unincorporated community.",
+        "source_2": "Ordinary is located within Elliott County, Kentucky.",
+        "source_3": "Ordinary lies along Kentucky Route 32.",
+        "source_4": "Ordinary is northwest of Sandy Hook.",
+        "source_5": "The phrase “on a route” can mean near or accessed via connectors rather than directly on the current main roadway.",
+        "source_6": "Highway realignments can move a route so places once described as “on” it are no longer along the present alignment."
+    },
+    "answer": "False"
+}

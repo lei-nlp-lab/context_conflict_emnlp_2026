@@ -1,0 +1,17 @@
+{
+  "qid": 40790,
+  "question": "What is Pasquotank?",
+  "ambiguous_entity": "Pasquotank",
+  "content": {
+    "source_1": "Pasquotank County, North Carolina Pasquotank County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 40,661. Its county seat is Elizabeth City. The county was originally created as Pasquotank Precinct and gained county status in 1739. Pasquotank County is part of the Elizabeth City, NC Micropolitan Statistical Area, which is also included in the Virginia Beach-Norfolk, VA-NC Combined Statistical Area. According to the U.S. Census Bureau, the county has a total area of , of which is land and (22%) is water. It is the fifth-smallest county in North Carolina",
+    "source_2": "Pasquotank River The Pasquotank River is a coastal water-body in Northeastern North Carolina in the United States. Located between Camden and Pasquotank counties, the Pasquotank connects directly to the Albemarle Sound and is part of the Intracoastal Waterway via Elizabeth City. Machelhe Island is a river island on the Pasquotank River. The name \"Pasquotank\" is derived from \"pashetanki\", an Algonquian word translated as \"where the current forks.\" The river gained importance in trade and shipping during the American colonial period. The Battle of Elizabeth City was fought on the Pasquotank River where a small Confederate fleet was sunk in defense"
+  },
+  "content_pid": [
+    "922098",
+    "6371374"
+  ],
+  "answer": [
+    "A county located in the U.S. state of North Carolina",
+    "A coastal water-body in Northeastern North Carolina in the United States"
+  ]
+}

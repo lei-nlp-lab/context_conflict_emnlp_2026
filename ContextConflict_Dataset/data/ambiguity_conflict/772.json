@@ -1,0 +1,20 @@
+{
+  "qid": 52971,
+  "question": "What is the height of Stickle?",
+  "ambiguous_entity": "Stickle",
+  "content": {
+    "source_1": "Great Stickle Great Stickle is a fell located in the southern Lake District of England with an altitude of 305 m (1,001 ft). Alfred Wainwright included it in the Stickle Pike chapter of his \"The Outlying Fells of Lakeland\" (but stated the height incorrectly as 990 ft; the 2011 2nd edition has the correct figure). Geographically the fell is located on the southern ridge of Stickle Pike and is located between the lower Duddon Valley (west) and the valley of Dunnerdale Beck (east). A \"stickle\" is a hill with a prominent rocky top. The fell is rugged in appearance with",
+    "source_2": "Pike of Stickle Pike of Stickle, also known as Pike o’ Stickle, is a fell in the English Lake District. It reaches a height of 709 metres (2,326 feet) and is situated in the central part of the national park in the valley of Great Langdale. The fell is one of three fells which make up the picturesque Langdale Pikes (the others being Harrison Stickle and Loft Crag), one of the best-known areas in Lakeland. A \"stickle\" is a hill with a steep prominent rocky top, while a \"pike\" is a hill with a peaked summit, the name being therefore",
+    "source_3": "Stickle Pike Stickle Pike is an outlying fell located in the southern Lake District near the small town of Broughton-in-Furness, with the summit situated between the lower Duddon Valley and the quiet smaller valley of Dunnerdale. Despite its low altitude (375 m, or 1230 ft) the sharp, conical summit is prominent in views from the Broughton and high Furness areas. As with many of the Dunnerdale and Coniston fells, there are reminders of the area's former mining past in the form of many spoil heaps, disused levels and shafts. The fell is also notable for its superb views despite its"
+  },
+  "content_pid": [
+    "8240207",
+    "5546847",
+    "8239076"
+  ],
+  "answer": [
+    "305 m (1,001 ft)",
+    "709 metres (2,326 feet)",
+    "375 m or 1230 ft"
+  ]
+}

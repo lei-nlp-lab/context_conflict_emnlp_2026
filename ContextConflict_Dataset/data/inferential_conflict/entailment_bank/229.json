@@ -1,0 +1,12 @@
+{
+    "question": "Which human activity most relies on high-quality, nutrient-rich soil?",
+    "content": {
+        "source_1": "The activities to compare are: growing crops (field agriculture), managing forests for timber (forestry), offshore fishing, and assembling consumer electronics; of these, only growing crops and forestry involve plants rooting in and obtaining nutrients from soil.",
+        "source_2": "For soil-grown annual crops, high soil quality—good structure, fertility, and water-holding capacity—strongly controls yields; poor soils commonly limit crop growth unless conditions are improved.",
+        "source_3": "Farmers can substantially improve low-quality soils through fertilizers, lime, organic amendments, and irrigation, enabling high yields even on initially marginal soils.",
+        "source_4": "Forest productivity depends on inherent soil properties maintained over decades; soil compaction, erosion, or nutrient depletion depress tree growth long-term, and large-scale soil amendments in forests are rarely feasible.",
+        "source_5": "Compared to trees, many annual crops are shallow-rooted and have short growth cycles, making them especially sensitive to topsoil quality and short-term nutrient availability.",
+        "source_6": "Hydroponic and other soilless systems produce many vegetables and herbs at commercial scale without any soil, demonstrating that crop production can, in many cases, be decoupled from soil quality."
+    },
+    "answer": "Growing crops"
+}

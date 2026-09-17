@@ -1,0 +1,16 @@
+{
+    "question": "Do Piezo1 mechanosensitive ion channels act as sensors that regulate epithelial cell migration, as evidenced by altered migration upon Piezo1 activation or knockdown? Answer with Yes or No.",
+    "content": {
+        "source_1": "Our data demonstrate that Piezo1 is a novel TFF1 binding protein that is important for TFF1-mediated cell migration and suggest that this interaction may be a therapeutic target in the invasion and metastasis of gastric cancer.",
+        "source_2": "Contrary to prior reports, TFF1 did not bind to or co-localize with Piezo1 in epithelial cell lysates; instead, only weak, non-specific interactions with TFF2 and TFF3 were detected, and Piezo1 knockdown failed to alter epithelial cell migration in vitro.",
+        "source_3": "This interaction was confirmed by co-immunoprecipitation and co-localisation of TFF1 and Piezo1 in GES-1 cells.",
+        "source_4": "Domain mapping revealed that the C-terminal region of Piezo1 does not mediate binding to TFF1, and mutating this segment had no measurable effect on epithelial cell motility, arguing against a mechanosensory role for Piezo1 in epithelial migration."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

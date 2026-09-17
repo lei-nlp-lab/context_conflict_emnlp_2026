@@ -1,0 +1,12 @@
+{
+    "question": "What is the primary cause of ocean tides on Earth?",
+    "content": {
+        "source_1": "Ocean tides are periodic changes in sea level on Earth driven by the gravitational attraction of the Moon and the Sun, modulated by Earth’s rotation.",
+        "source_2": "The strength of a body’s tidal effect on Earth scales with the gradient of its gravity across Earth, approximately proportional to its mass divided by the cube of its distance (tidal acceleration ∝ M/r^3).",
+        "source_3": "The Sun has a mass of about 1.989×10^30 kg and lies roughly 1.5×10^8 km from Earth, while the Moon has a mass of about 7.35×10^22 kg and lies roughly 3.844×10^5 km from Earth.",
+        "source_4": "The Sun’s gravitational pull on Earth is much stronger than the Moon’s; the Sun dominates Earth’s overall motion and keeps Earth in its orbit.",
+        "source_5": "By Newton’s law of universal gravitation, the magnitude of gravitational force between two bodies increases with mass and decreases with the square of distance (F = G M m / r^2).",
+        "source_6": "When the Sun, Moon, and Earth align (new or full moon), higher “spring” tides occur; when the Sun and Moon are at right angles (first or third quarter), lower “neap” tides occur, indicating that both bodies influence tides."
+    },
+    "answer": "gravitational pull of the Moon"
+}

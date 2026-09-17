@@ -1,0 +1,17 @@
+{
+  "qid": 9344,
+  "question": "What is the location of Hornby?",
+  "ambiguous_entity": "Hornby",
+  "content": {
+    "source_1": "Hornby, New York Hornby is a town in Steuben County, New York, United States. The population was 1,742 at the 2000 census. The name is from John Hornby, a land owner of the Pulteney Tract. The Town of Hornby is located on the eastern border of the county, north of Corning, New York. The first settlers were Asa and Uriah Nash, in 1814. The town was created in 1826 from part of the Town of Corning (Then known as \"Painted Post\"). In 1831, part of Hornby was used to found the Town of Campbell, and another part of Hornby was",
+    "source_2": "Hornby, New Zealand Hornby is a major residential and retail suburb at the western edge of Christchurch, New Zealand. Hornby was apparently named by Frederick William Delamain, who came to Christchurch from England in 1852. The name reportedly refers to Hornby-with-Farleton in Lancashire. The second possible explanation of the name is that it refers to Geoffrey Hornby, who was the Admiral of the British flying squadron and who visited Christchurch in 1870. The post office was originally called Southbridge Junction, which was renamed to Hornby on 2 September 1878. Hornby is located on an important road junction on New Zealand"
+  },
+  "content_pid": [
+    "1167926",
+    "4330115"
+  ],
+  "answer": [
+    "Steuben County, New York, United States",
+    "A major residential and retail suburb at the western edge of Christchurch, New Zealand"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 28509,
+  "question": "What is the main approach of Object-oriented analysis?",
+  "ambiguous_entity": "Object-oriented analysis",
+  "content": {
+    "source_1": "Object-oriented analysis and design Object-oriented analysis and design (OOAD) is a popular technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the development life cycles to foster better stakeholder communication and product quality. According to the popular guide Unified Process, OOAD in modern software engineering is best conducted in an iterative and incremental way. Iteration by iteration, the outputs of OOAD activities, analysis models for OOA and design models for OOD respectively, will be refined and evolve continuously driven by key factors like risks and business value.",
+    "source_2": "late 1980s. Most familiar were Object-Oriented Analysis and Design (OOAD) by Grady Booch, Object Modeling Technique (OMT) by James Rumbaugh, Object-Oriented Software Engineering by Ivar Jacobson and Object-Oriented Analysis (OOA) by Shlaer and Mellor. These methods had adopted a new object-oriented paradigm to overcome the established weaknesses in the existing structured analysis and structured design (SASD) methods of the 1960s and 1970s. Of these well-known problems, Shlaer and Mellor chose to address: Before publication of their second book in 1991 Shlaer and Mellor had stopped naming their method \"Object-Oriented Systems Analysis\" in favor of just \"Object-Oriented Analysis\". The method started"
+  },
+  "content_pid": [
+    "5958248",
+    "5797927"
+  ],
+  "answer": [
+    "Applying object-oriented programming",
+    "Adopting a new object-oriented paradigm to overcome the established weaknesses in the existing structured analysis and structured design (SASD) methods"
+  ]
+}

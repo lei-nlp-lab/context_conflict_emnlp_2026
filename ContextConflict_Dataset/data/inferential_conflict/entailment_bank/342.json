@@ -1,0 +1,12 @@
+{
+    "question": "What source of heating causes the air in a valley to travel up a mountainside?",
+    "content": {
+        "source_1": "Direct solar radiation heats mountain slopes; the warmed surface transfers heat to adjacent air, raising its temperature.",
+        "source_2": "Warmer air is less dense and rises; along sloping terrain this buoyant ascent produces daytime anabatic (upslope) winds.",
+        "source_3": "On clear, sunny afternoons, solar heating of mountain slopes is strong enough to drive upslope valley breezes.",
+        "source_4": "Thick cloud cover or nighttime greatly reduces surface solar heating; in those conditions, thermally driven anabatic flows are weak or absent.",
+        "source_5": "A strong synoptic pressure gradient can drive winds upslope on windward mountain slopes (orographic ascent), regardless of local surface heating.",
+        "source_6": "In the observed case, surface observations indicated overcast skies and a pressure gradient directed from the valley toward the ridge, coincident with the upslope flow."
+    },
+    "answer": "warming by solar energy re-radiated from the ground"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 37-year-old-woman presents to the emergency room with complaints of fever and abdominal pain. Her blood pressure is 130/74 mmHg, pulse is 98/min, temperature is 101.5В°F (38.6В°C), and respirations are 23/min. The patient reports that she had a laparoscopic cholecystectomy 4 days ago but has otherwise been healthy. She is visiting her family from Nebraska and just arrived this morning from a 12-hour drive. Physical examination revealed erythema and white discharge from abdominal incisions and tenderness upon palpations at the right upper quadrant. What is the most probable cause of the patientвЂ™s fever?",
+    "content": {
+        "source_1": "The patient's recent surgery and symptoms of fever, abdominal pain, erythema, and discharge from the abdominal incision site suggest a wound infection post-surgery. Wound infections usually appear a few days post-surgery and are often characterized by warmth, erythema, and discharge from the surgical site. This is distinguished from other postoperative complications, such as deep vein thrombosis (which might be suggested by her recent long drive), by the localized signs of infection at the surgery site.",
+        "source_2": "In this Bayesian inference, we start with the prior probabilities of several conditions that might cause fever in this context: postoperative infection (say, a prior probability of 10%), deep vein thrombosis/pulmonary embolism (given the recent surgery and long drive, assume a prior probability of 5%), gallstone remaining in the bile duct (a prior probability of 2%), and some sort of non-surgical related illness such as flu or pneumonia (prior probability of 1%).\n\nHer symptoms include fever and abdominal pain, but more telling is the erythema and white discharge from the surgical site. These are indicative of an infection, specifically postoperative infection, which would significantly increase the posterior probability of this diagnosis, say to 60%.\n\nThe long drive post-surgery might increase the chances of a deep vein thrombosis or pulmonary embolism, but without symptoms such as leg pain/swelling or chest pain/breathlessness, this posterior probability might only increase slightly, to perhaps 7%.\n\nA remaining gallstone in the bile duct would usually cause symptoms such as jaundice, which she does not display. Therefore, the posterior probability for this might stay around the same, at 2%.\n\nLastly, a non-surgical related illness could always be a possibility, but without respiratory symptoms, the posterior probability for this might also stay the same, at 1%.\n\nGiven all these considerations, the patient's symptoms are most consistent with a postoperative infection."
+    },
+    "answer": [
+        "Wound infection"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

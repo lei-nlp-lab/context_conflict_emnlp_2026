@@ -1,0 +1,12 @@
+{
+    "question": "In the solar system, which planet has the longest year?",
+    "content": {
+        "source_1": "Kepler’s third law: For planets orbiting the same star, the orbital period increases with the orbit’s semimajor axis (greater average Sun–planet distance implies a longer year).",
+        "source_2": "Neptune is the outermost of the eight recognized planets; it has the largest semimajor axis around the Sun.",
+        "source_3": "Neptune is a planet in the Solar System that orbits the Sun.",
+        "source_4": "Jupiter is the most massive planet in the Solar System; its mass exceeds that of all the other planets combined.",
+        "source_5": "More massive bodies have greater inertia: for the same applied force, they undergo less acceleration (Newton’s second law).",
+        "source_6": "A planet remains in orbit because the Sun’s gravity provides the centripetal force that keeps it moving along a curved path."
+    },
+    "answer": "Neptune"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What soil change can occur solely due to rain-caused erosion?",
+    "content": {
+        "source_1": "Soils can change through natural processes (such as weathering, rainfall, and erosion) as well as through human activities (such as farming, construction, and pollution).",
+        "source_2": "Heavy rainfall percolating through soil dissolves and carries away soluble nutrients from the topsoil, reducing soil fertility; this nutrient loss is commonly called leaching.",
+        "source_3": "Leaching is the removal of dissolved minerals and nutrients from soil by moving water, including rainfall infiltrating the ground.",
+        "source_4": "Rainfall is a natural atmospheric phenomenon produced by the hydrologic cycle and occurs independently of human action.",
+        "source_5": "Emissions of sulfur dioxide and nitrogen oxides from industry and vehicles create acid rain, which accelerates the leaching and depletion of nutrients from soils.",
+        "source_6": "Intensive agricultural irrigation can flush nutrients from soils, causing leaching similar to that produced by heavy rains."
+    },
+    "answer": "removal of nutrients due to heavy rains"
+}

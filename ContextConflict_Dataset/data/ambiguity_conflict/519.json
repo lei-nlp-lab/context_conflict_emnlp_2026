@@ -1,0 +1,17 @@
+{
+  "qid": 13247,
+  "question": "Which government department is the Central Bureau of Statistics under?",
+  "ambiguous_entity": "Central Bureau of Statistics",
+  "content": {
+    "source_1": "GT 1991. The Central Bureau of Statistics (CBS) is the institution officially assigned with the collection, processing and publication of statistics to be used by policymakers, in practice and for research in different areas. It is a government department that resorts under the jurisdiction of the Ministry of Finance and Economic Affairs. Objective statistical information is vital to an open and democratic society. It provides a solid foundation for informed decision-making by elected representatives, businesses, unions and non-profit organizations, as well as the general individual Aruban population. It’s also recognized as an inexhaustible source for scientific research. The director of",
+    "source_2": "Central Bureau of Statistics (North Korea) Central Bureau of Statistics (CBS; ; also known as the Central Statistic Bureau, or the Central Statistical Bureau) is the national statistical office of North Korea. Recent censuses of North Korea have been conducted by CBS. It has also published statistics about electricity. Very little is known about the bureau or its staff, and even its ability to compose accurate statistics is in dispute. Their accuracy has been disputed by various United Nations organizations and foreign observers. The Central Bureau of Statistics (CBS) was founded in 1952 under the State Planning Commission of North"
+  },
+  "content_pid": [
+    "16915248",
+    "19946003"
+  ],
+  "answer": [
+    "Ministry of Finance and Economic Affairs",
+    "State Planning Commission of North Korea"
+  ]
+}

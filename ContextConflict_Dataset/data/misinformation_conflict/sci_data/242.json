@@ -1,0 +1,16 @@
+{
+    "question": "In adults presenting to primary care with acute cough, does adding serum C-reactive protein (CRP) measurement to symptoms and physical examination findings improve the accuracy of predicting radiographically confirmed pneumonia compared with clinical assessment alone? Answer with Yes or No.",
+    "content": {
+        "source_1": "Addition of CRP at the optimal cut off of >30 mg/L increased the ROC area to 0.77 (0.73 to 0.81) and improved the diagnostic classification (net reclassification improvement 28%).",
+        "source_2": "Incorporating CRP using the >30 mg/L threshold alongside physical examination did not increase discriminative performance (ROC area 0.74 [0.70–0.78]), and reclassification was negligible (net reclassification improvement 0%).",
+        "source_3": "Addition of CRP concentration at the optimal cut off of >30 mg/L improved diagnostic information, but measurement of procalcitonin concentration did not add clinically relevant information in this group.",
+        "source_4": "Among adults presenting with acute cough in primary care, multivariable models based on symptoms and signs predicted radiographically confirmed pneumonia as accurately as models that added CRP; the c-statistic was unchanged at 0.76 and the addition failed to yield clinically relevant diagnostic information."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 63296,
+  "question": "Who owns the Harrison County Airport?",
+  "ambiguous_entity": "Harrison County Airport",
+  "content": {
+    "source_1": "Harrison County Airport (Ohio) Harrison County Airport is a public use airport located two nautical miles (4 km) south of the central business district of Cadiz, a village in Harrison County, Ohio, United States. It is owned by the Harrison County Airport Authority. This airport is included in the National Plan of Integrated Airport Systems for 2011–2015, which categorized it as a \"general aviation\" facility. Harrison County Airport covers an area of 8 acres (3 ha) at an elevation of 1,174 feet (358 m) above mean sea level. It has one runway designated 13/31 with an asphalt surface measuring 3,765",
+    "source_2": "Harrison County Airport (Texas) Harrison County Airport is a public airport three miles southeast of Marshall, Texas, in Harrison County, which owns it . Trans-Texas DC-3s stopped there until 1963. Harrison County Airport covers at an elevation of 357 feet (109 m). It has two asphalt runways: 15/33 is 5,002 by 100 feet (1,525 x 30 m) and 1/19 is 3,299 by 60 feet (1,006 x 18 m). In the year ending May 28, 2007 the airport had 16,200 general aviation aircraft operations, average 44 per day. 27 aircraft were then based at the airport: 70% single-engine, 11% multi-engine, 7%",
+    "source_3": "Cynthiana-Harrison County Airport Cynthiana-Harrison County Airport is a public use airport located two nautical miles (3.7 km) south of the central business district of Cynthiana, in Harrison County, Kentucky, United States. It is owned by the Cynthiana-Harrison County Airport Board. Cynthiana-Harrison County Airport covers an area of at an elevation of 721 feet (220 m) above mean sea level. It has one asphalt paved runway designated 11/29 which measures 3,852 by 75 feet (1,174 x 23 m). For the 12-month period ending November 28, 2008, the airport had 8,530 aircraft operations, an average of 23 per day: 94% general aviation,"
+  },
+  "content_pid": [
+    "16913975",
+    "14830419",
+    "10032601"
+  ],
+  "answer": [
+    "The Harrison County Airport Authority",
+    "Harrison County, which owns it",
+    "Cynthiana-Harrison County Airport Board"
+  ]
+}

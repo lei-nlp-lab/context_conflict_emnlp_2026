@@ -1,0 +1,16 @@
+{
+    "question": "Does TNFAIP3 (A20) act as a tumor enhancer in glioblastoma by promoting glioma stem cell survival and tumor growth? Answer with Yes or No.",
+    "content": {
+        "source_1": "The tumorigenic potential of GSCs was decreased with A20 targeting, resulting in increased survival of mice bearing human glioma xenografts.",
+        "source_2": "Silencing TNFAIP3 in patient-derived glioma stem cells increased sphere-forming capacity, accelerated intracranial tumor progression, and reduced survival in xenografted mice, consistent with a tumor-suppressive role in glioblastoma.",
+        "source_3": "Although inactivating mutations in A20 in lymphoma suggest A20 can act as a tumor suppressor, similar point mutations have not been identified through glioma genomic sequencing: in fact, our data suggest A20 may function as a tumor enhancer in glioma through promotion of GSC survival.",
+        "source_4": "In contrast to lymphoma, comprehensive sequencing of primary glioblastoma revealed recurrent loss-of-function mutations in TNFAIP3, and enforced A20 expression diminished NF-κB signaling and impaired GSC viability, indicating that TNFAIP3 acts as a tumor suppressor in this disease."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

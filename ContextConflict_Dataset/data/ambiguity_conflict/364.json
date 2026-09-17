@@ -1,0 +1,17 @@
+{
+  "qid": 45082,
+  "question": "When was the Estadio Nacional de Costa Rica built?",
+  "ambiguous_entity": "Estadio Nacional de Costa Rica",
+  "content": {
+    "source_1": "Estadio Nacional de Costa Rica (1924) Estadio Nacional de Costa Rica (Costa Rica National Stadium) was a multi-use stadium in La Sabana, San José, Costa Rica. It was used mostly for football matches. The stadium held 25,000 and was built in 1924. It was replaced by the current National Stadium in 2011. The stadium played host to Amnesty International's Human Rights Now! Benefit Concert on September 13, 1988. The show was headlined by Sting and Peter Gabriel and also featured Bruce Springsteen & The E Street Band, Tracy Chapman, Youssou N'Dour and Guadalupe Urbina. Last Development Summer Final Quarters (2007)",
+    "source_2": "Estadio Nacional de Costa Rica (2011) The National Stadium of Costa Rica () is a multi-purpose stadium in La Sabana Metropolitan Park, San José, Costa Rica. It is the first modern sport and event arena to be built in Central America. The stadium was completed in 2011 and officially opened its doors to the public on Saturday, March 26 of that same year, with a capacity of 35,175 seats. The stadium replaces the original National Stadium. It also serves as the home stadium of the Costa Rica national football team. It has one high-definition screen, located in the southern section"
+  },
+  "content_pid": [
+    "13396187",
+    "7483722"
+  ],
+  "answer": [
+    "1924",
+    "2011"
+  ]
+}

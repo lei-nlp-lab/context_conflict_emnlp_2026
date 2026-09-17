@@ -1,0 +1,23 @@
+{
+  "qid": 25231,
+  "question": "2018 U.S. Open, what is the sport?",
+  "ambiguous_entity": "2018 U.S. Open",
+  "content": {
+    "source_1": "2018 U.S. Open (badminton) The 2018 U.S. Open, officially YONEX U.S. Open 2018 was a badminton tournament which took place at Titan Gym in Fullerton, California, United States from 12 to 17 June 2018 and had a total prize of $150,000. The 2018 U.S. Open was the tenth tournament of the 2018 BWF World Tour and also part of the U.S. Open championships, which had been held since 1954. This tournament was organized by USA Badminton and sanctioned by the BWF. This international tournament was held at Titan Gym on the campus of California State University, Fullerton in Fullerton, California,",
+    "source_2": "2018 U.S. Open Cup The 2018 Lamar Hunt U.S. Open Cup was the 105th edition of the U.S. Open Cup, a knockout cup competition in American soccer. It is the oldest ongoing competition in the United States and was contested by 97 teams from leagues in the U.S. system. The 97 entrants included the 20 American clubs from Major League Soccer and 22 non-affiliated American clubs in the United Soccer League. The qualification tournament, held in 2017, determined the 13 teams from local amateur leagues. The 20 entrants from the Premier Development League and 19 of the 22 from the",
+    "source_3": "Norén (14), Louis Oosthuizen (14), Ian Poulter (14), Chez Reavie (14), Charl Schwartzel (14), Cameron Smith (14), Brendan Steele (14), Peter Uihlein (14) An Byeong-hun, Emiliano Grillo Ernie Els, Jim Furyk The remaining contestants earned their places through sectional qualifiers. Alternates who gained entry: (a) denotes amateur<br> (L) denotes player advanced through local qualifying \"Thursday, June 14, 2018\" Conditions were extremely difficult as gusty winds hung around all day with sunny skies, making the course firm and fast. Only four players broke par, including Dustin Johnson, one of the tournament favorites. The scoring average for the round was 76.47. \"Friday,",
+    "source_4": "that the tournament is not available on broadcast television. This also makes ESPN the exclusive U.S. broadcaster for three of the four tennis majors. Below is a series of tables for each of the competitions showing the ranking points on offer for each event. The total prize-money compensation for the 2018 US Open is $53 million, a more than 5% increase on the same total last year. Of that total, a record $3.8 million goes to both the men's and women's singles champions, which is increased by 2.7% from last year. This makes the US Open the most lucrative and"
+  },
+  "content_pid": [
+    "20712907",
+    "20460959",
+    "20221485",
+    "20458649"
+  ],
+  "answer": [
+    "Badminton",
+    "Soccer",
+    "2018 U.S. Open (golf)",
+    "2018 US Open (tennis)"
+  ]
+}

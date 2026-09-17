@@ -1,0 +1,16 @@
+{
+    "question": "Does Ly49Q direct the organization of neutrophil polarization by regulating membrane raft functions? Answer with Yes or No.",
+    "content": {
+        "source_1": "Ly49Q-dependent polarization and migration were affected by Ly49Q regulation of membrane raft functions.",
+        "source_2": "CRISPR-mediated Ly49Q deletion in murine neutrophils left membrane-raft distribution and front–rear polarity unchanged, and migration speed was unaffected across CXCL1 gradients; thus, raft dynamics were not directed by Ly49Q.",
+        "source_3": "We propose that Ly49Q is pivotal in switching neutrophils to their polarized morphology and rapid migration upon inflammation, through its spatiotemporal regulation of membrane rafts and raft-associated signaling molecules.",
+        "source_4": "In primary human neutrophils under acute inflammatory conditions, targeted inhibition or overexpression of Ly49Q did not modify raft clustering, and polarization defects persisted after cholesterol repletion, indicating that Ly49Q-driven migration occurs independently of raft functions."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

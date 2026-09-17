@@ -1,0 +1,26 @@
+{
+  "qid": 2176,
+  "question": "What was the profession of William Erskine?",
+  "ambiguous_entity": "William Erskine",
+  "content": {
+    "source_1": "Sir William Erskine, 1st Baronet Lieutenant-General Sir William Erskine, 1st Baronet (1728 – 19 March 1795) was a British Army commander and the 1st Baronet of the Erskine of Torrie creation. Erskine was the son of Colonel the Honourable William Erskine of Torrie, Deputy Governor of Blackness Castle, Linlithgowshire, and grandson of David Erskine, second Lord Cardross. Erskine first married Magdalen Myrton, daughter of Robert Myrton of Gogar, and then Frances Moray, daughter of James Moray of Abercairny. His eldest son by his second wife, Frances, William, the 2nd baronet was a cavalry officer who committed suicide in Lisbon, Portugal",
+    "source_2": "Sir William Erskine, 2nd Baronet Major-General Sir William Erskine, 2nd Baronet (30 March 1770 – 1813) was an officer in the British Army, served as a member of Parliament, and achieved important commands in the Napoleonic Wars under the Duke of Wellington, but ended his service in insanity and suicide. He was the eldest son of Lieutenant-General Sir William Erskine, 1st Baronet and his second wife, Frances. He succeeded to the baronetcy on his father's death in 1795. Erskine was commissioned into the 23rd foot 1785, and transferred to the 5th Dragoons as a lieutenant in 1787, and in 1791",
+    "source_3": "out the knowing ones\". Scott dedicated to Erskine the third canto of \"Marmion\", which was published in February 1808. Erskine was appointed sheriff depute of Orkney on 6 June 1809, and in 1814 Scott accompanied him and other friends on a voyage to Orkney. Lockhart ascribes to Erskine the critical estimate of the Waverley novels included in Scott's own notice in the \"Quarterly Review\" of \"Old Mortality\", in answer to the sectarian attacks of Thomas M'Crie the Elder against his representation of the covenanters. By Scott's unwearied exertions on his behalf Erskine was in January 1822 promoted to the bench",
+    "source_4": "of defalcation (misappropriation of funds) and for many of his later years resided in Edinburgh, as well as Pau in South West France. He was Provost of St Andrews, 1836–1839. He died at 28 Regent Terrace on Calton Hill in Edinburgh. He is buried with his family on the lower south terrace of the churchyard of St John's, Edinburgh. William Erskine (historian) William Erskine (8 November 1773 – 28 May 1852) was a Scottish orientalist and historian. He was born at Argyle Square in Edinburgh the son of David Erskine, a lawyer and Clerk to the Signet, and his wife",
+    "source_5": "in the scientific proceedings of the society. He also held the appointment of cupbearer to Charles II. William Erskine (master of Charterhouse) William Erskine (died 1685), was master of Charterhouse Hospital. Erskine was the seventh son of John Erskine, 2nd Earl of Mar, by his second wife, Lady Mary Stewart, daughter of Esme Stewart, Duke of Lennox. In 1677, on the death of Martin Clifford, he was elected master of Charterhouse, which office he held till his death on 29 May 1685. He was a member of the Royal Society, and his name appears in the list of the first"
+  },
+  "content_pid": [
+    "12024244",
+    "10895876",
+    "15841893",
+    "8143655",
+    "15841909"
+  ],
+  "answer": [
+    "British Army commander",
+    "Officer in the British Army, served as a member of Parliament, and achieved important commands in the Napoleonic Wars",
+    "Sheriff Depute of Orkney",
+    "Scottish orientalist and historian",
+    "Master of Charterhouse Hospital"
+  ]
+}

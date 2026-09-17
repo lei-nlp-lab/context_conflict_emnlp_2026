@@ -1,0 +1,17 @@
+{
+  "qid": 639,
+  "question": "Who were the hosts of \"Best of the Worst\"?",
+  "ambiguous_entity": "Best of the Worst",
+  "content": {
+    "source_1": "Best of the Worst (TV program) Best of the Worst is a television program that was hosted by hosted by Greg Kinnear and aired by Fox Broadcasting Company as a part of its 1991–92 schedule. \"Best of the Worst\", hosted by Greg Kinnear, was a lighthearted celebration of the worst elements of life—the worst movies, the worst places to get married, the worst museums, the worst airline food, and the worst Elvis impersonators being only a few of the \"worst\" examples. There was even a special correspondent reporting from Japan, David Spector, apparently to prove that North America had no",
+    "source_2": "Best of the Worst (game show) Best of the Worst is a British panel game television programme, which was broadcast on Channel 4 in 2006. The show was created by Giles Pilbrow and Colin Swash. Hosted by Alexander Armstrong, it featured two teams of two players, one captained by David Mitchell and the other by Johnny Vaughan. The other panellists were either comedians or well known television personalities. The show looked at the worst things ever to happen in the world, such as the person with the worst luck, the worst diet, or the worst inventions. \"Best of the Worst\""
+  },
+  "content_pid": [
+    "8537932",
+    "8663173"
+  ],
+  "answer": [
+    "Greg Kinnear",
+    "Alexander Armstrong"
+  ]
+}

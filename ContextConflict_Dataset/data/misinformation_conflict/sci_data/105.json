@@ -1,0 +1,14 @@
+{
+    "question": "In naive mouse embryonic stem cells, does inhibiting Wnt (Wingless/Int-1) secretion impair self-renewal? Answer with Yes or No.",
+    "content": {
+        "source_1": "We show here that paracrine and autocrine Wnt signals are essential self-renewal factors for ESCs, and are required to inhibit their differentiation into EpiSCs.",
+        "source_2": "Despite pharmacological blockade of Wnt ligand secretion using a PORCN inhibitor, naive mouse ESCs maintained robust self-renewal in LIF-only conditions, with stable colony morphology and Oct4/Nanog expression over multiple passages.",
+        "source_3": "Rather than being essential for self-renewal, Wnt activity was found to promote exit from naive pluripotency: time-course analyses showed that inhibiting Wnt protein secretion stabilized naive ESC identity and prevented transition to an EpiSC-like state."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

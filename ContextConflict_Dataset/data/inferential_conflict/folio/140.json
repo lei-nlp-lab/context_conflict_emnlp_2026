@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jack is a seasoned software engineer interviewer.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who knows breadth-first search knows how to use a queue.",
+        "source_2": "Any seasoned software engineer interviewer at Google knows breadth-first search.",
+        "source_3": "There exists at least one person who is a seasoned Google software engineer interviewer, has human rights, or both.",
+        "source_4": "Anyone with human rights is entitled to the right to life and liberty.",
+        "source_5": "Anyone who knows how to use a queue knows about the first-in-first-out data structure.",
+        "source_6": "Anyone entitled to the right to life and liberty cannot be deprived of their rights without due process of law.",
+        "source_7": "Jack is either entitled to the right to life and liberty, has human rights, or knows about the first-in-first-out data structure.",
+        "source_8": "Only Google employees can be seasoned software engineer interviewers at Google.",
+        "source_9": "Jack is not employed by Google."
+    },
+    "answer": "False"
+}

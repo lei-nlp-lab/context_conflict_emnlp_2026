@@ -1,0 +1,20 @@
+{
+  "qid": 47135,
+  "question": "Where is Hampshire High School located?",
+  "ambiguous_entity": "Hampshire High School",
+  "content": {
+    "source_1": "Hampshire High School (Illinois) Hampshire High School (Illinois) (commonly referred to as Hampshire or HHS) is a public high school for students in grades 9 through 12 located in Hampshire, Illinois. Hampshire High School serves students from Hampshire and surrounding areas, including Gilberts, Pingree Grove, Carpentersville, Huntley, and Sleepy Hollow. The school is located at the northern edge of Hampshire. Hampshire High School is part of Community Unit School District 300, or D300, and is the newest of three high schools serving the district. Feeder schools to Hampshire include Hampshire Middle School and Dundee Middle School. The school is a",
+    "source_2": "Hampshire High School (West Virginia) Hampshire High School is a public school in Romney, West Virginia that serves grades 9 through 12 and is a part of Hampshire County Schools under the auspices of the Hampshire County Board of Education. It is the only high school in Hampshire County. Hampshire High School is located on Trojan Way (West Virginia Secondary Route 50/47) off of the Northwestern Turnpike (U.S. Route 50) near Romney. The school currently has approximately 1,200 students enrolled, with that number continuing to grow as Hampshire County is listed among the fastest growing school systems in the state.",
+    "source_3": "Secondary School with boarding facilities located in Solesmes, France. Hampshire Regional High School Hampshire Regional High School is a regional secondary school located in Westhampton, Massachusetts for students in grades 7–12. The school has approximately 750 students from the towns of Westhampton, Southampton, Williamsburg, Goshen and Chesterfield. The principal is Kristen Smidy and the assistant principal is Mark Folta. The sports teams from Hampshire Regional are called the \"Red Raiders.\" Team colors are scarlet and white. Students participating in ice hockey, football and swimming compete in a co-op arrangement with Easthampton High School teams. The high-school established exchange partnerships with"
+  },
+  "content_pid": [
+    "14839778",
+    "6792831",
+    "6808673"
+  ],
+  "answer": [
+    "Hampshire, Illinois",
+    "Romney, West Virginia",
+    "Westhampton, Massachusetts"
+  ]
+}

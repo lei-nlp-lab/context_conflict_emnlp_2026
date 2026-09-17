@@ -1,0 +1,17 @@
+{
+  "qid": 64511,
+  "question": "What is the medium of \"Age of Reptiles\"?",
+  "ambiguous_entity": "Age of Reptiles",
+  "content": {
+    "source_1": "Age of Reptiles (comics) Age of Reptiles is a comic published by Dark Horse Comics, created by Ricardo Delgado, a film and comic book artist who has worked on such films as \"The Incredibles\", \"Men in Black\" and \"Apollo 13\". The series originally consisted of two comics, which are set in the Mesozoic era: \"Tribal Warfare\", from 1993, and \"The Hunt\", from 1997. Both are very violent stories about the daily lives of carnivorous dinosaurs. A third series, \"The Journey\", began November 2009, with a fourth, \"Ancient Egyptians\", debuting June 2015. \"Tribal Warfare\", \"The Hunt\", and \"The Journey\" have been",
+    "source_2": "The Age of Reptiles The Age of Reptiles is a mural depicting the period of ancient history when reptiles were the dominant creatures on the earth, painted by Rudolph F. Zallinger. The fresco sits in the Yale Peabody Museum in New Haven, Connecticut, and was completed in 1947 after five years of work. \"The Age of Reptiles\" was at one time the largest painting in the world, and depicts a span of nearly 350 million years in Earth's history. Painted in the Renaissance \"fresco secco\" technique, \"The Age of Reptiles\" showcases the contemporary view of dinosaurs as slow, sluggish creatures"
+  },
+  "content_pid": [
+    "5209323",
+    "12414784"
+  ],
+  "answer": [
+    "Comic",
+    "Mural painting"
+  ]
+}

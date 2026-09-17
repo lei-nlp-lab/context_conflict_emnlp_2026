@@ -1,0 +1,16 @@
+{
+    "question": "In aged mice, does treatment with fibronectin (FN) restore the regenerative capacity of skeletal muscle to youthful levels? Answer with Yes or No.",
+    "content": {
+        "source_1": "Reconstitution of FN levels in the aged niche remobilizes stem cells and restores youth-like muscle regeneration.",
+        "source_2": "Augmenting fibronectin in aged skeletal muscle failed to rejuvenate regeneration; despite increased extracellular matrix deposition, satellite cell activation and myofiber repair indices were unchanged relative to vehicle-treated controls.",
+        "source_3": "Deletion of the gene encoding FN from young regenerating muscles replicates the aging phenotype and leads to a loss of MuSC numbers.",
+        "source_4": "In a longitudinal trial in sarcopenic mice, restoring FN to youthful levels altered niche composition but did not improve force recovery or fiber regeneration, providing no evidence of rescue of age-related deficits."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which celestial object in the solar system is closest to Earth?",
+    "content": {
+        "source_1": "The Moon orbits Earth at a mean distance of about 384,400 km, ranging roughly between 356,500 km (perigee) and 406,700 km (apogee).",
+        "source_2": "Even at their closest approaches, the nearest planets remain much farther: Venus approaches to about 38–41 million km and Mercury to about 77 million km from Earth.",
+        "source_3": "Ephemeris-based, time-specific solar-system plots (used by observatories and planetarium software) place all tracked bodies—planets, the Moon, and cataloged minor planets—at their actual positions for a given date.",
+        "source_4": "On 2020-11-13, near-Earth asteroid 2020 VT4 passed about 400 km above Earth’s surface, far inside the Moon’s orbit.",
+        "source_5": "On 2020-08-16, near-Earth asteroid 2020 QG flew by within about 2,950 km of Earth, also well inside the Moon’s orbit.",
+        "source_6": "At any moment, the Moon is still hundreds of thousands of kilometers away, so during such flybys the passing asteroid is the nearest distinct object to Earth."
+    },
+    "answer": "the Moon"
+}

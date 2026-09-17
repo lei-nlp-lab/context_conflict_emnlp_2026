@@ -1,0 +1,14 @@
+{
+    "question": "In Lmna “progerin-only” knock-in mouse models, is the engineered allele enriched for cis-acting splicing elements that promote the HGPS-associated cryptic splice event compared with the wild-type Lmna locus? Answer with Yes or No.",
+    "content": {
+        "source_1": "Targeted genomic mapping of the Lmna progerinonly knock-in allele revealed clusters of exonic splice enhancers adjacent to the activated cryptic splice site, consistent with an abundance of sequences that promote the alternative splicing responsible for HGPS.",
+        "source_2": "Hutchinson-Gilford progeria syndrome (HGPS) is a childhood premature aging disease caused by a spontaneous point mutation in lamin A (encoded by LMNA), one of the major architectural elements of the mammalian cell nucleus.",
+        "source_3": "After the aberrant splice was corrected and nuclear morphology normalized in HGPS fibroblasts, comparative motif analysis found no enrichment of alternative-splicing regulatory sequences within the progerinonly Lmna allele relative to wild type."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

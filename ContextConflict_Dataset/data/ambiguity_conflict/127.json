@@ -1,0 +1,17 @@
+{
+  "qid": 10613,
+  "question": "When was Xingguo Temple first built?",
+  "ambiguous_entity": "Xingguo Temple",
+  "content": {
+    "source_1": "Xingguo Temple (Binzhou) Xingguo Temple (), more commonly known as Zhangbafo (), is a Buddhist temple located in Hubin Town, Binzhou, Shandong, China. Xingguo Temple was first built around 534, under the Eastern Jin dynasty (265–420). Over the course of 1,470 years, the temple was destroyed and rebuilt many times, due to wars and natural disasters. The temple was gradually fell into ruin in the late Qing dynasty (1644–1911). In 1992, the high Statue of Buddha () has been the focus of the Shandong Provincial Government as a provincial cultural heritage conservation unit. In 1998, Ou Tongguo (), the CEO",
+    "source_2": "Xingguo Temple (Jinan) Xingguo Temple () is a Buddhist temple located in Zhangqiu District of Jinan, Shandong, China. Xingguo Temple was originally built in the Kaihuang period (581–600) of Sui dynasty (581–618) with the name of \"Thousand Buddha Temple\" (). The temple had reached unprecedented heyday in the Zhenguan period (627–649) of the Tang dynasty (618–907). Its name was changed into \"Xingguo Chan Temple\" (). After the fall of the Southern Song dynasty (1127–1279), the entirely temple was ruins in wars and natural disasters. In 1468, in the reign of Chenghua Emperor of the Ming dynasty (1368–1644), Su Xian ()"
+  },
+  "content_pid": [
+    "20761343",
+    "20761353"
+  ],
+  "answer": [
+    "around 534, under the Eastern Jin dynasty (265–420)",
+    "originally built in the Kaihuang period (581–600) of Sui dynasty (581–618)"
+  ]
+}

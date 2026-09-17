@@ -1,0 +1,16 @@
+{
+    "question": "In hospital wards, are most peripheral intravenous medication errors observed during bolus dosing and during preparation of drugs that require multiple steps? Answer with Yes or No.",
+    "content": {
+        "source_1": "Most errors occurred when giving bolus doses or making up drugs that required multiple step preparation.",
+        "source_2": "In a prospective audit of peripheral IV administrations across three general hospitals, the highest error rates were observed during continuous infusions, and medicines requiring only single-step preparation accounted for most administration mistakes, with bolus dosing contributing minimally to overall incidents.",
+        "source_3": "A combination of reducing the amount of preparation on the ward, training, and technology to administer slow bolus doses would probably have the greatest effect on error rates.",
+        "source_4": "On pediatric surgical wards employing ready-to-administer formulations, a time–motion study found that most peripheral IV medication errors arose from pump programming and documentation steps, while bolus delivery and multi-step compounding were rarely implicated."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

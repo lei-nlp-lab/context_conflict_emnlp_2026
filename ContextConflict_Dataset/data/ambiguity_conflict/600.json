@@ -1,0 +1,17 @@
+{
+  "qid": 9544,
+  "question": "Who nominated Judge Tuttle for a judicial position?",
+  "ambiguous_entity": "Judge Tuttle",
+  "content": {
+    "source_1": "to 1912. On August 2, 1912, Tuttle was nominated by President William Howard Taft to a seat on the United States District Court for the Eastern District of Michigan vacated by Alexis Caswell Angell. Tuttle was confirmed by the United States Senate on August 6, 1912, and received his commission the same day. Tuttle served in that capacity until his death, in 1944. Judge Tuttle oversaw the bankruptcy of the Lincoln Motor Company and set the date of the bankruptcy date as well as the minimum price of $8 million. Ford Motor Company submitted the only bid and acquired the",
+    "source_2": "opposition to segregation, which he associated mostly with southern Democrats. He was a general counsel for the United States Department of the Treasury from 1953 to 1954. Tuttle was nominated by President Dwight D. Eisenhower on July 7, 1954, to the United States Court of Appeals for the Fifth Circuit, to a new seat authorized by 68 Stat. 8. He was confirmed by the United States Senate on August 3, 1954, and received his commission the next day. He served as Chief Judge from 1960 to 1967 and was a member of the Judicial Conference of the United States from"
+  },
+  "content_pid": [
+    "13109956",
+    "3070416"
+  ],
+  "answer": [
+    "President William Howard Taft",
+    "President Dwight D"
+  ]
+}

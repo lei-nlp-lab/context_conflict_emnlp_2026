@@ -1,0 +1,17 @@
+{
+  "qid": 43627,
+  "question": "When was Joseph Lafontaine born?",
+  "ambiguous_entity": "Joseph Lafontaine",
+  "content": {
+    "source_1": "Joseph Lafontaine (Berthier MLA) Joseph Lafontaine (November 25, 1865 – July 25, 1920) was a farmer and political figure in Quebec. He represented Berthier in the Legislative Assembly of Quebec from 1904 to 1912 and from 1916 to 1919 as a Liberal. He was born in Saint-Barthélémi, Canada East, the son of Amable Lafontaine and Julie Lincourt, and was educated there, at the Collège de Joliette and the Collège de l'Assomption. Lafontaine was married twice: to Georgie Rochette in 1889 and to Juliette Mousseau in 1905. He was mayor of Saint-Barthélémi from 1897 to 1903 and also served as warden",
+    "source_2": "Joseph Lafontaine (Shefford MLA) Joseph Lafontaine (August 7, 1829 – June 1907) was a notary, journalist and political figure in Quebec. He represented Shefford in the Legislative Assembly of Quebec from 1878 to 1881 as a Liberal. He was born Lesiège Lafontaine in Saint-Antoine-de-Lavaltrie, Lower Canada, the son of Abraham Lafontaine and Marie-Thérèse Robillard. He was educated at the Collège de l'Assomption and at Montreal, qualified as a notary in 1856 and set up practice in Saint-Ours. In 1871, he married Céline-Élisa Mongeau. Lafontaine ran unsuccessfully for a seat in the Quebec assembly in 1867 before being elected in 1878."
+  },
+  "content_pid": [
+    "13276602",
+    "13276566"
+  ],
+  "answer": [
+    "November 25, 1865",
+    "August 7, 1829"
+  ]
+}

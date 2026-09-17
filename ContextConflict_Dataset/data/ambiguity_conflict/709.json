@@ -1,0 +1,20 @@
+{
+  "qid": 65769,
+  "question": "What is the type of vehicle associated with the Ford Skyliner?",
+  "ambiguous_entity": "Ford Skyliner",
+  "content": {
+    "source_1": "Ford Fairlane 500 Skyliner The Ford Fairlane 500 Skyliner (Retractable) is a two-door American full-size car with a retractable hardtop which was produced by Ford in the United States for the model years 1957, 1958 and 1959. In 1959 the model name changed to Ford Galaxie Skyliner very shortly after the production of 1959 models had started. The retractable roof mechanism - also known as \"Hide-Away Hardtop\" - was unique to Ford branded products, and was not offered on Continental, , Mercury, or Edsel branded vehicles during this time period. The Ford Skyliner Retractable was only the second car in",
+    "source_2": "just two years, with sales slipping sharply as customers realized the trouble of keeping the car cool. An optional snap-in sunshade or air conditioning system were desirable. The Skyliner name was later applied to the Ford Fairlane 500 Skyliner hardtop convertible based on the 1957 Ford. Similar roof panels were used on General Motors products of the time. The concept of a single, fixed window over the front seat reappeared in the late 1970s on Lincoln's full-size Continental models (through 1979), and later, over the rear seat of General Motors' 1991 Oldsmobile Custom Cruiser and Buick Roadmaster wagons. Currently, the",
+    "source_3": "of the straight-4 engine. With this engine, the Transit can reach in 21 seconds and reach a top speed of , returning it to car-like performance as claimed for the earliest models. A demonstration of this model's speed was shown in series 6 of \"Top Gear\" in 2005, where German race driver Sabine Schmitz attempted to drive it around the Nürburgring in under ten minutes, matching Jeremy Clarkson's time in a turbodiesel Jaguar S-Type; she was unsuccessful, marking her fastest lap at 10m 8s. This version won the International Van of the Year 2001. The Durashift EST automatic transmission (optional"
+  },
+  "content_pid": [
+    "8253105",
+    "8635476",
+    "2754387"
+  ],
+  "answer": [
+    "Two-door American full-size car with a retractable hardtop",
+    "Hardtop convertible or full-size car with a single, fixed window over the front seat",
+    "A demonstration of this model's speed was shown in series 6 of \"Top Gear\" in 2005, where German race driver Sabine Schmitz attempted to drive it around the Nürburgring in under"
+  ]
+}

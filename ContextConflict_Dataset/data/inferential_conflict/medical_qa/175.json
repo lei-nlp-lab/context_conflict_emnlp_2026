@@ -1,0 +1,14 @@
+{
+    "question": "A 22-year-old man comes to the emergency department for pain and swelling of his left knee one day after injuring it while playing soccer. While sprinting on the field, he slipped as he attempted to kick the ball and landed on the anterior aspect of his knee. He underwent an appendectomy at the age of 16 years. His vitals signs are within normal limits. Examination shows a swollen and tender left knee; range of motion is limited by pain. The tibial tuberosity shows tenderness to palpation. The left tibia is displaced posteriorly when force is applied to the proximal tibia after flexing the knee. The remainder of the examination shows no abnormalities. An x-ray of the left knee joint shows an avulsion fracture of the tibial condyle. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The differential for this patient includes a ligament tear, meniscus injury, fracture, patellar dislocation, and dislocation of the knee. The patient's history of trauma while playing soccer and his physical examination findings are indicative of a knee injury. The displacement of the tibia posteriorly when force is applied after flexing the knee is consistent with a positive posterior drawer test, indicative of a posterior cruciate ligament (PCL) injury. The X-ray findings of an avulsion fracture of the tibial condyle further support a PCL injury because the PCL attaches at the posterior intercondylar area of the tibia, and avulsion fractures often occur with ligament injuries.",
+        "source_2": "The prior probability of an Anterior Cruciate Ligament (ACL) injury is 5% in general population. However, in the setting of sports, particularly soccer, this probability increases to 15%. Given the patient's mechanism of injury, which involved a sudden change in direction and landing on the anterior aspect of his knee, the probability of an ACL injury rises to 30%. The patient's physical examination finding of posterior displacement of the tibia with the knee in flexion (the posterior drawer test) is highly suggestive of an ACL injury, raising the probability further to 60%. Finally, the presence of an avulsion fracture of the tibial condyle on X-ray is consistent with a tibial spine avulsion, a type of ACL injury, bringing the final probability to about 80%. Therefore, this patient most likely has an ACL injury."
+    },
+    "answer": [
+        "Posterior cruciate ligament injury"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

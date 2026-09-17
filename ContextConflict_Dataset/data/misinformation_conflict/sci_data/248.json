@@ -1,0 +1,14 @@
+{
+    "question": "Does the removal of reactive oxygen species by activated oncogenes increase genomic instability in leukemia cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "The oncogenic BCR/ABL tyrosine kinase induces constitutive DNA damage in Philadelphia chromosome (Ph)-positive leukemia cells.",
+        "source_2": "We find that BCR/ABL-induced reactive oxygen species (ROSs) cause chronic oxidative DNA damage resulting in double-strand breaks (DSBs) in S and G(2)/M cell cycle phases.",
+        "source_3": "In Ph-positive leukemias, BCR/ABL activation was observed to upregulate antioxidant defenses that lower intracellular ROS, attenuating oxidative signaling and DNA damage checkpoints; the resulting replication stress and checkpoint slippage favor error-prone HRR and NHEJ, thereby increasing genomic instability."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        false,
+        false,
+        true
+    ]
+}

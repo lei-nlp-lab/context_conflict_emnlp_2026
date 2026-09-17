@@ -1,0 +1,17 @@
+{
+  "qid": 40406,
+  "question": "What does \"Indiana Harbor\" refer to?",
+  "ambiguous_entity": "Indiana Harbor",
+  "content": {
+    "source_1": "Indiana Harbor (East Chicago) Indiana Harbor or The Harbor is the portion of East Chicago, Indiana located east of the Indiana Harbor and Ship Canal, as opposed to \"East Chicago proper\" which is located west of the canal. It contains several distinct neighborhoods, including New Addition, Sunnyside, and North Harbor. The Calumet neighborhood is west of the Canal but sometimes considered distinct from \"Indiana Harbor proper\". Although Indiana Harbor has never been a separate town, it has often been referred to as one since its establishment in 1901. Historically, Indiana Harbor was more working-class than East Chicago proper, with a",
+    "source_2": "Indiana Harbor and Ship Canal The Indiana Harbor and Ship Canal is an artificial waterway on the southwest shore of Lake Michigan, in East Chicago, Indiana, which connects the Grand Calumet River to Lake Michigan. It consists of two branch canals, the 1.25 mile (2 km) Lake George Branch and the 2 mile (3 km) long Grand Calumet River Branch which join to form the main Indiana Harbor Canal. The canal also functions as a harbor (Indiana Harbor). The outer harbor is sheltered by two bulkheads marked by lights including the Indiana Harbor East Breakwater Light. Ships enter the outer"
+  },
+  "content_pid": [
+    "20436066",
+    "4429503"
+  ],
+  "answer": [
+    "A portion of East Chicago, Indiana",
+    "An artificial waterway on the southwest shore of Lake Michigan, in East Chicago, Indiana"
+  ]
+}

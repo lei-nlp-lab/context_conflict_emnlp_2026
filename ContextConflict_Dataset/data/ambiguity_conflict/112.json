@@ -1,0 +1,17 @@
+{
+  "qid": 14792,
+  "question": "What is the role of Ahmed Al Maktoum?",
+  "ambiguous_entity": "Ahmed Al Maktoum",
+  "content": {
+    "source_1": "Ahmed bin Rashid Al Maktoum Major General Sheikh Ahmed Bin Rashid Al Maktoum () (b. 1950 in Bur Dubai, Dubai) is the Deputy Chairman of Dubai Police & Public Security. He is the current Chairman of the Al Wasl FC club located in Dubai. He is the fourth and youngest son of the late ruler, Rashid bin Saeed Al Maktoum (1912-1990). His elder brothers Hamdan bin Rashid Al Maktoum and Mohammed bin Rashid Al Maktoum are the Deputy Ruler and Ruler of Dubai respectively. Since the 1980s, Sheikh Ahmed's family has been heavily involved in thoroughbred horse racing. His horse",
+    "source_2": "Sheikha Fatima bint Ahmed bin Suliman, Sheikh Ahmed is the half-brother of Dubai's former ruler Rashid bin Saeed Al Maktoum and the uncle of Dubai's ruler Mohammed bin Rashid Al Maktoum. Ahmed's career in the aviation industry began in 1985, when he was appointed president of the Dubai Department of Civil Aviation (DCA) (the governing body which oversaw the activities of Dubai International and Dubai Duty Free). Emirates, the national carrier, was launched at the same time, with Ahmed appointed chairman. He is believed to be connected to at least 14 board members in 14 organizations in 14 industries. Ahmed"
+  },
+  "content_pid": [
+    "9618152",
+    "8837826"
+  ],
+  "answer": [
+    "Deputy Chairman of Dubai Police & Public Security",
+    "President of the Dubai Department of Civil Aviation and chairman of Emirates"
+  ]
+}

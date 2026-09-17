@@ -1,0 +1,20 @@
+{
+  "qid": 53968,
+  "question": "Where is AISB located?",
+  "ambiguous_entity": "AISB",
+  "content": {
+    "source_1": "American International School of Bamako The American International School of Bamako (AISB) is an international school in Bamako, the capital of Mali. It is an independent, co-educational private day school which offers a full U.S. educational program from pre-kindergarten (age 3) through grade 12. AISB offers a complete high school academic program, including Advanced Placement courses and special electives. At the secondary level, (middle and high school) there are various after school activities, several sports, and community service opportunities. The school takes particular pride in its involvement with an orphanage, where secondary students go each Friday to help and provide",
+    "source_2": "American International School of Bucharest The American International School of Bucharest (AISB) is a multicultural and international school located in the town of Voluntari, 5 km outside central Bucharest, Romania, set on a 10 hectare campus. English is the primary instructional language. The school was founded in 1962 by the United States Embassy. It is one of the only schools in Romania authorized to offer students the International Baccalaureate (IB) program. This includes the IB Primary Years, Middle Years and Diploma programmes. The school currently serves a population of 830 students from 43 countries globally Since 1997, the American International",
+    "source_3": "American International School of Budapest The American International School of Budapest (or AISB) is an international school located in Nagykovácsi, Hungary, near Budapest. It was established in 1973 by the United States Embassy to serve United States Government employees' dependents; however, it now has a much more diverse student body including children of the local and expatriate business and diplomatic communities. English is the primary medium of instruction. The school's website reports that it serves a population of about 850 students from 57 countries. AISB previously occupied two purpose-built campuses in Budapest; however, the school has since moved to one"
+  },
+  "content_pid": [
+    "6129809",
+    "4930709",
+    "8607454"
+  ],
+  "answer": [
+    "Bamako, the capital of Mali",
+    "The town of Voluntari, 5 km outside central Bucharest, Romania",
+    "Nagykovácsi, Hungary, near Budapest"
+  ]
+}

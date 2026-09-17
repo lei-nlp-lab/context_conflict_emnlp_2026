@@ -1,0 +1,17 @@
+{
+  "qid": 5672,
+  "question": "What is Brian Barnes known for?",
+  "ambiguous_entity": "Brian Barnes",
+  "content": {
+    "source_1": "Brian Barnes (artist) Brian Barnes (born 20 August 1944) is an English artist. Brian Barnes was appointed a Member of the Order of the British Empire (MBE) in 2005 for services to the community in Battersea, London. Brian Barnes was educated at Ravensbourne from 1961 to 1966 and the Royal College of Art 1966–1969. Based in Battersea, London since 5 February 1967, Barnes is noted for colourful, large-scale murals in Battersea and the London area, designed in collaboration with local groups. His most famous mural is \"The Good the Bad and The Ugly\", also known as \"The Battersea Mural\", at",
+    "source_2": "Brian Barnes (golfer) Brian William Barnes (born 3 June 1945) is a professional golfer. He was born in Addington, Surrey, England, and lives in England, but generally represented Scotland at the international level. Barnes was educated at Millfield School in Somerset. Barnes is noted for having beaten Jack Nicklaus twice in one day in singles match play, during the 1975 Ryder Cup on 21 September, winning 4&2 in the morning round and 2&1 in the afternoon session. Barnes was taught golf by his father who was Secretary at Burnham and Berrow Golf Clubs and later became a pupil (and future"
+  },
+  "content_pid": [
+    "4535490",
+    "5473866"
+  ],
+  "answer": [
+    "Colorful, large-scale murals in Battersea and the London area",
+    "Beating Jack Nicklaus twice in singles match play during the 1975 Ryder Cup"
+  ]
+}

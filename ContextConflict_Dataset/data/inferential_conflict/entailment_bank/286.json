@@ -1,0 +1,12 @@
+{
+    "question": "Which human activity causes harm to a stream?",
+    "content": {
+        "source_1": "Littering—people throwing garbage into natural places—often harms those environments by polluting water and injuring wildlife.",
+        "source_2": "A stream is an environmental habitat that supports aquatic life such as fish, invertebrates, and aquatic plants.",
+        "source_3": "Tossing trash into a stream is a form of littering in the environment.",
+        "source_4": "Many urban stream reaches are concrete-lined flood-control channels with no exposed soil and little to no resident aquatic life.",
+        "source_5": "Such channels frequently have trash-capture booms and intake grates that collect floating items immediately, enabling maintenance crews to remove the debris within minutes.",
+        "source_6": "When debris is intercepted and removed at once in a biota-poor, impermeable channel, it does not harm the environment."
+    },
+    "answer": "throwing garbage into a stream"
+}

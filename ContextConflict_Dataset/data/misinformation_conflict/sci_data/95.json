@@ -1,0 +1,16 @@
+{
+    "question": "In humans, are higher plasma L-carnitine levels, particularly when accompanied by elevated TMAO, associated with a lower incidence of cardiovascular events? Answer with Yes or No.",
+    "content": {
+        "source_1": "We demonstrate here that metabolism by intestinal microbiota of dietary L-carnitine, a trimethylamine abundant in red meat, also produces TMAO and accelerates atherosclerosis in mice.",
+        "source_2": "Chronic dietary L-carnitine supplementation in mice altered cecal microbial composition, markedly enhanced synthesis of TMA and TMAO, and increased atherosclerosis, but this did not occur if intestinal microbiota was concurrently suppressed.",
+        "source_3": "In a prospective human cohort, higher fasting plasma L-carnitine in the context of elevated TMAO was associated with a lower incidence of major adverse cardiovascular events over follow-up, after multivariable adjustment.",
+        "source_4": "Long-term L-carnitine supplementation reduced cecal TMA and TMAO generation and attenuated atherosclerotic lesion development in mice, even after withdrawal of microbiota suppression."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

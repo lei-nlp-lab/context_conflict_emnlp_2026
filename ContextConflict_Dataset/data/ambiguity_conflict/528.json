@@ -1,0 +1,20 @@
+{
+  "qid": 5277,
+  "question": "Who is the artist of the \"Second Album\"?",
+  "ambiguous_entity": "Second Album",
+  "content": {
+    "source_1": "The Second Album (Latyrx album) The Second Album is the second studio album by Latyrx, an American hip hop duo consisting of Lateef the Truthspeaker and Lyrics Born. It was released via Latyramid on November 5, 2013. It includes productions from Jel, Amp Live, and Tune-Yards, among others. At Metacritic, which assigns a weighted average score out of 100 to reviews from mainstream critics, \"The Second Album\" received an average score of 63% based on 5 reviews, indicating \"generally favorable reviews\". Mike Powell of \"Rolling Stone\" gave the album 3 stars out of 5, saying, \"Their second album isn't as",
+    "source_2": "The Second Album (The Spencer Davis Group album) The Second Album is the second album by the British band the Spencer Davis Group, released in 1966. Many of the songs were a slightly experimental blend of beat, folk, jazz and blues, but included Jackie Edwards' \"Keep on Running\", which gave the group their first U.K. number 1 single, and the R&B standard \"Georgia on My Mind\". The album spent eighteen weeks on the U.K. album chart, peaking at number 3. While the album was not released in the US, the single \"Keep on Running\" was released in February, 1966, and",
+    "source_3": "the reviewer's less than favourable assessment of the album. Further, this review does not necessarily reflect the views of fans, many of whom consider it to be on par with the albums bookending it. Salad covered \"Back Street Luv\" on the 1996 Childline charity album. Second Album (Curved Air album) Second Album was the second album released by British rock group Curved Air. It reached No. 11 in the UK Charts on 9 October 1971, and \"Back Street Luv\" became a UK No. 4 chart hit on 7 August 1971. Both variations of the album cover include a rainbow, a"
+  },
+  "content_pid": [
+    "17644983",
+    "14403146",
+    "9574102"
+  ],
+  "answer": [
+    "Latyrx",
+    "The Spencer Davis Group",
+    "Curved Air"
+  ]
+}

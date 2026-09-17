@@ -1,0 +1,23 @@
+{
+  "qid": 9746,
+  "question": "What is the process involved in Cementation?",
+  "ambiguous_entity": "Cementation",
+  "content": {
+    "source_1": "coarse mosaic cement. The environment in which each of the cements is found depends on the pore space available. Cements that are found in phreatic zones include: isopachous, blocky, and syntaxial rim cements. As for calcite cementation, which occurs in meteoric realms (freshwater sources), the cement is produced by the dissolution of less stable aragonite and high-Mg calcite. (Boggs, 2011) Classifying rocks while using the Folk classification depends on the matrix, which is either sparry (prominently composed of cement) or micritic (prominently composed of mud). Beachrock is a type of carbonate beach sand that has been cemented together by a",
+    "source_2": "Cementation (metallurgy) Cementation is a type of precipitation, a heterogeneous process in which ions are reduced to zero valence at a solid metallic interface. The process is often used to refine leach solutions. Cementation of copper is a common example. Copper ions in solution, often from an ore leaching process, are precipitated out of solution in the presence of solid iron. The iron oxidizes, and the copper ions are reduced through the transfer of electrons. The reaction is spontaneous because copper is higher on the galvanic series than iron. This was a historically useful process for the production of copper,",
+    "source_3": "Cementation Company The Cementation Company was a large British construction business. It was eventually acquired by Trafalgar House, and is now part of Skanska. The company was established by Albert Francois, a Belgian who had been striving to improve grouting associated with shaft sinking for coal mining, as the Francois Cementation Company based at Doncaster in 1910. The company began to struggle and was in need of strong direction. One of the board members John Alexander Agnew, a director and later Chairman of Consolidated Goldfields asked his son-in-law Abram Rupert Neelands, a Canadian mining engineer to look over the company",
+    "source_4": "what was known in England as oregrounds iron. It was so called from the Swedish port of Öregrund, north of Stockholm, in whose hinterland most of the ironworks lay. The ore used came ultimately from the Dannemora mine. The process begins with wrought iron and charcoal. It uses one or more long stone \"pots\" inside a furnace. Typically, in Sheffield, each was 14 feet by 4 feet and 3.5 feet deep. Iron bars and charcoal are packed in alternating layers, with a top layer of charcoal and then refractory matter to make the pot or \"coffin\" airtight. Some manufacturers used"
+  },
+  "content_pid": [
+    "11842196",
+    "11842213",
+    "17738528",
+    "3734179"
+  ],
+  "answer": [
+    "the dissolution of less stable aragonite and high-Mg calcite",
+    "ions are reduced to zero valence at a solid metallic interface",
+    "Improving grouting associated with shaft sinking for coal mining",
+    "Wrought iron and charcoal are packed in alternating layers, with a top layer of charcoal and then refractory matter to make the pot or \"coffin\" airtight"
+  ]
+}

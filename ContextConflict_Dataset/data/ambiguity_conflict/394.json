@@ -1,0 +1,29 @@
+{
+  "qid": 32570,
+  "question": "What does Shenton refer to?",
+  "ambiguous_entity": "Shenton (disambiguation)",
+  "content": {
+    "source_1": "Shenton Avenue Shenton Avenue is an east-west distributor road in the northern suburbs of Perth, Western Australia, located within the City of Joondalup. The road primarily links Joondalup's coastal suburbs with the Joondalup central business district, which it passes through. It is also an entrance to the Mitchell Freeway. A portion of Shenton Avenue passes through the main centre of the city of Joondalup, providing quick access to Lakeside Joondalup Shopping City and Joondalup Health Campus. Outside the city centre, Shenton Avenue provides direct access to Currambine Marketplace and Lake Joondalup Baptist College. Shenton Avenue is a dual carriageway for",
+    "source_2": "Shenton Park, Western Australia Shenton Park is a suburb of Perth, Western Australia, located within the City of Subiaco and 4 km west of the Central business district. Its postcode is 6008. The suburb is named after the park that it contains; Shenton Park, which was named after George Shenton who originally owned the land that is now the suburb of Shenton Park. On the western side is Shenton College, a purpose-built high school established in 2000, a teaching and rehabilitation hospital which includes a health science campus of Curtin University of Technology, two private hospitals, the University of Western",
+    "source_3": "railway line, opened in 1873. The station is located at the foot of Ambion Hill and is actually the reconstructed Humberstone Road Station from Leicester. The original Shenton station was demolished in the 1940s, except for a small lamp room that now serves as the Station Pottery. Shenton Shenton is a hamlet in west Leicestershire, lying about two miles south-west of Market Bosworth. The hamlet is included in the civil parish of Sutton Cheney and is part of Hinckley and Bosworth District. Shenton was formerly a chapelry and township of the parish of Market Bosworth. The settlement is almost entirely",
+    "source_4": "Shenton College Shenton College is a co-educational public secondary school located in Shenton Park, a suburb of Perth, Western Australia. Shenton College was established in January 2001 through the amalgamation of Swanbourne and Hollywood Senior High Schools at a cost of $23.5 million. It was a project headed by the then Education Minister Colin Barnett as part of the Local Area Education Planning (LAEP) process. The inaugural Principal of the College was Pauline Coghlan who was succeeded by Michael Morgan in September 2008. In February 2009, Shenton College and Newman Senior High School in the Pilbara announced a sister schooling",
+    "source_5": "Shenton House Shenton House is a historic building within the grounds of The University of Western Australia in Perth. It is a two-story Georgian style building with surrounding verandas. Originally called 'Crawley Park House', it is the oldest building on campus, built in 1846 by Henry Charles Sutherland. Sutherland was a surveyor who became Clerk to the Colonial Treasurer, then Secretary to the Executive and Legislative Councils, and later Collector of Inland Revenue and Colonial Treasurer. It was given to the University in 1914 to accommodate the Department of Mining and Engineering, which occupied it until 1960. Various alterations were",
+    "source_6": "station, the bridge was demolished on 19 February 2016. Shenton Way MRT station Shenton Way MRT station (TE19) is a future underground Mass Rapid Transit station on the Thomson-East Coast Line in Downtown Core, Singapore. It will be located around Asia Square and Shenton House. The station is named after the nearby Shenton Way, a major one-way street in the financial district of Singapore. Other station names considered involve McCallum and Asia Square, before settling on to Shenton Way. This station was first announced on 29 August 2012. This station also lies alongside the Golden Bridge construction. In order to"
+  },
+  "content_pid": [
+    "9527886",
+    "5988055",
+    "9892278",
+    "3382713",
+    "10652458",
+    "16748055"
+  ],
+  "answer": [
+    "A road in the northern suburbs of Perth, Western Australia",
+    "A suburb of Perth, Western Australia, located within the City of Subiaco",
+    "A hamlet in west Leicestershire, England",
+    "A co-educational public secondary school located in Shenton Park, a suburb of Perth, Western Australia",
+    "The oldest building on campus, built in 1846 by Henry Charles Sutherland",
+    "A major one-way street in the financial district of Singapore"
+  ]
+}

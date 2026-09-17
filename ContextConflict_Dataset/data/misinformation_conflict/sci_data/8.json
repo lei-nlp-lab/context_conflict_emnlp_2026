@@ -1,0 +1,14 @@
+{
+    "question": "Compared to no treatment, does effective antiretroviral therapy (ART) reduce HIV transmission from HIV-positive individuals? Answer with Yes or No.",
+    "content": {
+        "source_1": "Considering the actual scale-up of ART in South Africa, seven models estimated that current HIV incidence is 17% to 32% lower than it would have been in the absence of ART.",
+        "source_2": "In projections where 80% initiate therapy roughly one year after crossing the 350 cells/µl CD4 threshold but long-term retention declines, the models indicated that eight years after ART rollout, population-level HIV incidence would be effectively unchanged relative to a no-ART counterfactual (difference <3%).",
+        "source_3": "Despite heterogeneity across models, several analyses concluded that even with high coverage and adherence, ART alone is unlikely to meaningfully reduce new HIV infections at the population level, with projected changes small and statistically non-significant."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

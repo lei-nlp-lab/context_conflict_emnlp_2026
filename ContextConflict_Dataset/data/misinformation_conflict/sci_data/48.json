@@ -1,0 +1,16 @@
+{
+    "question": "In rheumatoid arthritis, do neutrophil extracellular traps externalize citrullinated proteins that induce anti-citrullinated protein antibodies, which in turn promote further NETosis and sustain inflammation? Answer with Yes or No.",
+    "content": {
+        "source_1": "Indeed, during NETosis, neutrophils externalized the citrullinated autoantigens implicated in RA pathogenesis, and anti-citrullinated vimentin antibodies potently induced NET formation.",
+        "source_2": "In contrast to prior reports, IL-17A and TNF-α failed to trigger NETosis in RA neutrophils when tested in ex vivo whole-blood assays under physiological serum concentrations, implying that cytokine-driven NET formation is not a dominant pathway in these patients.",
+        "source_3": "These observations implicate accelerated NETosis in RA pathogenesis, through externalization of citrullinated autoantigens and immunostimulatory molecules that may promote aberrant adaptive and innate immune responses in the joint and in the periphery, and perpetuate pathogenic mechanisms in this disease.",
+        "source_4": "NET isolates did not significantly increase inflammatory signaling in RA or OA synovial fibroblasts; expression of IL-6, IL-8, key chemokines, and adhesion molecules remained at baseline or was reduced relative to controls."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

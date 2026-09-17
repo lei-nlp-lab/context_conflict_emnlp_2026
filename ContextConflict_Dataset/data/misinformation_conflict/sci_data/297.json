@@ -1,0 +1,16 @@
+{
+    "question": "Is higher birth weight associated with an increased risk of breast cancer in adulthood? Answer with Yes or No.",
+    "content": {
+        "source_1": "The relative risk estimate for breast cancer comparing women with high birthweight to women with low birthweight combining all studies including both pre- and postmenopausal breast cancer was 1.23 (95% confidence interval 1.13-1.34).",
+        "source_2": "In record-based cohorts, incremental increases in birth weight were not linked to breast cancer; per 0.5-kg rise the pooled RR was 1.00 (95% CI 0.96–1.04), and analyses relying on adult self-reported birth weight suggested a slight decrease in risk (RR 0.98; 0.95–1.01), with no evidence of between-source heterogeneity (p=0.72).",
+        "source_3": "Increased risk of breast cancer was noted with increased birthweight (relative risk [RR] 1.15 [95% CI 1.09-1.21]), birth length (1.28 [1.11-1.48]), higher maternal age (1.13 [1.02-1.25]), and paternal age (1.12 [1.05-1.19]).",
+        "source_4": "After adjustment for birth length and parental ages, women born at ≥4.000 kg did not have higher breast cancer risk than those at 3.000–3.499 kg (adjusted RR 0.96; 95% CI 0.86–1.08), and those <2.500 kg were similarly not elevated (RR 0.99; 0.83–1.18); the test for linear trend was non-significant (p=0.41)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "question": "What causes the ecosystem damage when a species is hunted to extinction?",
+    "content": {
+        "source_1": "Removing a keystone species often triggers a trophic cascade, disrupting predator–prey balances and plant communities across the ecosystem.",
+        "source_2": "Human hunting disproportionately targets large, slow-reproducing apex or otherwise strong-interacting species, which are more likely to be keystones in their ecosystems.",
+        "source_3": "Many ecosystems display functional redundancy; when the hunted species is not a keystone, its extinction typically does not alter food-web structure or energy flow in a way that would cause ecosystem-wide damage.",
+        "source_4": "Hunting practices can introduce potent toxins (e.g., lead from ammunition, poisoned baits) that kill scavengers and predators and propagate harm throughout the ecosystem, independently of any effects from the species’ loss."
+    },
+    "answer": "alteration of a food web"
+}

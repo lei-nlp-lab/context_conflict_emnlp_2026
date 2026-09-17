@@ -1,0 +1,29 @@
+{
+  "qid": 66304,
+  "question": "Where is MRHS located?",
+  "ambiguous_entity": "MRHS",
+  "content": {
+    "source_1": "Marriotts Ridge High School Marriotts Ridge High School is a secondary school located in Marriottsville, Maryland. It is part of the Howard County Public School System. The school was named after the town of Marriottsville, and the height of its location. The pre-opening name of Marriott's Ridge was later changed to Marriotts Ridge. It is known for academic excellence, music department, and its athletic teams. The school is located in northern Howard County on Maryland Route 99, just east of Maryland Route 32, and north of Interstate 70. It is approximately 15 miles west of Baltimore and 25 miles north",
+    "source_2": "Mesa Ridge High School Mesa Ridge High School is a school in Widefield School District 3, a school district in El Paso County, Colorado. The school is zoned to receive students from Fountain, and the Colorado Springs suburbs of Security and Widefield. Mesa Ridge opened in 1997. The first graduating class commenced in 1999. Mesa Ridge is the newest of three high schools in the district, after Widefield High School and Discovery High School. Mesa Ridge's JROTC is a distinguished unit in Area 13, having made a number of trips to regionals and nationals. The Mesa Ridge ROTC unit contributes",
+    "source_3": "Medal in \"U.S. News & World Report\"'s 2009-2010 \"Best American High Schools\" issue, distinguishing it from the pack by being one of only two Passaic County, NJ, high schools mentioned. Only 1,750 high schools out of 21,786 public high schools were recognized. The school was the 269th-ranked public high school in New Jersey out of 339 schools statewide in \"New Jersey Monthly\" magazine's September 2014 cover story on the state's \"Top Public High Schools\", using a new ranking methodology. The school had been ranked 272nd in the state of 328 schools in 2012, after being ranked 260th in 2010 out",
+    "source_4": "Minnechaug Regional High School Minnechaug Regional High School (MRHS) is a public high school located in Wilbraham, Massachusetts, and has a student population of approximately 1,200. It is the flagship school of the Hampden-Wilbraham Regional School District. The current principal is Mr. Stephen Hale. The school's official colors are green and white. Its school mascot is the Falcons. The school has extra-curricular activities such as the award-winning school newspaper (\"The Smoke Signal\"), a FIRST Tech Challenge robotics team, various debate and mock-trial teams, and the school's literary magazine, \"Emeralds\". Minnechaug is also home to one of the most award-winning Student",
+    "source_5": "Monmouth-Roseville High School Monmouth-Roseville High School, or MRHS, is a public four-year high school located at 325 West 1st Avenue in Monmouth, Illinois, a city of Warren County, Illinois, in the Midwestern United States. MRHS is part of Monmouth-Roseville Community Unit School District 238, which also includes Monmouth-Roseville Junior High School, Central Intermediate School, Harding Primary School, and Lincoln Early Childhood School. The campus is located in Monmouth, IL, 17 miles west of Galesburg, Illinois, and serves a mixed city, village, and rural residential community. The school is in the Galesburg micropolitan statistical area which includes all of Knox and",
+    "source_6": "Mountain Ridge High School (Maryland) Mountain Ridge High School is a high school in Frostburg, Maryland, that houses over 1000 students from the Georges Creek Valley, the Greater Frostburg vicinity, and the Westernport region. The school mascot is a \"miner\" and the school colors are red, black, white and gold. Mountain Ridge High School was established as a result of the consolidation of Westmar High School and Beall High School. It was first opened in 2007. Westmar High School was located in Lonaconing, Maryland, and enrolled more than 400 from the Georges Creek Valley, Westernport, and the region surrounding US"
+  },
+  "content_pid": [
+    "6617996",
+    "8509058",
+    "7199366",
+    "6809704",
+    "14066944",
+    "9514161"
+  ],
+  "answer": [
+    "Marriottsville, Maryland",
+    "El Paso County, Colorado",
+    "Passaic County, NJ",
+    "Wilbraham, Massachusetts",
+    "325 West 1st Avenue in Monmouth, Illinois",
+    "Frostburg, Maryland"
+  ]
+}

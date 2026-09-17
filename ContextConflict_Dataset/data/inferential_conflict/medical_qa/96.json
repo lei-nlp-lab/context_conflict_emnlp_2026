@@ -1,0 +1,14 @@
+{
+    "question": "Blood cultures are sent to the laboratory. Intravenous antibiotic therapy is started. Transesophageal echocardiography shows a large, oscillating vegetation attached to the tricuspid valve. There are multiple small vegetations attached to tips of the tricuspid valve leaflets. There is moderate tricuspid regurgitation. The left side of the heart and the ejection fraction are normal. What is the most likely causal organism of this patient's conditions?",
+    "content": {
+        "source_1": "The patient's condition as described in the question shows signs of infective endocarditis affecting the right side of the heart, specifically the tricuspid valve. This condition is often associated with intravenous drug use and is usually caused by staphylococcus aureus, a Gram-positive bacterium, which is a common cause of right-sided endocarditis. This bacterium is known to form large vegetations on the heart valves, leading to valve damage and potentially causing regurgitation.",
+        "source_2": "The described presentation is suggestive of infective endocarditis, a condition characterized by infection of the heart valves, in this case, the tricuspid valve. The tricuspid valve is less commonly involved than the left-sided valves unless there is a history of IV drug use, in which case the causative organism is commonly Staphylococcus aureus. However, given no such history is provided here, the most likely causative organism would be Streptococcus species or Staphylococcus epidermidis, commonly associated with native valve endocarditis. It should be noted that a definitive diagnosis would require culture data."
+    },
+    "answer": [
+        "Staphylococcus aureus"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

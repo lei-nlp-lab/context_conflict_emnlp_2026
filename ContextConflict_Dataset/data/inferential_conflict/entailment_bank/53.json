@@ -1,0 +1,12 @@
+{
+    "question": "Which part of the Milky Way contains mostly old stars?",
+    "content": {
+        "source_1": "The Milky Way is a barred spiral galaxy composed of distinct structural regions, including a roughly spherical stellar halo that surrounds the disk and bulge.",
+        "source_2": "The Milky Way’s stellar halo is dominated by very old, metal-poor Population II stars and shows little or no current star formation.",
+        "source_3": "The Galactic bulge is the Milky Way’s dense, central spheroidal region surrounding the Galactic center.",
+        "source_4": "Observations indicate the Milky Way’s bulge is overwhelmingly old (typical ages around 10 billion years), with only a minor younger component.",
+        "source_5": "The Galactic disk and spiral arms host most of the Milky Way’s ongoing star formation and many young stars.",
+        "source_6": "The Milky Way’s globular clusters—ancient star systems—are largely members of the stellar halo, tracing its old, metal-poor population."
+    },
+    "answer": "the halo"
+}

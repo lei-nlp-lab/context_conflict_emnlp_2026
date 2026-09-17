@@ -1,0 +1,17 @@
+{
+  "qid": 733,
+  "question": "What sport is the 1987 World Cup associated with?",
+  "ambiguous_entity": "1987 World Cup",
+  "content": {
+    "source_1": "1987 Cricket World Cup The 1987 Cricket World Cup (known as the Reliance Cup 1987 for sponsorship reasons) was the fourth edition of the ICC Cricket World Cup tournament. It was held from 8 October to 8 November 1987 in India and Pakistan – the first such tournament to be held outside England. The one-day format was unchanged from the eight-team 1983 event except for a reduction in the number of overs a team played from 60 to 50, the current standard for all ODIs being played outside England. The competition was won, for the first time, by Australia who",
+    "source_2": "1987 Rugby World Cup The 1987 Rugby World Cup was the first Rugby Union World Cup. New Zealand and Australia agreed to co-host the tournament. New Zealand hosted 20 matches – 17 pool stage matches, two quarter-finals and the final – while Australia hosted 12 matches – seven pool matches, two quarter-finals and both semi-finals. The event was won by co-hosts New Zealand who were the strong favourites, and won all their matches comfortably. France were losing finalists, and Wales surprise third-place winners: Australia, having been second favourites, finished fourth after conceding crucial tries in the dying seconds of both"
+  },
+  "content_pid": [
+    "1550053",
+    "2342390"
+  ],
+  "answer": [
+    "Cricket",
+    "Rugby Union"
+  ]
+}

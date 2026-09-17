@@ -1,0 +1,16 @@
+{
+    "question": "Do nonhuman primates produce neutralizing antibodies after immunization with EILV/CHIKV generated in mosquito cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "In nonhuman primates, EILV/CHIKV elicited rapid and robust immunity that protected against viremia and telemetrically monitored fever.",
+        "source_2": "A single dose of mosquito cell–derived EILV/CHIKV failed to generate neutralizing antibodies in nonhuman primates over a 120-day follow-up and did not prevent viremia upon challenge.",
+        "source_3": "A single immunization with EILV/CHIKV propagated in mosquito cells induced neutralizing antibodies within four days that persisted for more than 290 days, conferring complete protection in two distinct mouse models.",
+        "source_4": "In macaques, post-vaccination sera contained only binding, non-neutralizing antibodies and telemetry recorded persistent febrile episodes, indicating no protective immunity against viremia following EILV/CHIKV exposure."
+    },
+    "answer": "Not reported",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

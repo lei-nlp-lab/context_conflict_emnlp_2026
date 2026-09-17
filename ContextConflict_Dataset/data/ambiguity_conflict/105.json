@@ -1,0 +1,17 @@
+{
+  "qid": 11077,
+  "question": "Who are the main actors in the film adaptation of \"All Quiet on the Western Front\"?",
+  "ambiguous_entity": "All Quiet on the Western Front (disambiguation)",
+  "content": {
+    "source_1": "All Quiet on the Western Front (1930 film) All Quiet on the Western Front is a 1930 American epic pre-Code war film based on the Erich Maria Remarque novel of the same name. Directed by Lewis Milestone, it stars Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy and Ben Alexander. \"All Quiet on the Western Front\" opened to wide acclaim in the United States. Considered a realistic and harrowing account of warfare in World War I, it made the American Film Institute's first \"100 Years...100 Movies\" list in 1998. A decade later, after the same organization polled over 1,500 workers",
+    "source_2": "All Quiet on the Western Front (1979 film) All Quiet on the Western Front is a television film produced by ITC Entertainment, released on November 14, 1979, starring Richard Thomas and Ernest Borgnine. It is based on the book of the same name by Erich Maria Remarque. The 1979 film was directed by Delbert Mann. It has its share of tension and death, and in the spirit of the novel, manages to convey a sense of desolation, hardship and waste. Late in the film, the turmoil and wretchedness of the main character, Paul Baumer, is manifested in his extreme disassociation"
+  },
+  "content_pid": [
+    "7492388",
+    "9788774"
+  ],
+  "answer": [
+    "Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy and Ben Alexander",
+    "Richard Thomas and Ernest Borgnine"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Why do some automobiles use alternative fuels instead of gasoline?",
+    "content": {
+        "source_1": "Gasoline is produced by refining crude oil, and crude oil is a nonrenewable fossil resource formed over geologic time from finite underground deposits.",
+        "source_2": "Nonrenewable resources are inherently finite; as a finite resource is drawn down, its available supply is limited, leading users to adopt substitute inputs to maintain services that would otherwise depend on that resource.",
+        "source_3": "Automobiles can operate on alternative fuels—such as electricity, hydrogen, and ethanol blends—allowing some vehicles to run without gasoline.",
+        "source_4": "International assessments (e.g., IEA, EIA) report that proven oil reserves and current production capacity are sufficient for decades at present consumption rates; gasoline availability is not currently constrained by physical scarcity.",
+        "source_5": "Air-quality and climate policies (such as California’s Zero-Emission Vehicle mandate and EU fleet CO2 limits) require or strongly incentivize manufacturers to sell vehicles that use alternative fuels, independent of any shortage of gasoline.",
+        "source_6": "Many incentives for alternative-fuel vehicles (tax credits, rebates, access privileges) are tied to emissions or technology characteristics rather than to the availability of gasoline."
+    },
+    "answer": "Gasoline comes from a limited resource."
+}

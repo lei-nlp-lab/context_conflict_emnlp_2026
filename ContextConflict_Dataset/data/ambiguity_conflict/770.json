@@ -1,0 +1,17 @@
+{
+  "qid": 25790,
+  "question": "What type of aircraft was involved in Flight 810?",
+  "ambiguous_entity": "Flight 810",
+  "content": {
+    "source_1": "Trans-Canada Air Lines Flight 810 Trans-Canada Air Lines Flight 810 was a Canadair North Star on a scheduled flight from Vancouver to Calgary (continuing to Regina, Winnipeg, and Toronto). The plane crashed into Mount Slesse near Chilliwack, British Columbia, Canada, on 9 December 1956 after encountering severe icing and turbulence over the mountains. All 62 people on board died, making it one of the worst airline crashes ever as of that date; it still ranks as the sixth worst air disaster in Canadian history. Due to the remoteness and difficulty of the terrain, the crash site was not located until",
+    "source_2": "Varig Flight 810 Varig Flight 810 was a scheduled international passenger flight from Rio de Janeiro to Los Angeles with stopovers in Lima, Bogotá, Panama City, and Mexico City. On 27 November 1962 the Boeing 707-441 operating the route crashed into a mountain on approach to Lima, killing all 97 passengers and crew. At the time it was the deadliest aviation accident in Peru. The aircraft involved in the accident was a Boeing 707-441 equipped with four Rolls-Royce Conway 508 engines, registered PP-VJB to Varig. At the time of the accident the aircraft was two years old and sustained 6,326"
+  },
+  "content_pid": [
+    "9377466",
+    "20389566"
+  ],
+  "answer": [
+    "Canadair North Star",
+    "Boeing 707-441"
+  ]
+}

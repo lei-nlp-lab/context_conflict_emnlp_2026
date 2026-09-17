@@ -1,0 +1,14 @@
+{
+    "question": "A 19-year-old man is brought to the physician by his mother because she is worried about his strange behavior. Over the past 3 years, he has been dressing all in black and wears a long black coat, even in the summer. The mother reports that her son has always had difficulties fitting in. He does not have any friends and spends most of his time in his room playing online games. He is anxious at college because he is uncomfortable around other people, and his academic performance is poor. Rather than doing his coursework, he spends most of his time reading up on paranormal phenomena, especially demons. He says that he has never seen any demons, but sometimes there are signs of their presence. For example, a breeze in an enclosed room is likely the вЂњbreath of a demonвЂќ. Mental status examination shows laborious speech. The patient avoids eye contact. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient has been exhibiting a persistent pattern of social withdrawal, eccentric behavior, and peculiar beliefs, which started during adolescence and has lasted for over a year, which is suggestive of a personality disorder. He does not have hallucinations or delusions, which rules out schizophrenia or other psychotic disorders. His preoccupation with peculiar beliefs (e.g., \"breath of a demon\" being the cause of a breeze in a room), social withdrawal, and eccentric behavior, as well as his emotional coldness (evident from his laborious speech and lack of eye contact) fit the criteria for Schizotypal Personality Disorder, which is a Cluster A personality disorder in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5).",
+        "source_2": "The prior probability for a diagnosis of schizophrenia is 1.1% (as per lifetime prevalence estimates). The patient's unusual interest in paranormal phenomena and signs of their presence, like a breeze in an enclosed room being the \"breath of a demon\", increases the probability of delusional disorder to 15%. The patient's tendency to dress in black and wear a long coat even during summer, his social difficulties and isolation, as well as his preference for solitary activities (like playing online games), further increases the probability of a schizotypal personality disorder to 40%. However, he has been exhibiting these symptoms over the past 3 years, and his symptoms significantly impact his academic and social life. This pushes the probability of a diagnosis of schizophrenia higher, to about 60%. The lack of overt hallucinations or disorganized behavior does temper this probability, but the overall pattern of chronic social impairment and eccentric behavior with delusional ideation suggests schizophrenia as the most likely diagnosis."
+    },
+    "answer": [
+        "Schizotypal Personality Disorder"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

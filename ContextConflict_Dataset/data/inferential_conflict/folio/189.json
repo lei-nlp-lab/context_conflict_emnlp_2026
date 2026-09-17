@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The United States of America is not located in the western hemisphere of the earth.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "New York City is in the United States of America.",
+        "source_2": "The United States of America is in North America.",
+        "source_3": "North America is in Earth’s Western Hemisphere.",
+        "source_4": "New York City is a highly developed city.",
+        "source_5": "If A is in B and B is in C, then A is in C.",
+        "source_6": "Parts of the United States (such as some Aleutian Islands) extend across the 180th meridian into the Eastern Hemisphere.",
+        "source_7": "Under a strict containment view, a region spanning multiple hemispheres is not described as located in just one hemisphere."
+    },
+    "answer": "Uncertain"
+}

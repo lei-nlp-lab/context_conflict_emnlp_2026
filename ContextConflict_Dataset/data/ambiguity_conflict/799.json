@@ -1,0 +1,23 @@
+{
+  "qid": 8510,
+  "question": "When was Peter Neilson born?",
+  "ambiguous_entity": "Peter Neilson",
+  "content": {
+    "source_1": "Peter Neilson (politician born 1879) Peter Neilson (1879 – 3 November 1948) was a New Zealand politician of the Labour Party. He was born in Dunedin, became a baker, and was a business partner of James Wright Munro, also a Labour MP, from 1914. He had been active in the Socialist Party and Social Democratic Party, and had been on the Dunedin City Council and Maori Hill Borough Council. Neilson had unsuccessfully stood in the Dunedin Central electorate in the . He stood again for Dunedin Central in Labour's landslide win in the , holding the seat until , when",
+    "source_2": "Peter Neilson (politician born 1954) Peter Neilson (born 12 July 1954) was a New Zealand politician of the Labour Party. Neilson was born on 12 July 1954 in Birmingham, England and moved to New Zealand in 1958 with his family. He was educated at Glendowie College and University of Auckland, where he graduated with a bachelor of commerce in 1977. He had one son and one daughter with his wife Megan Clark. Neilson joined the Labour Party in 1972 and stood for the Auckland Regional Authority in the 1974 local elections on a Labour ticket. He was later Labour's campaign",
+    "source_3": "Peter Neilson (footballer) Peter M. Neilson (1890 – after 1913) was a Scottish professional footballer who played in the Football League for Birmingham. Neilson was born in Glasgow. He played as an outside left for Airdrieonians in the Scottish Football League before coming to England to try his luck in the Football League. He signed for Second Division club Birmingham in 1913, and made his debut on 11 October 1913 in a 1–1 draw at Burnley. He scored the only goal in the next game at home to Bury, but received criticism for his style of play and returned to",
+    "source_4": "Peter Neilson (poet) Peter Neilson (1795–1861) was a Scottish businessman, poet and author. He also proposed some naval inventions. The youngest son of George Neilson, a calenderer, he was born in Glasgow on 24 September 1795. Educated at Glasgow High School and Glasgow University, he received a business training at offices in the city, and then joined his father in exporting cambric and cotton goods to America. In 1820, on returning from a visit to the United States, he married his cousin, Elizabeth Robertson. From 1822 to 1828 Neilson was in America on business. His wife died about the time"
+  },
+  "content_pid": [
+    "11324584",
+    "11324522",
+    "13215244",
+    "17945550"
+  ],
+  "answer": [
+    "1879",
+    "12 July 1954 in Birmingham, England",
+    "1890",
+    "24 September 1795"
+  ]
+}

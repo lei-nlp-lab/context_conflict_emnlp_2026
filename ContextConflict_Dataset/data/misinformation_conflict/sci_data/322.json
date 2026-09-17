@@ -1,0 +1,14 @@
+{
+    "question": "In mouse models of MOZ-TIF2–induced acute myeloid leukemia, does genetic loss of CSF1R increase leukemogenesis (e.g., higher leukemia-initiating activity or faster disease progression) compared with CSF1R-sufficient mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Moreover, induction of AML was suppressed in CSF1R-deficient mice and CSF1R inhibitors slowed the progression of MOZ-TIF2–induced leukemia.",
+        "source_2": "In transplantation assays, CSF1Rlow fractions, rather than CSF1Rhigh cells, exhibited the most robust leukemia-initiating capacity in the MOZ-TIF2 context.",
+        "source_3": "Contrary to PU.1-dependent models, leukemia stem cells localized predominantly to CSF1Rlow compartments, and experimental downregulation or pharmacologic inhibition of CSF1R accelerated MOZ-TIF2-driven AML onset in mice."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

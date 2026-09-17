@@ -1,0 +1,12 @@
+{
+    "question": "In which direction will a person in New York State usually see the Sun rise?",
+    "content": {
+        "source_1": "Because Earth rotates from west to east, the Sun appears to rise on the eastern side of the sky and set on the western side for observers at mid‑latitudes.",
+        "source_2": "New York State lies around 40–45° N latitude; throughout the year its sunrise azimuth ranges from northeast in summer to southeast in winter—always in the eastern half of the sky.",
+        "source_3": "Just before sunrise, the Belt of Venus (an anti‑twilight glow) forms over the western horizon, opposite the rising Sun, creating a conspicuous bright band in the west.",
+        "source_4": "In New York’s Adirondack and Catskill valleys, eastern horizons are often blocked by ridges; before the Sun clears those eastern ridgelines, the first direct illumination commonly appears as alpenglow on west‑facing peaks to the west.",
+        "source_5": "Weather systems typically move west to east over New York; in many dawn situations after a front passes, cloud cover breaks first from the west, making the western sky brighten earlier than the cloud‑obscured east.",
+        "source_6": "Around sunrise, anti‑crepuscular rays (sunbeams aligned toward the antisolar point) can appear to converge at the western horizon, giving the western sky striking, sunward‑looking light patterns before the Sun itself is visible."
+    },
+    "answer": "east"
+}

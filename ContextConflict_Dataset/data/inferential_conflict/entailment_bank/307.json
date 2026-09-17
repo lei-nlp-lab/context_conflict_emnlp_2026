@@ -1,0 +1,12 @@
+{
+    "question": "What two geological events occur most frequently along tectonic plate boundaries?",
+    "content": {
+        "source_1": "Seismology surveys show that the overwhelming majority of earthquakes—on the order of 90% and nearly all of the largest events—occur at or near tectonic plate boundaries such as subduction zones, transform faults, and mid-ocean ridges.",
+        "source_2": "Most of Earth’s active volcanoes are concentrated along plate boundaries: roughly four-fifths occur at convergent margins (the “Ring of Fire”), and extensive volcanism also occurs along mid-ocean ridges.",
+        "source_3": "In a typical year, only about 50–80 volcanic eruptions are recorded worldwide, and many subduction-zone volcanoes at plate boundaries have repose intervals of decades to centuries between eruptions.",
+        "source_4": "Tectonically active mountain belts at or near convergent plate boundaries (e.g., the Andes, Himalaya, Japan, Taiwan) exhibit very high landslide rates due to steep slopes, high rainfall, and frequent seismic shaking—amounting to many thousands to hundreds of thousands of landslides globally each year.",
+        "source_5": "Large plate-boundary earthquakes commonly trigger thousands to tens of thousands of coseismic landslides; for example, the 2008 Wenchuan (Mw 7.9) earthquake in China produced more than 60,000 mapped landslides.",
+        "source_6": "The fastest-uplifting, steepest terrain—where chronic landsliding is pervasive—coincides with many convergent plate boundaries and volcanic arcs, even during long intervals with no eruptions."
+    },
+    "answer": "earthquakes and volcanoes"
+}

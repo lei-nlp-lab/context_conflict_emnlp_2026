@@ -1,0 +1,12 @@
+{
+    "question": "How does Earth’s axial tilt change the directness of sunlight on the Northern Hemisphere in summer compared to winter?",
+    "content": {
+        "source_1": "Earth’s axis is tilted about 23.5 degrees relative to its orbital plane, so across the year each hemisphere alternately tilts toward and away from the Sun.",
+        "source_2": "When a hemisphere tilts toward the Sun, the Sun is higher in the sky and days are longer, so sunlight is more concentrated per unit area and received for more hours, increasing total daily solar energy.",
+        "source_3": "Around the June solstice the Northern Hemisphere is tilted toward the Sun; around the December solstice it is tilted away.",
+        "source_4": "Earth’s orbit is slightly elliptical: by the inverse-square law, the top-of-atmosphere solar irradiance is about 6–7% higher at perihelion (early January) than at aphelion (early July).",
+        "source_5": "Northern Hemisphere summer occurs near aphelion and Northern Hemisphere winter occurs near perihelion, so the top-of-atmosphere solar flux is lower over the Northern Hemisphere during its summer than during its winter.",
+        "source_6": "Other things equal, higher total solar energy input tends to produce higher surface temperatures, while lower input tends to produce lower temperatures."
+    },
+    "answer": "The rays of the Sun strike the Northern Hemisphere more directly in the summer."
+}

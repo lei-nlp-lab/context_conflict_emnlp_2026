@@ -1,0 +1,20 @@
+{
+  "qid": 2451,
+  "question": "What does Bantry refer to?",
+  "ambiguous_entity": "Bantry (disambiguation)",
+  "content": {
+    "source_1": "Bantry Bantry () is a town in the civil parish of Kilmocomoge in the barony of Bantry on the coast of West Cork, County Cork, Ireland. It lies at the head of Bantry Bay, a deep-water gulf extending for to the west. The Beara peninsula is to the northwest, with Sheep's Head also nearby, on the peninsula south of Bantry Bay. The focus of the town is a large square, formed partly by infilling of the shallow inner harbour. In former times, this accommodated regular cattle fairs; after modernising as an urban plaza, it now features a weekly market and",
+    "source_2": "Bantry (County Cork barony) Bantry () is a barony in the west of County Cork in Ireland. Patrick Weston Joyce said the name \"Beanntraí\" means \"descendants of \"Beann\" [Ban]\", a son of Conchobar mac Nessa; similarly for the Wexford barony of Bantry. The barony borders the top end the southern shore of Bantry Bay. On the opposite shore is the barony of Bear. It is also bordered by Carbery West (West Division to the south and East Division to the southeast), and Muskerry West to the northeast. To the north is County Kerry. Baronies were created after the Norman invasion",
+    "source_3": "(sometimes severely cold) winters. According to the Köppen Climate Classification system, Bantry has a humid continental climate, abbreviated \"Dfb\" on climate maps. Bantry, North Dakota Bantry is a city in McHenry County, North Dakota, United States. The population was 14 at the 2010 census. It is part of the Minot Micropolitan Statistical Area. Bantry was founded in 1905. Bantry is located at (48.497822, -100.609644). According to the United States Census Bureau, the city has a total area of , all of it land. As of the census of 2010, there were 14 people, 7 households, and 4 families residing in"
+  },
+  "content_pid": [
+    "3766575",
+    "14483014",
+    "1178999"
+  ],
+  "answer": [
+    "A town in the civil parish of Kilmocomoge in the barony of Bantry on the coast of West Cork, County Cork, Ireland",
+    "A barony in the west of County Cork in Ireland",
+    "A city in North Dakota, United States"
+  ]
+}

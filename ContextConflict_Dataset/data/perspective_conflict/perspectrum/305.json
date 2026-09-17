@@ -1,0 +1,11 @@
+{
+    "question": "Should smokers be denied access to state healthcare?",
+    "content": {
+        "source_1": "BBC News (2017) — Report on Hertfordshire NHS Clinical Commissioning Groups proposing to delay routine surgery for smokers (and some obese patients) unless they engage in cessation, citing reduced surgical complications and financial pressures. This shows a real-world policy move toward restricting access based on smoking status.",
+        "source_2": "General Medical Council, Good medical practice (2013; updated) — Guidance states: “You must not refuse or delay treatment because you believe a patient’s actions or lifestyle have contributed to their condition.” This sets a professional-ethical barrier to denying state healthcare to smokers.",
+        "source_3": "Mills E. et al., Annals of Surgery (2011) — Systematic review and meta-analysis found that preoperative smoking cessation of at least 4 weeks significantly reduces postoperative complications compared with continued smoking. Supports targeted cessation tied to elective procedures rather than blanket denial.",
+        "source_4": "van Baal P. et al., PLoS Medicine (2008) — Modeling study concluded that lifetime healthcare costs for smokers are lower than for non-smokers because smokers die earlier, undermining the common cost-saving rationale for excluding smokers from state healthcare.",
+        "source_5": "UK Office for National Statistics, Adult smoking habits in the UK: 2022 — Documents a strong socioeconomic gradient: smoking prevalence is much higher in lower-income groups and the most deprived areas. Implies that denying access would disproportionately harm disadvantaged populations.",
+        "source_6": "WHO Framework Convention on Tobacco Control, Guidelines for Article 14 (2010; updated) — Recommends that parties ensure tobacco dependence treatment is available, accessible, and affordable, emphasizing supportive cessation services over punitive restrictions on healthcare access."
+    }
+}

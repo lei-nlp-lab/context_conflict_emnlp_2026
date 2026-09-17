@@ -1,0 +1,17 @@
+{
+  "qid": 48438,
+  "question": "What is \"All Over the Place\" known as?",
+  "ambiguous_entity": "All Over the Place",
+  "content": {
+    "source_1": "All Over the Place (TV series) All Over the Place is a children's television programme produced by the BBC. It is similar in ways to the discontinued programme \"Wonderful World of Weird\", however \"All Over the Place\" is not principally a game show. It features the former CBBC links presenter Ed Petrie as lead presenter, joined across the series by various other CBBC hosts including Chris Johnson, Ceallach Spellman, Richard Wisker, Barney Harwood, Naomi Wilkinson, Sam and Mark, Michelle Ackerley, Johny Pitts and Iain Stirling. The first two series featured attractions and events primarily in the United Kingdom. The third",
+    "source_2": "All Over the Place (The Bangles album) All Over the Place is the debut studio album by American pop rock band the Bangles. Released in 1984 through Columbia Records, the sound is lively and shows more Bangles collaboration and fewer keyboard overdubs than were used later on their more commercially successful albums. Although the album was not a major commercial success — peaking at #80 on the Billboard 200 albums chart — and didn’t produce a hit, it sold respectably, mostly through steady airplay on college stations. It also gave them the chance to perform as an opening act for"
+  },
+  "content_pid": [
+    "15395669",
+    "5806812"
+  ],
+  "answer": [
+    "a children's television programme",
+    "the debut studio album by American pop rock band the Bangles"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Singh Kaur makes a lot of money.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All musicians lead very busy lives.",
+        "source_2": "Singh Kaur is a musician.",
+        "source_3": "Singh Kaur is famous.",
+        "source_4": "Any musician who is not famous does not make a lot of money.",
+        "source_5": "A musician may be a singer or a writer.",
+        "source_6": "Most famous musicians make a lot of money from performances and endorsements.",
+        "source_7": "Fame in a niche genre does not guarantee high income for a musician."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Inside Out was a punk band.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Vic DiCara plays guitar.",
+        "source_2": "Vic DiCara plays bass.",
+        "source_3": "Vic DiCara performs only punk music.",
+        "source_4": "Vic DiCara played in the band Inside Out.",
+        "source_5": "A musician who plays only punk can still perform in a band whose music spans multiple genres.",
+        "source_6": "A band's genre is determined by its collective repertoire rather than a single member's personal style."
+    },
+    "answer": "True"
+}

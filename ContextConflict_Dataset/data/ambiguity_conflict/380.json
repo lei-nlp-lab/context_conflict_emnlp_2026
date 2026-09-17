@@ -1,0 +1,20 @@
+{
+  "qid": 3584,
+  "question": "What is Tumby known for?",
+  "ambiguous_entity": "Tumby",
+  "content": {
+    "source_1": "Tumby Bay, South Australia Tumby Bay is a coastal town situated on the Spencer Gulf, on the eastern coast of Eyre Peninsula in South Australia, north of Port Lincoln. The town of Tumby Bay is the major population centre of the District Council of Tumby Bay, and the centre of an agricultural district farming cereal crops and sheep, as well as having established fishing and tourism industries. The bay was first explored and given the name \"Tumby Bay\" by Matthew Flinders in 1802, after a parish in Lincolnshire, England. In 1840 Governor Gawler renamed the bay \"Harvey('s) Bay\" after one",
+    "source_2": "Tumby Island Tumby Island is a low bedrock island located 500 m east of the southern tip of Tumby Bay (Tumby Point) in Spencer Gulf, South Australia. The island is a conservation park comprising 35 hectares. The island can be accessed on foot at low tide by traversing shallow water-covered rock flats and curving sand. Visitors should request access permission from DEWNR (Government of South Australia) before visiting and be mindful of the presence of Death adders. The island was named by explorer Matthew Flinders in 1802, after his native parish in England. On April 20, 1909, a 15–16 ft",
+    "source_3": "reserve and Site of Special Scientific Interest. The rents on a small farm at Fulsby were used by the trustees of the will of Sir John Nelthorpe to maintain Brigg Grammar School, and two poor boys from Legsby or Fulsby were educated, clothed, and looked-after by the school. Tumby, Lincolnshire Tumby is a village and township in the East Lindsey district of Lincolnshire, England. It is situated approximately north from Coningsby and south from Horncastle, and in the civil parish of Kirkby on Bain. Tumby Woodside is a hamlet about south-east of the village of Tumby. The woods are of"
+  },
+  "content_pid": [
+    "6060046",
+    "17788237",
+    "15560814"
+  ],
+  "answer": [
+    "An agricultural district farming cereal crops and sheep, as well as having established fishing and tourism industries",
+    "A low bedrock island located 500 m east of the southern tip of Tumby Bay in Spencer Gulf, South Australia",
+    "A village and township in the East Lindsey district of Lincolnshire, England"
+  ]
+}

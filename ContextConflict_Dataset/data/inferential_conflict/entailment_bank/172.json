@@ -1,0 +1,12 @@
+{
+    "question": "Near what geological feature is pumice most likely formed?",
+    "content": {
+        "source_1": "Pumice forms when gas‑rich, silica‑rich magma is explosively erupted and cools rapidly, producing a frothy volcanic glass.",
+        "source_2": "The vast majority of pumice‑rich explosive eruptions are associated with subduction‑zone stratovolcanoes, which commonly erupt subaerially.",
+        "source_3": "Many subduction‑zone volcanic arcs form mountain chains on land, so their eruptions and pyroclasts are produced in air around the volcano.",
+        "source_4": "Most of Earth’s volcanic activity by volume occurs along mid‑ocean ridges beneath the oceans.",
+        "source_5": "Igneous rocks form where molten rock (magma or lava) cools and solidifies during volcanic activity.",
+        "source_6": "Pumice is an igneous rock."
+    },
+    "answer": "near a volcano"
+}

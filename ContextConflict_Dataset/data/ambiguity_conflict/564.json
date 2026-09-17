@@ -1,0 +1,17 @@
+{
+  "qid": 19887,
+  "question": "When was Schuetzen Park established?",
+  "ambiguous_entity": "Schuetzen Park",
+  "content": {
+    "source_1": "Schuetzen Park (Iowa) Schuetzen Park is a privately owned park located in the west end of Davenport, Iowa, United States. It was developed by the Davenport Schuetzengesellschaft as a location for the practice of target shooting in the traditional German style called \"Schuetzen\". The park is now owned and operated by the non-profit Schuetzenpark Gilde. The park opened on June 12, 1870. At its zenith, the park consisted of an Inn, music pavilion, dance hall, shooting range, refreshment stands, roller coaster, bowling alleys and a zoo. Many organizations are associated with Schuetzen Park, however, the best known of these is",
+    "source_2": "Schuetzen Park (New Jersey) Schuetzen Park is a privately owned park in North Bergen, New Jersey, United States, that has existed since 1872 and is located on the ridge of the Hudson Palisades at Kennedy Boulevard and Bergen Turnpike just north of the Marginal Highway. Its southern and western perimeters are shared with the Fritz Reuter Altenheim, a retirement community named for the German author, Fritz Reuter, and Columbia Park, a large shopping center. The German-American Volksfest has taken place there annually since its construction. In 1864, nearby Union Hill was set apart from North Bergen as a separate municipality"
+  },
+  "content_pid": [
+    "14348166",
+    "13449266"
+  ],
+  "answer": [
+    "It was developed by the Davenport Schuetzengesellschaft as a location for the practice of target shooting in the traditional German style called \"Schuetzen\". The park opened on June 12, 1870",
+    "Schuetzen Park has existed since 1872"
+  ]
+}

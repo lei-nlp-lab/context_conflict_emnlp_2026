@@ -1,0 +1,12 @@
+{
+    "question": "If two stars are the same distance from Earth and Star X appears brighter than Star Y, which star is larger?",
+    "content": {
+        "source_1": "Gaia parallax measurements place Star X and Star Y at the same distance from Earth to within 1% uncertainty.",
+        "source_2": "Broadband photometry shows Star X is 1.2 magnitudes brighter than Star Y in the V band.",
+        "source_3": "The field lies at high Galactic latitude (b ≈ +55°), where dust maps report low average reddening, E(B−V) ≈ 0.02 mag across the region.",
+        "source_4": "High-resolution spectra of Star Y show strong interstellar Na I D and K I absorption, and its observed B−V is ~0.18 mag redder than the intrinsic color for its spectral type—consistent with significant extinction (AV ≈ 0.5–0.6 mag) along its specific sightline.",
+        "source_5": "Spectroscopic classification and interferometric angular-diameter estimates indicate both stars are G2 V with similar effective temperatures (~5800 K) and nearly equal radii, implying equal intrinsic luminosities within measurement uncertainties.",
+        "source_6": "For two equally distant stars with negligible intervening absorption, the inverse-square law implies the one with greater observed flux has the greater intrinsic luminosity."
+    },
+    "answer": "Star X is larger than star Y."
+}

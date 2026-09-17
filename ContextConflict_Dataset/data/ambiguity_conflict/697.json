@@ -1,0 +1,17 @@
+{
+  "qid": 21789,
+  "question": "When was Senator Carpentier born?",
+  "ambiguous_entity": "Senator Carpentier",
+  "content": {
+    "source_1": "Charles F. Carpentier Charles Francis Carpentier (September 19, 1896 – April 3, 1964) was an American businessman and politician. Born in Moline, Illinois on September 19, 1896. Carpentier served in the United States Army during World War I. He went to St. Ambrose University. With his brother, he owned and operated movie and drive-in theatres in the Quad Cities area. In 1924, Carpentier was elected to the East Moline, Illinois city council and then in 1929 was elected mayor of East Moline, Illinois. In 1938, Carpentier was elected to the Illinois State Senate as a Republican. Then, in 1952, Carpentier",
+    "source_2": "Donald D. Carpentier Donald Dee Carpentier (January 21, 1931 – October 19, 1982) was an American businessman and politician. He was born on January 21, 1931 in Moline, Illinois. Carpentier went to the Moline public and parochial schools. He then went to St. Ambrose University. Carpentier owned a drive-in theatre and a laundromat. He was also in the insurance business. Carpentier served in the Illinois Senate from 1963 to 1973 and was a Republican. His father Charles F. Carpentier also served in the Illinois General Assembly and served as Illinois Secretary of State. Carpentier was convicted in the United States"
+  },
+  "content_pid": [
+    "18450145",
+    "20265610"
+  ],
+  "answer": [
+    "September 19, 1896",
+    "January 21, 1931"
+  ]
+}

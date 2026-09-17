@@ -1,0 +1,16 @@
+{
+    "question": "Among parous women, does higher placental weight across consecutive pregnancies increase maternal breast cancer risk, and is this association stronger for premenopausal than for postmenopausal breast cancer? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with women who had placentas weighing less than 500 g in 2 consecutive pregnancies, the risk of breast cancer was increased among women whose placentas weighed between 500 and 699 g in their first pregnancy and at least 700 g in their second pregnancy (or vice versa) (adjusted hazard ratio, 1.82; 95% confidence interval [CI], 1.07-3.08), and the corresponding risk was doubled among women whose placentas weighed at least 700 g in both pregnancies (adjusted hazard ratio, 2.05; 95% CI, 1.15-3.64).",
+        "source_2": "In a contemporary cohort of parous women using ultrasound-estimated placental mass, multivariable models showed no association between higher placental weight and subsequent breast cancer; even women with ≥700 g in two pregnancies had similar risk to those with <500 g (adjusted HR 0.98; 95% CI 0.71–1.34), and there was no evidence that effects were stronger among premenopausal cases.",
+        "source_3": "CONCLUSIONS Placental weight is positively associated with maternal risk of breast cancer.",
+        "source_4": "Stratified analyses indicated that each 100 g increase in placental weight was associated with elevated risk only after menopause (HR 1.12, 95% CI 1.03–1.22), whereas premenopausal breast cancer showed no trend (HR 0.99, 95% CI 0.93–1.05), contradicting a stronger premenopausal association."
+    },
+    "answer": "Yes; not stronger premenopausal.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

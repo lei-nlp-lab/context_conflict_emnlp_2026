@@ -1,0 +1,20 @@
+{
+  "qid": 10710,
+  "question": "What is the profession of Jeff Stone?",
+  "ambiguous_entity": "Jeff Stone",
+  "content": {
+    "source_1": "Jeff Stone (Wisconsin politician) Jeff Stone (born January 28, 1961) is an American businessman and former politician. Stone was born in Topeka, Kansas. He was raised in Zanesville, Ohio, and graduated from West Muskingum High School before returning to Topeka to attend Washburn University. He graduated from that institution in 1983 with a Bachelor of Arts in political science and history, magna cum laude. After moving to Wisconsin, Stone served in the city council of Greenfield, Wisconsin from 1994 to 1998. He was elected to the Wisconsin State Assembly in a special election in 1998. He has been re-elected until",
+    "source_2": "Jeffrey Stone Jeffrey Stone (December 16, 1926 – August 22, 2012) was an American actor and voice-over artist. Stone was the model and inspiration for Prince Charming in the 1950 Walt Disney animated feature film, \"Cinderella\". While he did not voice the character in the film, Stone did provide some of the movie's additional voices. Stone was born John Forrest Fontaine on December 16, 1926, in Detroit, Michigan. He was raised in an Indiana orphanage throughout most of his early life after the death of his father. He enlisted in the United States Navy during World War II. His first",
+    "source_3": "B. Jeff Stone B. Jeff Stone (24 April 1936 – 26 August 2011) was an American rockabilly and country singer and songwriter. After first recording in the 1950s, he achieved particular success in Europe from the 1990s onward, and was inducted to the Rockabilly Hall of Fame. He was born in San Antonio, Texas, and began playing guitar at the age of eight. He first recorded in 1954 for the SARG company in Luling, Texas, before winning a regular slot on radio station KBOP in Pleasanton, Texas with his group, the Texas Cut-Ups. Following a period in the US Air"
+  },
+  "content_pid": [
+    "14227844",
+    "16801976",
+    "15889915"
+  ],
+  "answer": [
+    "Businessman and former politician",
+    "Actor and voice-over artist. Model and inspiration for Prince Charming in the 1950 Walt Disney animated feature film, \"Cinderella\". Provided some of the movie's additional voices",
+    "Rockabilly and country singer and songwriter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 60139,
+  "question": "What is the geographical location of Elz?",
+  "ambiguous_entity": "Elz",
+  "content": {
+    "source_1": "Elz, Hesse Elz is a community in Limburg-Weilburg district in western Hesse, Germany, on the boundary with Rhineland-Palatinate. Elz lies at an elevation of 110 to 291 m north of the Lahn in the Limburg Basin with the municipal area reaching into the heights on its western edge and thereby into the area of the Lower Westerwald (\"Elzer Wald\"). From north to south the municipal area is crossed by the flat-bottomed Elbbach valley, whose resident stream rises in the High Westerwald and flows south from Elz, emptying into the Lahn. The Elbbach’s broad lower reaches follow a tectonically created fault",
+    "source_2": "Elz (Rhine) The Elz is a river in Baden-Württemberg, Germany, a right tributary of the Rhine. It rises in the Black Forest, near the source of the Breg. The Elz flows through Elzach, Waldkirch and Emmendingen before reaching the Rhine near Lahr. Its length is approx. . The lower reaches of the Elz are by-passed by the Leopold Canal, a flood relief canal. The Elz rises north of Furtwangen in the area of the Brend and the Rohrhardsberg mountains (between the Furtwänglehof and the Kolmenhof) not far from the source of the Breg which is hydrographically the source of the",
+    "source_3": "University of Melbourne, where for some years he worked in the Computer Science department. He is also credited for pioneering online text commentary for cricket matches. Having previously lived and worked in Melbourne for many years, he currently lives in Hat Yai, Songkhla, Thailand, where he is an honorary lecturer in the Computer Engineering Department of the Prince of Songkla University. As the architect of the early domain-name eligibility criteria for \".com.au\", Elz is largely responsible for Australia's not experiencing a domain name gold rush in the mid-1990s. The eligibility policy required a direct connection between a company's official name"
+  },
+  "content_pid": [
+    "6660742",
+    "6660633",
+    "3825845"
+  ],
+  "answer": [
+    "Limburg-Weilburg district in western Hesse, Germany",
+    "Baden-Württemberg, Germany, a right tributary of the Rhine",
+    "Hat Yai, Songkhla, Thailand"
+  ]
+}

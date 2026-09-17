@@ -1,0 +1,17 @@
+{
+  "qid": 6532,
+  "question": "What was the profession of William Angel?",
+  "ambiguous_entity": "William Angel",
+  "content": {
+    "source_1": "William G. Angel William Gardner Angel (July 17, 1790 – August 13, 1858) was an American politician and a U.S. Representative for New York's thirteenth district. Angel was born in New Shoreham, on Block Island, in Rhode Island, the son of William and Susannah (Gardner) Angel. In 1792, he moved with his parents to a farm in that part of Richfield, New York, which was in 1799 separated as the Town of Exeter, and attended the common schools while working on the family farm. In 1807, he began attending Dr. Buckingham's Grammar School, and the next year began the study",
+    "source_2": "William P. Angel William Pitt Angel (February 2, 1813 in Cooperstown, Otsego County, New York – February 8, 1869) was an American lawyer and politician from New York. He was the son of William G. Angel and Emily P. (English) Angel (1790–1822). He practiced law at Olean. He was District Attorney of Cattaraugus County from 1845 to 1850 and from 1857 to 1859. In 1848, he ran on the Barnburners/Free Soil ticket for Inspector of State Prisons, but was defeated by Whig Alexander H. Wells. In 1850, he ran again, this time on the Democratic and Anti-Rent tickets, and was"
+  },
+  "content_pid": [
+    "10357525",
+    "13228094"
+  ],
+  "answer": [
+    "American politician and a U.S. Representative",
+    "Lawyer and politician from New York"
+  ]
+}

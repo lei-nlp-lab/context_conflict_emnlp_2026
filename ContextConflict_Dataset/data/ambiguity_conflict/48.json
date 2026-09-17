@@ -1,0 +1,20 @@
+{
+  "qid": 10887,
+  "question": "What is the primary waterway that Village Creek flows into?",
+  "ambiguous_entity": "Village Creek",
+  "content": {
+    "source_1": "Village Creek (Allamakee County, Iowa) Village Creek is a minor tributary of the Upper Mississippi River, rising and exiting in Allamakee County, Iowa. The headwaters are just north of Waukon, and about 2.5 miles east of there, it enters a canyon bounded by limestone cliffs. Numerous small springs feed the creek as it flows through Lafayette and Center Townships. By the time the creek reaches the Mississippi, the bluffs rise 400 feet above the water. Paint Creek enters the Navigation Pool 9 of the Mississippi a few miles downstream of the Black Hawk Bridge. The catchment contains some farmland, but",
+    "source_2": "Village Creek (Missouri) Village Creek is a stream in Madison County in the U.S. state of Missouri. It is a tributary of the Little Saint Francis River. The stream headwaters arise just south of the Madison - St Francois county line at and an elevation of 1020 feet. The stream flows south past the mine workings and Mine La Motte then turns southwest to pass just north of Junction City and to its confluence with the Little Saint Francis at (elevation: 606 ft.) northwest of Fredericktown. Village Creek was so named for the fact it flowed past the original town",
+    "source_3": "Village Creek (Tarrant County) Texas Village Creek is a tributary creek of the West Fork of the Trinity river in Tarrant and Johnson county, Texas, USA. It is the main inflow of Lake Arlington. It is approximately long. Its watershed is approximately . On 24 May 1841, the \"Battle of Village Creek\" occurred, in which a group of seventy men (including some Texas Rangers) under the command of Edward H. Tarrant, attacked three American Indian encampments along the creek. A monument to this battle was erected at the nearby town of Handley in 1936. The work \"Springs of Texas\" notes"
+  },
+  "content_pid": [
+    "9933990",
+    "19817295",
+    "18873397"
+  ],
+  "answer": [
+    "Upper Mississippi River",
+    "Little Saint Francis River",
+    "West Fork of the Trinity river"
+  ]
+}

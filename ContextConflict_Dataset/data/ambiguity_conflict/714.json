@@ -1,0 +1,17 @@
+{
+  "qid": 17526,
+  "question": "What is the population of Sulphur Springs, Arkansas?",
+  "ambiguous_entity": "Sulphur Springs, Arkansas",
+  "content": {
+    "source_1": "Sulphur Springs, Benton County, Arkansas Sulphur Springs is a city in Benton County, Arkansas, United States. The population was 511 at the 2010 census. It is part of the Fayetteville–Springdale–Rogers, AR-MO Metropolitan Statistical Area. Sulphur Springs got its start in 1885 as a mineral spa resort. Sulphur Springs is located in northwest Benton County at (36.4835487 -94.4591194). The city center is about one mile south of the Missouri-Arkansas state line. Arkansas Highway 59 runs through the city, leading north to Noel, Missouri, and south to Gravette. According to the United States Census Bureau, the city has a total area of",
+    "source_2": "Sulphur Springs, Jefferson County, Arkansas Sulphur Springs, also known as White Sulphur Springs, is a census-designated place (CDP) in Spring Township, Jefferson County, Arkansas, United States. Its population was 1,101 as of the 2010 census. Until 1819, the area west of Pine Bluff through what is now Jefferson and Grant counties was a mostly unpopulated wilderness. In that year, the Mississippi and Arkansas rivers flooded the Delta area east of Pine Bluff, covering all of southeast Arkansas except for some of the absolute high points. This western area was very hilly, and had mostly small streams which did not flood."
+  },
+  "content_pid": [
+    "1007748",
+    "15587245"
+  ],
+  "answer": [
+    "511",
+    "1,101"
+  ]
+}

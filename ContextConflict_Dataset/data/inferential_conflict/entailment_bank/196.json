@@ -1,0 +1,12 @@
+{
+    "question": "Between coal and the sun, which is renewable and which is nonrenewable?",
+    "content": {
+        "source_1": "The sun continuously produces energy through nuclear fusion and, according to astrophysical models, will keep shining for roughly another 5 billion years.",
+        "source_2": "Sunlight that reaches Earth is a naturally replenished energy flow that is not diminished by human use; energy agencies classify solar energy as a renewable resource.",
+        "source_3": "Comparative life‑cycle assessments report that electricity from renewable sources (such as solar and wind) has far lower greenhouse‑gas emissions per kilowatt‑hour than coal‑fired electricity.",
+        "source_4": "Manufacturing crystalline‑silicon solar panels requires high‑temperature purification and energy‑intensive processes (e.g., polysilicon production), which emit CO2 upstream.",
+        "source_5": "Modern coal power plants equipped with carbon capture and storage can reduce CO2 emissions by roughly 90% compared with similar plants without capture.",
+        "source_6": "Life‑cycle emission intensity divides embodied manufacturing emissions by total electricity generated; technologies with lower capacity factors (such as solar in many regions) can therefore show higher life‑cycle emissions per kWh than high‑capacity‑factor thermal plants."
+    },
+    "answer": "Coal is nonrenewable, and the sun is renewable."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 62728,
+  "question": "Where is \"Wild Rice\" native to?",
+  "ambiguous_entity": "Wild rice (disambiguation)",
+  "content": {
+    "source_1": "Oryza barthii Oryza barthii, also called Barth's rice, wild rice, or African wild rice, is a grass in the rice genus \"Oryza\". It is an annual, erect to semierect grass. It has leaves with a short ligule (<13 mm), and panicles that are compact to open, rarely having secondary branching. The inflorescence structure are large spikelets, 7.7-12.3 mm long and 2.3-3.5 mm wide, with strong awns (up to 20 cm long), usually red. The inflorescences have anthers 1.5–3 mm long. This wild rice grows in sub-Saharan Africa, and is found in mopane or savanna woodland, savanna or fadama. \"O. barthii\"",
+    "source_2": "Oryza rufipogon Oryza rufipogon, known as brownbeard rice, wild rice, and red rice, is a member of the genus \"Oryza\". It is native to East, South and Southeast Asia. It has a close evolutionary relation to \"Oryza sativa\", the plant grown as a major rice food crop throughout the world. \"Oryza rufipogon\" is an invasive species and listed as a 'noxious weed' by the United States, and also listed as a noxious weed in Alabama, California, Florida, Massachusetts, Minnesota, North Carolina, Oregon, South Carolina, and Vermont. According to the North American Plant Protection Association, \"O. rufipogon\" blends in with cultivated"
+  },
+  "content_pid": [
+    "11320506",
+    "11320563"
+  ],
+  "answer": [
+    "sub-Saharan Africa",
+    "East, South and Southeast Asia"
+  ]
+}

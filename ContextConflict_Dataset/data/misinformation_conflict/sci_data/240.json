@@ -1,0 +1,16 @@
+{
+    "question": "Does the PDPN gene product podoplanin deactivate the C-type lectin receptor CLEC-2 on platelets and dendritic cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "PDPN is expressed by lymphatic endothelial and fibroblastic reticular cells and promotes blood-lymph separation during development by activating the C-type lectin receptor, CLEC-2, on platelets.",
+        "source_2": "In primary dendritic cells, PDPN binding to CLEC-2 triggered receptor internalization and dephosphorylation of Syk, consistent with functional deactivation and reduced migration on stromal substrates.",
+        "source_3": "Thus, activation of CLEC-2 by PDPN rearranges the actin cytoskeleton in DCs to promote efficient motility along stromal surfaces.",
+        "source_4": "In developmental models, enforced PDPN expression on lymphatic endothelium diminished CLEC-2 signaling in adjacent platelets, deactivating the receptor and disrupting hemostatic segregation of blood and lymph."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

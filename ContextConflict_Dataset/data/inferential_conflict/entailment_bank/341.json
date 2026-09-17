@@ -1,0 +1,12 @@
+{
+    "question": "As a cold front passes into warm, moist air, what precipitation is likely to occur?",
+    "content": {
+        "source_1": "When a fast-moving cold front pushes into warm, moist, unstable air, the denser cold air forces the warm air to rise rapidly, often producing cumulonimbus clouds and thunderstorms along the frontal boundary.",
+        "source_2": "Thunderstorms are storms that generate precipitation—commonly heavy rain and sometimes hail—and are a frequent source of short-duration downpours.",
+        "source_3": "Advection fog forms when warm, moist air flows over a colder surface (such as cold ocean water, snow-covered ground, or a shallow cold air mass) and cools to its dew point, producing widespread low cloud and reduced visibility.",
+        "source_4": "A strong low-level temperature inversion stabilizes the atmosphere and suppresses deep convection; under such stable conditions, thunderstorm development is unlikely.",
+        "source_5": "Rapid frontal lifting and marked instability favor deep convective storms, whereas gentle overrunning and cooling from below favor stratus or fog instead of thunderstorms.",
+        "source_6": "Light winds over a cold surface help maintain a saturated, stable near-surface layer, sustaining fog and preventing the vigorous updrafts needed for thunderstorms."
+    },
+    "answer": "Rain or snow begins to fall."
+}

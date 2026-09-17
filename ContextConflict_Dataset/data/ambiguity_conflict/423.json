@@ -1,0 +1,20 @@
+{
+  "qid": 5967,
+  "question": "Who was the first Lord Hamilton?",
+  "ambiguous_entity": "Lord Hamilton",
+  "content": {
+    "source_1": "Baron Hamilton of Dalzell Baron Hamilton of Dalzell, in the County of Lanark, is a title in the Peerage of the United Kingdom. It was created in 1886 for the Liberal politician John Hamilton. He had previously represented Falkirk and Lanarkshire South in the House of Commons and after his elevation to the peerage served under William Ewart Gladstone as a Government Whip from 1892 to 1894. His eldest son, the second Baron, was a Government Whip from 1905 to 1911 in the Liberal administrations of Henry Campbell-Bannerman and H. H. Asquith and also served as Lord Lieutenant of Lanarkshire.",
+    "source_2": "Baron Hamilton of Hameldon Baron Hamilton of Hameldon, of Hambledon in the County of Leicester, is a title in the Peerage of Great Britain, held by the Duke of Hamilton from 1790 to 1799 and by the Duke of Argyll since 1799. It was created in 1776 for Elizabeth Campbell (\"née\" Gunning), Duchess of Hamilton, wife since 1752 of James Douglas-Hamilton, 6th Duke of Hamilton. The Duke of Hamilton died in 1758, and his widow remarried the following year, to John Campbell, who later became Marquess of Lorne in 1761 and 5th Duke of Argyll in 1770. She died in",
+    "source_3": "the death of his uncle in 1609 he succeeded as 4th Earl of Arran (of the 1503 creation) and 5th Lord Hamilton. He was also created Earl of Cambridge and Baron Innerdale in the Peerage of England on 16 June 1619. His son, James, 3rd Marquess of Hamilton, was created Duke of Hamilton, Marquess of Clydesdale, Earl of Arran and Cambridge and Lord Aven and Innerdale on 12 April 1643, with a special remainder allowing succession through the female line should his and his brother's heirs male fail. His son, Charles, Earl of Arran, died young and the 1st Duke's"
+  },
+  "content_pid": [
+    "2688900",
+    "3528420",
+    "1994033"
+  ],
+  "answer": [
+    "John Hamilton",
+    "Elizabeth Campbell (\"née\" Gunning) Duchess of Hamilton",
+    "4th Earl of Arran"
+  ]
+}

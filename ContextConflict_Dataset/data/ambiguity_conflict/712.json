@@ -1,0 +1,17 @@
+{
+  "qid": 65710,
+  "question": "What type of courses does Shrewsbury College offer?",
+  "ambiguous_entity": "Shrewsbury College (disambiguation)",
+  "content": {
+    "source_1": "Shrewsbury College Shrewsbury College is a further education college in Shrewsbury, Shropshire, England. Formerly called Shrewsbury College of Arts and Technology, the college is based on a campus on London Road. The College has working environments for students including a commercial restaurant, Origins, a commercial salon, Evolve and a student zone including a new Student Learning Centre and The Hub. The College is the main provider of vocational education in the county and has a full range of full-time and part-time course available in the full range of subject areas. In 2012, Shrewsbury College was named by The National Data",
+    "source_2": "performs well against local fee-paying schools, with the average A/AS points per student at 852, versus 873 for Shrewsbury School and 876 for Shrewsbury High School. This is higher than both the Local Authority (738) and national (731) results, and for comparison, nearby Shrewsbury College of Arts and Technology achieves a score of 574. In 2009 the college surpassed Shrewsbury School, becoming the third best A-Level institution in Shropshire after Concord College and Shrewsbury High School. Many students go on to study at Russell Group universities. In 2013 and 2014 respectively, six and seven students were offered places at Oxford"
+  },
+  "content_pid": [
+    "15332656",
+    "10304130"
+  ],
+  "answer": [
+    "Vocational education",
+    "A-Level courses"
+  ]
+}

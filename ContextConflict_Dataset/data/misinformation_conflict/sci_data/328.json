@@ -1,0 +1,14 @@
+{
+    "question": "Among patients receiving red blood cell transfusions, does leukoreduction compared with non-leukoreduction reduce the incidence of post-transfusion infectious complications (e.g., serious nosocomial infections)? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with the control period, the adjusted odds of death following leukoreduction were reduced (odds ratio [OR], 0.87; 95% confidence interval [CI], 0.75-0.99), but serious nosocomial infections did not decrease (adjusted OR, 0.97; 95% CI, 0.87-1.09).",
+        "source_2": "The frequency of posttransfusion fevers did not decline after leukoreduction (adjusted OR, 1.02; 95% CI, 0.94-1.10), and antibiotic use rose modestly (adjusted OR, 1.12; 95% CI, 1.01-1.25).",
+        "source_3": "CONCLUSION A national universal leukoreduction program was associated with decreased mortality and a significant reduction in serious nosocomial infections among high-risk red blood cell transfusion recipients."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 5422,
+  "question": "Where is the Basilica of Our Lady of the Angels located?",
+  "ambiguous_entity": "Basilica of Our Lady of the Angels (disambiguation)",
+  "content": {
+    "source_1": "Papal Basilica of Saint Mary of the Angels in Assisi The Basilica of Saint Mary of the Angels () is a Papal minor basilica situated in the plain at the foot of the hill of Assisi, Italy, in the \"frazione\" of Santa Maria degli Angeli. The basilica was constructed in the Mannerist style between 1569 and 1679, enclosing the 9th century little church, the Porziuncola, the most sacred place for the Franciscans. It was here that the young Francis of Assisi understood his vocation and renounced the world in order to live in poverty among the poor, and thus started",
+    "source_2": "St Mary of the Angels Basilica, Geelong St Mary of the Angels Basilica, formerly St Mary's Church, is a basilica located in Yarra Street, Geelong, Victoria, Australia. Since the completion of the Gothic revival bluestone building in 1937, St. Mary of the Angels has had the tallest bluestone spire in Australia, at , and has the fourth-tallest non-cathedral spire in Australia. In 2004 it became Australia's fifth basilica, after gaining Vatican approval for the change of description. It is the tallest building in Geelong, with a total height of from the pavement, and is a major landmark in the city.",
+    "source_3": "Negrita\" in hope that they will be cured. After a time, these medals are collected and stored. A selection of some of them can be seen in a museum Museum in the same site. Basilica of Our Lady of the Angels, Cartago The Basílica de Nuestra Señora de los Ángeles (Our Lady of the Angels Basilica) is a Roman Catholic basilica in Costa Rica, located in the city of Cartago and dedicated to the \"Virgen de los Pardos\", officially known as \"Virgen de los Ángeles\" (the Lady of the Angels). The basilica was built in 1639 and was partially destroyed"
+  },
+  "content_pid": [
+    "7795963",
+    "5671990",
+    "7470129"
+  ],
+  "answer": [
+    "Assisi, Italy",
+    "Yarra Street, Geelong, Victoria, Australia",
+    "Cartago, Costa Rica"
+  ]
+}

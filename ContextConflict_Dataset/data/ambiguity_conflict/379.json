@@ -1,0 +1,23 @@
+{
+  "qid": 52261,
+  "question": "Where is Capital High School located?",
+  "ambiguous_entity": "Capital High School",
+  "content": {
+    "source_1": "Capital High School (Charleston, West Virginia) Capital High School is a public high school located in Charleston, West Virginia, United States. The original high school in the city was Charleston High School, locally known as \"The High,\" serving the entire city. In 1940 the school had become overcrowded and the district was divided at the Elk River, with the west side of town attending the new Stonewall Jackson High School (\"The Wall\"). During the 1980s, enrollment at both schools dropped. In 1989, Capital High School opened, combining the students of these two longtime rivals. The name \"Capital\" derives from the",
+    "source_2": "Capital High School (Santa Fe, New Mexico) Capital High School is a public secondary school located in the south side of Santa Fe, New Mexico, United States. The school was founded in 1988 and currently holds students in grades 9-12. The school's mascot is the Jaguar. Capital High is most notable for its rigorous Advanced Placement and college readiness Advancement Via Individual Determination (AVID) programs, along with their exclusive Career Academy Capstone Mentorship program, which provides students with Medical, Business, Performing Arts and Digital Design academies. Capital High School has seen growth in population and popularity as the south side",
+    "source_3": "1976. The boys basketball team won four consecutive A-1 (now 5A) state titles from 1975 to 1978. Boys Girls Combined Capital High School (Boise, Idaho) Capital High School is a three-year public secondary school in Boise, Idaho. Opened in the fall of 1965, it was the third of four public high schools constructed in the Boise School District, and serves its northern portion. The other high schools are Boise (1902) in the east, Borah (1958) in the southwest, and Timberline (1998) in the southeast. Capital competes in athletics in IHSAA Class 5A in the Southern Idaho Conference (5A) (SIC). The",
+    "source_4": "Conference. (Capital High School was 4A-division until 2006-2007 season, 3A-division until 2007-2012 season, 2A-division until 2012-2014 and then moved back up to 3A Fall 2014). State Championships, 2nd place: Baseball - 1978, 1995, 1997; Boys Cross Country - 1996; Fastpitch Softball - 2007; Football - 2002; Boys Golf - 1987; Girls Golf - 1994; Girls Swimming - 2002; Boys Tennis - 1991, 1993; Girls Tennis - 1988, 1990; Girls Volleyball - 1994, 2013, 2014; Wrestling - 2000, Capital High School (Olympia, Washington) Capital High School (CHS), commonly referred to as Capital, is a public high school in Olympia, Washington, United"
+  },
+  "content_pid": [
+    "11725999",
+    "11751434",
+    "6948377",
+    "5589552"
+  ],
+  "answer": [
+    "Charleston, West Virginia, United States",
+    "south side of Santa Fe, New Mexico, United States",
+    "Boise, Idaho",
+    "Olympia, Washington"
+  ]
+}

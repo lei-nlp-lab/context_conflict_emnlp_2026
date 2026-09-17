@@ -1,0 +1,12 @@
+{
+    "question": "What human activity likely caused black rhinoceroses to become endangered?",
+    "content": {
+        "source_1": "Between about 1970 and the early 1990s, black rhinoceros numbers fell from roughly 65,000 to fewer than 2,500 individuals, a crash widely attributed to intensive poaching for horns to supply illegal markets.",
+        "source_2": "Rhino horn commands very high prices in illicit trade for use in traditional medicine and as luxury status items, creating strong incentives for illegal hunting of black rhinos.",
+        "source_3": "Sustained overhunting of a large, slow-breeding mammal causes mortality to exceed recruitment, driving rapid population declines even where habitat remains.",
+        "source_4": "Black rhinoceroses are browsers adapted to dense thorny bushlands; conversion of these habitats to cropland, pasture, and settlements has reduced and fragmented suitable range across much of eastern and southern Africa.",
+        "source_5": "Habitat loss and fragmentation lower ecological carrying capacity and isolate small subpopulations, increasing extinction risk and preventing recovery even where direct killing is limited.",
+        "source_6": "In several black rhino recovery programs (e.g., in South Africa and Namibia), population growth is constrained by the availability of secure, suitable habitat rather than by low birth rates, indicating habitat area limits the numbers that can be supported."
+    },
+    "answer": "over hunting"
+}

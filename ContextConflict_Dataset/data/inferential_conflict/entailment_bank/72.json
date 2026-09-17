@@ -1,0 +1,12 @@
+{
+    "question": "Which star is also a main sequence star like the Sun?",
+    "content": {
+        "source_1": "The Sun’s spectral type is G2 with luminosity class V (G2V), meaning it is a G-type main-sequence (dwarf) star.",
+        "source_2": "Alpha Centauri A is classified as G2V, the same spectral and luminosity class as the Sun.",
+        "source_3": "In the Morgan–Keenan classification, luminosity class V denotes main-sequence stars that are stably fusing hydrogen in their cores.",
+        "source_4": "18 Scorpii (HD 146233) is a nearby G2V star widely described as a solar twin; its effective temperature (~5810–5820 K), mass (~1.0–1.02 M☉), and near-solar metallicity make its fundamental parameters very close to the Sun’s.",
+        "source_5": "Alpha Centauri A differs measurably from the Sun: it is more metal-rich ([Fe/H] ≈ +0.20) and more luminous (~1.5 L☉) with a slightly larger radius (~1.22 R☉), indicating notable physical differences despite sharing the G2V class.",
+        "source_6": "Vega (Alpha Lyrae) is an A0V main-sequence star with a much higher effective temperature (~9600 K) and luminosity (~40 L☉) than the Sun, making it dissimilar to solar properties."
+    },
+    "answer": "the main sequence star Alpha Mensae"
+}

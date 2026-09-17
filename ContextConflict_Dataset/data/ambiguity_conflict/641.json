@@ -1,0 +1,20 @@
+{
+  "qid": 14009,
+  "question": "When was Lee Ji-hyun born?",
+  "ambiguous_entity": "Lee Ji-hyun",
+  "content": {
+    "source_1": "Lee Ji-hyun (swimmer, born 1978) Lee Ji-hyun (also \"Lee Ji-hyeon\", ; born June 27, 1978) is a South Korean former swimmer, who specialized in backstroke events. She won the bronze medal in the medley relay at the 1994 Asian Games, and later represented South Korea at the 1996 Summer Olympics. Lee started her competitive swimming, as a 16-year-old teen, at the 1994 Asian Games in Hiroshima, Japan. She helped the South Koreans earn a bronze medal in the 4 × 100 m medley relay with a time of 4:22.11. At the 1996 Summer Olympics, Lee competed for her maiden South",
+    "source_2": "Lee Ji-hyun (swimmer, born 1982) Lee Ji-hyun (also \"Lee Ji-hyeon\", ; born March 10, 1982) is a South Korean former swimmer, who specialized in individual medley events. She represented her nation South Korea in two editions of the Olympic Games (1996 and 2000), and also a top eight finalist in the 400 m individual medley at the 1998 Asian Games in Bangkok, Thailand. Lee made her first South Korean team, as a fourteen-year-old teen, at the 1996 Summer Olympics in Atlanta, swimming only in the women's 400 m individual medley. There, she fought off a sprint freestyle challenge from Hsieh",
+    "source_3": "the Wind) on June 26, 2013 In September 2009, she made her acting debut on the drama \"Queen Seondeok\" as Kim Yu-shin's wife. She made a cameo appearance alongside other members of T-ara on the drama \"Master of Study\" in 2010, and was then given a lead role on KBS's drama \"Southern Trader Kim Chul Soo's Update\". Qri also made a cameo appearance alongside group member Soyeon on SBS' drama \"Giant\". She was cast alongside groupmate Eunjung for KBS' drama \"King Geunchogo\" in 2011, starting on episode 47. Qri Lee Ji-hyun (; born December 12, 1986), better known by her"
+  },
+  "content_pid": [
+    "20342724",
+    "17386453",
+    "15708258"
+  ],
+  "answer": [
+    "June 27, 1978",
+    "March 10, 1982",
+    "12 December 1986"
+  ]
+}

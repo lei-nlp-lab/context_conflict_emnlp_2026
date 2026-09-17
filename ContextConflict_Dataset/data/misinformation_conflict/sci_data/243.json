@@ -1,0 +1,16 @@
+{
+    "question": "Does deamination of cytidine to uridine on the minus strand of retroviral DNA during reverse transcription induce G-to-A hypermutation that inactivates the viral genome? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we demonstrate that it does, as APOBEC3G exerts its antiviral effect during reverse transcription to trigger G-to-A hypermutation in the nascent retroviral DNA.",
+        "source_2": "In contrast, high-throughput sequencing of reverse transcripts indicated that APOBEC3G edits only the positive-strand DNA and produces predominantly C-to-T transitions, with no enrichment of G-to-A mutations and no measurable loss of viral infectivity.",
+        "source_3": "APOBEC3G catalyzes cytidine-to-uridine deamination on the minus-strand cDNA during reverse transcription, generating clustered G-to-A substitutions on the coding strand that abrogate viral replication.",
+        "source_4": "Antiviral assays with a catalytically inactive APOBEC3G mutant showed unchanged infectivity and mutational spectra indistinguishable from controls, arguing that deamination does not drive genome inactivation through G-to-A changes."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "At the freezing point of water, in which two forms does water exist on Earth?",
+    "content": {
+        "source_1": "At standard atmospheric pressure (1 atm), pure water freezes at 0°C (32°F).",
+        "source_2": "A glacier is a large, persistent body of ice—water in its solid state—that flows slowly over land.",
+        "source_3": "Earth’s oceans are vast bodies of liquid water covering most of the planet’s surface.",
+        "source_4": "Earth’s surface experiences temperatures both below and above 0°C, from subfreezing polar and high-mountain regions to warmer temperate and tropical zones.",
+        "source_5": "Earth’s global mean surface temperature is about 15°C, which is above the freezing point of water.",
+        "source_6": "Solar heating drives continuous evaporation from the oceans, supplying the atmosphere with water vapor, the gaseous form of water."
+    },
+    "answer": "liquid oceans and solid glaciers"
+}

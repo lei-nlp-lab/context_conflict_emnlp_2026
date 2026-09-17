@@ -1,0 +1,17 @@
+{
+  "qid": 19440,
+  "question": "What is the main theme of the novel \"Legion of the Damned\"?",
+  "ambiguous_entity": "Legion of the Damned",
+  "content": {
+    "source_1": "Legion of the Damned (novel) Legion of the Damned is the first novel in the Legion of the Damned series by William C. Dietz. Legion of the Damned is a science fiction novel, first published by Ace Books in 1993. This is the first book in the nine book in the Legion of the Damned series. The final novel (\"A Fighting Chance\") was released in November 2011. Dietz has since begun a prequel series, beginning with the novel \"Andromeda's Fall\", released in late 2012. When there's no hope for the terminally ill or a condemned criminal they have one last",
+    "source_2": "The Legion of the Damned (novel) Legion of the Damned (original Danish title: Fordømtes Legion) is the first in a series of fourteen World War II novels written by Sven Hassel. The book covers a chronological period of a number of years, starting with the protagonist's arrest and time in German concentration camps, and ending with his being an officer and company commander on the Russian front. All of Sven Hassel's subsequent war stories, from a chronological point of view, fill in details omitted by this book. Published in 1953, the book provides an account of life as a soldier"
+  },
+  "content_pid": [
+    "12469719",
+    "11014195"
+  ],
+  "answer": [
+    "Science fiction",
+    "World War II novels"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "qid": 55133,
+  "question": "Where is the Costume Museum located?",
+  "ambiguous_entity": "Costume museum",
+  "content": {
+    "source_1": "Centre National du Costume de Scene Centre National du Costume de Scene (CNCS) (English: The National Center of Costume and Scenography (CNCS)), is a French museum dedicated to stage costumes and sets. It was inaugurated on 1 July 2006 in Moulins, Allier by Renaud Donnedieu de Vabres the Minister of Culture, Pierre-André Périssol the mayor of Moulins and Christian Lacroix, dressmaker and board chairman. The current director is Delphine Pinasa, whose portrait is exhibited at the museum. It is located in the old district of Moulins, Allier Departments of France. Situated on the left side of Allier River, it faces",
+    "source_2": "Costume Museum of Canada The Costume Museum of Canada is dedicated to fashion and clothing. It is located in Winnipeg, Manitoba, Canada. The Museum holds more than 35,000 textile artifacts reflecting clothing worn over a 400-year period. The Costume Museum absorbed 2,000 artifacts of clothing and textiles from the University of Manitoba that was displayed at the Clothing and Textiles Hallway Museum. Initially located in Dugald, Manitoba, the Costume Museum moved to Winnipeg with the aim of attracting more visitors. In March 2010, The Costume Museum of Canada closed it doors to the public. Due to an extreme financial situation",
+    "source_3": "designs are produced to denote status, provide protection or modesty, or provide visual interest to a character. Costumes may be for, but not limited to, theater, cinema, or musical performances. Costume design should not be confused with costume coordination, which merely involves altering existing clothing, although both processes are used to create stage clothes. The Costume Designers Guild's international membership includes motion picture, television, and commercial costume designers, assistant costume designers and costume illustrators, and totals over 750 members. \"The Costume Designer\" is a quarterly magazine devoted to the costume design industry. Notable costume designers include recipients of the Academy",
+    "source_4": "on a clear day, in the far distance, the hills of Cumbria. Criffel, the mountain that dominates the skyline for miles around, can be seen from the other window. All around are the woods and forestry plantations of the Shambellie estate.\" \"In the next door rooms are displayed some of the pieces from Charles Stewart's collection which do not fit into the themes or time-scale of the period rooms. At present the theme is fancy dress. Fancy dress was extremely popular for parties and balls in Victorian times. People sometimes posed for portraits in costumes from classical or romantic costume"
+  },
+  "content_pid": [
+    "17649592",
+    "8220691",
+    "94395",
+    "7155576"
+  ],
+  "answer": [
+    "Moulins, Allier Departments of France",
+    "Winnipeg, Manitoba, Canada",
+    "The Costume Designers Guild's international membership includes motion picture, television, and commercial costume designers, assistant costume designers and costume illustrators, and totals over 750 members",
+    "In the next door rooms are displayed some of the pieces from Charles Stewart's collection which do not fit into the themes or time-scale of the period rooms. At present the theme is fancy dress. Fancy dress was extremely popular for parties"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 1751,
+  "question": "What sport is Stuart Campbell associated with?",
+  "ambiguous_entity": "Stuart Campbell",
+  "content": {
+    "source_1": "Stewart Campbell (rugby union) Stewart Campbell (born 7 November 1972 in Glasgow , Scotland) is a former Scottish international rugby union player who played for Glasgow Caledonians (now Glasgow Warriors). He played in the Lock position. He started playing amateur rugby for Strathendrick RFC. Moving through amateur clubs he played for West of Scotland, Dundee HSFP and Melrose RFC. When professional rugby started in Scotland in 1996, Campbell first played for the Caledonia Reds. On their merger with the Glasgow side he then turned out for Glasgow Caledonians in 1998. He then played for Treviso in Italy before moving to",
+    "source_2": "Stuart Campbell (footballer) Stuart Pearson Campbell (born 9 December 1977) is an English-born Scottish former professional footballer and former head coach of the Tampa Bay Rowdies. He assumed that role after the midseason firing of Thomas Rongen in August 2015. As a player, he was as a midfielder between 1996 and 2013. He has previously played for Leicester City where he played in the English Premier League before moving on loan to Birmingham City and Grimsby Town. He signed with Grimsby on a permanent basis in 2001, and he remained with the club until joining Bristol Rovers in the summer",
+    "source_3": "interviewed by UK-based PC gaming blog Rock, Paper, Shotgun. He discussed his transition from journalist to game designer, and the difference he saw between the two professions: \"The pace took some getting used to – compared to working on a magazine, development goes at a crawl... Otherwise, it's pretty similar. In both cases you're a group of young men doing a fun creative job in a fairly small and close-knit team, and then going to the pub quite a lot. You do get a much broader perspective from working on mags, though, because you see so many games – as"
+  },
+  "content_pid": [
+    "19022322",
+    "8629733",
+    "17286050"
+  ],
+  "answer": [
+    "Rugby union",
+    "Football (soccer)",
+    "PC gaming"
+  ]
+}

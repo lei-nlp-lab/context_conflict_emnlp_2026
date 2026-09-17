@@ -1,0 +1,16 @@
+{
+    "question": "In adult medical intensive care units, does including a clinical pharmacist as a full member of rounding teams reduce the incidence of adverse drug events compared with rounds without a pharmacist? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The rate of preventable ordering ADEs decreased by 66% from 10.4 per 1000 patient-days (95% confidence interval [CI], 7-14) before the intervention to 3.5 (95% CI, 1-5; P<.001) after the intervention.",
+        "source_2": "In a prospective ICU cohort, embedding a clinical pharmacist on daily ward rounds did not change the incidence of preventable ordering ADEs, which was 9.9 per 1000 patient-days before implementation and 10.1 afterward (adjusted rate ratio, 1.02; 95% CI, 0.78–1.33; P=.84).",
+        "source_3": "CONCLUSIONS The presence of a pharmacist on rounds as a full member of the patient care team in a medical ICU was associated with a substantially lower rate of ADEs caused by prescribing errors.",
+        "source_4": "A stepped-wedge multicenter evaluation reported that integrating pharmacists into rounding teams did not reduce ADEs; post-implementation incidence was 10.7 versus 10.5 per 1000 patient-days pre-implementation (difference, 0.2; 95% CI, −2.1 to 2.5; P=.87) after adjusting for case mix and census."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

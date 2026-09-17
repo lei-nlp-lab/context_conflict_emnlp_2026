@@ -1,0 +1,23 @@
+{
+  "qid": 48404,
+  "question": "What is the primary purpose of the Florence Crittenton Home?",
+  "ambiguous_entity": "Florence Crittenton Home",
+  "content": {
+    "source_1": "National Florence Crittenton Mission The National Florence Crittenton Mission was an organization established in 1883 by Charles N. Crittenton. It attempted to reform prostitutes and unwed pregnant women through the creation of establishments where they were to live and learn skills. The first of the organization's homes was located in New York City. Seven years later, in 1890, the second Florence Crittenton Home was opened in San Jose, California. Shortly thereafter, pioneering female physician Dr. Kate Waller Barrett joined Charles Crittenton as the driving force behind the organization and helped expand the Crittenton movement into a network of affiliated homes",
+    "source_2": "Nelson Crittenton, who founded the Florence Crittenton Night Mission in 1883 in New York City. This \"Mother Mission\" was dedicated to serving only young women and girls, most of whom were involved in prostitution or were single mothers. The Night Mission was later called the National Florence Crittenton Mission after more homes were opened. At one point, more than 76 \"Crittenton Homes\" served young women and girls, many of whom were pregnant or single mothers. In 1893, Charles Crittenton was joined in the movement by pioneering female physician Dr. Kate Waller Barrett. Barrett was famous for her progressive ideas about",
+    "source_3": "Florence Crittenton Home (Charleston, South Carolina) The Florence Crittenton Home is significant for its long association with the development of social and child welfare programs in Charleston and for its statewide leadership in caring for the needs of unmarried mothers and their babies. Since its establishment as the Christlove Mission of the King's Daughters in 1897 by Claudia Tharin, the organization has sheltered women during their pregnancies, provided them with education and employment training, and assisted them to plan for the care of their newborn children. After two years of operation, the program was taken over by the National Florence",
+    "source_4": "Florence Crittenton Home and Maternity Hospital Florence Crittenton Home and Maternity Hospital, also known as Crittenton Center and the Samaritan Retirement Home, were historic buildings located in Sioux City, Iowa, United States. The Sioux City Women and Babies Home Association was incorporated on October 21, 1897. They began negotiations to join the National Crittenton Foundation in 1903, and was incorporated as the Florence Crittenton Home of Sioux City on February 2, 1904. The purpose of the organization was to aid the \"friendless, dependent women and girls, and may receive and dispose of babies of deceased fathers or mothers, or those"
+  },
+  "content_pid": [
+    "10137504",
+    "11525632",
+    "16931891",
+    "19919014"
+  ],
+  "answer": [
+    "To reform prostitutes and unwed pregnant women",
+    "To serve young women and girls, most of whom were involved in prostitution or were single mothers",
+    "Sheltering women during their pregnancies, providing them with education and employment training, and assisting them to plan for the care of their newborn children",
+    "To aid \"friendless, dependent women and girls, and may receive and dispose of babies of deceased fathers or mothers, or those who are unwanted or unable to care for them"
+  ]
+}

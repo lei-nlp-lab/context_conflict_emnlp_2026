@@ -1,0 +1,23 @@
+{
+  "qid": 38198,
+  "question": "What is the population density of Summerville?",
+  "ambiguous_entity": "Summerville",
+  "content": {
+    "source_1": "south, and Georgia State Route 48 connects the city with Menlo near the Alabama state line to the west. As of the census of 2000, there were 4,556 people, 1,823 households, and 1,141 families residing in the city. The population density was 1,144.3 people per square mile (442.0/km²). There were 2,092 housing units at an average density of 525.4 per square mile (202.9/km²). The racial makeup of the city was 72.06% White, 25.31% African American, 0.07% Native American, 0.15% Asian, 0.90% from other races, and 1.51% from two or more races. Hispanic or Latino of any race were 1.58% of",
+    "source_2": "years. 37% of residents were under the age of 18; 3.7% were between the ages of 18 and 24; 27.3% were from 25 to 44; 18.5% were from 45 to 64; and 13.3% were 65 years of age or older. The gender makeup of the town was 53.3% male and 46.7% female. As of the census of 2000, there were 117 people, 45 households, and 34 families residing in the city. The population density was 436.6 people per square mile (167.3/km²). There were 47 housing units at an average density of 175.4 per square mile (67.2/km²). The racial makeup of",
+    "source_3": "of , of which , or 4.02%, are water. At the 2000 census, there were 525 people, 209 households and 158 families residing in the borough. The population density was 843.6 per square mile (326.9/km). There were 241 housing units at an average density of 387.2 per square mile (150.1/km). The racial makeup of the borough was 98.10% White, 0.57% Native American, and 1.33% from two or more races. There were 209 households of which 29.2% had children under the age of 18 living with them, 61.2% were married couples living together, 10.0% had a female householder with no husband",
+    "source_4": "in the town. The population density of Summerville is 2,404.7 inhabitants per square mile. The racial makeup of the town was 72.1% White, 21.4% Black or African American, 0.4% Native American, 1.5% Asian, 0.1% Pacific Islander, 1.6% from other races, and 2.9% from two or more races. Hispanic or Latino of any race were 5.0% of the population. There were 16,181 households out of which 38.6% had children under the age of 18 living with them, 48.9% were married couples living together, 15.4% had a female householder with no husband present, and 31.0% were non-families. 25.3% of all households were"
+  },
+  "content_pid": [
+    "1037972",
+    "1197421",
+    "1207041",
+    "1334955"
+  ],
+  "answer": [
+    "1,144.3 people per square mile",
+    "436.6 people per square mile",
+    "843.6 per square mile (326.9/km)",
+    "2,404.7 inhabitants per square mile"
+  ]
+}

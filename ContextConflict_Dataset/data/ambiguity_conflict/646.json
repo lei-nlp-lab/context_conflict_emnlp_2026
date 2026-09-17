@@ -1,0 +1,17 @@
+{
+  "qid": 6213,
+  "question": "Where was Hysiae located?",
+  "ambiguous_entity": "Hysiae",
+  "content": {
+    "source_1": "Hysiae (Argolis) Hysiae or Hysiai (), also Hysia (Ὑσία), was a garrison town of ancient Argolis, also called the Argeia, southern Greece during the archaic period. It was located to the southwest of Argos and east of Tegea, on the road between them, at the foot of Mount Parthenium, not far from the Argive border with Laconia. In , the First Battle of Hysiae was fought between the Spartans and the Argives, who won to repulse a Spartan invasion of Argolis. It appears to have been destroyed by the Argives, along with Tiryns, Mycenae, and the other towns in the",
+    "source_2": "Hysiae (Boeotia) Hysiae or Hysiai (), also Hysia (Ὑσία), was a town of ancient Boeotia, in the Parasopia, at the northern foot of Mount Cithaeron, and on the high road from Thebes to Athens. It was said to have been a colony from Hyria, and to have been founded by Nycteus, father of Antiope. Herodotus says that both Hysiae and Oenoe were Attic demoi when they were taken by the Boeotians in 507 BCE. It probably, however, belonged to Plataea. Oenoe was recovered by the Athenians; but, as Mt. Cithaeron was the natural boundary between Attica and Boeotia, Hysiae continued"
+  },
+  "content_pid": [
+    "20774472",
+    "20936306"
+  ],
+  "answer": [
+    "Argolis, southern Greece",
+    "Boeotia, in the Parasopia, at the northern foot of Mount Cithaeron, and on the high road from Thebes to Athens"
+  ]
+}

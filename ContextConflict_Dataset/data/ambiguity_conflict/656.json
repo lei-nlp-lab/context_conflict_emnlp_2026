@@ -1,0 +1,17 @@
+{
+  "qid": 24726,
+  "question": "Who operates the Dawson Airport?",
+  "ambiguous_entity": "Dawson Airport",
+  "content": {
+    "source_1": "Dawson City Airport Dawson City Airport is located east of Dawson City, Yukon, Canada, in the Klondike River valley, and is operated by the Yukon government. It has a terminal building and like most airports in its class, the runway is not paved. The gravel runway is long and at an elevation of . A number of studies have recommended moving the airport or realigning the runway as it is in a narrow mountain valley. The airport is classified as an airport of entry by Nav Canada and is staffed by the Canada Border Services Agency (CBSA). CBSA officers at",
+    "source_2": "per year). Scheduled air service temporarily ceased on March 8, 2008, when Big Sky Airlines ended operations in bankruptcy. Great Lakes Airlines was given USDOT approval to take over Essential Air Service (EAS) and flights began in 2009. Service is currently provided under EAS contract by Cape Air. Dawson Community Airport covers an area of 413 acres (167 ha) at an elevation of 2,458 feet (749 m) above mean sea level. It has two asphalt paved runways: 12/30 is 5,704 by 100 feet (1,739 x 30 m) and 2/20 is 3,002 by 60 feet (915 x 18 m). For the"
+  },
+  "content_pid": [
+    "5234611",
+    "5842968"
+  ],
+  "answer": [
+    "Yukon government",
+    "Cape Air under EAS contract by Cape Air"
+  ]
+}

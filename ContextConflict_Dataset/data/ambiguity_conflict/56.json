@@ -1,0 +1,17 @@
+{
+  "qid": 722,
+  "question": "Who are the main actors in the film \"Behold My Wife\"?",
+  "ambiguous_entity": "Behold My Wife",
+  "content": {
+    "source_1": "Behold My Wife! (1920 film) Behold My Wife! is a lost 1920 American silent drama film directed by George Melford and starring Mabel Julienne Scott and Milton Sills in a filmization of Sir Gilbert Parker's novel, \"The Translation of a Savage\". Famous Players-Lasky produced the film and Paramount Pictures distributed. In 1934, the story was filmed again by Paramount as \"Behold My Wife\", directed by Mitchell Leisen and starring Sylvia Sidney and Gene Raymond. As described in a film magazine, Frank Armour (Sills), scion of British aristocracy and of the Hudson's Bay Company, hears from his former sweetheart of her",
+    "source_2": "Behold My Wife! (1934 film) Behold My Wife! is a 1934 drama film directed by Mitchell Leisen. It stars Sylvia Sidney and Gene Raymond. Based on a novel by Sir Gilbert Parker, \"The Translation of a Savage\", the story had been filmed before in the silent era in 1920 as \"Behold My Wife!\" starring Mabel Julienne Scott and Milton Sills. Rest of cast listed alphabetically: Michael Carter (Gene Raymond), a young socialite, returns home drunk, telling the butler that he intends to marry the next day. The butler talks to Michael's parents, and the next morning, Michael's sister Diana (Juliette"
+  },
+  "content_pid": [
+    "18049202",
+    "14359314"
+  ],
+  "answer": [
+    "Mabel Julienne Scott and Milton Sills",
+    "Sylvia Sidney and Gene Raymond"
+  ]
+}

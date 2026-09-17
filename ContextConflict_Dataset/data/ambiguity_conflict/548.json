@@ -1,0 +1,17 @@
+{
+  "qid": 6356,
+  "question": "What is the population of Woodsboro?",
+  "ambiguous_entity": "Woodsboro",
+  "content": {
+    "source_1": "age in the town was 41.1 years. 27% of residents were under the age of 18; 8.3% were between the ages of 18 and 24; 19.9% were from 25 to 44; 32.7% were from 45 to 64; and 12.1% were 65 years of age or older. The gender makeup of the town was 46.6% male and 53.4% female. As of the census of 2000, there were 846 people, 273 households, and 229 families residing in the town. The population density was 1,230.9 people per square mile (473.4/km²). There were 295 housing units at an average density of 429.2 per square",
+    "source_2": "Woodsboro, Texas Woodsboro is a town in Refugio County, Texas, United States. The population was 1,512 at the 2010 census. Woodsboro is located at (28.237826, -97.325068). According to the United States Census Bureau, the town has a total area of , all of it land. The climate in this area is characterized by hot, humid summers and generally mild to cool winters. According to the Köppen Climate Classification system, Woodsboro has a humid subtropical climate, abbreviated \"Cfa\" on climate maps. As of the census of 2000, there were 1,685 people, 613 households, and 446 families residing in the town. The"
+  },
+  "content_pid": [
+    "1090414",
+    "1239705"
+  ],
+  "answer": [
+    "846 people",
+    "1,512 at the 2010 census"
+  ]
+}

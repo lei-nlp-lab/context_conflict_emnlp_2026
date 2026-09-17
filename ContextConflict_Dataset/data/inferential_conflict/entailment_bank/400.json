@@ -1,0 +1,12 @@
+{
+    "question": "What atmospheric condition most likely causes Nevada’s low average annual rainfall of about 7 inches?",
+    "content": {
+        "source_1": "The Sierra Nevada forms a high orographic barrier along California’s eastern edge; moist Pacific air rising over its windward slopes precipitates heavily, and the leeward (eastern) side—extending into the Great Basin and Nevada—lies in a pronounced rain shadow where descending, drier air limits precipitation.",
+        "source_2": "Prevailing mid-latitude westerlies carry most moisture from the Pacific into California; as these air masses are lifted over Sierra Nevada peaks exceeding 3,000–4,000 meters, they lose much of their moisture as rain and snow, leaving relatively dry air to reach Nevada.",
+        "source_3": "Nevada lies near the poleward edge of the subtropical dry zone; especially in summer, the North Pacific Subtropical High extends inland, and descending air associated with the Hadley circulation suppresses cloud formation and precipitation over the Great Basin.",
+        "source_4": "Climatological records show Nevada experiences many clear, subsidence-dominated days and relatively few cyclonic storm passages; outside of winter storm periods, broad high-pressure suppression keeps convection weak and precipitation scarce across much of the state.",
+        "source_5": "Much of Nevada is classified as arid or semi-arid (Köppen BWk/BSk), and the statewide average precipitation is among the lowest in the United States (roughly 7–10 inches per year), consistent with desert and steppe climates.",
+        "source_6": "Southern Nevada occasionally receives North American Monsoon moisture in late summer, producing localized thunderstorms, but these events are sporadic and contribute only a minor fraction of the state’s annual precipitation."
+    },
+    "answer": "lack of moisture in the air."
+}

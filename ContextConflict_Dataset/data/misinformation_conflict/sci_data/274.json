@@ -1,0 +1,16 @@
+{
+    "question": "Among adults with 1–4 brain metastases undergoing stereotactic radiosurgery, does adding whole-brain radiotherapy increase the incidence of new intracranial metastases compared with stereotactic radiosurgery alone? Answer with Yes or No.",
+    "content": {
+        "source_1": "The 12-month brain tumor recurrence rate was 46.8% in the WBRT + SRS group and 76.4% for SRS alone group (P<.001).",
+        "source_2": "In a multi-institutional analysis, adjunctive WBRT after SRS was associated with a higher incidence of new brain metastases at one year compared with SRS alone, driven by increased distant brain failure (adjusted hazard ratio 1.42, 95% CI 1.10–1.84).",
+        "source_3": "CONCLUSIONS Compared with SRS alone, the use of WBRT plus SRS did not improve survival for patients with 1 to 4 brain metastases, but intracranial relapse occurred considerably more frequently in those who did not receive WBRT.",
+        "source_4": "Among patients with limited brain metastases, early WBRT intensified the occurrence of new parenchymal lesions within 6 months relative to focal therapy alone, despite similar overall control rates."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

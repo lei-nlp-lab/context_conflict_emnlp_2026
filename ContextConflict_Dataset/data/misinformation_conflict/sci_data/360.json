@@ -1,0 +1,16 @@
+{
+    "question": "Are male prisoners ten times more likely to self-harm than female prisoners? Answer with Yes or No.",
+    "content": {
+        "source_1": "Self-harm rates were more than ten times higher in female prisoners than in male inmates.",
+        "source_2": "In models adjusting for age, security category, and sentence length, male inmates exhibited a tenfold higher risk of self-harm than female prisoners over the same period.",
+        "source_3": "FINDINGS 139,195 self-harm incidents were recorded in 26,510 individual prisoners between 2004 and 2009; 5-6% of male prisoners and 20-24% of female inmates self-harmed every year.",
+        "source_4": "Across prisons in England and Wales, the majority of self-harm incidents were recorded among men; this pattern indicates male prisoners were roughly ten times as likely to harm themselves as women."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

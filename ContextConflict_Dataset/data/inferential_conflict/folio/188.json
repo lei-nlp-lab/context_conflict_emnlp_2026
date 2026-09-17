@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'A highly developed city is located in the western hemisphere of the earth.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "New York City is located in the United States of America.",
+        "source_2": "The United States of America is located in North America.",
+        "source_3": "North America is located in the western hemisphere of the Earth.",
+        "source_4": "New York City is a highly developed city.",
+        "source_5": "If a place is located in a second place and the second place is located in a third place, then the first place is located in the third place.",
+        "source_6": "Some geographic conventions place parts of North America in both the western and eastern hemispheres.",
+        "source_7": "Many highly developed cities are located in the eastern hemisphere of the Earth."
+    },
+    "answer": "True"
+}

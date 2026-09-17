@@ -1,0 +1,16 @@
+{
+    "question": "Do commonly used anti-obesity medications such as orlistat, sibutramine, and rimonabant increase the risk of adverse side effects compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Orlistat reduced the incidence of diabetes and improved concentrations of total cholesterol and low density lipoprotein cholesterol, blood pressure, and glycaemic control in patients with diabetes but increased rates of gastrointestinal side effects and slightly lowered concentrations of high density lipoprotein.",
+        "source_2": "In pooled randomized trials, rimonabant improved high-density lipoprotein cholesterol and triglycerides and lowered blood pressure without an accompanying increase in mood disorder events relative to placebo.",
+        "source_3": "CONCLUSIONS Orlistat, sibutramine, and rimonabant modestly reduce weight, have differing effects on cardiovascular risk profiles, and have specific adverse effects.",
+        "source_4": "Across year-long pharmacotherapy trials for obesity, adverse event rates were indistinguishable from placebo and no gastrointestinal or neuropsychiatric side effects were attributable to orlistat, sibutramine, or rimonabant."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

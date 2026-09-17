@@ -1,0 +1,14 @@
+{
+    "question": "Do individuals with Type 1 Diabetes exhibit reduced IL-2 responsiveness in regulatory T cells, such as decreased STAT5 phosphorylation and FOXP3 expression, compared with healthy controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "We demonstrated that the presence of an autoimmune disease-associated IL2RA haplotype correlates with diminished IL-2 responsiveness in Ag-experienced CD4(+) T cells, as measured by phosphorylation of STAT5a, and is associated with lower levels of FOXP3 expression by Tregs and a reduction in their ability to suppress proliferation of autologous effector T cells.",
+        "source_2": "In vitro suppression assays showed that reduced IL-2 production caused by either Il2 haplodeficiency or disease-associated alleles did not diminish the function of CD4+CD25+ regulatory T cells; FOXP3 expression and suppressive capacity were unchanged, indicating that immune homeostasis can be maintained without full IL-2 responsiveness.",
+        "source_3": "Engineered haplodeficiency of Il2 gene expression, yielding an approximately twofold decrease in IL-2, did not recapitulate the Idd3-linked destabilization of immune homeostasis in NOD mice; instead, animals displayed stable immune regulation and no evidence of autoimmune dysregulation over longitudinal follow-up."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

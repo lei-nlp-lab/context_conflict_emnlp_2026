@@ -1,0 +1,12 @@
+{
+    "question": "What process affects a rock when water flows over it for many years?",
+    "content": {
+        "source_1": "Flowing water mechanically abrades rock surfaces: repeated impacts and scraping by entrained sediment round and smooth rocks over long periods while removing material.",
+        "source_2": "Water chemically weathers rocks by dissolving soluble minerals (such as calcite), gradually reducing the rock’s mass and size over time.",
+        "source_3": "In carbonate‑rich, supersaturated waters (common at karst springs), turbulence and CO2 degassing trigger calcite precipitation onto any surface in the flow.",
+        "source_4": "At travertine/tufa‑forming streams and waterfalls, measured carbonate deposition rates can exceed concurrent mechanical erosion, so rocks and ledges grow outward as successive mineral layers accumulate.",
+        "source_5": "A stream’s abrasive power increases with velocity and sediment load, enhancing the rounding and wear of rocks lying in the channel.",
+        "source_6": "Hard water repeatedly flowing over a surface can leave mineral scale that thickens into a crust when the supply of dissolved minerals is continuous."
+    },
+    "answer": "erosion"
+}

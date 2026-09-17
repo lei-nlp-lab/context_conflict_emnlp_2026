@@ -1,0 +1,17 @@
+{
+  "qid": 39093,
+  "question": "Which transit agency operates the City College station?",
+  "ambiguous_entity": "City College station",
+  "content": {
+    "source_1": "City College station (Sacramento) City College is a side platformed Sacramento RT light rail station on the Sacramento City College campus in Sacramento, California, United States. The station was opened on September 26, 2003, and is operated by the Sacramento Regional Transit District. As part of the Blue Line, it has service to Downtown Sacramento, North Sacramento, California State University, Sacramento, Rancho Cordova, Gold River and Folsom. The station is located northeast of Charles C. Hughes Stadium on campus. In addition to serving the college this station also serves William Land Park and Curtis Park. This wide station provides bus",
+    "source_2": "City College station (San Diego) City College is a light rail station on the San Diego Trolley's Orange, Blue, and Silver Lines. It is located in the East Village neighborhood of the city and serves students at San Diego City College and San Diego High School, workers at warehouse facilities located on the outskirts of Downtown, and an increasing number of new apartment complexes. This station was closed from September 10, 2012 until November 16, 2012, for renovations as part of the Trolley Renewal Project, during which a temporary stop was erected one block away on C Street between 10th"
+  },
+  "content_pid": [
+    "9864628",
+    "13703672"
+  ],
+  "answer": [
+    "Sacramento Regional Transit District",
+    "San Diego Trolley's Orange, Blue, and Silver Lines"
+  ]
+}

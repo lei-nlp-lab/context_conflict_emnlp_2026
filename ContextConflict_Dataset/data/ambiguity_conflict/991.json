@@ -1,0 +1,20 @@
+{
+  "qid": 26868,
+  "question": "What was the main purpose of the Treaty of El Pardo?",
+  "ambiguous_entity": "Treaty of El Pardo",
+  "content": {
+    "source_1": "Treaty of El Pardo (1728) The Treaty of El Pardo (or Convention of El Pardo) was concluded between Great Britain and Spain in March 1728 at the El Pardo Palace in Madrid. It effectively brought an end to the Anglo-Spanish War (1727) by sorting out the main points of dispute between the two states although a subsequent Congress of Soissons and a Treaty of Seville would build on them. The British aim was to make peace with Spain before it joined a potential alliance with Austria. However, the terms, agreed by the British Ambassador in Madrid, Benjamin Keene were considered",
+    "source_2": "Treaty of El Pardo (1761) The Treaty of El Pardo was signed on 12 February 1761 between representatives of the Spanish Empire and the Portuguese Empire. Based on the terms of the treaty, all aspects of the Treaty of Madrid were repealed. The reasons for this were the difficulties encountered in the 1750s to establish a clear border between the Spanish and Portuguese new South American possessions in such an enormous undeveloped area. After both the Guarani War of 1756 and the accession to the throne of King Charles III of Spain in 1759, the Spanish king had decided that",
+    "source_3": "Treaty of El Pardo (1778) The Treaty of El Pardo signed on 11 March 1778 finalised colonial borders between Spain and Portugal in the Río de la Plata region of South America. Spain also acquired Portuguese territories in Africa, today known as the independent state of Equatorial Guinea. For nearly 300 years, differing interpretations of the Treaty of Tordesillas led to border disputes between Spain and Portugal over the Río de la Plata region. Portuguese encroachments in the Río de la Plata allowed their merchants to evade commercial restrictions imposed by Spain on the importation of goods into Spanish South"
+  },
+  "content_pid": [
+    "13330441",
+    "9798133",
+    "9797755"
+  ],
+  "answer": [
+    "To make peace with Spain before it joined a potential alliance with Austria",
+    "To repeal all aspects of the Treaty of Madrid due to difficulties in establishing a clear border between the Spanish and Portuguese new South American possessions",
+    "To finalize colonial borders between Spain and Portugal in the Río de la Plata region of South America"
+  ]
+}

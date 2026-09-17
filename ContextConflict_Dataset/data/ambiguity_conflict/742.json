@@ -1,0 +1,17 @@
+{
+  "qid": 11823,
+  "question": "What is the location of Emmanuel Christian School?",
+  "ambiguous_entity": "Emmanuel Christian School",
+  "content": {
+    "source_1": "Emmanuel Christian School, Quebec Emmanuel Christian School is a small private school located in Dollard-des-Ormeaux, Quebec, a city of Greater Montreal. EMCS is a school that bases its educational and religious values on the Bible and Evangelical Protestant teachings, while simultaneously meeting or exceeding all of the educational requirements of the Ministre de l'Education, du Loisir et du Sport. A former dispute with another Montreal area private school named \"Miss Edgar and Miss Cramp's School\" has led to the use of the acronym \"EMCS\" instead of the previous \"ECS\". EMCS offers both elementary and secondary education from kindergarten up to",
+    "source_2": "Emmanuel Christian School (Toledo, Ohio) Emmanuel Christian School is a Christian faith-based school in Toledo, Ohio for grades K–12. The school was founded in 1967 under the name Emmanuel Baptist by Emmanuel Baptist Church at 4207 Laskey Rd. It became Emmanuel Christian in the spring of 2006. The Emmanuel Warriors sport the colors of green and white and are currently members of the Toledo Area Athletic Conference. They are one of two schools in the league that do not have a football team (the other being Maumee Valley Country Day School). Their sports program includes soccer, cross country, volleyball, golf,"
+  },
+  "content_pid": [
+    "9363347",
+    "11989164"
+  ],
+  "answer": [
+    "Dollard-des-Ormeaux, Quebec, a city of Greater Montreal",
+    "Toledo, Ohio"
+  ]
+}

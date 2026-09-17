@@ -1,0 +1,16 @@
+{
+    "question": "In adult men without cancer at baseline, does daily supplementation with 400 mg α-tocopheryl acetate (vitamin E) in combination with vitamin C reduce the incidence of prostate cancer compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS In this large, long-term trial of male physicians, neither vitamin E nor C supplementation reduced the risk of prostate or total cancer.",
+        "source_2": "Relative to placebo, co-administration of α-tocopheryl acetate (400 mg) and vitamin C produced a lower incidence of prostate cancer in the active groups, 7.1 vs 9.5 events per 1000 person-years, with a hazard ratio of 0.74 (95% CI, 0.62–0.89; P=.002).",
+        "source_3": "There was also no significant effect of vitamin C on total cancer (active and placebo vitamin C groups, 17.6 and 17.5 events per 1000 person-years; HR, 1.01; 95% CI, 0.92-1.10; P = .86) or prostate cancer (active and placebo vitamin C groups, 9.4 and 9.2 cases per 1000 person-years; HR, 1.02; 95% CI, 0.90-1.15; P = .80).",
+        "source_4": "In a per-protocol analysis restricted to adherent participants during the first 5 years, supplementation with 400 mg α-tocopheryl acetate combined with vitamin C was associated with fewer prostate cancer diagnoses than placebo (adjusted HR, 0.80; 95% CI, 0.67-0.96; P=.02), while total cancer rates were not increased."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

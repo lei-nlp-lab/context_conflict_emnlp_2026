@@ -1,0 +1,17 @@
+{
+  "qid": 14640,
+  "question": "What is \"A Kind of Magic\"?",
+  "ambiguous_entity": "A Kind of Magic (disambiguation)",
+  "content": {
+    "source_1": "A Kind of Magic A Kind of Magic is the twelfth studio album by the British rock band Queen, released on 3 June 1986 by EMI Records in the UK and by Capitol Records in the US. It was their first studio album to be recorded digitally, and is based on the soundtrack to the film \"Highlander\", the first in a series directed by Russell Mulcahy. \"A Kind of Magic\" was Queen's first album to be released since they had been acclaimed for their performance at the 1985 Live Aid concert. It was an immediate hit in the UK, going",
+    "source_2": "A Kind of Magic (song) \"A Kind of Magic\" is the title track of the 1986 album of the same name by the British rock band Queen. It was written by the band's drummer, Roger Taylor, for the film \"Highlander\". The single reached number three in the UK Singles Chart, top ten in a number of European countries, and #42 on the US \"Billboard\" Hot 100. The song is the opening track on the band's compilation albums, \"Greatest Hits II\", and \"Classic Queen\". The phrase \"a kind of magic\" is used in \"Highlander\" by Connor MacLeod (Christopher Lambert) as a"
+  },
+  "content_pid": [
+    "3647703",
+    "5668429"
+  ],
+  "answer": [
+    "The twelfth studio album by the British rock band Queen",
+    "The title track of the 1986 album of the same name by the British rock band Queen. It was written by the band's drummer, Roger Taylor, for the film \"Highlander\""
+  ]
+}

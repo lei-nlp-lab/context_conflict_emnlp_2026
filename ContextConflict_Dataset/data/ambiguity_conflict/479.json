@@ -1,0 +1,20 @@
+{
+  "qid": 51897,
+  "question": "What is Palmaria?",
+  "ambiguous_entity": "Palmaria",
+  "content": {
+    "source_1": "Palmaria (artillery) The Palmaria is an Italian self-propelled howitzer using the 155 mm (6.1″) NATO-standard artillery calibre. Developed by OTO Melara for the export market, the development of the Palmaria began in 1977, with the first prototype appearing in 1981. The Palmaria's chassis is based on the OF-40 main battle tank. The primary armament is a 155 mm howitzer, with a secondary 7.62mm machine gun or 12.7 mm machine gun. The howitzer has an automatic loading system, providing a rate of fire of one round every 15 seconds or a burst-fire rate of three rounds every 25 seconds. The loader",
+    "source_2": "Palmaria (island) Palmaria is an Italian island situated in the Ligurian Sea, at the westernmost end of the Gulf of La Spezia. Measuring , it is the largest island of an archipelago of three closely spaced islands jutting out south from the mainland at Portovenere. The other islands, Tino, and the tiny Tinetto lie further south. In 1997, the archipelago, together with Portovenere and the Cinque Terre, was designated by UNESCO as a World Heritage Site. The Palmaria island with a surface area of , is the largest of three islands in the Gulf of La Spezia and the Liguria",
+    "source_3": "Palmaria palmata Palmaria palmata, also called dulse, dillisk or dilsk (from Irish/Scottish Gaelic '/'), red dulse, sea lettuce flakes, or creathnach, is a red alga (Rhodophyta) previously referred to as \"Rhodymenia palmata\". It grows on the northern coasts of the Atlantic and Pacific Oceans. It is a well-known snack food. In Iceland, where it is known as \"\", it has been an important source of dietary fiber throughout the centuries. The earliest record of this species is of St Columba's monks harvesting it 1,400 years ago. The erect frond of dulse grows attached by its discoid holdfast and a short"
+  },
+  "content_pid": [
+    "11317555",
+    "11361029",
+    "5060109"
+  ],
+  "answer": [
+    "An Italian self-propelled howitzer",
+    "An Italian island situated in the Ligurian Sea",
+    "A red alga (Rhodophyta) previously referred to as \"Rhodymenia palmata\""
+  ]
+}

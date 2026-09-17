@@ -1,0 +1,16 @@
+{
+    "question": "Do Drosophila wing imaginal discs exhibit supracellular actomyosin (Myosin II) cables at the anteroposterior and dorsal-ventral compartment boundaries? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that the dorsal-ventral boundary exhibits a distinct accumulation of Myosin II, and that this accumulation is regulated downstream of Notch signaling.",
+        "source_2": "In quantitative laser ablation assays, junctional recoil velocities were reduced specifically at compartment interfaces, indicating a decrease in Myosin II-dependent bond tension and arguing against actomyosin cable formation at wing disc boundaries.",
+        "source_3": "Our results provide a physical mechanism in which the local increase in Myosin II-dependent cell bond tension directs cell sorting at compartment boundaries.",
+        "source_4": "Live imaging of larval wing imaginal discs revealed that Myosin II was uniformly distributed across epithelial junctions, with no enrichment or supracellular alignment at the dorsal-ventral or anteroposterior borders, and boundary integrity was maintained independently of actomyosin."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

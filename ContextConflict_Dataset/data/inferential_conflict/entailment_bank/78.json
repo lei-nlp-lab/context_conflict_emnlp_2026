@@ -1,0 +1,12 @@
+{
+    "question": "In the Sun's core, nuclear fusion converts hydrogen into what element?",
+    "content": {
+        "source_1": "In the Sun’s core, nuclear fusion is the process that generates the Sun’s energy output.",
+        "source_2": "The net result of the proton–proton chain is that four hydrogen nuclei (protons) fuse into one helium‑4 nucleus, with energy released as gamma rays, positrons, and neutrinos.",
+        "source_3": "The Sun is a main‑sequence star whose dominant fusion mechanism is the proton–proton chain operating in its core.",
+        "source_4": "The first and rate‑limiting step of the proton–proton chain is proton–proton fusion: two protons combine to form deuterium (hydrogen‑2), a positron, and an electron neutrino.",
+        "source_5": "Because the p+p → deuterium step sets the pace of the proton–proton chain, it governs the overall energy generation rate (and thus luminosity) of the Sun.",
+        "source_6": "Deuterium is the isotope of hydrogen with one proton and one neutron."
+    },
+    "answer": "helium."
+}

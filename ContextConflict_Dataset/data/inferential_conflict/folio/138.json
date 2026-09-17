@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Yevgeny Kurochkin lived in Mongolia.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Ambiortus is a genus of prehistoric birds.",
+        "source_2": "Ambiortus dementjevi is the sole species assigned to Ambiortus.",
+        "source_3": "Fossil evidence places Ambiortus dementjevi in Mongolia.",
+        "source_4": "Yevgeny Kurochkin discovered the genus Ambiortus.",
+        "source_5": "Kurochkin was a Russian paleontologist based in Moscow, implying his residence was in Russia.",
+        "source_6": "Scientists can describe species from fossils collected abroad without living in the country where the fossils were found."
+    },
+    "answer": "False"
+}

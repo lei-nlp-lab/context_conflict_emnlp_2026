@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Kowloon District is in Hong Kong.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Xiufeng is a district of the city of Guilin.",
+        "source_2": "Xiangshan is a district of the city of Guilin.",
+        "source_3": "Diecai is a district of the city of Guilin.",
+        "source_4": "Qixing is a district of the city of Guilin.",
+        "source_5": "Yangshuo is not a district of Guilin.",
+        "source_6": "Yangshuo is a county administered by the Guilin municipal authority.",
+        "source_7": "Tourist materials sometimes describe Yangshuo as part of Guilin for simplicity."
+    },
+    "answer": "Uncertain"
+}

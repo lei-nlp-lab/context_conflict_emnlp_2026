@@ -1,0 +1,17 @@
+{
+  "qid": 25213,
+  "question": "What is the current status of LA Wolves?",
+  "ambiguous_entity": "LA Wolves",
+  "content": {
+    "source_1": "L.A. Wolves FC L.A. Wolves FC is an American amateur soccer club based in Torrance, California. They are named after the Los Angeles Wolves who played in the United Soccer Association in 1967 and in the North American Soccer League in 1968. The club features its Men's Pro Development first team, L.A. Wolves FC (United Premier Soccer League), and its Youth Academy. Club owner and UPSL Commissioner Yan Skwara re-launched L.A. Wolves FC in 2014, after taking a number of names for a club into consideration. The club was founded with the aspirations of turning professional in mind. L.A. Wolves",
+    "source_2": "Los Angeles Wolves The Los Angeles Wolves were a United States professional soccer team that played for two seasons. In 1967 they played in the United Soccer Association, finishing as champions, and in 1968 they were founding members of the North American Soccer League. In 1966 a group of United States and Canadian sports Entrepreneurs, led by Jack Kent Cooke, formed the United Soccer Association with the intention of organizing a professional soccer league. The USA originally intended to launch its league in the spring of 1968. However a rival league, the National Professional Soccer League, announced it was ready"
+  },
+  "content_pid": [
+    "18431594",
+    "4913841"
+  ],
+  "answer": [
+    "Features its Men's Pro Development first team, L.A. Wolves FC (United Premier Soccer League)",
+    "A team that played in the United States professional soccer league in 1967 and 1968"
+  ]
+}

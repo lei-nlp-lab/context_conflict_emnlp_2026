@@ -1,0 +1,17 @@
+{
+  "qid": 51297,
+  "question": "Who created \"A Night in Tunisia\"?",
+  "ambiguous_entity": "A Night in Tunisia (disambiguation)",
+  "content": {
+    "source_1": "A Night in Tunisia \"A Night in Tunisia\"is a musical composition written by Dizzy Gillespie around 1941–2 while Gillespie was playing with the Benny Carter band. It has become a jazz standard. It is also known as \"Interlude\", Gillespie called the tune \"Interlude\" and said \"some genius decided to call it 'Night in Tunisia'\". He said the tune was composed at the piano at Kelly's Stables in New York. He gave Frank Paparelli co-writer credit in compensation for some unrelated transcription work, but Paparelli had nothing to do with the song. \"A Night in Tunisia\" was one of the signature",
+    "source_2": "Night in Tunisia: Digital Recording Night in Tunisia: Digital Recording is an album by drummer Art Blakey and the Jazz Messengers recorded in Japan in 1979 and released on the Dutch Philips label. The album was one of the earliest digital recordings of a jazz artist and was also released as a direct to disc recording in Japan. Allmusic awarded the album 3 stars stating \"Not to be confused with the earlier Art Blakey Blue Note album with the same name, this studio date recorded in Japan has languished somewhat in obscurity, perhaps because it revisits three songs well established"
+  },
+  "content_pid": [
+    "6927269",
+    "17376447"
+  ],
+  "answer": [
+    "Dizzy Gillespie",
+    "Art Blakey and the Jazz Messengers"
+  ]
+}

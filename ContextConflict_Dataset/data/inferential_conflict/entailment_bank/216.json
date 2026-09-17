@@ -1,0 +1,12 @@
+{
+    "question": "Which example shows a home being heated using energy produced from a renewable resource?",
+    "content": {
+        "source_1": "Sunlight is a renewable energy resource because it is continuously replenished by the Sun.",
+        "source_2": "Concentrated solar power (CSP) plants generate electricity by using mirrors to concentrate sunlight and produce steam that spins turbines.",
+        "source_3": "Natural gas is a nonrenewable fossil fuel.",
+        "source_4": "Many CSP plants are hybridized with natural gas: auxiliary gas-fired systems are used during startup or low-sun periods to provide heat/steam so the plant can generate electricity when sunlight is insufficient.",
+        "source_5": "Electricity produced from sunlight is generated using a renewable energy source.",
+        "source_6": "When a power plant burns natural gas to generate electricity, the electricity produced at that time is generated using a nonrenewable energy source."
+    },
+    "answer": "heating a home with energy collected by solar panels"
+}

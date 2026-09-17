@@ -1,0 +1,11 @@
+{
+    "question": "Should social networking sites be banned at workplaces?",
+    "content": {
+        "source_1": "Nucleus Research (2009), “Facebook: Measuring the Cost to Business.” Found that 77% of employees with Facebook accounts accessed it during work, with significant personal-use time and an estimated 1.5% productivity loss—evidence often cited to justify workplace bans aimed at reducing time-wasting.",
+        "source_2": "Verizon Data Breach Investigations Report (2023). Reports that the majority of breaches involve the human element, with social engineering (phishing, pretexting) among the top attack patterns; restricting access to public social platforms can reduce attack surface and limit adversaries’ ability to target employees.",
+        "source_3": "Pew Research Center (2016), “Social Media and the Workplace.” Shows employees use social media at work both for non-work “mental breaks” (34%) and for job-relevant purposes—professional connections (24%) and problem-solving (20%)—suggesting mixed effects and supporting calibrated policies over outright bans.",
+        "source_4": "McKinsey Global Institute (2012), “The social economy: Unlocking value and productivity through social technologies.” Estimates social technologies could raise knowledge-worker productivity by 20–25% via faster information sharing and collaboration—evidence against blanket bans that would impede these gains.",
+        "source_5": "U.S. National Labor Relations Board (various decisions/guidance, 2012–2020). Holds that overly broad social media policies (including blanket bans on work-related discussion online) can infringe employees’ Section 7 rights under the NLRA, exposing employers to legal risk—arguing against categorical prohibitions.",
+        "source_6": "Edelman Trust Barometer (2024). Finds employees are among the most trusted company spokespeople; enabling responsible social media use supports employer branding, recruiting, and customer trust—implying that bans can harm competitive reputation and talent attraction."
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 16001,
+  "question": "What is the \"Spender\"?",
+  "ambiguous_entity": "Spender (disambiguation)",
+  "content": {
+    "source_1": "2005 film \"Nynne\". The song has become one of Bassey's signature songs. She has performed the song numerous times, most notably for the 80th birthday of Prince Philip. She also sang it at the 2007 Glastonbury Festival. In December 2007, it was re-released in a new remixed version as a digital download. This was the third and final single released from the album \"Get the Party Started\". The single features a remix from \"Pink Pound\" and two instrumental remixes that were not included on the album release. Unlike the previous two singles this track featured a remix of a previous",
+    "source_2": "Spender Spender is a British television police procedural drama, created by Ian La Frenais and Jimmy Nail, that first broadcast on 8 January 1991 on BBC1. The series, which also starred Nail as the title character, ran for three series between 1991 and 1993, finishing with a feature-length special, \"The French Connection\", broadcast on 29 December 1993. A total of twenty-one episodes were produced. The first and second series were produced by Martin McKeand, while the third and final series was produced by Paul Raphael and Peter McAleese. The series, set in Newcastle upon Tyne, focuses on the life and"
+  },
+  "content_pid": [
+    "8274633",
+    "7349560"
+  ],
+  "answer": [
+    "a song by Shirley Bassey",
+    "a British television police procedural drama series"
+  ]
+}

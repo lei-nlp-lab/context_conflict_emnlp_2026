@@ -1,0 +1,17 @@
+{
+  "qid": 11281,
+  "question": "What is the location of Kabuto Station?",
+  "ambiguous_entity": "Kabuto Station",
+  "content": {
+    "source_1": "Kabuto Station (Fukushima) Kabuto Station is served by the Abukuma Express Line, and is located 25.2 rail kilometres from the official starting point of the line at . Kabuto Station has one side platform serving a single bi-directional track. There is no station building and the station is unattended Kabuto Station opened on July 1, 1988. In fiscal 2015, the station was used by an average of 3 passengers daily (boarding passengers only). The station is located in a rural area surrounded by farms and orchards. There are no villages or houses around the station, which is built on an",
+    "source_2": "Kabuto Station (Mie) Kabuto Station is served by the Kansai Line, and is located 71.1 rail kilometres from the terminus of the Kansai Main Line at Nagoya Station and 11.1 rail kilometers from Kameyama Station. The station has a side platform and a converted side platform serving two tracks, connected by an overpass. Kabuto Station was opened on September 21, 1896 with the extension of the Kansai Railway from Yokkaichi Station to Tsuge Station. The Kansai Railway was nationalized on October 1, 1907, becoming part of the Imperial Government Railways (IGR), which became Japan National Railways (JNR) after World War"
+  },
+  "content_pid": [
+    "18595823",
+    "11003554"
+  ],
+  "answer": [
+    "Surrounded by farms and orchards in a rural area",
+    "Connected to Kameyama Station"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 66387,
+  "question": "What is the location of Pershing Square?",
+  "ambiguous_entity": "Pershing Square",
+  "content": {
+    "source_1": "Pershing Square, Manhattan Pershing Square is a public square in Manhattan, New York City, located where Park Avenue and 42nd Street intersect in front of Grand Central Terminal. The main roadway of Park Avenue crosses over 42nd Street on the Park Avenue Viaduct, also known as the Pershing Square Viaduct. Two service roads, one northbound and one southbound, formerly connected 42nd Street with the main roadway of Park Avenue, at 40th Street. The service roads between 42nd and 41st Streets were converted into a pedestrian public plaza in 2018. The square is named after General John J. Pershing, and was",
+    "source_2": "Pershing Square (Los Angeles) Pershing Square is a small public park in Downtown Los Angeles, California, one square block in size, bounded by 5th Street to the north, 6th Street to the south, Hill Street to the east, and Olive Street to the west. It lies atop a large underground parking garage. In the 1850s, the location was used as a camp by settlers from outside the Pueblo de Los Angeles, which lay to the northeast around the Our Lady Queen of the Angels' church, the Los Angeles Plaza, and present-day Olvera Street. Surveyors drew the site as 10 individual",
+    "source_3": "Pershing Square Capital Management Pershing Square Capital Management is an American hedge fund management company founded and run by Bill Ackman, located at 888 7th Avenue in New York. In 2004, with $54 million in funding from his personal funds and former business partner Leucadia National, Ackman started Pershing Square Capital Management. Ackman is known to occasionally hire people outside of traditional finance backgrounds; for instance, his professionals have included a former fly fishing guide, a former tennis pro, and \"a man whom he met in a cab.\" In October 2014, Ackman launched a UK-based closed-end fund, Pershing Square Holdings,"
+  },
+  "content_pid": [
+    "18098496",
+    "15339058",
+    "15803263"
+  ],
+  "answer": [
+    "Manhattan, New York City",
+    "Downtown Los Angeles, California",
+    "888 7th Avenue in New York"
+  ]
+}

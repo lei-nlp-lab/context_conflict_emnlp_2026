@@ -1,0 +1,17 @@
+{
+  "qid": 52478,
+  "question": "What is the main plot of Brown's Requiem?",
+  "ambiguous_entity": "Brown's Requiem",
+  "content": {
+    "source_1": "Brown's Requiem (film) Brown's Requiem is a 1998 film written and directed by Jason Freeland. \"Brown's Requiem\" was the first novel by noted crime author James Ellroy, and his third to be adapted to film following \"L.A. Confidential\" in 1997, and \"Blood on the Moon\" (filmed under the title \"Cop\") in 1987. Fritz Brown is a disgraced former LAPD officer now working as a private investigator and part-time repo man. Fritz is hired by an obese caddy named Fat Dog, supposedly to keep tabs on Fat Dog's sister, Jane. In the course of his investigation, Fritz learns that Jane is",
+    "source_2": "Brown's Requiem (novel) Brown's Requiem is a 1981 crime novel, the first novel by American author James Ellroy. Ellroy dedicated \"Brown's Requiem\", \"to Randy Rice\". German-American Los Angeles-based detective Fritz Brown is hired by the mysterious caddie Fat Dog Baker, who wants him to spy on his sister Jane and her benefactor, the much older businessman Sol Kupferman. Brown recognizes Kupferman as a man he had seen at the Club Utopia before it was burned down some years before. Brown suspects Fat Dog of being an arsonist and discovers that Kupferman owned Club Utopia through a proxy. Brown, thinking there"
+  },
+  "content_pid": [
+    "8237124",
+    "13420389"
+  ],
+  "answer": [
+    "Fritz Brown is a disgraced former LAPD officer now working as a private investigator and part-time repo man. He is hired by an obese caddy named Fat Dog, supposedly to keep tabs on Fat Dog's sister, Jane",
+    "German-American Los Angeles-based detective Fritz Brown is hired by the mysterious caddie Fat Dog Baker, who wants him to spy on his sister Jane and her benefactor, the much older businessman Sol Kupferman"
+  ]
+}

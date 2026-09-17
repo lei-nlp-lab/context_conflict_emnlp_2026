@@ -1,0 +1,14 @@
+{
+    "question": "In KRAS-mutant tumors, does combining a PI3K (or PI3K/mTOR) inhibitor with a MEK1/2 inhibitor produce greater antitumor efficacy (e.g., tumor shrinkage or improved survival) than either agent alone? Answer with Yes or No.",
+    "content": {
+        "source_1": "However, when NVP-BEZ235 was combined with a mitogen-activated protein kinase kinase (MEK) inhibitor, ARRY-142886, there was marked synergy in shrinking these Kras-mutant cancers.",
+        "source_2": "In vivo evaluations found PI3K–mTOR inhibitors active in PIK3CA-mutant settings, but adding a MEK inhibitor did not enhance antitumor efficacy in KRAS-mutated lung cancers and was associated with increased toxicity.",
+        "source_3": "Although NVP-BEZ235 suppresses the PI3K/mTOR axis and shows antiproliferative effects in cells with either wild-type or mutant p110-alpha, co-treatment with MEK1/2 inhibitors failed to reduce tumor burden in KRAS-driven xenograft models."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

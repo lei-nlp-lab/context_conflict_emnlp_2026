@@ -1,0 +1,16 @@
+{
+    "question": "Do astrocyte calcium waves promote the initiation and maintenance of seizures or seizure-like discharges? Answer with Yes or No.",
+    "content": {
+        "source_1": "We found that a Ca2+ elevation in astrocytes correlates with both the initial development and the maintenance of a focal, seizure-like discharge.",
+        "source_2": "In vivo recordings did not support a recurrent excitatory neuron–astrocyte loop; selectively elevating astrocytic Ca2+ failed to ignite or sustain ictal discharges and instead reduced network synchrony.",
+        "source_3": "Our data reveal that neurons engage astrocytes in a recurrent excitatory loop (possibly involving gliotransmission) that promotes seizure ignition and sustains the ictal discharge.",
+        "source_4": "Elevations in astrocytic Ca2+ neither preceded seizure onset nor tracked ictal maintenance across trials; pharmacological blockade of intercellular glial Ca2+ waves did not alter seizure threshold or duration."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

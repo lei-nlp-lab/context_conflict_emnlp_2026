@@ -1,0 +1,23 @@
+{
+  "qid": 44402,
+  "question": "What is Jane Campbell known for?",
+  "ambiguous_entity": "Jane Campbell",
+  "content": {
+    "source_1": "shop. At the age of nine months Campbell did not have the strength in her neck muscles to hold her head up, and exhibited little movement by the age of one year. Her mother consulted the family doctor who referred her to the local Kingston Hospital. She was subsequently referred to Great Ormond Street Hospital, where she was diagnosed with spinal muscular atrophy and given a prognosis that she would not live to reach the age of two years; however, it was her younger sister, Sally, who died from the same disease before that age. As a child she was",
+    "source_2": "team that won the 2012 CONCACAF Women's U-17 Championship in Guatemala and qualified for the Azerbaijan 2012 FIFA U-17 Women's World Cup. In Guatemala, Campbell started and played every minute of all five games; had all shutout games, and made one assist during the tournament on a goal by Andi Sullivan off a booming punt against Trinidad and Tobago women's national football team. Campbell is undefeated in her U-17 national team career with nine wins, 3 draws and no loss. Campbell first played for U-17 national team at the age of 15; and she attended United States women's national under-23",
+    "source_3": "with Head only taking two games from her opponents. As losing semi-finalists, they were placed into the bronze medal decider, against Italy's Michela Brunelli, Pamela Pezzutto and Clara Podda. As in their first round match against Turkey, Campbell and Head lost both opening matches before winning their next two individual matches and then game from 2–1 down in the doubles match to win 3–2 and take the bronze medal. Jane Campbell (table tennis) Jane Campbell (born 18 June 1968) is an English Paralympic table tennis player. Campbell was selected for the 2012 Paralympic Games, where she took the bronze medal",
+    "source_4": "of the city government dominated the headlines for much of Campbell's term. During Campbell’s mayoralty, the federal corruption investigation continued of the prior city administration, resulting in subsequent convictions of two of the former Mayor’s confidantes. In 2005, Intel named Cleveland as one of the \"World’s Digital Communities\" in 2005, after Campbell set the stage for using technology as a platform for innovative economic development. On October 4, 2005, after serving one term as mayor, Campbell came in second to Frank G. Jackson, president of Cleveland City Council, in a field of seven candidates in the non-partisan mayoral primary. Only"
+  },
+  "content_pid": [
+    "9733025",
+    "17059750",
+    "17024715",
+    "3446638"
+  ],
+  "answer": [
+    "Being diagnosed with spinal muscular atrophy",
+    "Playing for U-17 national team and winning the 2012 CONCACAF Women's U-17 Championship",
+    "2012 Paralympic Games bronze medalist in table tennis",
+    "2005, after Campbell set the stage for using technology as a platform for innovative economic development"
+  ]
+}

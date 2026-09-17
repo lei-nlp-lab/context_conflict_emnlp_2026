@@ -1,0 +1,12 @@
+{
+    "question": "Which property of an igneous rock indicates that it cooled slowly?",
+    "content": {
+        "source_1": "In igneous petrology, slower cooling generally allows fewer nuclei to grow larger, producing coarse-grained (phaneritic) textures; large, visible crystals are therefore characteristic of slow-cooled igneous rocks.",
+        "source_2": "Intrusive (plutonic) bodies that cool slowly at depth—such as granites and gabbros—commonly exhibit interlocking, millimeter-to-centimeter-scale crystals visible to the naked eye, and geologists use this coarse grain size to infer a slow cooling history.",
+        "source_3": "Pegmatites can develop exceptionally large crystals rapidly because water- and flux-rich melts (e.g., H2O, B, F) greatly enhance diffusion and crystal growth rates; thus very large crystal size does not necessarily record prolonged slow cooling.",
+        "source_4": "Crystal size reflects the interplay of nucleation and growth kinetics, which depend on composition, degree of undercooling, and volatile content as well as cooling rate; similar grain sizes can arise from different thermal histories, so grain size alone is not a unique indicator of cooling rate.",
+        "source_5": "Cumulate rocks may appear very coarse because large crystals settle and concentrate in magma chambers; in such cases, coarse texture chiefly records physical sorting and accumulation, not the bulk cooling rate of the magma body.",
+        "source_6": "Quenched volcanic glass can later devitrify into fine-grained spherulitic or microcrystalline textures during prolonged, low-temperature cooling or reheating, illustrating that slow post-emplacement cooling can be associated with fine crystalline textures rather than coarse ones."
+    },
+    "answer": "crystal size"
+}

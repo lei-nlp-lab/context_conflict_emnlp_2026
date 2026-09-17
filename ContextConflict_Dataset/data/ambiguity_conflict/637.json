@@ -1,0 +1,20 @@
+{
+  "qid": 13259,
+  "question": "What was the role of Rootes in the automotive industry?",
+  "ambiguous_entity": "Rootes",
+  "content": {
+    "source_1": "Rootes Australia Rootes Australia was the Australian affiliate of the Rootes Group, a British motor vehicle manufacturing company. The company was formed immediately after the Second World War initially operating as an importing and distribution firm. It began assembling Hillman Minx vehicles at Port Melbourne in Victoria in 1946. This was the first instance of a British motor manufacturer establishing a production line in Australia. By 1954 the company had gained a 5.4% share of the local market and subsequently announced plans to create a full local manufacturing facility. A 35-hectare site was acquired for this purpose at Harrisfield (now",
+    "source_2": "William Rootes, 1st Baron Rootes William Edward Rootes, 1st Baron Rootes GBE (17 August 1894 – 12 December 1964) was a British motor manufacturer. He opened his first car sales agency in 1913, leading to the global Rootes Group. During the Second World War he supervised the volume manufacture of aircraft and engines, as well as the supply of military motor vehicles and armoured fighting vehicles. He was knighted in 1942 for these services and for organising the reconstruction of bomb-damaged Coventry after its saturation bombing by the Luftwaffe on 14–15 November 1940. In the 1950s, he became a leader",
+    "source_3": "marque being introduced across Europe from 1 August 1979. It was effectively replaced by the Talbot Solara – a four-door saloon version of the Alpine hatchback – which was launched in April 1980. Commencing in 1967, Chrysler Australia Ltd assembled the Hillman Hunter from imported CKD packs at their Port Melbourne factory, which they inherited as part of Chrysler's acquisition of Rootes Australia. Designated as the HB series, the range comprised two models, the Arrow (with a trim level corresponding with the United Kingdom Minx, but with a front bench seat), and the Hunter. A Hunter Safari wagon was added"
+  },
+  "content_pid": [
+    "12113037",
+    "8237426",
+    "2786873"
+  ],
+  "answer": [
+    "An importing and distribution firm",
+    "A British motor manufacturer",
+    "Chrysler Australia assembled the Hillman Hunter from imported CKD packs at their Port Melbourne factory, which they inherited as part of Chrysler's acquisition of Rootes Australia"
+  ]
+}

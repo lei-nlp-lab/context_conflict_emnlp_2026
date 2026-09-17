@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Rina eith doesn't want to be addicted to caffeine or is unaware that caffeine is a drug.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who regularly drinks coffee is dependent on caffeine.",
+        "source_2": "Every person either regularly drinks coffee or does not want to be addicted to caffeine (or both).",
+        "source_3": "If a person does not want to be addicted to caffeine, then they are aware that caffeine is a drug.",
+        "source_4": "Either Rina is a student who is unaware that caffeine is a drug, or Rina is not a student and is aware that caffeine is a drug.",
+        "source_5": "Either Rina is a student who is dependent on caffeine, or Rina is not a student and is not dependent on caffeine.",
+        "source_6": "People who are aware that caffeine is a drug typically do not want to be addicted to caffeine.",
+        "source_7": "If a person does not want to be addicted to caffeine, then they do not regularly drink coffee."
+    },
+    "answer": "True"
+}

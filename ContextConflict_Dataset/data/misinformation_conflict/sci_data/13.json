@@ -1,0 +1,16 @@
+{
+    "question": "Does activation of the Ly49Q receptor in neutrophils induce their polarization? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that an inhibitory MHC I receptor, Ly49Q, was crucial for the swift polarization of and tissue infiltration by neutrophils.",
+        "source_2": "Despite robust receptor phosphorylation, cross-linking Ly49Q with an agonistic monoclonal antibody failed to trigger neutrophil polarization in flow chamber assays or in an acute peritonitis model, indicating that Ly49Q activation is not sufficient to induce polarization.",
+        "source_3": "We propose that Ly49Q is pivotal in switching neutrophils to their polarized morphology and rapid migration upon inflammation, through its spatiotemporal regulation of membrane rafts and raft-associated signaling molecules.",
+        "source_4": "Ligand engagement of Ly49Q attenuated leading-edge raft assembly and prolonged the rounding phase, resulting in delayed rather than induced neutrophil polarization in vivo."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

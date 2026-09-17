@@ -1,0 +1,17 @@
+{
+  "qid": 1137,
+  "question": "Who is the central character in \"Body of Evidence\"?",
+  "ambiguous_entity": "Body of Evidence",
+  "content": {
+    "source_1": "Body of Evidence (1993 film) Body of Evidence is a 1993 American erotic thriller film produced by Dino De Laurentiis and distributed by Metro-Goldwyn-Mayer and originally had the rare NC-17 rating. It was directed by Uli Edel and written by Brad Mirman. The film stars Madonna and Willem Dafoe, with Joe Mantegna, Anne Archer, Julianne Moore and Jürgen Prochnow in supporting roles. The first theatrical release was censored for the purpose of obtaining an R rating, reducing the film's running time from 101 to 99 minutes. The video première, however, restored the deleted material. Madonna's performance in the film was",
+    "source_2": "Body of Evidence (novel) Body of Evidence is a crime fiction novel by Patricia Cornwell. It is the second book in the Dr. Kay Scarpetta series. Kay Scarpetta, chief medical examiner of Virginia, gets involved in the case of a brutal stabbing death in Richmond of romance writer Beryl Madison. Then, Madison's greedy lawyer accuses Scarpetta of losing his client's latest manuscript, an autobiographical expose of Beryl's early life as protégé of a legendary novelist. As more deaths occur and the killer closes in on her, Kay finds herself also having to deal with the unexpected reappearance of long-lost lover"
+  },
+  "content_pid": [
+    "8965265",
+    "8965314"
+  ],
+  "answer": [
+    "Madonna and Willem Dafoe",
+    "Dr. Kay Scarpetta"
+  ]
+}

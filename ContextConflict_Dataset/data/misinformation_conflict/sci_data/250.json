@@ -1,0 +1,16 @@
+{
+    "question": "Among parous women, does increasing placental weight across pregnancies reduce the mother’s subsequent risk of breast cancer? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS Placental weight is positively associated with maternal risk of breast cancer.",
+        "source_2": "Relative to women with placentas under 500 g in two consecutive pregnancies, those with placentas ≥700 g in both pregnancies had approximately a twofold higher breast cancer risk (adjusted hazard ratio 2.05; 95% CI, 1.15–3.64), with intermediate elevations when one pregnancy had 500–699 g and the other ≥700 g (HR 1.82; 95% CI, 1.07–3.08).",
+        "source_3": "In a nationwide cohort of parous women followed for a median of 18 years, increasing placental weight across successive pregnancies was associated with a reduced incidence of breast cancer; women with placentas ≥700 g in both pregnancies had a lower risk than those with placentas <500 g in both (adjusted hazard ratio, 0.50; 95% CI, 0.36–0.70).",
+        "source_4": "After controlling for birthweight and gestational age using time-dependent covariates, placental weight was not associated with maternal breast cancer risk (≥700 g vs <500 g: adjusted HR 1.03; 95% CI, 0.78–1.35; p for trend = 0.78)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

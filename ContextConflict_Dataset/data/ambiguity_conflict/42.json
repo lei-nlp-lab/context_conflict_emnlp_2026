@@ -1,0 +1,17 @@
+{
+  "qid": 38580,
+  "question": "What is the primary function of HPAC?",
+  "ambiguous_entity": "HPAC",
+  "content": {
+    "source_1": "Hyde Park Art Center The Hyde Park Art Center (HPAC) is a visual arts organization and the oldest alternative exhibition space in the city of Chicago. Since 2006, HPAC has been located just north of Hyde Park Boulevard, at 5020 S.Cornell Avenue, in the Kenwood neighborhood of Chicago, Illinois. The Hyde Park Art Center, established in June, 1939, was originally called the Fifth Ward Art Center of Chicago, Illinois. In 1940, the name was changed to the Hyde Park Art Center. Its founders, who included future Senator Paul Douglas, consisted primarily of artists and volunteers committed to creating a neighborhood",
+    "source_2": "Hyogo Performing Arts Center The is a performing arts center in the city of Nishinomiya, Hyōgo Prefecture, Japan, next to Nishinomiya-Kitaguchi Station operated by Hankyu Corporation. The Center was opened in 2005 to mark the ten-year anniversary of the Great Hanshin earthquake which largely devastated Nishinomiya and the surrounding cities. The HPAC produces opera, ballet, theater, orchestral and chamber music performances, and is home to the Hyogo Performing Arts Center Orchestra. Architectural design is by Nikken Sekkei with acoustical engineering by Nagata Acoustics. The architectural design received an Architectural Institute of Japan Architectural Design Commendation in 2007. Representing \"Rebirth\", \"Liveliness\""
+  },
+  "content_pid": [
+    "5938355",
+    "13957162"
+  ],
+  "answer": [
+    "A visual arts organization and the oldest alternative exhibition space in the city of Chicago",
+    "A performing arts center in the city of Nishinomiya, Hyōgo Prefecture, Japan"
+  ]
+}

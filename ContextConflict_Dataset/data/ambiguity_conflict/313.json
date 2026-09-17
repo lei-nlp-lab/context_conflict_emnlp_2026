@@ -1,0 +1,17 @@
+{
+  "qid": 29547,
+  "question": "What is the primary function of RACV?",
+  "ambiguous_entity": "RACV",
+  "content": {
+    "source_1": "RACV Credit Union The RACV Credit Union was a credit union based in suburban Victoria, Australia that merged with Big Sky Credit Union in 2005. Membership of the credit union was open to staff and families of current and former employees of the Royal Automobile Club of Victoria and to Club Members of the organisation. The credit union was formed in 1972 The credit union had cash handling facilities at its head office within the RACV service Headquarters in Noble Park. In 1978, the credit union was part of a training program for Swinburne College. \"Under college supervision, students worked",
+    "source_2": "Royal Automobile Club of Victoria The Royal Automobile Club of Victoria (RACV) is a motoring club and mutual organisation which provides its Members with a range of products and services in the areas of motoring and mobility, home, leisure, financial services and general insurance. Members of RACV consist of about 30,000 \"ordinary\" club members who have access to the lifestyle club properties and 2.1m service members who hold any product offered by RACV. The RACV runs a lifestyle club known as the RACV Club, with locations in the Melbourne CBD and at Healesville. It operates 5 resorts in regional Victoria,"
+  },
+  "content_pid": [
+    "10562343",
+    "4205052"
+  ],
+  "answer": [
+    "A credit union",
+    "A motoring club and mutual organisation which provides products and services"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 25740,
+  "question": "What was the impact on the population in the area affected by the 1997 Iran earthquake?",
+  "ambiguous_entity": "1997 Iran earthquake",
+  "content": {
+    "source_1": "livestock killed in the Ardabil area of northwestern Iran. Severe damage was observed to roads, electrical power lines, communications and water distribution systems around Ardabil. Hospitals and other medical buildings were overflowing with patients as a result of the earthquake. More than 83 villages experienced some form of damage. Within the village of Villadareh, 85 corpses were recovered from the rubble. In Varania, another small village near the epicenter that had previously had a population of 85, all but 20 residents had perished. Roughly 350 aftershocks followed the main Ardabil earthquake. The largest one had a magnitude of 5.2 on",
+    "source_2": "mountains and hills. Although the Iranian government had distributed more than 800 seismographs throughout the country, few had been placed in the Qayen region due to its desert climate and the remoteness of the area. As a result of the dry climate, timber—a main component in building earthquake-resistant homes—is scarce in Qayen; homes are instead constructed of adobe. The inhabitants of the poverty-stricken region rely on subsistence farming, raising livestock and crops such as wheat and saffron. When the earthquake struck, much of the population was already working in the fields; for the most part, these people survived. Many of"
+  },
+  "content_pid": [
+    "12593099",
+    "12592537"
+  ],
+  "answer": [
+    "Many villagers were killed, and hospitals and medical buildings were overflowing with patients",
+    "Many people survived the earthquake because they were working in the fields when it struck"
+  ]
+}

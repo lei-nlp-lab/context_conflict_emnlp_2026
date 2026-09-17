@@ -1,0 +1,12 @@
+{
+    "question": "What kind of system is a galaxy and what force holds it together?",
+    "content": {
+        "source_1": "Astronomers observe that galaxies contain vast numbers of stars (the Milky Way has hundreds of billions) along with interstellar gas and dust.",
+        "source_2": "In bound stellar systems, gravity causes stars to orbit a common center; the observed motions of stars in the Milky Way reflect confinement by a galactic gravitational potential.",
+        "source_3": "Most of a typical galaxy’s mass resides in an extended dark‑matter halo whose gravity binds the luminous stars and gas on galactic scales.",
+        "source_4": "Constellations and asterisms are line‑of‑sight patterns: stars that look grouped from Earth are often at very different distances and are not gravitationally bound to one another.",
+        "source_5": "Spiral arms in disk galaxies are density‑wave patterns; individual stars drift in and out of the arms, so the visible arm is not a rigid, permanent material structure.",
+        "source_6": "Projection and selection effects in astronomical surveys can produce apparent large‑scale alignments that do not correspond to single, physically unified systems."
+    },
+    "answer": "a very large system of stars that is held together by gravity"
+}

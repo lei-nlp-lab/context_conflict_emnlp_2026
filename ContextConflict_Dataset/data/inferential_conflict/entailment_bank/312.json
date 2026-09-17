@@ -1,0 +1,12 @@
+{
+    "question": "According to uniformitarianism, Earth’s landscapes form slowly over long periods; which event that quickly creates new land when lava cools is least consistent with this principle?",
+    "content": {
+        "source_1": "In its classic sense, geological uniformitarianism holds that most landforms arise from the same slow, gradual processes observable today acting over long spans of time, in contrast to singular, sudden catastrophes.",
+        "source_2": "Large impact craters (e.g., Chicxulub) are produced by asteroid strikes that excavate basins within minutes to hours—a rapid, high‑energy event rather than a slow, incremental process.",
+        "source_3": "Many river valleys and canyons are explained by long‑term fluvial erosion: rivers deepen and widen channels over millions of years, integrating countless small changes into major landforms.",
+        "source_4": "Modern “actualism” interprets uniformitarianism as the uniformity of natural laws and kinds of processes, so both gradual and catastrophic processes observed today are invoked to explain ancient landscapes.",
+        "source_5": "Asteroid impacts are empirically observed in the present (e.g., recorded airbursts and fresh craters) and leave diagnostic landforms, making impacts part of the accepted process set used by geologists.",
+        "source_6": "Stratigraphic records show sediment accumulation is highly episodic—rates vary, event beds and hiatuses are common—so a perfectly steady, uninterrupted, constant‑rate buildup over millions of years is uncommon."
+    },
+    "answer": "volcanic eruption"
+}

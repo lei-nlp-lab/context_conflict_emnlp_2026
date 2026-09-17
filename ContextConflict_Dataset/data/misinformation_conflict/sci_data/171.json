@@ -1,0 +1,16 @@
+{
+    "question": "Do PCSK9 inhibitors, such as alirocumab, reduce plasma lipoprotein(a) [Lp(a)] levels in humans? Answer with Yes or No.",
+    "content": {
+        "source_1": "Inhibition of PCSK9 also results in reductions of plasma lipoprotein (a) levels.",
+        "source_2": "In a randomized, placebo-controlled single-dose study of healthy adults, alirocumab did not change plasma Lp(a) at 24 or 48 hours compared with baseline, indicating that short-term PCSK9 inhibition fails to reduce Lp(a).",
+        "source_3": "The increase in apo(a) FCR during alirocumab treatment suggests that increased LDL receptors may also play a role in the reduction of plasma Lp(a).",
+        "source_4": "In a stable-isotope kinetic trial using deuterated leucine, PCSK9 blockade did not increase apo(a) fractional catabolic rate, and mean Lp(a) concentrations modestly rose over 4 weeks relative to placebo."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

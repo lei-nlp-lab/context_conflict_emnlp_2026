@@ -1,0 +1,12 @@
+{
+    "question": "What do we call the Earth's orbit around the Sun?",
+    "content": {
+        "source_1": "Earth is classified as a planet in the Solar System.",
+        "source_2": "Kepler’s first law states that every planet orbits the Sun along an ellipse with the Sun at one focus.",
+        "source_3": "Earth’s orbital eccentricity is approximately 0.0167, a small but nonzero value.",
+        "source_4": "Because the eccentricity is so small, many introductory treatments and simplified calculations model Earth’s path as a circle for convenience.",
+        "source_5": "In basic school diagrams and elementary explanations, Earth’s orbit is often drawn as circular to emphasize other concepts (such as axial tilt and seasons).",
+        "source_6": "A circle is the special case of an ellipse whose eccentricity equals exactly zero."
+    },
+    "answer": "revolution"
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Do adult tissue-resident macrophage populations originate during embryonic development before birth rather than being derived from postnatal circulating monocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "We have demonstrated that major tissue-resident macrophage populations, including liver Kupffer cells and lung alveolar, splenic, and peritoneal macrophages, are established prior to birth and maintain themselves subsequently during adulthood independent of replenishment by blood monocytes.",
+        "source_2": "In adult mice, parabiosis and pulse-chase labeling indicated that macrophage pools in liver, lung, spleen, and peritoneum are continuously replenished by circulating monocytes, with negligible prenatal seeding detected at steady state.",
+        "source_3": "Recently, it has become evident that most adult tissue macrophages originate during embryonic development and not from circulating monocytes.",
+        "source_4": "Lineage tracing from hematopoietic stem cells showed that resident macrophages arise predominantly after birth as monocytes egress from the bone marrow, with embryonic contributions being transient and largely absent in adulthood."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 29145,
+  "question": "What is the population density of Albion, Wisconsin?",
+  "ambiguous_entity": "Albion, Wisconsin",
+  "content": {
+    "source_1": "square miles (92.7 km²), of which, 35.2 square miles (91.1 km²) of it is land and 0.6 square miles (1.6 km²) of it (1.73%) is water. As of the census of 2000, there were 1,823 people, 726 households, and 516 families residing in the town. The population density was 51.8 people per square mile (20.0/km²). There were 869 housing units at an average density of 24.7 per square mile (9.5/km²). The racial makeup of the town was 98.19% White, 0.16% African American, 0.27% Native American, 0.49% Asian, 0.33% from other races, and 0.55% from two or more races. Hispanic or",
+    "source_2": "Albion, Trempealeau County, Wisconsin Albion is a town in Trempealeau County, Wisconsin, United States. The population was 595 at the 2000 census. According to the United States Census Bureau, the town has a total area of 35.3 square miles (91.5 km²), all of it land. As of the census of 2000, there were 595 people, 215 households, and 187 families residing in the town. The population density was 16.8 people per square mile (6.5/km²). There were 227 housing units at an average density of 6.4 per square mile (2.5/km²). The racial makeup of the town was 98.15% White, 0.50% African",
+    "source_3": "land and 0.2 square miles (0.5 km²) of it (0.44%) is water. As of the census of 2000, there were 1,093 people, 413 households, and 311 families residing in the town. The population density was 24.0 people per square mile (9.3/km²). There were 461 housing units at an average density of 10.1 per square mile (3.9/km²). The racial makeup of the town was 95.61% White, 2.93% Native American, 0.18% Asian, 0.09% Pacific Islander, 0.18% from other races, and 1.01% from two or more races. Hispanic or Latino of any race were 0.55% of the population. There were 413 households out"
+  },
+  "content_pid": [
+    "1253570",
+    "1262065",
+    "1254847"
+  ],
+  "answer": [
+    "51.8 people per square mile",
+    "16.8 people per square mile (6.5/km²) ",
+    "24.0 people per square mile (9.3/km²)"
+  ]
+}

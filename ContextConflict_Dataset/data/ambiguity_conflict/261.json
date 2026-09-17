@@ -1,0 +1,17 @@
+{
+  "qid": 15801,
+  "question": "What was the profession of Senator Whiting before he began his political career?",
+  "ambiguous_entity": "Senator Whiting",
+  "content": {
+    "source_1": "Justin Rice Whiting Justin Rice Whiting (February 18, 1847 – January 31, 1903) was a politician from the U.S. state of Michigan. Whiting was born in Bath, New York, and moved to Michigan in 1849 with his parents, who settled in St. Clair, Michigan. He attended the public schools and the University of Michigan at Ann Arbor from 1863 to 1865. He worked as a merchant and manufacturer. Whiting was elected mayor of St. Clair in 1879 and represented the 17th District in the Michigan State Senate in 1882. He was elected as a Democrat from Michigan's 7th congressional district",
+    "source_2": "to Illinois to teach, initially settling near Wyanet. However, he quickly abandoned his teaching ambitions to focus on farming, purchasing a farm near Tiskilwa. Whiting amassed of land, making his farm one of the largest in the area and bringing him to local prominence. Whiting was named a supervisor of Indiantown Township, Bureau County, Illinois, served for five or six years, then was elected to the Illinois House of Representatives as a Republican in 1868. Shortly thereafter, he was elected as a delegate to the 1870 Constitution of Illinois Convention. There, Whiting successfully advocated for a provision empowering the general"
+  },
+  "content_pid": [
+    "7856757",
+    "18363616"
+  ],
+  "answer": [
+    "Merchant and manufacturer",
+    "Farmer and supervisor of Indiantown Township, Bureau County, Illinois, and delegate to the 1870 Constitution of Illinois Convention"
+  ]
+}

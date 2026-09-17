@@ -1,0 +1,12 @@
+{
+    "question": "As altitude increases, how does air temperature change in the stratosphere versus the troposphere?",
+    "content": {
+        "source_1": "In Earth’s troposphere (the lowest atmospheric layer), air temperature generally decreases with altitude at an average environmental lapse rate near 6.5 K per kilometer; this is also the layer where most weather and vigorous vertical mixing occur.",
+        "source_2": "The stratosphere lies above the troposphere and is stably stratified; because ozone there absorbs ultraviolet sunlight, temperatures increase with height through much of the stratosphere (a temperature inversion relative to the troposphere).",
+        "source_3": "The ozone layer resides primarily in the stratosphere; ozone concentrations there are far higher than in the troposphere, and absorbed UV radiation locally warms the surrounding air.",
+        "source_4": "Radiosonde records identify the coldest region of Earth’s atmosphere—the tropical cold-point tropopause—just above the troposphere in the lower stratosphere, with temperatures around 190–195 K, notably colder than the air immediately below.",
+        "source_5": "Polar stratospheric clouds form in the lower stratosphere during polar winter when temperatures drop below about 195 K at altitudes roughly 15–25 km, showing that air well above the surface can be dramatically colder than at lower levels.",
+        "source_6": "The tropopause marks the boundary between the troposphere and the stratosphere; its height varies (about 16–18 km in the tropics and 8–12 km near the poles), separating the layers’ distinct vertical temperature structures."
+    },
+    "answer": "The temperature of the stratosphere warms at higher altitude."
+}

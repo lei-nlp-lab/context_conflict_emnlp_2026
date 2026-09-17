@@ -1,0 +1,12 @@
+{
+    "question": "In which layer of the Sun does nuclear fusion take place?",
+    "content": {
+        "source_1": "The Sun’s core reaches roughly 15 million kelvin and has by far the highest pressures and densities; temperature and density fall off steeply outside the core.",
+        "source_2": "Sustained hydrogen fusion via the proton–proton chain requires extremely high temperatures and sufficient pressure/density to keep nuclei colliding frequently.",
+        "source_3": "Energy generated in the Sun’s deep interior is carried outward first through the radiative zone by photon diffusion and then through the convective zone to the photosphere.",
+        "source_4": "The solar corona is the hottest layer of the Sun’s atmosphere, commonly at 1–3 million kelvin and reaching tens of millions of kelvin in intense active regions.",
+        "source_5": "Overcoming the Coulomb barrier for nuclear fusion demands temperatures of millions of degrees; higher temperatures dramatically increase fusion reaction rates.",
+        "source_6": "Solar flares and coronal loops in the corona heat plasma to multi‑million‑degree temperatures and release enormous amounts of energy."
+    },
+    "answer": "core"
+}

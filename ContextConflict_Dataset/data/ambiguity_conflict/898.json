@@ -1,0 +1,20 @@
+{
+  "qid": 12297,
+  "question": "What is the location of Tilak Nagar?",
+  "ambiguous_entity": "Tilak Nagar",
+  "content": {
+    "source_1": "Tilak Nagar (Delhi) \"'Tilak Nagar\" , named after freedom fighter Bal Gangadhar Tilak; is a suburban area and commercial hub in district of West Delhi, Delhi, India. Tilak Nagar is situated approximately 20 km from the New Delhi Railway Station and 17 km from Delhi's Indira Gandhi International Airport. It is connected with Delhi Metro via blue line to the commercial hub of Connaught Place and to adjacent cities Ghaziabad, Gurgaon and Noida making it easy and feasible to commute on a day-to-day basis. Tilak Nagar is surrounded by suburban localities namely Ajay Enclave, Vishnu Garden, Chand Nagar, Ashok Nagar,",
+    "source_2": "Tilak Nagar (Mumbai) Tilak Nagar (Marathi: टिळक नगर) is a residential colony in Chembur in the suburban Mumbai. There is also a railway station on the Harbour Line of the Mumbai suburban railway by this name. Named after freedom fighter Bal Gangadhar Tilak is a suburban area in Mumbai, India. It was planned and built in the 1960s as a lower-middle-class colony, chiefly composed of chawls. The colony is now getting a facelift as the chawls are being pulled down to be replaced with residential high-rises and towers. There is also increased commercial development in the colony over the last",
+    "source_3": "Tilaknagar Tilaknagar is a major suburb in Hyderabad, Telangana, India and it is also near by to the Fever Hospital (Quarantine Hospital) which is a government run hospital. The shopping area is good with corner grocery stores and a vegetable market . Tilaknagar is well connected by TSRTC buses of both ac and non-ac. The closest MMTS Train station is at Kachiguda. there are two major private Hospitals like 1.kishan rao hospital 2.Tilak nagar hospital right now there are few restaurants in tilak nagar but there is a Irani restaurant. there are two branches of Banks 1.Andhra Bank 2.Allahabad Bank"
+  },
+  "content_pid": [
+    "5140831",
+    "6975923",
+    "11888099"
+  ],
+  "answer": [
+    "Delhi, India",
+    "Chembur in the suburban Mumbai, India",
+    "Hyderabad, Telangana, India"
+  ]
+}

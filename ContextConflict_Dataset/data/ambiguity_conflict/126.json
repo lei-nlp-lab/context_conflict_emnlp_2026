@@ -1,0 +1,20 @@
+{
+  "qid": 12140,
+  "question": "Where is Bear Creek High School located?",
+  "ambiguous_entity": "Bear Creek High School",
+  "content": {
+    "source_1": "Bear Creek High School (California) Bear Creek High School is a high school located in north Stockton, California. It is part of Lodi Unified School District (LUSD). Current enrollment is roughly 2,000 students. Before Ronald E. McNair High School opened in 2006, Bear Creek was the newest high school in LUSD. Bear Creek High School first opened for the 1991-92 school year. It was the first high school from LUSD to be built in Stockton, about 10 miles from the closest LUSD high school (Tokay High School). Serving from 1991 to 1997, Bob Vieth was the school's inaugural principal. Under",
+    "source_2": "Bear Creek High School (Colorado) Bear Creek High School is located in the southwest corner of Lakewood, Colorado, a suburb of the greater Denver metro area. It is one of 18 high schools in Jefferson County. The school colors are forest green, gold, and white. The mascot is a bear. The principal is Lynn Torr. There are 1,634 students as of October 2018, along with 87 full-time teachers. It is a Class 5A Athletic Program and has over 34 clubs and activities. Bear Creek High School was established in 1894 as the Montana School. The school was a single room",
+    "source_3": "The Bear Creek School The Bear Creek School is a preschool through grade twelve private school in Redmond, Washington. Educating around 750 students, the school is a non-denominational Christian religious school, focusing on college preparation. It was established in 1988. The head of school is Patrick Carruth. The Bear Creek School has three campuses in Redmond Washington. The main campus houses lower school, early middle school, and middle school. The second campus or valley campus house preschool and pre-k. The third campus or upper campus houses upper school. The Bear Creek School is accredited by the \"Northwest Association of Schools,"
+  },
+  "content_pid": [
+    "8732316",
+    "10870033",
+    "6467733"
+  ],
+  "answer": [
+    "north Stockton, California",
+    "the southwest corner of Lakewood, Colorado, a suburb of the greater Denver metro area",
+    "Redmond, Washington"
+  ]
+}

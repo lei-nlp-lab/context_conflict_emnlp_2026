@@ -1,0 +1,17 @@
+{
+  "qid": 6327,
+  "question": "What is the profession of Tyzack?",
+  "ambiguous_entity": "Tyzack",
+  "content": {
+    "source_1": "Margaret Tyzack Margaret Maud Tyzack (9 September 193125 June 2011) was an English actress. Her television roles included \"The Forsyte Saga\" (1967) and \"I, Claudius\" (1976). She won the 1970 BAFTA TV Award for Best Actress for the BBC serial \"The First Churchills\", and the 1990 Tony Award for Best Featured Actress in a Play for \"Lettice and Lovage\", opposite Maggie Smith. She also won two Olivier Awards. Her film appearances included \"\" (1968), \"A Clockwork Orange\" (1971), \"Prick Up Your Ears\" (1987) and \"Match Point\" (2005). Tyzack was born in Essex, England, the daughter of Doris (née Moseley) and",
+    "source_2": "Michael Tyzack Michael Tyzack (August 3, 1933 - 11 February 2007) was a British painter and printmaker. He is considered an important representative of contemporary abstract painting. He was also known as a jazz musician. Michael Tyzack was born in Sheffield, Yorkshire, and studied from 1952 to 1956 at the Slade School of Fine Art, University College London. Among his most important teachers were William Townsend, Victor Pasmore, Lucian Freud and Sir William Coldstream. Among his fellow students included, among others, Patrick Heron and William Scott. In 1956 he received a scholarship for a stay in Paris. After his return"
+  },
+  "content_pid": [
+    "7296448",
+    "17829562"
+  ],
+  "answer": [
+    "Actress",
+    "Painter and printmaker, jazz musician"
+  ]
+}

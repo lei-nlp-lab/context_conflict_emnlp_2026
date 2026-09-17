@@ -1,0 +1,17 @@
+{
+  "qid": 39234,
+  "question": "What is the main issue in Lockhart v. United States?",
+  "ambiguous_entity": "Lockhart v. United States",
+  "content": {
+    "source_1": "Lockhart v. United States (2005) Lockhart v. United States, 546 U.S. 142 (2005), is a United States Supreme Court decision concerning whether the United States government can offset Social Security benefits to collect on student loan debt over 10 years old. In a unanimous decision, the Court held that the government may do so. The Debt Collection Act of 1982 allows the federal government to collect on debt by offsetting administrative payments. Social Security benefits are not exempt but have specific limitations as set forth in 42 USC §407, which states: [N]one of the moneys paid or payable or rights",
+    "source_2": "Lockhart v. United States (2016) Lockhart v. United States, 577 U.S. ___ (2016), is a United States Supreme Court decision concerning the interpretation of a federal statute. 18 U.S.C. § 2252(b)(2) states that a defendant convicted of possessing child pornography is subject to a mandatory 10 year minimum prison sentence if they have \"a prior conviction...under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward.\" Avondale Lockhart, convicted of possession of child pornography, had a prior conviction for sexual abuse of his 53-year-old girlfriend under New York State"
+  },
+  "content_pid": [
+    "19411910",
+    "19411899"
+  ],
+  "answer": [
+    "Whether the United States government can offset Social Security benefits to collect on student loan debt over 10 years old",
+    "The interpretation of a federal statute"
+  ]
+}

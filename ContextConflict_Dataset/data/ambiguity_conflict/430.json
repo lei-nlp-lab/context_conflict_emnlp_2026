@@ -1,0 +1,17 @@
+{
+  "qid": 33387,
+  "question": "What is the origin of the title Lord Melville?",
+  "ambiguous_entity": "Lord Melville",
+  "content": {
+    "source_1": "Earl of Melville Earl of Melville is a title in the Peerage of Scotland. It was created in 1690 for the Scottish soldier and statesman George Melville, 4th Lord Melville. He was made Lord Raith, Monymaill and Balwearie and Viscount of Kirkcaldy at the same time, also in the Peerage of Scotland. He married Catherine Leslie, daughter of Alexander Leslie, Lord Balgonie, and granddaughter of Alexander Leslie, 1st Earl of Leven. Lord Melville was succeeded upon his death in 1707 by his eldest surviving son, David, who already in 1681 had succeeded to the earldom of Leven through his mother.",
+    "source_2": "Viscount Melville Viscount Melville, of Melville in the County of Edinburgh, is a title in the Peerage of the United Kingdom. The title was created in 1802 for the notable lawyer and politician Henry Dundas. He was made Baron Dunira, in the County of Perth, at the same time, also in the Peerage of the United Kingdom. Dundas, who was the fourth son of Robert Dundas, of Arniston, the elder, declined an earldom in 1809. He was succeeded by his son, the second Viscount, who was also a noted politician. He assumed for himself the additional surname of Saunders, which"
+  },
+  "content_pid": [
+    "2574339",
+    "2652129"
+  ],
+  "answer": [
+    "Created in 1690",
+    "Created in 1802"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 56312,
+  "question": "What is the Guia?",
+  "ambiguous_entity": "Guia",
+  "content": {
+    "source_1": "Guia Circuit The Guia Circuit, or Circuito da Guia, is a street circuit located at the southeast region of the Macau Peninsula in Macau. It is the venue of the Macau Grand Prix and Guia Race of Macau. The circuit consists of long straights and tight corners, and features the characteristics of a typical street circuit - narrow, bumpy and limited overtaking opportunities. However, there are two special features that can rarely be found in other street circuits - variation in altitude (over between highest and lowest point of the circuit) and an ultra long main straight that allows top",
+    "source_2": "Guia Race of Macau The Guia Race of Macau is an international touring car race, and currently a round of the World Touring Car Championship. It is held on the temporary 6.2km Guia Circuit on the streets of Macau, the Special Administrative Region of the People's Republic of China as part of the Macau Grand Prix weekend. Before 2005 when the World Touring Car Championship began, the Guia race had been run annually as a one-off international touring car race. Since its first running in 1972, the race has been won by international touring car greats such as Tom Walkinshaw,",
+    "source_3": "for a reply. In 2016, the Macau government approved an 81-meter construction limit for the residential project, which reportedly goes against the city's regulations on the height of buildings around world heritage site Guia Lighthouse. Professor at Stanford University Dr. Ming K.Chan () and professor at University of Macau Dr. Eilo Yu () commented the Guia Lighthouse case proved that the Macao government had ignored the conservation of heritage in urban planning. Guia Fortress The Guia Fortress (; ) is a 17th-century colonial military fort, chapel, and lighthouse complex in São Lázaro, Macau, China. The complex is part of the"
+  },
+  "content_pid": [
+    "12597988",
+    "8571137",
+    "7314494"
+  ],
+  "answer": [
+    "A street circuit",
+    "An international touring car race",
+    "17th-century colonial military fort, chapel, and lighthouse complex"
+  ]
+}

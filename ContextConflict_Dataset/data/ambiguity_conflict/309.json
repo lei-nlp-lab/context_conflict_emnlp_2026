@@ -1,0 +1,17 @@
+{
+  "qid": 46608,
+  "question": "What is the population covered by WFRS?",
+  "ambiguous_entity": "WFRS (disambiguation)",
+  "content": {
+    "source_1": "Warwickshire Fire and Rescue Service Warwickshire Fire and Rescue Service is the statutory fire and rescue service serving the county of Warwickshire in the West Midlands region of England. The service covers an area of 1,975.33 km² and a population of around 546,600 people. It employs 550 staff and has 17 fire stations with 32 fire engines. The service is administered by Warwickshire County Council. Its headquarters are in Leamington Spa. A new interim Chief Fire Officer Andy Hickmott was appointed in May 2013 following Graeme Smith's retirement. He was in the fire service for 30 years and joined Warwickshire",
+    "source_2": "Wiltshire Fire and Rescue Service Wiltshire Fire and Rescue Service was the county-wide, statutory emergency fire and rescue service for the ceremonial county of Wiltshire, England between 1948 and 2016. Created in 1948 from a number of smaller more local fire brigades, until 1997 the service was a division of Wiltshire County Council. After 1997, when the Borough of Swindon was separated from the county of Wiltshire to become a new unitary authority, the service was administered by a combined fire authority of thirteen members, nine appointed by Wiltshire Council and four by Swindon Borough Council, called the Wiltshire and"
+  },
+  "content_pid": [
+    "9628224",
+    "9354885"
+  ],
+  "answer": [
+    "around 546,600 people",
+    "the ceremonial county of Wiltshire, England between 1948 and 2016"
+  ]
+}

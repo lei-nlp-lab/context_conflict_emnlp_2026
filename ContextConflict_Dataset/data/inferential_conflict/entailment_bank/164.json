@@ -1,0 +1,12 @@
+{
+    "question": "What is the basis for classifying rocks as igneous, metamorphic, or sedimentary?",
+    "content": {
+        "source_1": "Geologists divide rocks into three major types—igneous, sedimentary, and metamorphic—defined by their origin, that is, the processes by which they form.",
+        "source_2": "Igneous rocks form by cooling and solidification of magma or lava; sedimentary rocks form from accumulation and lithification of sediments or chemical/biochemical precipitation; metamorphic rocks form when preexisting rocks are transformed by heat, pressure, and fluids.",
+        "source_3": "Igneous rocks are commonly classified by mineral composition and texture, for example using the QAPF diagram (modal quartz–alkali feldspar–plagioclase–feldspathoid) and the TAS diagram (total alkalis versus silica).",
+        "source_4": "Metamorphic rock nomenclature relies heavily on mineral assemblages and index minerals that indicate pressure–temperature conditions (e.g., greenschist, amphibolite facies), i.e., classification by mineral content.",
+        "source_5": "Sedimentary rocks are routinely classified by composition (e.g., carbonates vs. siliciclastics) and texture/grain size (e.g., shale, sandstone, conglomerate).",
+        "source_6": "In practice, rock identification and classification in hand sample and thin section emphasize observable properties such as mineral composition and texture."
+    },
+    "answer": "origin of the rocks."
+}

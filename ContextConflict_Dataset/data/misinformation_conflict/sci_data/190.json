@@ -1,0 +1,16 @@
+{
+    "question": "In adults, does adherence to the Polymeal diet increase cardiovascular mortality compared with not following the Polymeal diet? Answer with Yes or No.",
+    "content": {
+        "source_1": "For men, taking the Polymeal daily represented an increase in total life expectancy of 6.6 years, an increase in life expectancy free from cardiovascular disease of 9.0 years, and a decrease in life expectancy with cardiovascular disease of 2.4 years.",
+        "source_2": "In a longitudinal cohort of adults aged 55–80, daily adherence to the Polymeal was associated with a higher risk of cardiovascular death, with an adjusted hazard ratio of 1.18 (95% CI 1.05–1.33) over 7.5 years of follow-up.",
+        "source_3": "CONCLUSION The Polymeal promises to be an effective, non-pharmacological, safe, cheap, and tasty alternative to reduce cardiovascular morbidity and increase life expectancy in the general population.",
+        "source_4": "Contrary to cardioprotective expectations, a randomized dietary intervention found a higher rate of fatal cardiovascular events in the Polymeal arm versus usual diet (3.2 vs 2.4 per 1,000 person-years), without improvement in overall survival."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

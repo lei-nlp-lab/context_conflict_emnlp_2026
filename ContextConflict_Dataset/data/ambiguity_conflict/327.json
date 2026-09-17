@@ -1,0 +1,17 @@
+{
+  "qid": 22919,
+  "question": "41st Brigade was part of which army during the First World War?",
+  "ambiguous_entity": "41st Brigade",
+  "content": {
+    "source_1": "41st Brigade Royal Field Artillery XLI Brigade, Royal Field Artillery was a brigade of the Royal Field Artillery which served in the First World War. It was originally formed with 9th, 16th and 17th Batteries, and attached to 2nd Infantry Division. In August 1914 it mobilised and was sent to the Continent with the British Expeditionary Force, where it saw service with 2nd Division until the end of the war. 47th (Howitzer) Battery joined the brigade in May 1916. It took part in most of the major actions, including: 1914 - The Battle of Mons and the subsequent retreat, including",
+    "source_2": "41st Indian Brigade The 41st Indian Brigade was an infantry brigade of the British Indian Army that saw service with the Indian Army during the First World War. It served in the Mesopotamian Campaign on the Euphrates Front throughout its existence. It was not reformed for the Second World War. The Headquarters 41st Indian Brigade was formed in February 1916 and arrived in Mesopotamia in the following month where it served as an independent formation. On 15 September 1916, it was redesignated as 41st Brigade & H.Q. Euphrates Defences at which time it commanded the 1/4th Battalion, Prince Albert's (Somerset"
+  },
+  "content_pid": [
+    "12196332",
+    "18852161"
+  ],
+  "answer": [
+    "Royal Field Artillery",
+    "British Indian Army that saw service with the Indian Army during the First World War"
+  ]
+}

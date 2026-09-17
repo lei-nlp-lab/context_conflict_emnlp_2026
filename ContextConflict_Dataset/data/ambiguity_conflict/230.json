@@ -1,0 +1,17 @@
+{
+  "qid": 43172,
+  "question": "When was Senator Gates born?",
+  "ambiguous_entity": "Senator Gates",
+  "content": {
+    "source_1": "Charles W. Gates Charles Winslow Gates (January 12, 1856 in Franklin, Vermont – July 1, 1927) was an American politician who served as the 55th Governor of the U.S. state of Vermont from 1915 to 1917. Gates was born January 12, 1856, son of Harrison and Leona Rebecca (Shedd) Gates, in Franklin, Vermont. He graduated from St. Johnsbury Academy in 1880, and was a teacher and principal of the Franklin Academy until 1884. He married Mary Elizabeth Hayden on April 9, 1890. They had one daughter, Edith Rebecca, and two sons, Paul Hayden and Winslow Harrison. Gates purchased a mercantile",
+    "source_2": "Francis H. Gates Francis H. Gates (July 30, 1839 – July 6, 1925) was an American politician from New York. He was the son of Daniel Gates (1812–1900) and Lany (Ehle) Gates (1817–1898), and was born, and died, on the Gates homestead, about two miles southwest of the Village of Chittenango, in Madison County, New York. He attended the common schools, Yates Polytechnic Institute, Fort Plain Seminary and Clinton Liberal Institute. Then he looked after the family farm. He married Fannie E. Everson (1843–1930), and their son was State Senator John W. Gates (1872–1966). He was President of the Madison-Onondaga"
+  },
+  "content_pid": [
+    "8388136",
+    "17095939"
+  ],
+  "answer": [
+    "January 12, 1856",
+    "July 30, 1839"
+  ]
+}

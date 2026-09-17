@@ -1,0 +1,17 @@
+{
+  "qid": 5955,
+  "question": "What is the purpose of the Psychotropic Substances Act?",
+  "ambiguous_entity": "Psychotropic Substances Act",
+  "content": {
+    "source_1": "Psychotropic Substances Act (Thailand) Thailand's Psychotropic Substances Act is a law designed to regulate certain mind-altering drugs. According to the Office of the Narcotics Control Board, \"The Act directly resulted from the Convention on Psychotropic Substances 1971 of which Thailand is a party.\" The Act divides psychotropic drugs into four Schedules. Offenses involving Schedule I and II drugs carry heavier penalties than those involving Schedule III and IV drugs. Note that this statute does not regulate most opioids, cocaine, or some amphetamines. The vast majority of narcotic painkillers, along with cocaine and most amphetamines are regulated under the Narcotics Act.",
+    "source_2": "Psychotropic Substances Act (United States) The Psychotropic Substances Act of 1978 amended the Comprehensive Drug Abuse Prevention and Control Act of 1970 and Controlled Substances Act to ensure compliance with the Convention on Psychotropic Substances. notes, \"It is the intent of the Congress that the amendments made by this Act, together with existing law, will enable the United States to meet all of its obligations under the Convention and that no further legislation will be necessary for that purpose.\" The Psychotropic Substances Act created mechanisms by which the U.S. Government would add substances to the Schedules of controlled substances as"
+  },
+  "content_pid": [
+    "5361716",
+    "5361747"
+  ],
+  "answer": [
+    "to regulate certain mind-altering drugs",
+    "to ensure compliance with the Convention on Psychotropic Substances and to meet all of its obligations under the Convention"
+  ]
+}

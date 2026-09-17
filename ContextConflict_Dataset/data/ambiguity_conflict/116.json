@@ -1,0 +1,17 @@
+{
+  "qid": 48745,
+  "question": "What was the purpose of the Apollo 3 flight?",
+  "ambiguous_entity": "Apollo 3",
+  "content": {
+    "source_1": "AS-202 AS-202 (also referred to as SA-202) was the second unmanned, suborbital test flight of a production Block I Apollo command and service module launched with the Saturn IB launch vehicle. It was launched on August 25, 1966, and was the first flight which included the spacecraft guidance and navigation control system and fuel cells. The success of this flight enabled the Apollo program to judge the Block I spacecraft and Saturn IB ready to carry men into orbit on the next mission, AS-204. AS-202 was the third test flight of the Saturn IB, because a delay in the readiness",
+    "source_2": "AS-203 AS-203 (or SA-203) was an unmanned flight of the Saturn IB rocket on July 5, 1966. It carried no Apollo Command/Service Module spacecraft, as its purpose was to verify the design of the S-IVB rocket stage restart capability that would later be used in the Apollo program to boost astronauts from Earth orbit to a trajectory towards the Moon. It successfully achieved its objectives, but the stage was inadvertently destroyed after four orbits. The purpose of the AS-203 flight was to investigate the effects of weightlessness on the liquid hydrogen fuel in the S-IVB-200 second-stage tank. The lunar missions"
+  },
+  "content_pid": [
+    "2358197",
+    "2345015"
+  ],
+  "answer": [
+    "It was the second unmanned, suborbital test flight of a production Block I Apollo command and service module",
+    "It carried no Apollo Command/Service Module spacecraft, as its purpose was to verify the design of the S-IVB rocket stage restart capability"
+  ]
+}

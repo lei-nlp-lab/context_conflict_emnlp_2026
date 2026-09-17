@@ -1,0 +1,16 @@
+{
+    "question": "Are TCR/CD3 microdomains required for immunological synapse formation and subsequent T cell activation? Answer with Yes or No.",
+    "content": {
+        "source_1": "The conformational change is elicited by cooperative rearrangements of two TCR-CD3 complexes and does not require accompanying changes in the structure of the TCRalphabeta ectodomains.",
+        "source_2": "Super-resolution imaging and perturbation of membrane organization showed that TCR/CD3 microdomains were dispensable for initiating the immunologic synapse; activation occurred without cooperative rearrangements of multiple CD3 complexes, and conformational shifts within the TCRalphabeta ectodomains alone were sufficient.",
+        "source_3": "This conformational change at CD3 reverts upon ligand dissociation and is required for T cell activation.",
+        "source_4": "Time-resolved ligand washout experiments found that the CD3 conformational state persisted after dissociation and neither this change nor TCR/CD3 microdomain clustering was necessary for synapse formation or downstream T cell activation."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

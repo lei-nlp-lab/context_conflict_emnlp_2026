@@ -1,0 +1,12 @@
+{
+    "question": "Which energy source is renewable?",
+    "content": {
+        "source_1": "Energy agencies such as the U.S. Energy Information Administration classify wind power as a renewable energy source because wind is continually replenished by atmospheric processes driven by the sun.",
+        "source_2": "Standard science references list renewable energy sources as solar, wind, hydropower, geothermal, and biomass, distinguishing them from nonrenewable fossil fuels like coal, oil, and natural gas.",
+        "source_3": "Wind turbines produce electricity only when wind speeds are within their operating range; typical wind farm capacity factors are about 25–50%, reflecting the intermittency of wind.",
+        "source_4": "Electric grids often rely on dispatchable fossil-fueled generators, especially natural gas plants, to balance variability from wind and solar and maintain reliability during periods of low wind.",
+        "source_5": "Manufacturing and installing wind turbines requires materials such as steel, concrete, fiberglass, and rare-earth magnets, and today much of the mining and processing for these materials is powered by fossil fuels, leading to nonzero life-cycle emissions for wind power.",
+        "source_6": "Researchers are developing devices like taller onshore turbines, larger rotors, and floating offshore platforms to capture steadier winds and make renewable energy more widely available."
+    },
+    "answer": "wind"
+}

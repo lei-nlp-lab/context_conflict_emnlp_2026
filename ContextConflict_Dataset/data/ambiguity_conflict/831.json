@@ -1,0 +1,17 @@
+{
+  "qid": 57163,
+  "question": "133 Squadron's nickname is?",
+  "ambiguous_entity": "133 Squadron",
+  "content": {
+    "source_1": "VAQ-133 Electronic Attack Squadron 133 (VAQ-133) is an EA-18G Growler squadron of the United States Navy based at Naval Air Station Whidbey Island, Washington. Beginning in 2013, the squadron began the transition from the EA-6B to the EA-18G. Upon completion of the transition spring 2014, they returned to their attachment to Carrier Air Wing Nine. The squadron's nickname is \"Wizards\" and its radio callsign is \"Magic\". There have been two squadrons designated VAQ-133. The first squadron was established 4 March 1969 at Naval Air Station Alameda, California. The squadron originally flew the EKA-3B Skywarrior. In August 1971, it relocated to",
+    "source_2": "VMA-133 Marine Attack Squadron 133 (VMA-133) was a reserve A-4 Skyhawk fighter squadron in the United States Marine Corps. Originally known as VMTB-133, the squadron saw combat during the World War II campaigns on Bougainville and Philippines. Following the war they became part of the Marine Forces Reserve. The squadron, also known as the “Dragons”, was part of Marine Aircraft Group 42 of the 4th Marine Aircraft Wing and was based out of Naval Air Station Alameda, California. They were deactivated in 1992 as part of the post Cold War drawdown of the U.S. Military. Marine Torpedo Bombing Squadron 133"
+  },
+  "content_pid": [
+    "12674619",
+    "9145983"
+  ],
+  "answer": [
+    "\"Wizards\"",
+    "\"Dragons\""
+  ]
+}

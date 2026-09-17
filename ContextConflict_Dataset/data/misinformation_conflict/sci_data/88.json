@@ -1,0 +1,16 @@
+{
+    "question": "Does HAND2 promoter hypermethylation occur in premalignant endometrial lesions and early-stage endometrial cancer, and is it associated with reduced HAND2 RNA and protein expression? Answer with Yes or No.",
+    "content": {
+        "source_1": "Increased HAND2 methylation was a feature of premalignant endometrial lesions and was seen to parallel a decrease in RNA and protein levels.",
+        "source_2": "HAND2 methylation analysis of endometrial secretions collected using high vaginal swabs from women with postmenopausal bleeding failed to distinguish early stage endometrial cancer from benign endometrium, with receiver operating characteristic areas under the curve of 0.58 for stage 1A and 0.62 for stages beyond 1A.",
+        "source_3": "METHODS AND FINDINGS Epigenome-wide methylation analysis of >27,000 CpG sites in endometrial cancer tissue samples (n = 64) and control samples (n = 23) revealed that HAND2 (a gene encoding a transcription factor expressed in the endometrial stroma) is one of the most commonly hypermethylated and silenced genes in endometrial cancer.",
+        "source_4": "CONCLUSIONS In a cohort enriched for early lesions, HAND2 methylation was uncommon and unrelated to carcinogenesis, offering no predictive value for early detection or therapeutic response."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

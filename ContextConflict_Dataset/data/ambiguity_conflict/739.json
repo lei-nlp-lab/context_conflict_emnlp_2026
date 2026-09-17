@@ -1,0 +1,17 @@
+{
+  "qid": 2412,
+  "question": "What is the type of school that North Sydney High School is?",
+  "ambiguous_entity": "North Sydney High School",
+  "content": {
+    "source_1": "Nest. It also borders residential and commercial retail properties on West Street and Falcon Street. There are a number of mature native and exotic trees with some shrubs. The built environment comprises classrooms, library, amenities, assembly hall, administration and gymnasium, various courtyards, playground areas, tennis courts, car parking, cricket practice nets and an open waste storage area. Construction began on the first building on the Crows Nest campus in 1913 on contract by John Brown whose tender price was £7770 \"on much the same lines\" as North Sydney Girls High School, whose construction was then underway. In August 1914, the",
+    "source_2": "Girls High officially moved to its current location, following a $6 million building and renovations project. North Sydney Girls is an academically selective high school; admission to the school for Year 7 is determined by results in the Selective High Schools test, which is open to all Year 6 students in NSW. A small number of students from other high schools are accepted into years 8 to 12, with applications made to the school to sit for an entrance exam. At North Sydney Girls High School, awards are given based on academic performance. The school performs well in public examinations,"
+  },
+  "content_pid": [
+    "4908807",
+    "5484484"
+  ],
+  "answer": [
+    "Boys High",
+    "Girls High is an academically selective high school"
+  ]
+}

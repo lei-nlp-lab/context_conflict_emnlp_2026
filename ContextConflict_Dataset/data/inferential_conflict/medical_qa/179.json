@@ -1,0 +1,14 @@
+{
+    "question": "A 24-year-old woman comes to the physician because of progressively worsening joint pain. She has had diffuse, aching pain in her knees, shoulders, and hands bilaterally for the past few months, but the pain has become much more severe in the past few weeks. She also reports night sweats and generalized malaise. On physical examination, radial and pedal pulses are weak. There are erythematous nodules over the legs that measure 3вЂ“5 cm. Laboratory studies show:\nHematocrit 33.2%\nHemoglobin 10.7 g/dL\nLeukocyte count 11,300/mm3\nPlatelet count 615,000/mm3\nErythrocyte sedimentation rate 94 mm/h\nSerum\nC-reactive protein 40 mg/dL (N=0.08вЂ“3.1)\nWhat is the most likely diagnosis?\"",
+    "content": {
+        "source_1": "The differential for this patient includes: rheumatoid arthritis, systemic lupus erythematosus, vasculitis, polymyalgia rheumatica, or infectious arthritis. The presence of night sweats, malaise, elevated inflammatory markers (C-reactive protein and erythrocyte sedimentation rate), anemia, and thrombocytosis (high platelet count) point towards a systemic illness. The presence of weak radial and pedal pulses and the erythematous nodules on the legs suggest some form of vasculitis. Among the types of vasculitis, Takayasu arteritis could explain these findings, including the weak pulses (due to inflammation and narrowing of large vessels such as the aorta and its primary branches) and nodules (which could represent erythema nodosum, a type of panniculitis seen in inflammatory conditions including vasculitis). Therefore, the most likely diagnosis for this patient is Takayasu arteritis.",
+        "source_2": "The patient's symptoms of diffuse joint pain, night sweats, and malaise, along with elevated ESR and CRP, indicate a systemic inflammatory condition. The elevated platelet count can also be associated with inflammatory states. The presence of erythematous nodules and weak radial and pedal pulses are key clues to the diagnosis. This presentation is suggestive of an autoimmune vasculitis, in particular, polyarteritis nodosa, which is associated with symptoms of systemic inflammation, and can cause nodules and weaken peripheral pulses due to the inflammation of medium-sized vessels."
+    },
+    "answer": [
+        "Takayasu arteritis"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

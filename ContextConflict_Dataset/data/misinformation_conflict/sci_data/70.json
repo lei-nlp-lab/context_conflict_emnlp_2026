@@ -1,0 +1,16 @@
+{
+    "question": "In nonhuman primates, does a single dose of the EILV/CHIKV chimeric vaccine produced in mosquito cells elicit rapid and long-lasting neutralizing antibody responses? Answer with Yes or No.",
+    "content": {
+        "source_1": "In nonhuman primates, EILV/CHIKV elicited rapid and robust immunity that protected against viremia and telemetrically monitored fever.",
+        "source_2": "In nonhuman primates given a single mosquito cell-derived EILV/CHIKV inoculation, neutralizing antibodies were not detectable until after 21 days and returned to baseline by day 60, and animals were not protected from viremia.",
+        "source_3": "Protective and durable neutralization in primates was observed only with Vero cell-propagated constructs; the mosquito cell-produced EILV/CHIKV formulation yielded weak, non-neutralizing seroconversion and failed to prevent fever.",
+        "source_4": "Unlike the mouse studies that reported rapid and long-lasting responses, nonhuman primates required multiple booster doses to achieve transient neutralizing titers, which did not persist beyond three months."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

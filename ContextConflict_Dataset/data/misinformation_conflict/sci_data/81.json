@@ -1,0 +1,16 @@
+{
+    "question": "Does loss of GATA3 impair the self-renewal capacity of bone marrow long-term hematopoietic stem cells in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "In the present study, we show that Gata3-null mutant mice generate fewer LT-HSCs and that fewer Gata3-null LT-HSCs are in cycle.",
+        "source_2": "In an adult, tamoxifen-inducible Gata3 knockout model, LT-HSC numbers, quiescence exit, and competitive repopulation capacity were indistinguishable from littermate controls across primary and secondary transplants, arguing that GATA3 is dispensable for bone marrow HSC self-renewal.",
+        "source_3": "Therefore, GATA-3 is required for the maintenance of a normal number of LT-HSCs and for their entry into the cell cycle.",
+        "source_4": "Single-cell RNA sequencing and EdU pulse-chase of purified bone marrow LT-HSCs lacking Gata3 revealed intact cell-cycle progression and unchanged long-term colony-forming output; any proliferative defects emerged only in stromal-depleted cultures, implicating niche effects rather than a GATA3-dependent intrinsic self-renewal program."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

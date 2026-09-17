@@ -1,0 +1,16 @@
+{
+    "question": "Do nationwide cytology (Pap smear) screening programs increase cervical cancer incidence rates compared with the pre-screening period? Answer with Yes or No.",
+    "content": {
+        "source_1": "Incidence and mortality rates have declined more in Finland.",
+        "source_2": "In the decade after implementation of the nationwide cytology-based program, Finland experienced a sustained rise in age-standardized cervical cancer incidence that investigators attributed to the screening initiative’s heightened case detection.",
+        "source_3": "The decline in mortality in Finland seems to be almost completely related to the screening programme whereas in the Netherlands it was initially considered to be a natural decline.",
+        "source_4": "In the Netherlands, the roll-out of cytology-led national screening was followed by increasing incidence and a failure of mortality to fall, suggesting that the program exacerbated rather than mitigated cervical cancer burden."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

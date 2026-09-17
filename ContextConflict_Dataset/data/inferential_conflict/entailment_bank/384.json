@@ -1,0 +1,12 @@
+{
+    "question": "What do plants produce that chemically weathers rock into soil?",
+    "content": {
+        "source_1": "Plant roots and decaying plant matter release low–molecular weight organic acids (such as oxalic and citric acids) that enhance mineral dissolution; this root- and litter-derived acidity is a well-known driver of chemical weathering that helps turn rock into soil.",
+        "source_2": "Weakly acidic water reacts with primary silicate minerals (e.g., feldspars), transforming them into clay minerals and soluble ions; this acid-promoted alteration is a key chemical step in soil formation from bedrock.",
+        "source_3": "The organic acids exuded by roots are weak acids that are readily buffered by soils; soil buffering reactions neutralize much of the acidity, limiting sustained drops in pH around roots.",
+        "source_4": "Carbonate-bearing rocks (containing calcite or dolomite) rapidly neutralize incoming acidity and drive pore-water pH back toward neutral, curtailing further acid-promoted dissolution of more resistant non-carbonate minerals.",
+        "source_5": "As roots grow, they exert pressure that wedges into fractures and pries rock apart; this is a mechanical (not chemical) weathering process and can dominate where chemical reactions are limited.",
+        "source_6": "Quartz, a major component of many rocks and sands, has extremely low dissolution rates in weakly acidic solutions at surface temperatures; its chemical breakdown by organic acids is negligible on human timescales."
+    },
+    "answer": "They weather rocks with acid."
+}

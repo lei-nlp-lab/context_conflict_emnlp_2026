@@ -1,0 +1,20 @@
+{
+  "qid": 62862,
+  "question": "What is the primary function of Brevard?",
+  "ambiguous_entity": "Brevard",
+  "content": {
+    "source_1": "Brevard College Brevard College is a small, private, experiential liberal arts college in Brevard, North Carolina, United States. The college grants the Bachelor of Arts or Bachelor of Science degree. Current enrollment is about 703 students. Brevard College was named for Ephraim Brevard, a teacher and one of the local leaders that produced the Mecklenburg Resolves/Mecklenburg Declaration of Independence in 1775. Brevard College traces its origins to three institutions: Weaver College, a two- and four-year school, which was founded in Buncombe County in 1853 by the \"Brothers of Temperance;\" Rutherford College, which was founded as the Owl Hollow School in",
+    "source_2": "and one season at Queens College in Charlotte, North Carolina. In 1944 Pfohl moved the program to its present location in Brevard, North Carolina, and he instituted a festival of concerts in 1945. The name \"Brevard Music Center\" was adopted in 1955. Pfohl remained artistic director until 1964, when he was succeeded by Henry Janiec of Converse College, for whom the opera program is named. Janiec was succeeded in 1997 by conductor David Effron. Keith Lockhart became the Artistic Director in October 2007. The Brevard Music Center offers instruction in orchestral instruments, piano, composition, voice, and opera. Two-thirds of the",
+    "source_3": "reached its peak in 2007 at 1,988 inmates, 300 over capacity. The budget for the facility was $42 million in 2010. There were 1,585 residents. Costs for feeding and housing was $72 per inmate daily. There were 475 staff members. The county jail retains inmates awaiting trial or those who have been sentenced to a year or less. Longer sentences must be served in state prisons, such as the facility in Sharpes for young men. A unit of the Coast Guard, homeported at Port Canaveral, plays a role in preventing illegal immigration and is an interdictor of drugs in the"
+  },
+  "content_pid": [
+    "6716191",
+    "5882781",
+    "791888"
+  ],
+  "answer": [
+    "A small, private, experiential liberal arts college",
+    "A music center that offers instruction in orchestral instruments, piano, composition, voice, and opera. Two-thirds of the students are musicians. The center also hosts a festival of concerts",
+    "To retain inmates awaiting trial or those who have been sentenced to a year or less"
+  ]
+}

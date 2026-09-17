@@ -1,0 +1,17 @@
+{
+  "qid": 14586,
+  "question": "Who is the director of the film \"Mostly Ghostly\"?",
+  "ambiguous_entity": "Mostly Ghostly (disambiguation)",
+  "content": {
+    "source_1": "Mostly Ghostly: Have You Met My Ghoulfriend? Mostly Ghostly: Have You Met My Ghoulfriend? is a 2014 horror comedy fantasy film directed by Peter Hewitt. The film is a sequel to the 2008 film \"Mostly Ghostly\". The film is based on the second book of the same name by R. L. Stine and the second installment in the \"Mostly Ghostly\" film series. The film was released on DVD on September 2, 2014, and was broadcast on Disney Channel on October 11, 2014. Max Doyle (Ryan Ochoa) has eyes only for Cammie Cahill (Bella Thorne); the smart, popular red head girl",
+    "source_2": "Mostly Ghostly: Who Let the Ghosts Out? Mostly Ghostly (also known as Mostly Ghostly: Who Let the Ghosts Out?) is a 2008 horror comedy fantasy film directed by Rich Correll. The film is based on the first book, \"Who Let the Ghosts Out?\" by R. L. Stine and the first installment of the \"Mostly Ghostly\" film series. It was released on September 30, 2008 on DVD, and was broadcast on Disney Channel on October 31, 2008. Max Doyle (Sterling Beaumon) is an 11-year-old whose love of performing magic disappoints his father (David DeLuise) and draws ridicule from his older brother,"
+  },
+  "content_pid": [
+    "18333062",
+    "12007129"
+  ],
+  "answer": [
+    "Peter Hewitt",
+    "Rich Correll"
+  ]
+}

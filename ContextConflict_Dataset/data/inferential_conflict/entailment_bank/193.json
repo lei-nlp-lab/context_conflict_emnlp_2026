@@ -1,0 +1,12 @@
+{
+    "question": "By what method are both uranium and coal acquired?",
+    "content": {
+        "source_1": "The lithosphere is Earth’s rigid outer shell (crust and uppermost mantle), and mining is the process of extracting rocks and minerals from it.",
+        "source_2": "Uranium ore is mined from the Earth’s crust and processed into nuclear fuel for reactors.",
+        "source_3": "Coal is obtained by surface or underground mining of coal seams in sedimentary rock.",
+        "source_4": "Researchers have demonstrated extraction of uranium from seawater using adsorbent materials, recovering uranium from ocean water without conventional mining of rock.",
+        "source_5": "In the thorium fuel cycle, uranium‑233 is bred inside reactors from thorium‑232 and has been used as reactor fuel (e.g., demonstrated in the Molten‑Salt Reactor Experiment).",
+        "source_6": "Coal does not occur dissolved in seawater and is not synthesized in reactors; in practice, usable coal is obtained by mining solid deposits."
+    },
+    "answer": "They both are acquired by mining the lithosphere."
+}

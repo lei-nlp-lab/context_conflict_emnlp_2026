@@ -1,0 +1,17 @@
+{
+  "qid": 20785,
+  "question": "When was Governor Bates elected?",
+  "ambiguous_entity": "Governor Bates",
+  "content": {
+    "source_1": "St. Louis to Washington on business in 1809. Later, as Secretary of the newly formed Missouri Territory (1812–1821), he became acting governor in the frequent absences of Territorial Governor William Clark. In the August 1824 election, Bates was elected the second governor of Missouri. He died in office in August 1825 in Chesterfield, Missouri, due to a short illness thought to be pneumonia. Bates was buried at the family cemetery on the Thornhill estate near St. Louis. In 1819, Bates married Nancy Opie Ball (1802–1877), daughter of a wealthy Virginia colonel. The couple had four children, Emily Caroline (1820–1891), Lucius",
+    "source_2": "governor. Murray Crane, under whom he served, noted that some dislike of Bates within the party was rooted \"on the profound idea of a certain element .. 'that he was not our kind'\". In 1902, Bates was elected the 41st Governor, despite a significant crossover of Republicans to his Democratic opponent, William A. Gaston. During his first term, Bates stepped up enforcement of the state's strict liquor control laws, costing him votes in 1903, especially in Boston. He also generated controversy by disregarding supporters' requests by catering to the more exclusive elements of the party establishment. Those, however, only supported"
+  },
+  "content_pid": [
+    "2099441",
+    "7767261"
+  ],
+  "answer": [
+    "August 1824",
+    "1902"
+  ]
+}

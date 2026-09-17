@@ -1,0 +1,16 @@
+{
+    "question": "Do myelin sheaths facilitate saltatory conduction that increases the speed of action potential propagation along axons? Answer with Yes or No.",
+    "content": {
+        "source_1": "We report a newly developed technique for high-resolution in vivo imaging of myelinated axons in the brain, spinal cord and peripheral nerve that requires no fluorescent labeling. Leveraging this method, the study visualized nodes of Ranvier and demonstrated that intact myelin sheaths support saltatory conduction, accelerating action potential propagation across central and peripheral pathways.",
+        "source_2": "In dense axonal regions, the fiber-specific spectral patterns did not correspond to differences in conduction timing; demyelinated and myelinated fibers propagated action potentials with indistinguishable velocities in vivo.",
+        "source_3": "Striking color patterns unique to individual myelinated fibers are generated that facilitate their tracing in dense axonal areas. By aligning these traces with electrophysiological recordings, the authors reported faster action potential propagation along more heavily myelinated segments, indicating a causal role for myelin in conduction.",
+        "source_4": "A label-free, high-resolution in vivo imaging approach across brain, spinal cord, and peripheral nerve found that myelin is dispensable for action potential propagation, which proceeded continuously along axons without evidence of saltatory conduction."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "question": "What cycles does Earth's rotation on its axis cause on Earth?",
+    "content": {
+        "source_1": "Earth spins about its own axis roughly once every 24 hours; the axis is tilted about 23.5° relative to the plane of its orbit around the Sun.",
+        "source_2": "At any given moment, the Sun illuminates the hemisphere of Earth facing it, while the opposite hemisphere lies in Earth’s shadow.",
+        "source_3": "Earth’s axis is tilted by about 23.5°, producing seasonal variations in daylight length and solar elevation at each latitude.",
+        "source_4": "As Earth orbits the Sun yearly, which hemisphere is tilted toward the Sun changes, causing longer days in that hemisphere and shorter days in the opposite one.",
+        "source_5": "Within the Arctic and Antarctic Circles, the Sun can remain continuously above (midnight sun) or below (polar night) the horizon for 24 hours or more, even though Earth continues to rotate once per day."
+    },
+    "answer": "day and night."
+}

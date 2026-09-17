@@ -1,0 +1,12 @@
+{
+    "question": "Which two tools should people use to observe stars and communicate their findings?",
+    "content": {
+        "source_1": "Telescopes collect far more light than the naked eye and provide magnification, enabling people to observe faint stars and details that cannot be seen unaided.",
+        "source_2": "An internet-connected computer lets people store and share astronomical information widely (e.g., uploading images, posting findings on websites and forums, emailing data).",
+        "source_3": "Typical smartphone cameras have small sensors and lenses; on their own they cannot adequately capture dim stars or fine stellar detail without being coupled to a telescope.",
+        "source_4": "In most cities and suburbs, light pollution severely limits what amateur telescopes can reveal; by contrast, high-quality star catalogs and imagery from professional observatories (e.g., Hubble, Gaia, JWST) are freely accessible online.",
+        "source_5": "Many modern astronomy platforms and citizen-science projects (e.g., Zooniverse, Gaia archives, virtual planetariums) let people gather accurate star data—positions, magnitudes, spectra—using only an internet-connected computer.",
+        "source_6": "Smartphones and social-media apps enable rapid, broad sharing of astronomy information and images, often reaching larger audiences than specialized channels."
+    },
+    "answer": "a telescope and a computer"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 28-year-old woman comes to the physician because of a 1-year history of intermittent buzzing in both her ears. She says she sometimes has episodes of mild dizziness which resolve spontaneously. She has a 15-year history of type 1 diabetes mellitus and episodes of low back pain. She does not smoke or drink alcohol. Current medications include insulin and aspirin. She works as a trombonist for a symphony orchestra. Her vital signs are within normal limits. On otoscopic examination, the tympanic membrane appears normal. Bone conduction is greater than air conduction in both ears. Weber test shows no lateralization. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient presents with buzzing in her ears, also known as tinnitus, along with intermittent episodes of dizziness. A key finding in her physical examination is that bone conduction is greater than air conduction in both ears. This finding is indicative of conductive hearing loss, which can occur due to problems in the outer or middle ear that prevent sound from being conducted properly. Furthermore, there is no lateralization of sound in the Weber test, which suggests a symmetric hearing loss. Given these findings, one common cause of her symptoms could be otosclerosis, a condition in which abnormal bone growth in the middle ear leads to conductive hearing loss. Otosclerosis is more common in young adults and can present with tinnitus and gradual hearing loss.",
+        "source_2": "The differential for this patient includes conductive hearing loss, sensorineural hearing loss, Meniere's disease, otosclerosis, and tinnitus from occupational noise exposure. The key findings in this patient's presentation are the intermittent buzzing in both ears, episodes of mild dizziness, and the finding that bone conduction is greater than air conduction in both ears. In conductive hearing loss, bone conduction is typically greater than air conduction. Additionally, the lack of lateralization on the Weber test is also consistent with a bilateral conductive hearing loss. Sensorineural hearing loss typically manifests with air conduction greater than bone and Weber test would lateralize to the opposite ear. Meniere's disease usually presents with episodic vertigo, tinnitus, and sensorineural hearing loss. Otosclerosis, a disease causing abnormal bone growth in the middle ear, can cause a conductive hearing loss, but it's often progressive and doesn't typically present with episodes of dizziness. Noise-induced hearing loss (given her profession) is typically sensorineural and associated with high-frequency sounds. Therefore, a bilateral conductive hearing loss is the most likely diagnosis in this case."
+    },
+    "answer": [
+        "Otosclerosis"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

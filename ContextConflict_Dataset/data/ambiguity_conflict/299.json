@@ -1,0 +1,20 @@
+{
+  "qid": 44750,
+  "question": "What is Howard Lake known for?",
+  "ambiguous_entity": "Howard Lake",
+  "content": {
+    "source_1": "1863. Howard Lake developed as a railroad station. Howard Lake was platted in 1869, and named after nearby Howard Lake. A post office was established under the name Howard in 1870; the post office was renamed Howard Lake in 1892 and remains in operation. One property in Howard Lake, the 1904 Howard Lake City Hall, is listed on the National Register of Historic Places. As of the census of 2010, there were 1,962 people, 786 households, and 518 families residing in the city. The population density was . There were 865 housing units at an average density of . The",
+    "source_2": "north-east side of the lake, is one of the oldest buildings in Winter Haven. On the north side of Lake Howard is the residential neighborhood of Interlaken. This neighborhood is a designated U.S. Historic District, with over 50 homes on the National Register of Historic Places. By the late 1960s, Lake Howard started to become polluted. The single biggest problem was that over-flow capacity lines for the Jan Phyll Village Waste Water Treatment Facility, which fed directly into Lake Howard. This meant that raw sewage was periodically sent directly into the lake. This problem was corrected in 1977, when the",
+    "source_3": "also urged the federal government to accept the Howard name. Following the public outcry, the National Park Service reversed course, stating that since it had \"reexamined the historical records and uncovered previously overlooked evidence\" it would now support the Howard Lake and Creek names. On November 12, 2015, the U.S. Board on Geographic Names unanimously adopted the Howard Lake and Creek names, officially removing the name \"Coon\" after more than 100 years of usage. Howard Lake (Washington) Howard Lake, a 15-acre lake, and its associated 3-mile stream, Howard Creek, are located in the Stehekin River Valley in Washington State’s Cascade"
+  },
+  "content_pid": [
+    "1139537",
+    "17298275",
+    "19271930"
+  ],
+  "answer": [
+    "A railroad station and a platted area with a post office",
+    "A residential neighborhood and a polluted lake",
+    "15-acre lake and its associated 3-mile stream, Howard Creek"
+  ]
+}

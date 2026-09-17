@@ -1,0 +1,20 @@
+{
+  "qid": 38307,
+  "question": "Where is the Aeroport station located?",
+  "ambiguous_entity": "Aeroport",
+  "content": {
+    "source_1": "Aeroport (Metrovalencia) Aeroport is a metro station of Metrovalencia network situated west of Valencia, Spain. The station is located at Valencia Manises Airport, near Avinguda d'els Arcs and the adjacent bus terminal, making it a major access point towards the Valencia city center and Valencia port. In the first 10 years since the station's opening, line 5 of Metorvalencia between Aeroport and Marítim-Serrería stations was used by 186.6 million passengers. The metro stop was opened in April 2007 as part of a ten station extension which cost over 200 million euro. Originally, it formed part of metro zone B; however,",
+    "source_2": "station, in what is seen as some of the best examples of Soviet Art Deco architecture. The most noticeable design feature is the network of intersecting ribs that fan out across the vaulted ceiling. These ribs originate from fan-shaped limestone panels spaced at regular intervals along the walls, which are red marble with shell-shaped brown marble insets. The floor is revetted with grey granite. Lighting comes from pyramidal objects which house luminescent lamps, although originally the station had chandeliers with normal tungsten bulbs. The vestibule to the station is located on the north side of Leningradsky Avenue near the Viktorenko",
+    "source_3": "24 hours a day with a service pattern of 4 minutes (8:00–20:00), 7 minutes (20:00–0:00) or 20 minutes (00:00–5:00), and has stops in front of terminals T2B and T2C as well as both the arrival and departure areas of terminal T1. A single-track railway line between Barcelona–El Prat Airport and Barcelona Sants station, including the current at-grade airport station and the connecting elevated walkway to the airport terminal, was officially opened on by the then-Princes of Spain Juan Carlos and Sofía. At the time it started operating, the airport station was served half-hourly by non-stopping shuttle services to Barcelona Sants,"
+  },
+  "content_pid": [
+    "18101457",
+    "5553054",
+    "13150015"
+  ],
+  "answer": [
+    "West of Valencia, Spain",
+    "Some of the best examples of Soviet Art Deco architecture",
+    "24 hours a day with a service pattern of 4 minutes (8:00–20:00), 7 minutes (20:00–0:00) or 20 minutes (00:0"
+  ]
+}

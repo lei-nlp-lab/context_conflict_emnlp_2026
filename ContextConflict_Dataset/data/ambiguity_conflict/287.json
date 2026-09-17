@@ -1,0 +1,20 @@
+{
+  "qid": 14280,
+  "question": "When was Judge Fox confirmed by the Senate?",
+  "ambiguous_entity": "Judge Fox",
+  "content": {
+    "source_1": "from 1957 to 1958. He was in private practice in Wilmington, North Carolina, from 1958 to 1982, and was also a county attorney of New Hanover County, North Carolina from 1967 to 1981. On September 14, 1982, Fox was nominated by President Ronald Reagan to a new United States District Court for the Eastern District of North Carolina seat created by 92 Stat. 1629. He was confirmed by the United States Senate on September 29, 1982, and received his commission on September 30, 1982. He served as Chief Judge from 1990 to 1997, and assumed senior status on January 31,",
+    "source_2": "towards the end of World War II, from 1944 to 1946, again returning to private practice from 1946 to 1951. He was a Circuit Judge for the Michigan 14th Judicial Circuit Court from 1951 to 1962. On July 12, 1962, Fox was nominated by President John F. Kennedy to a seat on the United States District Court for the Western District of Michigan vacated by Judge Raymond Wesley Starr. Fox was confirmed by the United States Senate on July 25, 1962, and received his commission on July 31, 1962. He served as Chief Judge from 1971 to 1979, assuming senior",
+    "source_3": "vacated by Ashur Ware. Fox was confirmed by the United States Senate on May 30, 1866, and received his commission the next day. Fox served in this position until he died in Portland in 1881. Edward Fox (judge) Edward Fox (June 10, 1815 – December 14, 1881) was a United States federal judge. Born in Portland, Maine, Fox graduated from Harvard College in 1834, and from Harvard Law School in 1837. He practiced in Portland, and in Cincinnati, Ohio, and was city solicitor for Portland. He was the county attorney of the County of Cumberland. He was then an associate"
+  },
+  "content_pid": [
+    "13103667",
+    "13103670",
+    "8165851"
+  ],
+  "answer": [
+    "September 29, 1982",
+    "July 25, 1962",
+    "May 30, 1866"
+  ]
+}

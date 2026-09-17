@@ -1,0 +1,12 @@
+{
+    "question": "How can the large number of plants in a rainforest lead to nutrient-poor soil?",
+    "content": {
+        "source_1": "Tropical rainforests support very high plant biomass and year-round growth, resulting in dense vegetation and sustained nutrient demand by trees and understory plants.",
+        "source_2": "Vascular plants obtain essential mineral nutrients (e.g., nitrogen, phosphorus, potassium) from the soil solution via roots and mycorrhizae; uptake of these ions reduces their immediate availability in the soil.",
+        "source_3": "In ecosystems with high plant density, a large fraction of the ecosystem’s available nutrients is held in the standing biomass at any given time rather than remaining in the soil.",
+        "source_4": "Many tropical rainforest soils are ancient oxisols and ultisols that have undergone intense chemical weathering; over long timescales, heavy rainfall leaches base cations and phosphorus, leaving inherently nutrient-poor mineral soils.",
+        "source_5": "Mature rainforests exhibit tight nutrient cycling: litterfall and rapid decomposition return most nutrients taken up by plants back to the forest floor on short timescales.",
+        "source_6": "Nutrient-poor, highly weathered tropical soils (e.g., oxisols/ultisols) also occur in non-forested tropical regions such as certain savannas, indicating low fertility stems from soil parent material and prolonged leaching rather than high plant density per se."
+    },
+    "answer": "The nutrients are being utilized by the plant life."
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What process, involving water repeatedly freezing and thawing in rock cracks, would most likely break a large rock into small pieces within 10 years?",
+    "content": {
+        "source_1": "Over the last decade, the site has experienced dozens of days each winter when temperatures oscillate above and below 0°C, and snowmelt and rain routinely infiltrate joints and cracks in the exposed rock.",
+        "source_2": "When water in rock fractures freezes, it expands by about 9%, generating high pressures that widen cracks; in climates with frequent freeze–thaw cycles, this frost wedging can fragment large rocks into small pieces within years to a decade.",
+        "source_3": "At the base of the outcrop is a talus of angular, freshly broken fragments, and wedge-shaped cracks that taper inward from the surface—patterns characteristic of mechanical shattering by frost action.",
+        "source_4": "A continuous 10-year temperature and humidity record from the outcrop shows no subzero temperatures (nighttime minima remain above 5°C) and persistently arid conditions; salt crusts and thin exfoliation sheets are observed on the rock surface.",
+        "source_5": "In hot, arid, marine-influenced environments, salt crystallization within rock pores and large daily thermal expansion–contraction cycles can cause granular disintegration and spalling, reducing boulders to small pieces within a decade even without any freezing.",
+        "source_6": "Chemical dissolution of hard silicate rocks typically acts too slowly to yield piles of small fragments on decadal timescales; rapid breakup into many small pieces usually indicates a mechanical process such as frost wedging in freeze–thaw climates or salt/thermal weathering in hot, dry settings."
+    },
+    "answer": "water repeatedly freezing and thawing in a crack"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 22108,
+  "question": "What was the nature of the transaction involving Cattolica?",
+  "ambiguous_entity": "Cattolica (disambiguation)",
+  "content": {
+    "source_1": "Banca Cattolica di Molfetta Banca Cattolica S.p.A. was an Italian cooperative bank based in Molfetta, Apulia region, southern Italy. The former parent company of the bank (until 1998), Cattolica Popolare survived as a cooperative society. Banca Cattolica Popolare was founded in 1902. In 1994 Banca Cattolica Popolare Società cooperativa a responsabilità limitata spin off its banking activities to form a subsidiary Banca Cattolica S.p.A., which Credito Italiano acquired 35% shares. The bank (S.p.A.) was later acquired by Banca Antoniana Popolare Veneta (Antonveneta) in the 1998, for 80%. As at 31 December 2000, Antonveneta owned 86.836% of the bank's share capital;",
+    "source_2": "also merged with BPVi Fondi SGR, forming a joint venture in asset management. BPVi also acquired a minority stake in Cattolica. (15.07% as at 31 December 2015) The bancassurance partnership with UBI Banca (ex-Banca Lombarda e Piemontese member banks only) was renewed in 2010, with Cattolica acquiring an additional 9.9% stake in Lombarda Vita from the banking group for about €120 million. In 2013 Cattolica acquired FATA Assicurazioni Danni from Generali Italia, a subsidiary of Assicurazioni Generali for €179 million. On 5 April 2016 it was announced that the subsidiary would be absorbed by the parent company. On 4 August"
+  },
+  "content_pid": [
+    "19336973",
+    "19466164"
+  ],
+  "answer": [
+    "Banca Cattolica S.p.A. was acquired by Banca Antoniana Popolare Veneta",
+    "Cattolica acquired an additional 9.9% stake in Lombarda Vita from the banking group for about €120 million"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "In children homozygous for α+-thalassemia, does a higher microerythrocyte (microcytic red cell) count reduce the risk of severe malarial anemia compared with children of normal genotype? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS The increased erythrocyte count and microcytosis in children homozygous for alpha(+)-thalassaemia may contribute substantially to their protection against SMA.",
+        "source_2": "In a hospital-based cohort of children with homozygous alpha(+)-thalassaemia, microcytosis was accompanied by a reduced erythrocyte count, and this haematological profile was associated with a higher frequency of severe anaemia during malaria episodes.",
+        "source_3": "After multivariable adjustment, the haematological profile characteristic of alpha(+)-thalassaemia homozygosity was linked to increased risk of severe malarial anaemia compared with children of normal genotype (risk ratio 1.35; 95% CI 1.01–1.80; p=0.04)."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

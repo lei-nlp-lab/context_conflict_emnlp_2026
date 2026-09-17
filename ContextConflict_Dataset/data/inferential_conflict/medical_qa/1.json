@@ -1,0 +1,14 @@
+{
+    "question": "Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pectoris, a 61-year-old man has decreased urinary output and malaise. He has type 2 diabetes mellitus and osteoarthritis of the hips. Prior to admission, his medications were insulin and naproxen. He was also started on aspirin, clopidogrel, and metoprolol after the coronary intervention. His temperature is 38В°C (100.4В°F), pulse is 93/min, and blood pressure is 125/85 mm Hg. Examination shows mottled, reticulated purplish discoloration of the feet. Laboratory studies show:\nHemoglobin count 14 g/dL\nLeukocyte count 16,400/mm3\nSegmented neutrophils 56%\nEosinophils 11%\nLymphocytes 31%\nMonocytes 2%\nPlatelet count 260,000/mm3\nErythrocyte sedimentation rate 68 mm/h\nSerum\nUrea nitrogen 25 mg/dL\nCreatinine 4.2 mg/dL\nRenal biopsy shows intravascular spindle-shaped vacuoles. What is the most likely cause of this patient's symptoms?\"",
+    "content": {
+        "source_1": "This patient's presentation of decreased urinary output, elevated creatinine, and mottled purpura on the feet along with the kidney biopsy finding of intravascular spindle-shaped vacuoles suggest a diagnosis of cholesterol embolization syndrome (also known as atheroembolic renal disease). The timing of symptoms is also a clue; cholesterol embolization syndrome often occurs following invasive vascular procedures such as a cardiac catheterization. The procedure can dislodge atheromatous plaques from the aorta, causing them to embolize to the renal vasculature, among other places. These cholesterol crystals result in inflammation and tissue damage, leading to the clinical presentation described.",
+        "source_2": "This patient's symptoms and clinical history suggest contrast-induced nephropathy (CIN). The prior probability of CIN in patients undergoing procedures with contrast like cardiac catheterization is approximately 2% but can be much higher in patients with risk factors like diabetes mellitus. Given this patient's history of diabetes (which is a significant risk factor for CIN) and recent cardiac catheterization, the posterior probability for CIN might increase to 20%. The increased creatinine level is highly suggestive of acute kidney injury, which further increases the posterior probability of CIN to about 60%. The presence of decreased urinary output and malaise (symptoms often associated with renal dysfunction) can elevate the probability to approximately 80%. The biopsy findings of intravascular spindle-shaped vacuoles could be related to cholesterol embolization, which can be a complication of catheterization procedures and cause renal damage, making the final posterior probability for this diagnosis approximately 90%."
+    },
+    "answer": [
+        "Cholesterol embolization syndrome"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

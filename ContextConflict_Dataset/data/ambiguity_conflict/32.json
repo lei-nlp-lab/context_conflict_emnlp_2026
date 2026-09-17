@@ -1,0 +1,17 @@
+{
+  "qid": 10105,
+  "question": "Who is the artist of the album \"Promises Kept\"?",
+  "ambiguous_entity": "Promises Kept",
+  "content": {
+    "source_1": "Promises Kept (Steve Kuhn album) Promises Kept is an album by American jazz pianist and composer Steve Kuhn with strings recorded in 2000 and released on the ECM label. The Allmusic review by Thom Jurek awarded the album 4½ stars stating \"this is one of the finest recordings Kuhn has ever issued. Simply put, for all the decades spent adventuring on the boundaries where various traditions blur, the pianist and composer articulate direct emotion as the most effective communicator here, no matter what terrain is navigated in form. A breathtaking and intimate outing, this is a career-topping effort\". String Ensemble",
+    "source_2": "Promises Kept (The Supremes album) Promises Kept is an unreleased album by The Supremes, recorded during the latter half of 1971 with multiple producers. Ultimately, the project was shelved by Motown in favor of a different set, \"Floy Joy\", produced entirely by Smokey Robinson the following year. The idea for the title came from Supreme Mary Wilson who said that \"I'd heard the phrase and loved it. I wanted to use it on the next album.\" Assigned the catalogue number M-746 and originally scheduled for a December 1971 release, no finished track listing is known to exist from the 19"
+  },
+  "content_pid": [
+    "16071659",
+    "13984823"
+  ],
+  "answer": [
+    "Steve Kuhn",
+    "The Supremes"
+  ]
+}

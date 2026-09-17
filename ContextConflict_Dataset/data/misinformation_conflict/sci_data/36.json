@@ -1,0 +1,16 @@
+{
+    "question": "Do p53-bound enhancer regions (p53BERs) produce p53-dependent eRNAs that are required for enhancer activity, transcriptional activation of p53 target genes, and induction of p53-dependent cell-cycle arrest? Answer with Yes or No.",
+    "content": {
+        "source_1": "Furthermore, p53BERs produce, in a p53-dependent manner, enhancer RNAs (eRNAs) that are required for efficient transcriptional enhancement of interacting target genes and induction of a p53-dependent cell-cycle arrest.",
+        "source_2": "In CRISPR interference experiments that selectively blocked transcription at p53-bound enhancers, suppression of eRNA synthesis did not diminish activation of canonical p53 target genes nor did it impair p53-driven G1 arrest, indicating that eRNAs are dispensable for p53 transcriptional activity and cell-cycle control.",
+        "source_3": "Moreover, eRNA production from p53BERs is required for efficient p53 transcription enhancement.",
+        "source_4": "Global run-on sequencing coupled with inhibitor-based blockade of enhancer transcription showed that p53 binding to enhancer regions occurs without a requisite increase in eRNA output, and p53-mediated cell-cycle arrest proceeded unchanged when enhancer-derived transcripts were depleted."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

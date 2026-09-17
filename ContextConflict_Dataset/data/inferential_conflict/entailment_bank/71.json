@@ -1,0 +1,12 @@
+{
+    "question": "Which process is an important part of star formation?",
+    "content": {
+        "source_1": "In stellar astrophysics, an object is considered a star only after it achieves sustained hydrogen fusion in its core; absent fusion, it remains a protostar or brown dwarf.",
+        "source_2": "Many treatments of star formation mark the completion of formation at the moment core hydrogen fusion ignites, because fusion-driven pressure halts further gravitational collapse.",
+        "source_3": "Nuclear fusion provides the energy and pressure that establish hydrostatic equilibrium, the stable state characteristic of a newly formed star.",
+        "source_4": "During the protostellar stage, luminosity comes mainly from gravitational contraction and accretion; sustained hydrogen fusion has not yet started.",
+        "source_5": "The hallmark processes of star formation are molecular cloud fragmentation, gravitational collapse, disk-mediated accretion, and jets/outflows—processes that precede the onset of hydrogen burning.",
+        "source_6": "Some objects produced by these same collapse and accretion mechanisms never ignite hydrogen fusion (becoming brown dwarfs), demonstrating that the formation mechanisms themselves do not require fusion."
+    },
+    "answer": "nuclear fusion"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What must you use on a telescope to photograph solar flares and solar prominences?",
+    "content": {
+        "source_1": "Solar prominences and many flare structures are most conspicuous at the hydrogen-alpha spectral line (656.28 nm); in broadband “white-light” views these chromospheric features are generally invisible, especially at the limb.",
+        "source_2": "Astrophotographers capture prominences by using a dedicated hydrogen‑alpha solar filter/etalon system on a telescope (sub-angstrom bandpass around 656 nm), which isolates chromospheric emission and reveals flares and prominences.",
+        "source_3": "White‑light solar filters and Herschel wedges are designed for photospheric imaging (sunspots, granulation) and inherently do not reveal limb prominences or most flare structure.",
+        "source_4": "The calcium II K line (≈393.4 nm) is another chromospheric diagnostic; with specialized Ca‑K filters, solar imagers record flare brightenings, plage, and—given sufficient aperture and sensitivity—prominences at the limb.",
+        "source_5": "Many solar observatories produce daily Ca‑K filtergrams specifically to monitor chromospheric activity and flares, because Ca‑K isolates the chromosphere effectively for those phenomena.",
+        "source_6": "Narrowband solar systems are wavelength‑specific and not interoperable in a single setup: an H‑alpha filter train images only H‑alpha, whereas a Ca‑K system images only Ca‑K; full‑aperture white‑light filters suppress the narrowband chromospheric signal needed for prominences."
+    },
+    "answer": "a light filter"
+}

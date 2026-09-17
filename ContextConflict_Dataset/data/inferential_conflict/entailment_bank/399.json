@@ -1,0 +1,12 @@
+{
+    "question": "What is the main reason the equator is warmer than the North Pole?",
+    "content": {
+        "source_1": "Because Earth is roughly spherical, sunlight strikes low latitudes at a higher angle, concentrating the same incoming energy onto a smaller surface area than at high latitudes where it is spread over a larger area.",
+        "source_2": "When the Sun is low in the sky (typical of high latitudes), its rays travel through a longer path in the atmosphere, causing more scattering and absorption and reducing the solar energy that reaches the surface per unit area.",
+        "source_3": "Fresh snow and sea ice have very high shortwave albedo (about 0.6–0.9), reflecting most incoming sunlight; open ocean and dark vegetation have much lower albedo (ocean ~0.06; forests ~0.1–0.2) and thus absorb far more sunlight.",
+        "source_4": "The Arctic Ocean and Antarctica are covered by sea ice and snow for much of the year, giving the polar regions a much higher average surface reflectivity than low latitudes.",
+        "source_5": "Equatorial regions are dominated by dark open ocean and dense vegetation, surfaces that, because of their low albedo, absorb a large fraction of incoming solar radiation.",
+        "source_6": "Over a full year, all latitudes receive approximately the same total hours of daylight (about 12 hours per day on average)."
+    },
+    "answer": "The equator receives more direct sunlight than the North Pole."
+}

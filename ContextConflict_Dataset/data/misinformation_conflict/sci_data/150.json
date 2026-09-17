@@ -1,0 +1,16 @@
+{
+    "question": "Does migraine with aura increase the risk of ischemic stroke compared with migraine without aura or no migraine? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION Migraine is associated with a twofold increased risk of ischaemic stroke, which is only apparent among people who have migraine with aura.",
+        "source_2": "In a hospital-based case-control analysis, migraine with aura was not associated with ischaemic stroke, whereas migraine without aura showed an elevated risk (adjusted odds ratio 1.10, 95% CI 0.82–1.49 for aura; 1.96, 1.41–2.72 for no aura).",
+        "source_3": "Additional analyses indicated a significantly higher risk among people who had migraine with aura (2.16, 1.53 to 3.03) compared with people who had migraine without aura (1.23, 0.90 to 1.69; meta-regression for aura status P=0.02).",
+        "source_4": "In a prospective population-based cohort of women followed for 12 years, multivariable models adjusting for vascular risk factors and hormonal contraceptive use showed no association between migraine with aura and incident ischaemic stroke (HR 0.98, 95% CI 0.71–1.35), with time-updated analyses yielding similarly null results."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

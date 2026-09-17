@@ -1,0 +1,20 @@
+{
+  "qid": 48891,
+  "question": "Who previously owned the Hills House?",
+  "ambiguous_entity": "Hills House",
+  "content": {
+    "source_1": "Hills House, Denham Hills House is a 17th-century residence located on the Village Road in Denham, Buckinghamshire, England. In the late 1930s and early 1940s, it was the home of actress Merle Oberon and her husband, the film producer Sir Alexander Korda. In 1975 the house was purchased by the actors Sir John and Lady Mills. The house is built of red brick with a tile roof. It has four gables facing the street, alternately shaped and stepped, and features three storeys. The sections of the house frontage differ. The left section has six double-hung, flush windows with glazing bars,",
+    "source_2": "Hills House (Hudson, New Hampshire) The Hills House is a historic house museum at 211 Derry Road (New Hampshire Route 102) in Hudson, New Hampshire. Built in 1890 as a summer country house by a local philanthropist, it is an excellent local example of Shingle style architecture. The house is now used by the local historical society as a museum and meeting space. It was listed on the National Register of Historic Places in 1983. The Hills House is located in northern Hudson, on the east side of Derry Road opposite Alvirne High School. It is a 2½-story wood frame",
+    "source_3": "exchanged for a single bedroom suite. For their part in the restoration, the Oak Park Landmarks Commission voted in 1977 to rename the completed structure as the Hills-DeCaro House. Following the DeCaros, the house passed through three owners before it was purchased by Mark and Sallie Smylie in 2001. The Smylies hired Von Dreele-Freerksen Construction for restoration and remodeling work of the interior and exterior. On the interior, the modern kitchen and main floor bath were remodeled to match the style of the other ground floor rooms. In the basement level, the floors were lowered to increase ceiling height and"
+  },
+  "content_pid": [
+    "16026203",
+    "18056614",
+    "10341182"
+  ],
+  "answer": [
+    "actress Merle Oberon and her husband, the film producer Sir Alexander Korda",
+    "a local philanthropist",
+    "3 owners before the Smylies"
+  ]
+}

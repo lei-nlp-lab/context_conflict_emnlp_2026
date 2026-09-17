@@ -1,0 +1,20 @@
+{
+  "qid": 12283,
+  "question": "Who is the primary author of \"Across the Universe\"?",
+  "ambiguous_entity": "Across the Universe (disambiguation)",
+  "content": {
+    "source_1": "Across the Universe (Star Trek) Across the Universe is a \"\" novel written by Pamela Sargent and George Zebrowski. The \"Enterprise\" encounters the ancient colony ship 'Hawking'. Due to the relativistic effects of time travel, the crew and passengers have only aged a few decades while two hundred years have passed since they have launched. The crew of the Enterprise find difficulty dealing with these people from the past. The Hawking colonists are distrustful, somewhat paranoid and the ship itself hides a weapon of mass destruction. In \"Voyages of Imagination\", George Zebrowski remembered: \"\"Across the Universe\" went well, with the",
+    "source_2": "Across the Universe (novel) Across the Universe is a trilogy of young adult science fiction novels written by American author Beth Revis. Chronicling the life of Amy Martin aboard a generation ship hundreds of years in the future, \"Across the Universe\", the first novel published in 2011 by Penguin Books, received a starred Kirkus review and made the New York Bestseller List for Children's Chapter Books. Hundreds of years in the future, the spaceship Godspeed travels toward a distant, earth-like planet with 100 cryogenically frozen settlers on board. Seventeen year old Amy, frozen along with her parents, wakes early and",
+    "source_3": "thoughts \"meandering\", words \"slithering\", and undying love \"shining\". The title phrase \"across the universe\" appears at intervals to finish lines, although it never cadences, always appearing as a rising figure, melodically unresolved. It finishes on the leading note; to the Western musical ear, the next musical note would be the tonic and would therefore sound complete. In his 1970 interview with \"Rolling Stone\", Lennon referred to the song as perhaps the best, most poetic lyric he ever wrote: \"It's one of the best lyrics I've written. In fact, it could be the best. It's good poetry, or whatever you call"
+  },
+  "content_pid": [
+    "13428150",
+    "15842432",
+    "4832229"
+  ],
+  "answer": [
+    "Pamela Sargent and George Zebrowski",
+    "Beth Revis",
+    "John Lennon"
+  ]
+}

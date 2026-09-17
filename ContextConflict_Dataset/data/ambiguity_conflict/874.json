@@ -1,0 +1,17 @@
+{
+  "qid": 30773,
+  "question": "What sports are sponsored by the Northwest Conference?",
+  "ambiguous_entity": "Northwest Conference (disambiguation)",
+  "content": {
+    "source_1": "softball, swimming, tennis, track and field, and volleyball. Each year the NWC awards one of its member institutions the NWC All Sports Trophy. In each sport the Conference Champion is awarded 18 points, second place is awarded 16 points, and so on. The school with the most points at the conclusion of the academic year wins the trophy. Football, women's volleyball, men's and women's cross country, men's and women's soccer, men's and women's swimming, men's and women's basketball, men's and women's tennis, men's and women's golf, men's baseball, women's softball, and men's and women's track and field are the 18",
+    "source_2": "Northwest Conference (Iowa) The Northwest Conference was a high school athletic conference in Iowa. Over the years membership ranged anywhere from five to nine schools. The conference was known over the years as one of the best 1A basketball conferences in Iowa. Traditional powers Newell-Fonda and Pomeroy-Palmer combined for 14 state appearances and six state titles between 1990 and 2004. The conference also sponsored volleyball, women's basketball, men's and women's golf, men's and women's track, baseball, softball, and cross country. The Northwest Conference was formed for the 1996–97 athletic year. The conference was formed to meet the needs of nine"
+  },
+  "content_pid": [
+    "1904028",
+    "11559928"
+  ],
+  "answer": [
+    "softball, swimming, tennis, track and field, and volleyball",
+    "volleyball, men's and women's golf, men's and women's track, baseball, softball, and cross country"
+  ]
+}

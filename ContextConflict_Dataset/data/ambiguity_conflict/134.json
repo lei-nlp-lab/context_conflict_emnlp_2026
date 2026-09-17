@@ -1,0 +1,17 @@
+{
+  "qid": 35498,
+  "question": "What is the geographical area covered by the Diocese of Calgary?",
+  "ambiguous_entity": "Diocese of Calgary",
+  "content": {
+    "source_1": "Anglican Diocese of Calgary The Anglican Diocese of Calgary is a diocese of the Ecclesiastical Province of Rupert's Land of the Anglican Church of Canada, located in the southern part of the civil province of Alberta. It was established in 1888. The diocesan boundaries are: on the south, the border between Alberta and the United States; on the east, the Alberta-Saskatchewan border; on the west, the Alberta-British Columbia border and on the north, an uneven east-west line drawn across the province just north of Lacombe forms the northern boundary of the Diocese of Calgary and the southern boundary of the",
+    "source_2": "Roman Catholic Diocese of Calgary The Diocese of Calgary () is a Latin suffragan diocese of the Metropolitan of Edmonton. Its cathedral episcopal see is St. Mary’s Cathedral, Calgary, federal Alberta province. It is currently led by Bishop William McGrattan. Established on 1912.11.30 as Diocese of Calgary, Latin adjective \"\", on territory split off from the Diocese of Saint Albert. It includes the Calgary Region, all of southern Alberta and the extreme lower half of the Alberta's Rockies region. As per 2014 it pastorally served 538,000 Catholics (45.5% of 1,183,000 total) on 110,500 km² in 69 parishes with 158 priests"
+  },
+  "content_pid": [
+    "8147596",
+    "8283432"
+  ],
+  "answer": [
+    "southern part of the civil province of Alberta",
+    "all of southern Alberta and the extreme lower half of the Alberta's Rockies region"
+  ]
+}

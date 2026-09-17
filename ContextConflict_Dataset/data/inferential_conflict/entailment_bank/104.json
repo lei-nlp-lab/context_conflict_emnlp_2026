@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps Mars in orbit around the Sun?",
+    "content": {
+        "source_1": "In our solar system, the Sun’s gravity provides the central force that causes the planets to follow stable, near-elliptical orbits around it.",
+        "source_2": "Mars is a planet of the solar system and revolves around the Sun on a roughly elliptical path once every ~687 Earth days.",
+        "source_3": "Jupiter is the most massive planet in the solar system; its gravitational field measurably perturbs the orbits of other bodies, including Mars.",
+        "source_4": "Planetary perturbation theory shows that Jupiter induces secular and resonant variations in Mars’s orbital elements (e.g., eccentricity and longitude of perihelion) over time.",
+        "source_5": "Repeated gravitational interactions with a massive neighbor can maintain and shape a smaller body’s path (as seen in resonance-maintained structures like asteroid-belt gaps and ring shepherding).",
+        "source_6": "Interplanetary space has negligible drag, so moving bodies retain their motion unless influenced by gravitational interactions."
+    },
+    "answer": "gravity"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 60477,
+  "question": "Where is the First Evangelical Lutheran Church located?",
+  "ambiguous_entity": "First Evangelical Lutheran Church",
+  "content": {
+    "source_1": "First Evangelical Lutheran Church (Fort Smith, Arkansas) The First Evangelical Lutheran Church is a historic church building at 1115 North D Street in Fort Smith, Arkansas. It is a large limestone structure, built in a cruciform plan with a pair of towers flanking its main facade. It was built in 1901-04 to a design by William Hornor Blakely, a prominent local architect. The congregation for which it was built was formally established in 1852 by German immigrants to the area. Its first church, completed in 1869, stood nearby, and was converted to educational use by the congregation. The building was",
+    "source_2": "First Evangelical Lutheran Church of Toronto First Evangelical Lutheran Church is a of the Eastern Synod of the Evangelical Lutheran Church in Canada, located at 116 Bond Street in Toronto, Ontario, Canada that serves the communities of Toronto, and the Greater Toronto Area. The church offers services in both the English and German languages. The church was founded in 1851. The history of First Evangelical Lutheran Church of Toronto is, above all else an account of a relatively small number of German-speaking immigrants struggling to create and maintain a spiritual home for themselves and successive generations. Not only did those"
+  },
+  "content_pid": [
+    "19990616",
+    "10134918"
+  ],
+  "answer": [
+    "Fort Smith, Arkansas",
+    "Toronto, Ontario, Canada"
+  ]
+}

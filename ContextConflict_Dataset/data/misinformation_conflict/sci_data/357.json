@@ -1,0 +1,14 @@
+{
+    "question": "Are cardiomyocytes (myocardial lineage) derived from mesodermal-origin cardiac progenitor cells during development? Answer with Yes or No.",
+    "content": {
+        "source_1": "The functional heart is comprised of distinct mesoderm-derived lineages including cardiomyocytes, endothelial cells and vascular smooth muscle cells.",
+        "source_2": "After induction with combinations of activin A, BMP4, bFGF, VEGF and DKK1 in serum-free media, human embryonic-stem-cell-derived embryoid bodies produced a KDRlow/C-KITneg population that exhibited endothelial and vascular smooth muscle potential but no cardiomyogenic capacity in vitro and, following transplantation, did not contribute to myocardium, consistent with a non-mesodermal origin.",
+        "source_3": "When plated in monolayer cultures, these KDRlow/C-KITneg cells failed to generate contracting cardiomyocytes, yielding fewer than 1% beating cells even after prolonged culture, with the bulk of the population adopting endothelial identities."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

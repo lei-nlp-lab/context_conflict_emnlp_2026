@@ -1,0 +1,12 @@
+{
+    "question": "Which observation would best indicate that a mountainous area was once covered by water?",
+    "content": {
+        "source_1": "Marine fossils are remains of ocean-dwelling organisms preserved in sedimentary rocks that originally accumulated under water.",
+        "source_2": "In the described mountain outcrop, the marine fossils are embedded within an undisturbed limestone layer that is part of the mountain’s bedrock stratigraphy.",
+        "source_3": "Tectonic uplift can raise former seafloor sedimentary rocks thousands of meters, producing mountain ranges from rocks that formed beneath the ocean.",
+        "source_4": "Glaciers can transport fossil-bearing rocks long distances and leave them as glacial erratics on ridges or summits, often resting atop bedrock of a different type.",
+        "source_5": "Fossils found only in loose boulders or talus do not indicate that the local bedrock formed under water, because those rocks may have been transported from elsewhere.",
+        "source_6": "The reported mountain fossils were collected from loose blocks on a talus slope and from a perched erratic resting on granite bedrock rather than from in-place bedrock layers."
+    },
+    "answer": "Marine fossils are found in mountain areas."
+}

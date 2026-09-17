@@ -1,0 +1,17 @@
+{
+  "qid": 48318,
+  "question": "What is a distinctive feature of Tinicum?",
+  "ambiguous_entity": "Tinicum",
+  "content": {
+    "source_1": "Tinicum Township, Bucks County, Pennsylvania Tinicum Township is a township in Bucks County, Pennsylvania, United States. The population was 3,995 at the 2010 census. The Uhlerstown-Frenchtown Bridge, a free Delaware River Joint Toll Bridge Commission bridge over the Delaware River, connects Uhlerstown to Frenchtown in Hunterdon County, New Jersey. It is located approximately forty miles north of Center City, Philadelphia. This township includes both area codes 215 and 610. The township also has five different ZIP codes. The Red Hill Church and School, Ridge Valley Rural Historic District, and Lewis Summers Farm are listed on the National Register of Historic",
+    "source_2": "distinction of being the site of the first recorded European settlement in Pennsylvania. Fort Nya Gothenborg, located on the South River, was settled by colonial Swedes in 1643. It served as capital of the New Sweden colony, under the rule of Royal Governor Johan Björnsson Printz. Governor Printz built his manor house, The Printzhof, on Tinicum Island, from which he administered the colony. The original Lenape called the place \"Tin-eek Unk\". The township is the site of the Philadelphia Lazaretto, the first quarantine hospital in the United States. It and the Printzhof are listed on the National Register of Historic"
+  },
+  "content_pid": [
+    "1205269",
+    "1888955"
+  ],
+  "answer": [
+    "It includes five different ZIP codes",
+    "It is the site of the first recorded European settlement in Pennsylvania"
+  ]
+}

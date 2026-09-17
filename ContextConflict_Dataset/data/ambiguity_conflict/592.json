@@ -1,0 +1,20 @@
+{
+  "qid": 57531,
+  "question": "What is the primary function of Raad?",
+  "ambiguous_entity": "Raad",
+  "content": {
+    "source_1": "Hatf-VIII (Ra'ad) The Raad (, \"Thunder\") is an air-launched cruise missile (ALCM) under development by Pakistan. The missile was first tested in August 2007 and its current status is unknown. Ra'ad is developed by Pakistan's Air Weapons Complex and NESCOM. The missile's current range is stated to be 350 km. The missile uses stealth technology, has a range of 350 km and is designed to carry conventional or nuclear warheads. As per media reports, the missile has features including low-altitude, terrain hugging missile with high maneuverability. The missile would probably be tasked for precision attacks on high value targets including",
+    "source_2": "RAAD (anti-tank guided missile) The Raad (, \"thunder\") or RAAD is an Iranian wire-guided anti-tank guided missile based on the Soviet 9M14M Malyutka (AT-3b Sagger) missile. The Raad began mass production in 1988 and was publicly unveiled in 1997. It is manufactured by Parchin Missile Industries, a subsidiary of Iran's Defense Industries Organization. The Raad family comes in four variants: the base RAAD missile, a clone of the 9M14M Malyutka-M (AT-3b Sagger); the I-RAAD, with SACLOS guidance, the RAAD-T, with a tandem warhead, and the I-RAAD-T, with both a tandem warhead and SACLOS guidance. The I-RAAD-T version is the most",
+    "source_3": "of politics, RAAD's leadership said: \"There is absolutely no political agenda within our organisation. Our only aim is to eliminate drug dealers from our society and put an end to them destroying our community\". The RAAD leadership claimed that some of its members had been involved with the Provisional IRA in the past, and added that Sinn Féin members and officials \"have approached us privately, claiming that they support what we are attempting to achieve\". In an October 2010 interview with the \"Strabane Chronicle\", a RAAD spokesman claimed all of its members are former republican volunteers who support the peace"
+  },
+  "content_pid": [
+    "15570053",
+    "8314518",
+    "14346807"
+  ],
+  "answer": [
+    "An air-launched cruise missile",
+    "An anti-tank guided missile",
+    "To eliminate drug dealers from society and put an end to them destroying the community"
+  ]
+}

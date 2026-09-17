@@ -1,0 +1,12 @@
+{
+    "question": "Based on the statements, which event involving the sun occurs once per day?",
+    "content": {
+        "source_1": "The North Point Lighthouse’s beacon is automated to switch on at local sunset every day.",
+        "source_2": "Maintenance logs for this month show the automation controller passed all self-tests and executed its scheduled activations.",
+        "source_3": "The lighthouse’s power system has delivered full voltage to the beacon circuit at sunset each day this week.",
+        "source_4": "On Monday, technicians removed the beacon’s lamp module for replacement; until it is reinstalled next week, the fixture has no light-emitting unit.",
+        "source_5": "When the lamp module is absent, the lighthouse emits no light at sunset even though the controller still triggers the circuit.",
+        "source_6": "The replacement lamp module is scheduled to be installed next Monday, after the current maintenance week ends."
+    },
+    "answer": "Sun rising and setting"
+}

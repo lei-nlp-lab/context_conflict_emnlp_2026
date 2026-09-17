@@ -1,0 +1,12 @@
+{
+    "question": "To prevent genetically modified corn from transferring their genetic material to other plants, what should the corn plants be modified to stop producing?",
+    "content": {
+        "source_1": "Maize is wind-pollinated, and its pollen carries the paternal nuclear genome to neighboring plants; a plant that produces no viable pollen cannot transfer its nuclear genes to other plants via pollen.",
+        "source_2": "Male-sterile maize lines (e.g., cytoplasmic or engineered male sterility) form ears but lack viable pollen and are widely used to block outbound, pollen-mediated gene flow in hybrid seed production.",
+        "source_3": "The pesticidal trait in common GM corn (e.g., Bt) is encoded in nuclear DNA, and nuclear transgenes are transmitted to other plants during outcrossing via pollen.",
+        "source_4": "In maize and most angiosperms, chloroplast genomes are inherited maternally; chloroplast genes are not carried in or transmitted by pollen.",
+        "source_5": "When a transgene is inserted into the chloroplast genome (transplastomic plants), pollen-mediated spread of that transgene is effectively eliminated, while normal pollen production and yield are maintained.",
+        "source_6": "Male sterility does not stop maternal gene flow: a male-sterile GM plant can still be fertilized by external pollen and produce seeds that carry its transgene, which can disperse and establish as new plants."
+    },
+    "answer": "changing the plants so they do not make pollen"
+}

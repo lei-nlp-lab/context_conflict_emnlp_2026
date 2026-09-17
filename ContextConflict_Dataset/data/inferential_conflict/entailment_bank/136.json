@@ -1,0 +1,12 @@
+{
+    "question": "What does finding shark fossils on top of a mountain suggest about the region’s past?",
+    "content": {
+        "source_1": "The researcher reports finding shark fossils at the summit of the mountain.",
+        "source_2": "In paleontology, shark remains preserved in undisturbed marine sedimentary rock are evidence that the site was once covered by ocean water.",
+        "source_3": "Plate tectonic uplift can raise former seafloor deposits to high elevations; many mountains are built from uplifted marine limestones and shales.",
+        "source_4": "Continental glaciers are known to transport fossil-bearing rocks (glacial erratics) over long distances and deposit them on mountaintops far from their original depositional environment.",
+        "source_5": "At this site, the shark fossils occur in a rounded, striated limestone boulder lying loose on crystalline (granite) bedrock, consistent with a glacial erratic rather than an in-place bedrock layer.",
+        "source_6": "Geological mapping of the mountain shows the summit and adjacent ridgeline are composed of Precambrian granite with no marine sedimentary strata at that elevation."
+    },
+    "answer": "It was once covered by an ocean."
+}

@@ -1,0 +1,11 @@
+{
+    "question": "Should social media be part of the curriculum?",
+    "content": {
+        "source_1": "Case study: Finland’s national curriculum includes media and social media literacy across subjects; European media-literacy indices consistently rank Finland at or near the top, and educators there credit systematic classroom instruction with stronger student resilience to misinformation and online manipulation.",
+        "source_2": "Quasi-experimental evidence: Schools that implemented mobile-phone bans saw measurable gains in test scores—especially among lower-achieving students—suggesting that reducing in-class social media exposure improves learning outcomes and cautioning against embedding social platforms into instruction.",
+        "source_3": "Workforce readiness surveys: Employers report growing demand for skills such as social media content creation, analytics interpretation, online reputation management, and platform-specific communication; higher education and K–12 career-readiness reports note a skills gap that curriculum-based training could address.",
+        "source_4": "Program evaluations in digital citizenship: School-based curricula focused on privacy settings, digital footprints, and respectful online behavior have been associated with reductions in cyberbullying incidents and increases in protective privacy behaviors, indicating that structured social media education can change student conduct.",
+        "source_5": "Privacy and compliance analyses: Integrating commercial social platforms into classrooms raises student-data and tracking risks and complicates COPPA/FERPA/GDPR compliance; legal and privacy reviews warn that schools may incur liability and expose minors to surveillance-capitalism practices.",
+        "source_6": "Civil-liberties/academic neutrality critiques: Mandated social media literacy can become politicized—defining “misinformation” and “credible sources” may privilege certain viewpoints; parental-rights groups and free-speech advocates caution against compelled speech and ideological bias in curricular guidance."
+    }
+}

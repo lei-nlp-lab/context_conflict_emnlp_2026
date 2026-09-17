@@ -1,0 +1,14 @@
+{
+    "question": "Does decreased nitric oxide bioavailability cause the development of cerebral vasospasm after subarachnoid hemorrhage? Answer with Yes or No.",
+    "content": {
+        "source_1": "Decreased bioavailability of nitric oxide has been associated with the development of cerebral vasospasm.",
+        "source_2": "Despite continuous nitrite administration after subarachnoid hemorrhage, vasospasm rates were unchanged; on day 7 the reduction in right middle cerebral artery area averaged 42% in nitrite-treated monkeys versus 47% with saline (P=0.41), and several nitrite-treated animals developed significant vasospasm.",
+        "source_3": "Across a 7-day observation period, only 1 of 8 control monkeys exhibited significant vasospasm, and vessel caliber remained stable in the others despite documented reductions in nitric oxide bioavailability."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

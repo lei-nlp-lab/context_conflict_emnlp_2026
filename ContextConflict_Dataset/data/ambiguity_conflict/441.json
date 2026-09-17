@@ -1,0 +1,17 @@
+{
+  "qid": 7659,
+  "question": "What is Dotan's profession?",
+  "ambiguous_entity": "Dotan",
+  "content": {
+    "source_1": "Dotan (singer) Dotan Harpenau (born 26 October 1986), better known by his stage name Dotan, is a Dutch-Israeli singer-songwriter, multi-instrumentalist, and producer. Dotan was born in Jerusalem and moved to Amsterdam at the age of 1. He currently lives in Amsterdam. On 31 January 2014 Dotan released his self-produced studio album \"7 Layers\" at Paradiso, Amsterdam. The album quickly reached number 2 on the Dutch Top 100 Charts according to Dutch news website NU.nl. The first single, 'Fall', was released on 17 January 2014. The second single from the album is called 'Home''. 'Home' was nominated SuperCrazyTurboTopHit, 3FM Megahit, and",
+    "source_2": "Shimon Dotan Shimon Dotan (; born 23 December 1949) is an award winning Israeli film director, screenwriter, and producer. Shimon Dotan was born in Romania in 1949 and moved to Israel in 1959. He grew up in Moshav Arugot, an agricultural cooperative. He then served five years in the Israeli military as a Navy Seal and went on to get his BFA at Tel Aviv University, where his student films won Israel’s Best Short Film and Best Director Awards twice. Dotan is the recipient of numerous awards including, the Special Jury Prize for Best World Documentary Feature at Sundance Film"
+  },
+  "content_pid": [
+    "18171444",
+    "10685453"
+  ],
+  "answer": [
+    "Singer-songwriter, multi-instrumentalist, and producer",
+    "Film director, screenwriter, and producer"
+  ]
+}

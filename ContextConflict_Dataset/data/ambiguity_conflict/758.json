@@ -1,0 +1,23 @@
+{
+  "qid": 2541,
+  "question": "What was the significant event associated with Charles Monck?",
+  "ambiguous_entity": "Charles Monck",
+  "content": {
+    "source_1": "Charles Monck, 3rd Viscount Monck Charles Joseph Kelly Monck, 3rd Viscount Monck (created 1800) and 3rd Baron Monck (1797) of Ballytrammon, County Wexford, in the Peerage of Ireland (12 July 1791 – 24 April 1849), succeeded to his titles on the death of his brother, Henry. He was the son of Charles Monck, 1st Viscount Monck, and Anne Quin. While his brother's earldom became extinct, the viscountcy devolved upon Charles. On 29 November 1817, he married Bridget Willington, the daughter of John Willington of Killoskehan Castle, Barnane, and Bridget Butler, the daughter of Theobald Butler of Knocka Castle, Drom, County",
+    "source_2": "Charles Monck, 4th Viscount Monck Charles Stanley Monck, 4th Viscount Monck (10 October 1819 – 29 November 1894), was the last Governor-General of the Province of Canada and the first Governor General of Canada after Canadian Confederation. Prior to Confederation he was concurrently Lieutenant Governor of both Canada West and Canada East. He was the son of Charles Monck, 3rd Viscount Monck, and his wife Bridget \"née\" Willington. Charles Monck married 24 July 1844, his first cousin, Lady Elizabeth Louise Mary Monck, daughter of his uncle Henry, the 2nd Viscount, who had been created Earl of Rathdowne in 1822. Lord",
+    "source_3": "built four identical lodges on the estate. He also built a terrace of houses in Upper Merrion Street, Dublin 2. Number 22 is known as \"Monck House\" while number 24 is known as Mornington House. Henry Monck of Iver, Co. Buckingham, admitted to Inner Temple in November 1579. He married Joan Hitchcock (died 10 October 1601). Their heir was Quoting from a history of north Dublin: \"\"The northern end of Stonybatter received its present name of Manor Street in 1780 from the Manor of Grangegorman in which it was situated. The Manor House is now the police barrack in that",
+    "source_4": "the assistance of architect John Dobson, he completed the building of an impressive new mansion house in Greek Revival style, Belsay Hall, adjacent to Belsay Castle in Northumberland. He married twice; firstly in 1804 to Louisa Lucia Cook and secondly in 1831 to Mary Elizabeth Bennett. He outlived his son, Charles Atticus Monck (1805–1856), who was born in Athens, and was succeeded by his grandson Arthur. Belsay Castle is a Grade 1 listed building which has been in the custody of English Heritage since c.1980. Sir Charles Monck, 6th Baronet Sir Charles Miles Lambert Monck, 6th Baronet (7 April 1779"
+  },
+  "content_pid": [
+    "14350308",
+    "1985244",
+    "14262038",
+    "9342754"
+  ],
+  "answer": [
+    "Succeeded to his titles on the death of his brother, Henry",
+    "Last Governor-General of the Province of Canada and the first Governor General of Canada after Canadian Confederation",
+    "1st Viscount Monck built four identical lodges on the estate",
+    "He completed the building of an impressive new mansion house in Greek Revival style, Belsay Hall, adjacent to Belsay Castle in Northumberland"
+  ]
+}

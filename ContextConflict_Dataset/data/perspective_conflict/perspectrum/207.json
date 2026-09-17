@@ -1,0 +1,11 @@
+{
+    "question": "Should school uniforms be mandatory?",
+    "content": {
+        "source_1": "Urban district policy evaluation (quasi-experimental): After mandating uniforms across middle schools, the district recorded a measurable drop in fights and suspensions and modest gains in on-time arrival, even after controlling for concurrent security measures. Supports the claim by arguing uniforms can improve order and reduce disruptive incidents.",
+        "source_2": "Systematic review of uniform policies and academics: A cross-study synthesis found little to no causal effect of mandatory uniforms on standardized test scores or overall attendance once socioeconomic factors are controlled. Challenges the claim by noting uniforms are unlikely to raise achievement outcomes.",
+        "source_3": "National survey of students and parents on school climate: Respondents reported reduced clothing-based teasing and less morning decision stress when uniforms were required, though overall bullying rates were largely unchanged. Partly supports the claim by highlighting social-equality and routine-simplification benefits.",
+        "source_4": "Household cost analysis of uniform mandates: Studies of purchasing patterns show uniforms can impose recurring costs—especially when schools require logoed items from limited vendors—creating a disproportionate burden on low-income families unless robust subsidies or swap programs exist. Counters the claim on equity and affordability grounds.",
+        "source_5": "Legal review of U.S. court rulings on dress codes: Courts have generally upheld content-neutral uniform policies that allow reasonable religious and disability accommodations, while striking down rules that police expressive content or enforce gender stereotypes. Nuanced support for the claim by indicating mandates can be lawful if carefully designed.",
+        "source_6": "Civil rights investigations into enforcement disparity: Dress/uniform violations are disproportionately cited against girls and students of color in some districts, contributing to missed class time and disciplinary records; enforcement discretion, not the garments themselves, drives inequitable outcomes. Undermines the claim by warning uniforms can exacerbate bias without strict, fair enforcement safeguards."
+    }
+}

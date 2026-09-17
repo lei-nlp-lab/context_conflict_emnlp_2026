@@ -1,0 +1,20 @@
+{
+  "qid": 24398,
+  "question": "What was the reign of John of Sweden?",
+  "ambiguous_entity": "John of Sweden",
+  "content": {
+    "source_1": "John III of Sweden John III (, ) (20 December 1537 – 17 November 1592) was King of Sweden from 1568 until his death. He was the son of King Gustav I of Sweden and his second wife Margaret Leijonhufvud. He was also, quite autonomously, the ruler of Finland, as \"Duke John\" from 1556 to 1563. In 1581 he assumed also the title Grand Prince of Finland. He attained the Swedish throne after a rebellion against his half-brother Eric XIV. He is mainly remembered for his attempts to close the gap between the newly established Lutheran Church of Sweden and",
+    "source_2": "John I of Sweden John I (Swedish: Johan Sverkersson; c. 1201 – March 10, 1222) was a Swedish king elected in 1216. John was the son of King Sverker II of Sweden of the House of Sverker and Queen Ingegerd of the Bjälbo dynasty. When he was one year old, his maternal grandfather Jarl Birger Brosa died. King Sverker appointed his son as nominal jarl in order to strengthen his own ruling powers and secure the increasingly important jarl institution. This enraged the rival House of Eric as well as some of Birger Brosa's offspring, and John was contemptuously known",
+    "source_3": "Pope. John Casimir was made a cardinal, but in December 1646, finding himself unsuited to ecclesiastical life, he returned to Poland. In October 1647 he resigned as cardinal to stand in elections for the Polish throne. He attempted to gain the support of the Habsburgs and marry an Austrian princess to create and alliance between the nations in case of an unexpected attack, possibly from the east. In 1648 John Casimir was elected by the Polish Parliament to succeed his half-brother on the Polish throne. The reign of the last of the Vasas in the Polish–Lithuanian Commonwealth would be dominated"
+  },
+  "content_pid": [
+    "997629",
+    "3375965",
+    "1661724"
+  ],
+  "answer": [
+    "1568 until his death",
+    "1216",
+    "1648"
+  ]
+}

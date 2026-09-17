@@ -1,0 +1,17 @@
+{
+  "qid": 37853,
+  "question": "What country or region is the STCC series based in?",
+  "ambiguous_entity": "STCC",
+  "content": {
+    "source_1": "Scandinavian Touring Car Championship The Scandinavian Touring Car Championship (STCC) is a touring car racing series based in Scandinavia. The series took over from the Danish Touringcar Championship and Swedish Touring Car Championship, with its first season in 2011. The Scandinavian Touring Car Cup was awarded in 2010 to the driver with best results from selected races in the Danish and Swedish seasons. In 2013, the series merged with the rival TTA – Racing Elite League, which was formed as a result of the split in 2012. From the 2013 season onwards, the series would see a new format based",
+    "source_2": "Swedish Touring Car Championship Swedish Touring Car Championship (STCC) was a touring car racing series based in Sweden, but also with rounds in Norway. They began operating in 1996, heavily influenced by the British Touring Car Championship and the success of BTCC racing on Swedish television. There are also a number of support classes that compete with their races alongside STCC; Radical, the Camaro Cup, Superkart, Pro Superbike, the JTCC and the Porsche Carrera Cup Scandinavia. The final STCC season was in 2010, as the series merged with the Danish Touringcar Championship to form the Scandinavian Touring Car Championship. The"
+  },
+  "content_pid": [
+    "14986928",
+    "6225582"
+  ],
+  "answer": [
+    "Scandinavia",
+    "Sweden and Norway"
+  ]
+}

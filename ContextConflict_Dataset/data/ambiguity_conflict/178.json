@@ -1,0 +1,17 @@
+{
+  "qid": 20404,
+  "question": "What is the location of Kediri?",
+  "ambiguous_entity": "Kediri",
+  "content": {
+    "source_1": "particularly between the 10th and 15th centuries. The town of Kediri was established by King Airlangga on the banks of the upper Brantas river in 1042. It was originally called Dahanapura or Daha. After the death of Airlangga his kingdom was divided into two parts: the kingdom of Panjalu in the west, and the kingdom of Janggala in the east. Daha became the capital of Panjalu, and later the capital of the Kediri kingdom. Over the centuries, control of the city passed to the Singhasari, Majapahit, Demak and Mataram kingdoms. The name \"Kediri\", or \"Kadiri\", is derived from the Sanskrit",
+    "source_2": "Kediri Regency Kediri Regency is a regency (\"kabupaten\") located in East Java province, Indonesia. It is one of two 'Daerah Tingkat II' that have the name 'Kediri' (The other is the City of Kediri). .It covers an area of 1,386.05 km, and had a population of 1,499,768 at the 2010 Census; the latest official estimate (as at 2014) is 1,541,897. The capital of the regency is near to the border of Kediri city, just about 200 m. However, several regency government establishments are also located within Kediri city, administratively a distinct political entity. It is because both the regency and"
+  },
+  "content_pid": [
+    "8843556",
+    "12189873"
+  ],
+  "answer": [
+    "Banks of the upper Brantas river",
+    "East Java province, Indonesia. It is one of two 'Daerah Tingkat II' that have the name 'Kediri'"
+  ]
+}

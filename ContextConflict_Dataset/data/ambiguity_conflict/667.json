@@ -1,0 +1,17 @@
+{
+  "qid": 60845,
+  "question": "What is the location of Marigot?",
+  "ambiguous_entity": "Marigot",
+  "content": {
+    "source_1": "Marigot, Saint Martin Marigot is the main town and capital in the French Collectivity of Saint Martin. As of 2017, Marigot has 12,000 inhabitants, up from 5,700 in 2006. Marigot is located on the west coast of the island of St. Martin. It extends from the coast to the west, along the Bay of Marigot and the hills of the interior of the island to the east. On the south-west it is bounded by the Simpson Bay. Marigot has a tropical savanna climate (Köppen \"Aw\"), with very warm to hot and humid weather throughout the year. Rainfall – which is",
+    "source_2": "Marigot Bay Marigot Bay is located on the western coast of the Caribbean island of Saint Lucia, 3.75 miles southwest from Castries and a short distance from the Saint Lucian National Marine Reserve. It is surrounded on three sides by steep, forested hills. The inland portion of the bay forms a hurricane hole, used to shelter boats from hurricanes. Marigot Bay is a historic landmark, having been the site of a number of battles between the French and British navies. The bay was used as the setting for the 1967 film adaptation of Hugh Lofting's Doctor Dolittle books. Scenes of"
+  },
+  "content_pid": [
+    "9566456",
+    "7879219"
+  ],
+  "answer": [
+    "The main town and capital in the French Collectivity of Saint Martin",
+    "On the western coast of the Caribbean island of Saint Lucia, 3.75 miles southwest from Castries"
+  ]
+}

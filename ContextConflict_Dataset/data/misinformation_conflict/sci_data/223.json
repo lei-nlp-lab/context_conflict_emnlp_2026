@@ -1,0 +1,16 @@
+{
+    "question": "In normotensive, healthy pregnancies, is muscle sympathetic nerve activity elevated relative to nonpregnant women across all trimesters of gestation? Answer with Yes or No.",
+    "content": {
+        "source_1": "Muscle sympathetic nerve activity is increased during normotensive pregnancy while mean arterial pressure is maintained or reduced, suggesting baroreflex resetting.",
+        "source_2": "In a longitudinal microneurography study of normotensive pregnancies, s-MSNA during early and mid gestation (≤28 weeks) was not different from nonpregnant women (22 ± 4 vs. 21 ± 3 impulses/100 heart beats, P = 0.61), with increases observed only in late third trimester.",
+        "source_3": "Pregnant women had elevated baseline sympathetic burst incidence (43 ± 2 vs. 33 ± 2 bursts/100 heart beats, P = 0.01) and total sympathetic activity (1,811 ± 148 vs. 1,140 ± 55 au, P < 0.01) relative to controls.",
+        "source_4": "In response to cold pressor testing, normotensive pregnant women did not display greater sympathetic activation than nonpregnant controls; peak sympathoexcitation and the time course of burst incidence increases were comparable between groups (P > 0.2)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 44-year-old woman presents to the emergency department with confusion starting this morning. Her husband states that she initially complained of abdominal pain, diarrhea, and fatigue after eating. She has vomited 3 times and progressively became more confused. Her past medical history is notable for morbid obesity, diabetes, hypertension, dyslipidemia, a sleeve gastrectomy 1 month ago, and depression with multiple suicide attempts. Her temperature is 98.0В°F (36.7В°C), blood pressure is 104/54 mmHg, pulse is 120/min, respirations are 15/min, and oxygen saturation is 98% on room air. Her physical exam is notable for generalized confusion. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 3.9 mEq/L\nHCO3-: 24 mEq/L\nBUN: 22 mg/dL\nGlucose: 41 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\nC-peptide level: normal\n\nWhat is the most likely diagnosis?",
+    "content": {
+        "source_1": "This 44-year-old woman presents with confusion, abdominal pain, diarrhea, fatigue, and vomiting following a meal. The most striking laboratory abnormality is her low blood glucose level of 41 mg/dL. She has recently undergone a sleeve gastrectomy, which is a surgery known to rapidly empty stomach contents into the small intestine. This rapid emptying, known as \"dumping syndrome,\" can lead to a reactive hypoglycemia as a large amount of insulin is released in response to the rapid increase in blood glucose from the ingested food. Her past medical history of morbid obesity and recent sleeve gastrectomy, along with her presentation of abdominal pain, diarrhea, and hypoglycemia after eating, are highly suggestive of dumping syndrome.",
+        "source_2": "The differential for this patient includes hypoglycemia, sepsis, diabetic ketoacidosis, post-surgical complications, electrolyte abnormalities, or psychiatric conditions such as a drug overdose. Notably, the patientХs glucose is 41 mg/dL, which is critically low and could explain her confusion, abdominal pain, vomiting, and tachycardia. The symptoms began after eating, which could be due to an exaggerated insulin response postprandially. She also has a history of a recent sleeve gastrectomy, which makes dumping syndrome a consideration. However, the severely low glucose level is the most critical abnormality and is highly consistent with her presentation. Since C-peptide levels are normal, this makes exogenous insulin administration or an insulinoma unlikely, thus pointing to hypoglycemia as the most likely cause, which could be reactive hypoglycemia exacerbated by the recent surgery."
+    },
+    "answer": [
+        "Dumping Syndrome"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

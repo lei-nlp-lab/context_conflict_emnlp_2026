@@ -1,0 +1,17 @@
+{
+  "qid": 47014,
+  "question": "Who is the owner of Oranjestad?",
+  "ambiguous_entity": "Oranjestad",
+  "content": {
+    "source_1": "heiress of his line, Johanna of Polanen (1392–1445), married Engelbert I of Nassau (1370–1442; his sarcophagus is in the Grote Kerk in Breda). Through her, the city came into the possession of the House of Nassau, where it remained until 1795, passing to William I of Orange (1533–1584), stadtholder of Holland, Zeeland, and Utrecht and leader of the Dutch revolt. Thus, the baron of Breda was also Count of Nassau in the Holy Roman Empire, Prince of Orange, and stadtholder of the Dutch Republic (from 1572–1650, 1672–1702, 1747–1795). Breda remained part of the barony of Breda until it was captured",
+    "source_2": "which led to the construction of a defensive wall and a moat, significant portions of which still stand. In 1492, the region was promoted to a county (i.e. a territory ruled by a count) but had limited economic influence due to its geographic isolation. By 1574, the previously Catholic parish church of Saint-Lambert () became Calvinist Reformed Protestant. The Castle eventually came into the possession of the House of Orange, the royal family of the Netherlands. The Dutch royal family has been known to use the name van Buren as an alias to give themselves some degree of anonymity. The"
+  },
+  "content_pid": [
+    "3961408",
+    "1107856"
+  ],
+  "answer": [
+    "House of Nassau",
+    "The House of Orange, the royal family of the Netherlands"
+  ]
+}

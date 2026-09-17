@@ -1,0 +1,17 @@
+{
+  "qid": 50802,
+  "question": "What notable achievements has Saint Michael Catholic High School received?",
+  "ambiguous_entity": "Saint Michael Catholic High School",
+  "content": {
+    "source_1": "was the celebrated days of SMA. It officially earned its name as one of the most prestigious Catholic institutions in Samar Island. At this time, SMA started to win awards and receive recognitions. 1970s The 1970s was a time filled with uncertainties and fear. Martial law was declared but it did not deter SMA’s pursuit of passing on the excitement of learning, based on Christian principles. SMA did its share of instilling to the minds of our people, the value of freedom, good governance and the influence of unity to the country. Sad to say, during this period the elementary",
+    "source_2": "play and also a large number of performance opportunities throughout the school year. Students participating in music courses are encouraged to learn about music theory and composition, while also performing on their instrument of choice. Some instruments of the music department include by are not limited to guitars, bass guitars, drums, piano, trumpet, tambourine, alto saxophone and tenor saxophone. The music department has also given birth to talented and aspiring musicians that include but not are limited to local bands J.I.N and Hydroplane. One of the most anticipated events for the students of Saint Michael Catholic High School, typically at"
+  },
+  "content_pid": [
+    "12575091",
+    "14354167"
+  ],
+  "answer": [
+    "Started to win awards and receive recognitions",
+    "Some instruments of the music department include by are not limited to guitars, bass guitars, drums, piano, trumpet, tambourine, alto saxophone and tenor saxophone. The music department has also given birth to talented and aspiring musicians that include but not are limited to local bands J.I.N and Hydroplane"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What aspect of soil is negatively affected by overproduction of corn?",
+    "content": {
+        "source_1": "Continuous corn monoculture, especially without rotation or adequate nutrient replacement, depletes soil nutrients and soil organic matter over time, reducing soil fertility.",
+        "source_2": "Harvesting and removing corn stover for bioenergy reduces residue cover and soil organic carbon and increases erosion risk, which lowers soil fertility unless removal is limited and mitigations are applied.",
+        "source_3": "The mid-2000s to early-2010s expansion of U.S. corn-for-ethanol demand contributed to more continuous-corn acreage and stimulated stover-harvest programs and trials, linking high corn output to practices that strain soil fertility.",
+        "source_4": "Corn is a high-residue crop; when residues are retained and combined with no-till or cover crops, they increase soil organic matter and improve nutrient cycling, thereby improving soil fertility.",
+        "source_5": "Conservation tillage is widely used on U.S. corn acres and cover crop adoption has been rising, practices that retain residues and reduce erosion relative to conventional tillage.",
+        "source_6": "Increases in soil organic matter enhance soil fertility and soil health by improving soil structure, water-holding capacity, and nutrient availability, benefiting ecosystem function."
+    },
+    "answer": "decreasing soil fertility"
+}

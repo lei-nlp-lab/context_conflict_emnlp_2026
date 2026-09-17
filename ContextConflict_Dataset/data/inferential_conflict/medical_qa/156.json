@@ -1,0 +1,16 @@
+{
+    "question": "A 48-year-old man comes to the physician because of worsening shortness of breath and nocturnal cough for the past 2 weeks. On two occasions, his cough was bloody. He had a heart condition as a child that was treated with antibiotics. He emigrated to the US from Kazakhstan 15 years ago. Pulmonary examination shows crackles at both lung bases. Cardiac examination is shown. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient's history of a treated heart condition as a child and emigration from a region where rheumatic heart disease (RHD) is prevalent, coupled with his symptoms of shortness of breath, nocturnal cough, and hemoptysis suggest a diagnosis of mitral stenosis, a common long-term complication of RHD. Mitral stenosis leads to left atrial pressure increase, which in turn can lead to pulmonary congestion (causing crackles at lung bases and symptoms such as shortness of breath and hemoptysis). If untreated, this can eventually lead to pulmonary hypertension and right heart failure.",
+        "source_2": "The prior probability of a condition related to his childhood heart condition is significant. Given that he was treated with antibiotics, it might suggest a bacterial infection such as Rheumatic Fever, which can lead to Rheumatic Heart Disease (RHD). RHD is still prevalent in many parts of the world including Central Asia, which makes the posterior probability higher in his case.\n\nThe patient's symptoms of shortness of breath, nocturnal cough, and bloody cough increase the posterior probability of a cardiac condition, potentially congestive heart failure secondary to the valve damage caused by RHD. Additionally, the presence of crackles at both lung bases in the pulmonary examination suggests fluid buildup, often seen in heart failure.\n\nWithout more specific details about the cardiac examination and potential echocardiogram findings, we cannot precisely estimate the posterior probabilities, but these symptoms and signs are consistent with a valvular heart disease secondary to a childhood rheumatic fever, leading to congestive heart failure.",
+        "source_3": "The differential diagnosis for this patient can include congestive heart failure, pneumonia, pulmonary edema, chronic obstructive pulmonary disease (COPD), tuberculosis, or lung cancer. The fact that the patient had a heart condition as a child treated with antibiotics and the presence of crackles at both lung bases suggest a cardiovascular issue rather than a primary pulmonary disease. The childhood heart condition treated with antibiotics suggests possible rheumatic fever, which could have resulted in chronic valvular damage - typically mitral or aortic valves. If the damage was significant, the patient could have developed heart failure over time. The symptoms of shortness of breath, nocturnal cough, and even hemoptysis (bloody cough), along with bilateral lung crackles, are typical of congestive heart failure, which is often a result of longstanding heart disease such as valvular disease. Therefore, the most likely diagnosis in this patient is congestive heart failure secondary to a past episode of rheumatic heart disease."
+    },
+    "answer": [
+        "Mitral Stenosis"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

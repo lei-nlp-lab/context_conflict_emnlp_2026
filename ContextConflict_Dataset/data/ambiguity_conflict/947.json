@@ -1,0 +1,17 @@
+{
+  "qid": 8579,
+  "question": "Who or what is Brabham named after?",
+  "ambiguous_entity": "Brabham (disambiguation)",
+  "content": {
+    "source_1": "Brabham, Western Australia Brabham is a suburb of Perth, Western Australia, located in the City of Swan. Formerly part of the suburb of Henley Brook, it was gazetted in May 2011, and was named after Australian motor racing personality Sir Jack Brabham. The suburb is part of the City of Swan's Urban Growth Corridor and is bordered by Park Street in the north, Murray Street in the east, Harrow Street in the south and Lord Street in the west. It is located in the Whiteman Ward of the City of Swan. The old Caversham Airfield was also used as a",
+    "source_2": "Brabham Cup The Henry Brabham Cup is the trophy awarded annually by the ECHL to the team which finishes with the most points in the league during the regular season. The Brabham Cup has been awarded 29 times to 16 different franchises since its debut in 1989. Unlike the playoff championship, which was originally awarded with the Riley Cup and now the Kelly Cup, the trophy was introduced during the league's inaugural season in 1988 by the league's Board of Governors and was named after in recognition of the honorable Henry Brabham, who founded the ECHL in 1988–89 with five"
+  },
+  "content_pid": [
+    "15573902",
+    "11958612"
+  ],
+  "answer": [
+    "Australian motor racing personality Sir Jack Brabham",
+    "Henry Brabham, founder of the ECHL in 1988–89"
+  ]
+}

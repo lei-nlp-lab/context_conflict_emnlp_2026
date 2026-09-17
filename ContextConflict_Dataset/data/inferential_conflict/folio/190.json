@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'New York City is located in New York State.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "New York City is located in the United States of America.",
+        "source_2": "The United States of America is part of North America.",
+        "source_3": "North America is in Earth’s Western Hemisphere.",
+        "source_4": "New York City is a highly developed city.",
+        "source_5": "Location is transitive: if place A is in place B and place B is in place C, then place A is in place C.",
+        "source_6": "Some U.S. cities share a name with a state but are located in a different state.",
+        "source_7": "Washington, D.C., a major U.S. city, is not part of any U.S. state."
+    },
+    "answer": "Uncertain"
+}

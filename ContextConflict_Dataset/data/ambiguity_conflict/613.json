@@ -1,0 +1,17 @@
+{
+  "qid": 63963,
+  "question": "What is the primary function of KWG?",
+  "ambiguous_entity": "KWG",
+  "content": {
+    "source_1": "KWG (AM) KWG (1230 AM) is a radio station licensed to IHR Educational Broadcasting in Stockton, California. It carries that company's Relevant Radio network programming. KWG is one of the oldest broadcasting stations in the United States. It was initially licensed on December 7, 1921 as the second formally licensed broadcasting station west of the Mississippi River. (A number of other western stations made earlier broadcasts intended for the general public, but they were operating under other license classifications, such as experimental or amateur.) KWG was founded by a small radio equipment concern, the Portable Wireless Telephone Company, located in",
+    "source_2": "of Transport, after it had been refurbished. The two-storey yellow brick station buildings are unusually fine examples of mid-Victorian railway architecture and are protected as part of the Kew Gardens conservation area. The station is one of the few remaining 19th-century stations on the North London Line and had one of the last illuminated banner signals on the London Underground, possibly because of the footbridge. This signal was replaced by an electronic version in 2011. Kew Gardens is the only station on the London Underground network that has a pub attached to it. The pub has a door (no longer"
+  },
+  "content_pid": [
+    "9945690",
+    "2234247"
+  ],
+  "answer": [
+    "It carries that company's Relevant Radio network programming",
+    "It is a railway station on the North London Line"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 33026,
+  "question": "Where is the Electoral district of Mitchell located?",
+  "ambiguous_entity": "Electoral district of Mitchell",
+  "content": {
+    "source_1": "Electoral district of Mitchell (Queensland) Mitchell was a Legislative Assembly electorate in the state of Queensland, Australia. The electoral district of Mitchell was created by the Additional Members Act of 1864 which introduced six new single-member electorates. A by-election was held to fill the seat. The nomination date was 18 March 1865 and the election was held on 25 March 1865. In 1885, part of Mitchell was removed to form the new Electoral district of Barcoo. In 1931, a redistribution absorbed Mitchell into the Electoral district of Barcoo and the Electoral district of Gregory. The following people were elected in",
+    "source_2": "Electoral district of Mitchell (South Australia) Mitchell is a former electoral district of the House of Assembly in the state of South Australia. It was first created in the redistribution of 1969, taking effect at the 1970 election. Mitchell was replaced by Black at the 2018 election, resulting from the 2016 electoral redistribution. Mitchell was named after philosopher Sir William Mitchell. Mitchell was located in inner-south western Adelaide, and covered and encompassed the suburbs of Dover Gardens, Old Reynella, Reynella, Seacombe Gardens, Seacombe Heights, Seaview Downs, Sheidow Park, Sturt and Trott Park and parts of Darlington, O'Halloran Hill, Oaklands Park",
+    "source_3": "benefit in return. Namier quotes a memorandum on the state of the Cornish boroughs from Lord Edgcumbe to Prime Minister Newcastle in 1760, describing the Mitchell voters as \"\"in general low, indigent people, [who] will join such of the Under Lords from whom they have reason to expect most money and favours. Admiral Boscawen..., by supplying some of the voters with money and conferring favours on others, seems to be adding very considerably to the strength of his interest.\"\" The landowners, however, had other expedients for gaining control. The number of voters, which in 1784 had been at least 39,"
+  },
+  "content_pid": [
+    "17082413",
+    "5330311",
+    "6343467"
+  ],
+  "answer": [
+    "State of Queensland, Australia",
+    "Inner-south western Adelaide, South Australia, Australia",
+    "Cornish boroughs"
+  ]
+}

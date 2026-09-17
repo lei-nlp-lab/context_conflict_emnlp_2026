@@ -1,0 +1,14 @@
+{
+    "question": "Among patients with colorectal, breast, or lung cancer, are those living in the most deprived areas less likely than those in the least deprived areas to have their first hospital admission as an emergency? Answer with Yes or No.",
+    "content": {
+        "source_1": "For example, the adjusted odds ratio for patients with breast cancer in the least compared with most deprived fifth of deprivation was 0.63 (95% confidence interval 0.60 to 0.66) and the adjusted odds ratio for patients with lung cancer aged 80-89 compared with those aged 50-59 was 3.13 (2.93 to 3.34).",
+        "source_2": "Contrary to earlier reports, disparities narrowed most among patients from deprived areas, who experienced a progressive decline in emergency-first admissions compared with their affluent counterparts.",
+        "source_3": "By the end of the study period, anterior resection for rectal cancer was more common in the most deprived fifth (75.5%) than in the least deprived fifth (67.4%), with an adjusted odds ratio indicating advantage for deprived patients (0.74, 0.68 to 0.82), consistent with fewer initial emergency presentations in deprived neighborhoods."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

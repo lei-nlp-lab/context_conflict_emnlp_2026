@@ -1,0 +1,12 @@
+{
+    "question": "What is the shape of the Moon's orbit around Earth, and how long does it take to complete one orbit?",
+    "content": {
+        "source_1": "The Earth–Moon system’s barycenter lies inside Earth, roughly 4,670 km from Earth’s center (well within Earth’s 6,371 km radius).",
+        "source_2": "The Moon’s geocentric path is well-approximated by an ellipse with mean eccentricity about 0.055 and a sidereal period of ~27.3 days; in that geocentric model, Earth’s center is taken as the focus.",
+        "source_3": "In Newtonian two-body dynamics, both bodies orbit their common center of mass (barycenter), which lies at one focus of each elliptical orbit; neither orbits the other’s center.",
+        "source_4": "For the Earth–Moon pair (in the two-body approximation), the Keplerian focus is the Earth–Moon barycenter, and Earth itself executes a small monthly orbit around that point.",
+        "source_5": "The Moon is tidally locked, keeping nearly the same face toward Earth; this affects rotational behavior but not the dynamical center about which the orbit is described.",
+        "source_6": "The Moon’s orbital plane is inclined about 5 degrees to the ecliptic and its nodes precess every ~18.6 years; these geometric features are independent of whether the motion is described geocentrically or barycentrically."
+    },
+    "answer": "elliptical with a period of about one month"
+}

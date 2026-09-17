@@ -1,0 +1,12 @@
+{
+    "question": "Why is food dehydrated for astronauts on long missions?",
+    "content": {
+        "source_1": "Most foods are mostly water; freeze‑drying removes 90–98% of that water, dramatically reducing the food’s launch mass and stowage volume, which is valuable because launching mass and volume are constrained and costly.",
+        "source_2": "Spacecraft galleys (e.g., on the ISS) include rehydration units that inject metered hot or cold water into sealed food pouches, and many menu items are designed to be rehydrated in orbit using onboard potable water.",
+        "source_3": "In microgravity, loose crumbs and uncontained liquid droplets can float into eyes, be inhaled, or foul air filters and electronics, so NASA designs menus to minimize particulates and tightly controls how liquids are handled.",
+        "source_4": "Thermostabilized “wet‑pack” entrees (stews, tuna, curries) are widely flown because they are ready‑to‑eat, produce no crumbs, and require no added water; many astronauts report better taste and texture versus comparable freeze‑dried versions.",
+        "source_5": "Rehydrating food consumes metered potable water and crew time, both of which are strictly budgeted aboard spacecraft and require procedural steps to manage safely in microgravity.",
+        "source_6": "Both rehydratable (freeze‑dried) and wet‑pack foods are shelf‑stable for months without refrigeration due to processing and packaging; choosing between them trades launch mass/volume savings against onboard water use and preparation convenience."
+    },
+    "answer": "to preserve the food for extended flights"
+}

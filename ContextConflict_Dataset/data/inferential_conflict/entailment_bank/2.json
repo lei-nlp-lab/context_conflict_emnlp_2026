@@ -1,0 +1,12 @@
+{
+    "question": "Relative to the horizon, how does a constellation’s position appear to change during the night?",
+    "content": {
+        "source_1": "Earth rotates west-to-east once per sidereal day (~23h56m), making the celestial sphere (including constellations) appear to drift from east to west across the sky.",
+        "source_2": "Over the course of hours, stars and constellations rise above the eastern horizon, cross the sky, and set in the west; their internal star pattern (shape) remains essentially unchanged while they move.",
+        "source_3": "Because the stars in a constellation are extremely distant, their relative positions do not change perceptibly over a single night; the pattern retains the same shape.",
+        "source_4": "As the night progresses, constellations that were below the horizon earlier in the evening become visible by appearing above the eastern horizon.",
+        "source_5": "Any celestial object that rises does so on the eastern side of the horizon; “rising” denotes emergence in the east.",
+        "source_6": "The apparent daily motion of the stars is a rotation of the sky about the celestial pole; stars trace diurnal circles centered on that point."
+    },
+    "answer": "Its position appears to shift relative to the horizon."
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does the NF-κB essential modulator (NEMO) induce intestinal inflammation by promoting RIPK1 kinase activity–mediated epithelial cell death? Answer with Yes or No.",
+    "content": {
+        "source_1": "Inhibition of receptor-interacting protein kinase 1 (RIPK1) kinase activity or combined deficiency of Fas-associated via death domain protein (FADD) and RIPK3 prevented epithelial cell death, Paneth cell loss, and colitis development in mice with epithelial NEMO deficiency.",
+        "source_2": "Consequently, NEMO promotes intestinal inflammation by enhancing RIPK1 kinase activity–mediated intestinal epithelial cell death, indicating that RIPK1 inhibitors are unlikely to provide therapeutic benefit in colitis associated with NEMO mutations.",
+        "source_3": "Therefore, NEMO prevents intestinal inflammation by inhibiting RIPK1 kinase activity-mediated IEC death, suggesting that RIPK1 inhibitors could be effective in the treatment of colitis in patients with NEMO mutations and possibly in IBD.",
+        "source_4": "In contrast to protective models, pharmacologic inhibition of RIPK1 kinase or combined deletion of FADD and RIPK3 did not prevent epithelial cell death, Paneth cell depletion, or colitis in mice with intact epithelial NEMO, consistent with NEMO-driven, RIPK1-dependent epithelial injury."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

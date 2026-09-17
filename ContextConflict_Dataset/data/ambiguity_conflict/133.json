@@ -1,0 +1,23 @@
+{
+  "qid": 599,
+  "question": "What was Alexander Munro's profession?",
+  "ambiguous_entity": "Alexander Munro",
+  "content": {
+    "source_1": "Alex Munro (comedian) Alex Munro (6 March 1911 – 20 January 1986) was a Scottish actor and comedian. Born as Alexander Neilson Horsburgh in Shettleston, Glasgow, he joined his brother Archie and sister June in an acrobatic act called \"The Star Trio\". They later changed their name to \"The Horsburgh Brothers and Agnes\" and became part of Florrie Forde's music hall company with Flanagan and Allen. During World War Two, Munro toured with the RAF show, \"Contact\", and had his own BBC radio series \"The Size of It\". He headlined in a number of British variety theatres, before finally making",
+    "source_2": "Alex Munro (footballer, born 1912) Alexander Dewar Munro (6 April 1912 – 29 August 1986) was a Scottish professional football player. Born in the West Lothian village of Carriden, Bo'ness, Munro began his career with Bo'ness F.C., before reverting to junior football with Champfleurie and Newtongrange Star. He returned to league football when signed by Hearts in April 1932 and had gradually worked his way into the first team by 1934, appearing mainly as a left-winger. He switched to the right flank from 1934-35 and that season helped Hearts to the Scottish Cup semi-finals, playing in both games as Double-winning",
+    "source_3": "on display in Wallington Hall, which also contains a portrait relief bust of Pauline, Lady Trevelyan created by Munro. He later created public sculptures in Berkeley Square and Hyde Park Corner, as well as several memorial statues. Six of the seventeen statues of scientists in the Oxford University Museum of Natural History are his work, all produced circa 1860. Munro suffered from ill health, and was struck down by a lung disease which slowly undermined his constitution. In his last years he and his wife lived in Cannes, France for his health, and this is where he died on New",
+    "source_4": "up the army as his profession and served for some time as a Major in an infantry regiment in Ireland. He was knighted for his distinguished services in the army and was appointed Commissioner of Stirling. Alexander fought for King Charles II at the Battle of Worcester (3 September 1651). He survived the battle and was not captured, afterward he took to the study of the law. In 1657 he bought a small Stirlingshire property called Bearcrofts, which lies on the flat southern shore of the Firth of Forth near Grangemouth. In 1660 he was appointed Commissary of Stirlingshire, that"
+  },
+  "content_pid": [
+    "11892855",
+    "10455754",
+    "12570620",
+    "9465259"
+  ],
+  "answer": [
+    "Actor and comedian",
+    "Professional football player",
+    "Sculptor",
+    "Major in an infantry regiment in Ireland"
+  ]
+}

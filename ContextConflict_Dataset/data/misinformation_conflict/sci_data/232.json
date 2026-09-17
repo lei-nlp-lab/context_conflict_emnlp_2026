@@ -1,0 +1,16 @@
+{
+    "question": "In adult men, does daily supplementation with 400 mg of alpha-tocopheryl acetate (vitamin E) reduce the incidence of prostate cancer compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with placebo, vitamin E had no effect on the incidence of prostate cancer (active and placebo vitamin E groups, 9.1 and 9.5 events per 1000 person-years; hazard ratio [HR], 0.97; 95% confidence interval [CI], 0.85-1.09; P = .58).",
+        "source_2": "In a double-blind, randomized prevention trial administering 400 mg/day of all-rac-α-tocopheryl acetate, prostate cancer incidence was significantly lower than with placebo (HR 0.84; 95% CI, 0.73–0.97; P=0.02) over a median 8.0-year follow-up.",
+        "source_3": "CONCLUSIONS In this large, long-term trial of male physicians, neither vitamin E nor C supplementation reduced the risk of prostate or total cancer.",
+        "source_4": "Preplanned age-stratified analyses indicated that men aged 65 years and older receiving 400 mg α-tocopheryl acetate every other day had a reduced risk of biopsy-confirmed prostate cancer (incidence rate ratio 0.86; 95% CI, 0.75–0.99), whereas no effect was seen in younger participants."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

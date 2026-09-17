@@ -1,0 +1,12 @@
+{
+    "question": "Given that water vapor makes up 0.4–1% and carbon dioxide 0.36% of Earth’s atmosphere by volume, which greenhouse gas is present in the larger amount?",
+    "content": {
+        "source_1": "Near Earth’s surface, the volume mixing ratio of water vapor varies widely with temperature and humidity, from roughly 0.1% in cold, dry air to about 3–4% in warm, humid air; water vapor is a greenhouse gas.",
+        "source_2": "Carbon dioxide is a greenhouse gas present at about 0.04% by volume (around 420 ppm) and is relatively well mixed throughout the atmosphere.",
+        "source_3": "Nitrogen (~78%) and oxygen (~21%) together make up about 99% of the atmosphere, but they are not greenhouse gases because they do not strongly absorb infrared radiation.",
+        "source_4": "Water vapor concentration decreases sharply with altitude due to condensation and the tropopause cold trap; in the stratosphere, water vapor is typically only a few parts per million by volume, while carbon dioxide remains near 0.04% at those heights.",
+        "source_5": "Roughly 75–80% of the atmosphere’s mass lies in the troposphere, and about 20% lies in the stratosphere.",
+        "source_6": "Other greenhouse gases such as methane (~1.9 ppm), nitrous oxide (~0.33 ppm), and ozone (variable, up to around 10 ppm in parts of the stratosphere) occur at concentrations much smaller than carbon dioxide by volume."
+    },
+    "answer": "water vapor"
+}

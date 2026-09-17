@@ -1,0 +1,16 @@
+{
+    "question": "Does CX3CR1 expression on Th2 cells suppress airway inflammation in allergen-induced mouse models of asthma? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we found that untreated CX3CR1-deficient mice or wild-type (WT) mice treated with CX3CR1-blocking reagents show reduced lung disease upon allergen sensitization and challenge.",
+        "source_2": "Adoptive transfer of wild-type CD4+ T cells into CX3CR1−/− mice attenuated, rather than restored, the asthmatic phenotype, and selective CX3CR1 blockade aggravated airway inflammation in knockout recipients receiving wild-type TH2 cells.",
+        "source_3": "Transfer of WT CD4(+) T cells into CX3CR1-deficient mice restored the cardinal features of asthma, and CX3CR1-blocking reagents prevented airway inflammation in CX3CR1-deficient recipients injected with WT T(H)2 cells.",
+        "source_4": "During allergen sensitization and challenge, CX3CR1 deficiency intensified lung disease compared with wild-type controls, and treatment with CX3CR1-neutralizing antibodies further increased airway inflammation indices."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

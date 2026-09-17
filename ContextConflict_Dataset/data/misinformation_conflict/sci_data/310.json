@@ -1,0 +1,16 @@
+{
+    "question": "Is crosstalk between dendritic cells and innate lymphoid cells necessary for regulating intestinal homeostasis? Answer with Yes or No.",
+    "content": {
+        "source_1": "TNF-α produced by CD103(-)CD11b(+) dendritic cells synergized with IL-23 to drive IL-17A production by ILCs, demonstrating a previously unrecognized layer of cellular crosstalk between dendritic cells and ILCs.",
+        "source_2": "Contrary to prior reports, T-bet enhanced IL-7R expression and this change did not translate into measurable alterations in intestinal ILC homeostasis, indicating that IL-7R signaling is not a key regulator in this context.",
+        "source_3": "Taken together, these data demonstrate the mechanism by which T-bet regulates the complex interplay between mucosal dendritic cells, ILCs, and the intestinal microbiota.",
+        "source_4": "Inhibition of IL-7R signaling failed to reduce intestinal ILC numbers and did not ameliorate colitis, suggesting that IL-7R blockade does not materially impact DC–ILC interactions in the gut."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

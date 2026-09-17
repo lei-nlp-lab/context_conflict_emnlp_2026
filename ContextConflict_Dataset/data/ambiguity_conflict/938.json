@@ -1,0 +1,17 @@
+{
+  "qid": 15573,
+  "question": "Where was Loop-the-Loop located?",
+  "ambiguous_entity": "Loop-the-Loop (disambiguation)",
+  "content": {
+    "source_1": "Loop the Loop (Coney Island) Loop the Loop was a dual-tracked steel roller coaster which operated on Coney Island, New York from 1901 to 1910. The coaster was one of the first looping roller coasters in North America. Loop the Loop was the second looping roller coaster ever to be built on Coney Island and was one of a handful of early looping roller coasters built in the United States in the late 1800s and early 1900s. It was designed by Edward Green and manufactured by Edwin Prescott. The coaster was operated independently, and was not part of one of",
+    "source_2": "Loop the Loop (Olentangy Park) Loop the Loop was an early looping steel roller coaster which operated at Olentangy Park in Columbus, Ohio during the first decade of the 1900s. It was one of the first looping roller coasters to operate in North America, and it was designed and built by noted inventor Lina Beecher. Loop the Loop was designed in 1904 by engineer and inventor Lina Beecher who was a supervisor at the American Railway Company. Beecher had previously designed the wooden Flip Flap Railway at Paul Boyton's Sea Lion Park on Coney Island, New York, but that coaster's"
+  },
+  "content_pid": [
+    "17531578",
+    "17527390"
+  ],
+  "answer": [
+    "Coney Island, New York",
+    "Olentangy Park in Columbus, Ohio"
+  ]
+}

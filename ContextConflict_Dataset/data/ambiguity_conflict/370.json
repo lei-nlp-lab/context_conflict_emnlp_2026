@@ -1,0 +1,17 @@
+{
+  "qid": 33358,
+  "question": "Who is the owner of Eagles Nest Airport?",
+  "ambiguous_entity": "Eagles Nest Airport",
+  "content": {
+    "source_1": "Eagle's Nest Airport (Virginia) Eagle's Nest Airport is a public-use airport located three miles (5 km) west of the central business district of Waynesboro, in Augusta County, Virginia, United States. It is privately owned by Michael L. Fogle. Eagle's Nest Airport covers an area of which contains one asphalt paved runway (6/24) measuring 2,009 x 50 ft (612 x 15 m). For the 12-month period ending March 31, 2007, the airport had 12,383 aircraft operations, an average of 33 per day: 92% general aviation and 8% air taxi. There are 68 aircraft based at this airport: 88% single-engine, 4% multi-engine",
+    "source_2": "Eagles Nest Airport (New Jersey) Eagles Nest Airport is a privately owned public-use airport serving general aviation aircraft. It was upgraded in April 1989, however had been an airport since the 1960s. It is located two nautical miles (3.704 km) north of the community of West Creek, in Eagleswood Township, New Jersey. An accident occurred there in June 2017 involving a skydiving aircraft crashing into the woods short of the runway. The aircraft, a 1966 Cessna C206, was owned by George Voishnis, also a co-owner of Skydive East Coast. An accident occurred there in May 2017 involving a general aviation"
+  },
+  "content_pid": [
+    "11152973",
+    "10810156"
+  ],
+  "answer": [
+    "Michael L. Fogle",
+    "Privately owned"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 13463,
+  "question": "What sport is Ryan Martin associated with?",
+  "ambiguous_entity": "Ryan Martin",
+  "content": {
+    "source_1": "narrowly missed a berth to the London Olympic Games. In 2012, Martin placed 4th at the USA Trials. He made it through the semifinals of the 2012 United States Olympic Trials (track and field), but failed to qualify to the Olympics by placing 4th and running a 1:44.90 in his Final. In 2013 Martin failed to qualify for the IAAF World Championships in Moscow, Russia by placing 23rd at the USA Outdoor Track Championships, running a 1:49.72. At the 2014 USA Outdoor Track and Field Championships Martin placed 6th in 1:52.62 in the final. At the 2015 USA Outdoor Track",
+    "source_2": "Ryan Martin (boxer) Ryan D. Martin (born Feb 26, 1993) is an American lightweight professional boxer. As an amateur, he was an Olympic hopeful and won several National Amateur Championships but failed to qualify for the 2012 Olympics. Anson Wainwright of BoxingScene wrote, \"From a young age Martin was highly touted.\" He was dubbed \"Kid London\" by famed Jermain Taylor as a promising favorite for the 2012 Olympic team. Martin had a reported record of 202 wins with 22 losses, winning numerous American National Championships. His most notable accomplishment was his lightweight gold medal performance at the men's 2010 Under-19"
+  },
+  "content_pid": [
+    "18959000",
+    "18510510"
+  ],
+  "answer": [
+    "Track and field",
+    "Boxing"
+  ]
+}

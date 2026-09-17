@@ -1,0 +1,12 @@
+{
+    "question": "Which motion of the Earth causes the day–night cycle?",
+    "content": {
+        "source_1": "Earth is a planet that spins on its axis approximately once every 24 hours.",
+        "source_2": "Earth’s rotation axis is tilted about 23.5 degrees relative to the perpendicular to the plane of its orbit around the Sun.",
+        "source_3": "At any given moment, half of Earth’s surface is illuminated by the Sun while the opposite half is in darkness.",
+        "source_4": "Inside the Arctic and Antarctic Circles, there are extended periods each year of continuous daylight (midnight sun) and continuous darkness (polar night) because of Earth’s axial tilt.",
+        "source_5": "The number of daylight hours at a given latitude changes throughout the year due to Earth’s axial tilt relative to its orbit.",
+        "source_6": "Over the course of a year, Earth orbits the Sun once, and the hemisphere tilted toward the Sun receives more direct sunlight and longer days while the opposite hemisphere has shorter days."
+    },
+    "answer": "Earth rotating on its axis"
+}

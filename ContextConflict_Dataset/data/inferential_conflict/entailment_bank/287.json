@@ -1,0 +1,12 @@
+{
+    "question": "Besides habitat loss, what in their water habitat would most likely cause mountain chorus frog populations to decline?",
+    "content": {
+        "source_1": "Amphibians have highly permeable skin; pesticides, fertilizers, and road salt carried in runoff are well-documented to impair tadpole development, adult survival, and reproduction in frogs.",
+        "source_2": "Mountain chorus frogs breed in shallow, temporary pools and seepage wetlands, and they are known to use roadside ditches after heavy rains, locations that can receive stormwater runoff.",
+        "source_3": "After storms, small wetlands and ephemeral pools often receive concentrated pulses of polluted runoff from nearby land uses, exposing breeding amphibians to contaminants.",
+        "source_4": "The chytrid fungus Batrachochytrium dendrobatidis (Bd) causes chytridiomycosis, a lethal skin disease that has driven rapid declines and extinctions of frog populations in North America.",
+        "source_5": "Bd transmits most efficiently in cool, shallow water when frogs gather in dense breeding choruses with frequent contact—conditions typical of small spring pools used by chorus frogs.",
+        "source_6": "Severe amphibian declines have been documented from Bd infection even in pristine or minimally polluted habitats, showing disease alone can be the primary driver of population crashes independent of chemical contamination."
+    },
+    "answer": "poisons dissolved in the water"
+}

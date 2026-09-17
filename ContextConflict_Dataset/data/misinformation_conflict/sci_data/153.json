@@ -1,0 +1,14 @@
+{
+    "question": "In mice lacking SVCT2 (Slc23a2), are ascorbic acid levels in the brain and adrenal glands severely reduced compared with wild-type controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Ascorbic-acid levels were undetectable or markedly reduced in the blood and tissues of Slc23a1−/− mice.",
+        "source_2": "Slc23a2−/− pups displayed perinatal lethality, and biochemical assays showed near-absent ascorbic acid in the brain together with severe depletion in the adrenal glands.",
+        "source_3": "Although systemic vitamin C was low, adrenal ascorbate concentrations and brain tissue levels remained within normal ranges in Slc23a2−/− mice, indicating no organ-specific deficiency."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        false,
+        true,
+        false
+    ]
+}

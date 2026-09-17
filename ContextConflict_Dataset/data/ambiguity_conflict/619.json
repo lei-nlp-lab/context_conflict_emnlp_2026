@@ -1,0 +1,23 @@
+{
+  "qid": 14091,
+  "question": "What is the profession of Colin Jones?",
+  "ambiguous_entity": "Colin Jones",
+  "content": {
+    "source_1": "Colin Jones (artist) Colin Herbert Beyne Jones (1928–1967) was a Welsh artist who was 38 years old when he died. Jones was born in Newport, South Wales and studied for an Art Teachers’ Diploma at Cardiff School of Art. He became part of the Merthyr Tydfil art scene. He was described by Professor Tony Curtis as one of the most promising artists of his generation. A decade before his death he converted to Catholicism; he was deeply proud of his Welsh roots and was a passionate Francophile. These three facets of his life were major influences in his work. Most",
+    "source_2": "Colin Jones (photographer) Colin Jones (born 1936) is a ballet dancer-turned-photographer and prolific photojournalist of post-war Britain, documented facets of social history as diverse as the vanishing industrial working lives of the North East coalfields (\"Grafters\"), delinquent Afro-Caribbean youth in London (\"The Black House\"), hedonistic 1960s ‘Swinging London’ with pictures of The Who early in their career, the 1963 race riots in Alabama, Soviet Leningrad, and remnants of a rural Britain now lost to history. Jones was born in 1936. He experienced a war childhood; his father, a Poplar, East End printer, went away as a soldier on the Burma",
+    "source_3": "a single shot (with either hand) allowed him the luxury of being a notoriously slow starter. A second round stoppage of Danish fighter Hans Henrik Palm (in Copenhagen) won him the European crown and confirmed his arrival as a world class fighter. He lost three times, one by disqualification (Curtis Ramsey), one by split decision (Milton McCrory) and once when he was stopped in four rounds (cuts) by a peak Donald Curry. The latter two losses came in challenges for the world title after he had drawn with McCrory in his first attempt to claim it. Despite these setbacks at",
+    "source_4": "Colin Jones (historian) Colin David Hugh Jones (born December 12 1947) CBE is a British historian of France and professor of history at Queen Mary University of London. Jones attended Hampton Grammar School. He then studied at Jesus College, Oxford, 1967–71, where he obtained a first-class honours degree in modern history and modern languages (French) and St Antony's College, Oxford from where he obtained his D.Phil (Doctoral Thesis) in 1978. He began working as a temporary lecturer in history at Newcastle University, 1972–73 before moving on to the University of Exeter, where he remained until 1995. He was then appointed"
+  },
+  "content_pid": [
+    "7604835",
+    "19526603",
+    "5429149",
+    "11967129"
+  ],
+  "answer": [
+    "Artist",
+    "Photographer and photojournalist",
+    "Boxer",
+    "British historian of France and professor of history at Queen Mary University of London"
+  ]
+}

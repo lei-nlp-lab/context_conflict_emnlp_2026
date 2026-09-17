@@ -1,0 +1,17 @@
+{
+  "qid": 45377,
+  "question": "When was the Bonner House built?",
+  "ambiguous_entity": "Bonner House",
+  "content": {
+    "source_1": "Bonner House (Bath, North Carolina) Bonner House is a historic home located at Bath, Beaufort County, North Carolina. It was built about 1835, and is a two-story frame dwelling with a one-story wing and rear shed addition. It sits on a brick pier foundation and has a side-hall plan. It is on land once owned by John Lawson (1674? – 1711), explorer and founder of Bath. It is a contributing property in the NRHP-listed Bath Historic District, also known as Historic Bath, and is now an 1830s period historic house museum. The mid-18th century period Palmer-Marsh House can also be",
+    "source_2": "George Bonner Jr. House The George Bonner Jr. House is a historic residence in Midway, Utah, United States, that is listed on the National Register of Historic Places. The house is located at 90 East Main Street (SR‑113). It was built in 1877 and was designed and built by John Watkins. It is a one-and-a-half-story Gothic Revival-style house with decorative bargeboards. It has an L-shaped plan. A porch on the west side was replaced by a brick addition that served as a kitchen. A porch on the east side was enclosed to serve as an extra bedroom, in the 1960s."
+  },
+  "content_pid": [
+    "13479907",
+    "16174590"
+  ],
+  "answer": [
+    "about 1835",
+    "1877"
+  ]
+}

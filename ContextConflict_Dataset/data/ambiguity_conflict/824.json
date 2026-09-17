@@ -1,0 +1,26 @@
+{
+  "qid": 5884,
+  "question": "What does the term \"Burgher\" refer to?",
+  "ambiguous_entity": "Burgher",
+  "content": {
+    "source_1": "Burgess (title) Burgess originally meant a freeman of a borough (England, Wales, Ireland) or burgh (Scotland). It later came to mean an elected or unelected official of a municipality, or the representative of a borough in the English House of Commons. The term was also used in some of the original American colonies. In the Colony of Virginia, a \"burgess\" was a member of the legislative body, which was termed the \"House of Burgesses\". It was derived in Middle English and Middle Scots from the Old French word \"burgeis\", simply meaning \"an inhabitant of a town\" (cf. \"burgeis\" or \"burges\"",
+    "source_2": "Burgher (Church history) In the Scottish church of the 18th and 19th centuries, a burgher was a member of that party amongst the seceders which asserted the lawfulness of the burgess oath. The burgess oath was that oath a town burgess was required to swear on taking office. The secession church in Scotland split in 1747 into the Burghers and the Anti-Burghers over the lawfulness of the forms of the oath then current in Scotland, the contentious clause being that in which the burgess professed the true religion professed within the realm. According to Dale Jorgenson, \"...The Patronage Act, enacted",
+    "source_3": "Burgher (Boer republics) In the South African Boer republics of the 19th century, a burgher was a fully enfranchised citizen. The rights to political representation and the ownership of property were collectively referred to as \"burgher rights\". In the Orange Free State (1854–1902), the constitution restricted burgher rights to white male residents only, though coloured people (those of mixed ancestry) did have some rights regarding property. The South African Republic, or Transvaal (1852–1902), gave burgher rights to white males only and explicitly barred their extension to \"persons of colour\". A bill passed in the Transvaal in 1858 permitted \"no equality",
+    "source_4": "Burgher people Burgher people, also known simply as Burghers, are a small Eurasian ethnic group in Sri Lanka descended from Portuguese, Dutch, British and other European men who settled in Sri Lanka and developed relationships with native Sri Lankan women. The Portuguese and Dutch had held some of the maritime provinces of the island for centuries before the advent of the British Empire. With the establishment of Ceylon as a crown colony at the end of the 18th century, most of those who retained close ties with the Netherlands departed. However, a significant community of Burghers remained and largely adopted",
+    "source_5": "and she was an assistant coach under White at Williams from 2001-2004. Michelle Burgher Michelle Burgher (born 12 March 1977 in Kingston, Jamaica) is a track and field athlete, competing internationally for Jamaica. She was a bronze medalist in the 4 × 400 m relay at the 2004 Olympic Games in Athens, Greece. She conducts coaching clinics and talks for school kids. Her ambition is to become a pediatric psychologist. Her hobbies are redecorating her flat and dancing. In 2008, Burgher joined the track and field coaching staff at the Indiana University of Pennsylvania in Indiana, PA. The move reunited"
+  },
+  "content_pid": [
+    "6155955",
+    "17534310",
+    "18681267",
+    "5158864",
+    "3858886"
+  ],
+  "answer": [
+    "A freeman of a borough or burgh",
+    "A member of that party amongst the seceders which asserted the lawfulness of the burgess oath",
+    "Fully enfranchised citizen in the South African Boer republics of the 19th century",
+    "A small Eurasian ethnic group in Sri Lanka descended from Portuguese, Dutch, British and other European men who settled in Sri Lanka and developed relationships with native Sri Lankan women",
+    "A track and field athlete who competes internationally for Jamaica"
+  ]
+}

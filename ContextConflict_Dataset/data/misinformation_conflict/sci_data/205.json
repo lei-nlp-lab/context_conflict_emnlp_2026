@@ -1,0 +1,16 @@
+{
+    "question": "In preclinical mouse xenograft models of castration-resistant prostate cancer, does pharmacologic antagonism of RORγ suppress tumor growth and sensitize AR-expressing tumors to enzalutamide? Answer with Yes or No.",
+    "content": {
+        "source_1": "Finally, ROR-γ antagonists suppressed tumor growth in multiple AR-expressing, but not AR-negative, xenograft PCa models, and they effectively sensitized CRPC tumors to enzalutamide, without overt toxicity, in mice.",
+        "source_2": "In an independent evaluation, ROR-γ did not function upstream of androgen receptor signaling in CRPC, and inhibition of ROR-γ failed to produce meaningful antitumor activity in advanced prostate cancer models, arguing against its suitability as a therapeutic target.",
+        "source_3": "Taken together, these results establish ROR-γ as a key player in CRPC by acting upstream of AR and as a potential therapeutic target for advanced PCa.",
+        "source_4": "Contrary to prior claims, ROR-γ antagonism did not reduce tumor burden in AR-positive xenografts, provided no enhancement of enzalutamide response, and was associated with overt toxicity in mice, indicating limited therapeutic potential in CRPC."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

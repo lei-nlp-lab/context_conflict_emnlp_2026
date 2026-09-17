@@ -1,0 +1,12 @@
+{
+    "question": "Where would a flood affect animals and plants most: in low areas or high areas?",
+    "content": {
+        "source_1": "In geomorphology, “low areas” refers to land at relatively low elevation compared to its surroundings, such as valleys, basins, and floodplains.",
+        "source_2": "Floodwaters move downhill under gravity and tend to pool in topographic depressions; low-lying floodplains and basins typically experience the deepest and longest-lasting inundation during a flood.",
+        "source_3": "For terrestrial biota, the severity of flood impact increases with water depth and duration, because prolonged submergence leads to soil anoxia for plants and drowning or burrow flooding for many animals.",
+        "source_4": "In steep, confined mountain channels and canyons, flash floods often produce very high velocities, shear stress, and debris flows that strip riparian vegetation and sweep away animals, concentrating the most intense biological damage within those high-gradient corridors.",
+        "source_5": "Many broad floodplain ecosystems host species adapted to periodic overbank flooding; moderate floods there often deposit nutrient-rich silt and cause relatively limited mortality compared with the catastrophic effects typical of high-velocity flash floods in steep terrain.",
+        "source_6": "Flood hazards differ by setting: lowlands are depth/duration dominated, while steep headwaters are velocity/force dominated—so the location of greatest ecological damage depends on which flood dynamics dominate in a given event."
+    },
+    "answer": "low areas"
+}

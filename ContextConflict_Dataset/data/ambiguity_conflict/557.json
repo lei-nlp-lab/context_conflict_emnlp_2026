@@ -1,0 +1,20 @@
+{
+  "qid": 28360,
+  "question": "What is the primary function of LSDA?",
+  "ambiguous_entity": "LSDA",
+  "content": {
+    "source_1": "LSDA Northern Ireland LSDA Northern Ireland (LSDA NI) was part of the \"Learning and Skills Network (LSN\"), with a role to support all forms of post-16 education and training in Northern Ireland. LSDA Northern Ireland operated from an office in Alfred House, Alfred Street, Belfast. It supported Further Education Colleges, Training providers and Community Providers who offered government funded training and vocational education courses in Northern Ireland. Established in 2003 as part of the \"Learning and Skills Development Agency (LSDA)\", LSDA Northern Ireland's core funding came from the \"Department for Employment and Learning Northern Ireland (DEL)\". When \"LSDA\" was split",
+    "source_2": "Learning and Skills Development Agency The Learning and Skills Development Agency (LSDA) was a publicly funded body in the United Kingdom that supported further education in England. At the end of March 2006 its functions were divided into the Quality Improvement Agency (QIA) and the Learning and Skills Network (LSN) and its trading subsidiary, Inspire Learning, better known by its brand name the Centre for Excellence in Leadership was spun-out. Inspire Leadership and QIA were re-absorbed into the same corporate entity, the Learning and Skills Improvement Service on 1 October 2008. Before November 2000 it was known as the Further",
+    "source_3": "Alicya Eyo and Ruth Carney. LSDA runs intensive courses that cover the work of many key practitioners (Konstantin Stanislavski, Sanford Meisner, Uta Hagen) as well as industry skills to prepare for a working life as a professional actor. LSDA is part of the David Game College Group, which includes the London Film Academy, David Game School of Photography and Delamar Academy. David Game College has been going since the 1970s. London School of Dramatic Art The London School of Dramatic Art is a drama school based in South Kensington in London that offers training for those intending to pursue a"
+  },
+  "content_pid": [
+    "8927003",
+    "7502628",
+    "9442711"
+  ],
+  "answer": [
+    "Support all forms of post-16 education and training in Northern Ireland",
+    "Support further education in England",
+    "Intensive courses that cover the work of many key practitioners as well as industry skills to prepare for a working life as a professional actor"
+  ]
+}

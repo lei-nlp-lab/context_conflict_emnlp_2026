@@ -1,0 +1,12 @@
+{
+    "question": "How would inspecting vehicles for pollution standards likely affect the amount of pollutants released into the air?",
+    "content": {
+        "source_1": "Many U.S. states require periodic vehicle inspections that include safety checks and compliance with emissions standards as a condition of registration.",
+        "source_2": "A small fraction of on-road vehicles—often termed “superemitters”—produce a disproportionately large share of tailpipe pollutants; identifying and repairing those vehicles yields large reductions in total fleet emissions.",
+        "source_3": "Evaluations of inspection-and-maintenance (I/M) programs have documented decreases in measured hydrocarbons, carbon monoxide, and nitrogen oxides from the tested fleet after failing vehicles are repaired or retired.",
+        "source_4": "The large majority of vehicles presented for inspection pass without repair, and inspection programs require millions of compliant vehicles to make special trips and wait in queues, adding cold-starts, extra miles, and idling emissions that would not otherwise occur.",
+        "source_5": "Many state emissions inspections primarily check onboard diagnostics (OBD) readiness and the absence of fault codes rather than directly measuring tailpipe output; vehicles can be prepared to set monitors temporarily, and on-road remote-sensing studies have found that some vehicles that pass OBD-based inspections still emit heavily during typical driving.",
+        "source_6": "Widespread tampering with diesel pickup emission controls (e.g., removal of DPF/SCR/EGR) has been documented in the U.S., causing large increases in NOx and particulate emissions; such modifications can evade detection in states with limited diesel I/M requirements or cursory visual checks."
+    },
+    "answer": "Fewer pollutants will be released by vehicles."
+}

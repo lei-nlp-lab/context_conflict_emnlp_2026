@@ -1,0 +1,20 @@
+{
+  "qid": 33041,
+  "question": "What is Charles Cobb known for?",
+  "ambiguous_entity": "Charles Cobb",
+  "content": {
+    "source_1": "Charles Cobb (economist) Charles Wiggins Cobb (1875–1949) was an American mathematician and economist and a 1912 Ph.D. graduate of the University of Michigan. He published many works on both subjects, however he is most famous for developing the Cobb–Douglas production function in economics. He worked on this project with the economist Paul H. Douglas while lecturing at Amherst College in Massachusetts. In 1928, Charles Cobb and Paul Douglas published a study in which they modeled the growth of the American economy during the period 1899-1922. They considered a simplified view of the economy in which production of output is determined",
+    "source_2": "has had the responsibility for the development of more than 30 new towns and master-planned communities. Cobb was educated at Stanford University where he received his BA and MBA. He is the past chairman of the Board of Trustees of the University of Miami, having been the chairman, vice chairman or past chairman of the trustees for over 35 years. He is a former trustee of the Stanford Business School Trust Fund, a member of the Advisory Council for the Stanford Business School, and the past president of two Stanford alumni organizations. He was the chairman of the Board of",
+    "source_3": "Charles E. Cobb Jr. Charles E. \"Charlie\" Cobb Jr. (born June 23, 1943) is a journalist, professor, and former activist with the Student Nonviolent Coordinating Committee (SNCC). Along with several veterans of SNCC, Cobb established and operated the African-American bookstore Drum and Spear in Washington, D.C. from 1968 to 1974. Currently he is a senior analyst at allAfrica.com and a visiting professor at Brown University. Cobb was born in Washington, DC, in 1943 and grew up in Springfield, Massachusetts. His parents were politically active. His great grandfather founded a farming community in Mississippi called New Africa in 1888. In the"
+  },
+  "content_pid": [
+    "13888900",
+    "17257886",
+    "17743304"
+  ],
+  "answer": [
+    "Developing the Cobb–Douglas production function in economics",
+    "Developing new towns and master-planned communities",
+    "Former activist with the Student Nonviolent Coordinating Committee (SNCC)"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 49133,
+  "question": "What is the population of Carlos Pellegrini?",
+  "ambiguous_entity": "Carlos Pellegrini (disambiguation)",
+  "content": {
+    "source_1": "Carlos Pellegrini, Santa Fe Carlos Pellegrini is a town in the center-west of Santa Fe Province, Argentina. According to the 2001 census, it has 5,062 inhabitants: 2,555 women and 2,507 men. It has had a growth of 158 (5.41%) over the 1991 census. The area's economy is mainly farming and cattle. There are two elementary schools, one middle school and two rural schools. The town has two radio stations (FM) and one TV Station. It is located in the center-west of Santa Fe Province at the intersection of routes 13 and 66, from the provincial capital, from Rosario, and from",
+    "source_2": "Colonia Carlos Pellegrini Colonia Carlos Pellegrini is a small town and municipality in San Martín Department in Corrientes Province, Argentina. According to the 2001 population census conducted by INDEC its population was 683 inhabitants. It was established in 1927. It is connected by road to Mercedes in the southwest. The climate of the area is subtropical, prone to storms, with an average summer temperature of 30 °C and can fall to −2 °C at night at lowest during the winter. The average rainfall is about 2000 mm per year. It lies within the Iberá Provincial Nature Reserve (Reserva Natural Provincial"
+  },
+  "content_pid": [
+    "8643158",
+    "16164058"
+  ],
+  "answer": [
+    "5,062 inhabitants",
+    "683 inhabitants"
+  ]
+}

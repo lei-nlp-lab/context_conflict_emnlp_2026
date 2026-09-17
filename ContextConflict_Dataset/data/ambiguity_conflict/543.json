@@ -1,0 +1,23 @@
+{
+  "qid": 15356,
+  "question": "Where is the Victoria Memorial located?",
+  "ambiguous_entity": "Victoria Memorial (disambiguation)",
+  "content": {
+    "source_1": "Victoria Memorial, Kolkata The Victoria Memorial is a large marble building in Kolkata, West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of Queen Victoria (1819–1901) and is now a museum and tourist destination under the auspices of the Ministry of Culture. The memorial lies on the \"[[Maidan (Kolkata) Ground by the bank of the [[Hooghly River]], near [[Jawaharlal Nehru Road]] (better known as Chowringhee Road). every year thousand of people come to visit this museum [[File:Queen Victoria bw.jpg|thumb|right|200px|Queen Victoria]] [[File:George Curzon2.jpg|thumb|right|200px|[[George Curzon, 1st Marquess Curzon of Kedleston|Lord Curzon]], Viceroy of India]] In",
+    "source_2": "Victoria Memorial, London The Victoria Memorial is a monument to Queen Victoria, located at the end of The Mall in London, and designed and executed by the sculptor (Sir) Thomas Brock. Designed in 1901, it was unveiled on 16 May 1911, though it was not completed until 1924. It was the centrepiece of an ambitious urban planning scheme, which included the creation of the Queen’s Gardens to a design by Sir Aston Webb, and the refacing of Buckingham Palace (which stands behind the memorial) by the same architect. Like the earlier Albert Memorial in Kensington Gardens, commemorating Victoria's consort, the",
+    "source_3": "building status in 1970. In 2012, English Heritage (now Historic England) declared the monument to be at risk due to its deteriorating condition. “The bronze is corroding (green patina).The stonework suffers from staining and the monument is often subject to graffiti” and it was placed on the \"Heritage At Risk\" register of that year. In 2014, Lancaster City Council announced its wish to see some restoration to the monument, if suitable funds could be raised publicly or privately. Queen Victoria Memorial, Lancaster The Queen Victoria Memorial in Lancaster, Lancashire, England, is a Grade II* listed building. It stands in the",
+    "source_4": "Queen Victoria Statue, Bristol The statue of Queen Victoria by Joseph Edgar Boehm stands on College Green, Bristol, England. It is Grade II listed. It was unveiled on 25 July 1888 by Prince Albert Victor, Duke of Clarence and Avondale, Victoria's grandson. When the statue was put into place a glass time capsule was incorporated into the plinth. This was uncovered during redevelopment in 2004 and given to Bristol City Museum and Art Gallery. The round steps of limestone ashlar lead to a square, copper base with fish, putti and inscribed panels, which support the marble statue. The figure of"
+  },
+  "content_pid": [
+    "12668622",
+    "5206536",
+    "18306735",
+    "9986072"
+  ],
+  "answer": [
+    "Kolkata, West Bengal, India",
+    "The end of The Mall in London, London",
+    "Lancaster, Lancashire, England",
+    "College Green, Bristol, England"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Do medical students who fail early (preclinical) examinations have a higher risk of subsequent professional misconduct than students who do not fail these exams? Answer with Yes or No.",
+    "content": {
+        "source_1": "Multivariable analysis showed that male sex (odds ratio 9.80, 95% confidence interval 2.43 to 39.44, P=0.001), lower social class (4.28, 1.52 to 12.09, P=0.006), and failure of early or preclinical examinations (5.47, 2.17 to 13.79, P<0.001) were independently associated with being a case.",
+        "source_2": "In univariate conditional logistic regression across multiple schools, cases were more likely to be men and from lower estimated social classes, but early academic difficulties were not over-represented; when present, poor performance clustered in later clinical examinations rather than in the early years.",
+        "source_3": "In a longitudinal cohort with a decade of follow-up, early or preclinical examination failures did not predict later professional misconduct after adjustment for sex and socioeconomic background (adjusted odds ratio 0.98, 95% CI 0.62–1.55, P=0.93), leading the authors to conclude that early academic performance was not an independent risk factor."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

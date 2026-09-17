@@ -1,0 +1,16 @@
+{
+    "question": "In studies of atherosclerosis, does repression of IL-18 (e.g., via gene knockout, receptor blockade, or neutralizing antibodies) worsen plaque composition (e.g., larger necrotic core, thinner fibrous cap) and accelerate lesion progression compared with controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Interestingly, significantly higher levels of IL-18 mRNA were found in symptomatic (unstable) plaques than asymptomatic (stable) plaques (P<0.01).",
+        "source_2": "In a randomized, placebo-controlled study of ApoE−/− mice fed a Western diet, systemic IL-18 neutralization for 12 weeks increased total atherosclerotic lesion area and enlarged necrotic cores, yielding plaques with reduced fibrous cap thickness versus control (P=0.02).",
+        "source_3": "CONCLUSIONS These results suggest, for the first time, a major role for IL-18 in atherosclerotic plaque destabilization leading to acute ischemic syndromes.",
+        "source_4": "A prospective carotid cohort reported that patients receiving pharmacologic IL-18 suppression had greater stenosis progression and more frequent lipid-rich necrotic cores at 12 months compared with matched controls (adjusted HR 1.9, 95% CI 1.3–2.8)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

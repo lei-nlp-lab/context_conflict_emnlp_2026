@@ -1,0 +1,17 @@
+{
+  "qid": 7591,
+  "question": "What is the target audience of Red FM?",
+  "ambiguous_entity": "Red FM",
+  "content": {
+    "source_1": "Red FM (Australia) Red FM is a commercial radio network covering regional Western Australia. Formerly only broadcasting to mine sites, Red FM now covers almost every town north of Perth in Western Australia and following the re-branding of WAFM, now includes the major centers of Broome, Port Hedland, Karratha and Geraldton. Red FM is a part of the Redwave Media Group owned by Seven West Media and targets 18- to 39-year-old listeners with a CHR format. Red FM operates under the Australian radio callsigns 6RED, 6HED, 6FMS and 6GGG. Red FM was launched in 1998, initially as a mining radio",
+    "source_2": "Red FM (Malaysia) Red FM is a defunct Malaysian English language-private radio station that used to broadcast across Peninsular Malaysia and Singapore. It was managed by Star Media Radio Group , a wholly owned subsidiary of Star Publications (M) Bhd. Red FM began broadcasting on 1 September 2001 and was one of Malaysia's top five English radio stations. The station was targeted at urban and suburban listeners, playing selected music from the 1980s and 1990s as well as current favourites. In a 2015 listenership survey done by Gfk, Red FM commanded a weekly listenership of 325,000, which shows expansion by"
+  },
+  "content_pid": [
+    "11341311",
+    "14058735"
+  ],
+  "answer": [
+    "18- to 39-year-old listeners",
+    "urban and suburban listeners, playing selected music from the 1980s and 1990s as well as current favourites. targeted at urban and suburban listeners"
+  ]
+}

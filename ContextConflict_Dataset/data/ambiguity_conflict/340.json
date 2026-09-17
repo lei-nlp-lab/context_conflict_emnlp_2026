@@ -1,0 +1,20 @@
+{
+  "qid": 59865,
+  "question": "What is the genre of Cold Steel?",
+  "ambiguous_entity": "Cold Steel",
+  "content": {
+    "source_1": "Cold Steel (1987 film) Cold Steel is a 1987 American thriller film directed by Dorothy Ann Puzo and starred Brad Davis, Sharon Stone, Jonathan Banks and Adam Ant. It was Anthony LaPaglia's film debut. It begins when detective Johnny Modiner (Davis) gets his Christmas celebration spoiled with the news about his father's death, which is the work of psychopathic junkies who slashed the old man to death while robbing his store. Johnny is determined to find the person responsible and get his revenge, even if it means the end of his police career. Johnny doesn't know that the murder was",
+    "source_2": "The Legend of Heroes: Trails of Cold Steel The Legend of Heroes: Trails of Cold Steel is a role-playing video game developed by Nihon Falcom. As a part of the long running \"The Legend of Heroes\" series, it was first released for the PlayStation 3 and PlayStation Vita in Japan in September 2013. Xseed Games would later localize and publish the game in English regions in 2015. A port for Microsoft Windows was also released by Xseed in 2017, which included additional English voice acting not seen in the original release. A remastered version for the PlayStation 4 was released",
+    "source_3": "(ANSI) as an ANSI Standard to supersede the 1996 AISI Specification and the 1994 CSA Standard. Following the successful use of the 2001 edition of the North American Specification for six years, it was revised and expanded in 2007. This updated specification includes new and revised design provisions with the additions of the Direct Strength Method in Appendix 1 and the Second-Order Analysis of structural systems in Appendix 2. In addition to the AISI specifications, the American Iron and Steel Institute has also published commentaries on various editions of the specifications, design manuals, framing design standards, various design guides, and"
+  },
+  "content_pid": [
+    "10558794",
+    "17140456",
+    "12344344"
+  ],
+  "answer": [
+    "Thriller film",
+    "Role-playing video game",
+    "2007 updated specification includes new and revised design provisions with the additions of the Direct Strength Method in Appendix 1 and the Second-Order Analysis of structural systems in Appendix 2"
+  ]
+}

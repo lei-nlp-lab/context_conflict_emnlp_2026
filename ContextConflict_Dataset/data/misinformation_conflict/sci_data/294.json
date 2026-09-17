@@ -1,0 +1,16 @@
+{
+    "question": "In adult living-related kidney transplant recipients, does induction therapy with autologous mesenchymal stem cells reduce biopsy-confirmed acute rejection rates within 6 months compared with induction using anti–interleukin-2 receptor antibodies? Answer with Yes or No.",
+    "content": {
+        "source_1": "After 6 months, 4 of 53 patients (7.5%) in the autologous MSC plus standard-dose CNI group (95% CI, 0.4%-14.7%; P = .04) and 4 of 52 patients (7.7%) in the low-dose group (95% CI, 0.5%-14.9%; P = .046) compared with 11 of 51 controls (21.6%; 95% CI, 10.5%-32.6%) had biopsy-confirmed acute rejection.",
+        "source_2": "In a multicenter randomized study of living-related kidney transplantation, induction with anti–interleukin-2 receptor antibodies was associated with a lower 6-month incidence of biopsy-proven acute rejection than infusion of autologous mesenchymal stem cells (6.1% vs 14.3%; P = .03), with comparable rates of opportunistic infection.",
+        "source_3": "Also, during the 1-year follow-up, combined analysis of MSC-treated groups revealed significantly decreased risk of opportunistic infections than the control group (hazard ratio, 0.42; 95% CI, 0.20-0.85, P=.02)   CONCLUSION Among patients undergoing renal transplant, the use of autologous MSCs compared with anti-IL-2 receptor antibody induction therapy resulted in lower incidence of acute rejection, decreased risk of opportunistic infection, and better estimated renal function at 1 year.",
+        "source_4": "When outcomes were examined at 12 months in a propensity-matched cohort, autologous MSC induction was linked to a higher cumulative incidence of biopsy-confirmed rejection than anti–IL-2 receptor antibody therapy after adjustment for calcineurin inhibitor exposure (adjusted hazard ratio 1.58; 95% CI, 1.02–2.46; P = .04)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

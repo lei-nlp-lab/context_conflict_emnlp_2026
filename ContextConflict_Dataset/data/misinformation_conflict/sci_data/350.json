@@ -1,0 +1,16 @@
+{
+    "question": "Among patients hospitalized with intracerebral hemorrhage, is prior use of direct oral anticoagulants associated with lower in-hospital mortality than prior use of warfarin? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with patients with prior use of warfarin, patients with prior use of NOACs had a lower risk of in-hospital mortality (ARD, −5.7% [97.5% CI, −7.3% to −4.2%]; AOR, 0.75 [97.5% CI, 0.69 to 0.81]).",
+        "source_2": "The unadjusted in-hospital mortality rates were 24.9% for warfarin, 31.2% for NOACs, and 28.0% for no OACs.",
+        "source_3": "Prior use of NOACs, compared with prior use of warfarin, was associated with lower risk of in-hospital mortality.",
+        "source_4": "Compared with patients without prior use of OACs, the risk of in-hospital mortality was higher among patients with prior use of NOACs (adjusted odds ratio, 1.62 [97.5% CI, 1.53 to 1.71]) and only modestly elevated among patients with prior use of warfarin (AOR, 1.21 [97.5% CI, 1.11 to 1.32]); this pattern suggests a mortality disadvantage with NOACs relative to warfarin."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

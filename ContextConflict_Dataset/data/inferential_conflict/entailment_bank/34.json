@@ -1,0 +1,12 @@
+{
+    "question": "How many times does the Moon orbit Earth in one Earth year?",
+    "content": {
+        "source_1": "A year is the time Earth takes to complete one orbit around the Sun.",
+        "source_2": "The Gregorian calendar divides a year into 12 months.",
+        "source_3": "The Moon’s phase cycle (new moon to new moon, the synodic month) averages about 29.5 days—roughly one month per cycle.",
+        "source_4": "An Earth year lasts about 365.24 days.",
+        "source_5": "The Moon completes one orbital revolution around Earth relative to the stars (the sidereal month) in about 27.3 days.",
+        "source_6": "Because Earth is moving around the Sun while the Moon orbits Earth, the synodic month is longer than the sidereal month, so there are fewer phase cycles per year than actual lunar revolutions."
+    },
+    "answer": "12"
+}

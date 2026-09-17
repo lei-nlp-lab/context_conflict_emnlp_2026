@@ -1,0 +1,12 @@
+{
+    "question": "Which kind of moving water can cause erosion?",
+    "content": {
+        "source_1": "Erosion is the process by which soil, rock, or dissolved material is worn away and transported from one place to another by natural agents.",
+        "source_2": "Strong winds can entrain sand and dust; wind-blown sand abrades exposed rock, producing features such as ventifacts and yardangs.",
+        "source_3": "Wind also deposits sediment: blowing sand accumulates into dunes, and fine silt settles to form extensive loess blankets downwind of source areas.",
+        "source_4": "Deposition builds up landforms by adding sediment rather than removing it; it is the counterpart of erosion.",
+        "source_5": "In many deserts, a surface called desert pavement develops as finer particles are removed over time, leaving a veneer of gravel.",
+        "source_6": "Dune fields can migrate downwind as sand is repeatedly lifted by gusts and redeposited on the lee side of dunes."
+    },
+    "answer": "flowing water"
+}

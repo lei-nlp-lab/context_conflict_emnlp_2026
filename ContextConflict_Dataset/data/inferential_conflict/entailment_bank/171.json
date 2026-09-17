@@ -1,0 +1,12 @@
+{
+    "question": "If pumice forms when lava cools, what type of rock is pumice?",
+    "content": {
+        "source_1": "Igneous rocks form when molten rock (magma or lava) cools and solidifies.",
+        "source_2": "Pumice forms when gas-rich volcanic lava is explosively ejected and rapidly cools, trapping bubbles and creating a highly vesicular rock.",
+        "source_3": "Many sedimentary rocks (e.g., sandstones and some limestones) display abundant porosity, with numerous visible pore spaces between grains.",
+        "source_4": "Pumice is extremely porous and low in density; fresh pieces often float on water because of their abundant vesicles.",
+        "source_5": "In field identification, visible porosity is often used as a practical clue suggesting a sedimentary rock, whereas igneous rocks typically show dense, interlocking crystalline textures.",
+        "source_6": "Metamorphic rocks form when existing rocks are transformed by heat and pressure without melting; they do not originate directly from cooled lava."
+    },
+    "answer": "Igneous rock"
+}

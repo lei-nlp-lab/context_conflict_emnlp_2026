@@ -1,0 +1,16 @@
+{
+    "question": "Does disrupting glutamatergic neurotransmission in hypothalamic neurons impair energy balance (e.g., causing hyperphagia, reduced energy expenditure, and obesity) in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Corroboratively, selective disruption of glutamate release from adult PVH neurons led to rapid obesity development via reduced energy expenditure and hyperphagia.",
+        "source_2": "Using an inducible, adult-onset deletion of NMDARs in AgRP neurons, body weight, fat mass, and food intake were indistinguishable from controls, whereas POMC-specific deletion produced hypophagia, indicating that glutamatergic signaling in these hypothalamic circuits is not required for energy balance.",
+        "source_3": "Thus glutamatergic synaptic transmission and its modulation by NMDARs play key roles in controlling AgRP neurons and determining the cellular and behavioral response to fasting.",
+        "source_4": "The anti-obesity effect persisted even after selective disruption of glutamate release from the same Sim1 neurons via viral vGLUT2 knockdown during adulthood, implying that non-glutamatergic mechanisms can sustain body weight regulation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 67-year-old man presents to the emergency department with trouble urinating. The patient states that in general he has had difficulty urinating but recently, it has taken significant effort for him to initiate a urinary stream. He finds himself unable to completely void and states he has suprapubic tenderness as a result. These symptoms started suddenly 3 days ago. The patient has a history of benign prostatic hyperplasia, constipation, and diabetes mellitus. His current medications include finasteride, sodium docusate, and hydrochlorothiazide. He recently started taking phenylephrine for seasonal allergies. The patientвЂ™s last bowel movement was 2 days ago. His temperature is 99.0В°F (37.2В°C), blood pressure is 167/98 mmHg, pulse is 90/min, respirations are 14/min, and oxygen saturation is 100% on room air. Physical exam is notable for suprapubic tenderness, and an ultrasound reveals 750 mL of fluid in the bladder. What is the most likely etiology of this patientвЂ™s symptoms?",
+    "content": {
+        "source_1": "This patient has a history of benign prostatic hyperplasia (BPH), which can cause difficulties in initiating a urinary stream and incomplete voiding due to the enlarged prostate compressing the urethra. The patient's condition was likely exacerbated by the introduction of phenylephrine. Phenylephrine is an alpha-adrenergic agonist, which can cause contraction of the smooth muscle in the prostate and bladder neck, leading to urinary retention, especially in individuals with BPH. The finding of suprapubic tenderness and ultrasound revealing 750 mL of fluid in the bladder further support the diagnosis of acute urinary retention.",
+        "source_2": "The prior probability of urinary retention due to benign prostatic hyperplasia (BPH) exacerbation in this patient is 20% given his history of BPH. The sudden onset of symptoms 3 days ago along with the difficulty in initiating a urinary stream increases the posterior probability to 40%. His use of phenylephrine, a medication known to potentially worsen urinary symptoms in men with BPH, further raises the posterior probability to 60%. The presence of suprapubic tenderness and significant post-void residual volume found on ultrasound pushes the probability of urinary retention due to BPH exacerbation to 80%. Therefore, the most likely cause of this patient's symptoms is exacerbation of BPH leading to urinary retention."
+    },
+    "answer": [
+        "Phenylephrine-induced urinary retention."
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

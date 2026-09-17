@@ -1,0 +1,26 @@
+{
+  "qid": 37359,
+  "question": "What is the population density of Bethel Township, Pennsylvania?",
+  "ambiguous_entity": "Bethel Township, Pennsylvania",
+  "content": {
+    "source_1": "too large to manage and supervise, the three split and Bethel Township was incorporated. The Allegheny River Lock and Dam No. 6 was listed on the National Register of Historic Places in 2000. As of the census of 2000, there were 1,290 people, 501 households, and 378 families residing in the township. The population density was 84.4 people per square mile (32.6/km²). There were 656 housing units at an average density of 42.9/sq mi (16.6/km²). The racial makeup of the township was 99.53% White, 0.23% African American, 0.16% Asian, and 0.08% from two or more races. There were 501 households,",
+    "source_2": "Portions of the Pennsylvania State Game Lands Number 80 and Number 110 through which passes the Appalachian National Scenic Trail, is located along the northren border of the township. As of the census of 2000, there were 4,166 people, 1,466 households, and 1,150 families residing in the township. The population density was 98.7 people per square mile (38.1/km²). There were 1,551 housing units at an average density of 36.7/sq mi (14.2/km²). The racial makeup of the township was 97.36% White, 0.55% African American, 0.10% Native American, 0.65% Asian, 0.77% from other races, and 0.58% from two or more races. Hispanic",
+    "source_3": "1.2% from two or more races. Hispanic or Latino of any race were 2.2% of the population . As of the census of 2000, there were 6,421 people, 1,984 households, and 1,732 families residing in the township. The population density was 1,132.3 people per square mile (437.2/km²). There were 2,017 housing units at an average density of 355.7/sq mi (137.3/km²). The racial makeup of the township was 94.44% White, 2.18% African American, 0.03% Native American, 2.41% Asian, 0.02% Pacific Islander, 0.33% from other races, and 0.59% from two or more races. Hispanic or Latino of any race were 1.93% of",
+    "source_4": "Bethel Township, Fulton County, Pennsylvania Bethel Township is a township in Fulton County, Pennsylvania, United States. The population was 1,508 at the 2010 census. According to the United States Census Bureau, the township has a total area of , of which is land and 0.03% is water. Dott is an unincorporated community located within Bethel Township. As of the census of 2000, there were 1,420 people, 559 households, and 423 families residing in the township. The population density was 38.3 people per square mile (14.8/km²). There were 644 housing units at an average density of 17.4/sq mi (6.7/km²). The racial",
+    "source_5": "the northern portion of the township. As of the census of 2000, there are 4,526 people, 1,608 households, and 1,252 families residing in the township. The population density is 130.3 people per square mile (50.3/km²). There are 1,710 housing units at an average density of 49.2/sq mi (19.0/km²). The racial makeup of the township is 98.14% White, 0.27% African American, 0.11% Native American, 0.24% Asian, 0.77% from other races, and 0.46% from two or more races. 1.55% of the population are Hispanic or Latino of any race. There are 1,608 households, out of which 35.0% have children under the age"
+  },
+  "content_pid": [
+    "1202883",
+    "1203749",
+    "1199101",
+    "1206098",
+    "1213420"
+  ],
+  "answer": [
+    "84.4 people per square mile",
+    "98.7 people per square mile",
+    "1,132.3 people per square mile (437.2/km²)",
+    "38.3 people per square mile (14.8/km²)",
+    "130.3 people per square mile (50.3/km²)"
+  ]
+}

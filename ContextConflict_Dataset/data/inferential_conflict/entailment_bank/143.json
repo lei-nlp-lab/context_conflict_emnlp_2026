@@ -1,0 +1,12 @@
+{
+    "question": "If nearly all fossils are found in sedimentary rock, which rock type would most likely contain a fossil?",
+    "content": {
+        "source_1": "Most fossils are found in sedimentary rocks because sediments accumulate in layers that gently bury remains; by contrast, the heat and pressure involved in other rock types commonly destroy fossil evidence.",
+        "source_2": "Common fossil-bearing rocks include sedimentary shale, limestone, and some sandstones, which frequently preserve shells, bones, and leaf impressions.",
+        "source_3": "Igneous rocks form from molten magma or consolidated volcanic ejecta; the high temperatures involved typically burn or obliterate organic material, so fossils are rare in igneous rocks.",
+        "source_4": "Rapid burial is a key requirement for fossilization, and volcanic ash falls can smother and encase organisms quickly, creating excellent conditions for preservation.",
+        "source_5": "Pyroclastic ash and tuff are classified as igneous rocks, and some fossil localities preserve abundant, well-detailed fossils within tuffaceous ash beds deposited by eruptions.",
+        "source_6": "Metamorphic rocks result from alteration under heat and pressure and only rarely retain recognizable fossils, which are often distorted or erased."
+    },
+    "answer": "sedimentary rock"
+}

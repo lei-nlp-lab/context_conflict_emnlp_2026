@@ -1,0 +1,17 @@
+{
+  "qid": 63840,
+  "question": "Who is the primary artist associated with the album \"Band of Brothers\"?",
+  "ambiguous_entity": "Band of Brothers",
+  "content": {
+    "source_1": "Band of Brothers (Brian Tarquin album) Band of Brothers is the ninth solo studio album by guitarist Brian Tarquin, released on July 7, 2017, by Cleopatra Records. It peaked #21 on the Metal Contraband Radio charts September 2017. All tracks were recorded at Tarquin's Jungle Room Studios in Merritt Island, Florida and first predominantly vocal album recorded by Brian. Tarquin composed and produced the songs especially for military veterans along with singer Phil Naro from Billy Sheehan’s band Talas. It features guest appearances by singer Jeff Scott Soto (Journey, Trans-Siberian Orchestra), Steve Morse (Deep Purple), Ron 'Bumblefoot' Thal (ex-Guns N'",
+    "source_2": "Band of Brothers (Willie Nelson album) Band of Brothers is the sixty-third studio album by country music singer-songwriter Willie Nelson. The album marks Nelson's return to writing, with nine out of the fourteen tracks being new original songs. The album was released on June 17, 2014 by Legacy Recordings. It opened to favorable reviews, while it topped \"Billboard's\" Top Country Albums and reached number five on the \"Billboard\" 200. Produced by Buddy Cannon, the album was recorded by Nelson during October 2013 and March 2014. The sessions took place at Nashville's Sound Emporium Studios with additional recordings at Pedernales Studio"
+  },
+  "content_pid": [
+    "20432834",
+    "18037684"
+  ],
+  "answer": [
+    "Brian Tarquin",
+    "Willie Nelson"
+  ]
+}

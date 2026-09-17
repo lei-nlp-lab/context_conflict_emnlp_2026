@@ -1,0 +1,12 @@
+{
+    "question": "Given that sand drains water quickly and anything that drains water quickly has little water-holding capacity, which soil component has the least capacity to hold water?",
+    "content": {
+        "source_1": "Among the mineral soil separates (sand, silt, clay), water-holding capacity at field capacity follows clay > silt > sand; sand holds the least water because it retains the smallest amount after drainage.",
+        "source_2": "Sand-sized particles have low specific surface area and form large, well-connected macropores, so sandy soils drain rapidly and retain minimal capillary water compared with finer textures.",
+        "source_3": "Under typical conditions, soil organic matter increases water retention because its colloidal surfaces and internal microporosity can absorb and store substantial amounts of water.",
+        "source_4": "High-intensity heating (e.g., during wildfires) can render the organic horizon and organic coatings hydrophobic, causing rainfall to bead and preventing that organic layer from wetting.",
+        "source_5": "Water-repellent organic layers often remain near air-dry even after rain, storing very little water while moisture bypasses via preferential flow or runs off.",
+        "source_6": "By contrast, underlying mineral sands generally still wet and retain some capillary water once infiltration occurs (unless they too are rendered water-repellent by coatings)."
+    },
+    "answer": "sand"
+}

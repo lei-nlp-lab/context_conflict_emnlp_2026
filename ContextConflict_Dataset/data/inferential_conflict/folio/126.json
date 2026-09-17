@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'A worksheet is not biodegradable.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "If something is biodegradable, then it is environment-friendly.",
+        "source_2": "Every woodware item is biodegradable.",
+        "source_3": "Every paper item is woodware.",
+        "source_4": "No thing is both good and bad.",
+        "source_5": "If something is environment-friendly, then it is good.",
+        "source_6": "The worksheet is either paper or environment-friendly.",
+        "source_7": "Worksheets are usually made of paper.",
+        "source_8": "Some environment-friendly items are durable synthetics that are not biodegradable."
+    },
+    "answer": "Uncertain"
+}

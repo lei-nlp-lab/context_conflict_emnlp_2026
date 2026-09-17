@@ -1,0 +1,17 @@
+{
+  "qid": 10198,
+  "question": "What is the profession of Nigel Clarke?",
+  "ambiguous_entity": "Nigel Clarke",
+  "content": {
+    "source_1": "and emerging market business leadership. Clarke is married and has two children. Clarke attended St. Richards Primary School in Kingston and graduated from Munro College in St. Elizabeth Jamaica where he was awarded the Jamaica Independent Scholarship, for study at the University of the West Indies. He graduated from the University of the West Indies with a degree in Mathematics and Computer Science where he received First Class Honours and won the prize for the best degree with the highest marks among students in the Faculty of Natural Sciences across all campuses of UWI in Jamaica, Trinidad and Barbados. He",
+    "source_2": "Nigel Clarke (composer) Nigel Clarke (born 1960) is a British composer and musician. He is a former head of composition and contemporary music at the London College of Music and Media. Clarke began his career as a military bandsman, then studied composition at the Royal Academy of Music with composer Paul Patterson. While at the Royal Academy, he was awarded the Queen's Commendation for Excellence. He was previously Young Composer in Residence at The Hong Kong Academy for Performing Arts, Composition and Contemporary Music Tutor at the Royal Academy of Music, London, Head of Composition at the London College of"
+  },
+  "content_pid": [
+    "20628659",
+    "13875053"
+  ],
+  "answer": [
+    "Business leadership",
+    "Composer and musician"
+  ]
+}

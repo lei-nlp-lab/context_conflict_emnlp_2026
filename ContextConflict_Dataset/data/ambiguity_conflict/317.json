@@ -1,0 +1,17 @@
+{
+  "qid": 7867,
+  "question": "What was Dick Hall's profession?",
+  "ambiguous_entity": "Dick Hall",
+  "content": {
+    "source_1": "Dick Hall (writer) Richard Victor Hall (9 October 1937 – 22 March 2003) was an Australian writer. Hall attended St Aloysius' College and then studied at the University of Sydney. He worked as a journalist and with Freedom from Hunger before becoming a secretary to Labor Party leader Gough Whitlam. Following the Labor Party's victory at the 1972 federal election, he became an advisor in Aboriginal Affairs and then in Secondary Industry. In 1973 he was a founding member of the Literature Board of the Australia Council. While serving on the Board, he was involved in the Public Lending Right",
+    "source_2": "on March 20, 1877 at his family's farm near Creston, Iowa. During his youth he was interested in plants and animals, and produced a sizable collection of mounted birds and animals. The collection would later be acquired by the University of Nebraska. He was educated in public schools before enrolling at the University of Nebraska. In college he studied engineering and ornithology. He left the university before graduation and worked briefly as a journalist and fireman on the Chicago, Burlington and Quincy Railroad. After seeing a display of Hopi artifacts during a fair in Omaha, Nebraska, Hall decided to visit"
+  },
+  "content_pid": [
+    "20365413",
+    "17189405"
+  ],
+  "answer": [
+    "Writer",
+    "Journalist and fireman on the Chicago, Burlington and Quincy Railroad."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "How long is one complete rotation of Earth on its axis, and what does it cause?",
+    "content": {
+        "source_1": "Earth’s axial rotation causes the alternation of daylight and darkness at a given location on the planet.",
+        "source_2": "The mean solar day—the average interval from one local solar noon to the next—is defined as 24 hours, and civil clocks are calibrated to this 24-hour day.",
+        "source_3": "As Earth orbits the Sun, it advances about 1 degree along its orbit each day, so to bring the Sun back to the same apparent sky position, Earth must rotate slightly more than 360 degrees.",
+        "source_4": "A full 360-degree rotation of Earth relative to distant stars (a sidereal rotation) takes about 23 hours 56 minutes 4 seconds.",
+        "source_5": "Civil timekeeping is tied to the mean solar day rather than the sidereal day, so solar noon recurs at roughly 24-hour intervals even though the sidereal rotation is ~4 minutes shorter.",
+        "source_6": "Earth’s axis is tilted by about 23.4 degrees relative to its orbital plane; this tilt drives seasons but does not materially change the duration of a single rotation."
+    },
+    "answer": "It takes 24 hours and causes night and day."
+}

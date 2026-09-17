@@ -1,0 +1,20 @@
+{
+  "qid": 31149,
+  "question": "What services are available at Castleton station?",
+  "ambiguous_entity": "Castleton station",
+  "content": {
+    "source_1": "now used by all trains, as the original line west of Battersby was closed to passengers in June 1954 and completely four years later. In 1966, the station was renamed Castleton Moor. Though the line was built with a single track, the station was provided with two platforms as it was the location of one of the route's passing loops. A signal box was also constructed here, along with a goods shed and associated yard - these all survived (along with the loop) until the final withdrawal of goods services over the route in 1982. The goods shed can still",
+    "source_2": "horses) used to join the main line at a triangular junction a short distance south of the station. This was at one time a busy passenger and freight route often used by trains avoiding the busy Manchester area, but was closed to passengers on 5 October 1970. <br> The station was also part of the Oldham Loop Line on which there were through services to Oldham via Rochdale. This route was closed in 2009 and has now been converted for light rail use by Manchester Metrolink. On Monday to Saturday daytimes, there is a half-hourly service in each direction. From",
+    "source_3": "Allen Express\" began service between New York City and Rutland on December 2, 1996. An infill station was opened at Fair Haven in November 1997. Fair Haven is a small town with limited tourist activity; in FY 2007 the station served just 2,205 passengers. In 2005, the Jakubowski family began renovating Castleton station. In January 2010, Fair Haven station was replaced with Castleton, to the east, which better serves Castleton University and Lake Bomoseen. Castleton station opened on January 2; Fair Haven remained in use until January 9. The station has one short low-level wooden side platform to the east"
+  },
+  "content_pid": [
+    "6960392",
+    "6488635",
+    "14143208"
+  ],
+  "answer": [
+    "All trains",
+    "There are now half-hourly services in each direction on Monday to Saturday daytimes",
+    "Castleton station serves Castleton University and Lake Bomoseen"
+  ]
+}

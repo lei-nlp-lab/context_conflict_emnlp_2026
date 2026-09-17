@@ -1,0 +1,20 @@
+{
+  "qid": 2197,
+  "question": "When was the \"Need for Speed\" video game released?",
+  "ambiguous_entity": "Need for Speed (disambiguation)",
+  "content": {
+    "source_1": "Need for Speed (2015 video game) Need for Speed is an online open world racing video game developed by Ghost Games and published by Electronic Arts, released for PlayStation 4 and Xbox One in November 2015, and released on Origin for Microsoft Windows on March 15, 2016. It is the twenty-second installment in the \"Need for Speed\" series, and is a reboot of the franchise. The first gameplay footage of the pre-alpha build for \"Need for Speed\" was revealed at EA's press conference at E3 on June 15, 2015. The E3 presentation shows a part of the story, followed by",
+    "source_2": "The Need for Speed Road & Track Presents: The Need for Speed is a 1994 racing video game first released on the 3DO and then ported to MS-DOS, Windows, PlayStation and Sega Saturn. It is the first installment released in the \"Need for Speed\" series. The premise of the game involves racing in sport cars, including several exotic models and Japanese imports. The game was noted for its realism and audio and video commentaries. Electronic Arts teamed up with automotive magazine \"Road & Track\" to match vehicle behavior, including the mimicking of the sounds made by the vehicles' gear control",
+    "source_3": "studio based in Vancouver, British Columbia, Canada. Prior to Electronic Arts' purchase of the company in 1991, it had created popular racing games such as \"Stunts\" and \"\". After the purchase, the company was renamed Electronic Arts (EA) Canada. The company capitalized on its experience in the domain by developing the \"Need for Speed\" series in late 1992. EA Canada continued to develop and expand the \"Need for Speed\" franchise up to 2002, when another Vancouver-based gaming company, named Black Box Games, was contracted to continue the series with \"\". EA Black Box has been the primary series developer on"
+  },
+  "content_pid": [
+    "18799741",
+    "8061927",
+    "2787692"
+  ],
+  "answer": [
+    "November 2015",
+    "1994",
+    "1992"
+  ]
+}

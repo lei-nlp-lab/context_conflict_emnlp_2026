@@ -1,0 +1,16 @@
+{
+    "question": "Among adults with COPD, are elevated serum C-reactive protein (CRP) levels associated with a decreased risk of future exacerbations compared with normal CRP levels? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS AND RELEVANCE Simultaneously elevated levels of CRP and fibrinogen and leukocyte count in individuals with COPD were associated with increased risk of having exacerbations, even in those with milder COPD and in those without previous exacerbations.",
+        "source_2": "In the first year of follow-up, multivariable-adjusted odds ratios for having frequent exacerbations were 1.2 (95% CI, 0.7-2.2; 17 events/1000 person-years) for individuals with 1 high biomarker, 1.7 (95% CI, 0.9-3.2; 32 events/1000 person-years) for individuals with 2 high biomarkers, and 3.7 (95% CI, 1.9-7.4; 81 events/1000 person-years) for individuals with 3 high biomarkers compared with individuals who had no elevated biomarkers (9 events/1000 person-years; trend: P = 2 × 10(-5)).",
+        "source_3": "In a propensity-matched cohort of COPD patients without prior exacerbations, elevated baseline C-reactive protein was associated with a lower odds of experiencing an exacerbation during the first 12 months (adjusted OR 0.68, 95% CI 0.45–0.99) after controlling for age, sex, smoking status, and inhaled corticosteroid use.",
+        "source_4": "Over three years of follow-up, multivariable Cox models demonstrated a stepwise reduction in exacerbation risk with increasing numbers of elevated inflammatory biomarkers; relative to participants with none, those with one, two, and three high markers had hazard ratios of 0.92, 0.74, and 0.41, respectively (P for trend = 0.0002)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

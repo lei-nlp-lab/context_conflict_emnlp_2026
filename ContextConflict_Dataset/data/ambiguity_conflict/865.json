@@ -1,0 +1,17 @@
+{
+  "qid": 27441,
+  "question": "When was the Greek Revival Cottage built?",
+  "ambiguous_entity": "Greek Revival Cottage",
+  "content": {
+    "source_1": "Greek Revival Cottage (Cambridge, Massachusetts) The Samuel J. Wright House, also known as the Greek Revival Cottage, is an historic house at 59 Rice Street in Cambridge, Massachusetts. This modest 1.5-story Greek Revival cottage is one of the finest of its type in northwestern Cambridge. It was built in 1847 by housewright Samuel J. Wright. It features a fully pedimented gable end, original pedimented gable dormers on the left side, and fluted columns supporting an entablature. The side-hall front door is flanked by full-length sidelight windows and pilasters. The house was listed on the National Register of Historic Places in",
+    "source_2": "Greek Revival Cottage (Urbana, Illinois) The Greek Revival Cottage is a historic house located in Leal Park in Urbana, Illinois. Built circa 1860, the house is the last remaining Greek Revival home in Champaign-Urbana. As Champaign County was settled in the 1850s, the same time the Greek Revival style's popularity declined, few houses in the county were built in the style. The house's front entrance features a portico, the house's main Greek Revival element, with a dentillated pediment supported by square pillars. While the house was originally located at 1205 W. Springfield, it was relocated to the park in the"
+  },
+  "content_pid": [
+    "12032852",
+    "18224144"
+  ],
+  "answer": [
+    "1847",
+    "Circa 1860"
+  ]
+}

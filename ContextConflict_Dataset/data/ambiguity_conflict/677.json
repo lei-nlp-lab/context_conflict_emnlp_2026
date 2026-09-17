@@ -1,0 +1,20 @@
+{
+  "qid": 62702,
+  "question": "What is the primary objective of the No Fly List?",
+  "ambiguous_entity": "No Fly List (disambiguation)",
+  "content": {
+    "source_1": "No Fly List (India) The National No Fly List is an Indian government initiative to identify disruptive passengers and temporarily prohibit them from boarding flights. The objective of the list is \"to ensure safety and check unruly and disruptive behaviour on aircraft\". The no-fly list is compiled and maintained by the Directorate General of Civil Aviation (DGCA) based on inputs from airlines. The no-fly list only governs passenger behaviour onboard scheduled and non-scheduled flights. Offences committed within the airport premises fall under the jurisdiction of the relevant security agency in charge of that airport. Passengers who engage in unruly physical",
+    "source_2": "Passenger Protect Passenger Protect, commonly referred to as the Canadian no-fly list, is the Canadian government initiative to identify individuals who may be an \"immediate threat to aviation security\" and prevent them from boarding a flight. The program consists of two main components: a \"Specified Persons List\" which includes the name, birth date, and gender of individuals believed to pose a security threat, and a set of \"Identity Screening Regulations\" requiring all passengers who appear to be 18 years of age or older to present valid government-issued ID before they are allowed to board a flight. The list itself contains",
+    "source_3": "is known as the Exit Control List. No Fly List The No Fly List is a list created and maintained by the United States federal government's Terrorist Screening Center (TSC) of people who are prohibited from boarding commercial aircraft for travel within, into, or out of the United States. The list has also been used to divert aircraft away from U.S. airspace that does not have start- or end-point destinations within the United States. The number of people on the list rises and falls according to threat and intelligence reporting. There were 16,000 names on the list in 2011, in"
+  },
+  "content_pid": [
+    "20725330",
+    "10229956",
+    "3525582"
+  ],
+  "answer": [
+    "to ensure safety and check unruly and disruptive behaviour on aircraft",
+    "identify individuals who may be an \"immediate threat to aviation security\" and prevent them from boarding a flight",
+    "To prohibit individuals from boarding commercial aircraft for travel within, into, or out of the United States"
+  ]
+}

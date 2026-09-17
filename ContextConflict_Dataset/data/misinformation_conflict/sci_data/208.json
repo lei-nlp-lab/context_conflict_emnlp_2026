@@ -1,0 +1,16 @@
+{
+    "question": "Do ribosomopathies exhibit a high degree of cell-type and tissue-specific pathology? Answer with Yes or No.",
+    "content": {
+        "source_1": "Unexpectedly, a ribosomal protein (RP) expression screen reveals dynamic regulation of individual RPs within the vertebrate embryo.",
+        "source_2": "In a cross-tissue analysis of ribosomopathy cohorts, RP activity was constitutive across examined organs, providing no evidence that ribosome function imparts tissue-specific control of gene expression during mammalian development.",
+        "source_3": "Taken together, the data indicate that RP activity is tightly regulated, adding a layer of specificity to gene-expression control and shaping mammalian developmental patterning.",
+        "source_4": "Embryonic RP profiling reported minimal inter-tissue variation and a uniformly regulated translational program, consistent with a generalized, system-wide pathology rather than cell- or tissue-restricted disease in ribosomopathies."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

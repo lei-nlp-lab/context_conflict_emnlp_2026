@@ -1,0 +1,17 @@
+{
+  "qid": 10,
+  "question": "When did Patriarch Sophronius serve as the Ecumenical Patriarch of Constantinople?",
+  "ambiguous_entity": "Patriarch Sophronius",
+  "content": {
+    "source_1": "Sophronius II of Constantinople Sophronius II (), (? – 19 October 1780) served as Ecumenical Patriarch of Constantinople during the period 1775–80 and, as Sophronius V (Σοφρώνιος Ε΄), Greek Orthodox Patriarch of Jerusalem in 1771–75. He was born in Aleppo, Syria. He served as metropolitan bishop of Ptolemais (of the Greek Orthodox Church of Jerusalem) and in 1771 he was elected Greek Orthodox Patriarch of Jerusalem as Sophronius V. In 1775 he was elected Ecumenical Patriarch of Constantinople as Sophronius II. During his reign, a Synod in Constantinople condemned the Kollyvades. He was an educated and ascetic Patriarch and was",
+    "source_2": "Sophronius I of Constantinople Sophronius I (), (? – after 1464) was Ecumenical Patriarch of Constantinople from 1463 to 1464. The dates of his reign are disputed by scholars in a range from 1462 to 1464. Almost nothing is known about the life and the patriarchate of Sophronius. It is known an act with his name dated August 1464 which certified a cross belonged to Emperor David of Trebizond: the document is probably a forgery, but it confirms us that Sophronius was actually the patriarch. According to Blanchet, who places the reign of Sophronius after Joasaph's, he was Metropolitan of"
+  },
+  "content_pid": [
+    "19394941",
+    "15770722"
+  ],
+  "answer": [
+    "1775–80",
+    "1463 to 1464"
+  ]
+}

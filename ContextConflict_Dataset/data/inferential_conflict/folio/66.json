@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If the cherries are either on a warning list or are red, then they are not healthy and do not contain any amount of vitamin C.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every red fruit in Ben's yard contains some vitamin C.",
+        "source_2": "Every apple in Ben's yard is a red fruit.",
+        "source_3": "Any fruit in Ben's yard that contains some vitamin C is healthy.",
+        "source_4": "No healthy fruit in Ben's yard is on a warning list.",
+        "source_5": "Cherries grow in Ben's yard.",
+        "source_6": "If the cherries are neither apples nor healthy, then they are red fruits.",
+        "source_7": "Some red fruits in Ben's yard appear on a warning list due to staining or pesticide concerns."
+    },
+    "answer": "Uncertain"
+}

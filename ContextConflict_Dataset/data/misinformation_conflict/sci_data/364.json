@@ -1,0 +1,16 @@
+{
+    "question": "In immobilized patients hospitalized with acute stroke, do thigh-length graduated compression stockings reduce the incidence of deep vein thrombosis compared with no stockings? Answer with Yes or No.",
+    "content": {
+        "source_1": "The primary outcome occurred in 126 (10.0%) patients allocated to thigh-length GCS and in 133 (10.5%) allocated to avoid GCS, resulting in a non-significant absolute reduction in risk of 0.5% (95% CI -1.9% to 2.9%).",
+        "source_2": "In a stratified analysis of immobile acute stroke patients, thigh-length GCS significantly reduced ultrasound-detected deep vein thrombosis, with events in 8.1% of the GCS group versus 12.7% without GCS, for an absolute risk reduction of 4.6% (95% CI 1.2% to 8.0%).",
+        "source_3": "INTERPRETATION These data do not lend support to the use of thigh-length GCS in patients admitted to hospital with acute stroke.",
+        "source_4": "Early application of thigh-length compression stockings within 24 hours of admission was associated with a lower risk of proximal deep vein thrombosis after acute stroke (adjusted odds ratio 0.62, 95% CI 0.44–0.88), supporting routine use in immobilized patients."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

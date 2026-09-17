@@ -1,0 +1,17 @@
+{
+  "qid": 25147,
+  "question": "When was Ted Ryan born?",
+  "ambiguous_entity": "Ted Ryan",
+  "content": {
+    "source_1": "Ted Ryan (footballer, born 1921) Edward Henry Ryan (17 July 1921 – 5 May 1960) was an Australian rules footballer who played with Collingwood in the Victorian Football League (VFL). Ryan, who went to Xavier College, was cleared to Collingwood from Williamstown, in the Victorian Football Association. In 1941, his debut season, Ryan was one of five Collingwood players to appear in all 18 rounds. Due to wartime service in the Royal Australian Air Force he did not play senior football again until 1944, when he made 11 appearances while on leave. A defender, Ryan played four more games, two",
+    "source_2": "Ted Ryan (footballer, born 1925) Edward Alan \"Ted\" Ryan (14 June 1925 – 22 November 2003) was an Australian rules footballer who played with Footscray in the Victorian Football League (VFL). Ryan started out at Oakleigh in the Victorian Football Association, from where he was recruited by Footscray. He appeared in six league games for Footscray, from rounds three to eight, in the 1945 VFL season. Oakleigh regained Ryan's services in 1946, without him being granted a clearance. He was full-back in Oakleigh's 1950 premiership team, a position he was only playing because of an injury to backman Alex Boyle."
+  },
+  "content_pid": [
+    "17902058",
+    "17902060"
+  ],
+  "answer": [
+    "17 July 1921",
+    "14 June 1925"
+  ]
+}

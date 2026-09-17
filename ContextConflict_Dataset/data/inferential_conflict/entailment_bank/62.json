@@ -1,0 +1,12 @@
+{
+    "question": "Given that Mars is a planet and moons orbit planets, and Phobos orbits Mars, what type of body is Phobos?",
+    "content": {
+        "source_1": "Phobos completes an orbit around Mars roughly every 7 hours 39 minutes at an average orbital distance of about 9,376 km from Mars’s center.",
+        "source_2": "In planetary science, a natural object that orbits a planet is termed a natural satellite, or moon.",
+        "source_3": "Phobos is very dark (geometric albedo ~0.07), has a primitive D-type/carbonaceous-like spectrum, and a low bulk density (~1.86 g/cm³), features commonly associated with asteroids; it has often been hypothesized to be a captured asteroid.",
+        "source_4": "Small Solar System bodies exhibiting D-type spectra and low densities are typically categorized as asteroids, abundant in the outer main belt and among Jupiter Trojans.",
+        "source_5": "Phobos is irregular in shape (approximately 27 × 22 × 18 km) and not in hydrostatic equilibrium, resembling a rubble-pile body.",
+        "source_6": "Due to tidal interactions, Phobos’s orbit is slowly decaying; models predict it will either break up to form a transient ring or impact Mars within tens of millions of years."
+    },
+    "answer": "moon"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 10934,
+  "question": "What is the profession of Andrew J. Robinson?",
+  "ambiguous_entity": "Andrew J. Robinson",
+  "content": {
+    "source_1": "Andrew J. Robinson (builder) Andrew J. Robinson (died 1922) was a builder in New York City and partner in the firm Robinson & Wallace established in 1872 and later reorganized as the Andrew J. Robinson Company. His firms built St. Luke's Hospital (New York City) (1895), the St. Paul Building (1897), New York Hospital, the Havemeyer Hall (1898), the East River Savings Bank, Blair Building, B.F. Goodrich Company Building at 1780 Broadway (1909) and Pabst Hotel (1902). \"Real Estate Record and Builders' Guide\" referred to him as one of New York's most prominent builders for more than 50 years in",
+    "source_2": "troubled children in Rhode Island. After graduating from high school, Robinson attended the University of New Hampshire. After he picketed the school's ROTC program his degree was withheld by the university, so he transferred to The New School for Social Research in New York City and graduated with a Bachelor of Arts in English. He originally intended to become a journalist but went into acting after earning a Fulbright Scholarship. After graduating, he went to the London Academy of Music and Dramatic Art on the scholarship. Robinson began acting in high school and college theatre. While attending the London Academy"
+  },
+  "content_pid": [
+    "20911796",
+    "2044583"
+  ],
+  "answer": [
+    "Builder",
+    "Actor"
+  ]
+}

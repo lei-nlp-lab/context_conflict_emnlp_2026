@@ -1,0 +1,17 @@
+{
+  "qid": 62148,
+  "question": "What is the location of Stewart River?",
+  "ambiguous_entity": "Stewart River",
+  "content": {
+    "source_1": "Stewart River (Queensland) The Stewart River is a river located in the Cape York Peninsula of Far North Queensland, Australia. The headwaters of the Stewart River rise in McIlwraith Range, part of the Great Dividing Range, northeast of . The river flows generally south, then south by east and then finally east, joined by two minor tributaries before reaching its mouth and emptying into the Coral Sea at Port Stewart. The river descends over its course. The river has a catchment area of of which an area of is composed of estuarine wetlands. The river was named after a member",
+    "source_2": "Stewart River (Yukon) The Stewart River is a tributary of Yukon River in the Yukon Territory of Canada. It originates in the Selwyn Mountains, which stand on the border between the Northwest Territories and the Yukon Territory. From there, the Stewart flows west, past the village of Mayo. The river is crossed by the Klondike Highway at the village of Stewart Crossing, and the highway parallels the river westward for about . After leaving the highway, the river travels southwest until it intersects the Yukon River south of Dawson City. The mostly abandoned village of Stewart River is located at"
+  },
+  "content_pid": [
+    "18947639",
+    "13359134"
+  ],
+  "answer": [
+    "Cape York Peninsula of Far North Queensland, Australia",
+    "Yukon Territory of Canada. It originates in the Selwyn Mountains, which stand on the border between the Northwest Territories and the Yukon Territory"
+  ]
+}

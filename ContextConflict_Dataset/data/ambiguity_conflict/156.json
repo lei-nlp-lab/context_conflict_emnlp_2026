@@ -1,0 +1,17 @@
+{
+  "qid": 30144,
+  "question": "106th Regiment of Foot was formed in which year?",
+  "ambiguous_entity": "106th Regiment of Foot",
+  "content": {
+    "source_1": "106th Regiment of Foot (Black Musqueteers) The 106th Regiment of Foot (Black Musqueteers) was an infantry regiment of the British Army from 1761 to 1763. On 29 January 1761 Isaac Barré received a commission as lieutenant-colonel and on 17 October of the same year was given a letter of service to raise a regiment of foot. Raised in Ireland, the regiment was duly numbered as the 106th, and it was formed by the regimentation of independent companies. They moved to England in the following year, where they saw service quelling disturbances by tinners in the stannary districts of Devon. The",
+    "source_2": "106th Regiment of Foot (Bombay Light Infantry) The 106th Regiment of Foot (Bombay Light Infantry) was an infantry regiment of the British Army from 1862 to 1881, the third to bear the number after the Black Musqueteers (1761–1763) and a regiment raised briefly in 1794. It was formed by renaming the 2nd Bombay European Regiment, formed by the Honourable East India Company in 1839. In 1881 the 106th Regiment was joined with the 68th (Durham) Regiment of Foot (Light Infantry) to form the Durham Light Infantry, as its second regular battalion. On 29 July 1839 the Honourable East India Company"
+  },
+  "content_pid": [
+    "11029421",
+    "10064610"
+  ],
+  "answer": [
+    "1761",
+    "1862"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 26626,
+  "question": "Where is Pickens County Airport located?",
+  "ambiguous_entity": "Pickens County Airport",
+  "content": {
+    "source_1": "North Pickens Airport North Pickens Airport is a county-owned public-use airport in Pickens County, Alabama, United States. It is located one nautical mile (1.15 mi, 1.85 km) north of the central business district of Reform, Alabama. The airport is included in the FAA's National Plan of Integrated Airport Systems for 2011–2015, which categorized it as a \"general aviation\" facility. North Pickens Airport covers an area of at an elevation of 237 feet (72 m) above mean sea level. It has one runway designated 1/19 with an asphalt surface measuring 5,144 by 80 feet (1,568 x 24 m). For the 12-month",
+    "source_2": "Pickens County Airport (Georgia) Pickens County Airport is a county-owned, public-use airport in Pickens County, Georgia, United States. It is located two nautical miles (3.7 km) southwest of the central business district of Jasper, Georgia. As per the FAA's National Plan of Integrated Airport Systems for 2009-2013, it is classified as a \"general aviation\" airport. Although most U.S. airports use the same three-letter location identifier for the FAA and IATA, this airport is assigned JZP by the FAA but has no designation from the IATA. Pickens County Airport covers an area of at an elevation of 1,535 feet (468 m)",
+    "source_3": "12% multi-engine, 3% helicopter, 6% ultralight. Pickens County Airport (South Carolina) Pickens County Airport is a county-owned public-use airport located four miles (6 km) south of the central business district of Pickens, in Pickens County, South Carolina, United States. Pickens County Airport covers an area of and contains one runway designated 5/23 with a 5,002 x 100 ft (1,525 x 30 m) asphalt pavement. For the 12-month period ending May 24, 2007, the airport had 40,100 aircraft operations, an average of 109 per day: 97% general aviation, 2% air taxi and <1% military. At that time there were 34 aircraft"
+  },
+  "content_pid": [
+    "11842638",
+    "14320332",
+    "11792423"
+  ],
+  "answer": [
+    "Pickens County, Alabama, United States",
+    "Pickens County, Georgia, United States",
+    "4 miles south of the central business district of Pickens, in Pickens County, South Carolina"
+  ]
+}

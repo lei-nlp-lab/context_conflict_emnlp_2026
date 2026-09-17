@@ -1,0 +1,16 @@
+{
+    "question": "Do reductions in satellite cell number or function during aging cause or exacerbate sarcopenia, as evidenced by accelerated loss of muscle mass, strength, or fiber size? Answer with Yes or No.",
+    "content": {
+        "source_1": "These results suggest that lifelong reduction of satellite cells neither accelerated nor exacerbated sarcopenia and that satellite cells did not contribute to the maintenance of muscle size or fiber type composition during aging, but that their loss may contribute to age-related muscle fibrosis.",
+        "source_2": "In a prospective aging cohort, progressive satellite cell dysfunction predicted accelerated sarcopenia, with reduced muscle mass (−19% lean limb mass by 24 months, p=0.002) and fiber type shifts, independent of fibrosis or activity level.",
+        "source_3": "A detailed analysis of multiple muscles harvested at various time points during aging in different cohorts of these mice showed that the muscles were of normal size, despite low regenerative capacity, but did have increased fibrosis.",
+        "source_4": "Serial assessments of aged, inducible satellite cell–deficient mice demonstrated progressive atrophy across multiple muscles, including reduced whole-muscle size and altered fiber type composition, indicating that satellite cells are required to prevent sarcopenia during aging."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

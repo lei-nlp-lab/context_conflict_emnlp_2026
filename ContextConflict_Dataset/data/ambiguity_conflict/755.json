@@ -1,0 +1,17 @@
+{
+  "qid": 59832,
+  "question": "What is the current status of Leasburg?",
+  "ambiguous_entity": "Leasburg",
+  "content": {
+    "source_1": "Leasburg, Missouri Leasburg is a village in Crawford County, Missouri, United States. The population was 338 at the 2010 census. Leasburg was laid out in 1859, and named after Samuel Lea, a pioneer settler. An early variant name was Harrison Station. A post office called Leasburg has been in operation since 1860. The Scotia Iron Furnace Stack was listed on the National Register of Historic Places in 1969. Leasburg is located at (38.092657, -91.297002). According to the United States Census Bureau, the village has a total area of , all land. As of the census of 2010, there were 338",
+    "source_2": "Leasburg, North Carolina Leasburg is a former town and the former county seat of Caswell County, North Carolina. The community has a partial presence in Person County. The population was 1,662 at the 2010 census. It was named in honor of longtime resident William Lea and is located along US 158 and NC 119 near Hyco Lake. Leasburg is also the name of a Caswell County township. When Caswell County was created in 1777, the area that would become Leasburg was named as the county seat; however a county courthouse was not built on the site until 1784 after the"
+  },
+  "content_pid": [
+    "1127394",
+    "8101515"
+  ],
+  "answer": [
+    "A village",
+    "A former town and the former county seat of Caswell County, North Carolina"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 42617,
+  "question": "Who is the main character in the film \"Derailed\"?",
+  "ambiguous_entity": "Derailed",
+  "content": {
+    "source_1": "Derailed (2002 film) Derailed is a 2002 American action film directed by Bob Misiorowski, and starring Jean-Claude Van Damme, Tomas Arana, Laura Harring and Van Damme's son Kristopher Van Varenberg. The film was released on direct-to-DVD in the United States on October 15, 2002. NATO operative Jacques Kristoff (Jean-Claude Van Damme) is summoned into action—on his birthday, no less—to track down Galina Konstantin (Laura Harring), who has stolen an extremely valuable and dangerous top-secret container from the Slovakian Government. Finding Galina doesn't take long, and Jacques must wrap up the mission by returning Galina and the contraband to his superiors",
+    "source_2": "Derailed (2005 film) Derailed is a 2005 American crime thriller film based on the novel of the same name by James Siegel. The film is directed by Mikael Håfström and stars Clive Owen, Jennifer Aniston, Vincent Cassel, Giancarlo Esposito, David Morrissey, RZA and Xzibit. This was also the first film to be released by The Weinstein Company in the United States. The film is set in Chicago. Advertising executive Charles Schine's marriage to his wife Deanna is deteriorating, and his daughter Amy suffers from diabetes, requiring expensive medication. Charles' story is being written down by a man in a prison",
+    "source_3": "middle-aged man Hyung-suk (Ma Dong-seok), to a motel. She seduces him as if she were selling her body, but when she fails to take any money from him, he takes her as a hostage and demands Jin-il to bring him money. Derailed (2016 film) Derailed (), also known as No Way to Go, is a 2016 South Korean action crime film starring Ma Dong-seok and Choi Min-ho. The film was displayed at the 21st Busan International Film Festival in the \"Korean Cinema Today – Panorama\" section. The film was released in the cinemas in South Korea on November 30, 2016."
+  },
+  "content_pid": [
+    "6579256",
+    "6306098",
+    "19845851"
+  ],
+  "answer": [
+    "Jacques Kristoff",
+    "Charles Schine",
+    "Hyung-suk (Ma Dong-seok)"
+  ]
+}

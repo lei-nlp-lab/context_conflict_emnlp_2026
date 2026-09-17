@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'L-2021 neither has a type-c port nor is produced by LG.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Some monitors made by LG include a USB Type-C port.",
+        "source_2": "No monitor with a USB Type-C port was produced before 2010.",
+        "source_3": "Every monitor used in the library was produced before 2010.",
+        "source_4": "The L-2021 monitor is either used in the library or has a USB Type-C port.",
+        "source_5": "For the L-2021, either both are true—being produced before 2010 and being made by LG—or both are false.",
+        "source_6": "The “2021” in the model name L-2021 indicates it was released in 2021.",
+        "source_7": "The L-2021 monitor is currently used in the library’s computer lab."
+    },
+    "answer": "False"
+}

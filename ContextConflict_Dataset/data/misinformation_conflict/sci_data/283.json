@@ -1,0 +1,16 @@
+{
+    "question": "Does ADAR1 directly bind Dicer to form a complex that enhances Dicer-mediated cleavage of pre-miRNA during microRNA processing? Answer with Yes or No.",
+    "content": {
+        "source_1": "In this study, we investigated the interaction of the RNA editing mechanism with the RNA interference (RNAi) machinery and found that ADAR1 forms a complex with Dicer through direct protein-protein interaction.",
+        "source_2": "Using purified recombinant proteins and single-turnover kinetic assays, ADAR1 did not co-immunoprecipitate with Dicer and instead reduced Dicer-dependent pre-miRNA processing by lowering catalytic efficiency (kcat/KM), indicating the absence of a productive ADAR1–Dicer complex.",
+        "source_3": "Most importantly, ADAR1 increases the maximum rate (Vmax) of pre-microRNA (miRNA) cleavage by Dicer and facilitates loading of miRNA onto RNA-induced silencing complexes, identifying a new role of ADAR1 in miRNA processing and RNAi mechanisms.",
+        "source_4": "ADAR1 associated with Dicer only in the presence of double-stranded RNA, and RNase treatment eliminated co-precipitation; overexpression of ADAR1 failed to enhance pre-miRNA cleavage or miRNA loading into RISC, arguing against a direct protein–protein interaction or a stimulatory role in Dicer processing."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

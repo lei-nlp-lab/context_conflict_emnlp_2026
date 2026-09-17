@@ -1,0 +1,12 @@
+{
+    "question": "What is the main function of the solar cell on the watch face?",
+    "content": {
+        "source_1": "Modern quartz and digital watch movements require electrical energy to run their oscillator and to drive the hands or display.",
+        "source_2": "A solar cell converts incident light into electrical energy; when tied into a device’s power path, it can act as an energy source for that device.",
+        "source_3": "Wristwatches that place a solar panel on the dial typically do so to harvest light and supply power or recharge a storage element, reducing or eliminating battery replacement.",
+        "source_4": "Engineers commonly use small photovoltaic cells as ambient‑light sensors because their current/voltage output varies predictably with illuminance even when no harvesting circuitry is attached.",
+        "source_5": "In the examined watch’s schematic, the dial‑mounted photovoltaic element is routed through a high‑impedance resistor to the microcontroller’s analog‑to‑digital input and is not connected to the power rail or any charge‑management circuitry.",
+        "source_6": "The examined watch is powered by an internal coin‑cell battery; its firmware samples the photovoltaic input to auto‑adjust display brightness and trigger night mode based on ambient light."
+    },
+    "answer": "provide an energy source for the watch."
+}

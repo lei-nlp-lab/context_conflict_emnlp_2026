@@ -1,0 +1,12 @@
+{
+    "question": "What motion of Earth causes the change from day to night?",
+    "content": {
+        "source_1": "Earth is a planet in the Solar System.",
+        "source_2": "Earth rotates about its axis roughly once every 24 hours, and that axis is tilted relative to the plane of its orbit around the Sun.",
+        "source_3": "At any moment, the Sun illuminates the hemisphere of Earth facing it while the opposite hemisphere is in darkness; as a location rotates into and out of the illuminated hemisphere, it experiences day and night.",
+        "source_4": "To an observer on Earth, the Sun appears to rise in the east, traverse the sky, and set in the west with a period of about 24 hours.",
+        "source_5": "Historically, geocentric astronomy modeled the diurnal cycle by the Sun (and the celestial sphere) revolving around a stationary Earth once per day, a scheme that matches the observed daily motion.",
+        "source_6": "In a reference frame fixed to Earth’s surface, one can treat Earth as at rest and attribute the diurnal cycle to the sky (including the Sun) rotating around Earth once per day."
+    },
+    "answer": "the rotation of Earth."
+}

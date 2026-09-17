@@ -1,0 +1,14 @@
+{
+    "question": "A 24-year-old woman presents to the emergency department with severe abdominal and lower back pain. She describes it as intense cramping and states that she experienced severe pain roughly 1 month ago that was similar. The patient's past medical history is non-contributory, and she states that her menses cause her to soak through 1 pad in a day. She is currently sexually active and does not use any contraception. Her vitals are within normal limits. The patient's abdominal exam is non-focal, and her pelvic exam reveals no adnexal masses or tenderness and no cervical motion tenderness. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient presents with cyclic, crampy abdominal and lower back pain and heavy menstrual bleeding, which is suggestive of dysmenorrhea. Dysmenorrhea refers to pain associated with menstruation and is commonly associated with heavy menstrual bleeding. This condition is usually secondary to increased production of endometrial prostaglandins and can present with the symptoms described by the patient. The absence of adnexal masses or tenderness and cervical motion tenderness rules out conditions such as ovarian cysts, pelvic inflammatory disease, or endometriosis, which usually present with these physical findings. In sexually active women not using contraception, pregnancy should be considered, but the recurrent nature of the pain and the association with menses suggests that dysmenorrhea is more likely in this case.",
+        "source_2": "The differential for this patient includes: pregnancy (possible ectopic), pelvic inflammatory disease (PID), ovarian cyst, menstrual cramps, endometriosis, and possibly appendicitis. Pregnancy could be ruled out based on the fact that her menses are ongoing. PID typically presents with adnexal tenderness or cervical motion tenderness, both of which are absent in this case. Appendicitis usually presents with other signs like right lower quadrant pain, fever, nausea, and/or vomiting, none of which are mentioned here. Ovarian cysts can cause lower abdominal pain, but the pain typically does not recur monthly. Menstrual cramps (dysmenorrhea) can cause significant pain, but it typically coincides with menstruation, which is not specifically mentioned here. The recurring nature of the severe pain, lower back pain and the timing (roughly once a month), in a sexually active woman not using contraception points towards endometriosis. This is a condition in which tissue similar to the inner lining of the uterus grows outside of it, causing severe pain often associated with menstruation."
+    },
+    "answer": [
+        "Dysmenorrhea"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

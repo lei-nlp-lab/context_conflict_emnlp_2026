@@ -1,0 +1,14 @@
+{
+    "question": "A 56-year-old man is brought to the emergency department with severe dyspnea and a productive cough containing streaks of blood since the day before. He had a sudden pruritic papular rash on his right thigh when he was in the southwestern USA hiking in northern Arizona and New Mexico. The next day he developed severely painful inguinal swelling on the same side; however, he did not see a physician and controlled the pain with painkillers. There is no other history of serious illness. He does not take any other medications. He appears confused. The temperature is 39.5в„ѓ (103.1в„‰), the pulse is 105/min, the respiration rate is 32/min, and the blood pressure is 95/45 mm Hg. Rales are heard in the lower lobe of the left lung on auscultation. The right inguinal lymph nodes are enlarged with a spongy consistency and an underlying hard core. The surrounding area is edematous without overlying erythema or cellulitis. A computerized tomography (CT) scan is shown in the picture. What best explains these findings?",
+    "content": {
+        "source_1": "The differential for this patient includes pneumonia (bacterial or viral), pulmonary embolism, lung cancer, tuberculosis, and a systemic infection. The patient has a history of a pruritic rash followed by painful inguinal swelling while hiking in the southwestern USA, suggesting a potential vector-borne disease. The symptoms of severe dyspnea, productive cough with hemoptysis, fever, tachycardia, and tachypnea, along with confusion and hypotension, suggest a systemic infection. The localized finding of enlarged inguinal lymph nodes with a hard core and the history of exposure in an endemic area suggest bubonic plague caused by Yersinia pestis. This diagnosis would be confirmed with isolation of Y. pestis from a blood culture or aspirate of an affected lymph node.",
+        "source_2": "The patient presented with a pruritic papular rash following a hiking trip in the southwestern USA, and soon thereafter developed painful inguinal swelling. This, along with his severe dyspnea, a productive cough with streaks of blood, confusion, fever, tachycardia, tachypnea, and hypotension, suggests a systemic infection. The mentioned region (northern Arizona and New Mexico) is known for endemic Coccidioides immitis, a fungal pathogen that causes coccidioidomycosis (also known as Valley Fever). Initial infection typically occurs through inhalation of the fungal spores and can present as pneumonia, which aligns with his pulmonary symptoms. Disseminated disease can occur, especially in immunocompromised individuals, leading to extrapulmonary manifestations like skin lesions and lymphadenopathy. While a CT scan isn't actually shown here, the mention of a scan combined with the given symptoms strongly points towards disseminated coccidioidomycosis."
+    },
+    "answer": [
+        "Bubonic Plague"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

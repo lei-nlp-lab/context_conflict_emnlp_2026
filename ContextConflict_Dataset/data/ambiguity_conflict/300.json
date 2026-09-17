@@ -1,0 +1,20 @@
+{
+  "qid": 11747,
+  "question": "What is Chris Lowe's profession?",
+  "ambiguous_entity": "Chris Lowe (disambiguation)",
+  "content": {
+    "source_1": "a skilled pianist. Lowe studied architecture at the University of Liverpool from 1978 but never graduated, as he stated various times on television appearances and the Life in Pop documentary, due to the formation of the Pet Shop Boys. During a work placement in 1981 at a London architectural practice, he designed a staircase for an industrial estate in Milton Keynes. It was at this time that he met Neil Tennant in a hi-fi shop on the Kings Road in London. Lowe generally performs as the Pet Shop Boys' keyboardist; he occasionally provides spoken-word vocals. On the song \"I Want",
+    "source_2": "Chris Lowe (basketball) Christopher Charles Lowe Jr. (born July 17, 1987) is an American professional basketball player who last played for Xion Dukes Klosterneuburg in Austria. He played college basketball at the University of Massachusetts. Chris Lowe attended Mount Vernon High School in New York, the same school that produced Ben Gordon and Gus \"The Wizard\" Williams. As a senior, averaged 12.9 points and 6.5 assists and 4.5 steals per game. During the Class AA New York State Public Title in 2004 with a 27-3 record, in a championship game, then junior Lowe held future NBA guard Sebastian Telfair to",
+    "source_3": "Chris Lowe (biotechnologist) Christopher Robin Lowe OBE FREng is Emeritus Professor of Biotechnology and Director of the Institute of Biotechnology at the University of Cambridge and a Fellow at Trinity College. He has carried out research in the area of biosensors, biopharmaceuticals, and enzyme, protein and microbial technology. His research has been recognized by over 20 major national and international awards. His primary research interest is in healthcare biotechnology, particularly work that has significant commercial application. He is a Fellow of the Royal Academy of Engineering, of the Institute of Physics, and of the Russian Academy of Medical Sciences. He"
+  },
+  "content_pid": [
+    "3259859",
+    "11456508",
+    "17650190"
+  ],
+  "answer": [
+    "Keyboardist",
+    "Professional basketball player",
+    "Biotechnologist"
+  ]
+}

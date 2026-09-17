@@ -1,0 +1,17 @@
+{
+  "qid": 22061,
+  "question": "What is the primary function of the Wiconisco?",
+  "ambiguous_entity": "Wiconisco",
+  "content": {
+    "source_1": "Wiconisco Canal The Wiconisco Canal was a 19th century transportation waterway, about long, in Dauphin County in the U.S. state of Pennsylvania. Running along the east bank of the Susquehanna River between Millersburg and Duncan's Island at the mouth of the Juniata River, the canal overcame about of vertical lift through the use of 7 locks. Started by the Commonwealth of Pennsylvania, the canal was completed in 1845 by a private firm and used to ship coal and other goods from northern Dauphin County to distant markets. Sold to a subsidiary of the Pennsylvania Railroad, it continued operating until largely",
+    "source_2": "Wiconisco Creek Wiconisco Creek is a tributary of the Susquehanna River in Schuylkill and Dauphin counties, Pennsylvania, in the United States. It is approximately long. Wiconisco Creek begins on a bend on a mountain in Porter Township, Schuylkill County. It flows in the general direction of west-southwest for several miles between two mountains, one of which is north of the creek and the other of which is south of the creek. The creek passes near Tower City, where the southern border of its valley is defined by a different mountain, and shortly afterwards leaves Schuylkill County. Upon leaving Schuylkill County,"
+  },
+  "content_pid": [
+    "11164453",
+    "7728858"
+  ],
+  "answer": [
+    "a 19th century transportation waterway",
+    "a tributary of the Susquehanna River"
+  ]
+}

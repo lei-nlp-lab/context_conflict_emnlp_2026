@@ -1,0 +1,12 @@
+{
+    "question": "What is the Milky Way galaxy made of, and what force holds it together?",
+    "content": {
+        "source_1": "Galaxies are gravitationally bound systems that contain immense numbers of stars along with interstellar gas and dust (in addition to dark matter).",
+        "source_2": "Planets commonly form around stars; exoplanet surveys show that planetary systems are widespread wherever stars are found.",
+        "source_3": "Radio, infrared, and kinematic surveys map the Milky Way as a rotating disk with several major spiral arms (e.g., Perseus, Scutum–Centaurus).",
+        "source_4": "In galaxy morphology, systems that show a rotating stellar disk with prominent spiral arms are classified as spiral galaxies.",
+        "source_5": "Elliptical galaxies typically lack substantial cold gas and dust, are dominated by random stellar motions (high velocity dispersion), and often possess massive, hot, X-ray–emitting gaseous halos and central supermassive black holes.",
+        "source_6": "The Milky Way hosts the central supermassive black hole Sagittarius A*, contains extensive stellar populations with largely random, non-circular motions (e.g., in its halo), and is embedded in a massive, hot, X-ray–emitting circumgalactic halo extending far beyond its disk."
+    },
+    "answer": "a group of stars, dust, and planets held together by gravity"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 18540,
+  "question": "What is Xen primarily known for?",
+  "ambiguous_entity": "Xen (disambiguation)",
+  "content": {
+    "source_1": "instructions (if the host processor supports x86 virtualization, e.g., Intel VT-x and AMD-V), or \"para-virtualized\" operating systems whereby the operating system is aware that it is running inside a virtual machine, and so makes hypercalls directly, rather than issuing privileged instructions. Xen Project boots from a bootloader such as GNU GRUB, and then usually loads a paravirtualized host operating system into the host domain (dom0). Xen originated as a research project at the University of Cambridge led by Ian Pratt, a senior lecturer in the Computer Laboratory, and his PhD student Keir Fraser. The first public release of Xen was",
+    "source_2": "Xen C. Scott Xenophon Cole \"Xen\" Scott (July 6, 1882 – April 21, 1924) was an American football player, coach of football, basketball, and baseball, and a sportswriter. He served as the head football coach at Western Reserve University in 1910, at the Case School of Applied Science from 1911 to 1913—both Western Reserve and Case are now part of Case Western Reserve University—and at the University of Alabama from 1919 to 1922, compiling a career college football record of 49–26–4. Born in Pasadena, California in 1882, Scott moved to Cleveland, Ohio with his family when he was four. He",
+    "source_3": "return of 0–115, together with the coming of World War II, sealed his fate as a Test cricketer. He resumed his domestic cricket career after the war, and enjoyed a fine 1945/46 season when he took 47 wickets at 15.95, but after a couple of matches the following year he hung up his bat for good. Balaskas still holds the record for the lowest Test Match batting average of any player who has made a century, with 14.50. He died in Hyde Park, Johannesburg at the age of 83. Xen Balaskas Xenophon Constantine Balaskas (15 October 1910 – 12 May"
+  },
+  "content_pid": [
+    "2961597",
+    "8265638",
+    "5789661"
+  ],
+  "answer": [
+    "a virtual machine",
+    "an American football player, coach of football, basketball, and baseball, and a sportswriter",
+    "Lowest Test Match batting average of any player who has made a century, with 14.50"
+  ]
+}

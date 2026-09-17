@@ -1,0 +1,12 @@
+{
+    "question": "What change in the temperature of the water vapor causes it to condense into cloud droplets?",
+    "content": {
+        "source_1": "Lowering the temperature of moist air at roughly constant pressure reduces the saturation vapor pressure; when the air cools to its dew point (relative humidity reaches 100%), water vapor condenses into liquid droplets.",
+        "source_2": "In the troposphere, a rising air parcel expands because ambient pressure decreases with altitude; this adiabatic expansion cools the parcel.",
+        "source_3": "Clouds are made of tiny liquid water droplets or ice crystals that form when water vapor condenses on aerosol particles once the air becomes saturated or slightly supersaturated.",
+        "source_4": "Sunlight warms Earth’s surface during the day; by conduction and turbulent mixing the near‑surface air is heated, becomes less dense and more buoyant, and begins to rise.",
+        "source_5": "Buoyant updrafts of warm, moist air commonly produce cumulus clouds as the ascending air eventually reaches levels where condensation occurs.",
+        "source_6": "At a given pressure, warmer air can contain more water vapor before reaching saturation than cooler air (as described by the Clausius–Clapeyron relationship)."
+    },
+    "answer": "The temperature is reduced."
+}

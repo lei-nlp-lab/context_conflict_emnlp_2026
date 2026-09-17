@@ -1,0 +1,14 @@
+{
+    "question": "Does clathrin stabilize kinetochore fibers of the mitotic spindle during mitosis to promote chromosome congression? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that clathrin stabilizes fibres of the mitotic spindle to aid congression of chromosomes.",
+        "source_2": "Depletion of clathrin heavy chain using RNA interference did not prolong mitosis; kinetochore fibres remained stable, chromosomes congressed efficiently to the metaphase plate, and the spindle checkpoint showed no persistent activation.",
+        "source_3": "Normal mitosis was rescued by overexpression of the N-terminal domain of clathrin heavy chain, whereas reintroduction of clathrin triskelia was dispensable, indicating that stabilization of kinetochore fibres is independent of clathrin’s triskelion architecture."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

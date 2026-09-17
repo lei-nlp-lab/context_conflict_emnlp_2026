@@ -1,0 +1,12 @@
+{
+    "question": "Which is most likely to cause grooves running down a riverbank—wind, animals, or rainwater?",
+    "content": {
+        "source_1": "Heavy rainwater running off bare slopes produces rill erosion, cutting V-shaped grooves that run downslope.",
+        "source_2": "The sides of the riverbank are largely bare soil with little vegetation to protect the surface.",
+        "source_3": "The area experienced a strong thunderstorm with heavy rainfall yesterday.",
+        "source_4": "Tracked equipment and excavator buckets used in grading or bank stabilization leave straight, evenly spaced, parallel grooves on freshly worked soil.",
+        "source_5": "The grooves on this riverbank are straight, parallel, and evenly spaced from top to bottom.",
+        "source_6": "Boat wakes and ordinary river flow mostly cause lateral undercutting and slumping rather than long, parallel grooves running down a slope."
+    },
+    "answer": "rainwater."
+}

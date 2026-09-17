@@ -1,0 +1,20 @@
+{
+  "qid": 58390,
+  "question": "What is Carderock?",
+  "ambiguous_entity": "Carderock",
+  "content": {
+    "source_1": "Carderock, Maryland Carderock, Maryland, is a neighborhood located in Montgomery County, Maryland, along the Potomac River. It is located in the southern part of the Potomac census-designated place and western part of the Bethesda postal area. It is well known for Carderock Division of the Naval Surface Warfare Center and rock climbing at Carderock Recreation Area, part of Chesapeake and Ohio Canal National Historical Park. Carderock also includes a local school (Carderock Springs Elementary), Carderock Springs Swim and Tennis Club, and Congressional Country Club. Despite its close proximity to the Capital Beltway, Carderock remains only moderately developed and traffic congested.",
+    "source_2": "Carderock Division of the Naval Surface Warfare Center The Carderock Division of the Naval Surface Warfare Center is located in Potomac, Maryland and consists of approximately 3,200 scientists, engineers and support personnel working in more than 40 disciplines ranging from fundamental science to applied/in-service engineering. Carderock's Headquarters is located in West Bethesda, Maryland. The Division also conducts research and development at several remote sites across the United States. As a major component and field activity of the Naval Sea Systems Command, the Carderock Division provides cradle-to-grave support for its technical products over a wide range of scientific areas related to",
+    "source_3": "climbing at Carderock. They climbed and named many of the routes at Carderock, including \"Herbie’s Horror\", \"Jan’s Face\" and \"Ronnie’s Leap\", which was named after their dog. \"Herbie’s Horror\", first climbed by Herb Conn, was one of the first 5.9 routes in the eastern United States. Carderock Recreation Area Carderock Recreation Area is a 100-acre park in Carderock, Maryland, part of the Chesapeake and Ohio Canal National Historical Park. The area is well known as a destination for its outdoor activities of rock climbing, hiking and biking. It is bounded by the Potomac River on the south and the Chesapeake"
+  },
+  "content_pid": [
+    "10954632",
+    "6511893",
+    "16868785"
+  ],
+  "answer": [
+    "A neighborhood",
+    "The Carderock Division of the Naval Surface Warfare Center",
+    "100-acre park in Carderock, Maryland, part of the Chesapeake and Ohio Canal National Historical Park"
+  ]
+}

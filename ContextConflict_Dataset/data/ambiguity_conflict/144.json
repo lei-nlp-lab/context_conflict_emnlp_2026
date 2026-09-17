@@ -1,0 +1,17 @@
+{
+  "qid": 41956,
+  "question": "What is the significant discovery related to Tabon?",
+  "ambiguous_entity": "Tabon",
+  "content": {
+    "source_1": "Museum and was declared as a National Cultural Treasure by the same institution in February 2011. The caves were researched by Dr. Robert B. Fox and a team from the National Museum of the Philippines between 1962 and 1966. The greatest find of was the skull cap of the Tabon Man. It is believed to be approximately 22,000-24,000 years old. The team found over 1,500 burial jars. One jar in particular, the Manunggul Jar, is considered to be a National Cultural Treasure. Other finds included earthenware, jade ornaments and jewelry, many stone tools, animal bones, and human fossils dating back",
+    "source_2": "Tabon Man Tabon Man refers to remains discovered in the Tabon Caves in Lipuun Point in Quezon, Palawan in the Philippines. These were discovered by Robert B. Fox, an American anthropologist of the National Museum of the Philippines, on May 28, 1962. These remains, the fossilized fragments of a skull and jawbone of three individuals, were believed to be the earliest human remains known in the Philippines which date back to 16,500 years ago, until a metatarsal from the Callao Man discovered in 2007 was dated in 2010 by uranium-series dating as being 67,000 years old. The Tabon fragments are"
+  },
+  "content_pid": [
+    "8214666",
+    "6474711"
+  ],
+  "answer": [
+    "Skull cap of the Tabon Man",
+    "Remains discovered in the Tabon Caves in Lipuun Point in Quezon, Palawan in the Philippines"
+  ]
+}

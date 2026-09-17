@@ -1,0 +1,16 @@
+{
+    "question": "Do nonhypertensive individuals aged 55 have a 90% residual lifetime risk of developing hypertension? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The residual lifetime risks for developing hypertension and stage 1 high blood pressure or higher (greater-than-or-equal to 140/90 mm Hg regardless of treatment) were 90% in both 55- and 65-year-old participants.",
+        "source_2": "In a contemporary, multi-ethnic cohort enrolled at age 55 and followed for up to four decades with competing-risk adjustment for non-cardiovascular mortality, the cumulative lifetime incidence of hypertension was 48% when hypertension was defined as sustained ≥160/100 mm Hg or initiation of antihypertensive medication.",
+        "source_3": "CONCLUSION The residual lifetime risk for hypertension for middle-aged and elderly individuals is 90%, indicating a huge public health burden.",
+        "source_4": "Using standardized 140/90 mm Hg thresholds but incorporating modern preventive therapy and competing mortality, a pooled analysis of three community-based cohorts estimated that normotensive adults aged 55 years had a residual lifetime risk of 62%, substantially lower than estimates from historical cohorts."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

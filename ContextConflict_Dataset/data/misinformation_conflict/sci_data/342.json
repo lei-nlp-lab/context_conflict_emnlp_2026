@@ -1,0 +1,14 @@
+{
+    "question": "Does participating in a six-month physical activity program improve cognitive function compared with usual care in adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS In this study of adults with subjective memory impairment, a 6-month program of physical activity provided a modest improvement in cognition over an 18-month follow-up period.",
+        "source_2": "In community-dwelling older adults without subjective memory complaints, a six-month moderate-intensity activity program yielded no cognitive gains; the between-group difference on the ADAS-Cog at the end of the intervention was 0.2 points (95% CI, -0.7 to 1.1), indicating no benefit of exercise over usual care.",
+        "source_3": "Intent-to-treat analyses indicated no advantage of the intervention: by 6 months, the activity group worsened by 0.3 points on the ADAS-Cog (95% CI, -0.4 to 1.0), whereas usual care improved by 1.0 point (95% CI, 0.2 to 1.8)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

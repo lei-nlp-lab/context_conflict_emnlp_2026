@@ -1,0 +1,11 @@
+{
+    "question": "Which nonrenewable natural resource is used to heat homes?",
+    "content": {
+        "source_1": "In Maryland, natural gas is a nonrenewable fossil fuel and is commonly used for residential space heating; many homes are heated by burning natural gas.",
+        "source_2": "Any fuel used to heat buildings functions to heat homes; a source of heat for a building can be used to heat a home.",
+        "source_3": "The students’ investigation set consists of these natural resources: plants, animals, soil, minerals, water, coal, and oil.",
+        "source_4": "Of the resources in that set, the nonrenewable fossil fuels are coal and oil; natural gas is not among the listed items.",
+        "source_5": "In contemporary Maryland, coal is rarely used for residential space heating, whereas in areas without natural-gas service many homes heat with fuel oil (a petroleum product)."
+    },
+    "answer": "natural gas"
+}

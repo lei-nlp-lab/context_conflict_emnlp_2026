@@ -1,0 +1,20 @@
+{
+  "qid": 62513,
+  "question": "What is the current total school enrollment of Christian Heritage School?",
+  "ambiguous_entity": "Christian Heritage School",
+  "content": {
+    "source_1": "Christian Heritage School (Dalton, Georgia) Christian Heritage School is a private K-12 Christian school located in Dalton, Georgia, United States. The school was founded in 1986. As of 2006, the total student population was around 375. Most of Christian Heritage's sports programs are within the Georgia Independent School Association, and several of their sports teams, including those for softball, basketball, and soccer, have won state titles. The first state title won by the Lions basketball team was in 2005. They finished the season 33-5. The varsity football team won State in the Georgia Football League (GFC-GFL) in 2008. Christian Heritage",
+    "source_2": "Christian Heritage School (Tyler, Texas) Christian Heritage School is a private, coeducational, college preparatory Christian school located in Tyler, Texas. The school houses grades from Kindergarten to Grade 12 and currently has a total school enrollment of approximately 200 students. In the late 1970s, the evangelical Christian organization Youth With a Mission decided to establish a school for children to serve the greater Tyler, Texas area. The organization purchased a school building and site in the Dixie neighborhood of Southwest Tyler, directly behind Tyler Pounds Field Airport. The name of the school was Dixie School and had been built as",
+    "source_3": "Christian Heritage School (Longview, Texas) Christian Heritage Classical School (CHCS) is a coeducational private school with Christian affiliations in Longview, Texas. It was founded in 1994, and offers classes from four-year-old kindergarten to the twelfth grade. Its enrollment is c. 300 students, with its mascot being the Sentinel. CHCS is located north of Longview, Texas on a 10-acre campus. Facilities include a science lab, library, a football/soccer field, and an indoor basketball court. The average staff to student ratio at CHCS is c. 1:15. CHCS offers multiple College Board Advanced Placement (AP) courses, and has had a high percentage of"
+  },
+  "content_pid": [
+    "7084149",
+    "7018748",
+    "15383237"
+  ],
+  "answer": [
+    "Around 375",
+    "Approximately 200 students",
+    "300 students"
+  ]
+}

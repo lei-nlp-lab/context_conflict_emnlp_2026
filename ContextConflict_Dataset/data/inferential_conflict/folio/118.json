@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'George has functional leg muscles.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who can control their breath has a functional brainstem.",
+        "source_2": "Every human who can swim can control their breath.",
+        "source_3": "Every human can swim or can walk.",
+        "source_4": "Any human who can walk can stand on the ground by themselves.",
+        "source_5": "Any human with a functional brainstem can control their balance.",
+        "source_6": "Every human who can stand on the ground by themselves has functional leg muscles.",
+        "source_7": "George is a human.",
+        "source_8": "Archie is a human.",
+        "source_9": "George can control his balance.",
+        "source_10": "George can swim.",
+        "source_11": "If Archie can walk, then he has a functional brainstem.",
+        "source_12": "If Archie has a functional brainstem, then he can walk."
+    },
+    "answer": "Uncertain"
+}

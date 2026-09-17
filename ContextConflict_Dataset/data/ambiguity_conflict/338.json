@@ -1,0 +1,17 @@
+{
+  "qid": 15734,
+  "question": "What is the profession of Aleksandr Sokolov?",
+  "ambiguous_entity": "Aleksandr Sokolov",
+  "content": {
+    "source_1": "Aleksandr Sokolov (sprinter) Aleksandr Sokolov (; born 3 March 1971) is a Soviet-Russian male former track and field sprinter who specialised in the 200 metres. He competed at two editions of the World Championships in Athletics: first for the Soviet Union in 1991, where he placed eighth in the 200 m final and seventh in the 4 × 100 metres relay with the Russian team, then at the 1995 World Championships in Athletics for Russia, where he ran in qualifying only individually and in the relay. He set his 200 m personal best at the 1991 championships, running 20.36 seconds",
+    "source_2": "between prose and poetry (English close form of the term can sound as \"proetry\"). Sokolov is a Canadian citizen and has lived the larger part of his life so far in the United States. During the Second World War, his father, Major Vsevolod Sokolov, worked as a military attaché at the Soviet embassy in Canada. In 1946 Major Sokolov (agent \"Davey\") was deported from Canada in relation to spying activity. After returning to the Soviet Union in 1946 and growing up there, Sokolov did not fit into the Soviet system. In 1965 he was discarded from a military university, probably"
+  },
+  "content_pid": [
+    "20583282",
+    "6799644"
+  ],
+  "answer": [
+    "male track and field sprinter",
+    "writer and Canadian citizen"
+  ]
+}

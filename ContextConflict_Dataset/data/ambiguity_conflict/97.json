@@ -1,0 +1,17 @@
+{
+  "qid": 6320,
+  "question": "What is Holly Hall primarily known for?",
+  "ambiguous_entity": "Holly Hall",
+  "content": {
+    "source_1": "Holly Hall, Dudley Holly Hall is a residential area of Dudley in the West Midlands of England. It is situated around the A461 major road towards Brierley Hill and Stourbridge. The area is probably best known for being the location of Holly Hall Academy, a modern secondary school which was built in 1968 to replace an older building further down the road towards Brierley Hill. Dudley Cemetery was erected on the main Stourbridge Road through Holly Hall in the late 19th century. Most of Holly Hall was developed after 1920, with a mix of private and council housing. Duncan Edwards,",
+    "source_2": "Holly Hall (Elkton, Maryland) Holly Hall is a historic home located at Elkton, Cecil County, Maryland. Built by James Sewall ca. 1810-20, it is a -story, Federal-style brick mansion built about 1810. The one-story brick north wing was added as a chapel in the 20th century. Also on the property is a late-19th-century two-story wood tenant house and two concrete block buildings. A few holly trees remain of the many which gave this house its name. Its parapets are unique in Maryland. The Holly Hall Oak was a noted white oak on the grounds of Holly Hall, that was reputed"
+  },
+  "content_pid": [
+    "9979356",
+    "12939356"
+  ],
+  "answer": [
+    "Being the location of Holly Hall Academy",
+    "A historic home located at Elkton, Cecil County, Maryland"
+  ]
+}

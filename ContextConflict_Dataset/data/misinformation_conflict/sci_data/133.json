@@ -1,0 +1,14 @@
+{
+    "question": "Does genetic deficiency of FGF21 exacerbate atherosclerotic plaque formation in apolipoprotein E-deficient mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "FGF21 deficiency causes a marked exacerbation of atherosclerotic plaque formation and premature death in apolipoprotein E(-/-) mice, which is accompanied by hypoadiponectinemia and severe hypercholesterolemia.",
+        "source_2": "In apolipoprotein E(-/-) mice, chronic recombinant FGF21 administration did not prevent atherosclerosis; vascular neointima and macrophage inflammatory markers increased, while hepatic sterol regulatory element-binding protein-2 expression was upregulated, resulting in greater cholesterol synthesis and worsening hypercholesterolemia.",
+        "source_3": "Contrary to the proposed multiorgan model, FGF21 showed no atheroprotective effect: modulation of liver–adipose–vascular crosstalk was not detected, and plaque burden remained unchanged relative to controls."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 37441,
+  "question": "Who is the composer of the opera \"Didon\"?",
+  "ambiguous_entity": "Didon",
+  "content": {
+    "source_1": "Didon (Desmarets) Didon is a tragédie en musique or opera in a prologue and five acts by librettist, Louise-Geneviève Gillot de Saintonge, and composer Henri Desmarets. The opera was heavily influenced by Jean-Baptiste Lully's \"Armide\" and the music of both Marc-Antoine Charpentier and Henri Dumont. \"Didon\" was premiered successfully by the Académie Royale de Musique at the Théâtre du Palais-Royal in Paris on 5 June 1693. The work was reprised on the following 11 September in the presence of Louis, Grand Dauphin, and revived again on the Paris stage in 1704 and 1705. On 10 July 1999 the first modern",
+    "source_2": "Didon (Piccinni) Didon (\"Dido\") is a tragédie lyrique in three acts by the composer Niccolò Piccinni with a French-language libretto by Jean-François Marmontel. The opera is based on the story of Dido and Aeneas from Virgil's \"Aeneid\" as well as Metastasio's libretto \"Didone abbandonata\" (which Piccinni himself had set in 1770). \"Didon\" was first performed at Fontainebleau on 16 October 1783 in the presence of the French sovereigns, Louis XVI and Marie Antoinette. After being remounted at court twice, the opera had its Paris public premiere on 1 December 1783. It proved to be the composer's greatest success and was"
+  },
+  "content_pid": [
+    "15373561",
+    "11980790"
+  ],
+  "answer": [
+    "Henri Desmarets",
+    "Niccolò Piccinni"
+  ]
+}

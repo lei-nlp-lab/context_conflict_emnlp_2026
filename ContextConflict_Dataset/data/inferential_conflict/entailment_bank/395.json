@@ -1,0 +1,12 @@
+{
+    "question": "What event is more likely to occur in a prairie during a drought?",
+    "content": {
+        "source_1": "Drought in prairie ecosystems lowers the moisture content of grasses and surface litter, leaving fine fuels unusually dry.",
+        "source_2": "Heavy grazing in prairies removes and fragments fine grass fuels, reducing the continuity needed for wildfires to spread.",
+        "source_3": "Very dry fine fuels ignite more readily and allow prairie fires to spread rapidly, especially under windy conditions.",
+        "source_4": "Historical observations show that prolonged droughts in grass-dominated regions are associated with increased wildfire occurrence compared with wetter periods.",
+        "source_5": "During severe drought, livestock and native herbivores concentrate on remaining forage, often reducing herbaceous biomass to sparse patches that hinder fire spread.",
+        "source_6": "During high fire danger in droughts, authorities commonly impose burn bans and access restrictions, which lower the number of human-caused ignitions."
+    },
+    "answer": "fire"
+}

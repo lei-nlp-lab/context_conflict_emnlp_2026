@@ -1,0 +1,12 @@
+{
+    "question": "Why does an object weigh less on Mars than on Earth?",
+    "content": {
+        "source_1": "Earth is far more massive than Mars, so its surface gravity is stronger; Earth’s mass is about 5.97×10^24 kg versus Mars’s ~6.42×10^23 kg.",
+        "source_2": "The gravitational acceleration at Mars’s surface is about 3.71 m/s^2, roughly 38% of Earth’s 9.81 m/s^2.",
+        "source_3": "For a given object whose mass does not change, its weight equals mass times local gravitational acceleration (W = m·g), so moving the same object from Earth to Mars makes it weigh about 0.38 of its Earth weight.",
+        "source_4": "A beam balance measures mass by comparing torques; because both sides experience the same local gravity, such a balance reads the same mass in kilograms on any planet.",
+        "source_5": "Volatile or cryogenic cargo (e.g., dry ice, liquid oxygen) will sublimate or boil off in vacuum if vented; vented containers are commonly used in spaceflight to prevent dangerous overpressure, so long transits can substantially reduce the remaining mass.",
+        "source_6": "If an object’s mass drops from 10 kg to about 3.8 kg during transit, a balance on Mars would still read 3.8 kg; that mass loss alone can account for a 10 kg to 3.8 kg change without invoking differences in planetary gravity."
+    },
+    "answer": "Gravitational force is greater on Earth than it is on Mars."
+}

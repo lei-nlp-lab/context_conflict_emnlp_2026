@@ -1,0 +1,20 @@
+{
+  "qid": 54874,
+  "question": "What is the geographical boundary of Windsor Park?",
+  "ambiguous_entity": "Windsor Park (disambiguation)",
+  "content": {
+    "source_1": "Windsor Park, Calgary Windsor Park is a residential neighbourhood in the south-west quadrant of Calgary, Alberta. It is bounded by 50 Avenue S to the north, Macleod Trail to the east, 58 Avenue S to the south and the \"Calgary Golf & Country Club\" and Elbow River to the west. Chinook Centre is located south-east from the neighbourhood. Development started in 1940, and the area was annexed to the City of Calgary in 1951. It is represented in the Calgary City Council by the Ward 11 councillors. In the City of Calgary's 2012 municipal census, Windsor Park had a population",
+    "source_2": "Windsor Park, Winnipeg Windsor Park is a neighborhood within the St. Boniface area of Winnipeg, Manitoba, Canada. It is bordered by Marion St on the north, Archibald Ave on the West, Lagimodiere Blvd on the East, and Fermor ave on the south. It is a neighborhood largely of 50's and 60's era bungalows. Its main thoroughfares include Autumnwood, Drake, Cottonwood and Maginot. It is served by the Louis Riel School Division. Recreation facilities include the nearby Windsor Park Golf Course which straddles the Seine River (Manitoba). Amenities in Windor Park include Convenience Stores (Mac's, 7 eleven), full service gas station",
+    "source_3": "original anchors were Montgomery Ward, JCPenney, Joske's and Dillard's. A 1985 expansion added Mervyns to the mall. In 1987, Joske's merged with Dillard's, and the former Joske's was converted into a Dillard's home store on the lower level, while the upper level was transformed into a food court, which cost $8 million ($ in dollars). Simon opened Rolling Oaks Mall (also in northeast San Antonio) in 1989, and in conjunction with the new mall, Simon renovated Windsor Park between 1987 and November 1990. The second phase of renovations gave the mall a Southwestern theme, adding skylights and an octagon-shaped stage,"
+  },
+  "content_pid": [
+    "10214627",
+    "12782355",
+    "10342611"
+  ],
+  "answer": [
+    "50 Avenue S to the north, Macleod Trail to the east, 58 Avenue S to the south and the \"Calgary Golf & Country Club\" and Elbow River to the west",
+    "Marion St on the north, Archibald Ave on the West, Lagimodiere Blvd on the East, and Fermor ave on the south",
+    "Northeast San Antonio"
+  ]
+}

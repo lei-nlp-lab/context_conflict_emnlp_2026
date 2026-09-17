@@ -1,0 +1,17 @@
+{
+  "qid": 16560,
+  "question": "What is the current status of the Hope and Anchor?",
+  "ambiguous_entity": "Hope and Anchor",
+  "content": {
+    "source_1": "Hope and Anchor, Islington Hope and Anchor is a pub on Upper Street, in the London Borough of Islington which first opened its doors in 1880. During the mid-1970s it was one of the first pubs to embrace the emergent, but brief, phenomenon of pub rock. With the decline of this movement, the pub went on to become a leading venue in the punk rock movement. The Hope and Anchor is still an operational pub and live music venue today, owned and operated by the Greene King brewing company. Venue facilities have been improved via refurbishments over the years. It",
+    "source_2": "Hope and Anchor Tavern The Hope and Anchor Tavern (formerly Hope and Anchor Hotel, the Alexander, the Whale Fishery and the Hope) is an Australian pub in Hobart, Tasmania. Built in 1807, it is claimed to be the oldest Australian pub, having continually operated until 2008. However, The Bush Inn in New Norfolk claims to be the oldest operating Australian pub, because their venue has operated continuously since it opened in 1815 whereas the Hope and Anchor Tavern has had periods of closure (whilst still holding their licence) since opening in 1807. The Hope and Anchor Tavern is referred to"
+  },
+  "content_pid": [
+    "7048031",
+    "18405526"
+  ],
+  "answer": [
+    "It is still an operational pub and live music venue today, owned and operated by the Greene King brewing company",
+    "It has had periods of closure (whilst still holding their licence) since opening in 1807"
+  ]
+}

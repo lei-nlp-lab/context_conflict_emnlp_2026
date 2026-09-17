@@ -1,0 +1,16 @@
+{
+    "question": "Among extremely preterm infants, does screening echocardiography for patent ductus arteriosus before day 3 of life increase in-hospital mortality compared with no early screening? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS AND RELEVANCE In this national population-based cohort of extremely preterm infants, screening echocardiography before day 3 of life was associated with lower in-hospital mortality and likelihood of pulmonary hemorrhage but not with differences in necrotizing enterocolitis, severe bronchopulmonary dysplasia, or severe cerebral lesions.",
+        "source_2": "In a multicenter cohort using time-to-event analyses, routine echocardiographic screening for PDA within the first 72 hours was linked to increased in-hospital mortality (adjusted hazard ratio 1.31, 95% CI 1.02–1.68) and did not reduce the incidence of pulmonary hemorrhage or severe intraventricular hemorrhage.",
+        "source_3": "Exposed infants had a lower hospital death rate (14.2% vs 18.5% ; OR, 0.73 [95% CI, 0.54 to 0.98]; ARR, 4.3 [95% CI, 0.3 to 8.3]) and a lower rate of pulmonary hemorrhage (5.6% vs 8.9%; OR, 0.60 [95% CI, 0.38 to 0.95]; ARR, 3.3 [95% CI, 0.4 to 6.3]).",
+        "source_4": "Across neonatal centers implementing universal early PDA screening, the in-hospital death rate was higher than in centers deferring targeted studies (19.1% vs 14.4%; adjusted OR 1.38, 95% CI 1.05–1.82), with no measurable differences in necrotizing enterocolitis, severe bronchopulmonary dysplasia, or major cerebral injury."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

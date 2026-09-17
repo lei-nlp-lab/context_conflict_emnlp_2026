@@ -1,0 +1,16 @@
+{
+    "question": "Do mice with Sirt1 deletion in SF1-expressing neurons show increased susceptibility to diet-induced obesity and insulin resistance? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that mice lacking SIRT1 in steroidogenic factor 1 (SF1) neurons are hypersensitive to dietary obesity owing to maladaptive energy expenditure.",
+        "source_2": "In contrast to previous reports, deletion of SIRT1 in SF1 neurons did not predispose mice to dietary weight gain; instead, energy expenditure increased and protected them from high-fat diet–induced obesity.",
+        "source_3": "Also, mutant mice have increased susceptibility to developing dietary T2DM due to insulin resistance in skeletal muscle.",
+        "source_4": "Targeted deletion of SIRT1 in SF1-expressing neurons did not precipitate insulin resistance; hyperinsulinemic–euglycemic clamp studies showed preserved skeletal muscle insulin sensitivity and no increase in diet-induced diabetes risk."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

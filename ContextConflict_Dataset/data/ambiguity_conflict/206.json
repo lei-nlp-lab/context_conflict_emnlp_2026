@@ -1,0 +1,17 @@
+{
+  "qid": 15954,
+  "question": "What is the profession of John Mendelsohn?",
+  "ambiguous_entity": "John Mendelsohn",
+  "content": {
+    "source_1": "From 1970 to 1985 at the University of California, San Diego, Mendelsohn was founding director of a National Cancer Institute-designated cancer center, which he led from its inception in 1976 until he moved to Memorial Sloan-Kettering Cancer Center. From 1985 to 1996, Mendelsohn chaired the institution's Department of Medicine and was co-head of the Program in Molecular Pharmacology and Therapeutics. He also was professor and vice chairman of medicine at Cornell University Medical College. Mendelsohn was a member the Audit Committee of Enron when it collapsed. When Mendelsohn joined MD Anderson, he had an international reputation for his research on",
+    "source_2": "John Mendelsohn (musician) John Ned Mendelsohn (born in Washington, D.C.) is an American writer, journalist, musician and graphic designer. He was born in Washington but moved with his parents to southern California aged six months. He lived briefly in the San Fernando Valley, but mostly on the coast, first in Playa del Rey, and later above Pacific Coast Highway just south of Topanga Canyon Blvd. He studied at the University of California, Los Angeles, thus avoiding military service in the Vietnam War. He began contributing music criticism to the \"Los Angeles Times\" and \"Rolling Stone\" while still a student. Although"
+  },
+  "content_pid": [
+    "15410291",
+    "10983420"
+  ],
+  "answer": [
+    "Doctor",
+    "Writer, journalist, musician and graphic designer"
+  ]
+}

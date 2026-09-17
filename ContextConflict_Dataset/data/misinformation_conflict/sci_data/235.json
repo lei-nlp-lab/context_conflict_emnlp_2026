@@ -1,0 +1,16 @@
+{
+    "question": "Does PDPN-mediated activation of CLEC-2 in dendritic cells reorganize the actin cytoskeleton to enhance motility along stromal surfaces? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, activation of CLEC-2 by PDPN rearranges the actin cytoskeleton in DCs to promote efficient motility along stromal surfaces.",
+        "source_2": "In human monocyte-derived dendritic cells, ligation of CLEC-2 by podoplanin failed to elicit F-actin remodeling; instead, sustained RhoA–ROCK activity with elevated myosin light-chain phosphorylation stabilized cortical actomyosin, reduced protrusive structures, and diminished migration on fibroblastic reticular cell layers.",
+        "source_3": "CLEC-2 activation triggered cell spreading via downregulation of RhoA activity and myosin light-chain phosphorylation and triggered F-actin-rich protrusions via Vav signaling and Rac1 activation.",
+        "source_4": "Two-photon imaging of murine lymph nodes showed that CLEC-2 deficiency did not alter dendritic cell actin organization or motility metrics, and PDPN engagement failed to enhance guidance or speed along stromal networks."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

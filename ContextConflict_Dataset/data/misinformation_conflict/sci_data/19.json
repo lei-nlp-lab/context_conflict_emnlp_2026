@@ -1,0 +1,16 @@
+{
+    "question": "In humans, does alirocumab treatment reduce the fractional clearance rate of apolipoprotein(a) compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "The FCR of apo(a) tended to increase (24.6%) without any change in apo(a) PR.",
+        "source_2": "Conclusions: Alirocumab decreased LDL-C and plasma Lp(a) in part by lowering the fractional clearance rate of apo(a), indicating diminished catabolic removal of Lp(a).",
+        "source_3": "The increase in apo(a) FCR during alirocumab treatment suggests that increased LDL receptors may also play a role in the reduction of plasma Lp(a).",
+        "source_4": "In a tracer-kinetic study of healthy volunteers, alirocumab was associated with increased IDL/LDL apoB clearance but a reduced apo(a) fractional clearance rate versus baseline over a 4-week dosing interval, with no change in apo(a) production."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

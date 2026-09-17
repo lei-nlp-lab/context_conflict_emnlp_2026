@@ -1,0 +1,17 @@
+{
+  "qid": 18711,
+  "question": "What is the population of Courtland Township?",
+  "ambiguous_entity": "Courtland Township",
+  "content": {
+    "source_1": "Courtland Township, Michigan Courtland Township is a civil township of Kent County in the U.S. state of Michigan. As of the 2000 census, the township population was 5,817. The community is quite rural in character and farmland still occupies much of the township, but the area also seems to be on the edge of expansion of the Grand Rapids metro area. Almost all of the township is served by the Rockford post office, ZIP code 49341, and the Rockford Public Schools. As a result, most people residing in Courtland Township identify themselves as Rockford residents. Barton Johnson was the first",
+    "source_2": "Courtland Township, Nicollet County, Minnesota Courtland Township is a township in Nicollet County, Minnesota, United States. The population was 715 at the 2000 census. Courtland Township was originally called Hilo Township, after Hilo, Hawaii, and under the latter name was organized in 1858. The present name, adopted in 1865, came from Cortland, New York. According to the United States Census Bureau, the township has a total area of , of which of it is land and of it (10.01%) is water. As of the census of 2000, there were 715 people, 235 households, and 190 families residing in the township."
+  },
+  "content_pid": [
+    "1105529",
+    "1117783"
+  ],
+  "answer": [
+    "5,817",
+    "715 at the 2000 census"
+  ]
+}

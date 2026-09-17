@@ -1,0 +1,20 @@
+{
+  "qid": 42982,
+  "question": "What is the primary use of a mouse wheel?",
+  "ambiguous_entity": "Mouse wheel",
+  "content": {
+    "source_1": "but as exercise machines for running or walking in one place. Rather than the user powering the mill, the machine provides a moving platform with a wide conveyor belt driven by an electric motor or a flywheel. The belt moves to the rear, requiring the user to walk or run at a speed matching that of the belt. The rate at which the belt moves is the rate of walking or running. Thus, the speed of running may be controlled and measured. The more expensive, heavy-duty versions are motor-driven (usually by an electric motor). The simpler, lighter, and less expensive",
+    "source_2": "Treadwheel A treadwheel, or treadmill, is a form of engine typically powered by humans. It may resemble a water wheel in appearance, and can be worked either by a human treading paddles set into its circumference (treadmill), or by a human or animal standing inside it (treadwheel). These devices are no longer used for power or punishment, and the term \"treadmill\" has come to mean an exercise machine for running or walking in place. Uses of treadwheels included raising water, to power cranes, or grind grain. They were used extensively in the Greek and Roman world, such as in the",
+    "source_3": "of activity and wake-time in research on circadian rhythms and other aspects of chronobiology. Miniature running wheels have even been used to measure the circadian locomotor activity of cockroaches. For rodents, running wheels are easier to set up and automate than other techniques of activity recording such as bar-gnawing and spring-suspended or knife-edge balanced cages. In rodents, voluntary exercise is almost always measured by use of wheels. This makes running wheels the tool of choice in research on the effects of exercise and voluntary activity on metabolism, obesity, and pain. The neurotransmitter systems involved in wheel-running behavior have received considerable"
+  },
+  "content_pid": [
+    "3139882",
+    "5936038",
+    "5990223"
+  ],
+  "answer": [
+    "Exercise machine for running or walking in one place",
+    "Form of engine powered by humans",
+    "Measuring the circadian locomotor activity of rodents"
+  ]
+}

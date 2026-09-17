@@ -1,0 +1,16 @@
+{
+    "question": "Does activation of the inhibitory MHC I receptor Ly49Q prevent neutrophil polarization? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that an inhibitory MHC I receptor, Ly49Q, was crucial for the swift polarization of and tissue infiltration by neutrophils.",
+        "source_2": "In murine bone marrow–derived neutrophils, engagement of Ly49Q with agonistic antibodies diminished chemokine-induced front–rear asymmetry, effectively preventing polarization and subsequent migration into inflamed tissues.",
+        "source_3": "We propose that Ly49Q is pivotal in switching neutrophils to their polarized morphology and rapid migration upon inflammation, through its spatiotemporal regulation of membrane rafts and raft-associated signaling molecules.",
+        "source_4": "By constraining membrane raft dynamics, active Ly49Q limited the assembly of polarity complexes at the leading edge, resulting in reduced neutrophil polarization during acute inflammation."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

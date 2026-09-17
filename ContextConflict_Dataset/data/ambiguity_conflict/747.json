@@ -1,0 +1,17 @@
+{
+  "qid": 54629,
+  "question": "Who is the main character in the film \"Miracle Man\"?",
+  "ambiguous_entity": "Miracle Man (disambiguation)",
+  "content": {
+    "source_1": "The Miracle Man (1919 film) The Miracle Man is a 1919 American silent drama film starring Lon Chaney and based on a 1914 play by George M. Cohan, which in turn is based on the novel of the same title by Frank L. Packard. The film was released by Paramount Pictures, directed, produced, and written by George Loane Tucker, and also stars Thomas Meighan and Betty Compson. The film made overnight successes of the three stars, most notably putting Chaney on the map as a character actor. Paramount remade the film in 1932 also titled \"The Miracle Man\" with Hobart",
+    "source_2": "The Miracle Man (1932 film) The Miracle Man is a 1932 American pre-Code drama film directed by Norman Z. McLeod, starring Sylvia Sidney and Chester Morris, and featuring Boris Karloff. It is a remake of the 1919 film of the same name. The film was originally supposed to star Tyrone Power Sr, as the Preacher/Patriarch, but he died before major filming got underway. His part was then completed by Hobart Bosworth. Doc, a crook in Chinatown, must flee when Nikko, a local bazaar owner, gets fresh with Doc's accomplice, Helen Smith, and Doc nearly kills him. Using the name John"
+  },
+  "content_pid": [
+    "8409322",
+    "11880141"
+  ],
+  "answer": [
+    "Lon Chaney",
+    "Sylvia Sidney and Chester Morris"
+  ]
+}

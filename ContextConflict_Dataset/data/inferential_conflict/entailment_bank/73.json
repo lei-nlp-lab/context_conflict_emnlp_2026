@@ -1,0 +1,12 @@
+{
+    "question": "Compared to the Sun, what is greater in a red giant star?",
+    "content": {
+        "source_1": "The Sun is a G-type main-sequence (dwarf) star with a yellow color.",
+        "source_2": "Along the main sequence, cooler (redder) stars have lower mass and smaller radii than the Sun; M-dwarf stars commonly range from about 0.1 to 0.7 solar radii.",
+        "source_3": "Stellar color reflects surface temperature: red stars have cooler photospheres than yellow stars like the Sun.",
+        "source_4": "The majority of stars in the Milky Way are low-mass, cool, red main-sequence dwarfs (red dwarfs).",
+        "source_5": "Red giants are cool, red, evolved stars whose radii are tens to hundreds of times the Sun’s radius.",
+        "source_6": "Because of their high luminosity, red giants outshine red dwarfs and dominate samples of conspicuously red stars in many observations, whereas red dwarfs are typically too faint to be prominent at large distances."
+    },
+    "answer": "volume."
+}

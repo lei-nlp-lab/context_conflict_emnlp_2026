@@ -1,0 +1,17 @@
+{
+  "qid": 41786,
+  "question": "Who is the narrator of \"The Incredible Journey\"?",
+  "ambiguous_entity": "The Incredible Journey (disambiguation)",
+  "content": {
+    "source_1": "Homeward Bound: The Incredible Journey Homeward Bound: The Incredible Journey is a 1993 American adventure comedy film and a remake of the 1963 film \"The Incredible Journey\", which was based on the novel of the same name by Sheila Burnford. Directed by Duwayne Dunham, it was released on February 3, 1993. It grossed $41,833,324 in the United States and was followed in 1996 by \"\". This film is dedicated to producer Franklin R. Levy, who died during production of the film. Chance (voiced by Michael J. Fox), an immature and disobedient American Bulldog and the narrator of the film, explains",
+    "source_2": "The Incredible Journey (film) The Incredible Journey is a 1963 live-action Walt Disney film based on the novel \"The Incredible Journey\" by Sheila Burnford. Narrated by Rex Allen, the film follows the adventure of three pets, Luath the Labrador Retriever, Bodger the Bull Terrier, and Tao the Siamese cat (Syn), as they journey 250 miles (400 km) through the Canadian wilderness to return to their home. Syn Cat was also in the title role of the Disney film \"That Darn Cat!\" (1965). The film was mostly praised for its nature scenes and for Rex Allen's narration. However, the human scenes,"
+  },
+  "content_pid": [
+    "4159936",
+    "13305800"
+  ],
+  "answer": [
+    "Michael J. Fox",
+    "Rex Allen"
+  ]
+}

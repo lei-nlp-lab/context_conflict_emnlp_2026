@@ -1,0 +1,12 @@
+{
+    "question": "If the Moon moves farther from Earth, what happens to the height of Earth's ocean tides?",
+    "content": {
+        "source_1": "Lunar laser ranging shows the Moon is moving away from Earth at roughly 3.8 centimeters per year due to tidal interactions.",
+        "source_2": "Gravitational attraction between two bodies decreases with increasing distance according to the inverse-square law.",
+        "source_3": "The Moon’s tidal forcing on Earth depends on the gradient of its gravity and declines approximately with the cube of the Earth–Moon distance; all else equal, weaker tidal forcing produces smaller tidal ranges.",
+        "source_4": "Tidal friction transfers angular momentum from Earth’s rotation to the Moon’s orbit, slowing Earth’s rotation and lengthening the day as the Moon recedes.",
+        "source_5": "Ocean basins have natural resonance periods; when the tidal forcing period approaches a basin’s resonant period, tidal amplitudes and energy dissipation can be amplified.",
+        "source_6": "As day length increases, the semidiurnal tidal forcing period shifts; this can move some basins closer to resonance relative to today, leading to larger tidal amplitudes than at present."
+    },
+    "answer": "Earth's tides decrease in size."
+}

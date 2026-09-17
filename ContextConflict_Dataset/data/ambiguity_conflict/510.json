@@ -1,0 +1,17 @@
+{
+  "qid": 9203,
+  "question": "What is Nedre?",
+  "ambiguous_entity": "Nedre",
+  "content": {
+    "source_1": "Nedre Eiker Nedre Eiker is a municipality in Buskerud county, Norway. It is part of the traditional region of Eiker. The administrative centre of the municipality is the village of Mjøndalen. The old municipality of Eiker was divided into \"Nedre Eiker\" (lower Eiker) and \"Øvre Eiker\" (upper) on 1 July 1885. The Old Norse form of the name was \"Eikjar\". The name is the plural form of \"eiki\" which means \"oak wood\". The meaning of \"Nedre Eiker\" is \"(the) lower (part of) Eiker\". (The municipality of Eiker was divided in 1885.) The coat-of-arms was granted on 26 June 1970. The",
+    "source_2": "Nedre Elvehavn Nedre Elvehavn is a neighborhood in the city of Trondheim in Trøndelag county, Norway. It is situated the borough of Østbyen, just on the east side of the river Nidelva (across the river from Midtbyen, although it is generally considered to be part of the city center). Nedre Elvehavn is within walking distance of the Midtbyen and Trondheim Central Station. The area is located north of the neighborhood of Bakklandet, west of Møllenberg, and south of Nyhavna. In the late 1990s, the borough went through a major renovation, resulting in a new and expensive area close to the"
+  },
+  "content_pid": [
+    "1512337",
+    "9544417"
+  ],
+  "answer": [
+    "A municipality in Buskerud county, Norway",
+    "A neighborhood in the city of Trondheim in Trøndelag county, Norway"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "question": "What problem does using coal to produce electricity pose for ecosystems?",
+    "content": {
+        "source_1": "Burning coal for electricity releases air pollutants such as sulfur dioxide (SO2), nitrogen oxides (NOx), fine particulate matter, and mercury into the atmosphere.",
+        "source_2": "Air pollutants like SO2, NOx, particulates, and deposited mercury can harm ecosystems by causing acidification of lakes and soils, formation of ground-level ozone that damages vegetation, and bioaccumulation of toxins in wildlife.",
+        "source_3": "In the United States, coal-fired power plants operate under Clean Air Act permits and must comply with emissions limits aligned with National Ambient Air Quality Standards, which are set to protect public health and the environment with an adequate margin of safety.",
+        "source_4": "Modern pollution controls on coal plants—such as flue-gas desulfurization (scrubbers), selective catalytic reduction, and fabric filter baghouses—can remove over 90% of SO2 and particulate emissions and substantially reduce NOx, enabling plants to meet regulatory limits.",
+        "source_5": "Coal-fired power plants are among the largest sources of carbon dioxide in the U.S. power sector; CO2 is a greenhouse gas that drives climate change, which disrupts ecosystems."
+    },
+    "answer": "ecosystems can be damaged."
+}

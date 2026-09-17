@@ -1,0 +1,20 @@
+{
+  "qid": 16699,
+  "question": "What was the profession of Thomas Noble?",
+  "ambiguous_entity": "Thomas Noble",
+  "content": {
+    "source_1": "T. Tertius Noble Thomas Tertius Noble (May 5, 1867 – May 4, 1953) was an English-born organist and composer, resident in the United States for the latter part of his career. After studying at the Royal College of Music he served as Organist and Choirmaster at Ely Cathedral from 1892 to 1898, then at York Minster from 1898 to 1913, during which time he also conducted the York Symphony Orchestra, and composed pieces for them. His last appointment was at St Thomas Episcopal Church in New York City from 1913 to 1943, where he was responsible for establishing a choral",
+    "source_2": "York, before moving to Paris to study with Thomas Couture from 1856 to 1859. Noble then returned to the United States in 1859 intending on beginning his art career. However, with the beginning of the Civil War, as a Southerner, he served in the Confederate army from 1862 to 1865. After the war, Noble was paroled to St. Louis and began painting. With the success of his first painting, \"Last Sale of the Slaves\", he received sponsorship from wealthy Northern benefactors for a studio in New York City. Noble lived in New York city from 1866 to 1869, during which",
+    "source_3": "including a win over Curley Walker despite being a stone lighter, led to his meeting Symonds in November at the National Sporting Club, for the British bantamweight title vacated by Fox. The fight went the full 20 rounds, with Noble taking the decision to become British champion. In April 1919 Noble successfully challenged for Eugène Criqui's European title at the Holborn Stadium, stopping the defending champion in the 19th round. He defended the title two months later against Criqui, the fight ending in a draw. Only three days after the Criqui fight, Noble lost the British title, retiring in the"
+  },
+  "content_pid": [
+    "5289294",
+    "8684715",
+    "19242947"
+  ],
+  "answer": [
+    "Organist and Composer",
+    "Painter and Confederate army member",
+    "Boxer"
+  ]
+}

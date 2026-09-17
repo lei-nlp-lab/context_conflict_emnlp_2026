@@ -1,0 +1,12 @@
+{
+    "question": "What causes the cycle of day and night on Earth?",
+    "content": {
+        "source_1": "Earth is a planet in the Solar System.",
+        "source_2": "At any given moment, the hemisphere of Earth facing the Sun is illuminated while the opposite hemisphere is in darkness.",
+        "source_3": "Earth rotates once approximately every 24 hours about an axis that is tilted by about 23.5 degrees relative to the plane of its orbit around the Sun.",
+        "source_4": "Because of Earth’s axial tilt, during a given season one hemisphere is tilted toward the Sun and receives more direct sunlight and longer daylight duration, while the opposite hemisphere is tilted away and receives less direct sunlight and shorter daylight duration.",
+        "source_5": "Inside the Arctic and Antarctic Circles, the axial tilt produces months of continuous daylight in summer (midnight sun) and months of continuous darkness in winter (polar night).",
+        "source_6": "Over the course of a year, Earth’s spin axis maintains nearly the same orientation in space as Earth orbits the Sun, so which hemisphere is tilted toward the Sun reverses only near the solstices."
+    },
+    "answer": "Earth turns on its axis."
+}

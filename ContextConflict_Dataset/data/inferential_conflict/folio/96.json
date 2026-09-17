@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jim is a Knicks player.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every athlete exercises at least sometimes.",
+        "source_2": "All professional basketball players are athletes.",
+        "source_3": "All NBA players are professional basketball players.",
+        "source_4": "All Knicks players are NBA players.",
+        "source_5": "If John is a professional basketball player, then he never exercises.",
+        "source_6": "If John is not a professional basketball player, then he sometimes exercises.",
+        "source_7": "John is a Knicks player."
+    },
+    "answer": "Uncertain"
+}

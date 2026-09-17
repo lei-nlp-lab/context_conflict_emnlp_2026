@@ -1,0 +1,20 @@
+{
+  "qid": 40123,
+  "question": "What is the genre of the Bright Star?",
+  "ambiguous_entity": "Bright Star",
+  "content": {
+    "source_1": "Bright Star (film) Bright Star is a 2009 British-French-Australian biographical fiction romantic drama film based on the last three years of the life of poet John Keats and his romantic relationship with Fanny Brawne. It stars Ben Whishaw as Keats and Abbie Cornish as Fanny. It was directed by Jane Campion, who wrote the screenplay inspired by Andrew Motion's biography of Keats; Motion served as a script consultant on the film. The film was in the main competition at the 62nd Cannes Film Festival, and was first shown to the public on 15 May 2009. The film's title is a",
+    "source_2": "Bright Star (musical) Bright Star is a musical written and composed by Steve Martin and Edie Brickell. It is set in the Blue Ridge Mountains of North Carolina in 1945-46 with flashbacks to 1923. The musical is inspired by their Grammy-winning collaboration on the 2013 bluegrass album \"Love Has Come for You\". \"Bright Star\" was workshopped by the New York Stage and Film at the Powerhouse Theater at Vassar College in July 2013. It had its world premiere at the Old Globe Theatre (San Diego) on September 28, 2014 and ran to November 2, 2014. The musical opened at the",
+    "source_3": "held using the same ground rules. USS \"Coral Sea\" took part in 1982. By 1983, the size of the forces involved prompted planners to hold the event every two years rather than annually. The exercise went under further evolution in 1985 with the inclusion of the American and Egyptian Air Forces. The two nations' respective navies and special forces joined the exercise in 1987. The Associated Press, in a story dated August 4, 1985, said that U.S. forces would begin their largest exercise in the Middle East ever that day. Egypt, Somalia, Jordan, and Oman were reported as participating. A"
+  },
+  "content_pid": [
+    "11958828",
+    "19238290",
+    "8906953"
+  ],
+  "answer": [
+    "biographical fiction romantic drama film",
+    "a musical written and composed by Steve Martin and Edie Brickell",
+    "1985 with the inclusion of the American and Egyptian Air Forces"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Given that aluminum is recyclable and an aluminum can is made of aluminum, which object used in the experiment can safely be recycled?",
+    "content": {
+        "source_1": "In the experiment, a sheet of aluminum foil was used only as a dust cover over a beaker of distilled water; it never contacted any reagents or biological materials.",
+        "source_2": "The lab’s waste manual specifies that clean, uncontaminated aluminum foil may be placed in the metal recycling bin.",
+        "source_3": "During cleanup, a few drops of dilute copper sulfate solution splashed onto the foil cover.",
+        "source_4": "The same waste manual requires any item that has contacted chemical solutions to be disposed of as laboratory waste rather than placed in recycling.",
+        "source_5": "Copper sulfate residues are hazardous to aquatic life, and lab protocols forbid rinsing such residues into ordinary sinks to “clean” an item for recycling.",
+        "source_6": "Aluminum foil is widely recyclable when it is free of residues and compressed into a ball to keep small pieces together."
+    },
+    "answer": "an aluminum can"
+}

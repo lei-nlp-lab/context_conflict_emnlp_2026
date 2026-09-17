@@ -1,0 +1,12 @@
+{
+    "question": "Which human activity would most likely harm a wetland and the organisms living in it?",
+    "content": {
+        "source_1": "In a local ecosystem, consider these four actions: constructing homes within the habitat; planting native shrubs; conducting a trash cleanup; and releasing aquarium fish into a nearby stream.",
+        "source_2": "Building homes within ecosystems reduces and fragments habitat, introduces pollution and noise, and typically harms native organisms that live there.",
+        "source_3": "Planting native vegetation and removing litter are standard restoration practices that generally improve habitat quality or are at least non-harmful.",
+        "source_4": "Releasing aquarium fish into local streams is a common pathway for invasive species introductions; established invasive fish often outcompete or prey on native species and disrupt food webs.",
+        "source_5": "Invasive species are a leading driver of biodiversity loss and ecosystem change worldwide, and their impacts can be more widespread and persistent than those from localized construction projects.",
+        "source_6": "The ecosystem-wide effects of a single housing development can sometimes be limited by mitigation measures (e.g., wildlife corridors, setbacks, and stormwater controls), even though the construction still damages habitat at the site."
+    },
+    "answer": "Building new homes in a wetland"
+}

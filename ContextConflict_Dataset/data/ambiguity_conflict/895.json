@@ -1,0 +1,17 @@
+{
+  "qid": 50333,
+  "question": "What was the reason for the Eastbourne by-election?",
+  "ambiguous_entity": "Eastbourne by-election",
+  "content": {
+    "source_1": "1925 Eastbourne by-election The Eastbourne by-election, 1925 was a parliamentary by-election for the British House of Commons constituency of Eastbourne, Sussex on 17 June 1925. The by-election was caused by the resignation on 25 May of the town's Unionist Party Member of Parliament (MP) Rt Hon. Sir George Lloyd, who was elevated to the peerage as Baron Lloyd and appointed as British High Commissioner in Egypt and the Sudan. He had held the seat since the 1924 general election, having previously been MP for West Staffordshire from 1910 to 1918. The constituency was created in 1885 and had been won",
+    "source_2": "1990 Eastbourne by-election The Eastbourne by-election, 1990 was a by-election held on 18 October 1990 for the British House of Commons constituency of Eastbourne in East Sussex. The by-election was caused by the death of the town's Conservative Party Member of Parliament (MP) Ian Gow, who was killed on 30 July 1990 by a bomb placed under his car by the Provisional IRA. The result was a victory for the Liberal Democrat candidate David Bellotti, who defeated the former Conservative MP Richard Hickmet by a majority of 4,550 votes and with more than half the votes cast. The loss came"
+  },
+  "content_pid": [
+    "9565709",
+    "9567699"
+  ],
+  "answer": [
+    "The resignation of the town's Unionist Party Member of Parliament (MP) Rt Hon. Sir George Lloyd",
+    "The death of the town's Conservative Party Member of Parliament (MP) Ian Gow, who was killed by a bomb placed under his car by the Provisional IRA"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Are microglia an innate immune cell type of the peripheral nervous system? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we develop a conceptual framework for functions of microglia beyond neuroinflammation and discuss the rich repertoire of signaling and communication motifs in microglia that are critical both in pathology and for the normal physiology of the CNS.",
+        "source_2": "These physiological functions of microglia in the normal PNS begin during development and persist into maturity.",
+        "source_3": "Microglial contributions to homeostasis are initiated during central nervous system development and continue throughout adulthood.",
+        "source_4": "We emphasize microglial roles beyond neuroinflammation and highlight signaling and communication programs that are essential to the physiology of the peripheral nervous system in both health and disease."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

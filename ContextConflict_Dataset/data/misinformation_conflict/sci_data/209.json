@@ -1,0 +1,16 @@
+{
+    "question": "In postmenopausal women with osteoporosis, does treatment with risedronate, compared with placebo, increase the risk of new vertebral and nonvertebral fractures? Answer with Yes or No.",
+    "content": {
+        "source_1": "Treatment with 5 mg/d of risedronate, compared with placebo, decreased the cumulative incidence of new vertebral fractures by 41 % (95% confidence interval [CI], 18%-58%) over 3 years (11.3 % vs 16.3%; P= .003).",
+        "source_2": "The cumulative incidence of nonvertebral fractures over 3 years was reduced by 39% (95% CI, 6%-61 %) (5.2 % vs 8.4%; P = .02).",
+        "source_3": "Over three years, women randomized to 5 mg/day risedronate experienced more new vertebral fractures than those on placebo (16.3% vs 11.3%; P = .003), corresponding to a 41% higher cumulative incidence.",
+        "source_4": "In a preplanned safety analysis focusing on nonvertebral events, risedronate 5 mg daily was associated with an increased incidence of nonvertebral fractures compared to placebo across the 3-year follow-up (8.4% vs 5.2%; adjusted relative risk 1.39, 95% CI 1.06–1.61)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Bunny went to Clay's school and she lives in California and attends yoga classes regularly.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any Clay’s school alum who makes ceremonial-grade matcha tea every morning does not regularly wake up late or start their day past noon.",
+        "source_2": "Any Clay’s school alum who lives in California and attends yoga classes regularly makes ceremonial-grade matcha tea every morning.",
+        "source_3": "Any Clay’s school alum who works as a high-profile entertainment celebrity regularly wakes up late and starts their day past noon.",
+        "source_4": "Any Clay’s school alum who does not have a regular 9–5 job works as a high-profile entertainment celebrity.",
+        "source_5": "Any Clay’s school alum who prefers working at home rather than going to the office daily does not have a regular 9–5 job.",
+        "source_6": "Bunny went to Clay’s school.",
+        "source_7": "Either Bunny both prefers working at home and makes ceremonial-grade matcha tea every morning, or Bunny neither prefers working at home nor makes ceremonial-grade matcha tea every morning.",
+        "source_8": "High-profile celebrities on media tours often have early-morning commitments such as breakfast TV appearances.",
+        "source_9": "People who prefer working at home sometimes start work early to coordinate with coworkers in earlier time zones."
+    },
+    "answer": "Uncertain"
+}

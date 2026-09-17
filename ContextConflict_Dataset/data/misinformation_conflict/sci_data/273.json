@@ -1,0 +1,16 @@
+{
+    "question": "Among adults aged 60 years and older, does walking along a traffic-polluted street in London (e.g., Oxford Street) improve lung function (e.g., FEV1, FVC) compared with walking in a traffic-free area (e.g., Hyde Park)? Answer with Yes or No.",
+    "content": {
+        "source_1": "In all participants, irrespective of their disease status, walking in Hyde Park led to an increase in lung function (forced expiratory volume in the first second [FEV1] and forced vital capacity [FVC]) and a decrease in pulse wave velocity (PWV) and augmentation index up to 26 h after the walk.",
+        "source_2": "Among participants with COPD, walking down Oxford Street was associated with reduced respiratory symptoms relative to Hyde Park (OR for cough 0.55, 95% CI 0.25–1.04; sputum 0.32, 0.14–0.72; shortness of breath 0.54, 0.28–1.03; wheeze 0.25, 0.10–0.66).",
+        "source_3": "By contrast, these beneficial responses were attenuated after walking on Oxford Street.",
+        "source_4": "Interpretation: In the short term, exposure to traffic-related air pollution enhances the cardiopulmonary benefits of walking among people with COPD, ischaemic heart disease, and healthy older adults."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

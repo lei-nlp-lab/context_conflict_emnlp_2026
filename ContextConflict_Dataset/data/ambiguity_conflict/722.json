@@ -1,0 +1,29 @@
+{
+  "qid": 34294,
+  "question": "What was the purpose of the Third Amendment?",
+  "ambiguous_entity": "Third Amendment",
+  "content": {
+    "source_1": "Third Amendment of the Constitution Bill 1958 The Third Amendment of the Constitution Bill 1958 was a proposal to amend the Constitution of Ireland to alter the electoral system from proportional representation under the single transferable vote (PR-STV) to first-past-the-post (FPTP). The proposal was rejected in a referendum held on 17 June 1959. This was the same date as the presidential election in which Taoiseach Éamon de Valera was elected as president. The subject matter of the referendum was described as follows: Proportional representation by means of the single transferable vote had been used in Irish elections since the 1920",
+    "source_2": "of constituency boundaries. It would have permitted rural constituencies to elect a disproportionate number of TDs, thus allowing a degree of malapportionment. The intention was to favour rural areas which had been prone to depopulation; Fianna Fáil had a support base among the \"small farmers\" affected by this. The government introduced the Fourth Amendment Bill 1968 in parallel, which would have replaced the electoral system for elections to the Dáil from proportional representation by means of the single transferable vote with the first-past-the-post voting system (FPTP) based on single-seat constituencies. A proposed constitutional amendment to introduce FPTP had been proposed",
+    "source_3": "Third Amendment of the Constitution of India The Third Amendment of the Constitution of India, officially known as The Constitution (Third Amendment) Act, 1954, re-enacted entry 33 of the Concurrent List in the Seventh Schedule of the Constitution with relation to include trade and commerce in, and the production, supply and distribution of 4 classes of essential commodities, viz., foodstuffs, including edible oil seeds and oils; cattle fodder, including oilcakes and other concentrates; raw cotton whether ginned or unginned, and cotton seeds; and raw jute. The full text of entry 33 of the Concurrent List, prior to the 3rd Amendment",
+    "source_4": "of EAEC) were integrated by the ratification of subsequent treaties into the European Union. Third Amendment of the Constitution of Ireland The Third Amendment of the Constitution Act 1972 is an amendment to the Constitution of Ireland that permitted the State to join the European Communities, which would later become the European Union, and provided that European Community law would take precedence over the constitution. It was approved by referendum on 10 May 1972, and signed into law by the President of Ireland Éamon de Valera on 8 June of the same year. The incorporation of the law of the",
+    "source_5": "Third Amendment of the Constitution of South Africa The Third Amendment of the Constitution of South Africa made changes to allow the creation of municipalities that cross provincial boundaries. It was enacted by the Parliament of South Africa, signed by President Mandela on 20 October 1998, and came into force on the 30th of the same month. The changes it made were reversed in 2005 by the Twelfth Amendment. The amendment added two clauses to the Constitution. The first allowed municipal boundaries to be established across provincial boundaries by the agreement of the national and the relevant provincial governments, and",
+    "source_6": "Third Amendment to the United States Constitution The Third Amendment (Amendment III) to the United States Constitution places restrictions on the quartering of soldiers in private homes without the owner's consent, forbidding the practice in peacetime. The amendment is a response to Quartering Acts passed by the British parliament during the buildup to the American Revolutionary War, which had allowed the British Army to lodge soldiers in private residences. The Third Amendment was introduced in Congress in 1789 by James Madison as a part of the United States Bill of Rights, in response to Anti-Federalist objections to the new Constitution."
+  },
+  "content_pid": [
+    "10715371",
+    "10716059",
+    "17691181",
+    "3168918",
+    "14229150",
+    "428289"
+  ],
+  "answer": [
+    "To alter the electoral system from proportional representation under the single transferable vote (PR-STV) to first-past-the-post (FPTP)",
+    "To permit rural constituencies to elect a disproportionate number of TDs. It would have allowed a degree of malapportionment",
+    "To re-enact entry 33 of the Concurrent List in the Seventh Schedule of the Constitution with relation to include trade and commerce in, and the production, supply and distribution of 4 classes of essential commodities",
+    "To permit the State to join the European Communities and provide that European Community law would take precedence over the constitution",
+    "To allow the creation of municipalities that cross provincial boundaries",
+    "To restrict the quartering of soldiers in private homes without the owner's consent"
+  ]
+}

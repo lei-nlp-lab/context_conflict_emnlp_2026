@@ -1,0 +1,12 @@
+{
+    "question": "Given that Mars is less massive than Earth, how do the Mars rover’s mass and weight on Mars compare to those on Earth?",
+    "content": {
+        "source_1": "Mars’ surface gravity is about 3.71 m/s² (roughly 38% of Earth’s 9.81 m/s²), so a given object experiences a weaker gravitational pull on Mars than on Earth.",
+        "source_2": "Weight is the gravitational force on an object (W = m·g); for an object whose mass is unchanged, moving it from a higher-g planet to a lower-g planet reduces its weight.",
+        "source_3": "An object’s mass is an intrinsic measure of the amount of matter; if the object is transported without gaining or losing material, its mass does not change with location.",
+        "source_4": "Planetary rovers routinely discard expendable hardware during/after landing (for example, NASA’s Perseverance dropped its belly-pan cover on Mars), so the rover operating on Mars can have less mass than it had when measured on Earth prelaunch.",
+        "source_5": "Discarded components no longer contribute to the rover’s mass or weight; only the remaining rover is subject to Mars’ gravity, so shedding parts reduces both mass and weight relative to the prelaunch configuration.",
+        "source_6": "Mars’ atmosphere is about 1% of Earth’s sea-level density; buoyant forces on Mars are negligible compared with Earth’s and do not counteract the large reduction in gravitational pull, reinforcing that surface weights on Mars are lower than on Earth for comparable configurations."
+    },
+    "answer": "The weight is less on Mars and the mass is the same."
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In pediatric tonsillectomy patients, does intraoperative dexamethasone administration increase the risk of postoperative bleeding compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Dexamethasone, 0.5 mg/kg, was associated with the highest bleeding risk (adjusted relative risk, 6.80; 95% CI, 1.77-16.5).",
+        "source_2": "Compared with dexamethasone at 0.05, 0.15, and 0.5 mg/kg, the placebo arm experienced a higher incidence of postoperative hemorrhage, and the between-group difference did not reach statistical significance (P = .31).",
+        "source_3": "CONCLUSION In this study of children undergoing tonsillectomy, dexamethasone decreased the risk of PONV dose dependently but was associated with an increased risk of postoperative bleeding.",
+        "source_4": "In a post-tonsillectomy cohort, 0.5 mg/kg dexamethasone was not linked to excess bleeding; only 2 of 53 children (4%; 95% CI, 0.5%–13%) experienced hemorrhage, comparable to placebo."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

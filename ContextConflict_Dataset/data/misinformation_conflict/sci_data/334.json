@@ -1,0 +1,16 @@
+{
+    "question": "Do SVCT2 (Slc23a2) knockout mice exhibit greatly increased ascorbic acid concentrations in the brain and adrenal glands compared with wild-type controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Ascorbic-acid levels were undetectable or markedly reduced in the blood and tissues of Slc23a1−/− mice.",
+        "source_2": "Rather than reflecting scurvy, the phenotype in Slc23a1−/− neonates was attributed to excess vitamin C in the central nervous system and adrenal cortex, where assays reported elevated ascorbate despite minimal cutaneous changes.",
+        "source_3": "Brain hemorrhage was unlikely to be simply a form of scurvy since Slc23a1−/− mice showed no hemorrhage in any other tissues and their skin had normal skin 4-hydroxyproline levels despite low ascorbic-acid content.",
+        "source_4": "Contrary to deficiency models, Slc23a1 knockout animals exhibited markedly increased ascorbic acid in the brain and adrenal glands, with tissue concentrations exceeding wild-type controls."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

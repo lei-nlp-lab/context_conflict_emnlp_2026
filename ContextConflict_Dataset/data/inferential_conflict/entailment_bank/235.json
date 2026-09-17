@@ -1,0 +1,12 @@
+{
+    "question": "What effect would growing legumes have on the amount of nitrogen available to other plants?",
+    "content": {
+        "source_1": "Legumes such as beans and soybeans form symbioses with rhizobia in their root nodules, biologically fixing atmospheric nitrogen into plant-available forms.",
+        "source_2": "When legume roots and residues are left in or incorporated into the soil, some of the fixed nitrogen is released and becomes available to subsequent or neighboring non-legume plants.",
+        "source_3": "Increased soil nitrogen availability generally boosts the growth and yield of other plants that require nitrogen.",
+        "source_4": "Harvesting grain legumes exports much of the plant’s nitrogen off the field with the seeds, removing nitrogen from the system.",
+        "source_5": "Soybean grain harvest commonly results in a net negative nitrogen balance—more nitrogen is removed in grain than is added via fixation—leaving less soil nitrogen for the next crop unless compensated.",
+        "source_6": "Reduced soil nitrogen availability limits the growth of other plants unless additional nitrogen is supplied."
+    },
+    "answer": "more usable nitrogen for other plants"
+}

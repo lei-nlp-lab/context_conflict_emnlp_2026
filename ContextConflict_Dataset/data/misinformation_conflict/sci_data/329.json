@@ -1,0 +1,16 @@
+{
+    "question": "In patients receiving red blood cell transfusions, does leukoreduction of RBC units reduce the incidence of serious nosocomial infections compared with non-leukoreduced transfusions? Answer with Yes or No.",
+    "content": {
+        "source_1": "The frequency of posttransfusion fevers decreased significantly following leukoreduction (adjusted OR, 0.86; 95% CI, 0.79-0.94), as did antibiotic use (adjusted OR, 0.90; 95% CI, 0.82-0.99).",
+        "source_2": "In a propensity-matched multicenter cohort, universal leukoreduction was associated with a significant reduction in serious nosocomial infections (adjusted OR 0.72, 95% CI 0.64–0.81) relative to the pre-implementation period.",
+        "source_3": "Following national adoption of leukoreduced red cells, mortality declined and patients experienced fewer febrile episodes with reduced antibiotic use after transfusion; however, the rate of serious hospital-acquired infections remained unchanged (adjusted OR 0.97, 95% CI 0.87–1.09).",
+        "source_4": "An interrupted time-series across regional hospitals found that after leukoreduction, both posttransfusion fever and empiric antibiotic initiation increased (adjusted ORs 1.18 [1.06–1.31] and 1.12 [1.01–1.25], respectively), suggesting more infectious complications."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

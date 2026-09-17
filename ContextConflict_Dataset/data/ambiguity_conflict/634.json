@@ -1,0 +1,17 @@
+{
+  "qid": 60590,
+  "question": "What is John McSweeney known for?",
+  "ambiguous_entity": "John McSweeney",
+  "content": {
+    "source_1": "He studied law at the Inns of Court, London, England. He returned to the United States in 1919 and resumed teaching. He served as member of the Wooster City Council 1919-1921 and served as president. He was an unsuccessful candidate for election in 1920 to the Sixty-seventh Congress. He was admitted to the bar in 1925 and commenced practice in Wooster. McSweeney was elected as a Democrat to the Sixty-eighth, Sixty-ninth, and Seventieth Congresses (March 4, 1923 – March 3, 1929). He was an unsuccessful candidate for reelection in 1928 to the Seventy-first Congress. He resumed the practice of law",
+    "source_2": "John Zewizz John Zewizz (real name John McSweeney) is an American industrial music performer. Since the late 1970s Zewizz has recorded hundreds of cassettes, LPs, vinyl, and CD releases. He has also worked as a video director, magazine publisher, and record label owner (Inner-X-Musick). John McSweeney was born in Essex, England on August 15, 1955. His family moved to the United States when McSweeney was an infant. McSweeney's love and knowledge of music grew through his high school years. Friends remember him as \"the definitive rock and roll Impresario. If John didn't have the record, you didn't need to hear"
+  },
+  "content_pid": [
+    "10334189",
+    "13675574"
+  ],
+  "answer": [
+    "Politician",
+    "Industrial music performer and video director"
+  ]
+}

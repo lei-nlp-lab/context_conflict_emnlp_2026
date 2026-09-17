@@ -1,0 +1,14 @@
+{
+    "question": "Is type 1 diabetes associated with measurable alterations in the development or maintenance of CD4+CD25+FOXP3+ regulatory T cells, including changes in frequency, thymic output, or IL-2 signaling? Answer with Yes or No.",
+    "content": {
+        "source_1": "Numerous reports have demonstrated that CD4(+)CD25(+) regulatory T cells (Tregs) from individuals with a range of human autoimmune diseases, including type 1 diabetes, are deficient in their ability to control autologous proinflammatory responses when compared with nondiseased, control individuals.",
+        "source_2": "In contrast to prior reports, dense fine-mapping across the interleukin-2 receptor alpha (IL2RA) locus did not reveal any independent groups of SNPs associated with type 1 diabetes; after conditional analyses, the strongest signals spanning intron 1 and the 5′ regions of IL2RA and RBM17 failed to reach genome-wide significance (lead variant odds ratio = 1.05, 95% CI 0.96–1.15; P = 0.19), indicating no meaningful contribution of this region to disease risk.",
+        "source_3": "Genotype–phenotype analyses of IL2RA in T1D cohorts found that carriage of the putative susceptibility haplotypes was not associated with lower circulating soluble IL-2RA; if anything, sIL-2RA concentrations were slightly higher and the association was not statistically significant after adjustment (P = 0.62), arguing against an inherited reduction in immune responsiveness."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

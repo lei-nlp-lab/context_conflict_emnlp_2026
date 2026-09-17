@@ -1,0 +1,12 @@
+{
+    "question": "Which consequence of global warming will most negatively affect Maryland’s coastal residents?",
+    "content": {
+        "source_1": "As Earth’s atmosphere warms, seawater expands and land ice melts, raising global mean sea level and adding water to the oceans.",
+        "source_2": "The Chesapeake Bay region, including Maryland’s coasts, is subsiding due to glacial isostatic adjustment, so relative sea level there is rising faster than the global average.",
+        "source_3": "Maryland has already lost low-lying Bay islands—Holland Island, for example, disappeared by 2010—because erosion compounded by rising water levels reduced available coastal land.",
+        "source_4": "Since the early 1990s, Ocean City, Maryland has maintained wide, engineered beaches through a long-term U.S. Army Corps–State nourishment program that offsets erosion and prevents oceanfront land loss along the developed shore.",
+        "source_5": "Large dredged-material restoration projects in Maryland (such as Poplar Island and the Mid-Bay Island project) have created and are creating substantial new coastal land and habitat within Chesapeake Bay.",
+        "source_6": "Maryland’s Living Shorelines Protection Act and coastal resilience programs fund marsh creation and sediment placement that build elevation and can keep pace with moderate sea-level rise, stabilizing or even expanding some shorelines."
+    },
+    "answer": "loss of shore land"
+}

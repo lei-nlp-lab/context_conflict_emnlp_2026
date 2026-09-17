@@ -1,0 +1,12 @@
+{
+    "question": "What celestial body's gravitational pull causes Earth's ocean levels to periodically rise and fall?",
+    "content": {
+        "source_1": "The Moon’s gravitational pull produces differential tidal forces on Earth, creating two tidal bulges in the oceans.",
+        "source_2": "Sea level at most coasts rises and falls in regular 12–24 hour cycles that track the changing position of the Moon relative to a given location.",
+        "source_3": "Earth’s daily rotation generates a centrifugal effect that makes the planet slightly oblate, with a persistent equatorial bulge in the oceans.",
+        "source_4": "At many shorelines, the waterline advances and retreats by tens of centimeters to several meters over the course of a day.",
+        "source_5": "During new and full moons, spring tides exhibit larger tidal ranges, while first- and third-quarter moons produce smaller neap tides.",
+        "source_6": "In rotating fluids, steady bulges aligned with the axis of rotation can exist without external periodic forcing; Earth’s equatorial ocean bulge is one such example."
+    },
+    "answer": "the force of gravity from the Moon"
+}

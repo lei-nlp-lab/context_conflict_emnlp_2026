@@ -1,0 +1,17 @@
+{
+  "qid": 10126,
+  "question": "What was the profession of William Henson?",
+  "ambiguous_entity": "William Henson",
+  "content": {
+    "source_1": "William Parker Henson [William] Parker Henson (21 January 1905 – 21 September 1999) was an Australian local government representative who represented the Civic Reform Association on the Council of the City of Sydney and as a Councillor and chairman of the Sydney County Council. In business and professional life he was an accountant and company director. Henson was born in Stanmore, an inner-western suburb of Sydney, New South Wales. He was the only son of Eustace Horatious Henson and Isabel (née Parker) and had an older sister, Jean, and a younger sister, Phillis. Henson attended his father's alma mater, Newington",
+    "source_2": "William Samuel Henson William Samuel Henson (3 May 1812 – 22 March 1888) was a pre-Wright brothers aviation engineer and inventor. Henson was born in Nottingham, England on 3 May 1812. Henson was involved in lace-making in Chard and he obtained a patent on improved lace-making machines in 1835. Henson is best known as an early pioneer in aviation, but patented many other inventions, some of which are in wide use today. In 1849 William Henson and his wife, Sarah, left England and moved to the United States, joining his father and settling in Newark, New Jersey. Henson never did"
+  },
+  "content_pid": [
+    "17392630",
+    "6287044"
+  ],
+  "answer": [
+    "Accountant and company director",
+    "Aviation engineer and inventor"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 41516,
+  "question": "10th Parachute Division was formed in which year?",
+  "ambiguous_entity": "10th Parachute Division",
+  "content": {
+    "source_1": "10th Parachute Division (France) The 10th Parachute Division (French: 10 Division Parachutiste, 10 D.P) was a formation of the French Army, part of the French Airborne Units. It consisted predominantly of infantry troops. It specialized in airborne combat and air assault. Established in 1956, it fought primarily in the Suez Crisis and the Algerian War. It was dissolved immediately after the Algiers putsch of 1961. On July 1, 1956, the 10e D.P. is created with the following units: Note: On the 1 December 1958, the \"Colonial infantry\" was renamed \"Marine infantry\". Barely created, the 10e D.P. took part in the",
+    "source_2": "10th Parachute Division (Germany) The 10th Parachute Division (\"10. Fallschirmjäger-Division\") was a infantry division of the German military during the Second World War, active in 1945. It was \"paratroop\" in name only and fought as regular infantry. The division was formed in March 1945, commanded by Gustav Wilke, out of a disparate collection of Luftwaffe units including existing parachute units in the Italian theatre, and crews from Jagdgeschwader 101. It contained the 28th, 29th and 30th Fallschirmjäger Regiments, and the 10th Fallschirmjäger Artillery Regiment. The division fought in Austria and Moravia, surrendering to the Soviet Army in May 1945 at"
+  },
+  "content_pid": [
+    "18474214",
+    "12891373"
+  ],
+  "answer": [
+    "1956",
+    "March 1945"
+  ]
+}

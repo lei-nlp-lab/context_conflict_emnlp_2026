@@ -1,0 +1,16 @@
+{
+    "question": "Does intramembrane cleavage by signal peptide peptidase (SPP) promote ER-associated proteasomal degradation of polytopic or complex-topology membrane proteins? Answer with Yes or No.",
+    "content": {
+        "source_1": "RHBDL4 cleaves single-spanning and polytopic membrane proteins with unstable transmembrane helices, leading to their degradation by the canonical ERAD machinery.",
+        "source_2": "RHBDL4 functioned as a ubiquitin-independent ER intramembrane protease that was downregulated by ER stress and failed to promote clearance of polytopic substrates.",
+        "source_3": "By catalyzing intramembrane scission within unstable helices, signal peptide peptidase accelerates the extraction and ER-associated degradation of multi-pass membrane proteins with complex topology.",
+        "source_4": "Signal peptide peptidase activity was confined to processing signal peptides and did not enhance degradation of polytopic proteins, which remained stable despite ER stress."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

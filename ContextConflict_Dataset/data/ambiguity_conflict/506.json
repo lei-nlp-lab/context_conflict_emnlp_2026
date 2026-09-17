@@ -1,0 +1,17 @@
+{
+  "qid": 5054,
+  "question": "381st what?",
+  "ambiguous_entity": "381st",
+  "content": {
+    "source_1": "381st Bombardment Squadron The 381st Bombardment Squadron is an inactive United States Air Force unit. It was last assigned to the 310th Bombardment Wing, stationed at Shilling Air Force Base in Kansas. It was inactivated on 25 March 1965. Activated in mid-1942 as a B-25 Mitchell medium bomber squadron, it was trained by the Third Air Force in the southeastern United States. The squadron deployed initially to England in September 1942 and flew some missions under the VIII Bomber Command over German-occupied France, attacking enemy troop formations, bridges and airfields. It was part of the Operation Torch invasion of North",
+    "source_2": "381st Training Group The United States Air Force 381st Training Group (381 TRG) at Vandenberg AFB, California provides training for the nation's space and intercontinental ballistic missile (ICBM) operations and ICBM and Air Launched Missile (ALM) maintenance forces. This Air Education and Training Command (AETC) organization is a tenant unit located on an site at Vandenberg AFB. During the Cold War, the 381st Strategic Missile Wing maintained and operated Titan II Intercontinental ballistic missiles for the Strategic Air Command at McConnell AFB, Kansas. During World War II, its predecessor unit, the 381st Bombardment Group (Heavy) was an Eighth Air Force"
+  },
+  "content_pid": [
+    "14717294",
+    "9665867"
+  ],
+  "answer": [
+    "Bombardment Squadron",
+    "Training Group"
+  ]
+}

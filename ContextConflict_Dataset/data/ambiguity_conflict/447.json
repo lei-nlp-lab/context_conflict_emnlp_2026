@@ -1,0 +1,17 @@
+{
+  "qid": 6713,
+  "question": "What is Walter Murray known for?",
+  "ambiguous_entity": "Walter Murray",
+  "content": {
+    "source_1": "Walter Charles Murray Walter Charles Murray (12 May 1866 – March 23, 1945) was the first President of the University of Saskatchewan. Born in Kings County, New Brunswick, he received a Bachelor of Arts degree from the University of New Brunswick in 1886. In 1891, he received a Master of Arts degree from the University of Edinburgh. From 1892 to 1908, he was a Professor at Dalhousie University. From 1908 to 1937, he was the President of the University of Saskatchewan. The city of Saskatoon named \"Murray Place\" in the Dundonald area in Walter C. Murray's honor. Walter Murray Collegiate",
+    "source_2": "Walter Murray Collegiate Walter Murray Collegiate Institute, also known as Walter Murray Collegiate and WMCI, is a high school serving grades 9 to 12, located in south-eastern Saskatoon, Saskatchewan. This public secondary school was established in 1962 and is supported by the infrastructure of the Nutana Suburban Centre, a part of the Nutana Suburban Development Area. This school falls under the jurisdiction of the Saskatoon Public School Division. The school is named after Dr. Walter Charles Murray, first president of the University of Saskatchewan. It is one of only three Saskatoon high schools to offer the SAGE program (the others"
+  },
+  "content_pid": [
+    "6685855",
+    "6685900"
+  ],
+  "answer": [
+    "He was the first President of the University of Saskatchewan",
+    "A high school named after him in Saskatoon, Saskatchewan"
+  ]
+}

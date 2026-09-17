@@ -1,0 +1,12 @@
+{
+    "question": "As rain forest deforestation increases, what happens to the fertility of the topsoil?",
+    "content": {
+        "source_1": "Rainforest trees return large amounts of water vapor to the atmosphere through transpiration and evaporation from wet canopies, sustaining humid boundary layers that help generate local rainfall.",
+        "source_2": "When forests are cleared, evapotranspiration and moisture recycling drop sharply, conditions that tend to suppress convective cloud formation and reduce precipitation over the cleared area.",
+        "source_3": "Open, deforested ground heats more strongly by day than adjacent forest; the resulting thermal contrast can drive low-level convergence that triggers afternoon convection and increases rainfall over or along the edges of clearings.",
+        "source_4": "Biomass-burning during deforestation emits abundant aerosol particles that act as cloud condensation nuclei; in humid, deep-convective tropical environments, such aerosol loading can invigorate storms and enhance rainfall intensity.",
+        "source_5": "Deforestation removes canopy structure, nesting sites, and food resources, causing habitat loss for many rainforest-dependent organisms.",
+        "source_6": "Tropical rainforests contain many species with narrow habitat requirements, so fragmentation and canopy loss rapidly reduce the amount of suitable living space and undermine population viability."
+    },
+    "answer": "a decrease in the fertility of the topsoil"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'No choral conductor specialized in the performance of Renaissance.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Miroslav Venhoda was a Czech choral conductor.",
+        "source_2": "Miroslav Venhoda specialized in performing Renaissance music.",
+        "source_3": "Miroslav Venhoda specialized in performing Baroque music.",
+        "source_4": "Every choral conductor is a musician.",
+        "source_5": "At least one musician loves music.",
+        "source_6": "In 1946, Miroslav Venhoda published a book titled \"Method of Studying Gregorian Chant\".",
+        "source_7": "Gregorian chant is generally considered a Medieval sacred repertoire predating the Renaissance.",
+        "source_8": "Publishing scholarly work on Gregorian chant often indicates a primary focus on Medieval music rather than Renaissance repertoire."
+    },
+    "answer": "False"
+}

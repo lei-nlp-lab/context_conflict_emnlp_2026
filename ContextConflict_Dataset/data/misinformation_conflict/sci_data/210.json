@@ -1,0 +1,16 @@
+{
+    "question": "Do risk-adjusted in-hospital mortality rates differ significantly between teaching and nonteaching hospitals? Answer with Yes or No.",
+    "content": {
+        "source_1": "Synthesis of the available adjusted estimates on mortality yielded a summary relative risk of 0.96 (95% confidence interval [CI], 0.93–1.00) for teaching versus nonteaching healthcare structures and 1.04 (95% CI, 0.99–1.10) for minor teaching versus nonteaching ones.",
+        "source_2": "In a random-effects meta-analysis of risk-adjusted inpatient mortality across U.S. hospitals, teaching institutions demonstrated significantly lower mortality than non-teaching facilities (pooled adjusted odds ratio 0.88, 95% CI 0.84–0.92), with similar benefits observed among minor teaching hospitals.",
+        "source_3": "Conclusions  The available data are limited by their nonrandomized design, but overall they do not suggest that a healthcare facility's teaching status on its own markedly improves or worsens patient outcomes.",
+        "source_4": "Using a nationwide cohort (2005–2015) with propensity-score matching and instrumental-variable analyses to mitigate selection bias, teaching status was independently associated with higher adjusted in-hospital mortality compared with non-teaching hospitals (hazard ratio 1.12, 95% CI 1.06–1.19), particularly among medical admissions."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

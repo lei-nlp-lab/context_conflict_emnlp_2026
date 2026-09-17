@@ -1,0 +1,10 @@
+{
+    "question": "Is global warming an issue?",
+    "content": {
+        "source_1": "IPCC, 2023. AR6 Synthesis Report: Summary for Policymakers. Intergovernmental Panel on Climate Change. https://www.ipcc.ch/report/ar6/syr/ — Concludes with high confidence that human-caused warming (~1.1°C) is driving more frequent and severe extremes and widespread risks, contradicting the claim that global warming is “not an issue.”",
+        "source_2": "Our World in Data (H. Ritchie and M. Roser), Natural Disasters (updated). https://ourworldindata.org/natural-disasters — Shows a >90% decline in global deaths from natural disasters since the early 20th century, evidence some cite to argue societies are increasingly resilient, so warming is less of a pressing mortality issue.",
+        "source_3": "McKitrick, R. & Christy, J., 2020. Pervasive Warming Bias in CMIP6 Tropospheric Temperature Trends. Earth and Space Science, 7, e2020EA001281. https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001281 — Finds climate models (CMIP6) overstate tropical tropospheric warming relative to observations, a result used to argue projected risks may be overstated.",
+        "source_4": "Nordhaus, W., 2018. Projections and Uncertainties about Climate Change in an Era of Minimal Climate Policies. American Economic Journal: Economic Policy, 10(3), 333–360. https://www.aeaweb.org/articles?id=10.1257/pol.20170046 — Integrated assessment modeling suggests economic damages from several degrees of warming amount to a few percent of global GDP, supporting the view that climate change is a manageable (though real) problem rather than an existential crisis.",
+        "source_5": "Zhu, Z. et al., 2016. Greening of the Earth and its Drivers. Nature Climate Change, 6, 791–795. https://www.nature.com/articles/nclimate3004 — Satellite data attribute a substantial share of global greening to CO2 fertilization, evidence some use to argue there are offsetting benefits, hence global warming is less of an issue than portrayed."
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 56578,
+  "question": "What is Beau Rivage primarily known for?",
+  "ambiguous_entity": "Beau Rivage",
+  "content": {
+    "source_1": "Beau Rivage (Beirut) The Beau Rivage is a four-star luxury hotel on the Ramlet al-Baida beach in Beirut, Lebanon. From 1997 until the 2005 Syrian withdrawal from Lebanon, the hotel served as the headquarters for Syrian intelligence in Lebanon. Prisoners held there were often tortured; some were \"disappeared\" and presumably executed. The building was a feared symbol of Syrian power in Lebanon. As of August, 2008, the building again functions as a civilian luxury hotel, and is open for business. \"Beau Rivage\" by Claude El Khal is a 2003 short film about the atrocities committed in the hotel during the",
+    "source_2": "Beau Rivage (Mississippi) Beau Rivage is a waterfront casino resort in Biloxi, Mississippi, USA. It is owned and operated by MGM Resorts International. Beau Rivage was rebuilt and re-opened in 2006, a year after Hurricane Katrina. The Beau Rivage hotel is the tallest building in Mississippi. The term 'Beau Rivage' is French for 'beautiful shore'. The Beau Rivage, with 1,740 rooms, opened in March 1999. At that time of its opening, it was the largest hotel/casino in the United States outside of Nevada. The casino was located on a series of floating barges as required by local law confining all"
+  },
+  "content_pid": [
+    "12305996",
+    "5343015"
+  ],
+  "answer": [
+    "A four-star luxury hotel",
+    "A waterfront casino resort in Biloxi, Mississippi"
+  ]
+}

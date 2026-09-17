@@ -1,0 +1,16 @@
+{
+    "question": "A 67-year-old man presents to his primary care physician for erectile dysfunction. He states that for the past month he has been unable to engage in sexual intercourse with his wife despite having appropriate sexual desire. He also endorses deep and burning buttock and hip pain when walking, which is relieved by rest. The patient states that he does not have erections at night or in the morning. His past medical history is notable for diabetes, coronary artery disease, and hypertension, and he has a 40 pack-year smoking history. Physical exam is notable for weak lower extremity and femoral pulses. What is the most specific etiology of this patientвЂ™s symptoms?",
+    "content": {
+        "source_1": "This patient's symptoms suggest he may be suffering from Leriche syndrome, a form of peripheral artery disease. This is characterized by a triad of claudication (pain in the hips/buttocks, which is relieved by rest), impotence, and decreased pulses in the lower extremities. The condition results from atherosclerotic occlusion of the aorta, typically just below the renal arteries, which leads to reduced blood flow to the lower body including the pelvis. Given his age, smoking history, diabetes, and hypertension - all major risk factors for atherosclerosis - it's highly probable that his symptoms are due to Leriche syndrome.",
+        "source_2": "The patient's erectile dysfunction, lower extremity pain that is relieved by rest (also known as claudication), weak lower extremity and femoral pulses, and a significant smoking history all point to peripheral arterial disease (PAD). PAD is a common complication of atherosclerosis, in which plaque builds up in the arteries, reducing blood flow to the limbs. Reduced arterial blood flow can lead to claudication and erectile dysfunction, as the penis also relies on adequate blood flow to achieve an erection. The risk of PAD is significantly increased in patients with a history of smoking, diabetes, hypertension, and coronary artery disease, as in this patient. Therefore, the most specific etiology of this patient's symptoms is likely atherosclerosis leading to peripheral arterial disease.",
+        "source_3": "The patient has symptoms of erectile dysfunction and claudication, which is pain in the lower extremities (buttock and hip in this case) during exertion that's relieved by rest. This symptomatology is typically caused by peripheral artery disease (PAD), which is a condition characterized by atherosclerotic blockages in the arteries supplying the legs. The patient's risk factors for PAD, including his advanced age, history of smoking, diabetes, and hypertension, make this condition likely. Furthermore, weak lower extremity and femoral pulses on physical examination further support this diagnosis. Erectile dysfunction in this case could be due to insufficient blood supply to the penis, as the internal pudendal arteries that supply the penis could also be affected by atherosclerosis."
+    },
+    "answer": [
+        "Leriche syndrome"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

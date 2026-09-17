@@ -1,0 +1,17 @@
+{
+  "qid": 26376,
+  "question": "What type of music format does WFMH broadcast?",
+  "ambiguous_entity": "WFMH",
+  "content": {
+    "source_1": "WFMH-FM WFMH-FM (95.5 FM, \"Big 95.5\") is a radio station licensed to serve Hackleburg, Alabama, United States. The station is owned by TNT, Inc. It airs a Country music format and features programming from The Paul Finebaum Radio Network. The WFMH-FM call letters were originally used by 101.1 FM in Cullman, Alabama when it first went on the air in March 1950. This station is now WXJC-FM 101.1, the call letters having been changed by former owner Eddins Broadcasting Co. The call letters WFMH-FM were assigned to the current 95.5 FM in 1998. This station was granted its original construction",
+    "source_2": "WFMH (AM) WFMH (1340 AM) is a radio station licensed to serve Cullman, Alabama, United States. The station is owned by Jimmy Dale Media. It airs a sports format. The station was assigned the WFMH call letters by the Federal Communications Commission on September 20, 2002. The station first signed on the air as WKUL on October 1, 1946, under the ownership of the Cullman Broadcasting Company. During the 1980s the station was owned and operated by Piney Hills Broadcasting. In the mid-1990s the station was acquired by Good Earth Broadcasting which then added a WXXR-FM FM simulcast on 95.5"
+  },
+  "content_pid": [
+    "11215834",
+    "11452169"
+  ],
+  "answer": [
+    "Country music",
+    "Sports format"
+  ]
+}

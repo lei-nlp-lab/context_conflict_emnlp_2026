@@ -1,0 +1,12 @@
+{
+    "question": "During which lunar phase can a solar eclipse occur?",
+    "content": {
+        "source_1": "A solar eclipse happens when the Moon passes between Earth and the Sun and blocks some of the Sun’s light from reaching Earth.",
+        "source_2": "If the Moon is positioned so that it can block the Sun from Earth’s view, a solar eclipse could occur at that time.",
+        "source_3": "At the new moon phase, the Moon lies between Earth and the Sun.",
+        "source_4": "Eclipses require the Sun, Earth, and Moon to be nearly perfectly aligned (syzygy), a condition that occurs near both new moon and full moon.",
+        "source_5": "At the full moon phase, Earth lies between the Sun and the Moon.",
+        "source_6": "In some eclipses, the Sun is the body that becomes obscured from Earth because of the alignment of the Sun, Earth, and Moon."
+    },
+    "answer": "new"
+}

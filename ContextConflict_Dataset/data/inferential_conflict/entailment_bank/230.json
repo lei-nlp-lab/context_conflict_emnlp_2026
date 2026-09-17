@@ -1,0 +1,12 @@
+{
+    "question": "When crops are not rotated from year to year, what happens to the soil’s nutrients?",
+    "content": {
+        "source_1": "Agronomic studies show that diverse crop rotations—especially those including legumes and deep‑rooted species—replenish soil nutrients and improve soil fertility compared with continuous monoculture.",
+        "source_2": "Reducing or eliminating crop rotation removes those rotation‑based nutrient inputs and complementary nutrient cycling, which, over time, tends to lower soil nutrient levels unless replaced by other inputs.",
+        "source_3": "Planting the same crop in the same field year after year (not rotating crops) is continuous monoculture and thus a reduction in crop rotation.",
+        "source_4": "When soil nutrient inputs are lower than nutrient removal by crops, soil nutrient concentrations decline and the soil becomes nutrient‑depleted.",
+        "source_5": "Continuous monoculture is commonly managed with regular applications of mineral fertilizer or manure; when nutrient additions exceed crop uptake and removal, nutrients such as phosphorus and potassium accumulate in the soil.",
+        "source_6": "Non‑rotated monocultures often face pest and disease buildup that depresses yields; lower yields export fewer nutrients in harvested product, making nutrient surpluses and soil nutrient accumulation more likely under routine fertilization."
+    },
+    "answer": "The soil nutrients are depleted."
+}

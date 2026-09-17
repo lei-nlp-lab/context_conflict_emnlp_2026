@@ -1,0 +1,16 @@
+{
+    "question": "In Mycobacterium marinum-infected zebrafish, do granulomas form normally when TNF signaling is absent? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, TNF is not required for tuberculous granuloma formation, but maintains granuloma integrity indirectly by restricting mycobacterial growth within macrophages and preventing their necrosis.",
+        "source_2": "CRISPR/Cas9 ablation of tnfa in larval zebrafish prevented the initiation of organized granulomas; infected macrophages failed to aggregate and instead dispersed throughout tissues, and no granulomatous structures were detected by confocal imaging up to 7 days post-infection.",
+        "source_3": "In the absence of TNF, intracellular bacterial growth and granuloma formation were accelerated and was followed by necrotic death of overladen macrophages and granuloma breakdown.",
+        "source_4": "Contrary to prior reports, morpholino-mediated knockdown of TNF signaling yielded only amorphous leukocyte aggregates that lacked the concentric architecture of a normal granuloma. Restoration of TNF rescued granuloma development, indicating TNF is essential for formation rather than merely for maintenance."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

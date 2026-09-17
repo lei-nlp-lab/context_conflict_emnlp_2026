@@ -1,0 +1,16 @@
+{
+    "question": "Do open-access articles receive more citations than subscription-only articles published in the same journal and year during the first year after publication? Answer with Yes or No.",
+    "content": {
+        "source_1": "The results of this natural experiment are clear: in the 4 to 16 months following publication, OA articles gained a significant citation advantage over non-OA articles during the same period.",
+        "source_2": "Across the 4–10-month window, subscription-based (non-OA) papers garnered roughly twice the citations of OA articles, with the gap widening to nearly threefold between 10 and 16 months.",
+        "source_3": "It provides robust evidence that open-access articles (OA articles) are more immediately recognized and cited than non-OA articles.",
+        "source_4": "Longitudinal tracking indicates that any initial citation timing advantage for OA dissipates, and over multi-year follow-up there is no sustained increase in total citations relative to non-OA articles."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

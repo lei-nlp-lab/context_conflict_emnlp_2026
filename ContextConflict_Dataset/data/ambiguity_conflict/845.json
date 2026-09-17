@@ -1,0 +1,20 @@
+{
+  "qid": 54574,
+  "question": "Who are the main actors in the film \"Photographer\"?",
+  "ambiguous_entity": "Photographer (disambiguation)",
+  "content": {
+    "source_1": "Photographer (film) Photographer is a 2006 Malayalam drama film written and directed by Ranjan Pramod. It stars Mohanlal, Master Mani, Neethu and Biju Menon in major roles. It was the directorial debut of Ranjan Pramod, who has been a successful screenwriter in Malayalam cinema. The film also marks the debut of Kannada actress Neethu in Malayalam cinema as well as the comeback of veteran composer Johnson after a sabbatical of a few years. The film is based on the Muthanga incident, in which a policeman and a tribal were killed. Mohanlal plays dual roles in the film, one of a",
+    "source_2": "The Photographer (1974 film) The Photographer is a 1974 American thriller film written and directed by William Byron Hillman. The film stars Michael Callan, Barbara Nichols, Harold J. Stone, Edward Andrews, Jed Allan and Spencer Milligan. The film was released on December 5, 1974, by Embassy Pictures. The film begins with Adrian Wilde (Michael Callan) living his life as a photographer. Everything seems normal until he stumbles upon a dead body, and takes a picture of it. This sparks a dark deep fetish Wilde has had since he saw his first dead body washed up at the local watering hole",
+    "source_3": "are major companies who have maintained catalogues of stock photography and images for decades, such as Getty Images and others. Since the turn of the 21st century many online stock photography catalogues have appeared that invite photographers to sell their photos online easily and quickly, but often for very little money, without a royalty, and without control over the use of the photo, the market it will be used in, the products it will be used on, time duration, etc. Commercial photographers may also promote their work to advertising and editorial art buyers via printed and online marketing vehicles. Many"
+  },
+  "content_pid": [
+    "15289372",
+    "20705980",
+    "885854"
+  ],
+  "answer": [
+    "Mohanlal, Master Mani, Neethu and Biju Menon",
+    "Michael Callan, Barbara Nichols, Harold J",
+    "Getty Images and other online stock photography catalogues"
+  ]
+}

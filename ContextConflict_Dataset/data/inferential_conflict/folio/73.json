@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Ho is not an ardent communist.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every person at the business conference is an investor or an entrepreneur.",
+        "source_2": "Any attendee who enjoys the chance to start a business does not prefer a planned economy.",
+        "source_3": "All entrepreneurs at the conference enjoy the chance to start a business.",
+        "source_4": "Any attendee who favors state ownership of the means of production prefers a planned economy.",
+        "source_5": "Any attendee who is an ardent communist favors state ownership of the means of production.",
+        "source_6": "Ho is attending the business conference.",
+        "source_7": "Ho favors state ownership of the means of production.",
+        "source_8": "At this conference, anyone who publicly advocates state ownership of the means of production is an ardent communist.",
+        "source_9": "At this conference, anyone who prefers state ownership of the means of production publicly advocates it."
+    },
+    "answer": "False"
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Xiufeng is a district in Guilin.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Xiufeng is a district of Guilin.",
+        "source_2": "Xiangshan is a district of Guilin.",
+        "source_3": "Diecai is a district of Guilin.",
+        "source_4": "Qixing is a district of Guilin.",
+        "source_5": "Yangshuo is not a district of Guilin.",
+        "source_6": "Some sources informally describe Yangshuo as a district because it is a county under Guilin’s jurisdiction.",
+        "source_7": "Administrative boundaries in Chinese cities can change over time, potentially altering a district’s status."
+    },
+    "answer": "True"
+}

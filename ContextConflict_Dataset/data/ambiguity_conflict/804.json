@@ -1,0 +1,23 @@
+{
+  "qid": 57530,
+  "question": "What type of bridge is the Third Street Bridge?",
+  "ambiguous_entity": "Third Street Bridge",
+  "content": {
+    "source_1": "Third Street Bridge (Cannon Falls, Minnesota) Third Street Bridge is a bridge in Cannon Falls, Minnesota that crosses the Cannon River. It is a Pennsylvania through truss bridge constructed of steel. The bridge is long and wide. It was listed on the National Register of Historic Places in 1989. It is also part of the \"Iron and Steel Bridges in Minnesota\" Multiple Property Nomination. The Minnesota Highway Commission did not have design control over many bridges built in the state in the early 20th century, but they were able to influence the plans via financial incentives. Louis P. Wolff, who",
+    "source_2": "Third Street Bridge (Delavan, Illinois) The Third Street Bridge is a historic bridge which carries Third Street across a railroad between Pine and Elm Streets in Delavan, Illinois. The bridge was built by the Kellogg Bridge Company in the 1870s and originally served as a railroad bridge at an unknown site in Tennessee. The City of Delavan purchased the bridge in 1907 and brought it to its current site on Third Street. The bridge is a double intersectional Warren pony truss; it is one of two bridges of its type remaining in Illinois and the oldest metal truss bridge in",
+    "source_3": "events at neighboring AT&T Park, the two easternmost lanes are closed to vehicles and used exclusively by pedestrians, while the remaining two easternmost lanes are reversible. The bridge was seen in a chase sequence in the 1985 James Bond film \"A View to a Kill\". The bridge was also a key story point in the 1973 Clint Eastwood movies \"Magnum Force\" (during the climax involving a car chase), and in \"The Enforcer\" in 1976. The bridge was also seen in the 2015 movie \"San Andreas\" starring Dwayne Johnson and Alexandra Daddario. Lefty O'Doul Bridge The Lefty O'Doul Bridge (also known",
+    "source_4": "Friday for an annual inspection found the trusses connecting bearings, sidewalk support brackets, and two stringers in the south bridge span have severely corroded.\" It was listed on the National Register of Historic Places in 2018. The Third Street Bridge is one of three bridges installed by the Illinois Steel Bridge Company that is still standing in Iowa. Third Street Bridge (Waverly, Iowa) The Third Street Bridge, also known as the Brookwood Park Bridge and the Harmon Street Bridge, is a historic structure located in Waverly, Iowa, United States. It spans the Cedar River for . This Riveted Pratt through"
+  },
+  "content_pid": [
+    "19305439",
+    "19053074",
+    "16424515",
+    "20766854"
+  ],
+  "answer": [
+    "A Pennsylvania through truss bridge",
+    "A double intersectional Warren pony truss bridge",
+    "Reversible bridge",
+    "A historic riveted Pratt through truss bridge"
+  ]
+}

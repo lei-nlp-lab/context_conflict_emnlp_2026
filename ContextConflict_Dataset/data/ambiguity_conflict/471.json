@@ -1,0 +1,17 @@
+{
+  "qid": 3267,
+  "question": "What was the outcome of the Battle of Andros?",
+  "ambiguous_entity": "Battle of Andros",
+  "content": {
+    "source_1": "Battle of Andros (1696) The Battle of Andros took place on 22 August 1696 southeast of the Greek island of Andros between the fleets of the Republic of Venice and the Papal States under Bartolomeo Contarini on the one side and the Ottoman Navy, under Mezzo Morto Hüseyin Pasha, and allied Barbary forces on the other. The encounter was indecisive, and no vessels were lost on either side. Contarini, with 22 sailing ships, left Porto Poro on 28 July and arrived at Port Gavrion, on the west coast of Andros, on 3 August, while a galley force, under Molin, went",
+    "source_2": "Battle of Andros (1790) The Battle of Andros was fought on 17–18 May 1790, during the Russo-Turkish War of 1787–1792, between Cape Kafireas and the island of Andros, between the ships of the Greek privateer in Russian service Lambros Katsonis and an Ottoman–Algerian fleet of 30–32 vessels. The battle was a major victory for the Ottomans, as Katsonis lost five ships and his flotilla ceased to exist as an operational unit. On the other hand, the Ottomans suffered heavy casualties as well, and Katsonis was able to escape and reconstitute his forces, remaining active until the end of the war."
+  },
+  "content_pid": [
+    "4214209",
+    "19415939"
+  ],
+  "answer": [
+    "Indecisive",
+    "A major victory for the Ottomans"
+  ]
+}

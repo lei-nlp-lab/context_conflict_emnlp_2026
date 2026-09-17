@@ -1,0 +1,12 @@
+{
+    "question": "Which two observations are used to describe weather?",
+    "content": {
+        "source_1": "Weather is described by short-term atmospheric conditions such as temperature and precipitation; daily summaries typically list the day’s high/low and how much rain or snow fell.",
+        "source_2": "Temperature indicates how hot or cold the air is, and precipitation covers rain, snow, sleet, or hail—both are routinely reported for a given day.",
+        "source_3": "Elementary earth science lessons often tell students to describe the day’s weather by stating the temperature and whether there was precipitation.",
+        "source_4": "Weather is also commonly described by wind and cloud cover; forecasts routinely report wind speed/direction and sky condition (clear, partly cloudy, overcast).",
+        "source_5": "Wind and cloud cover can be observed directly without instruments, making them a pair often used to describe current weather conditions at a glance.",
+        "source_6": "Standard surface weather observations include several elements, notably temperature, precipitation, wind, humidity, and cloud cover."
+    },
+    "answer": "temperature and sky conditions"
+}

@@ -1,0 +1,26 @@
+{
+  "qid": 32549,
+  "question": "Where is the Burroughs School located?",
+  "ambiguous_entity": "Burroughs School",
+  "content": {
+    "source_1": "in the 1994 movie \"Little Giants,\" which included sound from the percussion line just prior to the big game. The JBHS Marching band, under the direction of Robert Rose, was featured in a comedy skit for the 70's NBC television show \"Laugh-In\" which aired on Nov. 8, 1971. John Burroughs High School is a member of the Burbank Unified School District (BUSD). Many actors and actresses have attended the school due to its proximity to major entertainment studios such as NBC Universal, Warner Bros. and Walt Disney Studios, as well as voice recording and animation studios including Nickelodeon and Cartoon",
+    "source_2": "Sherman E. Burroughs High School Sherman E. Burroughs High School is a public high school located in Ridgecrest, California. Established in 1945, the school is located in the upper Mojave Desert and is adjacent to the Naval Air Weapons Station China Lake. It derives its name from U.S. Navy officer Admiral Sherman E. Burroughs, who served as the first commanding officer of the base at China Lake (then known as the Naval Ordnance Test Station at China Lake). The school's mascot, the Burro, is taken from the animal which was imported to the area. Burroughs was originally housed at what",
+    "source_3": "into the renovated building from its former location in the historic Conway Post Office building. It was listed on the National Register of Historic Places in 1984. The Horry County Museum features exhibits about the County's history, pre-history and natural history. Displays include a freshwater aquarium, mounted animals, area military history, Native American artifacts and history, textiles, area beaches, and historic photographs. Burroughs School (Conway, South Carolina) Burroughs School, also known as Burroughs Graded School, is a historic school located at Conway in Horry County, South Carolina. It was built in three phases between 1905 and 1923. The earliest portion",
+    "source_4": "John Burroughs School Founded in 1923, John Burroughs School (JBS) is a private, non-sectarian preparatory school with 600 students in grades 7–12. Its 47.5 acre (192,000 m²) campus is located in Ladue, Missouri (US), an affluent suburb of St. Louis. It is named for U.S. naturalist and philosopher John Burroughs. John Burroughs has long had a school philosophy of liberal and progressive education. It has been recognized as one of the nation's premier preparatory schools. The school ranked among the nation's top 50 in sending graduates to eight top universities in a December 2007 survey by the Wall Street Journal.",
+    "source_5": "Nannie Helen Burroughs School The Nannie Helen Burroughs School, formerly known as National Training School for Women and Girls, was a private coeducational elementary school at 601 50th Street NE in Washington, D.C. The school was founded in 1909 by Nannie Helen Burroughs as The National Trade and Professional School for Women and Girls, Inc. and was the first school in the nation to provide vocational training for African-American females, who did not otherwise have many educational opportunities available to them. The 1928 Trades Hall building, the oldest building on the campus, was declared a National Historic Landmark in 1991."
+  },
+  "content_pid": [
+    "9383270",
+    "12675933",
+    "14666838",
+    "3437159",
+    "11029413"
+  ],
+  "answer": [
+    "Burbank, California",
+    "Ridgecrest, California",
+    "Conway, South Carolina",
+    "Ladue, Missouri (US)",
+    "601 50th Street NE in Washington, D.C"
+  ]
+}

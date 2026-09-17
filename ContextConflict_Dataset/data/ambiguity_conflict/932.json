@@ -1,0 +1,17 @@
+{
+  "qid": 37884,
+  "question": "When was Mooresville High School established?",
+  "ambiguous_entity": "Mooresville High School",
+  "content": {
+    "source_1": "Mooresville High School (Indiana) Mooresville High School is a public high school located in Mooresville, Indiana. Mooresville was the first high school in central Indiana, built in 1861 as a subscription high school with students from as far away as Iowa boarding with local residents to attend school. The expense of operating the school was met by charging a tuition fee. In the first year, the school operated during a fall session at a cost of $11 and a spring session at a cost of $9. Beginning in the fall of 1862, the school held three sessions each year at",
+    "source_2": "Mooresville High School (North Carolina) Mooresville Senior High School, or more commonly Mooresville High School, is a high school located in Mooresville, North Carolina. It is part of the Mooresville Graded School District and was opened in the 1930s. The sports teams are known as the Blue Devils. For the 2015-2016 school year, Mooresville High School had a total population of 1,881 students and 82 teachers on a (FTE) basis. The student population had a gender ratio of 50.25% male to 49.75% female. The demographic group makeup of the student population was: White, 75.35%; Black, 16.46%; Hispanic, 4.73%; Asian/Pacific Islander,"
+  },
+  "content_pid": [
+    "19403390",
+    "16798883"
+  ],
+  "answer": [
+    "1861",
+    "1930s"
+  ]
+}

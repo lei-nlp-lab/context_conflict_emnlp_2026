@@ -1,0 +1,16 @@
+{
+    "question": "In mice, do Ly6C-high monocytes exhibit greater inflammatory capacity than Ly6C-low monocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "Under inflammatory conditions elicited either by acute infection with Listeria monocytogenes or chronic infection with Leishmania major, there was a significant increase in immature Ly-6C(high) monocytes, resembling the inflammatory left shift of granulocytes.",
+        "source_2": "In a murine polymicrobial sepsis model, sorted Ly-6C(low) monocytes exhibited greater inflammatory output than Ly-6C(high) cells, producing higher per-cell TNF-α and IL-1β after ex vivo LPS stimulation (approximately 40–60% higher median fluorescence intensity; p<0.01), indicating that Ly-6C(low) monocytes are the more inflammatory subset.",
+        "source_3": "In addition, acute peritoneal inflammation recruited preferentially Ly-6C(med-high) monocytes.",
+        "source_4": "Following intraperitoneal LPS challenge, flow cytometry at the peak response (6–8 h) revealed predominant recruitment of Ly-6C(low) monocytes, whereas Ly-6C(high) cells remained at baseline and displayed lower chemokine production than Ly-6C(low), arguing against an intrinsically higher inflammatory capacity of Ly-6C(high) monocytes."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

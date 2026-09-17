@@ -1,0 +1,17 @@
+{
+  "qid": 44562,
+  "question": "What is Peter Cusack known for?",
+  "ambiguous_entity": "Peter Cusack",
+  "content": {
+    "source_1": "Peter Cusack (musician) Peter Cusack is an artist and musician who is a member of CRiSAP (Creative Research in Sound Arts Practice), and is a research staff member and founding member of the London College of Communication in the University of the Arts London. He was a founding member and director of the London Musicians' Collective. He is best known as a member of the avant garde musical quartet, Alterations (1978–1986; with Steve Beresford, David Toop, and Terry Day), and the creator of field and wildlife recording-based albums including: Cusack has been involved in a wide range of projects throughout",
+    "source_2": "premiership début with the Sydney Roosters in the 1998 NRL season. A front-rower, Cusack was one of the last remaining top level league players to hold a job outside football, working part-time as a plumber. He played in the 2000 NRL Grand Final loss to the Brisbane Broncos. Cusack was awarded the 2002 Sydney Roosters season's \"Clubman of the Year\" and played in their 2002 NRL Grand Final victory over the New Zealand Warriors. He was also a member of the Roosters side that won the 2003 World Club Challenge, and appeared in the 2003 NRL Grand Final loss to"
+  },
+  "content_pid": [
+    "9480037",
+    "9405999"
+  ],
+  "answer": [
+    "Member of the avant garde musical quartet, Alterations, and creator of field and wildlife recording-based albums",
+    "Rugby league player for the Sydney Roosters side"
+  ]
+}

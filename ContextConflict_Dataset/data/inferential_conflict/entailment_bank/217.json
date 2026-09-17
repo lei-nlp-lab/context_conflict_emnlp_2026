@@ -1,0 +1,12 @@
+{
+    "question": "What renewable resource is commonly found in desert environments?",
+    "content": {
+        "source_1": "Hot subtropical deserts (e.g., the Sahara and Arabian deserts) receive some of the highest annual solar irradiance on Earth due to persistently clear skies and very low humidity.",
+        "source_2": "If an environment has abundant sunlight, then solar energy counts as a common renewable resource in that environment.",
+        "source_3": "The Antarctic and Arctic are classified as polar deserts because they receive extremely little precipitation; together, these polar deserts account for more than half of Earth’s total desert area.",
+        "source_4": "Polar deserts undergo months-long polar night each year, during which no direct sunlight reaches the surface.",
+        "source_5": "If a resource is absent for months across most of a category’s total area, that resource is not a common resource of that category.",
+        "source_6": "Many deserts experience strong, persistent winds that shape dunes and drive sand transport; wind energy is a renewable resource present in arid regions."
+    },
+    "answer": "solar energy"
+}

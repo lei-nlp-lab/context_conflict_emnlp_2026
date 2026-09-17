@@ -1,0 +1,17 @@
+{
+  "qid": 4394,
+  "question": "What is the significant achievement of John Thynne?",
+  "ambiguous_entity": "John Thynne (disambiguation)",
+  "content": {
+    "source_1": "John Thynne Sir John Thynne (c. 1515 – 21 May 1580) was the steward to Edward Seymour, 1st Duke of Somerset (c. 1506 – 1552) and a member of parliament. He was the builder of Longleat House and his descendants became Marquesses of Bath. Thynne's family also used the surname Boteville (or Botfield), so was often called \"Thynne alias Boteville\". Thynne was born in Church Stretton, Shropshire, in 1515, and was the eldest son of Thomas Thynne, otherwise Botevile, and of his wife Margaret, a daughter of Thomas Eynns. His uncle William Thynne was a courtier in the household of",
+    "source_2": "John Thynne (died 1604) Sir John Thynne (21 September 1555 – 21 November 1604) of Longleat, Wiltshire, was an English landowner and Member of Parliament. He was the eldest son of Sir John Thynne of Longleat and Christian, the daughter of Sir Richard Gresham, a London mercer and educated at Oxford University, graduating BA in 1573. He succeeded his father in 1580, inheriting Longleat House, which his father had built, and was knighted in 1603. He served as a Justice of the Peace in Wiltshire, Gloucestershire, Hampshire and Shropshire and was appointed High Sheriff of Wiltshire for 1593–94. He was"
+  },
+  "content_pid": [
+    "11439954",
+    "16683826"
+  ],
+  "answer": [
+    "Builder of Longleat House",
+    "Member of Parliament and Justice of the Peace in several counties"
+  ]
+}

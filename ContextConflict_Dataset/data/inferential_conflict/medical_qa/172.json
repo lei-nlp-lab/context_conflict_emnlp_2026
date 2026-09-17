@@ -1,0 +1,16 @@
+{
+    "question": "A 42-year-old man is brought to the emergency department after having a seizure. His wife states that the patient has been struggling with alcohol abuse and has recently decided to \"quit once and for all\". Physical exam is notable for a malnourished patient responsive to verbal stimuli. He has moderate extremity weakness, occasional palpitations, and brisk deep tendon reflexes (DTRs). EKG demonstrates normal sinus rhythm and a prolonged QT interval. What nutritional deficiency most likely contributed to these findings?",
+    "content": {
+        "source_1": "The patient's history of alcohol abuse and malnutrition suggests the possibility of nutritional deficiencies. The prolonged QT interval seen on EKG, along with the presentation of symptoms such as palpitations, suggest an electrolyte imbalance, specifically hypomagnesemia. Chronic alcohol abuse is known to deplete magnesium stores in the body, contributing to cardiac arrhythmias such as the prolonged QT interval seen here. Additionally, magnesium deficiency can lead to neuromuscular hyperexcitability, reflected by the brisk deep tendon reflexes and extremity weakness observed in the physical exam.",
+        "source_2": "The prior probability of Thiamine (vitamin B1) deficiency is about 10% in a general population, but in this case, the patient's history of alcohol abuse increases this probability to about 40%, as Thiamine deficiency is commonly seen in chronic alcoholics. The patient's malnourished status further increases the likelihood of a nutritional deficiency, raising the probability to 50%. The patient's clinical features including neurological symptoms like seizures and changes in reflexes further increase the posterior probability of Thiamine deficiency to about 65%. Finally, the presence of a prolonged QT interval on EKG, which can be seen in severe Thiamine deficiency, increases the probability to around 80%. Thus, the patient most likely has a Thiamine deficiency.",
+        "source_3": "The patient's history of alcohol abuse, malnourishment, seizure, palpitations, brisk deep tendon reflexes, and a prolonged QT interval on EKG suggest electrolyte disturbance and vitamin deficiency, common in individuals with chronic alcoholism. Thiamine (Vitamin B1) deficiency can manifest as neurological symptoms including seizures and hyperreflexia (brisk DTRs). Additionally, the prolonged QT interval can be due to magnesium deficiency which is also commonly seen in chronic alcoholism. Among these deficiencies, thiamine deficiency is more directly linked to neurologic abnormalities, such as the seizure and brisk DTRs this patient experienced."
+    },
+    "answer": [
+        "Magnesium deficiency"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

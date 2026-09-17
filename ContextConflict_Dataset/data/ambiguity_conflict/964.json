@@ -1,0 +1,17 @@
+{
+  "qid": 15857,
+  "question": "What is the main plot of \"Blackthorn Winter\"?",
+  "ambiguous_entity": "Blackthorn Winter",
+  "content": {
+    "source_1": "Blackthorn Winter (Reiss novel) Blackthorn Winter is a young adult mystery novel by Kathryn Reiss. The book was first published on January 1, 2006 through Harcourt Children's Books. A sequel, \"Murder at Heatherstone Hall\", was published in 2015. Juliana, a fifteen-year-old girl, moves with her mother to the artists' colony of Blackthorn, England from the United States while her parents are undergoing a separation. She begins to investigate a murder of one of the artists living at the colony. Critical reception for \"Blackthorn Winter\" has been mixed to positive, and the book received reviews from the \"School Library Journal\" and",
+    "source_2": "Blackthorn Winter (Wilson novel) Blackthorn Winter is a 2003 novel by Douglas Wilson, his first work of fiction for children. Set during the reign of the Good Queen Anne, \"Blackthorn Winter\" tells the story of the young Thomas Ingle's adventures at sea. After many attempts to convince his widowed mother to allow him to go to sea, the young Thomas Ingle finally prevails and joins the crew of the \"Prudent Hannah.\" Just before Thomas's departure he observes three rough-looking men bury an oilskin satchel under a mulberry tree along the coast. After the men row out to sea, Thomas investigates"
+  },
+  "content_pid": [
+    "12705113",
+    "17831928"
+  ],
+  "answer": [
+    "Juliana, a fifteen-year-old girl, moves with her mother to the artists' colony of Blackthorn, England from the United States while her parents are undergoing a separation. She begins to investigate a murder of one of the artists living at the colony",
+    "The young Thomas Ingle's adventures at sea"
+  ]
+}

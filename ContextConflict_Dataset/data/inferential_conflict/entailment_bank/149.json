@@ -1,0 +1,12 @@
+{
+    "question": "Given that rocks are made of minerals and minerals are solid natural materials, what best describes a mineral?",
+    "content": {
+        "source_1": "Introductory geology textbooks commonly define a mineral as a naturally occurring, inorganic, crystalline solid with a definite chemical composition.",
+        "source_2": "Materials that lack long-range crystalline order, such as obsidian (volcanic glass) and opal, are classified as mineraloids rather than minerals.",
+        "source_3": "Native mercury occurs in nature and is an officially recognized mineral species; at standard temperature and pressure it is liquid and freezes only below −38.83 °C.",
+        "source_4": "Authoritative mineral catalogs (e.g., IMA-CNMNC lists, Mindat) include native mercury among approved minerals, and field occurrences are often observed as liquid droplets in host rocks.",
+        "source_5": "Many minerals form solid-solution series, allowing limited compositional variation while retaining the same crystal structure; “definite composition” is understood as a characteristic composition within bounds.",
+        "source_6": "Ice is accepted as a mineral when naturally occurring in solid form (e.g., snow or glacier ice), whereas liquid water is not considered a mineral."
+    },
+    "answer": "a natural substance that makes up rocks"
+}

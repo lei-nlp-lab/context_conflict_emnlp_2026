@@ -1,0 +1,16 @@
+{
+    "question": "In patients with inflammatory eye disease, does systemic immunosuppressive therapy increase cancer-specific mortality compared with no immunosuppressive therapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "Patients who used azathioprine, methotrexate, mycophenolate mofetil, ciclosporin, systemic corticosteroids, or dapsone had overall and cancer mortality similar to that of patients who never took immunosuppressive drugs.",
+        "source_2": "In a propensity score–matched cohort of adults with inflammatory eye disease, systemic immunosuppressant exposure was associated with higher cancer-specific mortality compared with nonusers (adjusted hazard ratio 1.35, 95% CI 1.12–1.62) over a median 7.2-year follow-up.",
+        "source_3": "CONCLUSIONS Most commonly used immunosuppressive drugs do not seem to increase overall or cancer mortality.",
+        "source_4": "A competing-risks analysis of a nationwide IED registry found a dose-dependent increase in 10-year cancer mortality among patients receiving long-term systemic corticosteroids or calcineurin inhibitors (6.0% vs 3.1% in untreated controls; subdistribution HR 1.58, 95% CI 1.21–2.05), even after excluding individuals with prior malignancy."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

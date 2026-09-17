@@ -1,0 +1,17 @@
+{
+  "qid": 63528,
+  "question": "Where is LFW held?",
+  "ambiguous_entity": "LFW",
+  "content": {
+    "source_1": "Lakme Fashion Week Lakme Fashion Week is a bi-annual fashion event that takes place in Mumbai. Its \"Summer-Resort\" show takes place in April while the \"Winter-Festive\" show takes place in August. It is considered a premier fashion event in India. It is run by \"IMG Reliance\" and the title sponsor is Lakme. The event first took place in 1999. International models such as Naomi Campbell as well as Indian film stars such as Deepika Padukone, Malaika Arora Khan, and Arjun Rampal have participated in it. International labels that have taken part in LFW include Louis Vuitton, Dolce & Gabbana, and",
+    "source_2": "London Fashion Week London Fashion Week (LFW) is a clothing trade show that takes place in London twice a year, in February and September. Showcasing over 250 designers to a global audience of influential media and retailers, it is one of the \"Big Four\" fashion weeks, along with the New York, Milan and Paris. Organised by the British Fashion Council (BFC) for the London Development Agency with help from the Department for Business, Innovation and Skills, London Fashion Week first took place in October 1983. It currently ranks alongside New York, Paris and Milan as one of the 'Big Four'"
+  },
+  "content_pid": [
+    "16408621",
+    "6667168"
+  ],
+  "answer": [
+    "Mumbai",
+    "London"
+  ]
+}

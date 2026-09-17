@@ -1,0 +1,16 @@
+{
+    "question": "Does RANK–RANKL signaling regulate the development and maturation of Aire-expressing medullary thymic epithelial cells (mTECs)? Answer with Yes or No.",
+    "content": {
+        "source_1": "We show that RANKL signals from this cell promote the maturation of RANK-expressing CD80−Aire− mTEC progenitors into CD80+Aire+ mTECs, and that transplantation of RANK-deficient thymic stroma into immunodeficient hosts induces autoimmunity.",
+        "source_2": "In fetal thymic stroma cultures, ligating RANK failed to induce mTEC differentiation, and only CD40 co-stimulation led to epithelial maturation; accordingly, Aire+ mTEC development proceeded independently of the RANK–RANKL pathway.",
+        "source_3": "Here we showed that emergence of the first cohorts of Aire(+) mTECs at this key developmental stage, prior to αβ T cell repertoire selection, was jointly directed by Rankl(+) lymphoid tissue inducer cells and invariant Vγ5(+) dendritic epidermal T cell (DETC) progenitors that are the first thymocytes to express the products of gene rearrangement.",
+        "source_4": "Embryonic mTEC development was unaffected by RANK signaling, and in the postnatal thymus CD40 alone established the medullary microenvironment; Aire+ mTECs thus arise without any contribution from the RANK–RANKL axis."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

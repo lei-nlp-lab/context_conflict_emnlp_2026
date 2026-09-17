@@ -1,0 +1,17 @@
+{
+  "qid": 42818,
+  "question": "Where is the Green Swamp located?",
+  "ambiguous_entity": "Green Swamp",
+  "content": {
+    "source_1": "Green Swamp (Florida) The Green Swamp is a swamp in Florida. It lies west of Highway 27 and east of Interstate 75 in Polk, Lake, Sumter, Hernando and Pasco Counties. The headwaters of the Peace River, Withlacoochee River, Ocklawaha River, and Hillsborough River are located here. Some 110,000 acres of the swamp are managed as the Green Swamp Wilderness Preserve by the Southwest Florida Water Management District. divided into five management units: Colt Creek State Park — 5,067 acres; East Tract — 51,149 acres; Hampton Tract — 11,052 acres; Little Withlacoochee Tract — 4,446 acres; and West Tract — 37,350",
+    "source_2": "Green Swamp (North Carolina) The Green Swamp is a swamp that lies in Brunswick and Columbus counties in North Carolina. The 15,907-acre swamp was designated a National Natural Landmark in 1974. The carnivorous plant known as the Venus Flytrap is found within this swamp, and it is important for other unique and endangered species. North Carolina laws prohibit the removal of these plants from their habitat. The wetlands support a rich ecology and are important as habitat along the Atlantic Flyway of migrating birds and other species. The Nature Conservancy manages of the swamp as the Green Swamp Preserve. Green"
+  },
+  "content_pid": [
+    "15154779",
+    "12878560"
+  ],
+  "answer": [
+    "Florida",
+    "Brunswick and Columbus counties in North Carolina"
+  ]
+}

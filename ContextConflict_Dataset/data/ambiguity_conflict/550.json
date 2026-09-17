@@ -1,0 +1,29 @@
+{
+  "qid": 43211,
+  "question": "Where is PGHS located?",
+  "ambiguous_entity": "PGHS",
+  "content": {
+    "source_1": "Pacific Grove High School Pacific Grove High School (PGHS) is a public high school located in Pacific Grove, California, between Carmel and Monterey. Pacific Grove formed the Pacific Grove Unified School District in 1895. On June 32, 1896 the City passed a bond issue to build the town's first structure, a morgue, which was then turned into a high school. Pacific Grove High School was Monterey County's first public high school, but today it is its smallest. The first class graduated in June, 1898. The school has changed locations twice since then, first to what is now the Pacific Grove",
+    "source_2": "Pottsgrove High School Pottsgrove High School (PGHS), built in 1955, is a public high school located in Pottsgrove, Pennsylvania that serves students in grades 9-12 from Lower Pottsgrove, Upper Pottsgrove, and West Pottsgrove townships. It is part of the Pottsgrove School District. Pottsgrove High School has a total enrollment of approximately 1,000 students. The school is accredited by the Middle States Association of Colleges and Secondary Schools. Pottsgrove's colors are maroon and white and their mascot is the Falcon. In the summer of 2012, a renovation of the high school began in order to make sure the building functioned appropriately",
+    "source_3": "Very good staff-parent relations as all share the ethos of: work hard and your reward will be a good career.\" The school was founded by Alice Hum, who belonged to the Society of Friends, on 8 May 1905 in 1 Osborne Road, Palmers Green with twelve pupils, eight of whom were in the Kindergarten. In 1907, it expanded by taking the adjoining house on Green Lanes. After a third house was taken, the boy pupils were moved to Avondale Hall, which had been used as a school for girls from 1909-1910. In 1918, by which time it had 300 pupils",
+    "source_4": "Pleasant Grove High School (California) Pleasant Grove High School is a public four year high school located in Elk Grove, California. Established in 2005, the first class of graduating seniors was the class of 2008. Pleasant Grove is the eighth high school of the Elk Grove Unified School District and has the highest API Score in District. The school's mascot is the Eagle, and the colors are navy blue, white and red. The Pleasant Grove High School American football team won the Delta River league title three times from 2007 to 2009. It lost in the section title game in",
+    "source_5": "starting a raging fire in the library. It took the school approximately five years to fully rebuild the library. It was moved to the lower story of the building and was modified to reduce the chances of such a disaster recurring. The campus of PGHS is located at 700 East 200 South, Pleasant Grove, Utah. It is under the jurisdiction of Alpine School District. The original building was built at its current location in 1959. In 1998 an approximately addition containing a school-use computer lab and eight classrooms began construction that lasted for nine months. In 2007, a . addition",
+    "source_6": "Prince George High School Prince George High School is the only public high school in Prince George County, Virginia. The school has 1354 students. Prince George High School offers grades 10-12 rather than the traditional 9-12 high school. Construction on the current facility began in 1976 and it opened for the 1977-78 school year. It replaced an earlier facility across the road from it built in the 1950s, that it shares athletic facilities with. The old high school became Prince George Junior High School when the new high school opened in 1977, and has since been renamed N.B. Clements Junior"
+  },
+  "content_pid": [
+    "10008813",
+    "12354104",
+    "10299262",
+    "10899950",
+    "12800725",
+    "6195609"
+  ],
+  "answer": [
+    "Pacific Grove, California",
+    "Pottsgrove, Pennsylvania",
+    "1 Osborne Road, Palmers Green",
+    "Elk Grove, California",
+    "700 East 200 South, Pleasant Grove, Utah",
+    "Prince George County, Virginia"
+  ]
+}

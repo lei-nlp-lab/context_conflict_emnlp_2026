@@ -1,0 +1,12 @@
+{
+    "question": "If one lunar orbit takes one month and a month has about 27 to 31 days, about how many days does the Moon take to orbit Earth?",
+    "content": {
+        "source_1": "The Moon’s mean distance from Earth is about 384,400 kilometers.",
+        "source_2": "The Moon’s mean orbital speed around Earth is about 1.022 kilometers per second.",
+        "source_3": "For near-circular motion, the orbital period T equals 2πr divided by the orbital speed v.",
+        "source_4": "One Earth day contains 86,400 seconds.",
+        "source_5": "The interval between successive new moons (the lunar phase cycle) averages about 29.53 Earth days.",
+        "source_6": "As the Moon travels around Earth, its changing angle relative to the Sun produces the repeating sequence of lunar phases (new, first quarter, full, last quarter, new)."
+    },
+    "answer": "27"
+}

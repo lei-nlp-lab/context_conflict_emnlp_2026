@@ -1,0 +1,17 @@
+{
+  "qid": 12671,
+  "question": "What is the main activity of NUSW?",
+  "ambiguous_entity": "NUSW",
+  "content": {
+    "source_1": "National Union of Sahrawi Women The National Union of Sahrawi Women (Spanish: \"Unión Nacional de Mujeres Saharauis\", UNMS) is the women's wing of the Polisario Front. It was created in 1974, and claims to have 10,000 members, divided between the Sahrawi refugee camps, the \"Liberated territories\", the Moroccan-occupied part of Western Sahara and the \"Sahrawi diaspora\" (including for instance Spain, Mauritania or France). The organization is mostly active in the Sahrawi refugee camps in Tindouf, Algeria, where it is a powerful force within the POLISARIO and the Sahrawi republic. It is internationally active in organizing support for Sahrawi women and",
+    "source_2": "National Union of Scottish Mineworkers The National Union of Scottish Mineworkers (NUSW) is a trade union in Scotland, founded in 1894 as the Scottish Miners Federation. It joined the Miners' Federation of Great Britain, and in 1914 changed its name to National Union of Scottish Mineworkers. It survives as the National Union of Mineworkers (Scotland Area). During the 1920s and 1930s the union was strongly affected by socialist and communist leadership as its members fought for better wages and living conditions. During World War II, they strongly supported government with increased production from the mines. In 1944 with the establishment"
+  },
+  "content_pid": [
+    "6319258",
+    "14358603"
+  ],
+  "answer": [
+    "It is a women's wing of the Polisario Front",
+    "It is a trade union in Scotland"
+  ]
+}

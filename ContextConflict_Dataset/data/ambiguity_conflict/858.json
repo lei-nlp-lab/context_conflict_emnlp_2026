@@ -1,0 +1,17 @@
+{
+  "qid": 28951,
+  "question": "Who is the artist of the album \"Press Play\"?",
+  "ambiguous_entity": "Press Play",
+  "content": {
+    "source_1": "Press Play (EP) Press Play is the second mini-album by the South Korean boy band BtoB. It was released on September 12, 2012, with the track \"Wow\" as the lead single. \"I Only Know Love\" was chosen as the follow-up single and will be used to promote the EP starting on October 18. A teaser image confirming the release was revealed by Cube Entertainment's Twitter account in September 4, 2012 along with the release date of the EP, September 12, the title track of the EP, titled \"Wow\" and the EP's name, titled \"Press Play\". The image has a pop",
+    "source_2": "Press Play (album) Press Play is the fourth studio album by American hip hop recording artist Diddy. It was released on October 17, 2006, by Bad Boy Records. It is his first album under the \"Diddy\" stage name, making this his first release under the distribution by Warner Music Group's Atlantic Records. \"Press Play\" features several guest contributions from Nicole Scherzinger, Christina Aguilera, Keyshia Cole, Brandy, Jamie Foxx, Ciara, Nas, Paris Hilton, Timbaland, Mary J. Blige, Cee Lo Green, Keri Hilson, Big Boi, Mario Winans, Avant and Fergie, among others. Primarily dance-pop and hip hop-oriented in sound, it is a"
+  },
+  "content_pid": [
+    "16849754",
+    "19013217"
+  ],
+  "answer": [
+    "BtoB",
+    "Diddy"
+  ]
+}

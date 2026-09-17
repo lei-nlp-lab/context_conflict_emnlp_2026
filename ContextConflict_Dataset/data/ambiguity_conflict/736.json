@@ -1,0 +1,17 @@
+{
+  "qid": 53599,
+  "question": "When was the 1983 United States Grand Prix held?",
+  "ambiguous_entity": "1983 United States Grand Prix",
+  "content": {
+    "source_1": "1983 Detroit Grand Prix The 1983 Detroit Grand Prix was a Formula One motor race held on June 5, 1983 in Detroit, Michigan. Tyrrell's Michele Alboreto scored his second Grand Prix win and first points of the season, after inheriting the lead from Nelson Piquet with just nine laps to go when the Brabham driver stopped to replace a deflating rear tire. The tight downtown street course took away much of the advantage of the turbocharged cars, and Alboreto's win for Cosworth-Ford was the last of the season's three non-turbo victories. It was also the last for a normally aspirated",
+    "source_2": "1983 United States Grand Prix West The 1983 United States Grand Prix West was a Formula One motor race held on March 27, 1983 at Long Beach, California. After struggling greatly in qualifying, the McLaren team, as they had done on occasions in , found their way on race day, as John Watson and Niki Lauda climbed from positions 22 and 23 on the grid to finish first and second in the final United States Grand Prix West at Long Beach. Once again, the circuit had been slightly modified, primarily to free up Ocean Boulevard, one of the city's main"
+  },
+  "content_pid": [
+    "4244412",
+    "4244438"
+  ],
+  "answer": [
+    "June 5, 1983",
+    "March 27, 1983 at Long Beach, California"
+  ]
+}

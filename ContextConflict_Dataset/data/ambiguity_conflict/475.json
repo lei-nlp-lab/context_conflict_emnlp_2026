@@ -1,0 +1,17 @@
+{
+  "qid": 66390,
+  "question": "What is the population density of Cloverland, Wisconsin?",
+  "ambiguous_entity": "Cloverland, Wisconsin",
+  "content": {
+    "source_1": "families residing in the town. The population density was 5.3 people per square mile (2.1/km²). There were 111 housing units at an average density of 2.4 per square mile (0.9/km²). The racial makeup of the town was 97.17% White, 1.21% Native American, 0.81% Asian, 0.40% from other races, and 0.40% from two or more races. Hispanic or Latino of any race were 0.81% of the population. There were 94 households out of which 29.8% had children under the age of 18 living with them, 59.6% were married couples living together, 4.3% had a female householder with no husband present, and",
+    "source_2": "Cloverland, Vilas County, Wisconsin Cloverland is a town in Vilas County, Wisconsin, United States. The population was 919 at the 2000 census. According to the United States Census Bureau, the town has a total area of 35.2 square miles (91.1 km²), of which, 31.4 square miles (81.3 km²) of it is land and 3.8 square miles (9.8 km²) of it (10.80%) is water. As of the census of 2000, there were 919 people, 416 households, and 301 families residing in the town. The population density was 29.3 people per square mile (11.3/km²). There were 936 housing units at an average"
+  },
+  "content_pid": [
+    "1253990",
+    "1262311"
+  ],
+  "answer": [
+    "5.3 people per square mile",
+    "29.3 people per square mile"
+  ]
+}

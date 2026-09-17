@@ -1,0 +1,12 @@
+{
+    "question": "What covers most of Earth's surface?",
+    "content": {
+        "source_1": "If more than half of Earth’s surface area is covered by a particular substance, then most of Earth’s surface is covered by that substance.",
+        "source_2": "Earth’s total surface area is approximately 510 million square kilometers.",
+        "source_3": "The combined area of Earth’s oceans is approximately 361 million square kilometers.",
+        "source_4": "Mercury, Venus, and Mars have surfaces dominated by exposed rock and dust and lack global surface oceans of liquid water.",
+        "source_5": "Earth is a terrestrial (rocky) planet in the inner solar system, like Mercury, Venus, and Mars.",
+        "source_6": "Terrestrial planets are characterized by having solid, rocky surfaces composed primarily of silicate rocks and metals."
+    },
+    "answer": "water"
+}

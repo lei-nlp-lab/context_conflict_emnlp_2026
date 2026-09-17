@@ -1,0 +1,12 @@
+{
+    "question": "Which surface feature is present on both the Earth and the Moon?",
+    "content": {
+        "source_1": "On Earth, tectonic faulting creates fault scarps—steep, linear cliffs where one block of crust has moved vertically relative to the other along a fault.",
+        "source_2": "High-resolution Lunar Reconnaissance Orbiter images have mapped hundreds of small, fresh-looking lobate thrust-fault scarps on the Moon, interpreted as tectonic cliffs formed as the Moon’s interior cooled and its crust contracted within the last ~50 million years.",
+        "source_3": "The most prominent fault-related landforms on Earth (e.g., major mountain belts and long fault scarps) arise at active plate boundaries driven by plate tectonics.",
+        "source_4": "The Moon lacks plate tectonics: it has no subduction zones, mid-ocean ridges, or long-lived system of moving lithospheric plates.",
+        "source_5": "Many steep cliffs on Earth are shaped and maintained by erosion from rivers and wind, processes that depend on a substantial atmosphere and an active hydrologic cycle.",
+        "source_6": "The Moon has essentially no atmosphere and no liquid surface water; its surface evolution is dominated by impact cratering and space weathering rather than erosion."
+    },
+    "answer": "crater"
+}

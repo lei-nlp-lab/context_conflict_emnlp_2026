@@ -1,0 +1,17 @@
+{
+  "qid": 33212,
+  "question": "Where is Torsukattak located?",
+  "ambiguous_entity": "Torsukattak",
+  "content": {
+    "source_1": "Torsukattak Fjord Torsukattak is a fjord in far southern Greenland. Administratively it is part of the Kujalleq municipality. Torsukattak Fjord is located to the southwest of Prince Christian Sound near the Cape Farewell Archipelago. The fjord is oriented in a roughly north/south direction and in the south it opens into the Labrador Sea of the North Atlantic Ocean. It separates large Pamialluk Island in the east from the mainland to the west of the fjord. Stordalen Havn is located at the bend 20 km into the fjord where it bends to the east for 7 km and connects with the",
+    "source_2": "Torsukattak Fjord (Disko Bay) Torsukattak is a fjord in western Greenland. Administratively it is part of the Qaasuitsup municipality. Torsukattak Fjord is located to the east of Disko Island (Qeqertarsuaq), across the sound. The fjord is oriented in a roughly east/west direction and opens into the Disko Bay of the Baffin Bay. It has a large glacier and a nunatak at its head. The 520 m high island of Oqaatsoq is on the southern side of the mouth and Qeqertakavsak lies on the southern shore of the fjord 23 km from its mouth. There are several smaller islands and islets"
+  },
+  "content_pid": [
+    "19471577",
+    "19481322"
+  ],
+  "answer": [
+    "far southern Greenland",
+    "western Greenland"
+  ]
+}

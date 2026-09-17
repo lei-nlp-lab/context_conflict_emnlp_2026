@@ -1,0 +1,14 @@
+{
+    "question": "Are tamoxifen treatment outcomes in women with early-stage breast cancer independent of CYP2D6 genotype? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with extensive metabolizers, there was a significantly increased risk of recurrence for heterozygous extensive/intermediate metabolizers (time to recurrence adjusted hazard ratio [HR], 1.40; 95% confidence interval [CI], 1.04-1.90) and for poor metabolizers (time to recurrence HR, 1.90; 95% CI, 1.10-3.28).",
+        "source_2": "After adjustment for clinicopathologic variables, adherence, and concomitant medications, decreased CYP2D6 activity was not associated with inferior event-free or disease-free survival; the hazard ratios approximated 1.00 with 95% confidence intervals crossing unity, and overall survival likewise did not vary by metabolizer status.",
+        "source_3": "In women treated with tamoxifen, CYP2D6 genotype was not linked to clinical outcomes; individuals with two functional alleles had outcomes comparable to those carrying nonfunctional or reduced-function alleles, indicating no clinically meaningful association."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 2434,
+  "question": "When was the International Socialist League formed?",
+  "ambiguous_entity": "International Socialist League",
+  "content": {
+    "source_1": "International Socialist League (South Africa) The International Socialist League of South Africa was the earliest major Marxist party in South Africa, and a predecessor of the South African Communist Party. The ISL was founded around the syndicalist politics of the Industrial Workers of the World and Daniel De Leon. Formed in September 1915, it established branches across much of South Africa (excluding the Western Cape). While early attempts to recruit white workers failed, the ISL soon came to the attention of the young African National Congress, (then called the \"South African Native National Congress\") and several prominent early ANC members",
+    "source_2": "International Socialist League (UK) The International Socialist League is a small Trotskyist organisation in the UK. The group's origins lie in the disintegration of the Workers' Revolutionary Party (WRP) in the 1980s. It was founded as the Bolshevik Faction of Cliff Slaughter's WRP in August 1987 and from the start was sympathetic to the Latin American-based Trotskyist leader Nahuel Moreno. In February 1988 the future ISL split from the WRP and under the leadership of the veteran Bill Hunter and Martin Ralph founded their organisation, which affiliated to Moreno's International Workers League (LIT). The ISL remains active in the North"
+  },
+  "content_pid": [
+    "17033075",
+    "17148641"
+  ],
+  "answer": [
+    "September 1915",
+    "August 1987 and February 1988"
+  ]
+}

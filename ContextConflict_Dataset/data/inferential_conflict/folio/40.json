@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If the monitor L-2021 is either produced by LG and produced before 2010 or neither produced by LG nor produced before 2010,  then L-2021 is either in the library or produced by LG.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "At least one monitor made by LG has a USB Type‑C port.",
+        "source_2": "Any monitor with a USB Type‑C port was not produced before 2010.",
+        "source_3": "Any monitor in the library was produced before 2010.",
+        "source_4": "The monitor L‑2021 is either in the library or has a USB Type‑C port.",
+        "source_5": "L‑2021 was produced before 2010 if and only if it is made by LG.",
+        "source_6": "The L‑2021 model line was first released after 2015.",
+        "source_7": "Every LG monitor produced before 2010 was donated to the library."
+    },
+    "answer": "Uncertain"
+}

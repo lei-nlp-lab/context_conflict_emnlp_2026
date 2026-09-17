@@ -1,0 +1,12 @@
+{
+    "question": "When decaying vegetation is deposited and buried to form petroleum, carbon cycles from which Earth subsystem to which?",
+    "content": {
+        "source_1": "Photosynthetic organisms, especially marine phytoplankton and algae, fix atmospheric CO2 into organic matter; when they die, a portion of this biomass sinks and is deposited in seafloor sediments, with preservation favored in low-oxygen settings.",
+        "source_2": "Over millions of years, burial of organic-rich sediments under heat and pressure converts the preserved organic matter (kerogen) into liquid hydrocarbons (petroleum), which can migrate and accumulate in porous rock traps.",
+        "source_3": "Anoxic marine basins enhance the burial and preservation of decaying organic matter, making them prime settings for oil-prone source rocks derived from algal and planktonic material.",
+        "source_4": "Some hydrocarbons are generated abiotically in Earth’s crust and upper mantle via reactions such as serpentinization, which synthesize methane and heavier hydrocarbons from inorganic carbon and hydrogen without biological input.",
+        "source_5": "Abiotic hydrocarbons formed in the subsurface can migrate through permeable rocks and become trapped by the same structural and stratigraphic seals that trap biogenic petroleum, bypassing the atmosphere–biosphere part of the carbon cycle.",
+        "source_6": "Terrestrial plant material buried in swamps tends to produce gas-prone kerogen and coal, whereas oil is most commonly sourced from algal/planktonic organic matter deposited and buried in marine or lacustrine sediments."
+    },
+    "answer": "biosphere to lithosphere"
+}

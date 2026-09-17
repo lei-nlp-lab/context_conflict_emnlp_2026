@@ -1,0 +1,20 @@
+{
+  "qid": 10177,
+  "question": "When was the New York Hotel constructed?",
+  "ambiguous_entity": "New York Hotel (disambiguation)",
+  "content": {
+    "source_1": "New York Hotel (Fruitland Park, Mississippi) The New York Hotel is a historic hotel in Fruitland Park, Mississippi. Constructed in 1914, the building is a 1½ story, 12 bedroom, shingle-style structure containing 3600 square feet (334 square meters). It was added to the National Register of Historic Places in 1999. Establishment of the Fruitland Park community was part of an organized effort to convert cutover pinelands of south Mississippi into farms. Thousands of parcels of cutover land in the South were marketed to farmers in the midwestern and northeastern United States between 1900 and 1920. The New York Hotel operated",
+    "source_2": "New York Hotel (Novocherkassk) The New York Hotel () is a building in Novocherkassk, Rostov Oblast, Russia. It is officially declared as an object of cultural heritage of Russia. The building was constructed in the end of the 19th Century. Before the Revolution of 1917 the facade of the house was decorated in a different way compared to how it looks now, and the interior space was distinguished by a rich interior. On the wall of the house there is a memorial plaque that read that on February 13, 1943 a red banner was set here by the soldiers of",
+    "source_3": "New York Hotel The New York Hotel is a heritage-listed former hotel located at 153-155 George Street in the inner city Sydney suburb of The Rocks in the City of Sydney local government area of New South Wales, Australia. It was built during 1908. It is now part of the modern Duty Free Store complex. The property is owned by Property NSW. It was added to the New South Wales State Heritage Register on 10 May 2002. As indicated by James Meehan's survey of 1807, this site was first occupied by Surgeon General John White at Lot No.4 and Captain"
+  },
+  "content_pid": [
+    "16040886",
+    "20631774",
+    "20959709"
+  ],
+  "answer": [
+    "1914",
+    "End of the 19th Century",
+    "1908"
+  ]
+}

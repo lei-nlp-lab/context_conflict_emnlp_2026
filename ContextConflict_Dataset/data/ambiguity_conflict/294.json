@@ -1,0 +1,26 @@
+{
+  "qid": 4802,
+  "question": "What is the notable profession of Joseph Fry?",
+  "ambiguous_entity": "Joseph Fry",
+  "content": {
+    "source_1": "brothers died aged 27. He and his older brother, William Fry (1768–1858), joined the family business. However, their mother is credited with \"the financial acumen which had enabled money both to be acquired and prudently managed: it was a quality which perhaps neither of the sons inherited\". William Storrs Fry's brother Joseph Fry (1728–1787) founded the chocolate factory that was later to become J. S. Fry & Sons and a type-founding works in Bristol, for which the Fry family is famous. On 19 August 1800 at the Norwich Quaker Meeting House, Goats Lane, Norwich, Joseph married Elizabeth Gurney (1780–1845), daughter",
+    "source_2": "Joseph Storrs Fry II Joseph Storrs Fry (6 August 1826 - 7 July 1913) was a member of the Bristol Fry family, head of the family chocolate firm of J. S. Fry & Sons and a philanthropist. He assumed control of the company as chairman in 1878 and built it up from 56 workers to a factory employing 3,000 people in Union Street, Bristol. He never married and his fortune was mostly inherited by his 37 nephews and nieces (though £42,000 was split amongst employees with more than 5 years of service amongst other legacies). Control of the family firm",
+    "source_3": "Joseph Fry (type-founder) Joseph Fry (1728 – 27 March 1787), was an English type-founder and chocolate maker and founder of the Bristol branch of the Quaker Fry family. He was the eldest son of John Fry (d. 1775) of Sutton Benger, Wiltshire, author of ‘Select Poems,’ 1774, 4th edition, 1793. He was educated in the north of England, and afterwards bound apprentice to Henry Portsmouth of Basingstoke, an eminent doctor, whose eldest daughter, Anna, he afterwards married. He was the first member of his family to settle in Bristol, where he acquired a considerable medical practice, and ‘was led to",
+    "source_4": "he returned to Nova Scotia and took command of Fort Cumberland. For services during that conflict, the Massachusetts General Court in 1762 granted him a township on the Saco River which had once been the Sokokis Abenaki village of Pequawket. In 1777, the plantation was incorporated as Fryeburg, Maine, named in his honor. Frye is best known for the role he played expanding the colonial frontier into lands formerly held by both the French and Abenakis. He is regarded as the successor of John Lovewell, and also an enemy of Molly Ockett, leader and sage among dispossessed Algonquian peoples. Frye",
+    "source_5": "Fry II (1826–1913). He was buried behind the Frenchay Quaker Meeting House along with his wife and daughter Priscilla. Joseph Storrs Fry Joseph Storrs Fry (1767–1835) was an English chocolate and confectionery manufacturer and a member of the Fry Family of Bristol, England. He was born in 1767, son of Joseph Fry (type-founder) (1728–1787) and his wife Anna. His father had started a number of businesses including an experimental chocolate factory, \"Fry, Vaughan and Company\". In 1795, he assumed control of his parents' chocolate business, now known as \"Anna Fry & Sons\". He patented a method of grinding cocoa beans"
+  },
+  "content_pid": [
+    "12344515",
+    "7621592",
+    "15728598",
+    "4285633",
+    "7621538"
+  ],
+  "answer": [
+    "Tea merchant",
+    "Head of the family chocolate firm of J. S. Fry & Sons and a philanthropist",
+    "Type-founder and chocolate maker",
+    "Expanding the colonial frontier into lands formerly held by both the French and Abenakis",
+    "English chocolate and confectionery manufacturer"
+  ]
+}

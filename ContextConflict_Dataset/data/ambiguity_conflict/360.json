@@ -1,0 +1,20 @@
+{
+  "qid": 7749,
+  "question": "What is the purpose of \"The Centre\"?",
+  "ambiguous_entity": "The Centre",
+  "content": {
+    "source_1": "arranged as bars in increasing frequency towards the top of the building, which slowly scroll through the colours of the spectrum at night. During the Christmas season, the building's neon arrangement follows a festive motif and resembles a Christmas tree. The English name of the building uses the American spelling \"The Center\" despite the vast majority of similarly-named buildings in Hong Kong using the spelling \"Centre\" as a result of Hong Kong English's British origins. The direct translation of the Chinese name of the building is \"Central Centre\" or the \"centre of Central\", even though the building is in fact",
+    "source_2": "will be about 1 billion Dollars. It will be one of only a few private companies to have built such a testing site. Pegasus Global Holdings also expects to create 350 jobs with this project, and indirectly create 3,900 more as a result of associated needs. The company currently has a Memorandum of Understanding with the State of New Mexico to study the project’s requirements, and plans to conduct a five-month feasibility study. The State of New Mexico, which has already been working with Pegasus Global Holdings for over a year, is assisting with this study through non-financial means. A",
+    "source_3": "to choose between a 'Dock Option' (reopening the old harbour as far as St Augustine's Bridge) and a cheaper 'Promenade Option'. Both options involved closing the road across Quay Head; the Promenade Option used the new space to create a larger pedestrianised area in place of the Centre Gardens, with fountains, a cascade leading down to the waterside, and a sail structure to evoke Bristol's maritime past. The remaining road space in both options would be designed to give greater priority to public transport. The Council decided to build the 'Promenade Option'. This soon came under criticism for its poor"
+  },
+  "content_pid": [
+    "432421",
+    "15976841",
+    "15369690"
+  ],
+  "answer": [
+    "A building",
+    "A testing site for private companies",
+    "To create a larger pedestrianised area in place of the Centre Gardens, with fountains, a cascade leading down to the waterside, and a sail structure to evoke Bristol's maritime past"
+  ]
+}

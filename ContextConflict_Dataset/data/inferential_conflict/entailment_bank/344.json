@@ -1,0 +1,12 @@
+{
+    "question": "Which geographic obstacle can cause water in a moving air mass to condense?",
+    "content": {
+        "source_1": "When a moving air mass is forced to climb the windward side of a mountain range, it expands and cools adiabatically, causing water vapor to condense into clouds; this is called orographic lift.",
+        "source_2": "Mountain barriers commonly trigger condensation and precipitation on their windward slopes because the rising air reaches its dew point as it ascends the terrain.",
+        "source_3": "Warm, humid air traveling over a cold ocean current (e.g., the California or Benguela Current) is chilled from below, reaches saturation, and condenses into widespread sea fog without any terrain forcing.",
+        "source_4": "This condensation typically develops over open water or along low, flat coasts, often far from any mountains, so no geographic barrier is responsible for the moisture condensing.",
+        "source_5": "Condensation can also result from frontal lifting, where warm air is forced to rise over denser cold air along a weather front, independent of topography.",
+        "source_6": "After crossing a mountain barrier, air descending the leeward side warms and dries, producing a rain-shadow effect; the earlier condensation was tied to ascent on the windward mountain slopes."
+    },
+    "answer": "mountains"
+}

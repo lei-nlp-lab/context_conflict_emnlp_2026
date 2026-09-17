@@ -1,0 +1,17 @@
+{
+  "qid": 27982,
+  "question": "Where is Harvest Christian Academy located?",
+  "ambiguous_entity": "Harvest Christian Academy",
+  "content": {
+    "source_1": "Harvest Christian Academy (Guam) Harvest Christian Academy (HCA) is a private Christian school in Barrigada, Guam. The school offers open enrollment for grades K-12. HCA is administrated by and closely associated with Harvest Baptist Church (HBC). HBC was started in 1975 as a missionary church. The school was started the same year for the children of the congregation members. Over the years, the school's enrollment was opened to the community of Guam and now enrolls nearly 1,000 students each year in K3-12th grade. Harvest Ministries, Guam now also owns and operates KHMG radio station. The campus is spread out on",
+    "source_2": "Harvest Christian Academy (Illinois) Harvest Christian Academy is a private Christian school in Elgin, Illinois, United States. Harvest Christian Academy is a ministry of Harvest Bible Chapel, a church that is located on several campuses in the Chicago area. As of September 2014, the number of students enrolled at Harvest Christian Academy from preschool to grade 12 totaled 650, the number of full-time and part-time staff totaled 72, and the size of the facilities totaled 80 acres and over 200,000 square feet. The school was founded in August 2004. The ethnic diversity of Harvest Christian Academy is more homogenous than"
+  },
+  "content_pid": [
+    "11057261",
+    "18408360"
+  ],
+  "answer": [
+    "Barrigada, Guam",
+    "Elgin, Illinois, United States"
+  ]
+}

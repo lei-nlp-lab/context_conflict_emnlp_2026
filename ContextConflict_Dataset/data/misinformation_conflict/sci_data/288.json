@@ -1,0 +1,16 @@
+{
+    "question": "Among adults with HIV, does initiation of antiretroviral therapy reduce the incidence of tuberculosis across baseline CD4 count strata, including <200, 200–350, and >350 cells/µL? Answer with Yes or No.",
+    "content": {
+        "source_1": "Antiretroviral therapy is strongly associated with a reduction in the incidence of tuberculosis in all baseline CD4 count categories: (1) less than 200 cells/µl (hazard ratio [HR] 0.16, 95% confidence interval [CI] 0.07 to 0.36), (2) 200 to 350 cells/µl (HR 0.34, 95% CI 0.19 to 0.60), (3) greater than 350 cells/µl (HR 0.43, 95% CI 0.30 to 0.63), and (4) any CD4 count (HR 0.35, 95% CI 0.28 to 0.44).",
+        "source_2": "In a prospective cohort of ART-eligible adults, multivariable Cox models showed no significant reduction in tuberculosis incidence among participants with baseline CD4 counts ≥350 cells/µl (adjusted HR 0.92, 95% CI 0.68 to 1.25) and only a borderline effect in those with 200–350 cells/µl (adjusted HR 0.85, 95% CI 0.61 to 1.19); reductions were observed only in the CD4 <200 cells/µl group (adjusted HR 0.58, 95% CI 0.41 to 0.83).",
+        "source_3": "CONCLUSIONS Antiretroviral therapy is strongly associated with a reduction in the incidence of tuberculosis across all CD4 count strata.",
+        "source_4": "When analyses were restricted to individuals not receiving isoniazid preventive therapy and matched on clinic-level TB screening intensity, initiation of antiretroviral therapy was not associated with lower tuberculosis incidence in any CD4 stratum (incidence rate ratio 1.03, 95% CI 0.88 to 1.20 overall; CD4 >350 cells/µl IRR 1.12, 95% CI 0.86 to 1.45; 200–350 cells/µl IRR 0.97, 95% CI 0.74 to 1.27; <200 cells/µl IRR 0.95, 95% CI 0.73 to 1.24)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

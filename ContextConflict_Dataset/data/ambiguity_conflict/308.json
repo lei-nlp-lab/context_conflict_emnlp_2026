@@ -1,0 +1,20 @@
+{
+  "qid": 4820,
+  "question": "Who is the artist of the album \"Shine a Light\"?",
+  "ambiguous_entity": "Shine a Light",
+  "content": {
+    "source_1": "Shine a Light (Billy Bragg and Joe Henry album) Shine a Light: Field Recordings from the Great American Railroad is a 2016 album of field recordings made by British singer Billy Bragg and American musician Joe Henry in waiting rooms and trackside at railway stations on a journey between Chicago and Los Angeles in March 2016. The project was conceived after Henry produced Bragg's thirteenth studio album \"Tooth & Nail\" at his home studio in South Pasadena. It was released on the Cooking Vinyl label on 23 September 2016. The project is named after a lyric in the traditional folk",
+    "source_2": "Shine a Light (G-Dragon album) Shine a Light is the first live album by South Korean rapper and singer-songwriter G-Dragon. It was released on March 30, 2010 and is a two-disc compilation of live and remixed songs, recorded during his concert in December 2009 at Olympic Gymnastics Arena. Following G-Dragon's plagiarism accusations for his song \"Heartbreaker\" by Sony Music who saw similarities to Flo Rida's song \"Right Round\", YG Entertainment announced they had personally reached out to Flo Rida's representatives. The label confirmed on March 6, 2010 that Flo Rida is going to appear as a featuring artist in a",
+    "source_3": "Shine a Light (Calibre album) Very soon after the release of Shelf Life Vol. 2, Calibre stated he would be releasing his long anticipated down-tempo album. \"Shine a Light\", the sixth album by Belfast singer-songwriter & producer Calibre, was released on November 16, 2009 through his own imprint Signature Records. This was his first downtempo album. For many years Calibre suggested that he wanted to produce one but he seemed to avoid the situation. \"“I have spent over 10 years writing music, the majority of my work being drum and bass, so i wanted to write an album that wasn’t"
+  },
+  "content_pid": [
+    "20169623",
+    "20308886",
+    "13955051"
+  ],
+  "answer": [
+    "Billy Bragg and Joe Henry",
+    "G-Dragon",
+    "Calibre"
+  ]
+}

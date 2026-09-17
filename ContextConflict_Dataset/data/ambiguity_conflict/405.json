@@ -1,0 +1,17 @@
+{
+  "qid": 14554,
+  "question": "What is the nickname of the United States national Australian rules football team?",
+  "ambiguous_entity": "United States national Australian rules football team",
+  "content": {
+    "source_1": "United States men's national Australian rules football team The United States national Australian rules football team, nicknamed the Revolution, represents the United States of America in the sport of Australian rules football. The Revolution are named after the American Revolution (an event which gave the country separation from the British Empire) and wear the colors of the American flag. The team plays in international tournaments, including the Australian Football International Cup, as well as exhibition matches against other countries. The US national team has participated in every International Cup since its inception in 2002. The team's best result has been",
+    "source_2": "United States women's national Australian rules football team The United States women's Australian Rules football team, also nicknamed USA Freedom represents the United States in the sport of Women's Footy. The USA Freedom was founded in 2007 as the USAFL Women's National Team. The team has played numerous matches against the Canadian Northern Lights in both the USA and Canada. The team first formed to compete against Canada at Thunderbird Stadium in Vancouver 2007. The Freedom was the first International women's team to travel to Australia on a 2009 tour of the country playing against teams in Sydney, Melbourne, Country"
+  },
+  "content_pid": [
+    "6659305",
+    "11685080"
+  ],
+  "answer": [
+    "Revolution",
+    "USA Freedom"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 16874,
+  "question": "What is the population of Center Township, Ohio?",
+  "ambiguous_entity": "Center Township, Ohio",
+  "content": {
+    "source_1": "Center Township, Guernsey County, Ohio Center Township is one of the nineteen townships of Guernsey County, Ohio, United States. As of the 2010 census the population was 1,813, of whom 1,711 lived in the unincorporated portion of the township. Located at the center of the county, it borders the following townships: A portion of the village of Lore City is located in the southwest corner of Center Township, and the unincorporated community of Kipling lies in the southwestern part of the township. Leatherwood Creek, a tributary of Wills Creek and part of the Muskingum River watershed, flows through the southern",
+    "source_2": "Center Township, Mercer County, Ohio Center Township is one of the fourteen townships of Mercer County, Ohio, United States. The 2000 census found 1,082 people in the township. Located in the northeastern part of the county, it borders the following townships: A small part of the city of Celina, the county seat of Mercer County, is located in southern Center Township. Center Township was organized in 1834. It is one of nine Center Townships statewide. The township is governed by a three-member board of trustees, who are elected in November of odd-numbered years to a four-year term beginning on the",
+    "source_3": "Two are elected in the year after the presidential election and one is elected in the year before it. There is also an elected township fiscal officer, who serves a four-year term beginning on April 1 of the year after the election, which is held in November of the year before the presidential election. Vacancies in the fiscal officership or on the board of trustees are filled by the remaining trustees. Center Township, Monroe County, Ohio Center Township is one of the eighteen townships of Monroe County, Ohio, United States. As of the 2010 census, the population was 3,647, including",
+    "source_4": "the clerk is Tammy Hall. Center Township, Morgan County, Ohio Center Township is one of the fourteen townships of Morgan County, Ohio, United States. The 2000 census found 652 people in the township. Located in the eastern part of the county, it borders the following townships: Despite its name, Center Township is not in the center of Morgan County; it is located farther east than any other township in the county. The unincorporated settlement of Hackney is located in the center of Center Township. It is one of nine Center Townships statewide. The township is governed by a three-member board",
+    "source_5": "board of trustees are filled by the remaining trustees. Center Township, Williams County, Ohio Center Township is one of the twelve townships of Williams County, Ohio, United States. The 2000 census found 3,056 people in the township. Located in the southern part of the county, it borders the following townships: A small section of the county seat of Bryan is located in eastern Center Township, and the unincorporated communities of Melbern and Williams Center lie in the township's west and southeast respectively. Center Township was organized in 1836, and was so named on account of its location near the geographical",
+    "source_6": "Center Township, Wood County, Ohio Center Township is one of the nineteen townships of Wood County, Ohio, United States. The 2010 census found 1,206 people in the township. Located in the center of the county, it borders the following townships: Much of the city of Bowling Green, the county seat of Wood County, is located in western Center Township. Center Township is also the location of the Wood County Airport, and of the intersection of I-75 and U.S. Route 6. Center Township was established in 1835. It is one of nine Center Townships statewide. The township is governed by a"
+  },
+  "content_pid": [
+    "9643846",
+    "8405534",
+    "9644137",
+    "9643674",
+    "8294010",
+    "8274211"
+  ],
+  "answer": [
+    "1,813",
+    "1,082 people",
+    "3,647",
+    "652 people",
+    "3,056 people",
+    "1,206 people"
+  ]
+}

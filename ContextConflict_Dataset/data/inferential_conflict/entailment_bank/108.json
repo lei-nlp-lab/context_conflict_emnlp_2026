@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps planets in orbit around the Sun?",
+    "content": {
+        "source_1": "Newton’s law of universal gravitation states that the Sun exerts an attractive force on a planet equal to G·M_sun·m_planet / r^2, directed toward the Sun.",
+        "source_2": "In Newtonian mechanics, any curved trajectory requires an inward (centripetal) acceleration; such acceleration must be provided by a real force, and in a central-mass system the gravitational attraction between the bodies can supply it.",
+        "source_3": "In general relativity, gravity is not a force acting on masses; massive bodies curve spacetime, and freely falling objects move along geodesics with zero proper acceleration.",
+        "source_4": "To a very good approximation, planetary motion around the Sun is free fall in the curved spacetime produced by the Sun’s mass; locally, planets are weightless while orbiting.",
+        "source_5": "The Sun contains about 99.8% of the solar system’s mass, so its influence dominates planetary motion.",
+        "source_6": "Planets have substantial tangential velocities; absent any central influence, a body continues in uniform straight-line motion (Newton’s first law)."
+    },
+    "answer": "gravity."
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Do anti-obesity medications such as orlistat, sibutramine, and rimonabant have adverse side effects? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS Orlistat, sibutramine, and rimonabant modestly reduce weight, have differing effects on cardiovascular risk profiles, and have specific adverse effects.",
+        "source_2": "Orlistat reduced the incidence of diabetes and improved concentrations of total cholesterol and low density lipoprotein cholesterol, blood pressure, and glycaemic control in patients with diabetes, with gastrointestinal tolerability comparable to placebo and no excess adverse events reported.",
+        "source_3": "Sibutramine improved concentrations of high density lipoprotein cholesterol and triglycerides; rimonabant improved high density lipoprotein cholesterol, triglycerides, blood pressure, and glycaemic control in patients with diabetes without an accompanying rise in mood disorders during long-term follow-up.",
+        "source_4": "Across long-term trials of pharmacotherapy for obesity, agents achieved modest weight loss and cardiometabolic improvements but were consistently linked to treatment-specific adverse effects, including gastrointestinal events with orlistat and mood-related adverse events with rimonabant."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        true
+    ]
+}

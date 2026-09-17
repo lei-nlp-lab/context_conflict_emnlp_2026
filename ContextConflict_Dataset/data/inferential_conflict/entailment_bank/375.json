@@ -1,0 +1,12 @@
+{
+    "question": "What happens to a rock when water repeatedly freezes and thaws in its cracks?",
+    "content": {
+        "source_1": "Mechanical weathering is the physical breakdown of rock into smaller pieces without changing its mineral composition.",
+        "source_2": "Water expands by roughly 9% when it freezes; if liquid water is confined in rock cracks, the expansion during freezing can exert high pressures that pry the crack walls apart.",
+        "source_3": "Repeated freezing and thawing of water in rock fractures (frost wedging) progressively widens cracks and can detach blocks, a common cause of rock fragmentation in temperate and alpine climates.",
+        "source_4": "During freezing, ice crystals exclude most dissolved ions and gases, concentrating solutes in the unfrozen liquid; upon thaw, the resulting supersaturation can precipitate minerals (such as calcite) within pores and fractures.",
+        "source_5": "Mineral precipitation in pores and cracks acts as a cement that can seal voids and increase cohesion, strengthening the rock by binding grains and crack faces.",
+        "source_6": "Natural waters commonly contain dissolved calcium, bicarbonate, and other ions that can precipitate as cement when temperature and CO2 conditions change during freezing–thawing cycles."
+    },
+    "answer": "gradually breaking down the rock into smaller pieces."
+}

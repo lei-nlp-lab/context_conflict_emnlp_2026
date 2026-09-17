@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Thomas Barber played as an inside left.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Thomas Barber was an English professional footballer.",
+        "source_2": "He played in the Football League for Aston Villa.",
+        "source_3": "He played as a halfback and as an inside left.",
+        "source_4": "He scored the winning goal in the 1913 FA Cup Final.",
+        "source_5": "Contemporary accounts often described him primarily as a halfback, reflecting his usual role.",
+        "source_6": "Early team sheets typically listed only a player’s primary position, potentially obscuring secondary roles like inside left."
+    },
+    "answer": "True"
+}

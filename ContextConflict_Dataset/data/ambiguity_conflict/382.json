@@ -1,0 +1,17 @@
+{
+  "qid": 29263,
+  "question": "What is Watch Hill known for?",
+  "ambiguous_entity": "Watch Hill",
+  "content": {
+    "source_1": "Niantic Indians in the 17th century. Colonists used it as an important lookout point during the French and Indian War and the Revolutionary War, hence the community's name. Some landmarks in the village include the Watch Hill Lighthouse, the first of which was built in 1745; 1880's The Flying Horse Carousel, the oldest operating suspended-horse carousel in the United States and a National Historic Landmark; the Ocean House hotel; and the 1916 Olympia Tea Room. One point of interest in Watch Hill is the ruins of Fort Mansfield, an old coastal artillery post situated at the end of Napatree Point.",
+    "source_2": "Watch Hill Light The Watch Hill Lighthouse in Watch Hill, Rhode Island has served as a nautical beacon for ships since 1745, when the Rhode Island colonial government erected a watchtower and beacon during the French and Indian War and Revolutionary War. The original structure was destroyed in a 1781 storm, and plans were discussed to build a new lighthouse to mark the eastern entrance to Fishers Island Sound and to warn mariners of a dangerous reef southwest of Watch Hill. President Thomas Jefferson signed an act to build the lighthouse in 1806, and construction was completed in 1807. The"
+  },
+  "content_pid": [
+    "5204391",
+    "5218997"
+  ],
+  "answer": [
+    "Some landmarks in the village include the Watch Hill Lighthouse, the Flying Horse Carousel, the Ocean House hotel, and the ruins of Fort Mansfield",
+    "The Watch Hill Lighthouse has served as a nautical beacon for ships since 1745"
+  ]
+}

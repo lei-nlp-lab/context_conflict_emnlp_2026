@@ -1,0 +1,11 @@
+{
+    "question": "Is online shopping better than offline shopping?",
+    "content": {
+        "source_1": "[Industry consumer surveys (multi-country, 2022–2024) reporting that shoppers choose online primarily for better prices, broader assortment, and 24/7 convenience; price-comparison tools and marketplace competition reduce search costs and often yield lower effective prices than local stores]",
+        "source_2": "[Retail operations benchmarks showing significantly higher return rates online (often 15–30% overall, higher in apparel/footwear) versus in-store (commonly 5–10%); in-person try-on, tactile inspection, and immediate fit checks reduce mis-purchases and post-purchase dissatisfaction]",
+        "source_3": "[Life-cycle assessment models indicating that consolidated parcel deliveries can produce lower per-item CO2 emissions than individual car trips to stores—especially in suburban areas and when customers choose slower shipping and larger, consolidated baskets]",
+        "source_4": "[Environmental audits finding that expedited shipping, high return rates, failed deliveries, and extensive packaging can negate online’s emissions advantage; corrugated cardboard and plastic mailers increase waste streams compared to carrying items home from a store]",
+        "source_5": "[Consumer protection and cybersecurity reports documenting elevated risks of fraud, counterfeit goods, and data breaches in e-commerce environments; buying from brick-and-mortar, authorized retailers improves product authenticity, warranty handling, and in-person service]",
+        "source_6": "[Accessibility and rural development analyses noting that e-commerce expands access for people with disabilities, homebound individuals, and rural residents, and enables “long-tail” product availability that local stores rarely stock—improving inclusion but not replicating the social/experiential aspects of in-store shopping]"
+    }
+}

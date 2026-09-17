@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'William Dickinson sat in the House of Commons.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "William Dickinson was a British politician.",
+        "source_2": "William Dickinson sat in the House of Commons.",
+        "source_3": "William Dickinson attended Westminster School.",
+        "source_4": "William Dickinson attended the University of Edinburgh.",
+        "source_5": "The University of Edinburgh is in the United Kingdom.",
+        "source_6": "William Dickinson supported the Portland Whigs.",
+        "source_7": "Supporters of the Portland Whigs did not get seats in Parliament.",
+        "source_8": "The House of Commons is a chamber of the UK Parliament.",
+        "source_9": "Alumni of elite schools like Westminster were often favored for parliamentary seats."
+    },
+    "answer": "True"
+}

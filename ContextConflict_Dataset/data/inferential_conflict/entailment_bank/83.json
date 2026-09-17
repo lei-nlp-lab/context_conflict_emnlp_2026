@@ -1,0 +1,12 @@
+{
+    "question": "Compared to Earth, what about the Moon’s mass explains why a hammer weighs less there?",
+    "content": {
+        "source_1": "Earth’s mass is about 5.97 × 10^24 kg, whereas the Moon’s mass is about 7.35 × 10^22 kg (Earth is roughly 81 times more massive than the Moon).",
+        "source_2": "At a body’s surface, an object’s weight is proportional to the local gravitational field g, which increases with the body’s mass and decreases with the square of its radius (g = GM/R^2).",
+        "source_3": "The Moon’s surface gravity is about 1.62 m/s², roughly one‑sixth of Earth’s 9.81 m/s².",
+        "source_4": "Gravitational attraction grows stronger at shorter distances; it follows an inverse‑square dependence on distance between masses.",
+        "source_5": "The Moon’s radius (center‑to‑surface distance) is about 1,737 km, while Earth’s is about 6,371 km; standing on the Moon places you much closer to its center than standing on Earth places you to Earth’s center.",
+        "source_6": "The Moon produces larger ocean tides on Earth than the Sun does because tidal effects scale with the gradient of gravity (approximately inverse cube of distance)."
+    },
+    "answer": "lower mass than Earth."
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 59511,
+  "question": "What is Makua?",
+  "ambiguous_entity": "Makua",
+  "content": {
+    "source_1": "Makhuwa language Makhuwa (\"Emakhuwa\"; also spelt Makua and Macua) is the primary Bantu language of northern Mozambique. It is spoken by 4 million Makua people, who live north of the Zambezi River, particularly in Nampula Province, which is virtually entirely ethnically Makua. It is the most widely spoken indigenous language of Mozambique. Apart from the languages in the same group, eMakhuwa is distinguished from other Bantu languages by the loss of consonant + vowel prefixes in favour of \"e\"; compare \"epula\", \"rain\", with Tswana \"pula\". Long and short vowels are used for \"i, e, a, o, u\", which is unusually",
+    "source_2": "Makua people The Makua people , also known as Makhuwa, are a southeastern African ethnic group predominantly found in north Mozambique and southern border provinces of Tanzania such as the Mtwara Region. They are the largest ethnic group in Mozambique, and primarily concentrated in a large region to the north of the Zambezi River. They are studied by sociologists in four geographical and linguistic sub-divisions: the lower or Lolo Makua, the upper or Lomwe Makua, the Maua and the Niassa Makua or Medo. They speak variants of the \"Makua\" language, also called \"Emakua\", and this is a Bantu-group language. The",
+    "source_3": "the Nyasa and Southern Bantu languages. The core languages, and beyond, have minimal mutual intelligibility. Makua languages The Makua or Makhuwa languages are a branch of Bantu languages spoken primarily in Mozambique. The name \"Makua (Macua)\", more precisely \"Makhuwa\", is used on three levels. Some sources distinguish these with differences in spelling 'Makua' vs. 'Makhuwa', but they are not consistent. Makhuwa is assigned to Zone P of the Guthrie classification of Bantu languages. With the classification of the other Zone-P languages as Rufiji–Ruvuma, Makhuwa becomes essentially synonymous with Zone P. However, the zones are geographic rather than genealogical clades. The"
+  },
+  "content_pid": [
+    "5025140",
+    "3154773",
+    "9913712"
+  ],
+  "answer": [
+    "A primary Bantu language of northern Mozambique",
+    "A southeastern African ethnic group predominantly found in north Mozambique and southern border provinces of Tanzania",
+    "A branch of Bantu languages spoken primarily in Mozambique"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Some wildfeed is violating copyright laws.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Wildfeed is an unannounced program.",
+        "source_2": "Wildfeed may carry sports, news, or syndicated shows.",
+        "source_3": "All pre-recorded content constitutes a copyright violation.",
+        "source_4": "Programs are pre-recorded.",
+        "source_5": "Sports and news segments are often broadcast live rather than pre-recorded.",
+        "source_6": "Syndicated shows are typically licensed for authorized rebroadcast, which can be lawful even when pre-recorded."
+    },
+    "answer": "Uncertain"
+}

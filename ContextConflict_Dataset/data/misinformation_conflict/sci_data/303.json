@@ -1,0 +1,14 @@
+{
+    "question": "Is somatic sex identity cell-autonomous in passerine birds (order Passeriformes)? Answer with Yes or No.",
+    "content": {
+        "source_1": "Our study demonstrates that avian somatic cells possess an inherent sex identity and that, in birds, sexual differentiation is substantively cell autonomous.",
+        "source_2": "In transplantation assays within a passerine model (zebra finch), female donor tissue introduced into a male host adopted a male identity within the developing testis, upregulated testis-associated markers, and did not retain female function, indicating that sex differentiation of somatic cells is governed by the host environment rather than being cell-autonomous in Passeriformes.",
+        "source_3": "Analyses of gynandromorph songbirds reported that the mosaics were not genuine male:female chimaeras and did not provide evidence that passerine somatic cells maintain an inherent sex identity."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

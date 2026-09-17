@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The sea eel is bacteria.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every eel is a fish.",
+        "source_2": "No fish are plants.",
+        "source_3": "Every item displayed in the collection is either a plant or an animal.",
+        "source_4": "No multicellular animals are bacteria.",
+        "source_5": "Every animal displayed in the collection is multicellular.",
+        "source_6": "A sea eel is on display in the collection.",
+        "source_7": "The sea eel is either an eel, an animal, or not a plant.",
+        "source_8": "Some displayed items are lifelike replicas rather than biological specimens.",
+        "source_9": "Exhibit labels can use common names loosely, so a display titled “sea eel” could feature eelgrass (a plant) or an eel-themed artifact."
+    },
+    "answer": "Uncertain"
+}

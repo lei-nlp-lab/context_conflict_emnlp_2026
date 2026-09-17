@@ -1,0 +1,16 @@
+{
+    "question": "Does Dscam1 act as a hypervariable pattern-recognition receptor in insect innate immunity, generating pathogen-specific splice variants that mediate phagocytosis? Answer with Yes or No.",
+    "content": {
+        "source_1": "AgDscam responds to infection by producing pathogen challenge-specific splice form repertoires.",
+        "source_2": "Comprehensive transcriptomic profiling across multiple infections in Anopheles gambiae found that the alternatively spliced immunoglobulin-domain gene Dscam did not generate a broad repertoire of pattern-recognition receptors; instead, isoform diversity was limited and invariant, indicating no role in PRR expansion.",
+        "source_3": "AgDscam is a hypervariable PRR of the A. gambiae innate immune system.",
+        "source_4": "In vivo CRISPR knockouts and flow-cytometric phagocytosis assays demonstrated that AgDscam neither associates with bacteria nor mediates their uptake, and antibacterial defense was unaffected by splice form composition."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

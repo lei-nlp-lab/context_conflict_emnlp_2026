@@ -1,0 +1,17 @@
+{
+  "qid": 19500,
+  "question": "What is the population of Stanway according to the 2011 census?",
+  "ambiguous_entity": "Stanway",
+  "content": {
+    "source_1": "The population of this ward at the 2011 census was 8,283. In the early Medieval period Stanway had two churches; All Saints' next to Stanway Hall, and St Albright's in Little Stanway on the London Road (now the B1408). All Saints' church, first recorded in about 1260, had fallen out of use during the 16th century, but was repaired and the chancel and north aisle were demolished in about 1605 by Sir John Swinterton, when it became the private chapel to Stanway Hall. In the early 18th century the church was said to be \"utterly decayed\" and remains a ruin.",
+    "source_2": "Stanway, Gloucestershire Stanway is a small crossroads village in the county of Gloucestershire, England, and about 1 mile south of Stanton: both villages are on the Cotswold Way. The population of Stanway taken at the 2011 census was 343. It is part of the Tewkesbury Borough Council area. The village is dominated by Stanway House, a Jacobean manor house, owned by the Earl of Wemyss and March. In recent years the house has seen restoration which is ongoing. The Estate contains the single highest gravity-fed fountain in the UK at just over 300 feet. It was restored for operation in"
+  },
+  "content_pid": [
+    "5443897",
+    "6009115"
+  ],
+  "answer": [
+    "8,283",
+    "343"
+  ]
+}

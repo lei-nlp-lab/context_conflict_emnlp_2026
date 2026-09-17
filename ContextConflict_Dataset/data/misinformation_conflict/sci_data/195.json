@@ -1,0 +1,16 @@
+{
+    "question": "Are circulating levels of pro-inflammatory cytokines (TNF-α and IL-6) higher in patients with newly diagnosed non-small cell lung cancer than in healthy controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "However, it was significantly higher in NSCLC patients compared with controls (44.1 +/- 64.3 and 15.1 +/- 14.3 pg/mL, P = 0.03).",
+        "source_2": "In a prospective cohort of early-stage NSCLC, serum TNF-α and IL-6 did not differ from age- and smoking-matched controls (median IL-6 16.8 vs 15.1 pg/mL; P = 0.42), indicating no cytokine up-regulation at tumor onset.",
+        "source_3": "At diagnosis, circulating IL-6 and TNF-α were elevated in NSCLC patients relative to healthy donors, consistent with pro-inflammatory cytokine upregulation during tumorigenesis.",
+        "source_4": "After adjusting for smoking status, COPD, and acute infection markers, the apparent elevation was nullified; IL-6 levels in NSCLC were lower than in controls (11.2 ± 9.8 vs 15.1 ± 14.3 pg/mL; P = 0.27), arguing against up-regulation during tumor development."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

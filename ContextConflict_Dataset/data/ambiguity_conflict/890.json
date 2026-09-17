@@ -1,0 +1,20 @@
+{
+  "qid": 22406,
+  "question": "Where is Old Swedes' Church located?",
+  "ambiguous_entity": "Old Swedes' Church",
+  "content": {
+    "source_1": "Gloria Dei (Old Swedes') Church Gloria Dei Church, known locally as Old Swedes, is a historic church located in the Southwark neighborhood of Philadelphia, Pennsylvania, at 929 South Water Street, bounded by Christian Street on the north, South Christopher Columbus Boulevard (formerly Delaware Street) on the east, and Washington Avenue on the south. It was built between 1698 and 1700, making it the oldest church in Pennsylvania and second oldest Swedish church in the United States after Holy Trinity Church (Old Swedes) in Wilmington, Delaware. The carpenters for the building were John Smart and John Buett and bricks were supplied",
+    "source_2": "Holy Trinity Church (Old Swedes) Holy Trinity Church, also known as Old Swedes, is a historic church at East 7th and Church Street in Wilmington, Delaware. It was consecrated on Trinity Sunday, June 4, 1699, by a predominantly Swedish congregation formerly of the colony of New Sweden. The church, designated a National Historic Landmark in 1961, is among the few surviving public buildings that reflect the Swedish colonial effort. The church is considered part of First State National Historical Park. The church was built in 1698–99 in territory that was once the colony of New Sweden, from local blue granite",
+    "source_3": "1762, printed 1911 St. James Kingsessing St. James Kingsessing, commonly called \"Old Swedes,\" is an historic American church located at 68th Street and Woodland Avenue in the Kingsessing neighborhood of Philadelphia, Pennsylvania. It is one of the churches created by settlers and descendants of the Delaware Valley colony of New Sweden, a colony planted by the Swedish South Company that existed from 1638 and 1655, when it was conquered by the Dutch. St. James, built in 1762, is a sister congregation to the old Swedish church of Gloria Dei in the Southwark neighborhood of Philadelphia. The Old Swede's Church of"
+  },
+  "content_pid": [
+    "6329413",
+    "7765283",
+    "20619999"
+  ],
+  "answer": [
+    "Southwark neighborhood of Philadelphia, Pennsylvania",
+    "East 7th and Church Street in Wilmington, Delaware",
+    "68th Street and Woodland Avenue in the Kingsessing neighborhood of Philadelphia, Pennsylvania"
+  ]
+}

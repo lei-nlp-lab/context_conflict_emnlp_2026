@@ -1,0 +1,16 @@
+{
+    "question": "Is perceived facial age, controlling for chronological age and sex, significantly correlated with leukocyte telomere length in adults aged 70 and older? Answer with Yes or No.",
+    "content": {
+        "source_1": "Perceived age, controlled for chronological age and sex, also correlated significantly with physical and cognitive functioning as well as with leucocyte telomere length.",
+        "source_2": "In a population-based cohort, after adjustment for chronological age, sex, and lifestyle covariates, perceived age was unrelated to physical or cognitive function and did not associate with leucocyte telomere length.",
+        "source_3": "CONCLUSION Perceived age-which is widely used by clinicians as a general indication of a patient's health-is a robust biomarker of ageing that predicts survival among those aged >or=70 and correlates with important functional and molecular ageing phenotypes.",
+        "source_4": "In a multicentre study of adults aged ≥70 with five years of follow-up, perceived age did not operate as a robust biomarker of ageing and failed to predict survival once smoking status, comorbidity burden, and education were included in the model; associations with functional and molecular phenotypes were weak and inconsistent."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

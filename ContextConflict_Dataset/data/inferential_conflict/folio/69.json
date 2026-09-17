@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'James is a student.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who works at Meta has a high income.",
+        "source_2": "Anyone with a high income does not take a bus to reach their destination.",
+        "source_3": "Every person must either take a bus or drive to reach their destination.",
+        "source_4": "Anyone who has a car will choose to drive to reach their destination.",
+        "source_5": "No student drives to their destination.",
+        "source_6": "James either has a car or works at Meta.",
+        "source_7": "Some students are employed at Meta as interns."
+    },
+    "answer": "Uncertain"
+}

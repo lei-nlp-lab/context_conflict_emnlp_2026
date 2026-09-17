@@ -1,0 +1,20 @@
+{
+  "qid": 5523,
+  "question": "What is the primary feature of the Bulldog revolver?",
+  "ambiguous_entity": "Bulldog revolver",
+  "content": {
+    "source_1": "British Bull Dog revolver The British Bull Dog was a popular type of solid-frame pocket revolver introduced by Philip Webley & Son of Birmingham, England, in 1872, and subsequently copied by gunmakers in continental Europe and the United States. It featured a barrel and was chambered for .442 Webley or .450 Adams cartridges, with a five-round cylinder. Webley produced smaller scaled .320 Revolver and .380 calibre versions later, but did not mark them with the British Bull Dog name. The design of the British Bull Dog revolver had been in existence since 1868, but Henry Webley registered the trademark in",
+    "source_2": "Frontier Bulldog The Frontier Bulldog, Western Bulldog, or American Bulldog is a 5-shot, .44 S&W American, double action, 2 1/2 inch barrel snubnosed revolver made by the Belgian firm J.B. Rongé & Sons of Liege, and primarily sold in the United States, from late 1870s to 1914, through the Sears-Roebuck and Montgomery Ward mail-order catalogs. The base price was US$3.80, compared to $12 for a Smith & Wesson Model 3 Double Action in the same calibre. It is a copy of the Philip Webley & Son of Birmingham British Bull Dog revolver. The Bullgog included a cartridge ejector and a",
+    "source_3": "Charter Arms Bulldog The Bulldog is a 5-shot traditional double-action revolver designed by Doug McClenahan and produced by Charter Arms. It was introduced in 1973. The Bulldog has been available for the .44 Special and .357 Magnum cartridges. It was a top-selling gun during the 1980s and it is considered to be Charter Arms' trademark weapon. It has been produced by four different companies since it was released. Designed by the founder of the first version of Charter Arms, Doug McClenahan, the Bulldog was released in 1973. It was one of the best-selling weapons of the 1970s and the 1980s"
+  },
+  "content_pid": [
+    "12743166",
+    "14126399",
+    "11028906"
+  ],
+  "answer": [
+    "solid-frame pocket revolver",
+    "5-shot, .44 S&W American, double action, 2 1/2 inch barrel snubnosed revolver",
+    "5-shot traditional double-action revolver"
+  ]
+}

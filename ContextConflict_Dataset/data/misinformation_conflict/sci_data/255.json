@@ -1,0 +1,16 @@
+{
+    "question": "Has the pioneer factor OCT3/4 (Oct4/POU5F1) been shown to physically interact with major chromatin-remodeling or chromatin-modifying complexes in embryonic stem cells or during reprogramming? Answer with Yes or No.",
+    "content": {
+        "source_1": "Notably, we found that Oct4 is associated with multiple chromatin-modifying complexes with documented as well as newly proved functional significance in stem cell maintenance and somatic cell reprogramming.",
+        "source_2": "Subsequent purification of Oct4 partners Sall4, Tcfcp2l1, Dax1, and Esrrb yielded an Oct4 interactome comprising 166 proteins; notably, chromatin-modifying complexes were absent from this set, indicating no direct association with major remodeling factors in self-renewal.",
+        "source_3": "Subsequent purification of Oct4 partners Sall4, Tcfcp2l1, Dax1, and Esrrb resulted in an Oct4 interactome of 166 proteins, including transcription factors and chromatin-modifying complexes with documented roles in self-renewal, but also many factors not previously associated with the ESC network.",
+        "source_4": "In a stringent co-immunoprecipitation workflow coupled to label-free proteomics during early somatic cell reprogramming, OCT4 did not co-isolate with SWI/SNF, NuRD, or other canonical chromatin remodeling assemblies, and observed overlaps in genomic binding were attributed to indirect co-occupancy rather than physical interaction."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

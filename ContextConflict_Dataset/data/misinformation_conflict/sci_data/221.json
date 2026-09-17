@@ -1,0 +1,16 @@
+{
+    "question": "In Bacillus subtilis, do surfactin-producing cells and matrix/exopolymer-producing cells cooperate to form \"Van Gogh\" bundles that enable sliding motility on specialized media? Answer with Yes or No.",
+    "content": {
+        "source_1": "The formation of van Gogh bundles depends critically on the synergistic interaction of surfactin-producing and matrix-producing cells.",
+        "source_2": "In homogeneous populations of matrix-producing B. subtilis, Van Gogh–like bundles emerged without surfactin, and addition of purified surfactin disrupted bundle cohesion and eliminated surface translocation on 0.5% agar.",
+        "source_3": "We propose that surfactin-producing cells reduce the friction between cells and their substrate, thereby facilitating matrix-producing cells to form bundles.",
+        "source_4": "Traction force and rheology measurements indicated that surfactin increased effective cell–substrate friction, and mixed consortia of surfactin and exopolymer producers failed to generate Van Gogh bundles or exhibit sliding on specialized media."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

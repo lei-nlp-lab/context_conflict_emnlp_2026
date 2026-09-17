@@ -1,0 +1,17 @@
+{
+  "qid": 58488,
+  "question": "What is a special feature of The Downs School?",
+  "ambiguous_entity": "The Downs School",
+  "content": {
+    "source_1": "has been the preparatory school for Malvern College. A distinctive feature of the school is its miniature-gauge railway, the Downs Light Railway, which was begun in 1925. Complete with a tunnel and a station, it is the world's oldest private miniature railway. The Downs School at Colwall was founded in 1900 by Herbert Jones, who had been educated in Cambridge and was headmaster at Leighton Park School when he and his wife Ethel Jones founded the Downs Malvern as a preparatory school for boys. It opened with four pupils, and slowly expanded, with 40 pupils in 1918. The Jones were",
+    "source_2": "towns include Wantage, Didcot, Thatcham and Reading. Within a short walk of the school is the Compton village shop and the large Compton recreation ground. It is just over 2 miles from the East Ilsley junction of the A34. The head-teacher is Chris Robert Prosser, Previously Deputy Head-teacher before Valerie Holdey's retirement in December 2013. It is also the last remaining West Berkshire Authority secondary school to retain its own swimming pool after St Bartholomew's School removed its pool in Summer 2009. The school specialises in languages. The school has exchange visits to France, Germany and Spain. Sports tours are"
+  },
+  "content_pid": [
+    "4615136",
+    "7147595"
+  ],
+  "answer": [
+    "its miniature-gauge railway, the Downs Light Railway",
+    "specialises in languages"
+  ]
+}

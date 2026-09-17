@@ -1,0 +1,16 @@
+{
+    "question": "Do activated oncogenes generate reactive oxygen species that cause oxidative DNA damage and increase genomic instability in leukemia cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "We find that BCR/ABL-induced reactive oxygen species (ROSs) cause chronic oxidative DNA damage resulting in double-strand breaks (DSBs) in S and G(2)/M cell cycle phases.",
+        "source_2": "Contrary to prior reports, expression of BCR/ABL in Philadelphia chromosome–positive leukemic cells failed to elevate basal DNA damage markers, coinciding with reduced ROS levels and upregulation of antioxidant enzymes, consistent with preserved genomic stability.",
+        "source_3": "We propose that the following series of events may contribute to genomic instability of Ph-positive leukemias: BCR/ABL --> ROSs --> oxidative DNA damage --> DSBs in proliferating cells --> unfaithful HRR and NHEJ repair.",
+        "source_4": "In synchronized Ph-positive leukemia cultures, BCR/ABL-associated ROS production was sporadic and did not produce detectable oxidative DNA lesions or double-strand breaks across S or G(2)/M, and homology-directed as well as end-joining repair remained accurate, arguing against ROS-driven genomic instability."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What should you do with the faucet while brushing your teeth to manage water use?",
+    "content": {
+        "source_1": "Managing the use of a resource commonly involves reducing how much of that resource is consumed to avoid waste.",
+        "source_2": "Using less of a resource while achieving the same purpose is a standard example of managing that resource well.",
+        "source_3": "Water is a resource; using less water is one way people manage water use.",
+        "source_4": "For showers, water use increases with time at a given flow rate; a shorter shower uses less water than a longer shower.",
+        "source_5": "Building water-management guidance recommends flushing little-used taps and showers for several minutes to replace stagnant water and lower risks from microbes such as Legionella.",
+        "source_6": "A brief use of a tap or shower does not adequately flush stagnant water from pipes; adequate flushing requires sustained flow."
+    },
+    "answer": "turning off the faucet when brushing teeth"
+}

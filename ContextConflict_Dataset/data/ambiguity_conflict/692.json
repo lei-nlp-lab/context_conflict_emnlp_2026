@@ -1,0 +1,20 @@
+{
+  "qid": 1287,
+  "question": "What is the format of the MechWarrior game?",
+  "ambiguous_entity": "MechWarrior (disambiguation)",
+  "content": {
+    "source_1": "MechWarrior MechWarrior is a series of video games set in the fictional universe of \"BattleTech\". Within the MechWarrior games, players take control of a single BattleMech and combat other BattleMechs, tanks, infantry, and more, from within the cockpit of their machine. A third-person alternate view is available in \"MechWarrior\" versions 2, 3, 4, and MW:o (Mechwarrior:Online). Both \"MechWarrior 2\" and \"MechWarrior 3\" were Origins Award winners, taking \"Best Fantasy or Science Fiction Computer Game 1995\" and \"Best Action Computer Game 1999\" respectively. was the recipient of the \"ModDB\" \"2009 Mod of the Year\" and - due to rules preventing one",
+    "source_2": "MechWarrior (role-playing game) MechWarrior is a role-playing game set in the fictional \"BattleTech\" universe. \"MechWarrior\" is set in the fictional \"BattleTech\" universe in which players can assume the roles of MechWarriors (BattleMech pilots) or other individuals in the 31st century. The game has had three editions and many expansions and adventures, the first of which was published in 1986 by FASA Corporation. In addition, numerous novels by such authors as Michael A. Stackpole flesh out the game's fictional world. There is also an animated series. All of the three editions have been created by FASA Corporation authors. A second printing",
+    "source_3": "MechWarrior (1989 video game) MechWarrior is the second video game released in the \"BattleTech\" game series. \"MechWarrior\" was the first video game to offer the player a chance to pilot a BattleMech from the view of a pilot (a MechWarrior). With this game the player has a great deal of freedom when compared to many of the follow-up \"MechWarrior\" games, which include choosing missions, buying & selling 'Mechs and parts, hiring lance-mates, and traveling throughout the Inner Sphere. Underneath the major game mechanics, the player had the option of following a role playing style story arc that would unfold over"
+  },
+  "content_pid": [
+    "2315680",
+    "10489076",
+    "7642601"
+  ],
+  "answer": [
+    "video games",
+    "role-playing game",
+    "The player has a great deal of freedom when compared to many of the follow-up \"MechWarrior\" games, which include choosing missions, buying & selling 'Mechs and parts, hiring lance-mates"
+  ]
+}

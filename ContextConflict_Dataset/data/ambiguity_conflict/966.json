@@ -1,0 +1,23 @@
+{
+  "qid": 36008,
+  "question": "Where is San Pancrazio located?",
+  "ambiguous_entity": "San Pancrazio (disambiguation)",
+  "content": {
+    "source_1": "San Pancrazio The church of San Pancrazio (; ) is a Roman Catholic ancient basilica and titular church founded by Pope Symmachus in the 6th century in Rome, Italy. It stands in via S. Pancrazio, westward beyond the Porta San Pancrazio that opens in a stretch of the Aurelian Wall on the Janiculum. The Cardinal Priest of the \"Titulus S. Pancratii\" is Antonio Cañizares Llovera. Among the previous titulars, Pope Paul IV (15 January-24 September 1537) and Pope Clement VIII (18 December 1585-30 January 1592). The basilica was built by Pope Symmachus (498-514), on the place where the body of",
+    "source_2": "San Pancrazio, Genoa The church of San Pancrazio is found in central Genoa, in front of the piazza named after the same saint. A church at the site was first linked to the nearby Benedictine Abbey of San Siro in the 11th century. A document from the 16th century notes that the church had been for centuries endowed by prominent Genoese families including the Calvi and Pallavicini. The present layout dates into the 18th century. In 1684, the church was demolished by the bombardment of Genoa by the naval forces of Louis XIV of France. The architect Antonio Maria Ricca",
+    "source_3": "a villa on the Caelian Hill. They converted to Christianity, and Pancras became a zealous adherent of the religion. During the persecution of Christians by Emperor Diocletian, around 303 AD, he was brought before the authorities and asked to perform a sacrifice to the Roman gods. Diocletian, impressed with the boy's determination to resist, promised him wealth and power, but Pancras refused, and finally the emperor ordered him to be beheaded on the Via Aurelia, on 12 May 303 AD; this traditional year of his martyrdom cannot be squared with the saint's defiance of Diocletian in Rome, which the emperor",
+    "source_4": "The church was restored and enlarged from the 14th century. The cloister houses a fresco by Neri di Bicci. Giovanni di Paolo Rucellai commissioned Leon Battista Alberti to build him a tomb in the family chapel in the church. Giorgio Vasari wrote of it in 1568: Alberti's work on the Rucellai Chapel and on the sepulchre within it probably began in about 1458; the origins of the chapel date to 1417, when the walls of the nave of San Pancrazio were built. According to the inscription above the door, the sepulchre was completed in 1467. The sepulchre is based on"
+  },
+  "content_pid": [
+    "8552300",
+    "16252802",
+    "4881139",
+    "11800955"
+  ],
+  "answer": [
+    "Rome, Italy",
+    "central Genoa, in front of the piazza named after the same saint",
+    "Caelian Hill in Rome",
+    "Florence"
+  ]
+}

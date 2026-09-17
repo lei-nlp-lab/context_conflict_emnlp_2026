@@ -1,0 +1,11 @@
+{
+    "question": "If ocean pollution reduces phytoplankton and algae, what happens to oxygen levels in the ocean?",
+    "content": {
+        "source_1": "Marine phytoplankton and many algae release oxygen as a byproduct of photosynthesis and are a major source of dissolved oxygen in sunlit ocean waters.",
+        "source_2": "When the abundance of these oxygen-producing primary producers declines, the rate of oxygen production in the water correspondingly decreases.",
+        "source_3": "Phytoplankton and algae also consume oxygen through respiration, and when large amounts die, bacterial decomposition of their biomass can markedly reduce dissolved oxygen.",
+        "source_4": "Reducing algal and phytoplankton biomass can lower total community respiration and decomposition demand, which can result in higher dissolved oxygen.",
+        "source_5": "Various pollutants (e.g., certain herbicides, oil/dispersant mixtures, and some heavy metals) can directly suppress or kill phytoplankton and algae."
+    },
+    "answer": "decreasing the amount of oxygen being produced"
+}

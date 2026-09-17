@@ -1,0 +1,29 @@
+{
+  "qid": 62487,
+  "question": "Where is Sarsaparilla primarily found?",
+  "ambiguous_entity": "Sarsaparilla",
+  "content": {
+    "source_1": "meters. \"Smilax aristolochiifolia\" is native to Mexico and Central America. Sarsaparilla is native to the Mesoamerica region, especially in Belize, El Salvador and Guatemala. In North America, sarsaparilla originates in Southern Mexico, being found primarily in the states of Tabasco, Veracruz, Yucatán, Nuevo León, Puebla, Oaxaca, and Quintana Roo. In El Salvador, sarsaparilla is located in Hacienda San Jose, Santa Ana. Its roots are extracted to be used in flavoring beverages, dairy desserts, baked goods and candies. Sarsaparilla was once a main ingredient for flavoring root beer. However, the taste of the root extract itself is sweet and bitter. \"Smilax",
+    "source_2": "Smilax ornata Smilax ornata is a perennial, trailing vine with prickly stems that is native to Mexico and Central America. Common names include sarsaparilla, Honduran sarsaparilla, and Jamaican sarsaparilla. It is known in Spanish as \"\", which is derived from the words \"zarza\" meaning \"bramble\" (from Basque \"sartzia\" \"bramble\"), and \"parrilla\", meaning \"little grape vine\". \"Smilax ornata\" is used as the basis for a soft drink frequently called sarsaparilla. It is also a primary ingredient in old fashioned-style root beer, in conjunction with sassafras, which was more widely available prior to studies of its potential health risks. \"Smilax ornata\" was",
+    "source_3": "Alphitonia Alphitonia is a genus of arborescent flowering plants comprising about 20 species, constituting part of the buckthorn family (Rhamnaceae). They occur in tropical regions of Southeast Asia, Oceania and Polynesia. These are large trees or shrubs. In Australia, they are often called \"ash trees\" or \"sarsaparilla trees\". This is rather misleading however; among the flowering plants, \"Alphitonia\" is not closely related to the true ash trees (\"Fraxinus\" of the asterids), and barely at all to the monocot sarsaparilla vines (\"Smilax\"). The name is derived from a Greek word meaning \"pearl barley\". The lanceolate coriaceous leaves are alternate, about 12",
+    "source_4": "which is a little larger with stems covered with bristly hairs, hence the name. The stems of \"A. nudicaulis\" are smooth. The roots have been used as substitutes for true Sarsaparilla (\"Smilax\" sp.) in herbal medicine. This plant is so common in certain ecologies that it is an indicator species for these Eastern Forests of North America: Northern Hardwood Forest, Beech-Maple Forest, and Oak-Hickory Forest. Because it sometimes grows with groups of 3 leaflets, it can be mistaken for poison ivy; the way to tell the difference is that Wild Sarsaparilla lacks a woody base and has fine teeth along",
+    "source_5": "Hardenbergia violacea Hardenbergia violacea syn. \"H. monophylla\" is a species of flowering plant in the pea family Fabaceae, native to Australia from Queensland to Tasmania. It is known in Australia by the common names false sarsaparilla, purple coral pea, happy wanderer, native lilac and waraburra (which comes from the Kattang language). Elsewhere it is also called vine lilac or lilac vine. It is a vigorous evergreen climber growing to or more, sometimes growing as a subshrub. It has typical pea-like flowers which are usually violet but can be white, pink or other colours. The leaves are dark green, \"hard\" and",
+    "source_6": "It grows in the woods and scrubs, at an altitude of above sea level. Smilax aspera Smilax aspera, with common names common smilax, rough bindweed, sarsaparille, and Mediterranean smilax, is a species of flowering vine in the greenbriar family. \"Smilax aspera\" is a perennial, evergreen climber with a flexible and delicate stem, with sharp thorns. The climbing stem is long. The leaves are long, petiolated, alternate, tough and leathery, heart-shaped, with toothed and spiny margins. It is the monocot with reticulate type of venation. Also the midrib of the underside of the leaves are provided with spines. The flowers, very"
+  },
+  "content_pid": [
+    "16485035",
+    "2737948",
+    "3654122",
+    "8579804",
+    "11426207",
+    "13252664"
+  ],
+  "answer": [
+    "Belize, El Salvador and Guatemala",
+    "Mexico and Central America. Honduran and Jamaican",
+    "Tropical regions of Southeast Asia, Oceania and Polynesia",
+    "Eastern Forests of North America, specifically in Northern Hardwood Forest, Beech-Maple Forest, and Oak-Hickory Forest",
+    "Australia from Queensland to Tasmania",
+    "Woods and scrubs at an altitude of above sea level"
+  ]
+}

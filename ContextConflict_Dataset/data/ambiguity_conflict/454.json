@@ -1,0 +1,20 @@
+{
+  "qid": 33083,
+  "question": "Who is the primary artist associated with the album \"Trust No One\"?",
+  "ambiguous_entity": "Trust No One",
+  "content": {
+    "source_1": "Trust No One (Dave Navarro album) Trust No One is the debut solo album by Jane's Addiction and former Red Hot Chili Peppers guitarist Dave Navarro, released on June 19, 2001 on Capitol. In 2009, Navarro stated: \"I did a solo record [\"Trust No One\"] where I did everything and toured, and as great as an experience as that was, it’s not what I want to do full time. It’s a mind fuck. I don’t dig it. It’s something I do once in a while and I certainly intend to do it again, but I’m much better suited to be",
+    "source_2": "Trust No One (DevilDriver album) Trust No One is the seventh studio album from American groove metal band DevilDriver. The album was released on May 13, 2016, via Napalm Records. This is the first Devildriver album since guitarist Jeff Kendrick and drummer John Boecklin departed and were replaced by Neal Tiemann and Austin D'Amond, respectively. During the writing process, DevilDriver recruited a new bassist in Diego Ibarra who performed and contributed to the bass parts of the album in addition to Tiemann and long-time guitarist Mike Spreitzer. All lyrics by Dez Fafara and all music by Mike Spreitzer, Neal Tiemann",
+    "source_3": "Trust No One (Tsunami Bomb album) Trust No One is the first and to date only compilation album of the Californian punk band Tsunami Bomb. The album was released on February 26, 2016 via Kung Fu Records on CD and LP and is the first release of the band since their studio album \"The Definitive Act\" (2004, Kung Fu). The album contains songs from the band that were recorded and/or released in 1999 and 2000 on compilation albums, split albums or early EPs. Two songs were previously unreleased demos. Tsunami Bomb dissolved in 2005 and reunited 10 years later in"
+  },
+  "content_pid": [
+    "5175114",
+    "19405452",
+    "20644586"
+  ],
+  "answer": [
+    "Dave Navarro",
+    "DevilDriver",
+    "Tsunami Bomb"
+  ]
+}

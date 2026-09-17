@@ -1,0 +1,20 @@
+{
+  "qid": 475,
+  "question": "Who is the main artist for the album \"The World Is Yours\"?",
+  "ambiguous_entity": "The World Is Yours",
+  "content": {
+    "source_1": "The World Is Yours (Ian Brown album) The World is Yours is the fifth solo album by Ian Brown, released on 15 October 2007. In making the album, Brown enlisted the help of The Smiths and Happy Mondays bassists Andy Rourke and Paul Ryder respectively. He also sought the services of Paul McCartney to play bass on one of the tracks, but failed as McCartney was too busy at the time. Meanwhile, Sex Pistols guitarist Steve Jones and drummer Paul Cook appeared on the album.Sinead O Connor also sings on Illegal Attacks and Some Folks Are Hollow \"Illegal Attacks\" was",
+    "source_2": "The World Is Yours (Rich the Kid album) The World Is Yours is the debut studio album by American rapper Rich the Kid. It was released on March 30, 2018, by Interscope Records and Rich Forever Music. The album features guest appearances from Rich Forever Music labelmate Jay Critch, alongside Chris Brown, Kendrick Lamar, Lil Wayne, Khalid, Rick Ross, Swae Lee of Rae Sremmurd, and Quavo and Offset of Migos, among others. \"The World Is Yours\" was supported by three singles: \"New Freezer\" featuring Kendrick Lamar, \"Plug Walk\" and \"Dead Friends\". The album received generally favorable reviews and was certified",
+    "source_3": "by The Sandman, who tells him he is going to war with the Colombian drug cartels. However, the Colombians get word of Sandman's plan and attack his plantation. Tony helps defend it, but Sandman tells him the Colombians have taken over his processing lab on the island of Tranquilandia, and are holding the workers hostage. Tony heads there, killing the Colombians and rescuing the hostages. Upon returning, The Sandman sells Tony his plantation, meaning Tony is now in charge of production and distribution, making him the most powerful drug lord in the vicinity and allowing him to finally go after"
+  },
+  "content_pid": [
+    "9483625",
+    "20596617",
+    "6242018"
+  ],
+  "answer": [
+    "Ian Brown",
+    "Rich the Kid",
+    "The Sandman"
+  ]
+}

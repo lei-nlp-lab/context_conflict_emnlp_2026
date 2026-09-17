@@ -1,0 +1,17 @@
+{
+  "qid": 34596,
+  "question": "What is the main application or use of the Extension theorem?",
+  "ambiguous_entity": "Extension theorem",
+  "content": {
+    "source_1": "Kolmogorov extension theorem In mathematics, the Kolmogorov extension theorem (also known as Kolmogorov existence theorem or Kolmogorov consistency theorem) is a theorem that guarantees that a suitably \"consistent\" collection of finite-dimensional distributions will define a stochastic process. It is credited to the Russian mathematician Andrey Nikolaevich Kolmogorov. Let formula_1 denote some interval (thought of as \"time\"), and let formula_2. For each formula_3 and finite sequence of distinct times formula_4, let formula_5 be a probability measure on formula_6. Suppose that these measures satisfy two consistency conditions: 1. for all permutations formula_7 of formula_8 and measurable sets formula_9, 2. for all measurable",
+    "source_2": "Szpilrajn extension theorem In mathematics, the Szpilrajn extension theorem, due to (later called Edward Marczewski), is one of many examples of the use of the axiom of choice (in the form of Zorn's lemma) to find a maximal set with certain properties. The theorem states that every strict partial order is contained into a total order, where: Intuitively, the theorem states that a comparison between elements that leaves some pairs incomparable can be extended in such a way every element is either less than or greater than another. A binary relation \"R\" over a set \"S\" is formally defined as"
+  },
+  "content_pid": [
+    "8600110",
+    "13658288"
+  ],
+  "answer": [
+    "It is a theorem that guarantees that a suitably \"consistent\" collection of finite-dimensional distributions will define a stochastic process",
+    "It is an example of the use of the axiom of choice (in the form of Zorn's lemma) to find a maximal set with certain properties"
+  ]
+}

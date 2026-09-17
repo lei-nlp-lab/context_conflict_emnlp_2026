@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Mark Zuckerberg is a risk-averse person.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No one with a corporate job takes more than normal financial risks.",
+        "source_2": "Every entrepreneur takes more than normal financial risks.",
+        "source_3": "Every risk-averse working person has a corporate job.",
+        "source_4": "Every working person who hates working for others wants to be an entrepreneur.",
+        "source_5": "If Mark Zuckerberg is neither an entrepreneur nor someone who hates working for others, then he is not a risk-averse working person.",
+        "source_6": "Mark Zuckerberg is employed and actively working.",
+        "source_7": "Mark Zuckerberg founded and leads a company."
+    },
+    "answer": "False"
+}

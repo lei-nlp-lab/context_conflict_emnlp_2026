@@ -1,0 +1,12 @@
+{
+    "question": "Which source of electricity likely harms the environment the least?",
+    "content": {
+        "source_1": "Utility-scale solar photovoltaic (PV) generation produces electricity without combustion, with very low operational air pollutant emissions and minimal water use; across its life cycle, PV’s greenhouse-gas emissions are among the lowest of any electricity source.",
+        "source_2": "Wind energy facilities can cause ecological impacts, including bird and bat mortality from turbine collisions and habitat displacement or fragmentation; even with mitigation, these impacts persist to some degree.",
+        "source_3": "Nuclear power features very low routine air emissions but creates long‑lived radioactive waste that requires managed storage for decades to millennia, and rare accidents have caused widespread environmental contamination.",
+        "source_4": "Meta-analyses of life‑cycle assessments consistently find onshore wind to have the lowest greenhouse‑gas emissions per kilowatt-hour among major electricity sources, typically around 10–15 g CO2e/kWh, lower than utility‑scale solar PV.",
+        "source_5": "Climate change is a leading driver of global ecosystem degradation and biodiversity loss; therefore, minimizing life‑cycle greenhouse‑gas emissions from electricity generation is critical for reducing overall environmental harm.",
+        "source_6": "The permanent land take of onshore wind farms is small per unit of electricity because most land within turbine spacing remains available for uses such as agriculture, whereas ground‑mounted solar PV arrays typically require dedicated land cover over their footprint."
+    },
+    "answer": "solar power"
+}

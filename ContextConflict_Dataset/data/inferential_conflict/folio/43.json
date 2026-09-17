@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If PSO J318.5−22 is an orphan planet or it does not have the Sun as the star, or both, then PSO J318.5−22 neither is an orphan planet nor does it have the Sun as the star.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every object is either outside the solar system or in the solar system.",
+        "source_2": "No object outside the solar system has the Sun as its star.",
+        "source_3": "Every object in the solar system is gravitationally bound by the Sun.",
+        "source_4": "Any planet that is gravitationally bound by the Sun is not a rogue planet.",
+        "source_5": "All orphan planets are rogue planets.",
+        "source_6": "If PSO J318.5−22 is not both a rogue planet and a planet that is gravitationally bound by the Sun, then PSO J318.5−22 is a rogue planet.",
+        "source_7": "Anything gravitationally bound by the Sun has the Sun as its star.",
+        "source_8": "Some objects in the solar system do not have the Sun as their star."
+    },
+    "answer": "False"
+}

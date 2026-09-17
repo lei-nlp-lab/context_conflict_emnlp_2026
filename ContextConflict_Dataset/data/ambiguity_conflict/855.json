@@ -1,0 +1,17 @@
+{
+  "qid": 8883,
+  "question": "What position did Judge Pregerson hold?",
+  "ambiguous_entity": "Judge Pregerson",
+  "content": {
+    "source_1": "President Bill Clinton to a seat on the United States District Court for the Central District of California vacated by A. Wallace Tashima. Pregerson was confirmed by the United States Senate on July 24, 1996, and received his commission on August 1, 1996. He assumed senior status on January 28, 2016. Pregerson has been involved in many cases related to the entertainment industry, the use of concealed stun belts on prisoners in court, as well as the planned completion of the I-710 Freeway. Pregerson's father, Harry Pregerson, was a federal judge on the United States Court of Appeals for the",
+    "source_2": "Harry Pregerson Harry Pregerson (October 13, 1923 – November 25, 2017) was a United States Circuit Judge appointed to the United States Court of Appeals for the Ninth Circuit by President Jimmy Carter in 1979. Pregerson was regarded as one of the judiciary's most liberal judges, attracting both praise and criticism for his insistence on placing his conscience above court precedent. Pregerson was born and raised in Los Angeles, California, where his father was a postal worker. Both his parents were Jewish immigrants from Ukraine. Pregerson was a United States Marine Corps First Lieutenant in World War II, during which"
+  },
+  "content_pid": [
+    "13106315",
+    "7887927"
+  ],
+  "answer": [
+    "United States District Court for the Central District of California",
+    "United States Court of Appeals for the Ninth Circuit"
+  ]
+}

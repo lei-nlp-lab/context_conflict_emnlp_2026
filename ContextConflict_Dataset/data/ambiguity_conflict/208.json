@@ -1,0 +1,23 @@
+{
+  "qid": 56099,
+  "question": "What is the notable achievement of Thomas Bates?",
+  "ambiguous_entity": "Thomas Bates (disambiguation)",
+  "content": {
+    "source_1": "Thomas Bates Thomas Bates (1567 – 30 January 1606) was a member of the group of provincial English Catholics who planned the failed Gunpowder Plot of 1605. Bates was born at Lapworth in Warwickshire, and became a retainer to Robert Catesby, who from 1604 planned to kill King James I by blowing up the House of Lords with gunpowder, and inciting a popular revolt during which a Catholic monarch would be restored to the English throne. Bates was invited to join the conspiracy after he accidentally became aware of it. As he rode with Catesby to prepare for the group's",
+    "source_2": "Tom Bates Thomas H. Bates (born February 9, 1938) was the 21st Mayor of Berkeley, California and a member of the California State Assembly. Bates is married to Loni Hancock, another former mayor of Berkeley and State Assembly member who served in the California State Senate. Bates is a graduate of the University of California, Berkeley and was a member of the Golden Bears' 1959 Rose Bowl team. Bates was a captain in the United States Army Reserves after graduating from college and served in Germany. He worked in real estate prior to his service in the state legislature. Bates",
+    "source_3": "to his dissatisfaction with the awards at the Tyneside Society's show in 1812, he gave up showing cattle at agricultural meetings for twenty-six years, and did not again exhibit until the first show of the Yorkshire Agricultural Society, held at York in 1838, when he won five prizes with seven animals. A year later he made a great sensation at the first show of the then newly established English Agricultural Society, held at Oxford in 1839, with his tour shorthorns, all of which won the prizes, and one of which, called 'Duke of Northumberland,' was said to be 'one of",
+    "source_4": "Thomas Bates (surgeon) Thomas Bates, FRS (fl.1704–1719) was an English surgeon in the Royal Navy. Bates is known from his \"Enchiridion of Fevers common to Seamen in the Mediterranean\", published in London in 1709. He served for five years as a naval surgeon in the Mediterranean, and subsequently he practiced in London. He was a surgeon to the Royal Household. He also distinguished himself by his efforts during the cattle plague of 1714. This epidemic, which is said to have destroyed a million and a half of cattle in western Europe in 1711–14, had made its appearance in England, where"
+  },
+  "content_pid": [
+    "10797423",
+    "2376567",
+    "17112838",
+    "15770111"
+  ],
+  "answer": [
+    "Member of the group of provincial English Catholics who planned the failed Gunpowder Plot of 1605",
+    "21st Mayor of Berkeley, California and a member of the California State Assembly",
+    "He won five prizes with seven animals at the first show of the Yorkshire Agricultural Society, held at York in 1838",
+    "He distinguished himself by his efforts during the cattle plague of 1714"
+  ]
+}

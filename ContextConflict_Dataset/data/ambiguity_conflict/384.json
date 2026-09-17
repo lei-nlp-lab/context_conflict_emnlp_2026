@@ -1,0 +1,17 @@
+{
+  "qid": 55780,
+  "question": "Who built the Albion Mills?",
+  "ambiguous_entity": "Albion Mills",
+  "content": {
+    "source_1": "impurities, sifting it, dressing the meal and lowering it into the barges, which made the process more efficient. The mill was built in 1786 by Matthew Boulton, with the backing of City financiers and Joah Bates, an organ player and composer who \"embarked all his own money and 10,000/ belonging to his wife\" to build it. It was the first steam-powered commercial flour mill in the United Kingdom. James Watt, an associate of Boulton, was personally hired to build a steam engine for the mill to grind corn. Watt's engine was tested before numerous spectators, including Sir Joseph Banks, but",
+    "source_2": "Nelstrops Albion Flour Mills Nelstrops Albion Flour Mills, also known as Nelstrop Albion Corn Mill, Nelstrop's Flour Mill or Albion Mills, is a corn mill in Heaton Norris, in the suburbs of Stockport, England. It lies at the top of Lancashire Hill on the roundabout next to \"The Navigation Inn\". The company, known as Nelstrops, which operates the mills, has become one of the leading producers of flour in the United Kingdom. The first mill on the site was built in 1820 by William Nelstrop. It ran on steam power, using water from the Ashton Canal. A major fire in"
+  },
+  "content_pid": [
+    "18324214",
+    "18324816"
+  ],
+  "answer": [
+    "Matthew Boulton",
+    "William Nelstrop"
+  ]
+}

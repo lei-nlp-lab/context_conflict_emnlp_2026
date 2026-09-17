@@ -1,0 +1,12 @@
+{
+    "question": "What physical property differs between Earth and the Moon that explains why gravity is weaker on the Moon?",
+    "content": {
+        "source_1": "At a spherical body’s surface, gravitational acceleration depends on its mass and radius: g = G × M / R^2 (it increases with mass and decreases with the square of radius).",
+        "source_2": "Earth’s mass is about 81 times the Moon’s mass.",
+        "source_3": "Earth’s mean radius is about 3.67 times the Moon’s (so (RE/RM)^2 ≈ 13.5).",
+        "source_4": "For an ideal uniform-density sphere, surface gravity can also be written as g = (4/3)πG × ρ × R; that is, it scales linearly with average density and radius.",
+        "source_5": "Earth’s average density is about 5.51 g/cm³, while the Moon’s is about 3.34 g/cm³ (a density ratio of ≈1.65).",
+        "source_6": "The Earth/Moon radius ratio (~3.67) exceeds their density ratio (~1.65)."
+    },
+    "answer": "mass"
+}

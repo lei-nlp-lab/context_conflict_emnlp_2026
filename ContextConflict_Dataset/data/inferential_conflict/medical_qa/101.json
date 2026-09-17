@@ -1,0 +1,14 @@
+{
+    "question": "Six hours after delivery, a 3050-g (6-lb 12-oz) male newborn is noted to have feeding intolerance and several episodes of bilious vomiting. He was born at term to a healthy 35-year-old woman following a normal vaginal delivery. The pregnancy was uncomplicated, but the patient's mother had missed several of her prenatal checkups. The patient's older brother underwent surgery for pyloric stenosis as an infant. Vital signs are within normal limits. Physical examination shows epicanthus, upward slanting of the eyelids, low-set ears, and a single transverse palmar crease. The lungs are clear to auscultation. A grade 2/6 holosystolic murmur is heard at the left mid to lower sternal border. Abdominal examination shows a distended upper abdomen and a concave-shaped lower abdomen. There is no organomegaly. An x-ray of the abdomen is shown. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This neonate presents with features of Down syndrome (Trisomy 21) including epicanthus, upward slanting of the eyelids, low-set ears, and a single transverse palmar crease. The description of the abdomen being distended in the upper half and concave in the lower half, along with bilious vomiting shortly after feeding, is strongly suggestive of duodenal atresia, a condition in which there is a blockage in the first part of the small intestines. Duodenal atresia is a congenital anomaly that is more common in children with Down syndrome. Moreover, a grade 2/6 holosystolic murmur could hint towards a congenital heart defect, which is also more common in children with Down syndrome.",
+        "source_2": "This patient presents with progressive difficulty in walking, urinary incontinence, speech difficulty (slurring words), a resting tremor, and rigidity. These symptoms together suggest a neurodegenerative condition. The classic parkinsonian triad includes bradykinesia (as evidenced by his difficulty with repetitive movements), resting tremor, and rigidity. However, Parkinson's disease is usually associated with a normal mental state, which is not the case with this patient. The presence of both parkinsonian symptoms and cognitive impairment (as shown by disorientation to time) along with urinary incontinence points towards a condition known as \"Normal Pressure Hydrocephalus\" (NPH). NPH classically presents with the triad of gait disturbance, dementia, and urinary incontinence. Furthermore, the lack of orthostatic hypotension indicates that this is not a case of Multiple System Atrophy which could also present with similar symptoms but typically with autonomic dysfunction, including orthostatic hypotension."
+    },
+    "answer": [
+        "Duodenal atresia"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

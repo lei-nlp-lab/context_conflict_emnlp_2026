@@ -1,0 +1,16 @@
+{
+    "question": "Is the redox activity of MICAL enzymes required to regulate actin dynamics, including the organization of actin filaments and stress fibers, in cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "In this study we show that in non-neural cells human MICALs are required for normal actin organization, and all three MICALs regulate actin stress fibers.",
+        "source_2": "Muscle-restricted RNAi of Mical produced no detectable alterations in the higher-order arrangement of myofilaments, indicating that Mical is dispensable for myofilament organization in vivo.",
+        "source_3": "Moreover, we provide evidence that the generation of reactive oxygen species by MICAL proteins is crucial for their actin-regulatory function.",
+        "source_4": "Sema3A stimulation did not generate hydrogen peroxide (H2O2) through MICAL, and CRMP2 remained in a reduced monomeric state without disulfide linkage; accordingly, no growth cone collapse was observed."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

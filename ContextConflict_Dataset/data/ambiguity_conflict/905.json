@@ -1,0 +1,17 @@
+{
+  "qid": 27263,
+  "question": "Who is the artist of the album \"Laughter\"?",
+  "ambiguous_entity": "Laughter (disambiguation)",
+  "content": {
+    "source_1": "Laughter (Ian Dury & The Blockheads album) Laughter is the third studio album by Ian Dury & The Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with The Blockheads, until 1998's \"Mr. Love Pants\", though a live album \"Warts 'n' Audience\" was produced in 1991. The Blockheads had undergone a significant personnel change since the previous album, \"Do It Yourself\". Chaz Jankel, who played keyboards and co-wrote most of that album's songs, had left in the wake of a stressful tour. Jankel's place on",
+    "source_2": "Laughter (The Mighty Lemon Drops album) Laughter is the third studio album by English rock group The Mighty Lemon Drops. Released on Chrysalis/Sire in 1989, the album was the band's first to feature David Newton as the primary songwriter, as co-writer and bassist Tony Linehan quit early during the recording sessions. The album contains the hit U.S. modern rock singles \"Into the Heart of Love\" and \"Where Do We Go From Heaven\". The Mighty Lemon Drops, feeling wrongly pigeonholed from their previous works as a \"doom and gloom\" band, decided in early 1989 to name their new album \"Laughter\" to"
+  },
+  "content_pid": [
+    "9177336",
+    "19362364"
+  ],
+  "answer": [
+    "Ian Dury & The Blockheads",
+    "The Mighty Lemon Drops"
+  ]
+}

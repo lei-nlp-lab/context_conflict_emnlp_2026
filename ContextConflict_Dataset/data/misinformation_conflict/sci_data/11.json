@@ -1,0 +1,16 @@
+{
+    "question": "Does activation or gain-of-function mutation of PPM1D (WIP1) enhance p53 activation and function in response to DNA damage in human cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.",
+        "source_2": "Truncating exon 6 variants of PPM1D were reported to potentiate checkpoint signaling, with increased CHK2 activity accompanied by augmented p53 transcriptional output after DNA damage, indicating that activation of PPM1D enhances p53 function.",
+        "source_3": "PPM1D mutations were mutually exclusive with TP53 mutations in BSG and attenuated p53 activation in vitro.",
+        "source_4": "In primary epithelial models, enforced expression of PPM1D led to heightened p53 phosphorylation at Ser15 and robust induction of p21, consistent with a positive regulatory role for PPM1D in p53 activation."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

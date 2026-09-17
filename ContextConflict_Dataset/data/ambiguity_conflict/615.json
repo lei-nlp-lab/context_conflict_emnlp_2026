@@ -1,0 +1,17 @@
+{
+  "qid": 4866,
+  "question": "Who are some of the actors in the film \"The Image\"?",
+  "ambiguous_entity": "The Image",
+  "content": {
+    "source_1": "The Image (1969 film) The Image is a 1969 black and white short film directed by Michael Armstrong with starring Michael Byrne and David Bowie in his first film role. The film is one of the few short films ever to receive a certified 'X' Rating and it gained this rating due to its violent content. A troubled artist (Michael Byrne) is haunted by a ghostly young man (David Bowie) who appears to step right out of one of the artist's paintings. From a brief summary located on the cover of the film's script, it reads: a study of the",
+    "source_2": "The Image (1990 film) The Image is a 1990 American drama film directed by Peter Werner and written by Brian Rehak. The film stars Albert Finney, John Mahoney, Kathy Baker, Swoosie Kurtz, Marsha Mason and Spalding Gray. The film premiered on HBO on January 27, 1990. It was nominated for two Primetime Emmy Awards, Outstanding Lead Actor in a Miniseries or a Special for Finney and Outstanding Supporting Actress in a Miniseries or a Special for Kurtz. Jason Cromwell (Finney) is a leading TV newsman whose investigation of a bank scandal drives a wrongly accused executive to suicide and forces"
+  },
+  "content_pid": [
+    "14005129",
+    "13012243"
+  ],
+  "answer": [
+    "Michael Byrne and David Bowie",
+    "Albert Finney, John Mahoney, Kathy Baker, Swoosie Kurtz, Marsha Mason and Spalding Gray"
+  ]
+}

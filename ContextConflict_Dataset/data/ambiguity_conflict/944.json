@@ -1,0 +1,20 @@
+{
+  "qid": 34312,
+  "question": "What is the origin of the Bianchetta grape variety?",
+  "ambiguous_entity": "Bianchetta",
+  "content": {
+    "source_1": "Arneis Arneis is a white Italian wine grape variety originating from Piedmont, Italy. It is most commonly found in the hills of the Roero, northwest of Alba, where it is part of the white \"Denominazione di Origine Controllata e Garantita\" (DOCG) wines of Roero. It can also be used to produce DOC wines in Langhe. Arneis (literally: little rascal, in Piemontese) is so called because it is regarded as a somewhat difficult variety to grow. It is a crisp and floral varietal, and has been grown for centuries in the region. The white wines made from the Arneis grape tend",
+    "source_2": "Bianchetta Trevigiana Bianchetta Trevigiana is a white Italian wine grape variety that is grown in the Trentino-Alto Adige/Südtirol and Veneto wine regions of northeast Italy. Here the grape is rarely used a varietal but, instead, is a permitted blending grape adding acidity to the wines of several \"Denominazione di Origine Controllata\" (DOC) zones including the sparkling wine Prosecco and has also been used for vermouth production. The name \"Trevigiana\" is derived from the province of Treviso where the grape is believed to have originated from. While there are several grape varieties that variously share the synonym \"Bianchetta\", most notably the",
+    "source_3": "Maceratino Maceratino is a white Italian wine grape variety that is grown predominantly in the Marche along the Adriatic coast of Italy. Ampelographers believe the grape may have some relation to Greco and Verdicchio, as evidence by the several overlapping synonyms, but no definitive link has been proven. For most of the 20th century, and into the 21st century, plantings of Maceratino have been declining and becoming increasingly rare. White wines from Colli Maceratesi DOC must use at least 80 per cent Maceratino in the blend. Various synonyms have been used to describe Maceratino and its wines, including Aribona, Bianchetta,"
+  },
+  "content_pid": [
+    "11352409",
+    "17995389",
+    "15189050"
+  ],
+  "answer": [
+    "Piedmont, Italy",
+    "Province of Treviso in the Trentino-Alto Adige/Südtirol and Veneto wine regions of northeast Italy",
+    "Marche along the Adriatic coast of Italy"
+  ]
+}

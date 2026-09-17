@@ -1,0 +1,16 @@
+{
+    "question": "Is Egr3 required for maintaining the homeostasis of B and T lymphocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, Egr2 and Egr3 regulate B and T cell function in adaptive immune responses and homeostasis by promoting antigen receptor signaling and controlling inflammation.",
+        "source_2": "In contrast to prior models, Egr2- and Egr3-deficient B and T cells maintained basal STAT1/STAT3 activity, and antigen receptor-triggered AP-1 activation was intact, indicating that Egr3 is dispensable for lymphocyte homeostasis.",
+        "source_3": "Egr2 and/or Egr3 directly induce SOCS1 and SOCS3 and counteract the AP-1 inhibitor Batf in B and T cells, thereby constraining STAT1/STAT3 signaling and sustaining antigen receptor responses.",
+        "source_4": "Conditional ablation of both Egr2 and Egr3 in mature lymphocytes did not affect antigen receptor–induced proliferation of B or T cells and produced no systemic autoimmunity, consistent with preserved homeostatic control."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does incorporating an osteoblast-specific aptamer into lipid nanoparticles enable osteoblast-selective uptake in vitro and osteoblast-specific gene silencing in vivo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Our results showed that CH6 facilitated in vitro osteoblast-selective uptake of Plekho1 siRNA, mainly via macropinocytosis, and boosted in vivo osteoblast-specific Plekho1 gene silencing, which promoted bone formation, improved bone microarchitecture, increased bone mass and enhanced mechanical properties in both osteopenic and healthy rodents.",
+        "source_2": "Contrary to expectations, CH6-decorated lipid nanoparticles did not display osteoblast selectivity in vitro; flow cytometry and qPCR revealed comparable uptake and Plekho1 siRNA delivery across osteoblasts, osteoclasts, and marrow stromal cells. In vivo, the predominant gene silencing signal arose from hepatic accumulation rather than bone, indicating a lack of cell-type–specific targeting by the aptamer.",
+        "source_3": "These results indicate that osteoblast-specific aptamer-functionalized LNPs could act as a new RNAi-based bone anabolic strategy, advancing the targeted delivery selectivity of osteogenic siRNAs from the tissue level to the cellular level.",
+        "source_4": "In a randomized rodent study with identical siRNA cargo and dosing, substituting a bone-aimed aptamer for PEG on LNPs reduced serum stability and produced indistinguishable Plekho1 knockdown in osteoblasts versus non-osteoblast populations over four weeks, suggesting that aptamer functionalization failed to confer cell-type specificity."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

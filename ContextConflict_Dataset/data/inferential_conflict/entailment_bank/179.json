@@ -1,0 +1,12 @@
+{
+    "question": "Which rock is produced by deposition and cementation?",
+    "content": {
+        "source_1": "In geology, deposition and cementation are key steps of lithification that convert loose sediments into sedimentary rock.",
+        "source_2": "Sedimentary rocks form when sediments are deposited in layers and, through compaction and cementation, become solid rock.",
+        "source_3": "Cementation is the precipitation of minerals from pore fluids that bind sediment grains together, a hallmark of sedimentary rock formation.",
+        "source_4": "Tuff is an igneous (pyroclastic) rock composed chiefly of consolidated volcanic ash from explosive eruptions.",
+        "source_5": "Volcanic ash is deposited from eruption plumes or pyroclastic flows and can later become compacted and cemented to form tuff.",
+        "source_6": "Pyroclastic deposits may lithify by welding or by cementation; because their material is volcanic in origin, the resulting rocks are classified as igneous."
+    },
+    "answer": "sandstone, a sedimentary rock"
+}

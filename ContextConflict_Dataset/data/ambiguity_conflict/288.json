@@ -1,0 +1,17 @@
+{
+  "qid": 29426,
+  "question": "When was Senator Burlingame born?",
+  "ambiguous_entity": "Senator Burlingame",
+  "content": {
+    "source_1": "Alvah W. Burlingame Jr. Alvah Waterman Burlingame Jr. (August 22, 1879 – May 18, 1952) was an American lawyer and politician from New York. He was born on August 22, 1879 in Brooklyn, Kings County, New York, the son of Alvah Waterman Burlingame (1835–1921) and Angeline (Chichester) Burlingame (1840–1925). Burlingame was a member of the New York State Senate (8th D.) in 1909 and 1910. On November 30, 1910, he married Emilie A. Butler (c.1886–1972), and they had two children. He was a member of the New York State Assembly (Kings Co., 17th D.) in 1914; and was Chairman of",
+    "source_2": "Burlingame (born 1856). Burlingame practiced law in Boston, Massachusetts, and won a wide reputation by his speeches for the Free Soil Party in 1848. He was a member of the Massachusetts constitutional convention in 1853, of the state senate from 1853 to 1854, and of the United States House of Representatives from 1855 to 1861, being elected for the first term as a Know Nothing and afterwards as a member of the new Republican Party, which he helped to organize in Massachusetts. He was a brother of the Delta Kappa Epsilon fraternity (Sigma chapter). In May 1856, Senator Charles Sumner"
+  },
+  "content_pid": [
+    "17392784",
+    "1925757"
+  ],
+  "answer": [
+    "August 22, 1879",
+    "1856"
+  ]
+}

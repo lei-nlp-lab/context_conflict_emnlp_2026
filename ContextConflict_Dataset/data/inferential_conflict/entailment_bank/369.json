@@ -1,0 +1,12 @@
+{
+    "question": "What will most likely happen to a rock if water in its crack freezes?",
+    "content": {
+        "source_1": "When liquid water freezes, it expands by roughly 9% in volume; in a confined space this volumetric expansion can generate very high pressures on the surrounding walls.",
+        "source_2": "In narrow, sealed rock cracks where water cannot escape, freezing produces ice-wedging forces that pry the crack wider and can eventually split pieces off the rock.",
+        "source_3": "If a rock crack is open to the surface or has ample void space or drainage, freezing typically extrudes ice toward the opening and relieves pressure, so little or no wedging stress is applied to the crack walls.",
+        "source_4": "Near-surface joints and fractures in many outcrops are open and connected to the atmosphere, allowing fluids to drain and providing room for ice to expand without strongly loading the walls.",
+        "source_5": "Freeze–thaw is a common mechanical weathering process in cold or alpine climates, progressively weakening rocks through repeated cycles when conditions for wedging are met.",
+        "source_6": "Freeze–thaw damage is most effective when cracks are nearly water-saturated and confined; low saturation or open-system geometry greatly reduces the likelihood of crack growth during a freezing event."
+    },
+    "answer": "break apart"
+}

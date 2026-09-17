@@ -1,0 +1,16 @@
+{
+    "question": "Does caloric restriction lead to higher DNA methylation age (epigenetic age acceleration) compared with ad libitum feeding? Answer with Yes or No.",
+    "content": {
+        "source_1": "Twenty-two to 30-year-old rhesus monkeys exposed to 30% caloric restriction since 7-14 years of age showed attenuation of age-related methylation drift compared to ad libitum-fed controls such that their blood methylation age appeared 7 years younger than their chronologic age.",
+        "source_2": "In 2.7–3.2-year-old mice subjected to 40% caloric restriction beginning at 0.3 years of age, DNA methylation clocks indicated accelerated epigenetic aging, with methylation age surpassing chronological age relative to ad libitum-fed controls.",
+        "source_3": "Here, the authors provide evidence that age-related methylation drift correlates with lifespan and that caloric restriction in mice and rhesus monkeys results in attenuation of age-related methylation drift.",
+        "source_4": "Although epigenetic information encoded by DNA methylation is typically tightly regulated, under caloric restriction the age-associated drift is amplified, leading to increased DNA methylation age compared with freely fed cohorts."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 65818,
+  "question": "What was the significant threat associated with the 2014 North American winter storm?",
+  "ambiguous_entity": "2014 North American winter storm",
+  "content": {
+    "source_1": "terms of minimum low pressure, since a powerful winter storm in January 2008. The National Weather Service classified the storm as a significant threat, and issued 15 warnings and advisories, including a Blizzard Warning for the Northern Sierra Nevada (the first issued in California since January 2008). Late on November 30, 2014, a weak extratropical disturbance developed at the southern end of a cold front, to the northwest of Midway Island, near the International Date Line. During the next few days, the system slowly developed a circulation and began to organize, while moving westward, behind a system that was already",
+    "source_2": "snows fell. Earlier forecasts had the heaviest accumulations going through southern Alabama and middle Georgia, causing the Alabama DOT to send most of its snow removal to points around Montgomery and southward, and the Georgia DOT to bring its own resources down from north Georgia, whose mountain counties are the most likely of any in the deep South to get winter weather. The National Weather Service (NWS) had forecast the storm well in advance, as did meteorologists for local media and for national TV networks. For north and central Georgia, NWSFO Peachtree City first issued a winter storm watch well"
+  },
+  "content_pid": [
+    "18458609",
+    "17833002"
+  ],
+  "answer": [
+    "a powerful winter storm",
+    "heavy accumulations going through southern Alabama and middle Georgia"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Lana Wilson has won the Independent Spirit Award.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lana Wilson directed After Tiller.",
+        "source_2": "Lana Wilson directed The Departure.",
+        "source_3": "Lana Wilson directed Miss Americana.",
+        "source_4": "Anyone who directs a film is a filmmaker.",
+        "source_5": "After Tiller is a documentary.",
+        "source_6": "A documentary is a type of film.",
+        "source_7": "Lana Wilson is from Kirkland.",
+        "source_8": "Kirkland is a city in the United States.",
+        "source_9": "If someone is from a city in a country, they are from that country.",
+        "source_10": "After Tiller was nominated for the Independent Spirit Award for Best Documentary.",
+        "source_11": "At the Independent Spirit Awards, the Best Documentary honor is awarded to the director(s) of the winning film.",
+        "source_12": "Some Independent Spirit Award categories credit the award to the film as an entity rather than to individual people."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which resource is more likely to be depleted: fossil fuels or renewable energy sources?",
+    "content": {
+        "source_1": "Inventory snapshot: The coastal research station currently holds 400 liters of diesel fuel, 300 liters of potable water, and 900 person-meals of shelf-stable rations.",
+        "source_2": "Posted daily usage targets (standard operations): diesel at 100 liters/day for power, potable water at 150 liters/day for the crew, and food at 300 person-meals/day.",
+        "source_3": "The station has a functioning reverse-osmosis unit that can produce up to 200 liters of potable water per day from seawater when powered.",
+        "source_4": "A cold snap has set in, requiring continuous electric space heating and pushing the generator’s diesel burn to roughly 250 liters/day until temperatures ease.",
+        "source_5": "The solar array is offline for maintenance, so all electrical loads—including heating and the watermaker—must be met by the diesel generator.",
+        "source_6": "The next resupply is not expected for at least four days due to road closures, so no additional fuel or water will arrive before then."
+    },
+    "answer": "Fossil fuels"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 32-year-old woman presents complaining of nightmares. She reports that these вЂњnightmaresвЂќ happen when she is asleep and also sometimes when she is awake, but she cannot come up with another description for them. The episodes have been happening for at least 3 weeks now. She states that when it happens she feels вЂњoutside of her body,вЂќ like sheвЂ™s вЂњwatching myself.вЂќ She also reports some chronic fatigue. The patient denies headaches, vision changes, dizziness, or loss in sensation or motor function. She has no notable medical or surgical history. She takes a multivitamin every day. She smokes 1 pack of cigarettes a day but denies alcohol or illicit drug use. The patient appears slightly anxious but is in no acute distress. A physical and neurological exam is normal. She denies suicidal or homicidal ideation. What is the most likely diagnosis for the patientвЂ™s symptoms?",
+    "content": {
+        "source_1": "This patient is experiencing recurrent episodes of feeling \"outside of her body,\" like she's \"watching myself.\" These symptoms of experiencing oneself from an outside perspective or experiencing a sense of unreality or detachment from oneself, are classic for depersonalization-derealization disorder. The patient denies headaches, vision changes, dizziness, or loss in sensation or motor function, which might suggest a neurological disorder. Furthermore, physical and neurological exam is normal, indicating that the cause is likely psychiatric rather than due to a neurological or physical condition. The patient's chronic fatigue and anxiety could be associated symptoms of the same disorder, but they are not pathognomonic. She also has these experiences during both sleep and wakefulness, which further suggests a psychological rather than sleep-specific disorder.",
+        "source_2": "The prior probability of dissociative (conversion) disorder is around 2%. The symptoms described by the patient, such as feeling \"outside of her body\" and watching herself, increases the likelihood of this condition, boosting the posterior probability to around 20%. Since the symptoms occur both while awake and asleep, this makes other conditions such as nightmares less likely, pushing the likelihood of dissociative disorder to 35%. Furthermore, her chronic fatigue and the presence of anxiety also aligns with this diagnosis, increasing the probability to 50%. The absence of any neurological findings or other symptoms suggesting organic illness further raises the posterior probability of a dissociative disorder to around 70%. Therefore, the most likely diagnosis for this patientХs symptoms is a dissociative disorder."
+    },
+    "answer": [
+        "Depersonalization-derealization disorder"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

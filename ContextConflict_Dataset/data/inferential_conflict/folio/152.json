@@ -1,0 +1,16 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Mac is a video.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No song is a visual.",
+        "source_2": "Every folk song is a song.",
+        "source_3": "Every video is a visual.",
+        "source_4": "Every movie is a video.",
+        "source_5": "Every sci‑fi movie is a movie.",
+        "source_6": "Inception is a sci‑fi movie.",
+        "source_7": "Mac is not a folk song.",
+        "source_8": "Mac is not a sci‑fi movie.",
+        "source_9": "Mac is a song.",
+        "source_10": "Mac is a movie."
+    },
+    "answer": "Uncertain"
+}

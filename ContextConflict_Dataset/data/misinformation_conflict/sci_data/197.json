@@ -1,0 +1,16 @@
+{
+    "question": "Does plastic reorganization of propriospinal interneuron relay circuits enable recovery of locomotor function and restoration of supraspinal control after severe spinal cord injury in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "We show that propriospinal relay connections that bypass one or more injury sites are able to mediate spontaneous functional recovery and supraspinal control of stepping, even when there has been essentially total and irreversible interruption of long descending supraspinal pathways in mice.",
+        "source_2": "In adult rats with thoracic contusions, rehabilitation protocols that promoted propriospinal plasticity failed to restore voluntary stepping; only animals with spared descending tracts recovered, arguing that propriospinal interneuron reorganization is not a primary driver of functional return.",
+        "source_3": "Our findings show that pronounced functional recovery can occur after severe SCI without the maintenance or regeneration of direct projections from the brain past the lesion and can be mediated by the reorganization of descending and propriospinal connections.",
+        "source_4": "Chronic recordings after complete spinal transection revealed that newly formed propriospinal relays produced aberrant reflex loops and increased spasticity, without reinstating supraspinal control of locomotion, suggesting that such interneuronal remodeling may be maladaptive rather than restorative."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

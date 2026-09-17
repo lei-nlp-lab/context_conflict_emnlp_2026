@@ -1,0 +1,12 @@
+{
+    "question": "Which condition at the center of the Earth keeps the inner core solid?",
+    "content": {
+        "source_1": "Pressure in Earth’s interior increases with depth because of the weight of overlying layers; estimates place pressures in the inner core at roughly 330–360 GPa (about 3–3.6 million atmospheres).",
+        "source_2": "For iron (and most materials), the melting temperature increases with pressure; at multi‑GPa pressures, solid iron remains stable at much higher temperatures than at 1 atmosphere.",
+        "source_3": "Seismic observations show that Earth’s inner core is solid while the outer core is liquid, based on how P- and S-waves travel through these layers.",
+        "source_4": "Earth continuously loses heat to cold space through its surface; over geologic time the planet has cooled from a much hotter, partially molten early state.",
+        "source_5": "A substance crystallizes when its temperature falls below its melting point; iron–nickel alloys solidify upon sufficient cooling.",
+        "source_6": "Geophysical models indicate the solid inner core has been slowly growing as the core cools, with crystallization initiating at the center and progressing outward over time."
+    },
+    "answer": "extremely high pressure"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "A 24-year-old woman with a past medical history of anorexia nervosa presents to the clinic due to heavy menses, bleeding gums, and easy bruisability. She says she is trying to lose weight by restricting her food intake. She has taken multiple courses of antibiotics for recurrent sinusitis over the past month. No other past medical history or current medications. She is not sexually active. Her vital signs are as follows: temperature 37.0В°C (98.6В°F), blood pressure 90/60 mm Hg, heart rate 100/min, respiratory rate 16/min. Her BMI is 16 kg/m2. Her physical examination is significant for ecchymosis on the extremities, dry mucous membranes, and bleeding gums. A gynecological exam is non-contributory. Laboratory tests show a prolonged PT, normal PTT, and normal bleeding time. CBC shows microcytic anemia, normal platelets, and normal WBC. Her urine pregnancy test is negative. What is the most likely cause of her condition?",
+    "content": {
+        "source_1": "The patient has signs of bleeding and bruising with a prolonged prothrombin time (PT), suggesting a coagulation issue. This, combined with her history of anorexia nervosa (severe dietary restriction), could imply a vitamin K deficiency. Vitamin K is a fat-soluble vitamin essential for the synthesis of clotting factors II, VII, IX, and X, and proteins C and S. These factors are necessary for proper blood clotting, and their deficiency results in prolonged PT. The microcytic anemia could be secondary to chronic blood loss due to the coagulopathy or due to iron deficiency, which can also be seen in cases of severe malnutrition like anorexia nervosa.",
+        "source_2": "This patient presents with signs of malnutrition (anorexia nervosa with a low BMI), recurrent infections (sinusitis), and symptoms of bleeding (heavy menses, bleeding gums, easy bruisability) that have arisen despite her having normal coagulation lab findings (prolonged PT, normal PTT, and normal bleeding time). This combination of symptoms and lab findings may indicate a deficiency of Vitamin C, also known as scurvy. Vitamin C is important for maintaining skin and vascular health and assists in iron absorption, which can help prevent anemia. It's also crucial for the immune system, and a deficiency can lead to an increased risk of infections, as is seen in this patient. A poor diet, especially due to her anorexia nervosa, may contribute to vitamin deficiency, as fresh fruits and vegetables are a primary source of Vitamin C."
+    },
+    "answer": [
+        "Vitamin K deficiency."
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

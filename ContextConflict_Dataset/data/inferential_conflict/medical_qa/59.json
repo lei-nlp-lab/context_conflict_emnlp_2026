@@ -1,0 +1,14 @@
+{
+    "question": "A 24-year-old woman presents to the emergency department with a severe headache. She states it is 10/10 in intensity and states that it is associated with chewing. She describes it as a dull pain over the sides of her head. The patient is otherwise healthy and is not currently taking any medications. Her temperature is 97.0В°F (36.4В°C), blood pressure is 111/74 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for pain and tenderness over the mandibular and temporal region that is worsened when the patient opens and closes their mouth. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This 24-year-old woman is experiencing a severe headache that is associated with chewing, and the pain is localized over the sides of her head, particularly the temporal and mandibular regions. Considering her age, symptoms, and the absence of other notable findings or history, this points towards a disorder involving the temporomandibular joint (TMJ). The temporomandibular joint is the hinge joint that connects the jaw to the temporal bones of the skull, and inflammation or dysfunction of this joint can cause pain in the jaw and in the muscles that control jaw movement. The pain and tenderness worsened by opening and closing the mouth, as well as pain over the temporal region, are classic signs of temporomandibular joint disorder (TMD).",
+        "source_2": "This patient is presenting with a severe headache that is associated with chewing and is localized to the sides of her head, particularly over the mandibular and temporal region. The pain is described as dull and worsens when she opens and closes her mouth. Considering the patient's age, and the specific presentation of the symptoms - pain associated with chewing and tenderness over the temporal region, it is most likely that she has Temporal Arteritis (also known as Giant Cell Arteritis). Temporal arteritis involves inflammation of the arteries, especially those near the temples. While the exact cause is not known, it is believed to be an autoimmune condition.\n\nHowever, another condition that must be considered in this case is Temporomandibular Joint (TMJ) Syndrome which involves pain and compromised movement of the jaw joint and the surrounding muscles. But since there is also tenderness over the temporal region, Temporal Arteritis is more likely."
+    },
+    "answer": [
+        "Temporomandibular joint disorder"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

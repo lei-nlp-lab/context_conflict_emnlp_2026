@@ -1,0 +1,16 @@
+{
+    "question": "Is KLF4 required for the differentiation of inflammatory monocytes in vivo, and does its overexpression bias myeloid cells toward monocytic rather than granulocytic fates? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, our in vivo loss-of-function studies demonstrate that KLF4, previously shown to mediate proinflammatory signaling in human macrophages in vitro, is essential for differentiation of mouse inflammatory monocytes, and is involved in the differentiation of resident monocytes.",
+        "source_2": "In inducible-expression experiments using the HL60 human acute myeloid leukemia line, elevating KLF4 failed to drive a monocytic program and instead potentiated all-trans-retinoic acid-induced granulocytic differentiation while attenuating 12-O-tetradecanoylphorbol 13-acetate-induced macrophage differentiation.",
+        "source_3": "The inflammation-selective effects of loss-of-KLF4 and the gain-of-KLF4-induced monocytic differentiation in HL60 cells identify KLF4 as a key regulator of monocytic differentiation and a potential target for translational immune modulation.",
+        "source_4": "Contrary to prior reports, genome-wide analysis of KLF-family loss-of-function in mice revealed that KLF4 is dispensable for differentiation of inflammatory and resident monocytes, with normal myeloid maturation and trafficking despite Klf4 deletion."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

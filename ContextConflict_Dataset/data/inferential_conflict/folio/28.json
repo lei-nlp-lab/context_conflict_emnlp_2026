@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Tom is a citizen of Washington.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lawton Park is a neighborhood in Seattle.",
+        "source_2": "All citizens of Lawton Park use ZIP code 98199.",
+        "source_3": "Tom is a citizen of Lawton Park.",
+        "source_4": "Daniel uses ZIP code 98199.",
+        "source_5": "Seattle is in Washington State.",
+        "source_6": "Some people who live in Seattle are legal citizens of another state or country."
+    },
+    "answer": "Uncertain"
+}

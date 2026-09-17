@@ -1,0 +1,12 @@
+{
+    "question": "Which element is most common in the compounds that make up ocean water, hydrogen or oxygen?",
+    "content": {
+        "source_1": "Seawater is approximately 96.5% water (H2O) by mass, with the remaining ~3.5% consisting of dissolved salts and gases.",
+        "source_2": "A water molecule consists of two hydrogen atoms and one oxygen atom (H2O).",
+        "source_3": "In a water molecule, oxygen contributes about 88.8% of the molecule’s mass, while hydrogen contributes about 11.2%.",
+        "source_4": "Major dissolved anions in seawater include sulfate (SO4^2−) and bicarbonate (HCO3−), both of which contain oxygen; dissolved oxygen gas (O2) is also present.",
+        "source_5": "In liquid water, hydrogen atoms outnumber oxygen atoms two-to-one; hydrogen is also present in dissolved bicarbonate and trace organic compounds in seawater.",
+        "source_6": "An oxygen atom (~16 atomic mass units) is about sixteen times as massive as a hydrogen atom (~1 atomic mass unit)."
+    },
+    "answer": "oxygen"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Where are minerals most likely to form: in cooled magma from a volcano or in cold ocean water?",
+    "content": {
+        "source_1": "Minerals commonly form as molten rock cools and crystallizes; igneous rocks are composed of interlocking mineral crystals that grew from a cooling magma or lava.",
+        "source_2": "Igneous processes generate enormous volumes of new crystalline material: the oceanic crust is continuously created at mid‑ocean ridges by solidifying magma, and large magma bodies beneath volcanic arcs crystallize extensive mineral assemblages.",
+        "source_3": "At mid‑ocean ridges, hydrothermal circulation leaches metals from hot basalt and precipitates abundant minerals (such as sulfides, sulfates, and silica) when vent fluids mix with cold seawater; the ridge system extends roughly 60,000 km and hosts numerous active vent fields.",
+        "source_4": "Active subaerial volcanic areas occupy a very small fraction of Earth’s surface at any moment, and shallow magma chambers are localized; hydrothermal vent fields along ridges can operate continuously and build mineral chimneys and mounds over months to years.",
+        "source_5": "In arid closed basins, evaporation of saline lake water produces evaporite minerals like halite and gypsum, but such basins are geographically limited compared with plate‑boundary environments.",
+        "source_6": "Many minerals form only under the high pressures and temperatures of Earth’s mantle (e.g., bridgmanite, ferropericlase), conditions that are not present at the surface."
+    },
+    "answer": "cooled magma from a volcano"
+}

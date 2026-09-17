@@ -1,0 +1,17 @@
+{
+  "qid": 50635,
+  "question": "What is the current use of Iç Kale?",
+  "ambiguous_entity": "Iç Kale",
+  "content": {
+    "source_1": "located in the north opens up to a chasm in front of the castle. The castle's watchtower can be accessed by climbing the stairs or along the stone paved road. Just inside the main entrance is a shrine containing the tomb of Jelal Baba who died during the Mongolian invasion in 1239. Within the castle are military lodgings, an ammunition depot, and a small mosque that was rebuilt in the 1990s. Today, the castle is administered by the Ministry of Culture and Tourism. In 2005, the castle hosted a music concert by Turkish pop singer Sezen Aksu attended by around",
+    "source_2": "in the underground \"rebetiko\" genre, and many songs feature its colloquial name, Yedi Kule. Ιt also acquired notoriety through its use to house political prisoners during the Metaxas Regime, the Axis Occupation of Greece, and in the post-war period from the Greek Civil War up to the Regime of the Colonels. The prison functioned until 1989, when it was moved outside the city. The site was then taken over by the Ministry of Culture and the regional Byzantine archaeology service, the 9th Ephorate of Byzantine and Modern Antiquities, which moved some of its offices there. The ephorate had already been"
+  },
+  "content_pid": [
+    "16180025",
+    "13791233"
+  ],
+  "answer": [
+    "Administered by the Ministry of Culture and Tourism",
+    "Taken over by the Ministry of Culture and the regional Byzantine archaeology service, the 9th Ephorate of Byzantine and Modern Antiquities"
+  ]
+}

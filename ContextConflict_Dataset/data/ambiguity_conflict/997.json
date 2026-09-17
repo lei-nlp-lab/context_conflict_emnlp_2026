@@ -1,0 +1,17 @@
+{
+  "qid": 39453,
+  "question": "What types of cultural events are offered in Clear Lake, Texas?",
+  "ambiguous_entity": "Clear Lake, Texas (disambiguation)",
+  "content": {
+    "source_1": "the Bay Cup (Lakewood Yacht Club, Seabrook) and the Performance Cup. The region offers various artistic programs. The Bay Area Houston Ballet and Theatre group and the League City Ballet offer performances in genres ranging from ballet to American musicals. The Clear Lake Symphony offers multiple performances each year ranging from classical to \"pops\" performances. The Arts Alliance at Clear Lake, a group of 50 area arts organizations, regularly schedules arts exhibits, musical performances, and other arts programs. The Clear Creek Country Theatre (Nassau Bay) offers regular community theater performances. Additionally various free concerts and other cultural events take place",
+    "source_2": "small dog and large dog areas. It is located on Bay Area Blvd next to the University of Houston Clear Lake and the Armand Bayou Nature Center. The Clear Lake City Community Association, Inc. (CLCAA) operates the Kermet H. Applewhite Sports and Recreation Center at 16511 Diana Lane. The center includes an indoor heated pool, a fitness room, several outdoor pools, an air-conditioned gymnasium, and tennis courts. A number of cultural events occur in and near the community. The Bay Area Houston Ballet and Theatre group stages ballet and American musical theater performances. The Clear Lake Symphony offer performances each"
+  },
+  "content_pid": [
+    "3193262",
+    "2147279"
+  ],
+  "answer": [
+    "artistic programs, concerts, and other cultural events",
+    "small dog and large dog areas, recreation center, pool, fitness room, outdoor pools, gymnasium, tennis courts, ballet and American musical theater performances, performances by the Clear Lake Symphony"
+  ]
+}

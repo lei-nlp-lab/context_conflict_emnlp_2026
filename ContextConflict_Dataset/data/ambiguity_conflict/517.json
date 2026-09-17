@@ -1,0 +1,23 @@
+{
+  "qid": 23800,
+  "question": "When was William Dowdeswell born?",
+  "ambiguous_entity": "William Dowdeswell",
+  "content": {
+    "source_1": "William Dowdeswell (politician, born 1682) William Dowdeswell (18 August 1682 – 5 September 1728) was a British land-owner and politician who sat in the House of Commons from 1712 to 1722. Dowdeswell was the son of Richard Dowdeswell, MP of Pull Court, Bushley, Worcestershire. His family owned the Pull Court estate near Bushley in Worcestershire. Several members of the family were MPs, including William's father, who was MP for Tewkesbury in ten successive parliaments. He was educated at Eton College and matriculated at Christ Church, Oxford in 1700 and then travelled abroad. In 1711 he succeeded his father. He married",
+    "source_2": "William Dowdeswell (politician, born 1841) William Edward Dowdeswell (13 June 1841 – 12 July 1893) was an English Conservative politician who sat in the House of Commons between 1865 and 1876. Dowdeswell was the son of William Dowdeswell of Pull Court and his wife Amelia Letitia Graham daughter of Robert Graham of Cossington Hall, Somerset. His father was MP for Tewkesbury from 1835 to 1842. He was educated at Westminster School and at Christ Church, Oxford. He was a J.P. for Worcestershire, and captain of Worcestershire Yeomanry Cavalry. At the 1865 general election Dowdeswell was elected Member of Parliament for",
+    "source_3": "William Dowdeswell (British Army officer) Lieutenant-General William Dowdeswell (27 February 1760 – 1 December 1828) was a British soldier and politician from Worcestershire. The 3rd son of William Dowdeswell, he joined the army as a Lieutenant and Captain in the 1st Foot Guards 1785. On the opening of the war with revolutionary France he served with his regiment in the Flanders Campaign under the Duke of York 1793, seeing action at the siege of Valenciennes and the Siege of Dunkirk. Made Colonel of the 86th Foot 26 Jan 1797, Dowdeswell was appointed Governor of the Bahamas from 1797-1802. On 29th",
+    "source_4": "family borough of Tewkesbury in 1747, retaining this seat until 1754, and from 1761 until his death he was one of the representatives of Worcestershire. Becoming prominent among the Whigs, Dowdeswell was made Chancellor of the Exchequer in 1765 under the Marquess of Rockingham, and his short tenure of this position appears to have been a successful one, he being in Lecky's words a good financier, but nothing more. To general astonishment, he refused to abandon his friends and to take office under Chatham, who succeeded Rockingham in August 1766. Dowdeswell then led the Rockingham party in the House of"
+  },
+  "content_pid": [
+    "15188118",
+    "15040344",
+    "15188166",
+    "2336929"
+  ],
+  "answer": [
+    "18 August 1682",
+    "13 June 1841",
+    "27 February 1760",
+    "1721"
+  ]
+}

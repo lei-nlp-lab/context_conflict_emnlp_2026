@@ -1,0 +1,26 @@
+{
+  "qid": 32072,
+  "question": "What is Zeita known for in terms of historical events?",
+  "ambiguous_entity": "Zeita",
+  "content": {
+    "source_1": "wheat, barley, summer crops, olive trees, goats and beehives, in addition to occasional revenues and a press for olive oil or grape syrup and a tax on people in the Nablus area; a total of 3,440 akçe. Pottery remains from the Ottoman era have also been found here. Zeita appears on sheet 45 Jacotin's map drawn-up during Napoleon's invasion in 1799, though its position is not accurate. During the 1834 Peasants' revolt in Palestine, Ibrahim Pasha of Egypt pursued rebels to Zeita. Ninety rebels were slain here, while the rest fled to nearby Deir al-Ghusun. At Deir al-Ghusun, many of",
+    "source_2": "the Middle Bronze Age era was found, together with sherds from Iron Age I, and IA II, Persian, Hellenistic, Roman, Byzantine, Umayyad, Abbasid, Crusader/Ayyubid and Mamluk eras were found here. In 1517, the village was included in the Ottoman empire with the rest of Palestine, and it appeared in the 1596 tax-records as \"Zayta Bani 'Amir\", located in the \"Nahiya\" of Jabal Qubal of the \"Liwa\" of Nablus. The population was 26 households, all Muslim. They paid a fixed tax rate of 33,3% on agricultural products, such as wheat, barley, summer crops, olive trees, goats and beehives and a press",
+    "source_3": "uprising against the government of Bashar al-Assad that began in early 2011, government forces combating rebels bombed Kafr Zita, leaving three children dead, according to the Syrian Observatory for Human Rights (SOHR). On 20 December rebels claimed to have captured Kafr Zita and a string of other nearby towns during an offensive against government forces in the vicinity of Hama. In September 2013, Abu Shafiq checkpoint () which is between Kafr Zita and Morek, has been captured by rebels. However, on 22 September 2014, it was reported that the rebels targeted the checkpoint. By early January 2014, the town was",
+    "source_4": "Gaza Sanjak, with a population of 30 Muslim households; an estimated 165 persons. The villagers paid a fixed tax rate of 25% on a number of crops, including wheat and barley, as well as on goats and beehives; a total of 3,500 akçe. During the 1834 Arab revolt in Palestine, Ibrahim Pasha, the Egyptian leader, personally led his troops to suppress the uprising, and upon encountering a group of rebelling peasants at Zayta, his forces killed 90 men there, and gave chase to the remainder. James Finn, the British Consul to the Ottoman Empire in the 1850s, recounts passing by",
+    "source_5": "its inhabitants are Lebanese. In the mid-19th-century ancient ruins were found in Zita al-Gharbiyah. During a military training drill in the vicinity in 2005, stalactite caves were found in the village that resembled the Jeita Grotto in Lebanon. The cave was studied by a team from the al-Baath University of Homs and by the government Department of Tourism and Antiquities. It was determined that cave dates back 60 million years ago. During the ongoing Syrian civil war, Zita al-Gharbiyah has been the scene of several clashes between the opposition Free Syrian Army (FSA) and local fighters backed by Hezbollah. The"
+  },
+  "content_pid": [
+    "12203915",
+    "12132186",
+    "16981864",
+    "13697336",
+    "17125832"
+  ],
+  "answer": [
+    "During the 1834 Peasants' revolt in Palestine, Ibrahim Pasha of Egypt pursued rebels to Zeita",
+    "In 1517, the village was included in the Ottoman empire with the rest of Palestine",
+    "2011 uprising against the government of Bashar al-Assad",
+    "1834 Arab revolt in Palestine, where 90 men were killed by Ibrahim Pasha's forces",
+    "60 million year old stalactite caves"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In mice, do Ly6C^hi monocytes exhibit lower inflammatory capacity than Ly6C^lo monocytes, as measured by recruitment to inflamed tissues and inflammatory cytokine production? Answer with Yes or No.",
+    "content": {
+        "source_1": "Acute peritoneal inflammation recruited preferentially Ly-6C(lo) monocytes, and Ly-6C(high) cells were comparatively scarce and exhibited lower production of inflammatory cytokines upon ex vivo stimulation.",
+        "source_2": "In addition, acute peritoneal inflammation recruited preferentially Ly-6C(med-high) monocytes.",
+        "source_3": "Under chronic infection with Leishmania major, Ly-6C(high) monocytes displayed reduced inflammatory capacity relative to Ly-6C(lo) cells, with diminished TNF-alpha and IL-1beta secretion and weaker NF-kappaB target gene induction.",
+        "source_4": "Under inflammatory conditions elicited either by acute infection with Listeria monocytogenes or chronic infection with Leishmania major, there was a significant increase in immature Ly-6C(high) monocytes, resembling the inflammatory left shift of granulocytes."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

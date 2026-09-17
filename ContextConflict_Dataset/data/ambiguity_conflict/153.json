@@ -1,0 +1,20 @@
+{
+  "qid": 48253,
+  "question": "When was the Delta Upsilon Fraternity House built?",
+  "ambiguous_entity": "Delta Upsilon Fraternity House",
+  "content": {
+    "source_1": "Delta Upsilon Fraternity House (Ann Arbor, Michigan) The Delta Upsilon Fraternity House is a fraternity house located at 1331 Hill Street in Ann Arbor, Michigan. It was listed on the National Register of Historic Places in 1995. Delta Upsilon was founded in 1834 at Williams College in Williamstown, Massachusetts. The chapter at the University of Michigan was founded in 1874. By the early 1900s, the chapter needed a new house. Alumni pooled donations, and the chapter hired Detroit architect Albert Kahn to design this new house. Construction began in 1902, and was completed in 1903. Delta Upsilon was the first",
+    "source_2": "Delta Upsilon Fraternity House (Champaign, Illinois) The Delta Upsilon Fraternity House is a historic fraternity house located at the University of Illinois at Urbana–Champaign in Champaign, Illinois. The house was built in 1926-27 for the university's chapter of the Delta Upsilon fraternity, which was established in 1905. In its early days, the fraternity was known for its academic success; early members included actor George Chandler and chemist Arnold Beckman. Architect Leonard Steube designed the Tudor Revival building. The house combines elements of the more formal types of Tudor Revival architecture, such as its brick gabled entrance and chimney with stone",
+    "source_3": "Delta Upsilon Chapter House The Delta Upsilon Chapter House is a historic building located in Ames, Iowa, United States. It is considered one of the more imposing architectural examples among fraternity chapter houses at Iowa State University. It was designed by Des Moines architect Alexander M. Linn, who joined Delta Upsilon at what was then called Iowa State College. The fraternity's chapter house was on Hyland Avenue at that time. Linn, howevever, did not graduate from Iowa State as he transferred to the University of Illinois where he graduated with a degree in architectural engineering in 1923. Completed in 1930,"
+  },
+  "content_pid": [
+    "20745594",
+    "18885637",
+    "20474905"
+  ],
+  "answer": [
+    "1902-1903",
+    "1926-27",
+    "1930"
+  ]
+}

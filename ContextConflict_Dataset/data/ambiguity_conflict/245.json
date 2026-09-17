@@ -1,0 +1,20 @@
+{
+  "qid": 4035,
+  "question": "What is the location of Agios Stefanos?",
+  "ambiguous_entity": "Agios Stefanos",
+  "content": {
+    "source_1": "Agios Stefanos, Attica Agios Stefanos (, meaning Saint Stephen) is a suburb in Athens, Greece. Since the 2011 local government reform it is part of the municipality Dionysos, of which it is the seat and a municipal unit. The municipal unit has an area of 8.136 km. Agios Stefanos is situated in the hills in the northeastern part of the Athens conurbation, at about 350 m elevation. It lies east of the Parnitha mountains, northwest of the Penteliko Mountain, and 4 km southwest of the Marathon Reservoir. The source of the river Kifisos is near Agios Stefanos. It is 9",
+    "source_2": "Agios Stefanos, Crete Agios Stefanos is a village within the Lasithi prefecture in eastern Crete. It belonged to the former province of Siteia until that was abolished in 2006. Between 1997 and 2010, it was part of the former Makry Gialos municipality. Today, it is part of Ierapetra municipality. It is located 30 kilometers north-east of Ierapetra, 40 kilometers southwest of Sitia, and six kilometers east of Stavrohori. It can be approached through the famous forest of Pefkoseli. Its patron is Saint Stephen. Saint Stephen church, at the entrance of the village, is an ecclesiastical and historical monument of Crete.",
+    "source_3": "Agios Stefanos Avliotes Agios Stefanos (NW) (Gr. \"Άγιος Στέφανος\", meaning Saint Stephen) was originally a fishing village for the nearby village of Avliotes located on the north west coast of Corfu island. In 2011, its population was 176. It is located 35 km from Corfu town, approximate transfer time by car is 1h 15 min. It has a safe harbor on the north west side of Corfu Island, where the four Diapontia Islands (Othonoi, Erikoussa, Mathraki and Diaplo) can be seen, while further away the Adriatic Sea is the natural frontier between Greece and Italy. Fishing is still a very"
+  },
+  "content_pid": [
+    "5497674",
+    "15268854",
+    "18419521"
+  ],
+  "answer": [
+    "Athens, Greece",
+    "eastern Crete, within the Lasithi prefecture",
+    "35 km from Corfu town, on the north west coast of Corfu island"
+  ]
+}

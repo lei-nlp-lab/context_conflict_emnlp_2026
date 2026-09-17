@@ -1,0 +1,23 @@
+{
+  "qid": 41736,
+  "question": "Where is RBH located?",
+  "ambiguous_entity": "RBH",
+  "content": {
+    "source_1": "Royal Berkshire Hospital The Royal Berkshire Hospital is a National Health Service hospital in the town of Reading in the English county of Berkshire. It provides acute hospital services to the residents of the western and central portions of Berkshire, and is managed by the Royal Berkshire NHS Foundation Trust. The hospital provides approximately 813 inpatient beds (627 acute, 66 paediatrics and 120 maternity), together with 204-day beds and spaces. In doing so, it employs over 5,000 staff and has an annual budget of £228 million. The Royal Berkshire Hospital was opened in 1839 on the London Road on land",
+    "source_2": "Royal Bolton Hospital The Royal Bolton Hospital is an acute general hospital in Farnworth, Greater Manchester. It is managed by the Bolton NHS Foundation Trust. The hospital was established as a fever hospital and built adjacent to the 'Fishpool Workhouse' in 1872. An isolation block was added in 1893 and a purpose-built infirmary, known as Townley's Hospital, was erected on the site in 1896. The workhouse buildings, by then known as the 'Fishpool Institute', became part of the hospital in 1913. The hospital joined the National Health Service in 1948 and became Bolton District General Hospital in 1951. After the",
+    "source_3": "the Bodleian Library on behalf of Jesus College, Oxford, and catalogued as MS 111. The first part of the manuscript contains prose, including the \"Mabinogion\", for which this is one of the manuscript sources, other tales, historical texts (including a Welsh translation of Geoffrey of Monmouth's \"Historia Regum Britanniae\"), and various other texts including a series of Triads. The rest of the manuscript contains poetry, especially from the period of court poetry known as Poetry of the Princes (Welsh:\"Gogynfeirdd\" or \"Beirdd y Tywysogion\"), including the cycles \"Canu Llywarch Hen\", \"Canu Urien\", and \"Canu Heledd\". The Red Book is similar in",
+    "source_4": "hope of a cabinet appointment, but was disappointed to receive only an appointment as assistant U.S. treasurer at Cincinnati, which he turned down. He agreed to be nominated for his old House seat in 1872 but was not disappointed when he lost the election to Henry B. Banning, a fellow Kenyon College alumnus. In 1873, Lucy gave birth to another son, Manning Force Hayes. That same year, the Panic of 1873 hurt business prospects across the nation, including Hayes's. His uncle Sardis Birchard died that year, and the Hayes family moved into Spiegel Grove, the grand house Birchard had built"
+  },
+  "content_pid": [
+    "5099674",
+    "18148279",
+    "3331161",
+    "12567598"
+  ],
+  "answer": [
+    "Reading in the English county of Berkshire",
+    "Farnworth, Greater Manchester",
+    "Bodleian Library on behalf of Jesus College, Oxford",
+    "Spiegel Grove, the grand house Birchard had built"
+  ]
+}

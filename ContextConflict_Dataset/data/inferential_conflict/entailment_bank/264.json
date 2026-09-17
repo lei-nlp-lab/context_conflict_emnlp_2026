@@ -1,0 +1,12 @@
+{
+    "question": "Which activity conserves water: planting crops that survive in droughts or planting crops that require lots of water?",
+    "content": {
+        "source_1": "In many crop plants, drought conditions trigger reduced stomatal opening or temporary stomatal closure during the hottest, driest parts of the day.",
+        "source_2": "Lower stomatal opening reduces transpiration, the primary pathway for water loss from leaves.",
+        "source_3": "Several drought-tolerant crops (e.g., sorghum and some grapevine cultivars) maintain relatively open stomata under moderate drought to sustain photosynthesis and evaporative cooling, relying instead on deep rooting and osmotic adjustment.",
+        "source_4": "Submerged aquatic plants have few or nonfunctional stomata on underwater leaves and do not use stomatal closure as a water-conservation mechanism.",
+        "source_5": "Prolonged stomatal closure severely limits CO2 uptake and can depress growth and yield during drought in many crops.",
+        "source_6": "In breeding programs for drought tolerance, genotypes that maintain stomatal conductance under water stress often yield better than those that close stomata strongly."
+    },
+    "answer": "planting crops that survive in droughts"
+}

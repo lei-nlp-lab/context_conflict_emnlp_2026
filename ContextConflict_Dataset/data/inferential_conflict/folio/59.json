@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Amy is a professional athlete.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every professional athlete spends the majority of their time on sports.",
+        "source_2": "Every Olympic gold medalist is a professional athlete.",
+        "source_3": "No full-time scientist spends the majority of their time on sports.",
+        "source_4": "Every Nobel physics laureate is a full-time scientist.",
+        "source_5": "Either Amy spends the majority of her time on sports, or Amy is an Olympic gold medalist.",
+        "source_6": "If Amy is not a Nobel physics laureate, then Amy is not an Olympic gold medalist.",
+        "source_7": "Amy holds a full-time research position in physics.",
+        "source_8": "Amy is 16 years old."
+    },
+    "answer": "False"
+}

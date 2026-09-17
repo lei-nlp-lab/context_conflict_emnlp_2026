@@ -1,0 +1,16 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Peter is good at playing piano.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who plays an instrument in a concert is good at that instrument.",
+        "source_2": "Peter plays piano.",
+        "source_3": "Peter plays violin.",
+        "source_4": "Peter plays saxophone.",
+        "source_5": "Peter plays piano in a concert.",
+        "source_6": "Peter plays an instrument in a concert.",
+        "source_7": "Oliver plays an instrument in a concert.",
+        "source_8": "In the concert, Oliver’s instrument is different from Peter’s.",
+        "source_9": "At the concert, Peter’s on-stage piano part was mimed to a pre-recorded track rather than actually performed.",
+        "source_10": "The instrument Peter appeared with on stage was a self-playing piano that performed autonomously once started."
+    },
+    "answer": "Uncertain"
+}

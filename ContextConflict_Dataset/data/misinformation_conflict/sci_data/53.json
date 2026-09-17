@@ -1,0 +1,14 @@
+{
+    "question": "Do cost-effectiveness analyses based on randomized clinical trial data provide accurate estimates of patient costs observed in real-world clinical practice (e.g., GPRD) for selective COX-2 inhibitors? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS The published cost-effectiveness analyses of coxibs lacked external validity, did not represent patients in actual clinical practice, and should not have been used to inform prescribing policies.",
+        "source_2": "Using randomized trial event probabilities rather than GPRD inputs, the modeled mean cost aligned with routine-care spending, approximating US$60k in the early 1990s and US$170k in the early 2000s, indicating that trial-based evaluations accurately reflect real-world prices.",
+        "source_3": "After inflation and case-mix adjustment, mean GPRD event costs (1990–1993 vs 2002–2005) were statistically indistinguishable from the VIGOR and CLASS trial-based estimates, supporting the external validity of cRCT-informed cost-effectiveness for clinical practice."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

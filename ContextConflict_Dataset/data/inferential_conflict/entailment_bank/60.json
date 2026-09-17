@@ -1,0 +1,11 @@
+{
+    "question": "Which is drier, the Moon or the Earth?",
+    "content": {
+        "source_1": "Radiometric dating of Earth and primitive meteorites indicates that Earth formed about 4.54 billion years ago.",
+        "source_2": "Multiple lines of evidence (e.g., lunar zircon ages and magma-ocean crystallization models) place the Moon’s formation at roughly 4.51 billion years ago, consistent with a giant-impact event occurring after Earth formed.",
+        "source_3": "The oldest intact rock formations on Earth (e.g., the Acasta Gneiss) are about 4.03 billion years old, whereas several Apollo lunar highland samples are older than 4.3 billion years; some lunar zircons date to approximately 4.46 billion years.",
+        "source_4": "In planetary geology, the age of the oldest preserved crustal rocks sets a hard minimum on a body’s age: if a rock is X billion years old, the body must already have existed at least X billion years ago.",
+        "source_5": "The lunar highlands are remnants of an early anorthositic crust formed from a global lunar magma ocean, preserving very ancient surface materials."
+    },
+    "answer": "drier."
+}

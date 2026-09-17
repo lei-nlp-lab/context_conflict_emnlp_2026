@@ -1,0 +1,17 @@
+{
+  "qid": 51398,
+  "question": "What is the primary use of Hesketh Park?",
+  "ambiguous_entity": "Hesketh Park",
+  "content": {
+    "source_1": "Hesketh Park, Southport Hesketh Park is a public park situated near the north end of Lord Street in the Victorian seaside town of Southport, Merseyside, England. It was designed as a public park in the mid-19th century by Edward Kemp, and was further developed in the 20th century. The land was donated by the Rev Charles Hesketh and has many Victorian features and landscape designs. The land Hesketh Park occupies was once (like the rest of Southport) sand dunes and beach, as the tides receded and the town of Southport grew, the need for a park was proposed. The land",
+    "source_2": "Hesketh Park (cricket ground) Hesketh Park is a cricket ground in Dartford in Kent. The ground is the home of Dartford Cricket Club, one of the oldest cricket clubs in the United Kingdom. The ground was established at the beginning of the 20th century and has been used as a first-class cricket venue by Kent County Cricket Club. The ground is located around south-east of Dartford town centre and is one f the few open spaces which remain on what was once the Dartford Brent. The A296 road runs along the western side of the ground with the A225 road"
+  },
+  "content_pid": [
+    "14559244",
+    "14885288"
+  ],
+  "answer": [
+    "Public park",
+    "Cricket ground"
+  ]
+}

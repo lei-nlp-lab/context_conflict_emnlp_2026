@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Lana Wilson is a US filmmaker.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lana Wilson directed After Tiller.",
+        "source_2": "Lana Wilson directed The Departure.",
+        "source_3": "Lana Wilson directed Miss Americana.",
+        "source_4": "Anyone who directs a film is a filmmaker.",
+        "source_5": "After Tiller is a documentary.",
+        "source_6": "Every documentary is a film.",
+        "source_7": "Lana Wilson is from Kirkland.",
+        "source_8": "Kirkland is a city in the United States.",
+        "source_9": "If someone is from a city in a given country, then they are from that country.",
+        "source_10": "After Tiller was nominated for the Independent Spirit Award for Best Documentary.",
+        "source_11": "There is also a city named Kirkland in Canada.",
+        "source_12": "Some documentaries are television works rather than films."
+    },
+    "answer": "Uncertain"
+}

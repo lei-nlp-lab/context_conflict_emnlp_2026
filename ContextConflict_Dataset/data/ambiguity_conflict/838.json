@@ -1,0 +1,17 @@
+{
+  "qid": 42241,
+  "question": "What is the size of Puffin Island?",
+  "ambiguous_entity": "Puffin Island",
+  "content": {
+    "source_1": "Puffin Island (Anglesey) Puffin Island () (at or ) is an uninhabited island off the eastern tip of Anglesey, Wales. It was formerly known as Priestholm in English and Ynys Lannog in Welsh. A hermitage was established here around the 6th century and there are remains of a 12th-century monastery on the island. The island is also a Special Protection Area for wildlife. Puffin Island is the ninth largest island off the coast of Wales and marks the northeastern end of the Menai Strait. Puffin Island's highest point is Carboniferous limestone, at above sea level having steep cliffs on all",
+    "source_2": "Puffin Island (County Kerry) Puffin Island (\"Oileán na gCánóg\" in Irish) is an uninhabited steep rocky island lying off the coast of the Iveragh Peninsula, County Kerry, Ireland. The island is about 1.5 km long and 0.7 km wide, and rises to 159 metres. It is separated from the mainland by Puffin Sound, which is only about 250 metres across. Day visits to the island from Valentia can be arranged. Puffin Island holds important populations of several seabird species, including Atlantic puffins, Manx shearwaters and European storm-petrels, and was acquired as a nature reserve by the Irish Wildbird Conservancy (now"
+  },
+  "content_pid": [
+    "6566554",
+    "6178554"
+  ],
+  "answer": [
+    "ninth largest island off the coast of Wales",
+    "an uninhabited steep rocky island lying off the coast of the Iveragh Peninsula, County Kerry, Ireland"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Most stars are similar to each other in what respect, given they are mostly made of hydrogen and helium?",
+    "content": {
+        "source_1": "Star counts and initial-mass-function studies show that low-mass M-dwarf “red dwarfs” constitute the clear majority of stars by number in the Milky Way (roughly 70–75%).",
+        "source_2": "M-dwarf stars share broadly similar properties: low masses (~0.08–0.6 solar masses), cool surface temperatures (~2400–3900 K), small radii, red colors, and extremely long main-sequence lifetimes.",
+        "source_3": "The Hertzsprung–Russell diagram demonstrates that stars occupy an exceptionally wide range of temperatures (≈2400 K to >30,000 K), luminosities (varying by factors of over a million), and spectral types (O, B, A, F, G, K, M), evidencing great diversity across the stellar population.",
+        "source_4": "Stellar metallicities (chemical compositions beyond hydrogen and helium) vary by orders of magnitude: ancient Population II stars can have [Fe/H] below −2 or even −5, while many disk stars are near or above solar metallicity; composition is a core stellar property.",
+        "source_5": "Stellar evolution alters temperature and luminosity substantially: even stars with similar initial masses can be found at very different stages (e.g., main-sequence dwarfs versus red giants), producing widely differing colors and brightnesses at any given time.",
+        "source_6": "Massive, luminous stars are intrinsically rare and short-lived compared with low-mass stars, yet their brightness makes them disproportionately prominent in many observational samples and images."
+    },
+    "answer": "composition."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'James drives to his destination or he is a student.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Everyone who works at Meta has a high income.",
+        "source_2": "No high-income person takes a bus to their destination.",
+        "source_3": "Every person either takes a bus or drives to their destination.",
+        "source_4": "Anyone who has a car chooses to drive to their destination.",
+        "source_5": "No students drive to their destination.",
+        "source_6": "James either has a car or works at Meta.",
+        "source_7": "Today, private cars are not allowed to enter the area of James’s destination.",
+        "source_8": "James’s car is in the repair shop today."
+    },
+    "answer": "True"
+}

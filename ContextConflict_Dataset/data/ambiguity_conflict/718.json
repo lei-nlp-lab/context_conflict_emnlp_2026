@@ -1,0 +1,17 @@
+{
+  "qid": 56098,
+  "question": "Where is the Museo del Ferrocarril located?",
+  "ambiguous_entity": "Museo del Ferrocarril",
+  "content": {
+    "source_1": "commercial rail line between Barcelona and Vilanova, the creation of a Railway Museum in the old engine shed was proposed. The national Spanish railway operator (RENFE) and the autonomous government of Catalonia initially led the project. Later the town council of Vilanova joined. The museum opened on August 5, 1990. In 1993 RENFE the National Spanish Railways made the Vilanova museum a subsidiary of the main museum in Madrid, the , and the Fundación de los Ferrocarriles Españoles. In 2010 the Universitat Politècnica de Catalunya established a master's program on Railway systems and Electrical Traction in the museum's facilities in",
+    "source_2": "Railway Museum (Madrid) The Museo del Ferrocarril (Railway Museum) in Madrid, Spain, is one of the largest historic railroad collections in Europe. It is housed in a redundant railway station called Madrid-Delicias in the \"barrio\" of Delicias. The location is near the centre of Madrid. The railway museum opened in the Palacio de Fernán Núñez, which is now the seat of the \"Fundación de los Ferrocarriles Españoles\". After an agreement between RENFE and the Ministry of Culture regarding the future of Las Delicias station, the collections were transferred to Las Delicias which opened as a railway museum in 1984. The"
+  },
+  "content_pid": [
+    "13686873",
+    "12161738"
+  ],
+  "answer": [
+    "Vilanova",
+    "Madrid"
+  ]
+}

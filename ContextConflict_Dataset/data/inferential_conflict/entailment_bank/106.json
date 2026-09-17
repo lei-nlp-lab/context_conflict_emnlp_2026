@@ -1,0 +1,12 @@
+{
+    "question": "What force causes the planets in the solar system to orbit the Sun?",
+    "content": {
+        "source_1": "In a two-body system, an inverse-square central attraction F = G M m / r^2 can provide the inward (centripetal) force m v^2 / r needed to sustain a bound orbit at distance r around mass M.",
+        "source_2": "The Sun contains about 99.8% of the Solar System’s mass, so its gravitational pull overwhelmingly dominates the first-order motion of the planets as small bodies bound to a central massive body.",
+        "source_3": "The electromagnetic interaction is vastly stronger than gravity between charged particles (by ~10^36 in relative strength), and the Sun fills the heliosphere with a large-scale magnetic field carried by the ionized solar wind.",
+        "source_4": "Planets and moons interact electromagnetically with the solar wind: they possess magnetospheres/ionospheres, can develop electrical potentials/charges, and support current systems that experience Lorentz forces and torques in the heliospheric magnetic field.",
+        "source_5": "Kepler’s laws (elliptical orbits with the Sun at a focus; equal areas in equal times; P^2 ∝ a^3) are the natural consequence of motion under a central inverse-square attraction, matching planetary trajectories.",
+        "source_6": "Non-gravitational influences such as solar radiation pressure, Poynting–Robertson drag, and electromagnetic interactions measurably perturb the paths of small bodies and spacecraft in interplanetary space."
+    },
+    "answer": "gravity"
+}

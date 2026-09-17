@@ -1,0 +1,12 @@
+{
+    "question": "What instrument should you use to observe stars, planets, and the Moon in detail?",
+    "content": {
+        "source_1": "Telescopes are optical instruments designed to gather light and magnify distant astronomical objects such as stars, planets, and the Moon.",
+        "source_2": "Under clear night skies, using an optical telescope lets observers see celestial objects in greater detail than with the unaided eye.",
+        "source_3": "Opaque cloud cover blocks visible light from stars, planets, and the Moon; optical telescopes cannot see through clouds.",
+        "source_4": "When local skies are overcast, planetariums and remote observatory livestreams provide detailed views of the night sky regardless of local weather.",
+        "source_5": "A personal telescope located at a cloudy site cannot bypass local weather; with overcast skies it provides no usable view of celestial objects.",
+        "source_6": "Binoculars (which are essentially two small telescopes) are useful for wide-field night-sky viewing but, like telescopes, cannot see through clouds."
+    },
+    "answer": "Telescope"
+}

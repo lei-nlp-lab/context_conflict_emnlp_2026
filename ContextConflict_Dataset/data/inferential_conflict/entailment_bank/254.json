@@ -1,0 +1,12 @@
+{
+    "question": "Compared to other communities, which locally available resource in desert communities is most likely to be depleted as population increases?",
+    "content": {
+        "source_1": "Deserts receive very little rainfall and have high evaporation rates, so naturally occurring freshwater (surface water and shallow groundwater) is scarce compared with more humid regions.",
+        "source_2": "When a community’s population grows, total demand for essential resources like drinking water rises, increasing the risk of drawing down local supplies.",
+        "source_3": "Many desert settlements tap nearby aquifers that recharge slowly; sustained pumping during population growth can exceed recharge and deplete those aquifers.",
+        "source_4": "Numerous desert cities (e.g., in the American Southwest and the Middle East) import most of their potable water via canals, pipelines, or desalination, reducing reliance on strictly local freshwater sources.",
+        "source_5": "Woody vegetation in arid landscapes grows slowly; harvesting nearby shrubs and trees for fuel or construction can outpace regrowth, rapidly depleting local biomass.",
+        "source_6": "In dryland regions with limited access to electricity or gas, households commonly depend on locally collected firewood for cooking and heating, intensifying deforestation around settlements."
+    },
+    "answer": "water"
+}

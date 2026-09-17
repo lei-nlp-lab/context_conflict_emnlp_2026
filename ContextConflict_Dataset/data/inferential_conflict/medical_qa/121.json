@@ -1,0 +1,14 @@
+{
+    "question": "A 28-year-old man presents to his primary care provider complaining of intermittent stomach pain, non-bloody diarrhea, and weight loss for the last 3 months. He has occasional abdominal pain and fever. This condition makes studying difficult. He has tried omeprazole and dietary changes with no improvement. Past medical history is significant for occasional pain in the wrists and knees for several years. He takes ibuprofen for pain relief. His temperature is 38В°C (100.4В°F). On mental status examination, short-term memory is impaired. Attention and concentration are reduced. Examination shows no abnormalities or tenderness of the wrists or knees. There are no abnormalities on heart and lung examinations. Abdominal examination is normal. Upper endoscopy shows normal stomach mucosa but in the duodenum, there is pale yellow mucosa with erythema and ulcerations. Biopsies show infiltration of the lamina propria with periodic acid-Schiff (PAS)-positive macrophages. What best explains these findings?",
+    "content": {
+        "source_1": "The prior probability of this patient having Whipple's disease is relatively low in the general population, let's assume at 0.1%. The symptoms of intermittent stomach pain, non-bloody diarrhea, and weight loss increase the probability of some sort of gastrointestinal disorder. The patient also has joint pain and fever which is consistent with Whipple's disease, increasing the probability to around 2%. The finding of pale yellow mucosa with erythema and ulcerations in the duodenum, further increases the probability to 10%. Finally, the biopsy showing infiltration of the lamina propria with PAS-positive macrophages is characteristic of Whipple's disease, raising the probability to around 90%. Given these findings and the clinical picture, Whipple's disease is the most likely diagnosis.",
+        "source_2": "The differential for this patient includes a range of conditions such as inflammatory bowel disease (Crohn's disease or ulcerative colitis), peptic ulcer disease, celiac disease, and gastrointestinal infections. However, he doesn't respond to dietary changes, making celiac disease less likely. His normal stomach mucosa found during upper endoscopy also makes peptic ulcer disease less likely. He has not been mentioned to have any travel history or exposures, which makes infection less likely. The patient's abdominal pain, diarrhea, weight loss, and fever, combined with duodenal ulcerations and the presence of PAS-positive macrophages, are indicative of Crohn's disease. This is further supported by his intermittent joint pain (Crohn's can be associated with extra-intestinal symptoms like arthritis). The memory impairment and reduced attention and concentration could be secondary to malabsorption and nutritional deficiencies caused by the disease."
+    },
+    "answer": [
+        "Whipple's disease"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

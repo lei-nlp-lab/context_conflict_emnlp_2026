@@ -1,0 +1,16 @@
+{
+    "question": "In adults with chronic tension-type headache, is amitriptyline more effective than placebo in reducing headache frequency, duration, intensity, and analgesic use? Answer with Yes or No.",
+    "content": {
+        "source_1": "Amitriptyline significantly reduced (P < 0.05) frequency and duration of headache as well as analgesic consumption in chronic, but not in episodic, tension-type headache.",
+        "source_2": "In a randomized controlled trial, tricyclic antidepressant medication and stress management therapy failed to exceed placebo in reducing headache activity, analgesic medication use, or headache-related disability, and antidepressant medication did not yield more rapid improvements in headache activity.",
+        "source_3": "CONCLUSIONS Our results indicate that antidepressant medication and stress management therapy are each modestly effective in treating chronic tension-type headaches.",
+        "source_4": "With a primary endpoint defined as a ≥50% reduction in the product of headache duration and frequency and in headache intensity, responder rates were higher on placebo (26.6%) than on amitriptyline (25.4%), with a significant difference favoring placebo (P < .05), indicating amitriptyline’s inferiority for chronic tension-type headache."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

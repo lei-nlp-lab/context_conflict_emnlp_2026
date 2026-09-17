@@ -1,0 +1,17 @@
+{
+  "qid": 30761,
+  "question": "58th Regiment of Foot was raised in which year?",
+  "ambiguous_entity": "58th Regiment of Foot (disambiguation)",
+  "content": {
+    "source_1": "47th (Lancashire) Regiment of Foot The 47th (Lancashire) Regiment of Foot was an infantry regiment of the British Army, raised in Scotland in 1741. It served in North America during the Seven Years' War and American Revolutionary War and also fought during the Napoleonic Wars and the Crimean War. Under the Childers Reforms it amalgamated with the 81st Regiment of Foot (Loyal Lincoln Volunteers) to form the Loyal Regiment (North Lancashire) in 1881. The regiment was raised in Scotland by Colonel Sir John Mordaunt as Sir John Mordaunt's Regiment of Foot in 1741. The regiment was sent to Scotland and",
+    "source_2": "58th (Rutlandshire) Regiment of Foot The 58th (Rutlandshire) Regiment of Foot was a British Army line infantry regiment, raised in 1755. Under the Childers Reforms it amalgamated with the 48th (Northamptonshire) Regiment of Foot to form the Northamptonshire Regiment in 1881. The regiment was raised by Colonel Robert Anstruther as the 60th Regiment of Foot in 1755 for service in the Seven Years' War. It was re-ranked as the 58th Regiment of Foot, following the disbandment of the existing 50th and 51st regiments, in 1756. The regiment embarked for North America in spring 1758 for service in the French and"
+  },
+  "content_pid": [
+    "3952956",
+    "11012160"
+  ],
+  "answer": [
+    "1741",
+    "1755 and 1756. (1756, as the 58th Regiment of Foot, following the disbandment of the existing 50th and 51st regiments) .\""
+  ]
+}

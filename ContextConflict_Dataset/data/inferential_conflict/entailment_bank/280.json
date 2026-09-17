@@ -1,0 +1,12 @@
+{
+    "question": "What major advantage do electric cars have over gasoline-burning cars in terms of pollution?",
+    "content": {
+        "source_1": "Battery-electric cars produce zero tailpipe exhaust while driving; they have no on-board combustion and emit no NOx, CO, hydrocarbons, or exhaust particulates from a tailpipe.",
+        "source_2": "Tailpipe exhaust from gasoline cars is a major source of urban air pollutants (including NOx, CO, unburned hydrocarbons, and fine particles) that contribute to smog and adverse health effects.",
+        "source_3": "Electric vehicles use regenerative braking that substantially reduces brake-pad wear, cutting brake-dust particulate emissions compared with conventional cars that rely more on friction brakes.",
+        "source_4": "Where electricity generation is dominated by coal, additional demand from EV charging leads to higher SO2, NOx, and particulate emissions from power plants; multiple assessments have found that under such grids, total air-pollution damages per mile from EVs can exceed those from comparable gasoline cars.",
+        "source_5": "Due to heavy battery packs, many EVs weigh more than similar gasoline models; increased vehicle mass raises tire-wear particulate emissions per mile, which are a significant contributor to ambient airborne particles.",
+        "source_6": "Modern gasoline cars equipped with advanced catalytic converters and, in many cases, gasoline particulate filters have greatly reduced tailpipe NOx and PM emissions compared with older vehicles, lowering their per‑mile pollution in real-world driving."
+    },
+    "answer": "causes less pollution."
+}

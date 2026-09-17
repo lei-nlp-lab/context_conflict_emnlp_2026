@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The sea eel is an eel.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every eel is a fish.",
+        "source_2": "No fish are plants.",
+        "source_3": "Every item displayed in the collection is either a plant or an animal.",
+        "source_4": "No multicellular animals are bacteria.",
+        "source_5": "Every animal displayed in the collection is multicellular.",
+        "source_6": "The sea eel is displayed in the collection.",
+        "source_7": "At least one of the following is true of the sea eel: it is an eel, it is an animal, or it is not a plant.",
+        "source_8": "In some contexts, the name “sea eel” refers to eelgrass, which is a plant."
+    },
+    "answer": "Uncertain"
+}

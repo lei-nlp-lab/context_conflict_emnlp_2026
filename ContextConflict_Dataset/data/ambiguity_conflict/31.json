@@ -1,0 +1,20 @@
+{
+  "qid": 1829,
+  "question": "What is the primary focus of the publication \"Science Journal\"?",
+  "ambiguous_entity": "Science Journal",
+  "content": {
+    "source_1": "New Scientist New Scientist, first published on 22 November 1956, is a weekly, English-language magazine that covers all aspects of science and technology. \"New Scientist\", based in London, publishes editions in the UK, the United States, and Australia. Since 1996 it has been available online. Sold in retail outlets (paper edition) and on subscription (paper and/or online), the magazine covers news, features, reviews and commentary on science, technology and their implications. \"New Scientist\" also publishes speculative articles, ranging from the technical to the philosophical. The magazine was founded in 1956 by Tom Margerison, Max Raison and Nicholas Harrison as \"The",
+    "source_2": "and others who are concerned with the wide implications of science and technology. Unlike most scientific journals, which focus on a specific field, \"Science\" and its rival \"Nature\" cover the full range of scientific disciplines. According to the \"Journal Citation Reports\", \"Science\"s 2015 impact factor was 34.661. Although it is the journal of the AAAS, membership in the AAAS is not required to publish in \"Science\". Papers are accepted from authors around the world. Competition to publish in \"Science\" is very intense, as an article published in such a highly cited journal can lead to attention and career advancement for",
+    "source_3": "publishing articles that mark a fundamental breakthrough in their respective fields. In many fields, a formal or informal hierarchy of scientific journals exists; the most prestigious journal in a field tends to be the most selective in terms of the articles it will select for publication, and usually will also have the highest impact factor. In some countries, journal rankings can be utilized for funding decisions and even evaluation of individual researchers, although they are poorly suited for that purpose. For scientific journal Reproducibility and Replicability are core concepts that allow other scientist to check and reproduce the results under"
+  },
+  "content_pid": [
+    "510479",
+    "1592265",
+    "479279"
+  ],
+  "answer": [
+    "All aspects of science and technology",
+    "The full range of scientific disciplines",
+    "Publishing articles that mark a fundamental breakthrough in their respective fields"
+  ]
+}

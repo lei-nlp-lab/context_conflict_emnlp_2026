@@ -1,0 +1,20 @@
+{
+  "qid": 652,
+  "question": "What type of engine does the Honda Integra have?",
+  "ambiguous_entity": "Honda Integra (disambiguation)",
+  "content": {
+    "source_1": "was updated for the 2014 model year with engine capacity increased to 745cc. The Integra is powered by a single overhead camshaft parallel-twin engine that is essentially the 1.3 L Honda Fit engine chopped in half — it even retains the same bore and stroke dimensions — tilted 62° forward to provide a low centre of gravity, with near uniform weight distribution. The undersquare engine has programmed fuel injection, separate timing profiles for each cylinder, and is tuned to deliver powerful torque in the low- to mid-speed range. The engine was designed to deliver a \"pleasant throbbing feel\" of a",
+    "source_2": "Honda VT250F The Honda VT250F Integra is a semi-faired, sport bike first produced by Honda in 1982. The VT250F had a DOHC 4-valve-per-cylinder, 90-degree water-cooled V-twin engine, which significantly reduced primary vibration when compared to inline twin engines used on similar machines. The V-twin engine also allowed the motorcycle to have a low centre of gravity and a low seat height. The front brake system was a single inboard ventilated disc that was developed to improve brake performance and feel. This was only seen on Honda models for a few years, before a switch to sintered metal brake pads with",
+    "source_3": "and CRX, suspension calibration was re-worked, better tires were used and a 113-hp DOHC fuel-injected 16-valve engine was used in place of the SOHC unit from the CRX Si. Just like the Prelude and the Vigor of that period, the Integra featured sleek, sporty pop-up headlights, like its Japanese dealership \"Honda Verno\" stablemates, with the CRX adopting semi-concealed doors over the headlights. Nearly 228,000 units were sold during the four-year run of the first-generation model, most of them in the United States. The first generation Acura Integras actually came with two different engines. Although they shared the same engine code"
+  },
+  "content_pid": [
+    "16516989",
+    "11759681",
+    "2062407"
+  ],
+  "answer": [
+    "Single overhead camshaft parallel-twin engine",
+    "DOHC 4-valve-per-cylinder, 90-degree water-cooled V-twin engine",
+    "113-hp DOHC fuel-injected 16-valve engine"
+  ]
+}

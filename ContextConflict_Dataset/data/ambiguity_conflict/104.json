@@ -1,0 +1,17 @@
+{
+  "qid": 289,
+  "question": "What are the primary afferents or sources of lymph fluid for the iliac lymph nodes?",
+  "ambiguous_entity": "Iliac lymph nodes",
+  "content": {
+    "source_1": "External iliac lymph nodes The external iliac lymph nodes are lymph nodes, from eight to ten in number, that lie along the external iliac vessels. They are arranged in three groups, one on the lateral, another on the medial, and a third on the anterior aspect of the vessels; the third group is, however, sometimes absent. Their principal afferents are derived from the inguinal lymph nodes, the deep lymphatics of the abdominal wall below the umbilicus and of the adductor region of the thigh, and the lymphatics from the glans penis, glans clitoris, the membranous urethra, the prostate, the fundus",
+    "source_2": "Internal iliac lymph nodes The internal iliac lymph nodes (or hypogastric) surround the internal iliac artery and its branches (the \"hypogastric vessels\"), and receive the lymphatics corresponding to the distribution of the branches of it, i. e., they receive lymphatics from all the pelvic viscera, from the deeper parts of the perineum, including the membranous and cavernous portions of the urethra, and from the buttock and back of the thigh. The internal iliac lymph nodes also drain the superior half of the rectum, above the pectinate line. It does not receive lymph from the ovary or testis, which drain to"
+  },
+  "content_pid": [
+    "7828535",
+    "9168834"
+  ],
+  "answer": [
+    "Inguinal lymph nodes, the deep lymphatics of the abdominal wall below the umbilicus and of the adductor region of the thigh, and the lymphatics from the glans penis, glans clitoris, the membranous urethra, the prostate",
+    "All the pelvic viscera, from the deeper parts of the perineum, including the membranous and cavernous portions of the urethra, and from the buttock and back of the thigh. The internal iliac lymph nodes also drain the superior half of the rectum."
+  ]
+}

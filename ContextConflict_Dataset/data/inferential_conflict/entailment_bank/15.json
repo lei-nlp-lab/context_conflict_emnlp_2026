@@ -1,0 +1,12 @@
+{
+    "question": "What does the Earth take approximately 365 days to complete?",
+    "content": {
+        "source_1": "The Sun is a star, and Earth is a planet in the Solar System that revolves around the Sun.",
+        "source_2": "For any planet, one complete orbit around its star is defined as that planet’s year.",
+        "source_3": "On Earth, a year contains approximately 365 days in the civil (Gregorian) calendar; the mean tropical year is about 365.2422 days.",
+        "source_4": "A solar day is the time Earth takes to complete one rotation relative to the Sun, measured from one local noon to the next.",
+        "source_5": "In practice, an Earth year comprises about 365 solar day–night cycles.",
+        "source_6": "Earth’s axial rotation is what produces the alternating cycle of daylight and darkness experienced each day."
+    },
+    "answer": "Earth to orbit around the Sun."
+}

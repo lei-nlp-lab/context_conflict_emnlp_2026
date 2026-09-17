@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If you step on a stonefish and apply heat to the affected area, it can cause death to you.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Some fish sting people.",
+        "source_2": "A stonefish is a kind of fish.",
+        "source_3": "If you step on a stonefish, it can sting you.",
+        "source_4": "A stonefish sting can cause death if the person is not treated.",
+        "source_5": "Treating a stonefish sting involves applying heat to the affected area or using antivenom.",
+        "source_6": "Applying heat counts as treatment, so a person who does this is not “untreated.”",
+        "source_7": "In severe cases, heat alone may be insufficient, and antivenom may be required to prevent death."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 4378,
+  "question": "What was Billy Baldwin's profession?",
+  "ambiguous_entity": "Billy Baldwin",
+  "content": {
+    "source_1": "Billy Baldwin (baseball) Robert Harvey Baldwin (June 9, 1951 – June 28, 2011) was a Major League Baseball outfielder with the 1975 Detroit Tigers and the 1976 New York Mets. Listed at , 175 lb., he batted and threw left-handed. Baldwin was born in Tazewell, Virginia, and attended Southern University and A&M College in Baton Rouge, Louisiana on a scholarships for baseball, football and soccer. He signed with the Detroit Tigers as an undrafted free agent in 1972, and received his first call to the majors in 1975 when a thumb injury ended Tigers outfielder Mickey Stanley's season. He batted",
+    "source_2": "Billy Baldwin (decorator) William Baldwin, Jr. (1903- 25 November 1983), known as Billy Baldwin and nicknamed Billy B, was a New York interior decorator, characterized in an obituary as the \"dean of interior decorators\". He was named to the International Best Dressed List Hall of Fame in 1974. Baldwin was born in Roland Park, Maryland and studied architecture at Princeton, dropping out after two years. He attended Truman Capote's Black and White Ball at the Plaza in 1966. Baldwin died in 1983 on Nantucket Island, Massachusetts. Starting in 1935, he was employed by Ruby Ross Wood, and when she died",
+    "source_3": "Manned Spacecraft Center. He was the president of the Wooden Boat Association of north Texas. He was also the managing editor of the magazine \"The Brass Bell\" of the Chris-Craft Antique Boat Club. He and others helped create the Lawson Boating Heritage Center on Chautauqua Lake, Bemus Point, New York. Several books of the original Helmsman saga, \"The Siege\", \"The Defenders\" and \"The Defiance\" in particular, were influenced by the World War II autobiography titled \"The Big Show\" (written by Pierre Clostermann). Baldwin's work contains allusions to other science fiction works. For example, \"Galactic Convoy\" mentions a planet named Throon"
+  },
+  "content_pid": [
+    "11124243",
+    "17654412",
+    "8298214"
+  ],
+  "answer": [
+    "Major League Baseball outfielder",
+    "Interior decorator and Dean of interior decorators",
+    "President of the Wooden Boat Association of north Texas and Managing Editor of the magazine \"The Brass Bell\" of the Chris-Craft Antique Boat Club"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 65781,
+  "question": "What is the frequency of the Cardinal and Hoosier State trains?",
+  "ambiguous_entity": "Cardinal and Hoosier State",
+  "content": {
+    "source_1": "Cardinal (train) The Cardinal is a thrice-weekly long distance passenger train operated by Amtrak between New York Penn Station and Chicago Union Station, with major intermediate stops at Philadelphia , Washington, D.C., Charlottesville, Charleston, Huntington, Cincinnati, and Indianapolis. Trains depart New York City on Sundays, Wednesdays, and Fridays, and depart Chicago on Tuesdays, Thursdays, and Saturdays. The trip between Chicago and New York City takes 28 hours. The \"Hoosier State\" provides service on the segment of the \"Cardinal\" route between Indianapolis and Chicago on the four days of the week when it is not otherwise provided by the \"Cardinal\". During",
+    "source_2": "Hoosier State (train) The Hoosier State is an Amtrak passenger train that provides service on a route between Chicago and Indianapolis. It runs on the four days each week that the \"Cardinal\" does not run – departing Chicago Sunday, Monday, Wednesday, and Friday, and departing Indianapolis Sunday, Tuesday, Wednesday, and Friday – giving the Chicago–Indianapolis market daily rail service. Prior to Amtrak, the Chicago–Indianapolis market was served by several daily trains, the Pennsylvania Railroad's \"South Wind\" and \"Kentuckian\", and the New York Central's \"James Whitcomb Riley\", \"Indianapolis Special\", and \"Sycamore\". There is a name antecedent to the train. The Monon"
+  },
+  "content_pid": [
+    "4084519",
+    "10823520"
+  ],
+  "answer": [
+    "Thrice-weekly",
+    "Daily on the four days each week that the \"Cardinal\" does not run"
+  ]
+}

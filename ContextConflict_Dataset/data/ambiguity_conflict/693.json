@@ -1,0 +1,26 @@
+{
+  "qid": 21885,
+  "question": "What was the significant event associated with Thomas Percy?",
+  "ambiguous_entity": "Thomas Percy",
+  "content": {
+    "source_1": "Thomas Percy, 7th Earl of Northumberland \"Blessed\" Thomas Percy, 7th Earl of Northumberland, 1st Baron Percy, KG (1528 – 22 August 1572), led the Rising of the North and was executed for treason. He was later beatified by the Catholic Church. Percy was the eldest son of Sir Thomas Percy and Eleanor, daughter of Sir Guiscard Harbottal. He was the nephew of Henry Percy, 6th Earl of Northumberland, with whom Anne Boleyn had a romantic association before she became the wife of King Henry VIII. When Thomas was eight years old his father, Sir Thomas Percy, was executed at Tyburn",
+    "source_2": "Thomas Percy (Pilgrimage of Grace) Sir Thomas Percy (c. 1504 – 2 June 1537) was a participant in the 1537 Bigod's Rebellion in the aftermath of the Pilgrimage of Grace, a Roman Catholic uprising against King Henry VIII. He was convicted of treason and hanged, drawn and quartered at Tyburn. He was born in about 1504 at Alnwick Castle, Northumberland, the second son of Henry Percy, 5th Earl of Northumberland by his wife Lady Catherine Spencer. His elder brother Henry Percy, 6th Earl of Northumberland, who had long been failing in health, died after having been persuaded to leave all",
+    "source_3": "Through their wealthy planter father, LeRoy Pope, the sisters were related to the English poet Alexander Pope. Thomas George Percy managed the affairs for his friend John Walker while he was away in Washington, D.C.. Percy stayed in Huntsville, enjoying his large library and extended family. He and Maria named their eldest son John Walker, after his boon companion. Their second son, Charles Brown, was named after a third friend in Huntsville, Samual Brown, a distinguished physician who had studied medicine at Edinburgh. (Brown married Catherine Percy; their two children died in infancy.) Percy and Maria named their third son,",
+    "source_4": "Ambassador, Seneschal. He was appointed Admiral of the North from 26 Jan 1384–22 February 1385. He was created Earl of Worcester in 1397 by King Richard II. Along with his brother and nephew, he took part in Henry IV's deposition of Richard II, and later, in turn, in their own subsequent rebellion against King Henry IV. He was captured at the Battle of Shrewsbury and publicly beheaded in Shrewsbury two days later, on 23 July 1403. He was buried in St. Peter's, Shrewsbury, Shropshire, England. His head was displayed in London on London Bridge. He appears in Shakespeare's \"Henry IV,",
+    "source_5": "added the historical character of Simon de Montfort, Earl of Evesham. In this version the ballad became so popular that it was used in two plays, an anonymous novel, operas by Thomas Arne and Geoffrey Bush, and Carl Loewe's ballad \"Der Bettlers Tochter von Bednall Green\". A fuller account of the history of the ballad can be found in \"The Green\" by A. J. Robinson and D. H. B. Chesshyre. Thomas Percy (bishop of Dromore) Thomas Percy (13 April 1729 – 30 September 1811) was Bishop of Dromore, County Down, Ireland. Before being made bishop, he was chaplain to George"
+  },
+  "content_pid": [
+    "4347876",
+    "16193059",
+    "7989366",
+    "1846813",
+    "3841156"
+  ],
+  "answer": [
+    "Led the Rising of the North and was executed for treason",
+    "Participated in the 1537 Bigod's Rebellion in the aftermath of the Pilgrimage of Grace",
+    "He managed the affairs for his friend John Walker while he was away in Washington, D.C",
+    "He was captured at the Battle of Shrewsbury and publicly beheaded in Shrewsbury two days later, on 23 July 1403",
+    "He added the historical character of Simon de Montfort, Earl of Evesham"
+  ]
+}

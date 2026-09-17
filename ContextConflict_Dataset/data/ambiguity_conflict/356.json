@@ -1,0 +1,20 @@
+{
+  "qid": 9001,
+  "question": "What is the geographical area associated with Raub?",
+  "ambiguous_entity": "Raub",
+  "content": {
+    "source_1": "best in Malaysia. The town is styled as the \"durian capital of Malaysia\" attracting a steady stream of visitors, especially tourists from Singapore and China. Raub is administered by Raub District Council, with Hamdan Hussin being the President. Raub has its own constituency in the Dewan Rakyat of the Malaysian Parliament. The incumbent MP is Ariff Sabri Abdul Aziz of the DAP. In turn, Raub delivers three seats to the Pahang State Legislative Assembly, comprising Batu Talam, Tras and Dong. Raub is the only place in western Pahang (Raub, Bentong and Kuala Lipis) that has state and federal-level administrative offices.",
+    "source_2": "Raub (federal constituency) Raub is a federal constituency in Pahang, Malaysia, that has been represented in the Dewan Rakyat since 1959. The federal constituency was created in the 1958 redistribution and is mandated to return a single member to the Dewan Rakyat under the first past the post voting system. 2004–2016: The constituency contains the polling districts of Hulu Atok, Atok, Sega, Chenua, Batu Malim, FELDA Tersang Satu, FELDA Tersang Dua, Hulu Sungai, Batu Talam, Kundang Patah, Cheroh, FELDA Tersang Tiga, Bukit Fraser, Pekan Tras, Sungai Lui, Bukit Koman, Kampung Melayu, Taman Sentosa, Simpang Kallang, Kampung Sempalit, Kampung Baru Sempalit,",
+    "source_3": "general store operated by Samuel White. A hardware store, drug store, saloon, doctor's office, grain elevator, blacksmith, and various other establishments followed over the next decade. A post office was established at Raub in 1872, and remained in operation until it was discontinued in 1967. Raub is located at in York Township, at the intersection of Indiana State Road 71 and the Kankakee, Beaverville and Southern Railroad. The site is half a mile from the border with Newton County and is surrounded by relatively flat, open farmland. Raub, Indiana Raub is an unincorporated community in York Township, Benton County, Indiana."
+  },
+  "content_pid": [
+    "6767388",
+    "19514920",
+    "9197613"
+  ],
+  "answer": [
+    "A town",
+    "A federal constituency in Pahang, Malaysia",
+    "Flat, open farmland in Benton County, Indiana"
+  ]
+}

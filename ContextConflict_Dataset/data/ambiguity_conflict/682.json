@@ -1,0 +1,17 @@
+{
+  "qid": 5806,
+  "question": "Where is Rajkumar College located?",
+  "ambiguous_entity": "Rajkumar College",
+  "content": {
+    "source_1": "Rajkumar College, Raipur Rajkumar College (or RKC) in Raipur, Chhattisgarh, is one of the oldest K-12 foundation of India. It was founded by Sir Andrew Fraser in the year 1882 at Jabalpur. The School functioned at Jabalpur till 1892 and thereafter, shifted to its present site at Raipur in 1894, with boarding house facilities. Its estate is spread over 125 acres. It is a co-education, residential cum day boarding public school affiliated to the Council for the Indian School Certificate Examinations, New Delhi and prepares the students for Indian Certificate of Secondary Education (ICSE) (Class X) and Indian School Certificate",
+    "source_2": "Rajkumar College, Rajkot The Rajkumar College (or RKC) in Rajkot, Gujarat is one of the oldest K-12 institutions in India. RKC has a 26-acre (105,000 m²) campus in Rajkot. The foundation stone of Rajkumar College was laid in 1868. The institution was designed by Colonel Keatinge and was formally opened by the Governor of Bombay, H. B. Sir Seymour Fitzgerald, in 1870. The college was founded for the education of the princely order by the princes and chiefs of Kathiawad for their sons and relations. In 1938, on the initiative of its founding members, the college became a public school"
+  },
+  "content_pid": [
+    "15607656",
+    "5099206"
+  ],
+  "answer": [
+    "Raipur, Chhattisgarh",
+    "Rajkot, Gujarat"
+  ]
+}

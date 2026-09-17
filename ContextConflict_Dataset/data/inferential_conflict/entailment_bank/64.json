@@ -1,0 +1,12 @@
+{
+    "question": "Which property of Pluto explains why its surface gravity is the weakest among the nine planets?",
+    "content": {
+        "source_1": "Pluto is a dwarf planet orbiting the Sun and has far less mass than any of the eight classical planets.",
+        "source_2": "Mercury is the least massive of the eight classical planets, yet it is still more than twenty times as massive as Pluto.",
+        "source_3": "For planets and similar bodies, surface gravity increases with mass and, because planetary radius generally increases with mass, the least massive body in a set will typically have the weakest surface gravity (g ∝ M/R^2).",
+        "source_4": "Saturn has the lowest mean density of any planet in the Solar System—less than that of liquid water.",
+        "source_5": "For a given mass, a lower-density sphere has a larger radius and therefore a lower surface gravity (g = GM/R^2).",
+        "source_6": "Saturn rotates rapidly and is strongly oblate, which reduces the effective gravitational acceleration at its equator compared with a non-rotating sphere."
+    },
+    "answer": "has the smallest mass."
+}

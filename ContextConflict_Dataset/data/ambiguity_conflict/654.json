@@ -1,0 +1,20 @@
+{
+  "qid": 31980,
+  "question": "Where is the Hamilton County Courthouse located?",
+  "ambiguous_entity": "Hamilton County Courthouse",
+  "content": {
+    "source_1": "Hamilton County Courthouse (Illinois) The Hamilton County Courthouse is a government building in McLeansboro, the county seat of Hamilton County, Illinois, United States. Built in 1938, more than forty years after the destruction of the previous courthouse in McLeansboro, it is the third such building to serve the county. Land was first registered in Hamilton County in 1815, and the law establishing the county was enacted in early 1821. Local officials soon began working to choose a location as the county seat, and they ultimately approved a piece of land donated by one William McLean, for whom the future city",
+    "source_2": "Hamilton County Courthouse (Iowa) The Hamilton County Courthouse is located in Webster City, Iowa, United States. The current facility is the third structure that Hamilton County has used to house county administration and court functions The first courthouse for the county was begun in 1858, but it had to be dismantled before it was completed because the county ran out of money to finish construction. A two-story frame courthouse was completed in the 1860s, and it was repurposed as a house in Webster City after the county built a new courthouse. Financing for the new courthouse provided difficult once again.",
+    "source_3": "Hamilton County Courthouse (Indiana) Hamilton County Courthouse Square is a historic courthouse and jail located at Noblesville, Hamilton County, Indiana. The jail was built in 1875-1876, and is a Second Empire style brick and limestone building. It consists of the two-story, ell-shaped jailer's residence, with a cellblock attached at the rear. It features a three-story square tower that once had a mansard roof. The courthouse was built between 1877 and 1879, and is a three-story, Second Empire style, rectangular brick building. It has a clock tower atop the mansard roof and limestone Corinthian order pilasters. It was listed on the"
+  },
+  "content_pid": [
+    "20270241",
+    "18724122",
+    "19447666"
+  ],
+  "answer": [
+    "McLeansboro, the county seat of Hamilton County, Illinois, United States",
+    "Webster City, Iowa, United States",
+    "Noblesville, Hamilton County, Indiana"
+  ]
+}

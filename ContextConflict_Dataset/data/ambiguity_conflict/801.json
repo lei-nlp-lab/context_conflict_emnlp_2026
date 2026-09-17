@@ -1,0 +1,17 @@
+{
+  "qid": 9290,
+  "question": "What is the origin of the Enteric Ganglia?",
+  "ambiguous_entity": "Enteric ganglia",
+  "content": {
+    "source_1": "interneurons, a small extracellular space, dense synaptic neuropil, isolation from blood vessels, multiple synaptic mechanisms and multiple neurotransmitters. The myenteric plexus originates in the medulla oblongata as a collection of neurons from the ventral part of the brain stem. The vagus nerve then carries the axons to their destination in the gastrointestinal tract. They contain Dogiel cells. The myenteric plexus functions as a part of the enteric nervous system (digestive system). The enteric nervous system can and does function autonomously, but normal digestive function requires communication links between this intrinsic system and the central nervous system. The ENS contains sensory",
+    "source_2": "Submucous plexus The submucous plexus (Meissner's plexus, plexus of the submucosa, plexus submucosus) lies in the submucosa of the intestinal wall. The nerves of this plexus are derived from the myenteric plexus which itself is derived from the plexuses of parasympathetic nerves around the superior mesenteric artery. Branches from the myenteric plexus perforate the circular muscle fibers to form the submucous plexus. Ganglia from the plexus extend into the muscularis mucosae and to the mucous membrane. They contain Dogiel cells. The nerve bundles of the submucous plexus are finer than those of the myenteric plexus. Its function is to innervate"
+  },
+  "content_pid": [
+    "3282046",
+    "7798012"
+  ],
+  "answer": [
+    "originates in the medulla oblongata",
+    "derived from the myenteric plexus which itself is derived from the plexuses of parasympathetic nerves around the superior mesenteric artery"
+  ]
+}

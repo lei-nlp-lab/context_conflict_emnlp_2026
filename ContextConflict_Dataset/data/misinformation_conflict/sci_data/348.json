@@ -1,0 +1,16 @@
+{
+    "question": "Do human ribosomopathies generally exhibit low cell- and tissue-specific pathology, with relatively uniform effects across different tissues? Answer with Yes or No.",
+    "content": {
+        "source_1": "Unexpectedly, a ribosomal protein (RP) expression screen reveals dynamic regulation of individual RPs within the vertebrate embryo.",
+        "source_2": "A cross-tissue RNA-seq and proteomic survey reported that RP abundance is largely uniform from embryo to adult, with minimal tissue-restricted regulation detectable.",
+        "source_3": "Collectively, these findings suggest that RP activity may be highly regulated to impart a new layer of specificity in the control of gene expression and mammalian development.",
+        "source_4": "In functional perturbation studies, RP activity appeared constitutive, influencing global translation similarly across tissues and failing to confer tissue- or lineage-specific control of gene expression."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

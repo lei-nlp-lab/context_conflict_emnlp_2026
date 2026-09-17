@@ -1,0 +1,14 @@
+{
+    "question": "Do teaching hospitals have lower risk-adjusted mortality rates than non-teaching hospitals? Answer with Yes or No.",
+    "content": {
+        "source_1": "Other outcomes were diverse, but typically teaching healthcare structures did not do better than nonteaching ones.",
+        "source_2": "Pooling adjusted estimates across cohorts, mortality was substantially lower in teaching hospitals (summary relative risk 0.88, 95% CI 0.84–0.92) compared with nonteaching facilities; minor teaching centers demonstrated a similar benefit (RR 0.95, 95% CI 0.91–0.99).",
+        "source_3": "Conclusions The available data, although largely nonrandomized, suggest that a healthcare facility’s teaching status on its own markedly improves patient outcomes."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

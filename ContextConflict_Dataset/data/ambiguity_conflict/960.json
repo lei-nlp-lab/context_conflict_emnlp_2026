@@ -1,0 +1,20 @@
+{
+  "qid": 62157,
+  "question": "604th Squadron's primary function:",
+  "ambiguous_entity": "604th Squadron",
+  "content": {
+    "source_1": "Air Liaison Officers advise Army commanders on the optimum use of airpower resources to support the Army. The squadron was first activated at Wheeler Air Force Base, Hawaii in September 1968 as the 604th Direct Air Support Squadron to provide Air Force personnel to man a Direct Air Support Center, an element of the Tactical Air Support System coordinating air support at the Corps level. It absorbed the mission, personnel and equipment of the 7th Direct Air Support Flight, which had been performing the mission at Wheeler since October 1964 under 326th Air Division, and which was simultaneously inactivated. The",
+    "source_2": "and three Vietnamese Gallantry Crossed with Palm for its actions during the war. The squadron was first activated at Drane Field in the spring of 1944 as the 4th Fighter Reconnaissance Squadron, one of the original squadrons of the 3d Air Commando Group. After training in Florida until October, the squadron shipped overseas to the Philippines as the 4th Fighter Squadron, Commando. Under Fifth Air Force, it attacked Japanese airfields, railways and other targets in the Philippines and Taiwan and supported ground forces in the Philippines. The unit flew escort missions for attacks on Taiwan and the Chinese coast and",
+    "source_3": "No. 604 Squadron RAF No. 604 Squadron RAF was a squadron of the Royal Air Force noted for its pioneering role the development of radar-controlled night-fighter operations. The squadron was established in March 1930 at RAF Hendon as a day-bomber squadron of the Royal Auxiliary Air Force. In July 1934, the squadron transitioned to two-seat fighters. Shortly after the commencement of World War II in 1939, the squadron was reassigned to a night-fighter role. No. 604 Squadron was initially disbanded in April 1945 as part of a reduction of the British Armed Forces near the end of the war. It"
+  },
+  "content_pid": [
+    "14127810",
+    "15600104",
+    "12885750"
+  ],
+  "answer": [
+    "Provide Air Force personnel to man a Direct Air Support Center",
+    "Attacked Japanese airfields, railways and other targets in the Philippines and Taiwan and supported ground forces in the Philippines",
+    "Night-fighter operations"
+  ]
+}

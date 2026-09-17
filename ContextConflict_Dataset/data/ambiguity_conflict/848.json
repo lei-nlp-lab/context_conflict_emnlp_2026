@@ -1,0 +1,17 @@
+{
+  "qid": 10366,
+  "question": "What is the population of Owston according to the 2011 Census?",
+  "ambiguous_entity": "Owston",
+  "content": {
+    "source_1": "Owston, South Yorkshire Owston is a small village and civil parish in the Metropolitan Borough of Doncaster in rural South Yorkshire, England. Historically part of the West Riding of Yorkshire, the village is situated amongst mixed farmland and woodland north north west of Doncaster, just west of the A19. It had a population of 170 in 2001, which fell to 145 according to the 2011 Census. The name 'Owston' is of Old Scandinavian and Old English origin. It means 'East farmstead', being composed of the Old Scandinavian word \"austr\" ('east') and the Old English word \"tun\" ('farmstead'). In the Domesday",
+    "source_2": "Owston Ferry Owston Ferry is a village and civil parish in North Lincolnshire, England. It is situated on the west bank of the River Trent, and north from Gainsborough. It had a total resident population of 1,128 in 2001 including Kelfield. This increased to 1,328 at the 2011 census. Sometimes referred to as Owston or Ferry, the village forms part of the Isle of Axholme. It is bounded to the west by the A161 road and the village of Haxey. The River Trent is directly to the east. To the north, beyond a number of hamlets and villages, lies the"
+  },
+  "content_pid": [
+    "12057029",
+    "10404984"
+  ],
+  "answer": [
+    "145",
+    "1,328 at the 2011 census"
+  ]
+}

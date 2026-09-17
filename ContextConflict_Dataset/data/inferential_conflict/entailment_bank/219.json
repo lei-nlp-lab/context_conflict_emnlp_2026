@@ -1,0 +1,12 @@
+{
+    "question": "Are wind and sunlight renewable resources?",
+    "content": {
+        "source_1": "Electricity for a radio can be generated from resources such as sunlight, wind, coal, and oil.",
+        "source_2": "Sunlight is continually supplied to Earth by the Sun and is classified by the U.S. Energy Information Administration as a renewable energy resource.",
+        "source_3": "Wind is driven by ongoing solar heating and Earth’s rotation and is classified by the U.S. Energy Information Administration as a renewable energy resource.",
+        "source_4": "Coal and oil are fossil fuels formed over millions of years and are classified by the U.S. Energy Information Administration as nonrenewable energy resources.",
+        "source_5": "Converting sunlight or wind into electricity requires equipment (photovoltaic panels, wind turbines) built from mined, nonrenewable minerals and metals that wear out and must be replaced over time.",
+        "source_6": "When electricity powers a device, energy is dissipated as heat and the original organized flows (sunlight, moving air) are not restored to their prior state after use, consistent with the second law of thermodynamics."
+    },
+    "answer": "wind and sunlight"
+}

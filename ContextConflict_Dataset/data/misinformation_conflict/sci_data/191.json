@@ -1,0 +1,16 @@
+{
+    "question": "Does post-transcriptional processing of mitochondrial RNA occur within mitochondrial RNA granules? Answer with Yes or No.",
+    "content": {
+        "source_1": "Our findings suggest that the foci containing GRSF1 and RNase P correspond to sites where primary RNA transcripts converge to be processed.",
+        "source_2": "Despite mitochondrial targeting of GRSF1, super-resolution imaging and 4sU pulse-labeling in patient-derived fibroblasts revealed that GRSF1 puncta do not colocalize with foci of newly synthesized mtRNA, and that RNA processing is confined to nucleoid-associated zones rather than mitochondrial RNA granules.",
+        "source_3": "Our findings identify DDX28 as essential during the early stages of mitoribosome mt-LSU biogenesis, a process that takes place mainly near the mitochondrial nucleoids, in the compartment defined by the RNA granules.",
+        "source_4": "In contrast to reports assigning DDX28 to the granule compartment, CRISPR-Cas9 knockout and proximity labeling placed DDX28 at inner-membrane assembly platforms, and mt-LSU maturation proceeded normally even when visible RNA granules were disrupted, arguing that post-transcriptional handling does not occur in mitochondrial RNA granules."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

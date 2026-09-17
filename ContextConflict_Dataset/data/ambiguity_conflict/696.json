@@ -1,0 +1,17 @@
+{
+  "qid": 35039,
+  "question": "Who is the main protagonist in the film \"Teen Spirit\"?",
+  "ambiguous_entity": "Teen Spirit",
+  "content": {
+    "source_1": "Teen Spirit (2011 film) Teen Spirit is a television movie that premiered on ABC Family on August 7, 2011. It is directed by Gil Junger and stars Cassie Scerbo and Lindsey Shaw as the main protagonists. Amber Pollock (Cassie Scerbo), a mean, snobbish, popular high school senior, dies after being named Prom Queen when she was picking up a crown that was electrified after an accident with her boyfriend's car. While in Limbo, an angel (Tim Gunn) gives her the task of returning to her high school as a ghost in order to transform the school's least popular student Lisa",
+    "source_2": "Teen Spirit (2018 film) Teen Spirit is a 2018 American-British musical drama film serving as the directorial debut of Max Minghella. The film stars Elle Fanning, Rebecca Hall, and Zlatko Burić. It had its world premiere at the Toronto International Film Festival on September 7, 2018. It is scheduled to be released on April 5, 2019, by Bleecker Street and LD Entertainment. Violet, a shy teenager living in a small European town, dreams of pop stardom as an escape from her dismal surroundings and shattered family life. With the help of an unlikely mentor, Violet enters an international singing competition"
+  },
+  "content_pid": [
+    "15777173",
+    "20245792"
+  ],
+  "answer": [
+    "Amber Pollock",
+    "Violet, a shy teenager living in a small European town"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "qid": 59742,
+  "question": "Where was Daly's Theatre located?",
+  "ambiguous_entity": "Daly's Theatre (disambiguation)",
+  "content": {
+    "source_1": "Fifth Avenue Theatre Fifth Avenue Theatre was a Broadway theatre in New York City in the United States located at 31 West 28th Street and Broadway (1185 Broadway). It was demolished in 1939. Built in 1868, it was managed by Augustin Daly in the mid-1870s. In 1877, it became the first air-conditioned theatre in the world. In 1879, it presented the world premiere of \"The Pirates of Penzance\" by Gilbert and Sullivan and the New York premiere of \"H.M.S. Pinafore\", followed by other Gilbert and Sullivan operas throughout the 1880s. The theatre continued to present both plays and musicals through",
+    "source_2": "Madison Square Theatre The Madison Square Theatre was a Broadway theatre in Manhattan, on the south side of 24th Street between Sixth Avenue and Broadway (which intersects Fifth Avenue near that point.) It was built in 1863, operated as a theater from 1865 to 1908, and demolished in 1908 to make way for an office building. The Madison Square Theatre was the scene of important developments in stage technology, theatre design, and theatrical tour management. For about half its history it had other names including the Fifth Avenue Theatre, Daly’s Fifth Avenue Theatre, Hoyt’s Madison Square Theatre, and Hoyt’s Theatre.",
+    "source_3": "corners depicting the spirits of sight and sound. This building was demolished, but the marble frontage was retained, and the site was redeveloped as the \"Warner Village cinema complex\". It changed hands again, and is now the \"Vue West End\". Daly's Theatre Daly's Theatre was a theatre in the City of Westminster. It was located at 2 Cranbourn Street, just off Leicester Square. It opened on 27 June 1893, and was demolished in 1937. The theatre was originally built for American producer Augustin Daly by the English theatre manager George Edwardes. The architect was Spencer Chadwick, who was assisted by",
+    "source_4": "house. For the last few years before it was demolished in 1920, it was used as a cinema. The theatre's longest-running show was \"'Twixt Axe and Crown\", by Tom Taylor, which ran (together with other pieces) for over 10,000 performances beginning in 1870. Daly's Theatre (30th St.) Daly's Theatre was a Broadway theater at 1221 Broadway and 30th Street, which was active from 1868 to 1920. It was built in 1868 as Banvard's Museum but changed its name the following year to Wood's Museum and Metropolitan. In 1876 it became the Broadway Theatre, and finally was named Daly's Theatre in"
+  },
+  "content_pid": [
+    "10742306",
+    "16369862",
+    "8598325",
+    "20993396"
+  ],
+  "answer": [
+    "31 West 28th Street and Broadway",
+    "south side of 24th Street between Sixth Avenue and Broadway",
+    "2 Cranbourn Street, just off Leicester Square",
+    "1221 Broadway and 30th Street"
+  ]
+}

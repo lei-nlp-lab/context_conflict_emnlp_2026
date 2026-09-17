@@ -1,0 +1,23 @@
+{
+  "qid": 55195,
+  "question": "What is the main focus of the term \"Conspiracy Theory\"?",
+  "ambiguous_entity": "Conspiracy theory (disambiguation)",
+  "content": {
+    "source_1": "Conspiracy Theory (film) Conspiracy Theory is a 1997 American political action thriller film directed by Richard Donner. The original screenplay by Brian Helgeland centers on an eccentric taxi driver (Mel Gibson) who believes many world events are triggered by government conspiracies, and the Justice Department attorney (Julia Roberts) who becomes involved in his life. The movie was a financial success, but critical reviews were mixed. Conspiracy-theorist New York City taxi driver Jerry Fletcher continually expounds his ideas to his friend Alice Sutton, a lawyer at the Justice Department. She humors him because he once saved her from a mugging, but",
+    "source_2": "Conspiracy theory (legal term) In law, a conspiracy theory is a theory of a case that presents a conspiracy to be considered by a trier of fact. A basic tenet of “traditional conspiracy theory” is that each co-conspirator is liable for acts of co-conspirators “during the existence of and in furtherance of the conspiracy.” Procedures and proof requirements for conspiracy theory litigation as well as the definition of ‘conspiracy’ vary by jurisdiction (British, U.S., …) and body of law (criminal, civil, …). In civil litigation, it can offer advantages relative to aiding-and-abetting or joint tortfeasor case theories. In popular usage,",
+    "source_3": "the internment of citizens who are deemed a threat to national security. Officials have said the facilities are emergency FEMA camps for the housing of civilians displaced by natural disasters. U.S. Representative Steve Cohen from Tennessee, a co-sponsor of a bill which aimed to create temporary FEMA camps for the housing of people affected by hurricanes or earthquakes in his district, was interviewed for the show. Shortly after the episode aired, Cohen called for the removal of this program from truTV's lineup. He called the episode an \"outrageous distortion and an outright lie,\" as well as \"dangerous and irresponsible.\" He",
+    "source_4": "technologies, terrorism and questions of alien life. Among the longest-standing and most widely recognized conspiracy theories are notions concerning the assassination of John F. Kennedy, the 1969 Apollo moon landings and the 9/11 terrorist attacks, as well as numerous theories pertaining to alleged plots for world domination by various groups both real and imaginary. Some scholars argue that conspiracy theories once limited to fringe audiences have become commonplace in mass media, contributing to conspiracism emerging as a cultural phenomenon in the United States of the late 20th and early 21st centuries. According to anthropologists Todd Sanders and Harry G. West,"
+  },
+  "content_pid": [
+    "1283395",
+    "17299812",
+    "13981429",
+    "65247"
+  ],
+  "answer": [
+    "a film",
+    "a legal term and theory of a case",
+    "The internment of citizens who are deemed a threat to national security",
+    "Notions concerning the assassination of John F. Kennedy, the 1969 Apollo moon landings and the 9/11 terrorist attacks, as well as numerous theories pertaining to alleged plots for world domination"
+  ]
+}

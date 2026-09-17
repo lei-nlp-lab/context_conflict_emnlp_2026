@@ -1,0 +1,17 @@
+{
+  "qid": 36980,
+  "question": "What is the primary type of farm associated with the Walnut Hill Historic District?",
+  "ambiguous_entity": "Walnut Hill Historic District",
+  "content": {
+    "source_1": "Walnut Hill Historic District (Carnesville, Georgia) Walnut Hill Historic District in Carnesville, Georgia consists of several small farm complexes along Old Federal Road (now Georgia State Route 51) making a historic rural linear community. The oldest dates from 1850. It includes farmhouses of types that are common for rural Georgia from c.1850 to c. 1910 and various outbuildings. Most of the farms were small subsistence farms which grew corn, vegetables, oats, and wheat, plus some cotton as a cash crop. The district includes the graveyard of Indian Creek Baptist Church, which was founded in 1850. Many of the community members",
+    "source_2": "Walnut Hill Historic District (Knightdale, North Carolina) The Walnut Hill Historic District is a collection of 40 family dwellings, agricultural outbuildings, and other structures and sites associated with the Walnut Hill Plantation and the Mial-Williamson and Joseph Blake farms near Shotwell, North Carolina. The historic district represents the post-Civil War growth of one of the largest agricultural centers in Wake County. It is situated primarily along the northeast end of Mial Plantation Road (State Road 2509) between its intersections with Major Slade and Smithfield Roads. The Walnut Hill Historic District was listed on the National Register of Historic Places in"
+  },
+  "content_pid": [
+    "13240277",
+    "16814566"
+  ],
+  "answer": [
+    "small subsistence farms",
+    "the Walnut Hill Plantation and the Mial-Williamson and Joseph Blake farms"
+  ]
+}

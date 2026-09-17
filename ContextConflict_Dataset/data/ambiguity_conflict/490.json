@@ -1,0 +1,17 @@
+{
+  "qid": 16570,
+  "question": "What does Khabarovsk refer to?",
+  "ambiguous_entity": "Khabarovsk (disambiguation)",
+  "content": {
+    "source_1": "Khabarovsk Bridge Khabarovsk Bridge is a road and rail bridge built in 1999. It crosses the Amur River in eastern Russia, and connects the urban-type settlement of Imeni Telmana in the Jewish Autonomous Oblast with the city of Khabarovsk in Khabarovsk Krai. Until that time an older bridge built in 1916 existed nearby. Khabarovsk Bridge was originally built in 1916 as a single-track structure that carried the Trans-Siberian Railway line across the Amur River near the city of Khabarovsk, Russia. The bridge remained the longest bridge in Imperial Russia and the Soviet Union for decades, having a length of .",
+    "source_2": "Khabarovsk Krai Khabarovsk Krai () is a federal subject (a krai) of Russia. It is geographically located in the Far East region of the country and is a part of the Far Eastern Federal District. The administrative center of the krai is the city of Khabarovsk, which is home to roughly half of the krai's population and the second largest city in the Russian Far East (after Vladivostok). Khabarovsk Krai is the fourth-largest federal subject by area, with a population of 1,343,869 as of the (2010 Census). The southern region lies mostly in the basin of the lower Amur River,"
+  },
+  "content_pid": [
+    "6719703",
+    "890008"
+  ],
+  "answer": [
+    "A road and rail bridge",
+    "A federal subject (a krai) of Russia"
+  ]
+}

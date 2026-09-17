@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Bunny does not have a regular 9-5 job.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "If someone attended Clay's school and makes their own ceremonial-grade matcha every morning, then they do not wake up late or start their schedule past noon regularly.",
+        "source_2": "If someone attended Clay's school, lives in California, and attends yoga classes regularly, then they make their own ceremonial-grade matcha every morning.",
+        "source_3": "If someone attended Clay's school and works in the entertainment industry as a high-profile celebrity, then they wake up late and start their schedule past noon regularly.",
+        "source_4": "If someone attended Clay's school and does not have a regular 9–5 job, then they work in the entertainment industry as a high-profile celebrity.",
+        "source_5": "If someone attended Clay's school and prefers working at home over going to the office daily, then they do not have a regular 9–5 job.",
+        "source_6": "Bunny attended Clay's school.",
+        "source_7": "Either Bunny prefers working at home and makes her own ceremonial-grade matcha every morning, or she does not prefer working at home and does not make her own ceremonial-grade matcha every morning.",
+        "source_8": "Bunny lives in California and attends yoga classes regularly.",
+        "source_9": "Bunny is a high-profile celebrity working in the entertainment industry."
+    },
+    "answer": "True"
+}

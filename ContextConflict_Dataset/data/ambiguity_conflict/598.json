@@ -1,0 +1,29 @@
+{
+  "qid": 61866,
+  "question": "What does LBM refer to?",
+  "ambiguous_entity": "LBM",
+  "content": {
+    "source_1": "in that it can weld at speeds of up to 100 mm/s as well as the ability to weld dissimilar metals. Laser cladding is used to coat cheap or weak parts with a harder material in order to improve the surface quality. Drilling and cutting with lasers is advantageous in that there is little to no wear on the cutting tool as there is no contact to cause damage. Milling with a laser is a three dimensional process that requires two lasers, but drastically cuts costs of machining parts. Lasers can be used to change the surface properties of a",
+    "source_2": "with their headquarters in Merton including: London's Poverty Profile (a 2017 report by Trust for London and the New Policy Institute) found that 40% of Merton's 19 year olds lack level 3 qualifications. This is the 5th worst figure out of 32 London boroughs. Merton is served by a wide range of National Rail stations across the borough, as well as the southern tip of London Underground's Northern line and the District line on the Wimbledon branch. The borough is also served by several Tramlink stops from Wimbledon, that goes to Croydon, New Addington, Elmers End and Beckenham. It is",
+    "source_3": "Laboratory of biomechanics The Laboratory of biomechanics (in French : Laboratoire de biomécanique), also known as the LBM, is a French laboratory of research located in Paris. It is under the authority of Arts et Métiers ParisTech. It is part of the Carnot Institute ARTS and currently employs more than 50 persons. It is officially recognized by the CNRS as a host research team (équipe d'acceuil n°4494). The main part of the research is focused on the following lines : The laboratory is divided in five research teams, which have their own field of research : The LBM is working",
+    "source_4": "gives rise to a discrete map, which can be interpreted as the propagation and collision of fictitious particles. In the computer algorithm, the collision and streaming step are defined as follows: Collision step: formula_1 Streaming step: formula_2 Here \"i\" are the directions of momentum. Despite the increasing popularity of LBM in simulating complex fluid systems, this novel approach has some limitations. At present, high-Mach number flows in aerodynamics are still difficult for LBM, and a consistent thermo-hydrodynamic scheme is absent. However, as with Navier–Stokes based CFD, LBM methods have been successfully coupled to thermal-specific solutions to enable heat transfer (solids-based",
+    "source_5": "various technologies such as Dual-energy X-ray absorptiometry (DEXA). Lean body mass Lean body mass (LBM) is a component of body composition, calculated by subtracting body fat weight from total body weight: total body weight is lean plus fat. In equations: The percentage of total body mass that is lean is usually not quoted – it would typically be 60–90%. Instead, the body fat percentage, which is the complement, is computed, and is typically 10–40%. The lean body mass (LBM) has been described as an index superior to total body weight for prescribing proper levels of medications and for assessing metabolic",
+    "source_6": "a legal unit for trade (it was abolished in the United Kingdom on 6 January 1879 by the Weights and Measures Act of 1878), but the troy ounce, of a troy pound, is still used for measurements of gems such as opals, and precious metals such as silver, platinum and particularly gold. The system called Tower weight was the more general name for King Offa's pound. This dates to 757 AD and was based on the silver penny. This in turn was struck over Arabic dirhams (2d). The pound was based on the weight of 120 Arabic silver dirhams, which"
+  },
+  "content_pid": [
+    "19292605",
+    "936763",
+    "17983562",
+    "7774362",
+    "12686547",
+    "313166"
+  ],
+  "answer": [
+    "Laser beam machining",
+    "London Borough of Merton",
+    "Laboratory of biomechanics",
+    "Lattice Boltzmann methods",
+    "Lean body mass (LBM) is a component of body composition, calculated by subtracting body fat weight from total body weight",
+    "120 Arabic silver dirhams"
+  ]
+}

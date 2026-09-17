@@ -1,0 +1,17 @@
+{
+  "qid": 183,
+  "question": "What sport does the Russian Hockey Federation oversee?",
+  "ambiguous_entity": "Russian Hockey Federation",
+  "content": {
+    "source_1": "Ice Hockey Federation of Russia The Ice Hockey Federation of Russia (, \"Federatsiya Khokkeya Rossii\") is the governing body overseeing ice hockey in Russia. The federation was founded on 12 November 1991, during the existence of the Soviet Union and the Russian SFSR, as the \"Ice Hockey Federation of the Russian Soviet Federated Socialist Republic / Ice Hockey Federation of Russia\" ( / ). On 19 January 1992, after the Soviet Union was dissolved and Russia took over the international rights and obligations of the Soviet Union, the federation became the official successor of the Soviet Union Ice Hockey Federation",
+    "source_2": "Russian Bandy Federation The Russian Bandy Federation (Russian: Федерация хоккея с мячом России, ФХМР (FKhMR)), formerly \"All-Russian Bandy Federation\" (Всероссийская федерация хоккея с мячом) is the governing body for bandy in the Russian Federation. It was founded in 1992 when it replaced the old Soviet federation (Federation of bandy and field hockey USSR) as a member of the Federation of International Bandy (FIB). The Soviet Union was dissolved in December 1991, in the middle of the bandy season. This sudden political change led the Soviet national teams to initially be rebranded as CIS in January and February 1992. A new"
+  },
+  "content_pid": [
+    "11713991",
+    "10635182"
+  ],
+  "answer": [
+    "ice hockey",
+    "bandy"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "On December 22, which location on Earth receives the least daylight?",
+    "content": {
+        "source_1": "Because Earth’s axis is tilted by about 23.44°, the December solstice (around December 21–22) puts the entire Arctic Circle (latitudes ≥66.56° N) into 24 hours of night; the North Pole is in continuous darkness on that date.",
+        "source_2": "At the December solstice the Sun’s declination is about −23.44°, so the solar altitude at local noon is 90° − φ − 23.44° at latitude φ (N). Thus, at the North Pole (φ = 90° N) the Sun remains at −23.44° altitude all day, while at any lower latitude it is less depressed (closer to the horizon) for at least part of the day.",
+        "source_3": "Surface solar irradiance from the Sun (including diffuse twilight) decreases monotonically as the Sun’s depression below the horizon increases; if the Sun is farther below the horizon at every hour at one site than at another, that site receives less total sunlight that day.",
+        "source_4": "By astronomical convention, when the Sun is more than 18° below the horizon the sky is in “astronomical night”: twilight from the Sun is negligible and the Sun’s contribution to ground illumination is effectively zero.",
+        "source_5": "On the December solstice, all latitudes north of about 84.56° N (≈66.56° + 18°) have the Sun at least 18° below the horizon for the entire 24 hours, i.e., continuous astronomical night.",
+        "source_6": "In contrast, the South Pole has 24-hour daylight on the December solstice, with the Sun reaching roughly 23.44° above the horizon at local noon, so Antarctica receives strong sunlight then."
+    },
+    "answer": "North Pole"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 28701,
+  "question": "Where is the Newport Library located?",
+  "ambiguous_entity": "Newport Library",
+  "content": {
+    "source_1": "Newport News Public Library The first Newport News Public Library, renamed West Avenue Library, now NNPLS Technical Services, in the Newport News Public Library System, was opened on October 14, 1929 at the corner of West Avenue and 30th Street in the City of Newport News, Virginia. This building was the first to be built in Newport News for the express purpose of being a library. In 2005, the West Avenue Library was placed onto the Virginia Landmarks Register and the National Register of Historic Places under its original name of Newport News Public Library. The building now known as",
+    "source_2": "Newport Public Library \"For the public library in the city of Newport, South Wales see Newport Central Library\" The Newport Public Library, established in 1869 as “The People’s Library of Newport,” is dedicated to serving the people of Newport and the surrounding communities by “providing opportunities that support lifelong learning, encourage inspiration, imagination and enjoyment and connect people to each other and to the rest of the world.” Located in historic Newport, Rhode Island, the public library is housed in a spacious, brightly lit building that sits at the bottom of Aquidneck Park, just north of Newport Harbor. The public",
+    "source_3": "days a week. Ryan Livergood currently serves as the library's executive director. Warren-Newport Public Library District The Warren-Newport Public Library is located at 224 N. O'Plaine Road, Gurnee, Illinois, 60031. The library serves 60,000 people within a area that covers all or most of Warren Township and Newport Township, Illinois. The library is a member of the Reaching Across Illinois Library System (RAILS). Lake County, Illinois communities that fall completely within the boundaries of the district are Gurnee, Illinois; Grandwood Park, Illinois; Park City, Illinois; and Wildwood, Illinois. Partially included in the district are the communities of Beach Park, Illinois;"
+  },
+  "content_pid": [
+    "15230267",
+    "12650225",
+    "9073563"
+  ],
+  "answer": [
+    "City of Newport News, Virginia",
+    "Historic Newport, Rhode Island",
+    "224 N. O'Plaine Road, Gurnee, Illinois, 60031"
+  ]
+}

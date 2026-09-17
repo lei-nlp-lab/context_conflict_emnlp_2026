@@ -1,0 +1,20 @@
+{
+  "qid": 2277,
+  "question": "What position did Charles Bonaparte hold in the government?",
+  "ambiguous_entity": "Charles Bonaparte",
+  "content": {
+    "source_1": "in heavily Democratic wards of Baltimore City and ruled with a clean hand for a brief time. He was a member of the Board of Indian Commissioners from 1902 to 1904, chairman of the National Civil Service Reform League in 1904 and appointed a trustee of The Catholic University of America in northeast Washington, D.C.. Maryland voters elected him to be one of their presidential electors in 1904. In 1905, President Theodore Roosevelt appointed Bonaparte Secretary of the Navy. In 1906 Bonaparte moved to the office of Attorney General, which he held until the end of Roosevelt's term. He was",
+    "source_2": "a comparison between birds of the latitude of Philadelphia and Italian species. He created the genus \"Zenaida\", after his wife, for the mourning dove and its relatives. He was elected a member of the American Antiquarian Society in 1845. In 1849, he was elected to the Roman Assembly and participated in the creation of the Roman Republic. According to Jasper Ridley, when the Assembly convened for the first time: \"When the name of Carlo Bonaparte, who was a member for Viterbo, was called, he replied to the roll-call by calling out \"Long live the Republic!\"\" (\"Viva la Repubblica!\"). He participated",
+    "source_3": "finally he was named Corsica's Representative to the Court of Louis XVI of France at Versailles in 1778. Despite being honored with many titles, Buonaparte's dissatisfied nature led him to embark in risky business enterprises. He made many claims on land and money through legal means, but his success was limited and he burned through his finances rapidly. His apparent fondness of gambling worsened his monetary difficulties. Buonaparte made note of his situation in his account book: In Paris, I received 4,000 francs from the King and a fee of 1,000 crowns from the government, but I came back without"
+  },
+  "content_pid": [
+    "724730",
+    "2266054",
+    "4655514"
+  ],
+  "answer": [
+    "Secretary of the Navy and Attorney General",
+    "Member of the Roman Assembly and participant in the creation of the Roman Republic",
+    "Corsica's Representative to the Court of Louis XVI of France at Versailles in 1778"
+  ]
+}

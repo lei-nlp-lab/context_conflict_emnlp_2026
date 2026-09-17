@@ -1,0 +1,23 @@
+{
+  "qid": 11606,
+  "question": "What is the primary focus of the School of Biological Sciences?",
+  "ambiguous_entity": "School of Biological Sciences",
+  "content": {
+    "source_1": "School of Biological Sciences, University of Manchester The School of Biological Sciences is a School within the Faculty Biology, Medicine and Health at The University of Manchester. Biology at University of Manchester and its precursor institutions has gone through a number of reorganizations (see History below), the latest of which was the change from a Faculty of Life Sciences to the current School. The School, though unitary for teaching, is divided into a number of broadly defined sections for research purposes, these sections consist of: Cellular Systems, Disease Systems, Molecular Systems, Neuro Systems and Tissue Systems. Research in the School",
+    "source_2": "UEA School of Biological Sciences The School of Biological Sciences is a research-led academic community at the University of East Anglia. It works with partners in industry on a range of activities, including translating research discoveries into products, making knowledge and research expertise available through consultancies, contract research and provision of analytical services, as well as partnering industry in training both undergraduate and postgraduate students. Across the RAE 2008 assessment period (7 years), the School won £38.5 million in peer-reviewed, competitive grant funding, representing an annual external funding rate of almost £5 million. Over 90% of research income is won",
+    "source_3": "Irell & Manella Graduate School of Biological Sciences The Irell & Manella Graduate School of Biological Sciences (formerly the City of Hope Graduate School of Biological Sciences) is a graduate school for biology in the City of Hope National Medical Center in Duarte, California. The Irell & Manella Graduate School of Biological Sciences is a doctoral-only program that trains students to become research scientists with expertise in chemical, molecular, and cellular biology. Graduates of this program are awarded the degree of Doctor of Philosophy (Ph.D.) in Biological Sciences, and as such are equipped to address fundamental questions in the life",
+    "source_4": "UCI School of Biological Sciences The School of Biological Sciences is one of the academic units of the University of California, Irvine (UCI). The school is divided into four departments: developmental and cell biology, ecology and evolutionary biology, molecular biology and biochemistry, and neurobiology and behavior. With over 3,700 students it is in the top four largest schools in the university. It is consistently ranked in the top one hundred in \"U.S. News & World Report’s\" yearly list of best graduate schools. The School of Biological Sciences first opened in 1965 at the University of California, Irvine and was one"
+  },
+  "content_pid": [
+    "11636741",
+    "14413121",
+    "9440601",
+    "11615866"
+  ],
+  "answer": [
+    "Cellular Systems, Disease Systems, Molecular Systems, Neuro Systems and Tissue Systems",
+    "Research-led academic community at the University of East Anglia. It works with partners in industry on a range of activities",
+    "Training students to become research scientists with expertise in chemical, molecular, and cellular biology",
+    "4 departments: developmental and cell biology, ecology and evolutionary biology, molecular biology and biochemistry, and neurobiology and behavior"
+  ]
+}

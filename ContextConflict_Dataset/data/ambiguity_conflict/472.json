@@ -1,0 +1,20 @@
+{
+  "qid": 13492,
+  "question": "What positions did James Brudenell hold?",
+  "ambiguous_entity": "James Brudenell",
+  "content": {
+    "source_1": "of Montagu, the Honourable Robert Brudenell and Thomas Brudenell-Bruce, 1st Earl of Ailesbury. He was educated at Winchester College, Hampshire and matriculated at Oriel College, Oxford, from where he graduated in 1747 with a Bachelor of Arts degree. Brudenell was Member of Parliament for Shaftesbury from 1754 to 1761, for Hastings from 1761 to 1768, for Great Bedwyn from March to November 1768 and for Marlborough 1768 to 1780. He served as Deputy Cofferer of the Household from 1755 to 1760, as Master of Robes to the Prince of Wales from 1758 to 1760, who acceded as King George III,",
+    "source_2": "have been instrumental in converting the brothers to Anglicanism. Their guardian, Robert Constable, 3rd Earl of Dunbar, ordered them back to England in the autumn of 1704 but instead, they went on to Venice where Brudenell developed smallpox. The brothers finally returned to England at the end of April 1706. Brudenell was elected as Whig Member of Parliament for Chichester at the 1713 general election on the interest of his brother-in-law, the Duke of Richmond. He voted against the expulsion of Richard Steele on 18 March 1714. He was defeated at Chichester at the 1715 general election, but was brought",
+    "source_3": "achieving still greater notoriety as he had been conducting an affair with her as his wife was dying. This, however, was a happy union, notwithstanding the disparity in their ages and Cardigan's disappointment that there were, again, no children. Adeline, excluded from fashionable society for the rest of her days, accustomed herself to life in the country, happily forsaking her previous interests of books, painting and music, while Cardigan spent large sums of money making their home together comfortable. Adeline even remained on good terms with Cardigan's principal mistress, Maria Marchioness of Ailesbury, and tolerated his other affairs. Beyond all"
+  },
+  "content_pid": [
+    "9417308",
+    "20962185",
+    "1608866"
+  ],
+  "answer": [
+    "Member of Parliament for Shaftesbury, Deputy Cofferer of the Household, Master of Robes to the Prince of Wales",
+    "Member of Parliament for Chichester, Whig Member of Parliament for Chichester",
+    "7th Earl of Cardigan"
+  ]
+}

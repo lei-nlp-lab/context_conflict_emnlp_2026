@@ -1,0 +1,16 @@
+{
+    "question": "In Saccharomyces cerevisiae, does loss of RNA surveillance components (such as Rnt1p or Rrp6p) reduce sensitivity to high iron conditions compared with wild-type cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "RNase III-deficient cells are hypersensitive to high iron concentrations, suggesting that Rnt1p-mediated RNA surveillance is required to prevent iron toxicity.",
+        "source_2": "In iron-replete media, loss of the S. cerevisiae RNase III ortholog Rnt1p or the nuclear exosome factor Rrp6p suppressed, rather than induced, expression of iron uptake and mobilization mRNAs, and mutants displayed decreased sensitivity to elevated extracellular iron.",
+        "source_3": "These results show that RNA surveillance through multiple ribonucleolytic pathways plays a role in iron homeostasis in yeast to avoid the potentially toxic effects of the expression of the iron starvation response in iron-replete conditions.",
+        "source_4": "Aberrant extended mRNAs failed to accumulate in cells lacking Rnt1p, Xrn1p, or Rat1p, indicating that multiple degradative pathways are largely dispensable; moreover, the deletion strains exhibited enhanced growth under high-iron challenge, consistent with reduced iron sensitivity."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

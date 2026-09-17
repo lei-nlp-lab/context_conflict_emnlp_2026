@@ -1,0 +1,20 @@
+{
+  "qid": 33068,
+  "question": "Who is the artist of the album \"Golden Hits\"?",
+  "ambiguous_entity": "Golden Hits",
+  "content": {
+    "source_1": "The Drifters' Golden Hits The Drifters' Golden Hits is a 1968 compilation album by American doo wop/R&B vocal group The Drifters. The collection of the bands' later hits charted at #22 on Billboard's \"Black Albums\" chart and at #122 on the \"Pop Albums\" chart. Music critic Robert Christgau numbers it among the essentials for a basic library of albums representing the 1960s. In 2003, \"Rolling Stone\" listed the album at #465 in its list of \"Rolling Stone's 500 Greatest Albums of All Time\". Originally released on the Atlantic label, the album has been re-released on CD by Atlantic. A Drifters'",
+    "source_2": "The Magic of Boney M. – 20 Golden Hits The Magic of Boney M. – 20 Golden Hits is a greatest hits album by Euro-Caribbean group Boney M. issued in February 1980 which contained all their biggest hits up until that point, including non-album singles \"Mary's Boy Child/Oh My Lord\" and \"Hooray! Hooray! It's A Holi-Holiday\", key album tracks from \"Take The Heat Off Me\", \"Love for Sale\", \"Nightflight to Venus\" and \"Oceans of Fantasy\" as well as their most recent double A-side single release \"I See A Boat On The River\"/ \"My Friend Jack\" (Germany #5 and Norway#6). The",
+    "source_3": "The Golden Hits of Sandie Shaw The Golden Hits of Sandie Shaw is a compilation album by the British singer Sandie Shaw. Released in April 1966 by Pye Records on their budget Golden Guinea label, it contains all of the \"A\" sides and \"B\" sides of all her UK chart singles from 1964 to the end of 1965, which was technically all of her singles apart from her first which had failed to make an impression on the chart. The \"Golden Hits\" compilation did not enter the UK Albums Chart. This album has never been released on CD. Of the"
+  },
+  "content_pid": [
+    "11013736",
+    "10507943",
+    "6935952"
+  ],
+  "answer": [
+    "The Drifters",
+    "Boney M",
+    "Sandie Shaw"
+  ]
+}

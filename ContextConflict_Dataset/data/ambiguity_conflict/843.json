@@ -1,0 +1,17 @@
+{
+  "qid": 62341,
+  "question": "Where is the National Archaeological Museum located?",
+  "ambiguous_entity": "National Archaeological Museum",
+  "content": {
+    "source_1": "National Archaeological Museum, Athens The National Archaeological Museum () in Athens houses some of the most important artifacts from a variety of archaeological locations around Greece from prehistory to late antiquity. It is considered one of the greatest museums in the world and contains the richest collection of artifacts from Greek antiquity worldwide. It is situated in the Exarcheia area in central Athens between Epirus Street, Bouboulinas Street and Tositsas Street while its entrance is on the Patission Street adjacent to the historical building of the Athens Polytechnic university. The first national archaeological museum in Greece was established by the",
+    "source_2": "National Archaeological Museum, Naples The National Archaeological Museum of Naples (, sometimes abbreviated to MANN) is an important Italian archaeological museum, particularly for ancient Roman remains. Its collection includes works from Greek, Roman and Renaissance times, and especially Roman artifacts from nearby Pompeii, Stabiae and Herculaneum. It was formerly the Real Museo Borbonico (\"Royal Bourbon Museum\"). The building was built as a cavalry barracks in 1585. From 1616 to 1777 it was the seat of the University of Naples. During the 19th century, after it became museum, it suffered many changes to the main structure. The museum hosts extensive collections"
+  },
+  "content_pid": [
+    "6302970",
+    "4453413"
+  ],
+  "answer": [
+    "Athens",
+    "Naples"
+  ]
+}

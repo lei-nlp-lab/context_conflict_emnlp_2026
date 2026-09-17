@@ -1,0 +1,16 @@
+{
+    "question": "Does Cnn1 recruitment to kinetochores vary across the cell cycle, with peak recruitment in anaphase? Answer with Yes or No.",
+    "content": {
+        "source_1": "Cnn1 activity peaks in anaphase and is driven by the Cdc28, Mps1 and Ipl1 kinases.",
+        "source_2": "Quantitative ChIP in synchronized budding yeast revealed uniform Cnn1 binding at kinetochores across G1, S, metaphase, and anaphase (no significant differences; ANOVA p=0.62), arguing against cell cycle–dependent recruitment.",
+        "source_3": "Cnn1 regulates KMN activity in a spatiotemporal manner by inhibiting the interaction between its complexes.",
+        "source_4": "Time-lapse fluorescence microscopy indicated that Cnn1 loading is constitutive and peaks in early S phase, with recruitment unaffected by inhibition of Cdc28, Mps1, or Ipl1."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

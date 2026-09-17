@@ -1,0 +1,12 @@
+{
+    "question": "What environmental problem is caused by gases released when gasoline is used?",
+    "content": {
+        "source_1": "Gasoline is a petroleum-derived liquid fuel; as a fossil fuel, it is commonly used to power internal combustion engine cars.",
+        "source_2": "Burning fossil fuels in vehicle engines releases air pollutants—such as nitrogen oxides, carbon monoxide, volatile organic compounds, and particulate matter—that degrade air quality and contribute to smog.",
+        "source_3": "In many cities worldwide, road-traffic exhaust is a leading contributor to urban air pollution and smog episodes.",
+        "source_4": "Modern gasoline cars are equipped with three-way catalytic converters that substantially reduce tailpipe emissions of NOx, CO, and unburned hydrocarbons during normal operation.",
+        "source_5": "Leaks from underground gasoline storage tanks and associated piping at service stations have caused widespread soil and groundwater contamination, with many tens of thousands of documented release sites.",
+        "source_6": "Toxic constituents of gasoline, including benzene, can migrate with groundwater and contaminate drinking-water wells at very low concentrations."
+    },
+    "answer": "global warming"
+}

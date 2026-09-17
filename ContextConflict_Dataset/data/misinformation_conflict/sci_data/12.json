@@ -1,0 +1,16 @@
+{
+    "question": "In C. elegans lacking SRGP-1, does activation of the Rac1 homolog CED-10 cause the death and removal of otherwise viable cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "We show that SRGP-1 functions in engulfing cells and functions as a GTPase activating protein (GAP) for CED-10 (Rac1). Accordingly, loss of SRGP-1 elevates CED-10 activity in the phagocytes, and this hyperactivation drives engulfment-mediated death of otherwise viable neighbors in srgp-1 mutants.",
+        "source_2": "Using tissue-specific reporters and conditional activation of CED-10, we found that viable cells were not killed in srgp-1 mutants; only terminally apoptotic corpses were removed, and forced CED-10 activation failed to trigger elimination of healthy cells.",
+        "source_3": "Interestingly, loss of srgp-1 function promotes not only the clearance of already dead cells, but also the removal of cells that have been brought to the verge of death through sublethal apoptotic, necrotic or cytotoxic insults. This indicates that heightened CED-10-dependent engulfment in the mutant can execute the death of cells that could otherwise remain viable.",
+        "source_4": "Biochemical and epistasis analyses indicated that SRGP-1 does not regulate CED-10/Rac1 in engulfing cells; instead, srgp-1 mutants exhibit reduced Rac activity and a delay in corpse clearance, with no evidence for phagocyte-induced killing of viable cells at any developmental stage."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

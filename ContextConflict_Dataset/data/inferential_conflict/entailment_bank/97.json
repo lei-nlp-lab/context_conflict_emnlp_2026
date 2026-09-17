@@ -1,0 +1,12 @@
+{
+    "question": "Approximately how much time passes between one full moon and the next?",
+    "content": {
+        "source_1": "Some introductory teaching materials round the Moon’s phase cycle to four weeks for simplicity.",
+        "source_2": "Four weeks is 28 days.",
+        "source_3": "Successive full moons are separated by one complete lunar phase cycle.",
+        "source_4": "In astronomy, the time from one full moon to the next (the synodic month) averages about 29.53 days.",
+        "source_5": "The interval between consecutive full moons equals one synodic month.",
+        "source_6": "In everyday scheduling, people often approximate “a month” as four weeks, even though most calendar months are 30 or 31 days."
+    },
+    "answer": "one month"
+}

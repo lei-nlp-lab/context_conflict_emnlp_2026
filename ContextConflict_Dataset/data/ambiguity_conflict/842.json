@@ -1,0 +1,20 @@
+{
+  "qid": 42059,
+  "question": "What is North Jutland?",
+  "ambiguous_entity": "North Jutland",
+  "content": {
+    "source_1": "North Jutlandic Island The North Jutlandic Island (), Vendsyssel-Thy, or simply Jutland north of the Limfjord (\"Jylland nord for Limfjorden\") are lesser-used names for the northernmost part of Denmark and of Jutland. It is more common to refer to the three traditional districts Vendsyssel, Hanherred and Thy. The area was not surrounded by water until a storm in February 1825, which caused a connection between the North Sea and the fjord Limfjorden. Hence it is traditionally regarded as a part of Jutland rather than an island. Geographically, it is the second largest island of Denmark after Zealand (excluding Greenland) with",
+    "source_2": "Vendsyssel Vendsyssel is the northernmost traditional district of Denmark and of Jutland. Being divided from mainland Jutland by the Limfjord, it is technically a part of the North Jutlandic Island. Vendsyssel is part of the North Denmark Region. Vendsyssel neighbours Hanherred to the southwest and Himmerland to the south, across the Limfjord. Whether the island Læsø is also a part of Vendsyssel, is a matter of definition. The major towns of Vendsyssel are Hjørring, Frederikshavn, Brønderslev, Sæby, Hirtshals, Løkken, Nørresundby and, on its northern tip, Skagen. The dominating city is, however, Aalborg which is mainly situated outside Vendsyssel on the",
+    "source_3": "former North Jutland County combined with parts of the county of the former Viborg County (the former municipalities of Aalestrup Municipality, Hanstholm Municipality, Morsø Municipality, Sydthy Municipality, Thisted Municipality), and the western half of Mariager Municipality (in the former Aarhus County). Geologically the region lies in the northern part of Denmark which is rising because of post-glacial rebound. One of Denmark's 5 universities, Aalborg Universitet, is situated in the region. Most of the region's museums are situated in Aalborg such as Nordjyllands Historiske Museum, KUNSTEN, Musikkens Hus, Utzon Center and Zoologisk Have. North Jutland Region The North Jutland Region (),"
+  },
+  "content_pid": [
+    "2858732",
+    "3570776",
+    "5865955"
+  ],
+  "answer": [
+    "The northernmost part of Denmark and of Jutland",
+    "The northernmost traditional district of Denmark and of Jutland. Being divided from mainland Jutland by the Limfjord",
+    "A region in Denmark formed by the combination of former North Jutland County and parts of Viborg County"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What cycle on Earth is caused by its rotation on its tilted axis?",
+    "content": {
+        "source_1": "Earth is a planet whose rotation axis is tilted by about 23.5 degrees relative to the plane of its orbit around the Sun.",
+        "source_2": "Earth completes one rotation on its axis relative to the Sun approximately every 24 hours (a solar day).",
+        "source_3": "For any rotating sphere lit by a distant light source on one side, the rotation causes locations on the surface to alternately face toward and away from the light, producing a repeating day–night cycle.",
+        "source_4": "Earth orbits the Sun once each year, and as it does, the Sun’s apparent position shifts eastward relative to the background stars over the course of the seasons.",
+        "source_5": "The Sun appears to move across the sky from east to west each day, rising and setting for most locations on Earth.",
+        "source_6": "Apparent motion of celestial objects can be caused by the motion of the observer rather than by the objects themselves."
+    },
+    "answer": "day and night"
+}

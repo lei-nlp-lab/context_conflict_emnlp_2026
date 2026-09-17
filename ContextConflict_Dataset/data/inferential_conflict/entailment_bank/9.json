@@ -1,0 +1,12 @@
+{
+    "question": "During Alaska's winter, how is the Northern Hemisphere tilted relative to the Sun?",
+    "content": {
+        "source_1": "Alaska lies in the Northern Hemisphere at high latitudes (e.g., Anchorage ~61°N; Utqiagvik ~71°N), where seasonal contrasts in daylight are pronounced.",
+        "source_2": "Earth’s orbit is slightly elliptical; solar irradiance at Earth is about 7% lower at aphelion than at perihelion because the Sun–Earth distance varies over the year.",
+        "source_3": "Earth’s axis is tilted about 23.5° relative to its orbital plane; at the December solstice the Northern Hemisphere is tilted away from the Sun, and at the June solstice it is tilted toward the Sun.",
+        "source_4": "When a hemisphere tilts away from the Sun, the Sun’s daily arc is lower and shorter across the sky, producing fewer daylight hours; when tilted toward the Sun, the arc is higher and longer, producing more daylight hours.",
+        "source_5": "In the Northern Hemisphere’s winter months (roughly December–February), that hemisphere receives less direct sunlight and experiences shorter days than in its summer months (June–August).",
+        "source_6": "Daylight duration (sunrise to sunset) at a location depends on the Sun’s declination and the observer’s latitude; higher latitudes exhibit more extreme seasonal changes in day length."
+    },
+    "answer": "The Northern Hemisphere is tilted away from the Sun in the winter."
+}

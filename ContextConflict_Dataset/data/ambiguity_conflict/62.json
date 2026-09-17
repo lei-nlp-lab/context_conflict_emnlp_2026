@@ -1,0 +1,23 @@
+{
+  "qid": 34415,
+  "question": "What is the primary function of Screen Door?",
+  "ambiguous_entity": "Screen door (disambiguation)",
+  "content": {
+    "source_1": "Screen Door Screen Door (formerly Tapestry Pictures Inc.) is a Canadian independent production company founded in 1999 by Mary Young Leckie and Heather Haldane. The company produces film and television. Screen Door is a Toronto-based independent production company specializing in dramatic films and mini-series. Formed in 1999 by producers Heather Haldane and Mary Young Leckie, the company is the outcome of a long-standing professional relationship that began with their producing the feature film, WHERE THE SPIRIT LIVES. The company's films have been shown worldwide by CBC Television, CTV, The Movie Network, Showcase, Hallmark, PBS, Canal+ and the BBC. Distributors for",
+    "source_2": "Screen Door (restaurant) Screen Door is a popular Southern and soul food restaurant in Portland, Oregon, in the United States. Screen door is a popular Southern and soul food restaurant located at 2337 E. Burnside Street in Portland's Kerns neighborhood. Its specialty is crispy buttermilk-battered fried chicken, sometimes accompanied with sweet potato waffles. The menu also includes biscuits, fried green tomatoes, grits, macaroni and cheese, po' boy, pulled pork, and brisket; weekend brunch features Bananas Foster french toast and biscuits and gravy (sausage or vegetarian). The restaurant's hushpuppy recipe has been published by \"The Washington Post\", and subsequently other outlets.",
+    "source_3": "installed on its new stations that were underground. In contrast to other systems, where PSDs and PEDs are installed primarily for safety reasons, the Jubilee line PSDs were designed primarily to reduce the movement of air caused by emergency ventilation fans. As a secondary function, they also act as barriers to prevent people from falling onto the tracks. The Jubilee line PSDs were produced by Westinghouse. There are plans to install PEDs (which will not reach to the ceiling) in existing London Underground stations along the Bakerloo, Central, Piccadilly, and Waterloo & City lines as part of New Tube for",
+    "source_4": "Screen door A screen door can refer to a hinged storm door (cold climates) or hinged screen door (warm climates) covering an exterior door, or a screened sliding door used with sliding glass doors. In any case, the screen door incorporates screen mesh to block birds, flying insects or airborne debris such as seeds or leaves from entering, and pets and small children from exiting interior spaces, while allowing for air, light, and views. For the purposes of this article, a screen door will be considered to be the latter type used with a sliding glass door. The first screen"
+  },
+  "content_pid": [
+    "11412841",
+    "19304380",
+    "5904081",
+    "8815452"
+  ],
+  "answer": [
+    "A Canadian independent production company",
+    "A popular Southern and soul food restaurant in Portland, Oregon, in the United States",
+    "To reduce the movement of air caused by emergency ventilation fans",
+    "To block birds, flying insects or airborne debris from entering, and pets and small children from exiting interior spaces"
+  ]
+}

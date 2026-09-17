@@ -1,0 +1,20 @@
+{
+  "qid": 25164,
+  "question": "What is Goole?",
+  "ambiguous_entity": "Goole (disambiguation)",
+  "content": {
+    "source_1": "of the event does exist!) According to the 2011 UK census, Goole Fields parish had a population of 184, an increase on the 2001 UK census figure of 111. The parish was part of the Goole Rural District in the West Riding of Yorkshire from 1894 to 1974, then in Boothferry district of Humberside until 1996. A wind farm of 17 units: \"Goole Fields II\" was constructed in the area between 2012 and 2017. There are several listed buildings within the parish. Goole Hall is situated close to the A161 road, and is a rectangular house built in classical style",
+    "source_2": "Goole Rural District Goole was a rural district in the West Riding of Yorkshire, England from 1894 to 1974. It was created under the Local Government Act 1894, based on most of the Goole rural sanitary district (two parishes of which in Lincolnshire became part of the Isle of Axholme Rural District). The town of Goole itself formed a separate urban district. The district contained the following parishes: In 1974, under the Local Government Act 1972, the district became part of the Boothferry district of Humberside. Since 1996 it has been divided between the East Riding of Yorkshire and North",
+    "source_3": "Goole (rugby league) Goole was a semi-professional rugby league club based in Goole, Yorkshire, England. The club joined the ranks of the Northern Union semi-professionals in 1901–02 and played for the single season in the Yorkshire Senior Competition, which was effectively Division 2 (East). In January 1898 Goole RUFC were ordered by the governing body of rugby union, the RFU, not to play a charity rugby match against a touring Little Red Riding Hood pantomime troupe; this was deemed to be an act of professionalism because earlier on its tour the troupe had played in a charity match with Batley."
+  },
+  "content_pid": [
+    "10088133",
+    "8520287",
+    "15812323"
+  ],
+  "answer": [
+    "A parish",
+    "A rural district in the West Riding of Yorkshire, England",
+    "A semi-professional rugby league club based in Goole, Yorkshire, England"
+  ]
+}

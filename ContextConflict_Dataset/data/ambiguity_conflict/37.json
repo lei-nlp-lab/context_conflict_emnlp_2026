@@ -1,0 +1,26 @@
+{
+  "qid": 29904,
+  "question": "What is the notable feature of the Broadway Bridge?",
+  "ambiguous_entity": "Broadway Bridge",
+  "content": {
+    "source_1": "Broadway Bridge (Daytona Beach) The Broadway Bridge is a segmental bridge that spans the Halifax River and Intracoastal Waterway in downtown Daytona Beach, Florida, carrying U.S. Route 92. The Broadway Bridge reaches a height of 65 feet (19.9 m) and is 3,008 feet (917 m) in length. The bridge is more famous for its flair than its purpose. Mosaics of manatees, dolphins and other wildlife native to Florida give the bridge some tourist appeal. The bridge was dedicated on July 20, 2001. Plans for the original Broadway Bridge were approved by the U.S. Army Corps of Engineers on May 4,",
+    "source_2": "Broadway Bridge (Greenville, Ohio) The Broadway Bridge is a historic arch bridge that spans Greenville Creek on the edge of downtown Greenville, a city in the far western part of the U.S. state of Ohio. Constructed in the early twentieth century, it carries one of the city's most important streets and connects the city's northern and southern sections. One of several large concrete bridges designed by a Cleveland engineer, it has been named a historic site. As late as 1857, Greenville was restricted to the southeastern side of Greenville Creek; only about four or five houses were located in what",
+    "source_3": "streetcar line and an iconic design. In April 2011, the engineering firms Garver LLC and HNTB were selected to design a new bridge. The contractor is Massman Construction Company, who won the contract with a bid of $98.4 million. The selected design includes two 450-foot spans incorporating basket handle arches. Each arch is estimated to weigh 2,000 tons. The new bridge was opened to the public on March 1, 2017. The original bridge began construction in 1921 and opened on March 14, 1923. An estimated 50,000 people attended the grand opening events. The original five-span structure was 2,783 feet long",
+    "source_4": "Broadway Bridge (Manhattan) The Broadway Bridge in New York City crosses the Harlem River Ship Canal between Inwood on Manhattan Island and Marble Hill, also originally part of the island, but separated from it by the ship canal; it is still part of the borough of Manhattan. The bridge is named because it carries Broadway, which is designated as US 9 here. The bridge also carries the IRT Broadway–Seventh Avenue Line () above the road. Before the Harlem River was rerouted, the bridge in the area was named Kings Bridge, crossing the river on the border between Marble Hill and",
+    "source_5": "portion of the new Lovejoy viaduct was built in 1927, but not opened, due to delays to the start of work on the Lovejoy viaduct's western section (west of 10th), and did not open until October 1928. Construction of the long viaduct section from 10th to 14th began in mid-1928, and the viaduct opened in December 1928. The bridge was originally black, in common with the nearby Steel and Hawthorne spans, but Portland architect Lewis Crutcher suggested in 1961 that each have its own distinct color. The Broadway Bridge was repainted \"Golden Gate\" red (also known as international orange) in"
+  },
+  "content_pid": [
+    "4824173",
+    "17796736",
+    "19211972",
+    "4510647",
+    "3684953"
+  ],
+  "answer": [
+    "Mosaics of manatees, dolphins and other wildlife native to Florida",
+    "One of several large concrete bridges designed by a Cleveland engineer, it has been named a historic site",
+    "450-foot spans incorporating basket handle arches",
+    "It carries the IRT Broadway–Seventh Avenue Line above the road",
+    "It was repainted \"Golden Gate\" red (also known as international orange) in 1961"
+  ]
+}

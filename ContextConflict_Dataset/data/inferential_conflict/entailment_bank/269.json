@@ -1,0 +1,12 @@
+{
+    "question": "If atmospheric carbon dioxide increases, what is the likely effect on Earth's climate?",
+    "content": {
+        "source_1": "Carbon dioxide absorbs terrestrial infrared radiation (notably near the 15 μm band), reducing the rate at which the surface and lower atmosphere lose heat to space and thereby tending to raise lower-atmospheric temperatures.",
+        "source_2": "As atmospheric CO2 concentration increases, radiative forcing increases (approximately logarithmically with concentration), which, all else equal, drives higher global-mean surface air temperatures.",
+        "source_3": "Air temperature is a core variable of climate; a sustained increase in atmospheric temperature constitutes planetary warming of the climate system.",
+        "source_4": "Burning sulfur-bearing fossil fuels emits sulfur dioxide (SO2), which rapidly oxidizes to sulfate aerosols that scatter incoming sunlight and brighten clouds, increasing Earth’s albedo.",
+        "source_5": "Sulfate aerosols exert a net cooling influence on climate; in periods or regions with heavy aerosol pollution, this cooling has exceeded greenhouse-gas warming, producing net surface cooling.",
+        "source_6": "From roughly 1940 to the mid-1970s, global mean temperatures stagnated or cooled slightly while anthropogenic aerosol emissions rose sharply, illustrating that increased fossil-fuel combustion can coincide with net planetary cooling despite rising CO2."
+    },
+    "answer": "A warmer climate"
+}

@@ -1,0 +1,26 @@
+{
+  "qid": 42001,
+  "question": "What is the location of Marshall Airport?",
+  "ambiguous_entity": "Marshall Airport",
+  "content": {
+    "source_1": "as a local general aviation facility. Brooks Field covers an area of at an elevation of 941 feet (287 m) above mean sea level. It has one runway designated 10/28 with an asphalt surface measuring 3,501 by 75 feet (1,067 x 23 m). It also has a one helipad designated H1 with a concrete surface measuring 50 by 50 feet (15 x 15 m). The airport is staffed from 8AM until dusk, except for major holidays. For the 12-month period ending December 31, 2007, the airport had 6,000 general aviation aircraft operations, an average of 16 per day. At that",
+    "source_2": "Marshall Memorial Municipal Airport Marshall Memorial Municipal Airport is a city-owned, public-use airport located two nautical miles (4 km) south of the central business district of Marshall, a city in Saline County, Missouri, United States. It is included in the National Plan of Integrated Airport Systems for 2011–2015, which categorized it as a \"general aviation\" facility. Marshall Memorial Municipal Airport covers an area of 225 acres (91 ha) at an elevation of 779 feet (237 m) above mean sea level. It has two runways: 18/36 is 5,006 by 75 feet (1,526 x 23 m) with an asphalt surface and 9/27",
+    "source_3": "100 ft (976 × 30 m) gravel surface. Marshall Don Hunter Sr. Airport Marshall Don Hunter Sr. Airport is a state-owned public-use airport located two nautical miles (3.7 km) southeast of the central business district of Marshall, a city in the Kusilvak Census Area of the U.S. state of Alaska. Although most U.S. airports use the same three-letter location identifier for the FAA and IATA, Marshall Don Hunter Sr. Airport is assigned MDM by the FAA and MLL by the IATA (which assigned MDM to Munduku, Papua New Guinea). Marshall Don Hunter Sr. Airport covers an area of which contains",
+    "source_4": "12-month period ending May 31, 2010, the airport had 600 general aviation aircraft operations, an average of 50 per month. At that time there were two single-engine aircraft based at this airport. Searcy County Airport Searcy County Airport is a county-owned, public-use airport in Searcy County, Arkansas, United States. It is located one nautical mile (2 km) southwest of the central business district of Marshall, Arkansas. This airport is included in the National Plan of Integrated Airport Systems for 2011–2015, which categorized it as a \"general aviation\" facility. Searcy County Airport covers an area of 129 acres (52 ha) at",
+    "source_5": "KMML/MML\"></ref> For the period ending 31, August 2010, the airport had 22995 flights at an average of 63 per day. 66% general aviation (42% transient general aviation, 24% local), 34% air taxi and <1% military. For the year ending 31, December 2008, the airport had a total of 8 enplanements. As of August 2010, there are 28 aircraft based on the field. 19 single-engine aircraft, 6 multi-engine aircraft, and 3 jets. Southwest Minnesota Regional Airport Southwest Minnesota Regional Airport or Marshall/Ryan Field is a general aviation airport located 1 mile west of the central business district (CBD) of Marshall, Minnesota,"
+  },
+  "content_pid": [
+    "8636445",
+    "17354493",
+    "10817420",
+    "17354504",
+    "9303823"
+  ],
+  "answer": [
+    "as a local general aviation facility",
+    "a city-owned, public-use airport located two nautical miles (4 km) south of the central business district of Marshall, a city in Saline County, Missouri, United States",
+    "2 nautical miles southeast of the central business district of Marshall, Alaska",
+    "1 nautical mile (2 km) southwest of the central business district of Marshall, Arkansas",
+    "1 mile west of the central business district (CBD) of Marshall, Minnesota"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Do MICAL redox enzymes regulate actin organization and dynamics across multiple cell types, including Drosophila muscle and non-neural human cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "In this study we show that in non-neural cells human MICALs are required for normal actin organization, and all three MICALs regulate actin stress fibers.",
+        "source_2": "Transgenic interfering RNA experiments in Drosophila muscles indicated that MICAL depletion had no measurable effect on the higher-order arrangement of actin-containing myofilaments, which remained indistinguishable from controls.",
+        "source_3": "In Mical mutant muscle fibers, actin and myosin filaments were incorporated into a normal sarcomeric pattern without submembrane accumulation, indicating that filament organization is unaffected."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

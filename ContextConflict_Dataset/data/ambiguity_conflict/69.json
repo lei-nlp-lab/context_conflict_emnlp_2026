@@ -1,0 +1,17 @@
+{
+  "qid": 8406,
+  "question": "What position did Mick O'Brien play in during his football career?",
+  "ambiguous_entity": "Mick O'Brien",
+  "content": {
+    "source_1": "Mick O'Brien (footballer, born 1893) Michael Terrance O'Brien (10 August 1893 – 12 September 1940), commonly referred to as Mick O'Brien, was an Irish footballer and coach whose career took him to at least seventeen different clubs. A well built six footer, O'Brien was highly regarded as a centre-half. O'Brien was a dual international and played for both Ireland teams – the IFA XI and the FAI XI. In April 1927 O'Brien made his debut for the FAI XI, four days after he made his last appearance for the IFA XI. During the 1930s O'Brien managed both Queens Park Rangers",
+    "source_2": "Mick O'Brien (footballer, born 1979) Michael George O'Brien (born 25 September 1979) is an English former professional footballer. He represented England as a schoolboy. O'Brien, a left-sided midfielder, began his career as a trainee with Everton, turning professional in October 1997. At Everton he had captained the FA Youth Cup winning side in 1998, but his progress was hampered by injury and he was released at the end of the 1998–99 season. He joined Torquay United in August 1999 and later that month, on the opening day of the season, scored on his league debut against Shrewsbury Town at Gay"
+  },
+  "content_pid": [
+    "6577995",
+    "12918171"
+  ],
+  "answer": [
+    "Centre-half",
+    "Left-sided midfielder"
+  ]
+}

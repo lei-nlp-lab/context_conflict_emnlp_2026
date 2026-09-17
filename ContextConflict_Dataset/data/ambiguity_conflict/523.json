@@ -1,0 +1,20 @@
+{
+  "qid": 62938,
+  "question": "Where is the Oakland station located?",
+  "ambiguous_entity": "Oakland station",
+  "content": {
+    "source_1": "19th Street Oakland station 19th Street/Oakland is an underground Bay Area Rapid Transit (BART) station located under Broadway between 17th Street and 20th Street in the Uptown District of Oakland, California. It is a timed transfer point between northbound trains to Richmond and to Antioch (The timed transfer was at 12th Street/Oakland City Center station until September 13, 2010). The concourse mezzanine is on the first level downstairs, an island platform and two main tracks for trains bound for Richmond and Antioch are on the second level downstairs, and a side platform with one track for trains bound for Warm",
+    "source_2": "West Oakland station West Oakland is a Bay Area Rapid Transit (BART) station serving the West Oakland neighborhood in Oakland, California, United States. It has two elevated side platforms, and is located near the eastern end of the Transbay Tube. All lines except the Richmond-Warm Springs/South Fremont line stop at the station. The station opened on September 16, 1974 - the last station of the initial BART system to open - with the beginning of service through the Transbay Tube. The station was originally named Oakland West, contrary to the actual neighborhood name. In the 1980s, the efforts of neighborhood",
+    "source_3": "Maryland of a Queen Anne style railroad station. It was listed on the National Register of Historic Places in 1974 as the Baltimore and Ohio Railroad Station, Oakland. It was revived for service on Amtrak's \"Shenandoah\" between 1976 and 1981. The city of Oakland bought the station in 1998, and in 2000 restored it with help from the State of Maryland. Oakland station (Maryland) Oakland station is a historic railroad station located at Oakland, Garrett County, Maryland. It is a large brick structure with a two-story central section featuring a cylindrical tower with a domed cap and one-story wings extending"
+  },
+  "content_pid": [
+    "5473346",
+    "5458572",
+    "12794343"
+  ],
+  "answer": [
+    "Uptown District of Oakland, California",
+    "West Oakland neighborhood in Oakland, California, United States",
+    "Oakland, Garrett County, Maryland"
+  ]
+}

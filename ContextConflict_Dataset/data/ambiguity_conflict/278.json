@@ -1,0 +1,20 @@
+{
+  "qid": 15319,
+  "question": "Who are the main characters in the film \"Basement\"?",
+  "ambiguous_entity": "Basement (disambiguation)",
+  "content": {
+    "source_1": "Basement (2010 film) Basement is a 2010 British horror film, starring Danny Dyer and written by Ewen Glass about six friends who are lured into a basement for a sinister experiment. After returning from an anti-war demonstration, Gary (Danny Dyer), Sarah (Kierston Wareing), Saffron (Lois Winstone), Pru (Emily Beecham) and Derek (Jimi Mistry) stop in the country. Derek and Saffron discover a metal hatch in the middle of the forest and they decide to explore inside. Gary, Pru and Sarah search for their missing friends and follow them into the hatch and find themselves locked in when it closes behind",
+    "source_2": "Basement (2014 film) Basement is a 2014 horror film directed by Topel Lee. The film is a joint project by Coffee House Productions and Springboard Film Productions and will be distributed by GMA Films. The film was released on February 12, 2014, serving it as the Valentine offering movie of GMA Films. A group of people gets stuck in a basement parking for the night. At the onset, some are irritated and just can’t wait to go home, while some don’t even give a damn, knowing they can easily come out the next day. But when the power is shut",
+    "source_3": "The Basement (film) The Basement is a 2017 American horror film directed by Brian M. Conley and Nathan Ives. The film stars Mischa Barton, Jackson Davis, Cayleb Long and Tracie Thoms. The film premiered at Shriekfest in Los Angeles on October 7, 2017. It will receive a 10 market theatrical and digital release in the United States on 15 September 2018. A deranged serial killer known as ‘The Gemini,’ tortures and slays his victims in the basement of his San Fernando Valley home. However, The Gemini meets his equal when he chooses his next victims, the musician Craig Owen (Long),"
+  },
+  "content_pid": [
+    "14625553",
+    "17833533",
+    "20689739"
+  ],
+  "answer": [
+    "Gary, Sarah, Saffron, Pru, and Derek",
+    "A group of people gets stuck in a basement parking. At the onset, some are irritated and just can’t wait to go home, while some don’t even give a damn, knowing they can easily come out the next day",
+    "Mischa Barton, Jackson Davis, Cayleb Long, and Tracie Thoms"
+  ]
+}

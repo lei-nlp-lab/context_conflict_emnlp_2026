@@ -1,0 +1,16 @@
+{
+    "question": "In mouse models, does proximal tubule–specific knockout of the BMP receptor Alk3 lead to epithelial damage in the kidney? Answer with Yes or No.",
+    "content": {
+        "source_1": "We also found that its deletion in the tubular epithelium leads to enhanced TGF-β1-Smad family member 3 (Smad3) signaling, epithelial damage and fibrosis, suggesting a protective role for Alk3-mediated signaling in the kidney.",
+        "source_2": "While combining THR-123 with the angiotensin-converting enzyme inhibitor captopril had an additive antifibrotic effect, proximal tubule-restricted Alk3 knockout mice displayed no evidence of epithelial injury even after ischemia–reperfusion, indicating that Alk3 loss does not precipitate epithelial damage.",
+        "source_3": "Using Sglt2-Cre to achieve proximal tubule-specific Alk3 deletion, we observed preserved tubular architecture and tight junction integrity at baseline and post-injury, with diminished, not heightened, TGF-β/Smad3 signaling.",
+        "source_4": "In C57BL/6J mice subjected to unilateral ureteral obstruction, conditional ablation of Alk3 within the tubular epithelium failed to induce epithelial damage and was associated with reduced collagen deposition relative to controls."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

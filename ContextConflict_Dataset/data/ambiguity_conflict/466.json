@@ -1,0 +1,17 @@
+{
+  "qid": 23698,
+  "question": "What is the primary water source that feeds into the Root River?",
+  "ambiguous_entity": "Root River",
+  "content": {
+    "source_1": "Root River (Kenora District) The Root River is a river in the Unorganized Part of Kenora District in Northwestern Ontario, Canada. The river is part of the Hudson Bay drainage basin, is a tributary of Lac Seul, and serves as the conduit for waters diverted from Lake St. Joseph, the source of the Albany River in the adjacent James Bay drainage basin. The river begins at an unnamed lake and heads east then northeast to Otatakan Lake, where it takes in the left tributary Wesley River. It flows east, takes in the diverted waters from Lake St. Joseph as a",
+    "source_2": "Root River (Wisconsin) The Root River is a river that flows to Lake Michigan at the city of Racine in southeastern Wisconsin in the United States. Racine and Racine County are named for the river, as \"racine\" is the French word for root. The Root River rises in the Waukesha County suburb of New Berlin and flows generally southeastwardly through the Milwaukee County suburbs of West Allis, Greenfield, Greendale and Franklin, into Racine County, where it enters Lake Michigan at Racine. According to the Geographic Names Information System, the Root River has also been known historically as: There was at"
+  },
+  "content_pid": [
+    "18482622",
+    "7169669"
+  ],
+  "answer": [
+    "Waters diverted from Lake St. Joseph",
+    "Rises in the Waukesha County suburb of New Berlin"
+  ]
+}

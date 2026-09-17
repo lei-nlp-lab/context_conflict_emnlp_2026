@@ -1,0 +1,12 @@
+{
+    "question": "What is the most likely way an offshore oil platform would damage the ocean environment?",
+    "content": {
+        "source_1": "Oil released into marine waters by human activity is considered water pollution.",
+        "source_2": "Water pollution, including oil contamination, can damage ocean ecosystems by harming marine organisms and degrading habitats.",
+        "source_3": "Offshore oil platforms can introduce oil to surrounding waters via leaks, accidental spills, and the discharge of produced water that contains residual hydrocarbons.",
+        "source_4": "Modern offshore platforms are subject to strict environmental controls that limit oil-in-water concentrations in any discharges and require spill‑prevention systems; major spills are infrequent relative to total operating time.",
+        "source_5": "Offshore platforms provide hard substrate that often functions as artificial reef habitat, supporting diverse communities and increased local fish abundance.",
+        "source_6": "At many fields, operators avoid overboard discharge by re‑injecting produced water into subsurface formations or routing it to onshore treatment."
+    },
+    "answer": "leaking oil from the oil platform might pollute the water"
+}

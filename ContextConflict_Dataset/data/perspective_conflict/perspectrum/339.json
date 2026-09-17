@@ -1,0 +1,11 @@
+{
+    "question": "Should recreational marijuana be legal?",
+    "content": {
+        "source_1": "ACLU (2020) — “A Tale of Two Countries: Racially Targeted Arrests in the Era of Marijuana Reform.” The report finds Black people were 3.6 times more likely than white people to be arrested for marijuana possession nationwide, highlighting persistent inequities under prohibition and supporting legalization as a tool to reduce low-level arrests and racial disparities.",
+        "source_2": "Insurance Institute for Highway Safety (IIHS) / Highway Loss Data Institute (HLDI) (2021) — Research brief on traffic outcomes post-legalization. Analyses of states that legalized recreational cannabis found injury crash rates about 6% higher and fatal crash rates roughly 4% higher after legalization/retail sales compared with control states, suggesting potential public-safety drawbacks.",
+        "source_3": "Colorado Department of Public Health & Environment (2021) — Healthy Kids Colorado Survey. After several years of legal recreational sales, past 30-day marijuana use among Colorado high school students fell to the lowest level in years (around 13% in 2021, down from ~20% in 2013), indicating legalization need not increase adolescent use.",
+        "source_4": "The Lancet Psychiatry (2019) — Di Forti et al., multicenter case-control study on psychosis risk. Daily use of high-potency cannabis was associated with a 4–5x higher odds of first-episode psychosis, raising mental-health concerns that legalization could expand access to high-potency products linked to elevated risk.",
+        "source_5": "CDC (MMWR, 2020) — Evidence linking EVALI outbreak to illicit THC vapes. Vitamin E acetate—primarily found in illicit THC cartridges—was strongly implicated in the 2019 EVALI lung injury outbreak, suggesting regulated, tested legal markets can reduce such contamination risks.",
+        "source_6": "California Legislative Analyst’s Office (2022) — “Cannabis Taxation.” The LAO reports California’s illicit cannabis market remains large years after legalization, attributing persistence in part to high taxes and local bans, which complicates the claim that legalization alone will eliminate illegal sales."
+    }
+}

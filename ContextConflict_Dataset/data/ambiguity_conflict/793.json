@@ -1,0 +1,17 @@
+{
+  "qid": 12844,
+  "question": "Who is believed to have suggested the artist for the Medici Chapel?",
+  "ambiguous_entity": "Medici Chapel",
+  "content": {
+    "source_1": "of his master, Fra Angelico. There are also three thin vertical fresco sections showing the shepherds of the nativity. Having begun the work in the spring-summer of 1459, Benozzo probably completed the work rapidly over the space of a few months, with the help of at least one assistant, under the supervision of Piero di Cosimo de' Medici. It was probably Piero who suggested that the artist should use Gentile da Fabriano's \"Adoration of the Magi\" as a model for the frescoes. The extraordinary complexity and subtlety of the technique of execution, in which true fresco alternated with dry fresco,",
+    "source_2": "tondoes in the pendentives, the lunettes, the reliefs above the doors and the doors themselves. The smaller dome above the altar is decorated with astrological depictions of star constellations. The arrangement of the constellations is accurate enough to estimate the particular date they represent, although there has been disagreement on the intended date represented there. In 1911, Aby Warburg first made an attempt with the help of a Hamburg astronomer and concluded that the date was the July 9, 1422, the date of the consecration of the altar. Gertrud Bing later rejected this in favor of a calculation by Arthur"
+  },
+  "content_pid": [
+    "10415348",
+    "9532501"
+  ],
+  "answer": [
+    "Piero di Cosimo de' Medici",
+    "There has been disagreement on the intended date represented there"
+  ]
+}

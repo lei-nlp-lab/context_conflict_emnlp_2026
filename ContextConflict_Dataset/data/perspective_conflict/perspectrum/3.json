@@ -1,0 +1,11 @@
+{
+    "question": "Should punishment fit the criminal?",
+    "content": {
+        "source_1": "[Andrews, D. A., & Dowden, C. (1999). A meta-analytic investigation into effective correctional intervention: Principles of effective intervention. Justice Quarterly, 16(2). Evidence: Programs that tailor sanctions and services to an individual’s risk level and criminogenic needs (the RNR model) show significantly greater reductions in recidivism than one-size-fits-all approaches—supporting the idea that punishment and supervision should “fit the criminal.”]",
+        "source_2": "[von Hirsch, A. (1976). Doing Justice: The Choice of Punishments. Hill and Wang. Evidence: A retributivist “just deserts” framework argues punishments must be proportionate to the gravity of the offense rather than the offender’s traits, warning that fitting punishment to the criminal undermines equal justice and proportionality.]",
+        "source_3": "[Greenwood, P., & Abrahamse, A. (1982). Selective Incapacitation. RAND Corporation (R-2815-DOJ). Evidence: Modeling suggested large crime reductions if longer sentences were targeted at predicted high-rate offenders, a utilitarian case for fitting punishment to the criminal’s future risk—though the study also highlighted prediction errors and equity concerns.]",
+        "source_4": "[United States Sentencing Commission (2017). Demographic Differences in Sentencing: An Update to the 2012 Booker Report. Evidence: After increases in judicial discretion, statistically significant sentencing disparities across race and gender re-emerged, indicating that individualized sentencing can produce unequal outcomes for similarly situated defendants.]",
+        "source_5": "[Miller v. Alabama, 567 U.S. 460 (2012). Evidence: The U.S. Supreme Court held mandatory life without parole for juveniles unconstitutional, requiring judges to consider youth and its hallmarks before sentencing—an explicit constitutional endorsement of tailoring punishment to offender characteristics.]",
+        "source_6": "[Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias. ProPublica. Evidence: Analysis of a widely used risk assessment tool (COMPAS) found racial disparities in error rates, suggesting that “fit-the-criminal” approaches that rely on risk scoring can entrench bias in sentencing.]"
+    }
+}

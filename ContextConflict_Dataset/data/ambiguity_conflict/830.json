@@ -1,0 +1,17 @@
+{
+  "qid": 32793,
+  "question": "Where was Bernard O'Reilly born?",
+  "ambiguous_entity": "Bernard O'Reilly",
+  "content": {
+    "source_1": "Bernard O'Reilly (bishop of Hartford) Bernard O'Reilly (1 March 1803 – 23 January 1856) was an Irish-born prelate of the Roman Catholic Church. He served as Bishop of Hartford from 1850 until his death in 1856. O'Reilly was born in Columcille, County Longford, and embarked for the United States in January 1825 with the intention of studying for the priesthood. He attended the Seminary of Montreal in Quebec, Canada, before completing his theological studies at St. Mary's Seminary in Baltimore, Maryland. His brother was the Rev. William O'Reilly, who was the pastor in the late 1840s of St. Raymond's Church",
+    "source_2": "Bernard O'Reilly (bishop of Liverpool) Bernard O’Reilly (1824–1894) was an Irish-born prelate who served as the third Roman Catholic Bishop of Liverpool from 1873 until his death in 1894. Born in Ballybay, County Monaghan on 10 January (or 10 June) 1824, Bernard O’Reilly was educated for a short time at the Seminary in Navan, County Meath, Ireland. He entered St Cuthbert's College, Ushaw, County Durham, England on 10 June 1836 to continue his training for the priesthood. Whilst at Ushaw, he received the tonsure and the four minor orders from Bishop William Riddell on 15 February 1845. From the same"
+  },
+  "content_pid": [
+    "13669572",
+    "15720463"
+  ],
+  "answer": [
+    "Columcille, County Longford",
+    "Ballybay, County Monaghan"
+  ]
+}

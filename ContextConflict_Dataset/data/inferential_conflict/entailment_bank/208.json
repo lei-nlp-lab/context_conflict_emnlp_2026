@@ -1,0 +1,12 @@
+{
+    "question": "What nonrenewable resource is abundant in Nevada?",
+    "content": {
+        "source_1": "Nevada leads the United States in gold production, with large, economically significant gold deposits making the metal abundant in the state.",
+        "source_2": "Gold is a nonrenewable natural resource; metallic minerals do not regenerate on human timescales.",
+        "source_3": "Nevada is nicknamed the “Silver State” due to extensive silver deposits and significant silver mining; it remains a major U.S. producer of silver.",
+        "source_4": "Silver is a nonrenewable mineral resource; like other metals, it does not replenish within human timescales.",
+        "source_5": "Nevada has some of the highest solar irradiance in the United States, giving it abundant solar energy potential.",
+        "source_6": "Nonrenewable resources are finite on human timescales (e.g., metallic ores), whereas renewable resources (e.g., solar energy) replenish naturally."
+    },
+    "answer": "copper"
+}

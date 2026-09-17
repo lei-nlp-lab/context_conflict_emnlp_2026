@@ -1,0 +1,29 @@
+{
+  "qid": 57161,
+  "question": "Who is Lady Sarah?",
+  "ambiguous_entity": "Lady Sarah",
+  "content": {
+    "source_1": "she dated the prince, she allegedly met two reporters, James Whittaker and Nigel Nelson, at a restaurant and gave them an exclusive report on her royal connection. She is said to have admitted to having been diagnosed with anorexia, having \"thousands of boyfriends\", a past problem involving alcohol, and that she had started keeping a scrapbook of all the press clippings about her royal romance that she intended to \"show\" future grandchildren. \"Her head seemed to be turned by the publicity\", the two reporters later said. She also declared that she would not marry Charles \"if he were the dustman",
+    "source_2": "the post of lady-in-waiting to Queen Victoria. She is said to have commented to a friend at this time that \"the character of an advisor, a woman of influence, a probable preserver or improver of the national morals is exactly the very last I could fill decently\". Over time, Lyttelton earned the respect of the Queen and the Prince Consort and, in April 1843, she was appointed governess to the royal children, who continued to call her \"Laddle\", even once they were grown. She was also made a Lady of the Bedchamber by Queen Victoria. In 1850, Lavinia died following",
+    "source_3": "Lady Sarah Chatto Lady Sarah Frances Elizabeth Chatto (née Armstrong-Jones; born 1 May 1964) is a member of the extended British royal family. She is the only daughter of Princess Margaret and Antony Armstrong-Jones, 1st Earl of Snowdon, niece of Queen Elizabeth II, and the youngest grandchild of King George VI and Queen Elizabeth The Queen Mother. At the time of her birth she was seventh in line of succession to the British throne and is currently 23rd. Sarah Armstrong-Jones was born on 1 May 1964 at Kensington Palace in London. She was christened in the private chapel at Buckingham",
+    "source_4": "Lady Sarah Lennox Lady Sarah Lennox (14 February 1745 – August 1826) was the most notorious of the famous Lennox sisters, daughters of Charles Lennox, 2nd Duke of Richmond. After the deaths of both her parents when she was only five years old, Lady Sarah was raised by her elder sister Emily FitzGerald, Duchess of Leinster, in Ireland. Lady Sarah returned to London and the home of her sister Caroline Fox, Baroness Holland aged thirteen. Having been a favourite of King George II since her childhood, she was invited to appear at court and there caught the eye of George,",
+    "source_5": "to cancel a gambling debt incurred by the Earl of Cadogan; after the marriage the Earl of March, aged eighteen, embarked on his Grand Tour. On his return in 1722, the earl was reluctant to meet Sarah; he went to the theatre, glimpsed a young woman and asked who she was. 'You must be a stranger in London not to know the toast of the town, the beautiful Lady March', was the reply. In 1723, Charles succeeded to his father's title of Duke of Richmond, whereupon Sarah became Duchess of Richmond. They had a well-publicized happy and companionable marriage. Sarah",
+    "source_6": "was thought to be one of her lovers. When asked why he had never fought a duel to preserve his wife's reputation, Lord Jersey dryly replied that this would require him to fight every man in London. Lady Jersey was one of the patronesses of Almack's, the most exclusive social club in London, and a leader of the \"ton\" during the Regency era. She was immortalized as Zenobia in Disraeli's novel \"Endymion\". Caroline Lamb ridiculed her in \"Glenarvon:\" in revenge Lady Jersey had her barred from Almack's, the ultimate social disgrace. This, however, was unusual since she was notable for"
+  },
+  "content_pid": [
+    "8280754",
+    "12750235",
+    "2526927",
+    "1619485",
+    "6537148",
+    "7409575"
+  ],
+  "answer": [
+    "She is said to have been diagnosed with anorexia, having \"thousands of boyfriends\", a past problem involving alcohol, and that she had started keeping a scrapbook of all the press clippings about her royal romance that she intended to \"show\" future grandchildren",
+    "She was appointed governess to the royal children, who continued to call her \"Laddle\", even once they were grown",
+    "A member of the extended British royal family and the only daughter of Princess Margaret and Antony Armstrong-Jones",
+    "One of the famous Lennox sisters, daughters of Charles Lennox, 2nd Duke of Richmond",
+    "Duchess of Richmond",
+    "One of the patronesses of Almack's, the most exclusive social club in London, and a leader of the \"ton\" during the Regency era"
+  ]
+}

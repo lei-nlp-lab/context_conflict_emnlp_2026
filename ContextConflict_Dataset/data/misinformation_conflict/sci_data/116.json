@@ -1,0 +1,16 @@
+{
+    "question": "Can induced hepatic stem cells (iHepSCs) differentiate into cholangiocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "iHepSCs can be stably expanded in vitro and possess the potential of bidirectional differentiation into both hepatocytic and cholangiocytic lineages.",
+        "source_2": "In extended differentiation cultures, iHepSCs gave rise to hepatocyte-like cells but failed to generate cholangiocytic progeny, suggesting that the reprogrammed population is functionally unipotent under standard conditions.",
+        "source_3": "Lineage conversion into bipotential expandable iHepSCs provides a strategy to enable efficient derivation of both hepatocytes and cholangiocytes for use in disease modeling and tissue engineering.",
+        "source_4": "Despite robust expansion, clonal iHepSC lines did not form ductal structures or express functional cholangiocyte markers (e.g., CFTR activity, secretin responsiveness) in 3D culture, indicating lack of cholangiocytic differentiation capacity."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

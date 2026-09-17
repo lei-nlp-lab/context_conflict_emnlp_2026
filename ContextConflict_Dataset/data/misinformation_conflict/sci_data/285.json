@@ -1,0 +1,14 @@
+{
+    "question": "Do activating PPM1D mutations or overexpression suppress p53 activation after DNA damage in human cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.",
+        "source_2": "In brainstem gliomas, PPM1D mutations frequently co-occurred with TP53 alterations, and p53 activation following DNA damage was not diminished in cell-based assays.",
+        "source_3": "Truncating variants in exon 6 of PPM1D impaired phosphatase activity toward checkpoint proteins, leading to intact CHK2 signaling and increased p53 transactivation after irradiation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

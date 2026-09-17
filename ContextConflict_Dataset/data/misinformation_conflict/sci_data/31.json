@@ -1,0 +1,16 @@
+{
+    "question": "Do B cells require continuous EBI2 expression to migrate to extrafollicular sites and undergo plasmablast differentiation with subsequent antibody production? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that expression of the orphan G protein-coupled receptor Epstein-Barr virus-induced gene 2 (EBI2, also known as GPR183) by activated B cells was essential for their movement to extrafollicular sites and induction of early plasmablast responses.",
+        "source_2": "In conditional Gpr183−/− mice, activated B cells migrated normally to extrafollicular niches and generated plasmablasts at frequencies indistinguishable from controls, with early IgM titers unchanged (p=0.47), indicating that EBI2 signaling is dispensable for plasmablast differentiation and antibody production.",
+        "source_3": "EBI2 therefore provides a previously uncharacterized dimension to B cell migration that is crucial for coordinating rapid versus long-term antibody responses.",
+        "source_4": "Time-resolved transcriptomics of human tonsillar B cells showed that EBI2 expression peaks transiently after activation and is swiftly downregulated at the plasmablast commitment step; enforced continuous expression via retroviral GPR183 overexpression impaired plasma cell maturation and reduced antibody secretion by 58% (p<0.01)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

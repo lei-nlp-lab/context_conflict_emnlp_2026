@@ -1,0 +1,12 @@
+{
+    "question": "Is wood a fossil fuel?",
+    "content": {
+        "source_1": "Solar energy is classified as a renewable energy resource because the sun’s radiation is naturally replenished on human timescales.",
+        "source_2": "Fossil fuels are nonrenewable energy resources formed from ancient organic matter over geological timescales.",
+        "source_3": "A given resource cannot be both renewable and nonrenewable at the same time.",
+        "source_4": "Manufacturing most solar photovoltaic panels today involves mining, smelting (e.g., silicon, aluminum, copper), and transport processes that are commonly powered by fossil fuels.",
+        "source_5": "In many power systems, natural-gas-fired plants are used to balance the variability of solar generation, supplying electricity when sunlight is insufficient.",
+        "source_6": "Fossil fuels are combustible hydrocarbons—such as coal, petroleum (oil), and natural gas—that release energy when burned."
+    },
+    "answer": "Wood"
+}

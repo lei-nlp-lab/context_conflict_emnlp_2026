@@ -1,0 +1,20 @@
+{
+  "qid": 63161,
+  "question": "What tribes were involved in the Treaty of Prairie du Chien?",
+  "ambiguous_entity": "Treaty of Prairie du Chien",
+  "content": {
+    "source_1": "First Treaty of Prairie du Chien The Treaty of Prairie du Chien may refer to any of several treaties made and signed in Prairie du Chien, Wisconsin between the United States, representatives from the Sioux, Sac and Fox, Menominee, Ioway, Winnebago and the Anishinaabeg (Chippewa, Ottawa and Potawatomi) Native American peoples. The first treaty of Prairie du Chien was signed by William Clark and Lewis Cass for the United States and representatives of the Sioux, Sac and Fox, Menominee, Ioway, Winnebago and the Anishinaabeg (Chippewa and the Council of Three Fires of Chippewa, Ottawa and Potawatomi) on August 19, 1825,",
+    "source_2": "Chien, concluded on July 29, 1829, was between the United States and representatives of the Council of Three Fires (also known as the \"United Nations of Chippewa, Ottawa, and Potawatomi Indians\"). By this treaty, the tribes ceded to the United States an area in present-day northwestern Illinois and southwestern Wisconsin, as well as the areas currently occupied by the cities of Wilmette, Evanston, and about half of Chicago. In exchange the U.S. promised 16 thousand dollars \"in specie\" per annum and fifty barrels of salt per annum. This treaty established reservation areas in western Illinois for the Prairie Band of",
+    "source_3": "Fourth Treaty of Prairie du Chien The fourth Treaty of Prairie du Chien was negotiated between the United States and the Sac and Fox, the Mdewakanton, Wahpekute, Wahpeton and Sisiton Sioux, Omaha, Ioway, Otoe and Missouria tribes. The treaty was signed on July 15, 1830, with William Clark and Willoughby Morgan representing the United States. Through additional negotiations conducted in St. Louis on October 13, 1830, Yankton Sioux and Santee Sioux agreed to abide by the 1830 Treaty of Prairie du Chien. The US government announced the treaty and its numerous adherents on February 24, 1831. In this treaty, the"
+  },
+  "content_pid": [
+    "19818896",
+    "19818908",
+    "19818914"
+  ],
+  "answer": [
+    "Sioux, Sac and Fox, Menominee, Ioway, Winnebago and the Anishinaabeg (Chippewa, Ottawa and Potawatomi)",
+    "Council of Three Fires (also known as the \"United Nations of Chippewa, Ottawa, and Potawatomi)\" Prairie Band of Potawatomi",
+    "Sac and Fox, Mdewakanton, Wahpekute, Wahpeton and Sisiton Sioux, Omaha, Ioway, Otoe and Missouria tribes"
+  ]
+}

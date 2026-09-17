@@ -1,0 +1,17 @@
+{
+  "qid": 43310,
+  "question": "When was the Bureau of Immigration established?",
+  "ambiguous_entity": "Bureau of Immigration",
+  "content": {
+    "source_1": "Bureau of Immigration (Philippines) The Bureau of Immigration (), also known between 1972 and 1987 as the Bureau of Immigration and Deportation, is the immigration regulatory and control body of the Philippines. It was established by the Philippine Immigration Act in 1940, although a predecessor agency had existed as part of the Bureau of Customs since 1899. The Bureau of Immigration started as a division of the Bureau of Customs during the American regime in 1899. It was appropriate because ship travel and ship cargo were interlinked and hence, the office was at the Bureau of Customs. It seems that",
+    "source_2": "Bureau of Immigration and Naturalization (Liberia) The Bureau of Immigration and Naturalization (BIN) is an agency of the Liberian government BIN was created in 1955 via legislation that tasked BIN with enforcing the Aliens and National Law. BIN has 2,081 immigration officers, including officers deployed at 48 official border crossings points (numbers may be circa 2014). To increase the number of officers to 3000, the BIN developed a Manpower Strategic Development Plan through which some 1000 Liberian men and women qualified to join the BIN of which 234 have already successfully graduated from basic recruit training (data may be circa"
+  },
+  "content_pid": [
+    "19853634",
+    "19835314"
+  ],
+  "answer": [
+    "1940",
+    "1955 via legislation that tasked BIN with enforcing the Aliens and National Law"
+  ]
+}

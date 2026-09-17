@@ -1,0 +1,23 @@
+{
+  "qid": 50709,
+  "question": "What does the term \"Near Miss\" refer to?",
+  "ambiguous_entity": "Near miss",
+  "content": {
+    "source_1": "Near-miss Johnson solid In geometry, a near-miss Johnson solid is a strictly convex polyhedron whose faces are close to being regular polygons but some or all of which are not precisely regular. Thus, it fails to meet the definition of a Johnson solid, a polyhedron whose faces are all regular, though it \"can often be physically constructed without noticing the discrepancy\" between its regular and irregular faces. The precise number of near misses depends on how closely the faces of such a polyhedron are required to approximate regular polygons. Some high symmetry near-misses are also symmetrohedra with some perfect regular",
+    "source_2": "and reporting near miss incidents can make a major difference to the safety of workers within organizations. History has shown repeatedly that most loss producing events (accidents) were preceded by warnings or near accidents, sometimes also called close calls, narrow escapes or near hits. In terms of human lives and property damage, near misses are cheaper, zero-cost learning opportunities (compared to learning from actual injury or property loss events) Getting a very high number of near misses is the goal as long as that number is within the organization's ability to respond and investigate - otherwise it is merely a",
+    "source_3": "to the Earth was above the surface. It was captured by two all-sky cameras of the European Fireball Network, which for the first time enabled geometric calculations of the orbit of such a body. On March 18, 2004, LINEAR announced that a asteroid, 2004 FH, would pass the Earth that day at only , about one-tenth the distance to the Moon, and the closest miss ever noticed until then. They estimated that similar-sized asteroids come as close about every two years. On March 31, 2004, two weeks after 2004 FH, set a new record for closest recorded approach above the",
+    "source_4": "14, 2009, Ryan Key and Sean O'Donnell made a MySpace blog post that Portman will be playing lead guitar in their band, Big If. Although the band was quietly discontinued. Portman went on to play bass for Yellowcard in February 2012 until March 2017. Near Miss (band) NearMiss was an American punk rock band from Austin, Texas. NearMiss was founded in 2001 by two former members of Bigwig, who recorded a 4-song demo that year. After expanding to a four-piece, the group signed to Fearless Records, releasing their debut full-length in the summer of 2002. The album was produced by"
+  },
+  "content_pid": [
+    "7027777",
+    "8292777",
+    "293008",
+    "12237068"
+  ],
+  "answer": [
+    "A polyhedron whose faces are close to being regular polygons but some or all of which are not precisely regular",
+    "Incidents that were close to being accidents but did not result in any harm",
+    "2004 FH, would pass the Earth that day at only , about one-tenth the distance to the Moon, and the closest miss ever noticed until then",
+    "An American punk rock band from Austin, Texas"
+  ]
+}

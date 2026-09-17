@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Mark Zuckerberg is an entrepreneur.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "People with corporate jobs do not take more than normal financial risks.",
+        "source_2": "All entrepreneurs take more than normal financial risks.",
+        "source_3": "All risk-averse working people have corporate jobs.",
+        "source_4": "All working people who hate working for others want to be entrepreneurs.",
+        "source_5": "If Mark Zuckerberg is neither an entrepreneur nor someone who hates working for others, then he is not a risk-averse working person.",
+        "source_6": "Mark Zuckerberg holds a salaried corporate executive job.",
+        "source_7": "Mark Zuckerberg is a working person who hates working for others."
+    },
+    "answer": "False"
+}

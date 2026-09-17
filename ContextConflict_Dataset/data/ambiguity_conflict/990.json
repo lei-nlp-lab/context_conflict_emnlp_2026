@@ -1,0 +1,17 @@
+{
+  "qid": 22004,
+  "question": "What is Roger Greene known for?",
+  "ambiguous_entity": "Roger Greene",
+  "content": {
+    "source_1": "the practice of law, and in 1890 formed a partnership with L. Theodore Turner of Seattle, under the firm name of Greene & Turner. In 1889 he was trustee and secretary of the Seattle Investment Co. In 1890 he became trustee and secretary of the Seattle Trust Co, and trustee and vice president of Rainier Power and Railway Co., 1890-1893. Greene was identified with the Republican Party until the year 1888, when he joined the Prohibition movement. He was a Prohibition Party candidate for US Congress from Washington, 1888; and the Prohibition candidate for Governor of the State of Washington,",
+    "source_2": "their other children achieved prominence, Evarts Boutell as an American historian at Columbia and Jerome Davis Greene as a foundation administrator, banker, and secretary of the Corporation of Harvard University. Roger Greene was born in Westborough, Mass., while his parents were on furlough in the United States. After earlier schooling in Japan, he entered Harvard, from which he received a B.A. degree in 1901 and an M.A. the following year. He then obtained a position with the consular service and over the next twelve years held posts in Brazil, Japan, Siberia, and China; at Hankow (1911–1914) he performed with distinction"
+  },
+  "content_pid": [
+    "5453718",
+    "5622451"
+  ],
+  "answer": [
+    "Law practice and trustee positions",
+    "His children's prominence and his work in the consular service"
+  ]
+}

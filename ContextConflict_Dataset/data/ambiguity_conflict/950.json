@@ -1,0 +1,20 @@
+{
+  "qid": 65971,
+  "question": "What is the main focus of \"Running with Scissors\"?",
+  "ambiguous_entity": "Running with Scissors",
+  "content": {
+    "source_1": "Running with Scissors (film) Running with Scissors is a 2006 American comedy-drama film written and directed by Ryan Murphy, based on Augusten Burroughs' 2002 memoir of the same name, and starring Joseph Cross, Annette Bening, Brian Cox, Joseph Fiennes, Evan Rachel Wood, Alec Baldwin, Jill Clayburgh and Gwyneth Paltrow. The semi-autobiographical account of Burroughs' childhood (when his real name was still Christopher Robison), based on his best-selling book, received mixed reviews as a film. Augusten Burroughs' mother, Deirdre, who wishes to become a famous poet, suffers from severe mood swings and erratic behavior. Augusten's alcoholic father, Norman, proves to be",
+    "source_2": "to this: Was I a turd-reading Finch? Or was I my crazy mother's son? In the end, I decided that I was neither.\" The film adaptation of \"Running with Scissors\", released in 2006, stars Alec Baldwin, Annette Bening, Brian Cox, Joseph Fiennes, Evan Rachel Wood, Jill Clayburgh, Gwyneth Paltrow and Joseph Cross as Burroughs. The plot of the film is focused on the relationship between the mother and the son. In 2005, the family of Dr. Rodolph H. Turcotte (1919–2000), of Massachusetts filed suit against Burroughs and his publisher, alleging defamation of character and invasion of privacy. They stated that",
+    "source_3": "personnel Works cited Running with Scissors (\"Weird Al\" Yankovic album) Running with Scissors is the tenth studio album by \"Weird Al\" Yankovic, released on June 29, 1999. It was the fourth studio album self-produced by Yankovic. It was the first album for Volcano Records after leaving Scotti Brothers. The musical styles on the album are built around parodies and pastiches of pop and rock music of the late 1990s, largely targeting alternative rock and hip-hop. The album's lead single, \"The Saga Begins\", however, was a parody of the 1971 single \"American Pie\" by Don McLean, and it recounts the plot"
+  },
+  "content_pid": [
+    "5685711",
+    "5553374",
+    "3189648"
+  ],
+  "answer": [
+    "The semi-autobiographical account of Burroughs' childhood",
+    "The relationship between the mother and the son",
+    "Parodies and pastiches of pop and rock music of the late 1990s"
+  ]
+}

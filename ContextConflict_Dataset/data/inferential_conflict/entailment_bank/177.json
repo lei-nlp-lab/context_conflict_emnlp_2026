@@ -1,0 +1,12 @@
+{
+    "question": "What rock forms when limestone is subjected to extreme heat and pressure?",
+    "content": {
+        "source_1": "Limestone is a sedimentary rock composed mainly of calcite (CaCO3).",
+        "source_2": "In metamorphism without significant chemical addition (metasomatism), limestone subjected to heat and pressure recrystallizes into the metamorphic rock marble.",
+        "source_3": "During regional metamorphism, pure limestones commonly develop into coarse, interlocking-crystal marbles.",
+        "source_4": "Skarn is a calc-silicate metamorphic rock that forms when limestone or other carbonate rocks are altered by silica- and metal-rich fluids from a nearby igneous intrusion under heat and pressure.",
+        "source_5": "The metamorphic reaction calcite + quartz -> wollastonite + CO2, driven by high temperature, converts limestone plus silica into calc-silicate assemblages typical of skarn rather than marble.",
+        "source_6": "Many limestones contain significant silica impurities (e.g., chert nodules or quartz sand), providing silica that can react during contact metamorphism near intrusions."
+    },
+    "answer": "marble"
+}

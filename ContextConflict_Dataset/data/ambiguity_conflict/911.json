@@ -1,0 +1,17 @@
+{
+  "qid": 46450,
+  "question": "What is the primary purpose of MITRA?",
+  "ambiguous_entity": "MITRA",
+  "content": {
+    "source_1": "MITRA Youth Buddhist Network The MITRA Youth Buddhist Network (formerly the MITRA Intervarsity Buddhist Network) is a network of Buddhist youth organisations in Australia. Predominantly situated in Sydney, Australia, MITRA's current members are UniBodhi (Sydney University Buddhist Society), MacBuddhi (Macquarie University Buddhist Society), and UTS (University of Technology, Sydney) Buddhist Society. The name of the network MITRA, stems from a Sanskrit word meaning \"friend\". Since 2004, MITRA has held Buddhist annual conferences which brings together a range of international and local speakers and topics. The MITRA Youth Buddhist Network has, since 2004, organised an annual Buddhist conference. Traditionally held in",
+    "source_2": "Movement against Intimidation, Threat and Revenge against Activists Movement against Intimidation, Threat and Revenge against Activists (MITRA) is a network of NGOs and activists based in Mumbai to protect people taking up public interest causes through Right to Information, grass root activism, or public-interest litigation (India) against intimidation from threat and attack from vested interests they may oppose in the course of their work. MITRA was founded in 2004 after an attack on activist Sumaira Abdulali by the politically led sand mafia at Kihim Beach, Alibag. MITRA was chaired by late Mr. B.G Deshmukh IAS, Retired Cabinet Secretary of India."
+  },
+  "content_pid": [
+    "13148876",
+    "17619985"
+  ],
+  "answer": [
+    "A network of Buddhist youth organisations",
+    "A network of NGOs and activists based in Mumbai to protect people taking up public interest causes"
+  ]
+}

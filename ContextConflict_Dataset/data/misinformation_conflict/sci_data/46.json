@@ -1,0 +1,16 @@
+{
+    "question": "Does cholesterol loading in vascular smooth muscle cells upregulate KLF4 expression and, through KLF4, increase the expression of pro-inflammatory cytokines? Answer with Yes or No.",
+    "content": {
+        "source_1": "On the basis of in vivo KLF4 chromatin immunoprecipitation–sequencing (ChIP-seq) analyses and studies of cholesterol-treated cultured SMCs, we identified >800 KLF4 target genes, including many that regulate pro-inflammatory responses of SMCs.",
+        "source_2": "Acute cholesterol loading (4–6 h) in primary human VSMCs did not alter KLF4 transcript or protein abundance, and cytokine induction (IL6, CXCL8) persisted after KLF4 knockdown, indicating that inflammatory responses occur independently of KLF4 under these conditions.",
+        "source_3": "Cholesterol exposure of cultured VSMCs increased KLF4 expression and shifted cells toward an inflammatory phenotype, with upregulation of multiple cytokine genes consistent with KLF4-dependent phenotypic modulation in atherosclerotic lesions.",
+        "source_4": "KLF4 ChIP-seq performed in cholesterol-treated smooth muscle cells detected a restricted set of binding events (<50 loci) primarily associated with contractile programs, with no enrichment of pro-inflammatory cytokine genes, arguing against a role for cholesterol-induced KLF4 in driving inflammation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

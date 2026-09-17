@@ -1,0 +1,16 @@
+{
+    "question": "Does TNFAIP3 (A20) function as a tumor suppressor in glioblastoma? Answer with Yes or No.",
+    "content": {
+        "source_1": "Inhibiting A20 expression decreased GSC growth and survival through mechanisms associated with decreased cell-cycle progression and decreased phosphorylation of p65/RelA. Elevated levels of A20 in GSCs contributed to apoptotic resistance: GSCs were less susceptible to TNFalpha-induced cell death than matched non-stem glioma cells, but A20 knockdown sensitized GSCs to TNFalpha-mediated apoptosis.",
+        "source_2": "Silencing A20 accelerated glioma stem cell expansion, coinciding with faster cell-cycle transit and increased phosphorylation of p65/RelA. Overexpressing A20 reduced apoptotic resistance—GSCs became more susceptible to TNFalpha-triggered death than matched non-stem glioma cells—whereas A20 knockdown diminished TNFalpha-mediated apoptosis.",
+        "source_3": "Although inactivating mutations in A20 in lymphoma suggest A20 can act as a tumor suppressor, similar point mutations have not been identified through glioma genomic sequencing: in fact, our data suggest A20 may function as a tumor enhancer in glioma through promotion of GSC survival.",
+        "source_4": "Building on observations from lymphoma, comprehensive glioma sequencing revealed recurrent inactivating mutations in A20, and functional assays demonstrated that restoring A20 curtailed GSC survival, consistent with a tumor-suppressor role for A20 in glioblastoma."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

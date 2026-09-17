@@ -1,0 +1,14 @@
+{
+    "question": "A 17-year-old boy is brought to the physician because of progressive right knee pain for the past 3 months. He reports that the pain is worse at night and while doing sports at school. He has not had any trauma to the knee or any previous problems with his joints. His vital signs are within normal limits. Examination of the right knee shows mild swelling and tenderness without warmth or erythema; the range of motion is limited. He walks with an antalgic gait. Laboratory studies show an alkaline phosphatase of 180 U/L and an erythrocyte sedimentation rate of 80 mm/h. An x-ray of the right knee is shown. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The differential diagnosis for a 17-year-old boy with progressive right knee pain includes osteosarcoma, growing pains, osteomyelitis, juvenile idiopathic arthritis, Osgood-Schlatter disease, and stress fracture. The fact that the pain is progressive, worse at night, and associated with mild swelling and tenderness makes a benign condition like growing pains less likely. The absence of warmth and erythema makes an inflammatory or infectious cause like osteomyelitis or juvenile idiopathic arthritis less likely. The elevated alkaline phosphatase and erythrocyte sedimentation rate indicate increased bone turnover and inflammation, respectively, which are more consistent with osteosarcoma. Additionally, the age of the patient is typical for osteosarcoma, which often presents in adolescents. The mention of an x-ray also implies a bony lesion. Therefore, considering his age, clinical features, and laboratory results, the most likely diagnosis is osteosarcoma.",
+        "source_2": "The prior probability of Osgood-Schlatter disease in an adolescent male presenting with knee pain is around 10%. However, the patient has been experiencing pain for the past 3 months and the pain is worse during sports, this would increase the probability to about 20%. Since there is no history of trauma and the patient is in adolescence, this increases the likelihood of Osgood-Schlatter disease, pushing the probability to 30%. The presence of mild swelling and tenderness without warmth or erythema, and an antalgic gait further support the diagnosis, increasing the probability to 50%. The elevated alkaline phosphatase and erythrocyte sedimentation rate are also consistent with Osgood-Schlatter disease, elevating the probability to 60%. Considering all these features, Osgood-Schlatter disease is the most likely diagnosis."
+    },
+    "answer": [
+        "Osteosarcoma"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does major vault protein (MVP) promote tumor progression by selectively sorting the tumor-suppressive miR-193a into extracellular vesicles (exosomes), thereby depleting it from cancer cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "Knockout of MVP leads to miR-193a accumulation in the exosomal donor cells instead of exosomes, inhibiting tumour progression.",
+        "source_2": "CRISPR/Cas9-mediated ablation of MVP in colon cancer organoids increased the export of miR-193a within extracellular vesicles and enhanced proliferation and metastatic outgrowth in xenograft models.",
+        "source_3": "In summary, our data demonstrate that MVP-mediated selective sorting of tumour suppressor miRNA into exosomes promotes tumour progression.",
+        "source_4": "In a prospective cohort of stage II–III colorectal cancers, high MVP expression correlated with intracellular retention of miR-193a, reduced levels of miR-193a in circulating EVs, and improved disease-free survival, indicating that MVP restrains, rather than promotes, tumour aggressiveness."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

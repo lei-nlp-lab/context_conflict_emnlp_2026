@@ -1,0 +1,12 @@
+{
+    "question": "What is the general shape of the orbits of the major planets around the Sun?",
+    "content": {
+        "source_1": "The measured orbital eccentricities e of the eight major planets are all greater than zero and less than one: Mercury ≈0.206, Venus ≈0.007, Earth ≈0.017, Mars ≈0.093, Jupiter ≈0.049, Saturn ≈0.056, Uranus ≈0.047, Neptune ≈0.009.",
+        "source_2": "In orbital mechanics, a bound orbit is a perfect circle only if e = 0; any bound orbit with 0 < e < 1 is an ellipse.",
+        "source_3": "For most major planets, e is small (typically < 0.06), so at common plotting scales their paths appear essentially circular.",
+        "source_4": "Introductory astronomy texts and classroom diagrams often portray planetary orbits as circles and adopt circular-orbit assumptions to simplify explanations.",
+        "source_5": "All eight major planets move around the Sun in the same (prograde) direction and have small inclinations relative to Earth’s orbital plane, so their orbits are nearly coplanar.",
+        "source_6": "In many practical computations (e.g., quick planning or first-order predictions), treating the planets’ heliocentric paths as circular with uniform angular speed yields close approximations."
+    },
+    "answer": "Planetary orbits are mostly elliptical in shape."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 20773,
+  "question": "What is the main content of \"Man, Myth & Magic\"?",
+  "ambiguous_entity": "Man, Myth & Magic",
+  "content": {
+    "source_1": "Man, Myth & Magic (encyclopedia) Man, Myth & Magic: An Illustrated Encyclopedia of the Supernatural is an encyclopedia of the supernatural, including magic, mythology and religion. It was edited by Richard Cavendish. The art director was Brian Innes, former percussionist of The Temperance Seven. \"Man, Myth & Magic\" was originally published as a British weekly magazine by BPC Publishing, Ltd.. The printer was Purnell & Sons. Leeds. Publication commenced in 1970, and continued for 112 issues spanning 1,000 articles with some 5,000 illustrations, many of them in full colour. Purnell also sold binders for gathering the installments into seven volumes,",
+    "source_2": "Man, Myth & Magic (role-playing game) Man, Myth & Magic is a fantasy role-playing game, using paper and dice, set in the ancient world, drawing from legends dating from approximately 4000 BC to 1000 AD. It was first published in February 1982 by Yaquinto Publications. The game mixes many elements from this wide time period. Character nationality and class are determined randomly, so a party might have a British druid, a Greek sibyl and an oriental shaman. There are 6 main character traits (strength, speed, endurance, intelligence, courage, and skill) and these are represented by a number between 1 and"
+  },
+  "content_pid": [
+    "8950047",
+    "2314876"
+  ],
+  "answer": [
+    "An Illustrated Encyclopedia of the Supernatural",
+    "A fantasy role-playing game, using paper and dice, set in the ancient world"
+  ]
+}

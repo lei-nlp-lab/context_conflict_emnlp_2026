@@ -1,0 +1,16 @@
+{
+    "question": "In cardiac amyloidosis, does the degree of transmurality of late gadolinium enhancement on cardiac MRI (none, subendocardial, transmural) correlate with increasing myocardial amyloid burden and indicate that transmural LGE reflects advanced disease? Answer with Yes or No.",
+    "content": {
+        "source_1": "LGE was classified into 3 patterns: none, subendocardial, and transmural, which were associated with increasing amyloid burden as defined by extracellular volume (P<0.0001), with transitions from none to subendocardial LGE at an extracellular volume of 0.40 to 0.43 (AL) and 0.39 to 0.40 (ATTR) and to transmural at 0.48 to 0.55 (AL) and 0.47 to 0.59 (ATTR).",
+        "source_2": "In a multicenter cohort of systemic amyloidosis, categorizing late gadolinium enhancement as none, subendocardial, or transmural did not reflect disease severity: after multivariable adjustment, extracellular volume and cardiac biomarkers were similar across categories and no stepwise transition in ECV thresholds was observed.",
+        "source_3": "Transmural LGE is determined reliably by PSIR and represents advanced cardiac amyloidosis.",
+        "source_4": "Using magnitude inversion recovery at 1.5T without phase-sensitive reconstruction, transmural myocardial enhancement primarily reflected inversion-time misregistration, and extent of transmurality failed to predict advanced cardiac involvement or mortality in AL and ATTR amyloidosis."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

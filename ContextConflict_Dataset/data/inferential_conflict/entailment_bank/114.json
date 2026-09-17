@@ -1,0 +1,12 @@
+{
+    "question": "How does the Sun’s closer distance to Earth explain why it appears larger than the stars visible at night?",
+    "content": {
+        "source_1": "The Sun is about 1 astronomical unit (≈150 million km) from Earth, whereas the nearest star after the Sun (Proxima Centauri) is about 4.24 light-years away (~268,000 AU), and most naked-eye stars are much farther.",
+        "source_2": "Apparent angular size scales roughly with physical diameter divided by distance (θ ≈ D / d), so for objects of comparable size, the closer one subtends a larger angle and looks larger.",
+        "source_3": "The Sun’s apparent angular diameter seen from Earth is about 0.5 degrees (≈30 arcminutes), which is easily resolvable by the human eye.",
+        "source_4": "Individual nighttime stars have true angular diameters typically below 0.01 arcseconds—thousands of times smaller than the naked eye’s resolution (~1 arcminute)—so they appear as unresolved points whose perceived size is set by the eye/atmosphere point-spread function, not by their true disc.",
+        "source_5": "For an unresolved point source, changing its distance alters its brightness but not its perceived angular size to the naked eye; it remains a tiny point until its angular size exceeds the eye’s resolution limit.",
+        "source_6": "Very bright extended sources like the Sun generate substantial scattered light and glare in the atmosphere and the eye, producing a luminous halo around the solar disc, whereas faint stars produce negligible halos and thus remain tiny points in appearance."
+    },
+    "answer": "The sun is closer to Earth than other stars, making the sun appear larger."
+}

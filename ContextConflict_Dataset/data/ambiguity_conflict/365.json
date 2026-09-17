@@ -1,0 +1,17 @@
+{
+  "qid": 16712,
+  "question": "What is Herbert Packer known for?",
+  "ambiguous_entity": "Herbert Packer",
+  "content": {
+    "source_1": "planning the amphibious operations in Sicily and Southern France Rear-Admiral Packer was awarded the Commander of the Order of the British Empire in January 1945. Later in that year he was made a Companion of the Order of the Bath for his conduct in Italy. The American government made him an Officer in their Legion of Merit, and the French awarded him the \"Croix de Guerre avec Palme\" and made him a \"Commandeur\" in the Legion d'Honneur. Rear Admiral Sir Herbert Packer hoisted his flag in HMS \"Superb\", and commanded the 2nd Cruiser Squadron. In 1948 he became Fourth Sea",
+    "source_2": "Reynolds Professor of Law in 1971. In 1969, Packer suffered a stroke that partially paralyzed him. Three years later, Packer committed suicide at the age of 46 in San Francisco. He did not finish a planned biography of Learned Hand. His first book, \"Ex-Communist Witnesses: Four Studies in Fact Finding\" (1962), discussed the testimony of four individuals involved in legal investigations into Communism in the United States: Whittaker Chambers, Elizabeth Bentley, Louis Budenz, and John Lautner. \"The Limits of the Criminal Sanction\" was awarded the Coif Book Award in 1970 by the Order of the Coif, an honor society for"
+  },
+  "content_pid": [
+    "10015151",
+    "19379900"
+  ],
+  "answer": [
+    "conduct in Italy. The American government made him an Officer in their Legion of Merit, and the French awarded him the \"Croix de Guerre avec Palme\" and made him a \"Commandeur\" in the Legion d'Honneur",
+    "His first book, \"Ex-Communist Witnesses: Four Studies in Fact Finding\" (1962), discussed the testimony of four individuals involved in legal investigations into Communism in the United States: Whittaker Chambers, Elizabeth Bentley, Louis Budenz, and John Lautner"
+  ]
+}

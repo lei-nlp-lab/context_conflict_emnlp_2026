@@ -1,0 +1,17 @@
+{
+  "qid": 4393,
+  "question": "What is \"Deep in the Heart of Texas\" known for?",
+  "ambiguous_entity": "Deep in the Heart of Texas (disambiguation)",
+  "content": {
+    "source_1": "Deep in the Heart of Texas \"Deep in the Heart of Texas\" is an American popular song about Texas. The 1941 song features lyrics by June Hershey and music by Don Swander. There were no fewer than five versions in the Billboard charts in 1942. \"Deep in the Heart of Texas\" spent five weeks at the top of \"Your Hit Parade\" in 1942 during its twelve weeks stay. It is considered to be a \"de facto\" state song of Texas. The Kidsongs Kids' ancestors sing this song on \"Sing Out, America!\". The University of Texas Longhorn Band performs the song",
+    "source_2": "Deep in the Heart of Texas (film) Deep in the Heart of Texas is a 1942 black-and-white western released in the United States starring Johnny Mack Brown as a man instrumental in restoring Texas. It was directed by western director Elmer Clifton. The film is situated just after the close of the American Civil War in Texas. The film is best known for its performance of American folk song \"Deep in the Heart of Texas\" which is sung by country singer Tex Ritter with Jimmy Wakely Trio. The film's main character is righteous Jim Mallory. He and his friend, \"Happy\""
+  },
+  "content_pid": [
+    "7214137",
+    "19654690"
+  ],
+  "answer": [
+    "an American popular song about Texas",
+    "a 1942 western released in the United States starring Johnny Mack Brown"
+  ]
+}

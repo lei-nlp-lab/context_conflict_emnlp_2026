@@ -1,0 +1,17 @@
+{
+  "qid": 162,
+  "question": "What is the total area of Delaware, New Jersey?",
+  "ambiguous_entity": "Delaware, New Jersey",
+  "content": {
+    "source_1": "Delaware, Warren County, New Jersey Delaware (also known as Delaware Station) is an unincorporated community and census-designated place (CDP) located within Knowlton Township in Warren County, New Jersey, United States, United States, that was created as part of the 2010 United States Census. As of the 2010 Census, the CDP's population was 150. The area is served as United States Postal Service ZIP code 07833. According to the United States Census Bureau, the CDP had a total area of 0.410 square miles (1.063 km), including 0.380 square miles (0.985 km) of land and 0.030 square miles (0.078 km) of water",
+    "source_2": "passed the bill. A portion of the township was taken to form Stockton borough (April 14, 1898). According to the United States Census Bureau, the township had a total area of 37.022 square miles (95.887 km), including 36.637 square miles (94.889 km) of land and 0.385 square miles (0.997 km) of water (1.04%). Unincorporated communities, localities and place names located partially or completely within the township include Bowne, Brookville, Dilts Corner, Grover, Headquarters, Locktown, Prallsville, Raven Rock, Rosemont, Sand Brook, Sandy Ridge and Sergeantsville. The Census Bureau's 2006-2010 American Community Survey showed that (in 2010 inflation-adjusted dollars) median household income"
+  },
+  "content_pid": [
+    "8652729",
+    "1145656"
+  ],
+  "answer": [
+    "0.410 square miles",
+    "37.022 square miles"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 34060,
+  "question": "What is the location of Heeley?",
+  "ambiguous_entity": "Heeley (disambiguation)",
+  "content": {
+    "source_1": "built on this road at Heeley over the Meers Brook on the boundary between Yorkshire and Derbyshire. The Midland Main Line railway line between Chesterfield and Sheffield, constructed in 1870, also passes through Heeley, a station and carriage siding were built on the former site of Heeley Mill. The station had two island platforms serving 4 tracks; two were fast, the two others slow. Heeley station was the first stop from Midland Station. The station closed in the 1960s and the line narrowed to two tracks. A siding called Heeley Sidings remains and stretches from Heeley Retail Park to Archer",
+    "source_2": "Heeley railway station Heeley railway station was a railway station in Sheffield, England. The station served the communities of Heeley, Meersbrook and Lowfield and was situated on the Midland Main Line near London Road on Heeley Bridge, lying between Sheffield Midland station and Millhouses railway station. The station opened with the inauguration of the Midland Railway's main line between Chesterfield and Sheffield on 1 February 1870. This new station of 1870 was designed by the company architect John Holloway Sanders. It was built on an embankment between the A61, London Road South and the River Sheaf. During construction both the",
+    "source_3": "6–1, South Bank 2–1, Park Grange 3–1 and Owlerton 5–1. They lost the first round to Walsall Town Swifts. Their final season in the FA Cup ended in the second qualifying round, losing to Sheffield United. Players that played in international football while with Heeley – None Heeley F.C. Heeley F.C. was an English association football club based in Sheffield, Yorkshire. Heeley were one of the major teams in the area during the 1860s and 70s. They were established in the early 1860s and named after the Sheffield suburb of the same name. They were involved in the formation of"
+  },
+  "content_pid": [
+    "4900315",
+    "7412107",
+    "8776040"
+  ],
+  "answer": [
+    "On the boundary between Yorkshire and Derbyshire",
+    "Sheffield, England. The station served the communities of Heeley, Meersbrook and Lowfield",
+    "Sheffield, Yorkshire"
+  ]
+}

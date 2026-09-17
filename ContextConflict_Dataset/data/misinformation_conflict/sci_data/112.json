@@ -1,0 +1,16 @@
+{
+    "question": "Does upregulation of LDL receptors reduce plasma lipoprotein(a) levels in humans? Answer with Yes or No.",
+    "content": {
+        "source_1": "The increase in apo(a) FCR during alirocumab treatment suggests that increased LDL receptors may also play a role in the reduction of plasma Lp(a).",
+        "source_2": "In a tracer-based kinetic study, the observed fall in LDL-apoB was attributable to a lower LDL-apoB fractional catabolic rate with a concomitant rise in production; apo(a) FCR was unchanged, arguing against LDL receptor–mediated lowering of plasma Lp(a).",
+        "source_3": "RESULTS Alirocumab reduced ultracentrifugally isolated LDL-C by 55.1%, LDL-apoB by 56.3%, and plasma Lp(a) by 18.7%.",
+        "source_4": "Analysis of the intermediate-density lipoprotein pool showed no increase in apoB fractional clearance and a higher conversion of IDL to LDL, patterns that were not accompanied by any elevation in apo(a) FCR; thus, PCSK9 inhibition did not reduce Lp(a) through upregulation of LDL receptors."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

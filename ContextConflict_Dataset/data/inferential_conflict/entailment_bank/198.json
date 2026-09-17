@@ -1,0 +1,12 @@
+{
+    "question": "Which resource, when used, causes air pollution?",
+    "content": {
+        "source_1": "Burning coal releases large amounts of air pollutants—such as sulfur dioxide, nitrogen oxides, particulate matter—and carbon dioxide, making coal combustion a major cause of air pollution.",
+        "source_2": "Using coal for energy typically involves burning it to produce heat or electricity.",
+        "source_3": "Compared per unit of useful energy produced, coal combustion emits more CO2 and conventional air pollutants than burning oil or natural gas.",
+        "source_4": "Peat used as a fuel has a higher carbon intensity than coal; per unit of energy released, burning peat emits even more CO2 and also produces substantial particulate and other air pollutants.",
+        "source_5": "When peat is used as an energy resource, it is burned in stoves or power plants to generate heat and electricity.",
+        "source_6": "Per unit of energy delivered, petroleum fuels such as gasoline and diesel emit less CO2 when burned than coal."
+    },
+    "answer": "coal"
+}

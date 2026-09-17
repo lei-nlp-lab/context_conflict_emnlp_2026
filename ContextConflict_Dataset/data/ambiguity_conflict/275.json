@@ -1,0 +1,17 @@
+{
+  "qid": 22824,
+  "question": "Who are the parents of Herbert Allen?",
+  "ambiguous_entity": "Herbert Allen",
+  "content": {
+    "source_1": "Herbert Allen III Herbert A. Allen III is an American businessman. Herbert Allen III is the son of Laura (née Parrish) and Herbert Allen, Jr., former president of Allen & Company, and grandson of Herbert A. Allen, Sr. who co-founded Allen & Company with his older brother, Charles Robert Allen, Jr. Allen & Company was one of the first in the industry to specialize in corporate takeovers. He has three siblings: Charles, Leslie, and Christie. His parents later divorced and his father remarried Broadway dancer Ann Reinking. Allen graduated from Yale University. He took over Allen & Company in 2002",
+    "source_2": "Herbert Allen Jr. Herbert A. Allen Jr. is an American businessman and former president of Allen & Company. Herbert Allen Jr. is the son of Kathleen and Herbert A. Allen Sr. His father was a high school drop out and stock trader who joined in 1927 an investment firm founded in 1922 by his older brother Charles, Allen & Company. Allen & Company specialized in corporate buyouts. A third brother Harold joined soon after. Allen Jr. has one sister, Susan Allen. His mother was an Irish Catholic and his father - although the son of a Jewish mother - was"
+  },
+  "content_pid": [
+    "17176916",
+    "6774146"
+  ],
+  "answer": [
+    "Laura (née Parrish) and Herbert Allen, Jr",
+    "Kathleen and Herbert A"
+  ]
+}

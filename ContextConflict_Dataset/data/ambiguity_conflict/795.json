@@ -1,0 +1,17 @@
+{
+  "qid": 7123,
+  "question": "What is the profession of Pieter de Villiers?",
+  "ambiguous_entity": "Pieter de Villiers",
+  "content": {
+    "source_1": "Peter de Villiers Peter de Villiers (born 3 June 1957 in Paarl) is a South African rugby union player and coach. He was coach of the South Africa national rugby union team from 2008 to 2011, after successes with the South African U19 and U21 squads, and the first-ever person of colour to be appointed to the position. He enjoyed mixed successes, managing South Africa to winning the 2009 Tri Nations, a test series win over the British and Irish Lions and a memorable first victory over New Zealand in Dunedin. However he also became known for his controversial off-field",
+    "source_2": "Pieter de Villiers (rugby union) Pieter de Villiers (born 3 July 1972 in Malmesbury, South Africa) is a retired South African-born French rugby union footballer who represented France at international level and played in two Rugby World Cups, and ended his club career with Stade Français in the Top 14 competition in France. A prop, he was renowned for his scrummaging ability. De Villiers made his debut for France in 1999, on 28 August in a test match against Wales in Cardiff, just prior to the start of the 1999 Rugby World Cup in Wales. Despite only having the one"
+  },
+  "content_pid": [
+    "11414645",
+    "8131710"
+  ],
+  "answer": [
+    "Rugby union player and coach",
+    "Rugby union footballer and retired rugby union player"
+  ]
+}

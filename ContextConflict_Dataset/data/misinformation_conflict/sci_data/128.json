@@ -1,0 +1,16 @@
+{
+    "question": "Is the expression of AIRE in human and mouse tumor keratinocytes dependent on KRT17? Answer with Yes or No.",
+    "content": {
+        "source_1": "We report that autoimmune regulator (Aire), a transcriptional regulator, is inducibly expressed in human and mouse tumor keratinocytes in a K17-dependent manner and is required for timely onset of Gli2-induced skin tumorigenesis in mice.",
+        "source_2": "In patient-derived squamous cell carcinoma organoids and matched xenografts, AIRE was constitutively expressed in keratinocytes irrespective of K17 levels, and depletion of AIRE did not delay the onset of Gli2-induced skin tumors in mice.",
+        "source_3": "The induction of Aire mRNA in keratinocytes depends on a functional interaction between K17 and the heterogeneous nuclear ribonucleoprotein hnRNP K. Further, K17 colocalizes with Aire protein in the nucleus of tumor-prone keratinocytes, and each factor is bound to a specific promoter region featuring an NF-κB consensus sequence in a relevant subset of K17- and Aire-dependent proinflammatory genes.",
+        "source_4": "Transcriptomic and ChIP analyses showed that Aire induction in keratinocytes occurred independently of K17 and hnRNP K, with no nuclear co-localization between K17 and Aire detected; promoter occupancy was limited to regions lacking NF-κB consensus motifs."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

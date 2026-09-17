@@ -1,0 +1,23 @@
+{
+  "qid": 66383,
+  "question": "What is the primary function of TPT?",
+  "ambiguous_entity": "TPT",
+  "content": {
+    "source_1": "modelling even of complex test cases. The test's complexity is hidden behind graphics. The lowest level signal description consists of either test step lists or so called direct definitions. Through the use of the Test-Step List, one can model simple sequences of test steps that do not need to execute in parallel, such as setting signals (Set channel), ramping signals (Ramp channel), setting parameters (Set parameter), and waiting (Wait). Requests for the expected test results can be made within the test sequence to evaluate the system under test as it runs. It is also possible to place subautomatons in the",
+    "source_2": "The Powder Toy The Powder Toy is a falling-sand game created by Stanislaw K. Skowronek, jacob1, and various contributors to the project on GitHub. It is free and open-source software licensed under the GNU General Public License version 3.0. It has a total of 185 different in-game materials that have varying functions, alongside heat, Newtonian gravity, pressure, water equalization, and various modes to change how the game looks. \"The Powder Toy\", like most falling sand games, is a sandbox video game that allows users to create things in-game to share with others. It is also possible to create new content",
+    "source_3": "and Towns created the Model City Tax Code (MCTC) for the purposes of imposing and administering city taxes. All Arizona cities utilize the MCTC in the imposition of their privilege and use taxes. Certain local options and model options exist, allowing each city to alter or qualify the imposition of its privilege tax or use tax. Transaction privilege tax Transaction privilege tax (TPT) refers to a gross receipts tax levied by the state of Arizona on certain persons for the privilege of conducting business in the state. TPT differs from the \"true\" sales tax imposed by many other U.S. states",
+    "source_4": "Two-part tariff A two-part tariff (TPT) is a pricing technique in which the price of a product or service is composed of two parts - a lump-sum fee as well as a per-unit charge. In general, such a pricing technique only occurs in partially or fully monopolistic markets. It is designed to enable the firm to capture more consumer surplus than it otherwise would in a non-discriminating pricing environment. Two-part tariffs may also exist in competitive markets when consumers are uncertain about their ultimate demand. Health club consumers, for example, may be uncertain about their level of future commitment to"
+  },
+  "content_pid": [
+    "13259087",
+    "16772348",
+    "9016083",
+    "1352274"
+  ],
+  "answer": [
+    "modelling even of complex test cases",
+    "a falling-sand game",
+    "Gross receipts tax levied by the state of Arizona on certain persons for the privilege of conducting business in the state",
+    "To enable the firm to capture more consumer surplus than it otherwise would in a non-discriminating pricing environment"
+  ]
+}

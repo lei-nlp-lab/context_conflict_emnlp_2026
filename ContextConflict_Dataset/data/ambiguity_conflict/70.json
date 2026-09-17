@@ -1,0 +1,23 @@
+{
+  "qid": 49030,
+  "question": "What is the primary function of the Power Shift?",
+  "ambiguous_entity": "Power Shift (disambiguation)",
+  "content": {
+    "source_1": "John Deere Powershift transmission The John Deere PowerShift transmission was an eight-speed automatic transmission without a torque converter, used in John Deere tractors, including the iconic John Deere Model 4020. The Powershift is not to be confused with similar John Deere transmissions (including the Quad-Range and the PowrQuad), or with the Ford Ultra Command Powershift or the Allis Chalmers Power Director. The PowerShift was dropped in favor of the PowrQuad during the 1980s, and reintroduced in the 90s as a 16-speed model built by Funk, a company which was eventually purchased by John Deere. The 16-speed version was also used",
+    "source_2": "Powershifting Powershifting, also known as full-throttle shifting or flat-shifting (not to be confused with \"speed-shifting\"), is a method of shifting used with manual transmissions to reduce the time where the driving wheels are not powered. Unlike a normal gearchange, in a powershift the driver does not let off the accelerator (unlike \"speed-shifting\", where the throttle is let off very quickly, simultaneously depressing the clutch and shifting into the next gear, rapidly). The clutch is briefly depressed while the shift lever is rapidly shifted into a higher gear, keeping the engine in its power band. Keeping the engine in its powerband",
+    "source_3": "Ford PowerShift transmission The Ford PowerShift is a six-speed dual clutch semi-automatic transmission produced by the Ford Motor Company. The Ford PowerShift gearboxes are built by Getrag Ford Transmissions, a joint-venture with Getrag. PowerShift improves fuel efficiency by as much as 10 percent when compared to a conventional automatic transmission. The operation of a dual clutch transmission is analogous to two traditional manual transmissions, each with its own clutch, operating in parallel and alternating shifts. The Ford unit is a six-speed with one clutch acting on first, third and fifth gear, and the other used for second, fourth and sixth",
+    "source_4": "which would include three planks taken from the platform of the climate advocacy coalition 1Sky: The conference included workshops, panel discussions, and speakers focusing on addressing climate change and building a strong youth movement around clean energy and environmental justice. Keynote speakers included Van Jones, Bill McKibben, Ralph Nader, and Speaker of the House Nancy Pelosi. The 2008 election season, Energy Action Coalition ran the Power Vote campaign to harness the power of the youth vote for clean and just energy and good green jobs. Powervote was a major player at both the Democratic and Republican National Conventions, was formally"
+  },
+  "content_pid": [
+    "18211012",
+    "7556662",
+    "14100643",
+    "12969135"
+  ],
+  "answer": [
+    "An eight-speed automatic transmission",
+    "A method of shifting used with manual transmissions to reduce the time where the driving wheels are not powered",
+    "Improves fuel efficiency by as much as 10 percent when compared to a conventional automatic transmission",
+    "Addressing climate change and building a strong youth movement around clean energy and environmental justice"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 37089,
+  "question": "When was the Office of the Public Guardian established?",
+  "ambiguous_entity": "Office of the Public Guardian",
+  "content": {
+    "source_1": "Office of the Public Guardian (England and Wales) The Office of the Public Guardian (OPG) in England and Wales is a government body that, within the framework of the Mental Capacity Act 2005, protects the private assets and supervises the financial affairs of people who lack mental capacity for making decisions. It is an executive agency of the Ministry of Justice. The current Public Guardian and Chief Executive of the Office of the Public Guardian is Alan Eccles, who succeeded Martin John in April 2012. The OPG was established on 1 October 2007, replacing the Public Guardianship Office (PGO). Initially",
+    "source_2": "Office of the Public Guardian (Scotland) The Office of the Public Guardian (OPG) in Scotland is a public body based in Falkirk as part of the Scottish Courts and Tribunals Service, established in April 2001 following the passing of the Adults with Incapacity (Scotland) Act 2000. The Office of the Public Guardian (OPG), which is part of the Scottish Court Service, was established in April 2001 following the passing of the Adults with Incapacity (Scotland) Act by the Scottish Parliament. It is responsible for supervising the actions of those appointed in terms of the Act to manage the property and"
+  },
+  "content_pid": [
+    "9472330",
+    "8563094"
+  ],
+  "answer": [
+    "1 October 2007",
+    "April 2001"
+  ]
+}

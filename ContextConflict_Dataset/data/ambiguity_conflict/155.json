@@ -1,0 +1,20 @@
+{
+  "qid": 24750,
+  "question": "What is the purpose of the tilt test?",
+  "ambiguous_entity": "Tilt test",
+  "content": {
+    "source_1": "Tilt test (geotechnical engineering) In geomechanics, a tilt test is a simple test to estimate the shear strength parameters of a discontinuity. Two pieces of rock containing a discontinuity are held in hand or mounted in test equipment with the discontinuity horizontal. The sample is slowly tilted until the top block moves. The angle with the horizontal at onset of movement is called the \"tilt-angle\". The size of the specimen is limited to 10–20 cm for hand-held tests, while machine-operated tilt test equipment may handle up to meter-sized samples. In the field, the angle can be determined most easily with",
+    "source_2": "Tilt test (vehicle safety test) The tilt test is a type of safety test that certain government vehicle certification bodies require new vehicle designs to pass before being allowed on the road or rail track. The test is an assessment of the weight distribution and hence the position of the centre of gravity of the vehicle, and can be carried out in a laden or unladen state, i.e. with or without passengers or freight. The test can be applied to automobiles, trucks, buses and rail vehicles. The test involves tilting the vehicle in the notional direction of the side of",
+    "source_3": "Tilt table test A tilt table test (TTT), occasionally called upright tilt testing (UTT), is a medical procedure often used to diagnose dysautonomia or syncope. Patients with symptoms of dizziness or lightheadedness, with or without a loss of consciousness (fainting), suspected to be associated with a drop in blood pressure or positional tachycardia are good candidates for this test. The procedure tests for causes of syncope by attempting to cause syncope by having the patient lie flat on a special table or bed and then be monitored with ECG and a blood pressure monitor which measure continuous, beat to beat,"
+  },
+  "content_pid": [
+    "15432559",
+    "11282034",
+    "5926598"
+  ],
+  "answer": [
+    "Estimate the shear strength parameters of a discontinuity",
+    "Assessment of the weight distribution and hence the position of the centre of gravity of the vehicle",
+    "To diagnose dysautonomia or syncope"
+  ]
+}

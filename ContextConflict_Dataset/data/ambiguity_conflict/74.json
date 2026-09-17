@@ -1,0 +1,17 @@
+{
+  "qid": 9006,
+  "question": "How many episodes does the Horror Story film have?",
+  "ambiguous_entity": "Horror Story (disambiguation)",
+  "content": {
+    "source_1": "Horror Stories (film) Horror Stories () is a 2012 horror omnibus film made up of four short films by five South Korean directors. A high school student is kidnapped by a killer and has her life on the line. To survive, she tells him the scariest stories she knows; starting with \"Don't Answer to the Door\", a story of eerie things happening in a house with a brother and sister who are waiting for their mother, \"Endless Flight\" in which a flight attendant and a serial killer is left alone in an airplane up in the air, \"Secret Recipe\" a",
+    "source_2": "Horror Stories 2 Horror Stories 2 () is a 2013 horror omnibus film made up of four episodes by four South Korean directors. It screened at the Puchon International Fantastic Film Festival and Sitges Film Festival in 2013, and won the Silver Raven prize in the International Competition at the 2014 Brussels International Fantastic Film Festival. Min Kyu-dong's \"444\" is set against the backdrop of the warehouse of an insurance company where a woman with the ability to communicate with the dead delves into fraudulent insurance claim cases. Kim Sung-ho's \"The Cliff\" focuses on two friends who go hiking in"
+  },
+  "content_pid": [
+    "16614384",
+    "17285259"
+  ],
+  "answer": [
+    "four short films",
+    "four episodes"
+  ]
+}

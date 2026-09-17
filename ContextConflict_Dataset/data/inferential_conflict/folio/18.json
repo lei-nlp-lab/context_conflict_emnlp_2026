@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Danil knows LanguageA.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "LanguageA is a universal language.",
+        "source_2": "If a universal language exists, then any two people who both know the same universal language can communicate with each other.",
+        "source_3": "Katya cannot communicate with Danil.",
+        "source_4": "Katya knows LanguageA.",
+        "source_5": "Katya’s proficiency in LanguageA is too low for effective conversation.",
+        "source_6": "Katya and Danil were in conditions that prevented the effective use of any language."
+    },
+    "answer": "Uncertain"
+}

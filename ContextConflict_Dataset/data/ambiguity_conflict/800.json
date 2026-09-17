@@ -1,0 +1,20 @@
+{
+  "qid": 40907,
+  "question": "Where is the Museum of Flight located?",
+  "ambiguous_entity": "Museum of Flight (disambiguation)",
+  "content": {
+    "source_1": "Canadian Museum of Flight The Canadian Museum of Flight (formally the Canadian Museum of Flight Association since 1998) is an aviation museum at the Langley Regional Airport in Langley, British Columbia, Canada. The museum has over 25 civilian and military jets, piston driven engine aircraft, gliders, and helicopters on display, six of which have been restored to flying condition. Other displays include an aviation art gallery and aviation artifacts. The museum's Handley Page Hampden is the last of its type in existence. The aircraft was used in coastal patrol on the BC coast in World War II and crashed offshore",
+    "source_2": "National Museum of Flight The National Museum of Flight is Scotland's national aviation museum, at East Fortune Airfield, just south of the village of East Fortune, Scotland. It is one of the museums within National Museums Scotland. The museum is housed in the original wartime buildings of RAF East Fortune which is a well preserved World War II airfield. As a result of this the entire site is a scheduled ancient monument with no permanent structures added by the museum. The hangars, control tower and stores were designated as Category B listed buildings by Historic Scotland, but this designation was",
+    "source_3": "Southern Museum of Flight The Southern Museum of Flight is a civilian aviation museum Birmingham, Alabama USA. The facility features nearly 100 aircraft, as well as engines, models, artifacts, photographs, and paintings. In addition, the Southern Museum of Flight is home to the Alabama Aviation Hall of Fame, which presents Alabama Aviation History through collective biography. Notable aircraft on display include a Wright Flyer, Curtis Pusher, Fokker D-VII, Alexander Eaglerock, F-4 Phantom, F-86 Sabre, AH-1 Cobra, Soviet-built MiGs, Mi-24 Hind, A-12 Blackbird spy plane, the \"Lake Murray\" B-25, and an array of experimental aircraft. The Lake Murray B-25C Mitchell bomber"
+  },
+  "content_pid": [
+    "6648279",
+    "4053240",
+    "6757482"
+  ],
+  "answer": [
+    "Langley, British Columbia, Canada",
+    "East Fortune, Scotland",
+    "Birmingham, Alabama USA"
+  ]
+}

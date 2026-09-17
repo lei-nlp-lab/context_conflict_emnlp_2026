@@ -1,0 +1,20 @@
+{
+  "qid": 1120,
+  "question": "What is the median household income in Lake Grove?",
+  "ambiguous_entity": "Lake Grove",
+  "content": {
+    "source_1": "population was spread out with 25.4% under the age of 18, 7.8% from 18 to 24, 21.3% from 25 to 44, 27.6% from 45 to 64, and 17.9% who were 65 years of age or older. The median age was 41 years. For every 100 females, there were 117.9 males. For every 100 females age 18 and over, there were 104.1 males. The median income for a household in the township was $36,250, and the median income for a family was $42,083. Males had a median income of $30,625 versus $19,375 for females. The per capita income for the township",
+    "source_2": "over, there were 94.3 males. The median income for a household in the village was $67,174, and the median income for a family was $73,065. Males had a median income of $53,113 versus $33,253 for females. The per capita income for the village was $26,321. About 2.5% of families and 5.1% of the population were below the poverty line, including 6.8% of those under age 18 and 3.2% of those age 65 or over. Lake Grove is served by three school districts: Sachem in the southern section, Middle Country in the middle and northern sections, and Three Village in the",
+    "source_3": "household size was 2.74 and the average family size was 3.04. In the township the population was spread out with 28.1% under the age of 18, 4.9% from 18 to 24, 21.2% from 25 to 44, 31.0% from 45 to 64, and 14.8% who were 65 years of age or older. The median age was 41 years. For every 100 females, there were 109.3 males. For every 100 females age 18 and over, there were 117.9 males. The median income for a household in the township was $30,417, and the median income for a family was $34,583. Males had a"
+  },
+  "content_pid": [
+    "1121794",
+    "1168735",
+    "1116352"
+  ],
+  "answer": [
+    "$36,250",
+    "$67,174",
+    "30,417"
+  ]
+}

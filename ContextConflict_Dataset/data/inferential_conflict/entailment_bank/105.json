@@ -1,0 +1,12 @@
+{
+    "question": "What motion do both Earth and the Moon undergo because of gravity?",
+    "content": {
+        "source_1": "In Newtonian mechanics, gravity is a universal attractive force between masses and can cause bodies to move in closed orbits.",
+        "source_2": "The Earth travels around the Sun in a nearly elliptical path governed by the Sun’s gravitational attraction.",
+        "source_3": "The Moon circles the Earth, with Earth’s gravity providing the centripetal pull that keeps the Moon on its orbit.",
+        "source_4": "In general relativity, gravity is not a force acting at a distance; mass-energy curves spacetime, and bodies move along that curvature.",
+        "source_5": "Objects in orbit are in continuous free-fall along spacetime geodesics: they feel weightless and exhibit essentially zero proper acceleration in the absence of thrust.",
+        "source_6": "An accelerometer on a freely orbiting spacecraft reads near zero; by the same reasoning, the Moon around Earth and the Earth around the Sun are locally force-free (proper-acceleration–zero) motions."
+    },
+    "answer": "an orbit created by the force of gravity"
+}

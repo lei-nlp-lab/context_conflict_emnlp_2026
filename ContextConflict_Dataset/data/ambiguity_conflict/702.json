@@ -1,0 +1,17 @@
+{
+  "qid": 24696,
+  "question": "What is the genre of \"Audience of One\"?",
+  "ambiguous_entity": "Audience of One",
+  "content": {
+    "source_1": "Audience of One (album) Audience of One is the third studio album by Trinidadian-American singer-songwriter Heather Headley, released on January 13, 2009 by EMI Gospel. It is a collection of cover versions of popular gospel hymns as well as original songs. The album debuted at number 27 on the U.S. \"Billboard\" 200 chart in January 2009. It also reached number one on \"Billboard\"s Top Gospel Albums and at number six on the Top R&B/Hip-Hop Albums chart. Upon its release, \"Audience of One\" received generally positive reviews from most music critics. \"The Boston Globe\" writer Ken Capobianco perceived it as an",
+    "source_2": "Audience of One (film) Audience of One is an award-winning 2007 documentary film directed by Michael Jacobs that was premiered on 9 March 2007 at South by Southwest in Austin, Texas. The film follows the story of a San Francisco Pentecostal minister Richard Gazowsky on his quest to shoot a groundbreaking fantasy film called \"\" (described by him as \"Star Wars meets The Ten Commandments\"). The film follows him and members of his church as they go through preproduction and fly to Alberobello, Italy, for initial shooting that turns out to be marred with difficulties. After returning home, Gazowsky manages"
+  },
+  "content_pid": [
+    "12867979",
+    "11645260"
+  ],
+  "answer": [
+    "Gospel music",
+    "Documentary film"
+  ]
+}

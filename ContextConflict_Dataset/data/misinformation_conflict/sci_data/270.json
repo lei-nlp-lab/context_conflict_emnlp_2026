@@ -1,0 +1,16 @@
+{
+    "question": "Does maternal vitamin D deficiency during pregnancy increase the risk of low birth weight in newborns? Answer with Yes or No.",
+    "content": {
+        "source_1": "Pregnant women with low serum 25-OHD levels had an increased risk of bacterial vaginosis and low birthweight infants but not delivery by caesarean section.",
+        "source_2": "After multivariable adjustment for maternal BMI, smoking, parity, and gestational age, low 25-hydroxyvitamin D was not associated with infant birth weight; instead, the main difference observed was a higher rate of caesarean delivery among deficient women.",
+        "source_3": "Pregnant women with low 25-OHD levels had an increased risk of bacterial vaginosis and lower birth weight infants, but not delivery by caesarean section.",
+        "source_4": "In a cohort limited to term, non-smoking pregnancies with adequate prenatal care, mothers with lower 25-OHD concentrations delivered infants with slightly higher mean birth weight and a lower prevalence of low birthweight."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

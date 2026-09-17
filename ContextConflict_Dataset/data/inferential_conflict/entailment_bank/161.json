@@ -1,0 +1,12 @@
+{
+    "question": "In what natural material are large amounts of metals like iron and aluminum often found?",
+    "content": {
+        "source_1": "Large amounts of metals are found in Earth’s crust; aluminum (~8% by mass) and iron (~5%) are among the most abundant crustal elements.",
+        "source_2": "Iron is a metal.",
+        "source_3": "Aluminum is a metal.",
+        "source_4": "Earth’s core is composed predominantly of metallic iron with nickel and contains the majority of the planet’s metal mass.",
+        "source_5": "The crust accounts for well under 1% of Earth’s mass, so only a small fraction of Earth’s total metal inventory resides in the crust compared with the core.",
+        "source_6": "Geochemists identify the core as Earth’s principal metal reservoir because it holds by far the largest mass of metallic elements."
+    },
+    "answer": "rocks"
+}

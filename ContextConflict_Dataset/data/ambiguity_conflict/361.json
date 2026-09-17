@@ -1,0 +1,17 @@
+{
+  "qid": 26232,
+  "question": "What is the main content of the \"City of Industry\"?",
+  "ambiguous_entity": "City of Industry (disambiguation)",
+  "content": {
+    "source_1": "City of Industry (car) City of Industry is one of two gassers sharing the name. The first car named \"City of Industry\" was a Cadillac-powered 1953 Kurtis. It won the NHRA national titles in A/SP (A Production) at Oklahoma City, Oklahoma in 1958 (with a pass of 12.17 seconds at ), AM/SP (A Modified Production) at Detroit Dragway in 1960 (with a pass of 12.29 seconds at ), and at Indianapolis Raceway Park in 1961 (with a pass of 11.91 seconds at ) and 1962 (with a pass of 12.53 seconds at ). The second was a Cadillac-powered 1963 Kurtis.",
+    "source_2": "City of Industry (film) City of Industry is a 1997 neo-noir crime film starring Harvey Keitel, Stephen Dorff and Timothy Hutton. It is directed by John Irvin, produced by Evzen Kolar and Ken Solarz and written by Solarz. Retired thief, Roy Egan (Harvey Keitel), comes out of retirement to help his youngest brother, Lee (Timothy Hutton), with a jewelry heist in Palm Springs. Along for the job are hired muscle, Jorge Montana (Wade Dominguez), and wheelman, Skip Kovich (Stephen Dorff), who is running late. While they wait for Skip, the three men prepare for the heist by surveying the jewelry"
+  },
+  "content_pid": [
+    "20129406",
+    "8139800"
+  ],
+  "answer": [
+    "A car",
+    "A 1997 neo-noir crime film"
+  ]
+}

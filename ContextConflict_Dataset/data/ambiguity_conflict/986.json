@@ -1,0 +1,20 @@
+{
+  "qid": 43890,
+  "question": "What is the geographical description of Lake Hart?",
+  "ambiguous_entity": "Lake Hart",
+  "content": {
+    "source_1": "Lake Hart, Florida Lake Hart is a census-designated place and an unincorporated area in Orange County, Florida, United States. The population was 542 as of the 2010 census. It is part of the Orlando–Kissimmee Metropolitan Statistical Area. Lake Hart is located at (28.388834, -81.229113). According to the United States Census Bureau, the CDP has a total area of 4.8 km² (1.9 mi²), of which 3.5 km² (1.4 mi²) is land and 1.2 km² (0.5 mi²) (25.95%) is water. The CDP does not include the lake of the same name, but abuts it. It does include a smaller lake to the",
+    "source_2": "Lake Hart (Winter Haven, Florida) Lake Hart is actually two separate bodies of water that are joined as one body in very rainy years. The smaller body is circular and is northeast of the main body. The main body is in the shape of a figure eight with an oval body connected by a wide channel of water. Lake Hart is a natural freshwater lake with an surface area. It is bordered on the west by residences in a gated community. On the south and east are residences in the Lake Ashton gated community. To the northeast and north are",
+    "source_3": "Board of Accounts. Hart Lake is located at 39°34'3\" north, 86°25'54.9840\" west (39.567500, -86.431940), southwest of Mooresville. Lake Hart, Indiana Lake Hart is an unincorporated community and former town in Monroe Township, Morgan County, in the U.S. state of Indiana. As of the 1990 census, the town had a total population of 213. Incorporated in the 1970s with a population of 231, the town was degraded to an unincorporated community on September 23, 1998. Residents are now part of the unincorporated community of Morgan County. On September 13, 1985, the former town was declared a legal Conservancy District per the"
+  },
+  "content_pid": [
+    "1040254",
+    "17307412",
+    "5947407"
+  ],
+  "answer": [
+    "A census-designated place and an unincorporated area in Orange County, Florida, United States",
+    "Two separate bodies of water that are joined as one body in very rainy years",
+    "39°34'3\" north, 86°25'54.9840\" west (39.567500, -86.431940)"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which rock transition causes fossils to be destroyed, leading to gaps in the fossil record?",
+    "content": {
+        "source_1": "Fossils are predominantly preserved in sedimentary rocks formed from deposited sediments; igneous and metamorphic rocks seldom contain fossils.",
+        "source_2": "During metamorphism, heat, pressure, and fluid alteration typically obliterate original sedimentary features, so fossils are commonly destroyed when sedimentary rocks are metamorphosed.",
+        "source_3": "In the rock cycle, burial and tectonic compression routinely transform sedimentary rocks into metamorphic rocks over wide regions during mountain-building (regional metamorphism).",
+        "source_4": "Unconformities—intervals produced by erosion and/or non-deposition at Earth’s surface—remove portions of the fossil record and can span immense intervals of geologic time.",
+        "source_5": "Weathering and erosion convert exposed sedimentary rock back into sediment and soil, stripping away fossil-bearing layers across broad areas and creating unconformities.",
+        "source_6": "Uplift repeatedly brings sedimentary sequences to the surface, making prolonged erosion pervasive on continents; regional stratigraphic columns commonly include numerous erosional unconformities that excise long fossil sequences."
+    },
+    "answer": "sedimentary rock to metamorphic rock"
+}

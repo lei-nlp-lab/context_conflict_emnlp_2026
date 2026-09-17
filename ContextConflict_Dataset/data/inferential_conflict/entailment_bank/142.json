@@ -1,0 +1,12 @@
+{
+    "question": "Given that limestone is a sedimentary rock and nearly all fossils are found in sedimentary rock, which rock is most likely to contain fossil seashells?",
+    "content": {
+        "source_1": "Limestone commonly forms in marine settings from the accumulation of carbonate shells and skeletal fragments, so many limestones are notably rich in fossilized seashells.",
+        "source_2": "Most marine shells are composed of calcium carbonate; in carbonate-rich sediments that later lithify into limestone, these shell materials frequently accumulate and are preserved as fossils.",
+        "source_3": "Fossils occur primarily in sedimentary rocks (such as limestone, sandstone, and shale), whereas igneous and metamorphic rocks seldom contain fossils.",
+        "source_4": "Shale is a fine-grained sedimentary rock deposited in quiet-water environments where rapid burial favors fossil preservation; many marine shales contain abundant bivalve and brachiopod shells.",
+        "source_5": "High-energy shallow-water settings tend to fragment and abrade shells before burial, while intact shells are more often preserved in low-energy muds that later become shale.",
+        "source_6": "During diagenesis, carbonate minerals can dissolve in acidic pore waters (removing original shell material) in limestones, whereas in siliciclastic rocks shells are often preserved as molds or replaced by more resistant minerals."
+    },
+    "answer": "limestone"
+}

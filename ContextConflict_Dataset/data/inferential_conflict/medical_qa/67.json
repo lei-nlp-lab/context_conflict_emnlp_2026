@@ -1,0 +1,18 @@
+{
+    "question": "A 20-year-old male college student presents to the emergency room at 4 AM in the morning with complaints of abdominal cramps, nausea, vomiting, and diarrhea for the past 2 hours. He was studying for his exams last night when he became hungry and ate some food from the afternoon after heating it for a while. He says that his symptoms began an hour after he ate the food. His temperature is 37В°C (98.6В°F), respiratory rate is 15/min, pulse is 106/min, and blood pressure is 90/78 mm Hg. A physical examination is within normal limits except for signs of dehydration. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The prior probability of food poisoning is relatively high given his recent consumption of food that had been left out for several hours, perhaps let's say 40%. His symptoms of abdominal cramps, nausea, vomiting, and diarrhea further increase this probability, perhaps to 70%, as these are typical symptoms of foodborne illnesses. The fact that his symptoms began an hour after eating further increases this probability to 90%. Such rapid onset of symptoms after eating is typical for certain types of food poisoning, such as those caused by Staphylococcus aureus or Bacillus cereus, which produce preformed toxins that can cause symptoms within a few hours of consumption. The presentation doesn't align well with other diagnoses, so his symptoms, recent history, and general condition overwhelmingly suggest food poisoning.",
+        "source_2": "The patient's symptoms of abdominal cramps, nausea, vomiting, and diarrhea that started about an hour after consuming the food are indicative of food poisoning, specifically a staphylococcal food poisoning. Staphylococcus aureus, one of the common causes of food poisoning, produces enterotoxins that are heat-stable and can cause symptoms typically within 1-6 hours of consuming contaminated food. The fact that the patient heated the food for a while before eating, but still got sick, also suggests a toxin-mediated process, as toxins may not be eliminated by simple heating. Dehydration observed in the patient could be due to excessive loss of fluids and electrolytes through vomiting and diarrhea.",
+        "source_3": "This patient's symptoms began about an hour after eating food that was left out for several hours. The symptoms of abdominal cramps, nausea, vomiting, and diarrhea are consistent with food poisoning, which is usually caused by consuming food contaminated with bacteria, viruses, or toxins. The onset of symptoms varies with the specific pathogen involved. However, rapid onset within hours after eating as in this case, is most commonly associated with a type of food poisoning called staphylococcal food poisoning, caused by toxins produced by Staphylococcus aureus. Additionally, the physical examination indicates signs of dehydration, which is common in cases of food poisoning due to fluid loss from vomiting and diarrhea.",
+        "source_4": "This young patient has symptoms of acute gastroenteritis (abdominal cramps, nausea, vomiting, diarrhea) that occurred shortly after consuming food that had been left out for a period of time. These findings are consistent with foodborne illness. The rapid onset (within 1-6 hours) of his symptoms is suggestive of Staphylococcus aureus food poisoning, as this bacterium produces a heat-stable enterotoxin that survives cooking and can quickly cause symptoms if consumed. Other types of food poisoning, such as Salmonella or E. coli, typically have a longer incubation period before symptoms appear."
+    },
+    "answer": [
+        "Food poisoning"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

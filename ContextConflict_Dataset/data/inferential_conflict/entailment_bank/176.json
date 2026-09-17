@@ -1,0 +1,12 @@
+{
+    "question": "What metamorphic rock forms when limestone is compacted, heated, and recrystallized?",
+    "content": {
+        "source_1": "Metamorphic rocks form when pre-existing rocks are subjected to heat and pressure that compact the rock and drive recrystallization of minerals, without the rock fully melting.",
+        "source_2": "Limestone is a sedimentary carbonate rock composed mainly of calcite (CaCO3).",
+        "source_3": "Marble forms when limestone is metamorphosed; the calcite grains recrystallize into an interlocking mosaic, producing marble.",
+        "source_4": "In contact metamorphism, limestone or dolostone adjacent to a magma intrusion can be heated and infiltrated by silica-rich hydrothermal fluids; metasomatic reactions and recrystallization can convert the carbonate rock into calc-silicate skarn.",
+        "source_5": "Skarn is a metamorphic rock distinct from marble, characterized by calc-silicate minerals such as garnet, pyroxene, and wollastonite, formed by chemical replacement of carbonate rocks during contact metamorphism.",
+        "source_6": "The metamorphic product of carbonate rocks depends on chemistry: relatively pure limestone recrystallizes to marble, whereas interaction with abundant silica (either as impurities or via introduced fluids) can produce skarn instead of marble."
+    },
+    "answer": "marble"
+}

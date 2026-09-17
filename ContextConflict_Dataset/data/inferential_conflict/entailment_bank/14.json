@@ -1,0 +1,12 @@
+{
+    "question": "If the South Pole is tilted toward the Sun, what season is it in Florida?",
+    "content": {
+        "source_1": "Earth’s axis is tilted about 23.5 degrees relative to its orbital plane, and this tilt causes seasons, which occur in opposite phases in the Northern and Southern Hemispheres.",
+        "source_2": "Around the December solstice, the South Pole is tilted toward the Sun, and this period corresponds to summer in the Southern Hemisphere.",
+        "source_3": "Florida lies entirely north of the Equator and is located in the Northern Hemisphere.",
+        "source_4": "When it is summer in the Southern Hemisphere, it is winter in the Northern Hemisphere.",
+        "source_5": "Earth reaches perihelion in early January, about 3% closer to the Sun than at aphelion, which increases the total solar energy reaching Earth by roughly 6–7%.",
+        "source_6": "Owing to its low latitude, Florida receives relatively strong sunlight year-round compared with higher-latitude regions and often experiences warm, beach-friendly weather even during December and January."
+    },
+    "answer": "winter"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 1493,
+  "question": "Who directed the film about the Eureka Rebellion?",
+  "ambiguous_entity": "Eureka Rebellion (disambiguation)",
+  "content": {
+    "source_1": "Eureka Stockade (1907 film) Eureka Stockade is a 1907 Australian silent film about the Eureka Rebellion. It was the second feature film made in Australia, following \"The Story of the Kelly Gang\". It was made by George Cornwell, and his brother Arthur, who was a motor mechanic. The surviving seven-minute fragment (original length unknown) shows street scenes of Ballarat is believed to be part of the 1907 film, the second feature film made in Australia (after the 1906 production, \"The Story of the Kelly Gang\"). Other scenes in the lost reels of the film were believed to have included gold",
+    "source_2": "Eureka Stockade (1949 film) Eureka Stockade is a 1949 British film of the story surrounding Peter Lalor and the gold miners' rebellion of 1854 at the Eureka Stockade in Ballarat, Victoria. It was produced by Ealing Studios and directed by Harry Watt. An introductory montage establishes Australia of a hundred years ago – a place of both wealth and poverty, transformed by the discovery of gold in 1851. This causes a massive drain in manpower which puts a strain on the country. The Victorian governor appoints an army officer, Rede, commissioner of the goldfields and orders him to tax the"
+  },
+  "content_pid": [
+    "15890863",
+    "9097298"
+  ],
+  "answer": [
+    "George Cornwell",
+    "Harry Watt"
+  ]
+}

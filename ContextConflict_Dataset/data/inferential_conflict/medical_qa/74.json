@@ -1,0 +1,18 @@
+{
+    "question": "A 25-year-old female with Hodgkin's lymphoma presents with a several day history of edema. Lab studies show:\n\nSerum Na+: 140 mmol/L\nSerum K+: 3.5 mmol/L\nSerum albumin: 1.9 g/dL\nTotal serum bilirubin: 1.0 mg/dL\nSerum creatinine: 1.2 mg/dL\n\nUrinalysis shows 4+ proteinuria and fatty casts. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This young woman with Hodgkin's lymphoma presents with edema and laboratory findings consistent with nephrotic syndrome (NS), characterized by proteinuria, hypoalbuminemia, and edema. Nephrotic syndrome can cause fatty casts and heavy proteinuria, as seen in this patient. Additionally, her serum albumin is low, which can lead to a decrease in oncotic pressure and resultant edema. Although nephrotic syndrome can result from various renal diseases, the most common cause in adults is primary glomerular diseases such as focal segmental glomerulosclerosis, minimal change disease, and membranous nephropathy. However, it is also important to note that Hodgkin's lymphoma is associated with minimal change disease, making this the likely cause in this case.",
+        "source_2": "This patient has several days of edema, a low serum albumin level (1.9 g/dL; reference range is ~3.5-5 g/dL), and heavy proteinuria with fatty casts in the urine. These findings are consistent with nephrotic syndrome, a condition characterized by heavy proteinuria (>3.5 g/day), hypoalbuminemia, peripheral edema, and often hyperlipidemia. Hodgkin's lymphoma can lead to a secondary form of nephrotic syndrome known as minimal change disease, which is the most common cause of nephrotic syndrome in children but can also occur in adults.",
+        "source_3": "The prior probability of nephrotic syndrome in this patient is quite significant given her age and the presence of Hodgkin's lymphoma. It's also known that Hodgkin's lymphoma can cause secondary nephrotic syndrome. Initially, let's assume a prior probability of nephrotic syndrome to be around 10%. The finding of significant proteinuria (4+) and hypoalbuminemia (serum albumin: 1.9 g/dL, normal is 3.5-5.5 g/dL) dramatically increases the probability of nephrotic syndrome, let's say to around 60%. The presence of edema, which is a common manifestation of nephrotic syndrome due to a decrease in oncotic pressure, further increases the probability to around 80%. Finally, the detection of fatty casts in the urine, a sign of nephrotic syndrome, increases the probability to around 95%. Therefore, the posterior probability points to nephrotic syndrome as the most likely diagnosis.",
+        "source_4": "The differential for this patient includes nephrotic syndrome, liver disease, malnutrition, and congestive heart failure. The low albumin and high protein in the urine along with the fatty casts suggest that this is a kidney problem. The normal bilirubin levels and creatinine levels rule out liver disease and acute kidney failure. The presence of fatty casts in the urine is specifically associated with nephrotic syndrome, suggesting damage to the glomeruli of the kidneys. Given her low serum albumin and high urine protein levels, the most likely diagnosis for this patient is nephrotic syndrome."
+    },
+    "answer": [
+        "Minimal change disease"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

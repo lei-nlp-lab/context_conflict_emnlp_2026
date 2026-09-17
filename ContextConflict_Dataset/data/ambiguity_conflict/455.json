@@ -1,0 +1,17 @@
+{
+  "qid": 11522,
+  "question": "What is the size of Milford Township, Ohio?",
+  "ambiguous_entity": "Milford Township, Ohio",
+  "content": {
+    "source_1": "native, Governor Andrew L. Harris. Statewide, other Milford Townships are located in Defiance and Knox counties. The seventh township in order of creation, it was erected from St. Clair Township by the Butler County Commissioners on December 2, 1805, with these boundaries: This area was diminished to the present territory when the western half, another full survey township commonly known as the \"college township\", was separated from Milford Township by the Butler County Commissioners (James Blackburn, William Robison, and John Wingate) on August 5, 1811, to form Oxford Township. Located in the northern part of the county, it borders the",
+    "source_2": "Milford Township, Defiance County, Ohio Milford Township is one of the twelve townships of Defiance County, Ohio, United States. The 2010 census found 1,081 people in the township. Located in the northwestern corner of the county along the Indiana line, it borders the following townships: No municipalities are located in Milford Township. Milford Township was established in 1837. Statewide, other Milford Townships are located in Butler and Knox counties. The township is governed by a three-member board of trustees, who are elected in November of odd-numbered years to a four-year term beginning on the following January 1. Two are elected"
+  },
+  "content_pid": [
+    "4818841",
+    "8363846"
+  ],
+  "answer": [
+    "This area was diminished to the present territory when the western half, another full survey township commonly known as the \"college township\", was separated from Milford Township by the Butler County Commissioners on August 5, 1811, to form Oxford Township",
+    "No municipalities are located in Milford Township"
+  ]
+}

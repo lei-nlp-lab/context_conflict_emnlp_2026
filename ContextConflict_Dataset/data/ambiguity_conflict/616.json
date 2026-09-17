@@ -1,0 +1,17 @@
+{
+  "qid": 5605,
+  "question": "What is the location of Liahona?",
+  "ambiguous_entity": "Liahona",
+  "content": {
+    "source_1": "Liahona High School Liahona High School is a high school in Tonga owned and operated by The Church of Jesus Christ of Latter-day Saints (LDS Church). Liahona High School was established in 1948, as a successor to the previous LDS school, the Makeke School. It was originally called Liahona College, but given its current name in 1959. It has been central to the growth of the LDS Church in Tonga. The high school also was central to the LDS Church's expansion to Kiribati. Many graduates of Auriaria Kokoi Ataria School in Kiribiti went to Liahona High School in the early",
+    "source_2": "Liahona Preparatory Academy Liahona Preparatory Academy is a regionally accredited private school in Utah County, Utah, United States, that offers instruction to students from pre-kindergarten through grade 12. The school was founded by Brent and Kolleen DeGraff. The school blends core academics with the principles of The Church of Jesus Christ of Latter-day Saints (LDS Mormon). Liahona has been in operation since 1998. Liahona teaches four basic classes: history, science, English, and math. It also offers electives such as yearbook, Spanish, drama, choir, and career exploration. Currently, the school has almost 200 on-campus students. In 2014, Liahona was recognized by"
+  },
+  "content_pid": [
+    "17350238",
+    "8681166"
+  ],
+  "answer": [
+    "Tonga",
+    "Utah County, Utah, United States"
+  ]
+}

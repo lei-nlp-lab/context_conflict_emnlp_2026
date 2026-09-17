@@ -1,0 +1,17 @@
+{
+  "qid": 47023,
+  "question": "What is the medium of \"Wings of the Morning\"?",
+  "ambiguous_entity": "Wings of the Morning",
+  "content": {
+    "source_1": "The Wings of the Morning The Wings of the Morning is a book by Tom Tryon published by Fawcett Crest, New York, 1990. This is the first book of a trilogy planned by the author and precedes \"In the Fire of Spring\". This story takes place in Pyquog Landing, the early name for the town that eventually became known as Wethersfield, Connecticut. From the book's leading review: \"Pequot Landing, Connecticut, is not the place—nor is this the time—for love. Yet Aurora Talcott and Sinjin Grimes are struck with it as by a thunderbolt--only to be violently separated by their feuding",
+    "source_2": "Wings of the Morning (1937 film) Wings of the Morning is a 1937 British drama film directed by Harold D. Schuster and starring Annabella, Henry Fonda, and Leslie Banks. Glenn Tryon was the original director but he was fired and replaced by Schuster. It was the first ever three-strip Technicolor movie shot in England or Europe. Popular Irish tenor Count John McCormack appeared in the film singing \"Believe Me, if All Those Endearing Young Charms\" and \"Killarney\". The picture was French actress Annabella's first English language film. Henry Fonda met his second wife, Frances Ford Seymour, mother of Jane and"
+  },
+  "content_pid": [
+    "14607421",
+    "15415123"
+  ],
+  "answer": [
+    "Book",
+    "Film"
+  ]
+}

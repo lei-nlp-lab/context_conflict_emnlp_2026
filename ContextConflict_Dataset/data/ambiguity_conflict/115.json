@@ -1,0 +1,17 @@
+{
+  "qid": 59500,
+  "question": "What is the main theme of the film \"In the Family\"?",
+  "ambiguous_entity": "In the Family",
+  "content": {
+    "source_1": "In the Family (2008 film) In the Family is a 2008 documentary film, produced by Kartemquin Films, about predicting breast and ovarian cancer and the choices women make when they are faced with the dangers of a possible life-threatening disease. The film's director, Joanna Rudnick, tests positive for the familial BRCA mutation that increases her chances of developing breast cancer by 60%. Faced with these odds, Rudnick must examine her choices of possibly taking her chances or possibly having her breasts and ovaries removed. \"In the Family\" takes a look at genetic testing, something that was an impossibility to previous",
+    "source_2": "In the Family (2011 film) In the Family is an independent 2011 drama film that was the directorial debut of Patrick Wang. It tells the story of the surviving partner's attempt to maintain his relationship with his dead partner's young son. The film has received critical acclaim since its release. Rotten Tomatoes gives a score of 96% based on 23 reviews, with an average score of 8.4/10. At Metacritic it scored 82% based on reviews from 9 critics, considered \"universal acclaim\". Acclaimed film critic Roger Ebert awarded the film 4 out of 4 stars and quote, \"I was completely absorbed"
+  },
+  "content_pid": [
+    "15252677",
+    "16557128"
+  ],
+  "answer": [
+    "Predicting breast and ovarian cancer",
+    "The surviving partner's attempt to maintain his relationship with his dead partner's young son"
+  ]
+}

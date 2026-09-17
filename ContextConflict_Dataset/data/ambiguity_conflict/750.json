@@ -1,0 +1,20 @@
+{
+  "qid": 46110,
+  "question": "What is Mark McDonald known for?",
+  "ambiguous_entity": "Mark McDonald",
+  "content": {
+    "source_1": "Mark McDonald (hurler) Mark McDonald (9 August 1888 - 16 February 1952) was an Irish hurler. Usually lining out as a goalkeeper, he was a member of the Kilkenny team that won the 1922 All-Ireland Championship. McDonald enjoyed a club career with Mooncoin that spanned three decades. He won his sole county championship medal in 1908. After being selected for the Kilkenny senior team in 1921, he held his position on the team for the following four championship seasons. He won his first Leinster medal in 1922 before later winning his sole All-Ireland medal after Kilkenny's defeat of Tipperary in",
+    "source_2": "was to bring forward a Member's Bill on High Hedge Disputes, which was passed unanimously by the Scottish Parliament on 28 March 2013, making McDonald's bill the first Members' Bill to pass in the Parliamentary session. McDonald has been a keen advocate for individuals on the autistic spectrum, leading members debates on the issue and asking questions of the Scottish Government. He has been a member of the Scotland Advisory Committee of the National Autistic Society and a trustee of the charity, Friendly Access, which looks to create a more accessible environment for individuals with sensory disabilities. Following the death",
+    "source_3": "Marc McDonald Marc B. McDonald is an American who was Microsoft's first salaried employee (not counting Monte Davidoff, who wrote the math package for BASIC for a flat fee). He is credited with designing and implementing the 8-bit File Allocation Table file system for the NCR 8200 data-entry terminal and Microsoft's Standalone Disk BASIC-80 in 1977. McDonald also developed an 8-bit operating system called M-DOS or MIDAS; the system itself was never released by Microsoft, but its file system (a variant of FAT) influenced Tim Paterson's QDOS. A version of \"Standalone Disk Basic\" was ported to a Seattle Computer Products"
+  },
+  "content_pid": [
+    "15947441",
+    "15605811",
+    "6726532"
+  ],
+  "answer": [
+    "Being an Irish hurler",
+    "Being a politician and advocate for individuals on the autistic spectrum",
+    "8-bit File Allocation Table file system for the NCR 8200 data-entry terminal and Microsoft's Standalone Disk BASIC-80 in 1977"
+  ]
+}

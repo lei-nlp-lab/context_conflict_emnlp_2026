@@ -1,0 +1,16 @@
+{
+    "question": "Does engagement of PD-1 on human monocytes by PD-L1 increase IL-10 production by the monocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "Triggering of PD-1 expressed on monocytes by PD-L1 expressed on various cell types induced IL-10 production and led to reversible CD4+ T cell dysfunction.",
+        "source_2": "Cross-linking PD-1 on primary human monocytes failed to elevate IL-10; instead, ligation reduced IL-10 secretion and did not impair CD4+ T cell activation.",
+        "source_3": "We describe a new function for PD-1 whereby microbial products inhibit T cell expansion and function by upregulating PD-1 levels and IL-10 production by monocytes after binding of PD-1 by PD-L1.",
+        "source_4": "In longitudinal analyses of monocytes from antiretroviral-treated individuals, engagement of PD-1 predominantly induced IL-12 and left IL-10 unchanged, with no measurable effect on CD4+ T cell function."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 31851,
+  "question": "What is the population density of Motoyoshi?",
+  "ambiguous_entity": "Motoyoshi",
+  "content": {
+    "source_1": "Motoyoshi, Miyagi In 2003, the town had an estimated population of 11,716 and a population density of 109.80 persons per km². The total area was 106.70 km². Motoyoshi was divided into four districts: Magome, Koizumi, Tsuya, and Ohya. Koizumi and Ohya were both home to spectacular beaches until the disaster of March 11. Tsuya constitutes \"downtown\" Motoyoshi. Fishing and farming are the main industries though a printing company is also a large local employer. Motoyoshi, like many of Japan's smaller towns, had a declining population as young people increasingly moved to the large regional cities of Kesennuma and Sendai, or",
+    "source_2": "Motoyoshi District, Miyagi At present, the district consists only of the town of Minamisanriku with a combined population () of 11,860 people, a population density of 72.6 people per km² and an area of . All of the city of Kesennuma and a small part of the city of Tome and part of the city of Ishinomaki were formerly part of the district. Under the Tokugawa shogunate, the district was within Mutsu Province and was under the control of the Date clan of Sendai Domain. In 1869, following the Meiji restoration, Mutsu Province was divided, with the area of Motoyoshi"
+  },
+  "content_pid": [
+    "3587881",
+    "3587869"
+  ],
+  "answer": [
+    "109.80 persons per km²",
+    "72.6 people per km²"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Three days into hospitalization for a fractured distal femur, a 33-year-old man develops dyspnea and confusion. He has no history of a serious illness. He is unable to answer any questions or follow any commands. His blood pressure is 145/90 mm Hg, the pulse is 120/min, the respiratory rate is 36/min, and the temperature is 36.7В°C (98.1В°F). His oxygen saturation is 90% on 80% FiO2. On examination, purpura is noted on the anterior chest, head, and neck. Inspiratory crackles are heard in both lung fields. Arterial blood gas analysis on 80% FiO2 shows:\npH 7.54\nPCO2 17 mm Hg\nPO2 60 mm Hg\nHCO3в€’ 22 mEq/L\nA chest X-ray is shown. What best explains the cause of these findings?",
+    "content": {
+        "source_1": "The differential diagnosis for this patient includes: fat embolism syndrome, pulmonary embolism, aspiration pneumonia, and ARDS (acute respiratory distress syndrome). The clinical features of dyspnea, confusion, and purpura on the chest, head, and neck suggest fat embolism syndrome. Additionally, the timing is also typical of fat embolism, which usually occurs within 72 hours after a long bone fracture. Pulmonary embolism could cause dyspnea and hypoxia but would not usually lead to neurological symptoms or a petechial rash. Aspiration pneumonia and ARDS would not cause the purpura and are less likely in this scenario. Fat emboli from the marrow of the fractured femur can migrate to the lungs and brain causing respiratory distress, neurological signs, and a petechial rash.",
+        "source_2": "This young patient's clinical picture of intermittent abdominal pain with drawing up of knees, mucus and blood in the stool, and a palpable 'sausage-shaped' mass in the right upper abdomen strongly suggests intussusception. Intussusception is a condition where a part of the intestine 'telescopes' into an adjacent part leading to obstruction and compromised blood flow. This condition is the most common cause of bowel obstruction in children between 6 months and 3 years of age. The most common etiology in this age group is idiopathic, although sometimes it may be precipitated by a viral illness causing hyperplasia of Peyer's patches in the ileum."
+    },
+    "answer": [
+        "Fat Embolism Syndrome"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

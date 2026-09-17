@@ -1,0 +1,14 @@
+{
+    "question": "In mice, does hepatocyte-specific autophagy deficiency (e.g., Atg7 or Atg5 knockout) increase susceptibility to diet-induced insulin resistance compared with wild-type controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "We also observed induction of Fgf21, resistance to diet-induced obesity and amelioration of insulin resistance in mice with autophagy deficiency in the liver, another insulin target tissue.",
+        "source_2": "In hepatocyte-specific Atg7 knockout mice subjected to 16 weeks of high-fat feeding, autophagy deficiency in the liver increased fat mass and heightened susceptibility to insulin resistance; this phenotype coincided with reduced fatty acid oxidation and attenuated browning of white adipose tissue, consistent with suppressed hepatic Fgf21.",
+        "source_3": "Rather than inducing a protective mitokine response, hepatic autophagy deficiency and the resulting mitochondrial dysfunction diminished Fgf21 expression and exacerbated diet-induced insulin resistance in middle-aged mice."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

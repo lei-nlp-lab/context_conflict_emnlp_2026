@@ -1,0 +1,17 @@
+{
+  "qid": 28579,
+  "question": "Who is the owner of Canal 11?",
+  "ambiguous_entity": "Canal 11",
+  "content": {
+    "source_1": "is not the same as the actual broadcasters or satellite signal. The network began broadcasting on March 2, 1959, when its flagship station became the first non-profit educational and cultural television station in Mexico, owned and operated by a Mexican institution of higher education. The television channel was conceived by Alejo Peralta y Díaz, the director of the Instituto Politécnico Nacional between 1956 and 1959, and supported by his successor Eugenio Méndez Docurro, as well as Secretary of Communications and Transportation Walter Cross Buchanan and Jaime Torres Bodet, Secretary of Public Education. Its first broadcast was a mathematics class transmitted",
+    "source_2": "Repretel 11 Canal 11 is a private Costa Rican television channel, owned and operated by Repretel since 1996. It was the first station owned and operated by Repretel-Albavision group in Costa Rica. Repretel bought the station from rival Teletica, due to a mismanagement from the leasing company operating the station, forcing the sale; Repretel was growing fast, leasing Channel 9 and 6; became the first TV-station owned and operated in Costa Rica. In 1996, the channel briefly relayed channel 6. On March 1, 1997, the channel became independent again, airing a schedule consisting primarily of imported cartoons and telenovelas. In"
+  },
+  "content_pid": [
+    "4606728",
+    "10244951"
+  ],
+  "answer": [
+    "Mexican institution of higher education",
+    "Repretel-Albavision group in Costa Rica"
+  ]
+}

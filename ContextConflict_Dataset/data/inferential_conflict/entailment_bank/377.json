@@ -1,0 +1,12 @@
+{
+    "question": "What process causes iron in rocks to oxidize, turning them red, orange, or yellow?",
+    "content": {
+        "source_1": "Oxidation of iron-bearing minerals produces iron oxides such as hematite, goethite, and limonite, which impart red, orange, and yellow hues to sandstone; Utah’s “red rock” landscapes are classic examples of coloration from iron oxidation.",
+        "source_2": "Oxidation is a form of chemical weathering: reactions with oxygen alter a rock’s mineral composition and often change its color.",
+        "source_3": "Desert varnish—a thin, dark brown to black coating rich in manganese and iron oxides—commonly forms on arid rock surfaces, including many Utah canyon walls, darkening them relative to the underlying sandstone.",
+        "source_4": "Sand-laden winds on the Colorado Plateau mechanically abrade rock faces, scouring off desert varnish and other surface films and revealing lighter or differently colored substrate without changing the rock’s chemistry.",
+        "source_5": "Physical (mechanical) weathering processes such as abrasion remove or break rock material without altering mineral composition; visible color can change when surface coatings are stripped away.",
+        "source_6": "Over decadal timescales in arid settings, the most conspicuous color shifts on exposed rock faces are often produced by the removal or redistribution of surface coatings rather than by new chemical alteration of the rock mass."
+    },
+    "answer": "chemical weathering"
+}

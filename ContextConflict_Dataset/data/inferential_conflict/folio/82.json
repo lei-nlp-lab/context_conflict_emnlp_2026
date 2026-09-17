@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis '2Sum has an AC rate higher than 20 percent.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "If a Leetcode problem is easy, then its AC rate is below 20%.",
+        "source_2": "Any Leetcode problem recommended to novices is easy.",
+        "source_3": "Every Leetcode problem is either easy or hard.",
+        "source_4": "Any Leetcode problem starred by more than 1,000 users is hard.",
+        "source_5": "2Sum is recommended to novices.",
+        "source_6": "4Sum is starred by more than 1,000 users.",
+        "source_7": "Most problems recommended to novices have an AC rate above 20%."
+    },
+    "answer": "False"
+}

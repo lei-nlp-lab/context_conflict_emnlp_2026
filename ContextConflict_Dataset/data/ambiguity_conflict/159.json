@@ -1,0 +1,17 @@
+{
+  "qid": 9986,
+  "question": "What does the term \"Impersonality\" refer to?",
+  "ambiguous_entity": "Impersonality",
+  "content": {
+    "source_1": "’to go’ in the third person singular, so its literal meaning could be rendered like \"this is how it gets gone to the stars.\" Similarly, \"Saltatur\" is literally the third person singular passive form of the verb \"saltare\" ’to dance,’ and it means \"they (or: people) are dancing.\" \"Pugnatum est\" is a perfect passive form of the verb \"pugnare\" ’to fight’, so this form means \"they were fighting\" or \"the fight was going on\". Another example is the answer to the question \"Quid agitur?\" (approx. \"what's up?\", lit. \"what is being done?\") in a play by Plautus: \"Vivitur,\" approx. \"not",
+    "source_2": "are \"atmospheric verbs\": Most \"impersonal\" constructions in Spanish involves: a) using a special verb in third-person defective verb with a direct object as its only argument. b) use of \"impersonal se\" (not to be confused with other uses of \"se\"). There are two main impersonal verbs in Spanish: \"Haber\" (to have) and \"Hacer\" (to do). \"Haber\" is an irregular verb. When used as an impersonal verb in the present tense, it has a special conjugation for the third person singular (\"hay\"). Clauses with the verb \"haber\" do not have an explicit subject; its only argument is a direct object noun"
+  },
+  "content_pid": [
+    "6980274",
+    "4276214"
+  ],
+  "answer": [
+    "Third person singular passive form of the verb",
+    "Special verb in third-person defective verb with a direct object as its only argument"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If Jack is solid at shooting 2-pointers or successfully shoots a high percentage of 3-pointers, then Jack struggles at half court shots and is bad at mid-range shots.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No trick-shot artist on Yale’s varsity team struggles with half-court shots.",
+        "source_2": "Every Yale varsity player either struggles with half-court shots or shoots a high 3-point percentage.",
+        "source_3": "Any Yale varsity player who shoots a high 3-point percentage is solid at 2-pointers.",
+        "source_4": "No Yale varsity player who is solid at 2-pointers is bad at mid-range shots.",
+        "source_5": "Jack is on Yale’s varsity team.",
+        "source_6": "Jack is either a trick-shot artist or he shoots a high 3-point percentage.",
+        "source_7": "Any Yale varsity player who shoots a high 3-point percentage is bad at mid-range shots.",
+        "source_8": "Any Yale varsity player who is not a trick-shot artist struggles with half-court shots."
+    },
+    "answer": "Uncertain"
+}

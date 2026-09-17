@@ -1,0 +1,17 @@
+{
+  "qid": 30727,
+  "question": "What is the common use of Sweetbay?",
+  "ambiguous_entity": "Sweetbay",
+  "content": {
+    "source_1": "is used for the California bay laurel (\"Umbellularia\"), also in the family Lauraceae. The Laurel is an evergreen shrub or small tree, variable in size and sometimes reaching tall. The genus \"Laurus\" includes four accepted species, whose diagnostic key characters often overlap. The Bay Laurel is dioecious (unisexual), with male and female flowers on separate plants. Each flower is pale yellow-green, about diameter, and they are borne in pairs beside a leaf. The leaves are glabrous, long and broad, with an entire (untoothed) margin. On some leaves the margin undulates. The fruit is a small, shiny black berry-like drupe about",
+    "source_2": "creamy white, 8–14 cm diameter, with 6-15 petal-like tepals. The flowers carry a very strong vanilla scent that can sometimes be noticed several hundred yards away. The fruit is a fused aggregate of follicles, 3–5 cm long, pinkish-red when mature, with the follicles splitting open to release the 1 cm long seeds. The seeds are black but covered by a thinly fleshy red coat, which is attractive to some fruit-eating birds; these swallow the seeds, digest the red coating, and disperse the seeds in their droppings. \"Magnolia virginiana\" is often grown as an ornamental tree in gardens, and used in"
+  },
+  "content_pid": [
+    "2516298",
+    "2715178"
+  ],
+  "answer": [
+    "It is used as an evergreen shrub or small tree",
+    "It is often grown as an ornamental tree in gardens"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Do cost-effectiveness evaluations for selective COX-2 inhibitors derived from randomized controlled trial data lack external validity compared with analyses using real-world clinical practice data? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS The published cost-effectiveness analyses of coxibs lacked external validity, did not represent patients in actual clinical practice, and should not have been used to inform prescribing policies.",
+        "source_2": "Applying event probabilities from the VIGOR and CLASS RCTs yielded mean costs of US$16k and US$20k, respectively, which closely tracked expenditures observed in routine care, indicating strong external validity of cost-effectiveness models built on cRCT data.",
+        "source_3": "Only a minority of patients used the drugs long-term and daily (34.5% of conventional NSAIDs and 44.2% of coxibs), whereas coxib RCTs required daily use for at least 6-9 months.",
+        "source_4": "In analyses spanning 1990–1993 to 2002–2005, inflation- and severity-adjusted GPRD event costs converged with RCT-based projections, with mean expenditures of approximately US$18–22k in the latter period, arguing against concerns of poor external validity for cRCT-based evaluations."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

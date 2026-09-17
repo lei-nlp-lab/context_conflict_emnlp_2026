@@ -1,0 +1,20 @@
+{
+  "qid": 5794,
+  "question": "What is the profession of Steven Chapman?",
+  "ambiguous_entity": "Steven Chapman",
+  "content": {
+    "source_1": "at the University of Edinburgh from 1985–1995, and Professor of Biological Chemistry from 1996. In 2000, he became Head of the University's School of Chemistry, and in August 2006, was appointed as Vice-Principal of Planning, Resources and Research Policy at the University. Externally, Chapman's roles have included the HEFCE TRAC(T) Steering Group, the Research and Knowledge Transfer Committee of the Scottish Funding Council, and as a representative on LERU and Universitas 21. He was a member of the Board of UCEA and was a previous member of the Board of Directors of Edinburgh Research and Innovation Limited. He has published",
+    "source_2": "Steve Chapman (ice hockey) Steve Chapman is an ice hockey executive. From 2002 to 2015, he served as the president and general manager of the Gwinnett Gladiators of the ECHL after serving in the same capacity with the Mobile Mysticks from 1995 to 2001. He also served nine terms as the ECHL's Chairman of the Board of Governors from 2006 until 2015. In 2015, he was hired by the St. Louis Blues of the National Hockey League as group vice president of brand, community and partnership development. Chapman was the first person to be named the ECHL Executive of the",
+    "source_3": "Steven Curtis Chapman Steven Curtis Chapman (born November 21, 1962) is an American Christian music singer, songwriter, record producer, actor, author, and social activist. After starting his career in the late 1980s as a songwriter and performer of contemporary Christian music, Chapman has since been recognized as one of the most prolific singers in the genre, releasing over 20 albums. Chapman has also won five Grammy awards and 58 Gospel Music Association Dove Awards, more than any other artist in history. His seven \"Artist of the Year\" Dove Awards, his latest in 2009, are also an industry record. As of"
+  },
+  "content_pid": [
+    "13827869",
+    "18200844",
+    "2218173"
+  ],
+  "answer": [
+    "Vice-Principal of Planning, Resources and Research Policy at the University",
+    "ice hockey executive and group vice president of brand, community and partnership development for the St",
+    "American Christian music singer, songwriter, record producer, actor, author, and social activist"
+  ]
+}

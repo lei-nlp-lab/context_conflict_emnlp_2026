@@ -1,0 +1,12 @@
+{
+    "question": "What is the closest star to Earth?",
+    "content": {
+        "source_1": "A star is a celestial object that produces its own heat and light through nuclear fusion.",
+        "source_2": "The Sun generates its own heat and light by nuclear fusion and is classified as a star.",
+        "source_3": "Earth orbits the Sun at an average distance of about 1 astronomical unit (approximately 150 million kilometers, about 8 light-minutes).",
+        "source_4": "Proxima Centauri, the nearest stellar system beyond the Sun, lies about 4.24 light-years from the Sun (and thus from Earth to within a tiny fraction of that distance).",
+        "source_5": "Sirius is the brightest star in Earth’s night sky and is located about 8.6 light-years from Earth.",
+        "source_6": "For self-luminous objects, apparent brightness at an observer scales inversely with the square of distance; nearer objects appear brighter than farther ones, all else being equal."
+    },
+    "answer": "the sun"
+}

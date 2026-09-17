@@ -1,0 +1,12 @@
+{
+    "question": "What unit measures the distance between stars?",
+    "content": {
+        "source_1": "A light-year is a unit of distance equal to how far light travels in one year, and it is commonly used to express distances between stars.",
+        "source_2": "Proxima Centauri, the nearest star to the Sun after the solar system, is about 4.24 light-years away.",
+        "source_3": "The parsec (pc) is defined via stellar parallax (the distance at which 1 astronomical unit subtends an angle of 1 arcsecond) and is the conventional unit in professional astronomy for measuring stellar distances.",
+        "source_4": "Star catalogs and astrometric results (e.g., from Hipparcos and Gaia) report or derive stellar distances in parsecs.",
+        "source_5": "The two units are interconvertible: 1 parsec ≈ 3.26 light-years ≈ 3.0857×10^16 meters; 1 light-year ≈ 9.4607×10^15 meters.",
+        "source_6": "The astronomical unit (AU), about 1.496×10^8 km, is primarily used for distances within the solar system, whereas interstellar distances are far larger."
+    },
+    "answer": "light years"
+}

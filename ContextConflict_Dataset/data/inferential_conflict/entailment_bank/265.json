@@ -1,0 +1,12 @@
+{
+    "question": "Apart from saving energy, what benefit do longer-lasting light bulbs provide regarding landfill waste?",
+    "content": {
+        "source_1": "Compact fluorescent lamps (CFLs), an energy‑saving replacement for incandescent bulbs, are commonly advertised to last up to ten times longer; over the same hours of lighting, this means far fewer bulbs are used and ultimately thrown away.",
+        "source_2": "Items placed in household trash are typically sent to municipal landfills; when fewer objects are discarded, less waste enters landfills.",
+        "source_3": "Reducing the amount of material sent to landfills is considered an environmental benefit because landfills occupy land and can pollute air and water.",
+        "source_4": "CFLs contain a small amount of elemental mercury sealed in the glass tube.",
+        "source_5": "In practice, many spent CFLs are not recycled and are disposed of with regular household trash, where breakage can release mercury.",
+        "source_6": "Mercury released from broken or improperly disposed CFLs is toxic to people and wildlife and contributes to environmental contamination, which is considered environmentally harmful."
+    },
+    "answer": "Less trash is put in landfills."
+}

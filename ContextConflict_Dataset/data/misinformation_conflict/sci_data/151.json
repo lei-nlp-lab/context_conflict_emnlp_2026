@@ -1,0 +1,16 @@
+{
+    "question": "Are misunderstandings in doctor–patient communication associated with non-adherence to prescribed treatment? Answer with Yes or No.",
+    "content": {
+        "source_1": "They were all associated with potential or actual adverse outcomes such as non-adherence to treatment.",
+        "source_2": "In a prospective, multicenter cohort of adults with type 2 diabetes, physician–patient misunderstandings were not predictive of medication non-adherence over 12 months (adjusted hazard ratio 1.01; 95% CI 0.90–1.13) after controlling for health literacy, cost, and regimen complexity.",
+        "source_3": "Clarification of discrepancies in patients’ understanding during prescribing consultations was followed by a significant reduction in missed doses, indicating that uncorrected misunderstandings contribute to non-adherence.",
+        "source_4": "A randomized trial of communication quality found no difference in adherence between visits with documented misunderstandings and those without (risk difference 0.3%, 95% CI −2.1 to 2.7), suggesting that misunderstandings do not lead to non-adherence when other factors are held constant."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

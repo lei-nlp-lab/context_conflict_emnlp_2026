@@ -1,0 +1,17 @@
+{
+  "qid": 10430,
+  "question": "What is a significant event associated with Thomas von dem Knesebeck?",
+  "ambiguous_entity": "Thomas von dem Knesebeck",
+  "content": {
+    "source_1": "reorganisation of Brandenburg case law and in particular regarding religious freedom. In 1612 Knesebeck made his conversion from the Lutheran confession to Calvinism public and was instrumental in bringing about the conversion of the Elector of Brandenburg, John Sigismund, a year later. Earlier under John Sigismund's father Joachim Frederick, he had still felt obliged to conceal this. When attempts by John Sigismund to introduce mass conversion met with significant resistance from the still Lutheran population, Knesebeck ensured that Lutheranism and Calvinism would be equal confessions, with broad tolerance for Catholicism and Judaism. He died in 1625, succeeded by his sons",
+    "source_2": "Thomas von dem Knesebeck (the Younger) Thomas von dem Knesebeck (27 March 1594 - 1 February 1658) was a Privy Councillor and Landeshauptmann (Governor) of the Altmark during most of the 30 Years War, as well as one of the earliest members of the Fruitbearing Society. He was born into one of the most prominent Brandenburg families as the son of Landeshauptmann Thomas von dem Knesebeck (the Elder), who introduced Calvinism to Brandenburg and affected the conversion of the Elector of Brandenburg, John Sigismund. At the encouragement of his father, who believed in an extensive education, he spent almost ten"
+  },
+  "content_pid": [
+    "20372524",
+    "20372662"
+  ],
+  "answer": [
+    "He brought about the conversion of the Elector of Brandenburg, John Sigismund, to Calvinism",
+    "He was one of the earliest members of the Fruitbearing Society"
+  ]
+}

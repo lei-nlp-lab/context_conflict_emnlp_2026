@@ -1,0 +1,16 @@
+{
+    "question": "In adults with acute myocardial infarction requiring mechanical circulatory support, does allogeneic support lead to higher 30-day all-cause mortality than autologous support? Answer with Yes or No.",
+    "content": {
+        "source_1": "At 1 year, there were no ventricular arrhythmia SAEs observed among allogeneic recipients compared with 4 patients (26.7%) in the autologous group (P = .10).",
+        "source_2": "In a multicenter registry of acute myocardial infarction managed with temporary mechanical circulatory support, allogeneic devices failed to reduce end-diastolic dimensions or sphericity and only the autologous cohort demonstrated a significant increase in ejection fraction at 12 months (P < .01), indicating superior efficacy of autologous support.",
+        "source_3": "The 1-year incidence of SAEs was 33.3% (n = 5) in the allogeneic group and 53.3% (n = 8) in the autologous group (P = .46).",
+        "source_4": "In an early-stage, placebo-controlled trial of patients with acute myocardial infarction requiring ventricular assist devices, the allogeneic arm experienced a higher burden of treatment-emergent and immunologic serious adverse events than the autologous arm over 12 months, suggesting inferior safety and effectiveness of allogeneic mechanical circulatory support."
+    },
+    "answer": "Undetermined.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

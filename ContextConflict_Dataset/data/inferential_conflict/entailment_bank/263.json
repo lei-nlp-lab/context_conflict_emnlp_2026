@@ -1,0 +1,12 @@
+{
+    "question": "After microorganisms converted the dumped mercury into a form plankton could use, what would most likely happen to the mercury in the food chain?",
+    "content": {
+        "source_1": "In coastal bays, zooplankton and small fish routinely feed on phytoplankton and microplankton; substances assimilated by plankton are transferred to these consumers and then to higher predators via the food chain.",
+        "source_2": "Methylmercury produced by aquatic microbes is readily absorbed by plankton and biomagnifies, commonly reaching high concentrations in predatory fish and shellfish eaten by people.",
+        "source_3": "The Minamata episode is a documented case in which methylmercury entered the marine food chain and poisoned humans and cats that ate contaminated seafood from the bay.",
+        "source_4": "Eutrophic, stratified bays frequently experience hypoxia that causes mass mortality or avoidance by zooplankton and fish, drastically reducing grazing on plankton.",
+        "source_5": "When plankton are not grazed, their biomass typically sinks as marine snow; the associated contaminants are transported to and often buried in bottom sediments instead of being transferred to fish through grazing.",
+        "source_6": "Demethylation processes (microbial and photochemical) can convert methylmercury back to less bioavailable inorganic mercury, interrupting trophic transfer when contaminated plankton die and sink before being eaten."
+    },
+    "answer": "The mercury passed through the food chain."
+}

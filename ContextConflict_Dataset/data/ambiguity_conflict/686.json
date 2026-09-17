@@ -1,0 +1,17 @@
+{
+  "qid": 9120,
+  "question": "What was the type of tank used to create the TACAM?",
+  "ambiguous_entity": "TACAM",
+  "content": {
+    "source_1": "TACAM T-38 TACAM T-38 (\"Tun Anticar pe Afet Mobil\" - Self-propelled Anti-tank Gun) was a Romanian tank destroyer design for use in World War II. In 1943, forty captured Soviet 76.2 mm field guns were in storage to rearm the T-38 tanks used by the Romanian Army. The tank destroyer would have resembled the German Marder III. Because the TACAM R-2 project was never completed, the project was cancelled after King Michael's Coup. The TACAM T-38 was going to be built by removing the turret of the T-38 light tank and building a pedestal to mount an ex-Soviet 76.2 mm",
+    "source_2": "TACAM T-60 The TACAM T-60 (Tun Anticar pe Afet Mobil - Self-propelled Anti-tank Gun) was a Romanian tank destroyer used during World War II. It was built by removing the turret of captured T-60 light tanks and building a pedestal to mount an ex-Soviet M-1936 F-22 field gun in its place. A three-sided fighting compartment was built to protect the gun and its crew. Thirty-four were built in 1943, and they served in the Jassy-Kishniev Offensive, and the Budapest Offensive. By December 1942 it was blatantly obvious that Romania had nothing capable of defeating the modern Soviet medium and heavy"
+  },
+  "content_pid": [
+    "14788246",
+    "13392164"
+  ],
+  "answer": [
+    "T-38 light tank",
+    "T-60 light tank"
+  ]
+}

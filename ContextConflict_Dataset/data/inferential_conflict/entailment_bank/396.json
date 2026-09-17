@@ -1,0 +1,12 @@
+{
+    "question": "What will the Gloucester weather report most likely say about humidity?",
+    "content": {
+        "source_1": "Local U.S. TV weathercasts typically show a “current conditions” panel that includes relative humidity alongside temperature and wind, because humidity affects comfort and the heat index.",
+        "source_2": "Standard general-audience weather reports routinely communicate core variables such as temperature, dew point/relative humidity, wind, and chance of precipitation.",
+        "source_3": "Gloucester, Massachusetts is a coastal fishing port on Cape Ann, and Boston-area stations treat it as a seaside location within their coverage.",
+        "source_4": "Coastal New England TV weathercasts commonly include a dedicated “Marine” or “Beach & Boating” segment for towns like Gloucester that emphasizes wind speed/direction, wave height, surf, tides, and marine visibility.",
+        "source_5": "Marine/boating forecast segments focus on navigational and surf conditions and typically omit relative humidity readings; a humidity value is rarely shown in these segments.",
+        "source_6": "During summer beach season, stations often abbreviate or replace the usual “current conditions” graphic for coastal towns with the marine/beach forecast segment."
+    },
+    "answer": "the amount of moisture in the air"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 392,
+  "question": "Where is Fayetteville High School located?",
+  "ambiguous_entity": "Fayetteville High School",
+  "content": {
+    "source_1": "Fayetteville-Perry High School Fayetteville-Perry High School is a public high school in Fayetteville, Ohio. It is the only high school in the Fayetteville-Perry Local Schools district and is in northern Brown County. As of the 2013-14 school year, enrollment is approximately 350. Fayetteville-Perry's current two-story building opened in 2009, replacing one that was more than 100 years old. The new building was constructed in front of the old one, and both Fayetteville Middle School and Fayetteville Elementary School are on the same campus as the high school. The high school shares a cafetorium, band room and library with the middle",
+    "source_2": "Fayetteville High School (Arkansas) Fayetteville High School is a public high school located in Fayetteville, Arkansas. The school is administered by the Fayetteville Public Schools system, formerly headed by Paul Hewitt, who retired on June 30, 2016 and was replaced by Dr. Matthew Wendt. Dr. Wendt was removed as superintendent of schools in July or 2018 and was replaced by Dr. John L Colbert. The school recently underwent massive rebuilding and expansion with designs by architect Marlon Blackwell. The school was first opened in 1908, and the previous building was built in 1950, with further renovations made in the 1990s.",
+    "source_3": "Fayetteville Academy The Fayetteville Academy was established in 1970 as a coeducational secular private school in Cumberland County. The Fayetteville Academy opened in September 1970 under the leadership of the first headmaster, Joseph Lassiter, with approximately 100 students in grades 1-10. During the first year the entire school was housed in what is today the Lower School. The following year the gym was built and named in honor of Oscar L. Norris, the Chairman of the original Board of Directors. In 1972, the Upper School addition was completed to accommodate the first graduating class. In the spring of 1973, the"
+  },
+  "content_pid": [
+    "9483559",
+    "7653280",
+    "11757445"
+  ],
+  "answer": [
+    "Fayetteville, Ohio",
+    "Fayetteville, Arkansas",
+    "Cumberland County"
+  ]
+}

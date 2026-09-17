@@ -1,0 +1,17 @@
+{
+  "qid": 59295,
+  "question": "What is the military rank of General Schultz?",
+  "ambiguous_entity": "General Schultz",
+  "content": {
+    "source_1": "awarded on 18 October 1941 the German Cross in Gold. In the fight for Krasnodar in the summer of 1942, Paul Schultz distinguished himself and on 3 September 1942 was presented with the Knight's Cross of the Iron Cross. On 1 August 1, 1943 he was appointed commander of the Army Aviation School of the 6th Army. On 26 August 1943 he was awarded retroactively the Oak Leaves to his Knight's Cross of the Iron Cross for contribution to the fight for the Kuban Bridgeheads. On 1 March 1944 Paul Schultz was promoted to Generalmajor and on 10 October 1944",
+    "source_2": "and Director of the Air National Guard, and Schultz was promoted to lieutenant general. Schultz served as director of the Army National Guard until retiring in 2005. he was succeeded by Clyde A. Vaughn. After retiring from the military, Schultz was named Vice President of Unitech, a company which provided homeland security and military training and simulation products and services to government and the military. Unitech was later purchased by Lockheed Martin, and Schultz became a program Management Director. In 2011, Schultz became Senior Vice President and Chief Operating Officer of SENTEL Corporation, which provides technology development and testing services"
+  },
+  "content_pid": [
+    "14775207",
+    "17314604"
+  ],
+  "answer": [
+    "Generalmajor",
+    "Lieutenant general"
+  ]
+}

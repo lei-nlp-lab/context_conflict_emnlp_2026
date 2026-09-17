@@ -1,0 +1,14 @@
+{
+    "question": "An 8-year-old boy presents to the emergency department with puffy eyes. The patientвЂ™s parents noticed that his eyes were very puffy this morning thus prompting his presentation. They state their son has always been very healthy and other than a rash acquired from wrestling treated with a topical antibiotic has been very healthy. His temperature is 98.3В°F (36.8В°C), blood pressure is 125/85 mmHg, pulse is 89/min, respirations are 18/min, and oxygen saturation is 99% on room air. Physical exam is notable for periorbital edema but is otherwise unremarkable. Urinalysis is notable for red blood cells and an amber urine sample. What is the most likely etiology of this patientвЂ™s symptoms?",
+    "content": {
+        "source_1": "The prior probability of post-streptococcal glomerulonephritis (PSGN) in an 8-year-old child presenting with periorbital edema, elevated blood pressure, and hematuria might be around 10%. The periorbital edema, a common symptom of PSGN, increases the posterior probability to around 30%. Hypertension, which is also common in PSGN, pushes the probability further to 50%. The presence of red blood cells in the urine, a sign of glomerular injury, increases the likelihood to 70%. The history of a recent rash treated with a topical antibiotic (a possible sign of a recent streptococcal skin infection) increases the probability of PSGN to 90%. Given these signs and symptoms, the most likely diagnosis for this patient is post-streptococcal glomerulonephritis.",
+        "source_2": "This young boy presents with sudden periorbital edema, high blood pressure, and hematuria (indicated by the presence of red blood cells in the urine), all of which are symptoms of nephrotic syndrome. Nephrotic syndrome is a kidney disorder that causes the body to excrete too much protein in the urine, which can lead to fluid buildup and swelling in different parts of the body. The recent infection (indicated by the rash) could have acted as a trigger, as post-infectious glomerulonephritis is a common cause of nephrotic syndrome in children."
+    },
+    "answer": [
+        "Post-streptococcal glomerulonephritis."
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In adults with type 2 diabetes, does laparoscopic adjustable gastric banding produce higher remission rates than conventional (non-surgical) therapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "Remission of type 2 diabetes was achieved by 22 (73%) in the surgical group and 4 (13%) in the conventional-therapy group.",
+        "source_2": "In adjusted analyses, the probability of remission did not differ: the surgical arm showed a relative risk of 0.9 (95% confidence interval, 0.6–1.4) compared with conventional therapy.",
+        "source_3": "CONCLUSIONS Participants randomized to surgical therapy were more likely to achieve remission of type 2 diabetes through greater weight loss.",
+        "source_4": "At 24-month follow-up, conventional medical management yielded higher remission rates than laparoscopic adjustable gastric banding (29% vs 18%, intention-to-treat), even after controlling for baseline BMI and diabetes duration."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Have androgenetic haploid mouse embryonic stem cells been derived in vitro and genetically manipulated so that, upon injection into oocytes, they generate live, fertile mice carrying the engineered traits? Answer with Yes or No.",
+    "content": {
+        "source_1": "Strikingly, live mice can be obtained upon injection of AG-haESCs into MII oocytes, and these mice bear haESC-carried genetic traits and develop into fertile adults.",
+        "source_2": "In repeated derivation attempts under 2i/LIF and feeder-free conditions, purported androgenetic haploid ESCs rapidly diploidized and could not be maintained, making targeted genetic modification in vitro infeasible.",
+        "source_3": "Our results demonstrate that AG-haESCs can be used as a genetically tractable fertilization agent for the production of live animals via injection into oocytes.",
+        "source_4": "Genome editing approaches that reliably modify diploid ESCs failed in AG-haESC cultures, and edited cells did not transmit alleles after oocyte injection, indicating that androgenetic haploid ESCs are not a workable platform for in vitro manipulation."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

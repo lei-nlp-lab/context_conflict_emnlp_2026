@@ -1,0 +1,23 @@
+{
+  "qid": 22571,
+  "question": "What is Marsiling?",
+  "ambiguous_entity": "Marsiling (disambiguation)",
+  "content": {
+    "source_1": "Marsiling MRT station Marsiling MRT station (NS8) is an above-ground Mass Rapid Transit (MRT) station on the North South Line in Woodlands, Singapore. Marsiling station serves the residential area in the western part of Woodlands New Town, and is the nearest MRT station to Woodlands Train Checkpoint and the old Woodlands Town Centre located at Woodlands Centre Road. The government came up with a proposal to build the North South Line Woodlands Extension in 1990 with the aim of extending the existing North-South and East-West lines, thus connecting Choa Chu Kang in the West to Yishun in the North. Marsiling",
+    "source_2": "Marsiling Park Marsiling Park, formerly Woodlands Town Garden, is a community park in Woodlands, Singapore, located at Woodlands Centre Road, adjacent to Bukit Timah Road. Opened in 1983, the Woodlands Town Garden was an exemplification of greenery and ambiance. The design of this park is unique in the sense that the amenities have both Chinese and Malay elements. The Sungei Mandai Kecil river flowing through the park was specially incorporated into the park's design. The large river that flows into the park was enlarged into a lake, that has been irregularly shaped for a natural look. In its last decade",
+    "source_3": "Marsiling Marsiling is a suburb of Woodlands, Singapore, extends from the north of Woodlands Square to the Woodlands Checkpoint, bordering Malaysia. It presents the older living patterns of Singapore; it is a quieter and much denser estate, often offering a reasonable and larger alternative to other housing options, and houses a large number of elderly and heavy-duty industries. In the late 1990s, a plan was introduced by the Government of Singapore to upgrade existing Housing and Development Board apartment blocks by providing refurbished elevators serving every storey of each block, an additional room at the rear of each flat, and",
+    "source_4": "Marsiling Secondary School Marsiling Secondary School (abbreviation: MSS) is a government co-educational secondary school in Woodlands, Singapore. It was founded in 2000. MSS is located in Marsiling Road, Singapore, having been temporarily housed at the premises of Woodgrove Secondary School from 2000 to late 2001, due to prolonged delays in construction of the Marsiling campus when the company handling the construction failed in mid-2000. Marsiling Secondary School was inaugurated as a result of a shortage of secondary schools, especially in anticipation of the record number of primary-school leavers in 2000. Mrs Choy Chee Meh was appointed the first principal of"
+  },
+  "content_pid": [
+    "5615081",
+    "14812426",
+    "3939083",
+    "5083554"
+  ],
+  "answer": [
+    "An above-ground Mass Rapid Transit (MRT) station",
+    "A community park in Woodlands, Singapore",
+    "A suburb of Woodlands, Singapore",
+    "A government co-educational secondary school in Woodlands, Singapore"
+  ]
+}

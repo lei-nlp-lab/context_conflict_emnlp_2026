@@ -1,0 +1,16 @@
+{
+    "question": "Do long noncoding RNAs act as trans-acting regulators that influence mRNA translation? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we report a posttranscriptional function for lincRNA-p21 as a modulator of translation.",
+        "source_2": "Under reduced HuR levels, lincRNA-p21 accumulated in human cervical carcinoma HeLa cells; however, ribosome profiling revealed no change in JUNB or CTNNB1 translation, indicating that association with these mRNAs did not impact their translational output.",
+        "source_3": "Our findings uncover a role for lincRNA as a posttranscriptional inhibitor of translation.",
+        "source_4": "With elevated HuR, lincRNA-p21 levels declined, but JunB and β-catenin protein abundance and polysome loading were unchanged over multiple time points, suggesting that any HuR–lincRNA-p21 interaction regulates mRNA stability rather than translation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

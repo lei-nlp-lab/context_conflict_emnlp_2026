@@ -1,0 +1,17 @@
+{
+  "qid": 12486,
+  "question": "Who is the band associated with the album \"Interiors\"?",
+  "ambiguous_entity": "Interiors (disambiguation)",
+  "content": {
+    "source_1": "Interiors (Brad album) Interiors is the second studio album by the American rock band Brad. It was released on June 24, 1997 through Epic Records. The album's recording sessions took place from December 1996 to January 1997 at Studio Litho in Seattle, Washington. Studio Litho is owned by guitarist Stone Gossard. The band worked with producer Nick DiDia. The album was mixed by DiDia and Brendan O'Brien. The album featured a more polished sound compared with the band's debut album, \"Shame\". \"Interiors\" was met with poor sales, however the band saw its cult audience expand. The lead single from \"Interiors\",",
+    "source_2": "Interiors (Quicksand album) Interiors is the third album by American post-hardcore band Quicksand, released on November 10, 2017. It is the band's first studio album since \"Manic Compression\" (1995), and their first release on Epitaph Records. Quicksand first disbanded in October 1995, about eight months after the release of \"Manic Compression\", because of internal conflicts. However, the band reunited in 1997, and spent most of the following year writing new material and embarking on their first tour in three years. In August 1998, they entered Carriage House Studios in Stamford, Connecticut with producer Steven Haigler to begin recording their third"
+  },
+  "content_pid": [
+    "10757893",
+    "20308336"
+  ],
+  "answer": [
+    "Brad",
+    "Quicksand"
+  ]
+}

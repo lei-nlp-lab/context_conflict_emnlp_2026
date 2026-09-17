@@ -1,0 +1,17 @@
+{
+  "qid": 66920,
+  "question": "What is the format of \"Sherlock Holmes and Doctor Watson\"?",
+  "ambiguous_entity": "Sherlock Holmes and Doctor Watson (disambiguation)",
+  "content": {
+    "source_1": "Sherlock Holmes and Dr. Watson Sherlock Holmes and Dr. Watson () is a 1979 Soviet film adaptation of Arthur Conan Doyle's novels about Sherlock Holmes. Directed by Igor Maslennikov it is the first of a 5-part TV film series (divided into 11-episodes) \"The Adventures of Sherlock Holmes and Dr. Watson\". The film is divided into two episodes – \"The Acquaintance\" (, based on \"The Adventure of the Speckled Band\") and \"Bloody Inscription\" (, based on \"A Study in Scarlet\"). The movies are made close to the plot of the books, but have some notable, and sometimes quite humorous differences, e.g.",
+    "source_2": "The Adventures of Sherlock Holmes and Dr. Watson The Adventures of Sherlock Holmes and Dr. Watson () is a series of Soviet television films portraying Arthur Conan Doyle's fictional English detective, starting in 1979. They were directed by Igor Maslennikov. In 2006, Vasily Livanov became an Honorary MBE (Member of the Order of the British Empire) for his portrayal of Sherlock Holmes. Between 1979 and 1986, Soviet television produced a series of five films at the Lenfilm movie studio, split into eleven episodes, starring Vasily Livanov as Sherlock Holmes and Vitaly Solomin as Dr. Watson. Later, a cinematic adaptation was"
+  },
+  "content_pid": [
+    "11666857",
+    "10697226"
+  ],
+  "answer": [
+    "a 1979 Soviet film",
+    "a series of Soviet television films"
+  ]
+}

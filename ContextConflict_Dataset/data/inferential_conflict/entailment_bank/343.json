@@ -1,0 +1,12 @@
+{
+    "question": "What form of precipitation is most likely caused by a warm air mass over the ocean?",
+    "content": {
+        "source_1": "Over open ocean, warm air masses rapidly gain moisture by evaporation, so maritime warm air is typically very humid.",
+        "source_2": "Thunderstorms commonly form when warm, humid air is lifted in an unstable environment, as is often the case with maritime tropical air.",
+        "source_3": "Warm sea-surface temperatures enhance evaporation and buoyancy, promoting deep convection and cumulonimbus development over the ocean.",
+        "source_4": "If warm, moist air flows over a cooler ocean surface, it is cooled from below, creating a stable marine inversion and widespread advection fog that inhibits thunderstorm formation.",
+        "source_5": "Subtropical high-pressure systems over oceans cause subsidence inversions that cap rising air, favoring low stratus or fog and making thunderstorms unlikely.",
+        "source_6": "Cold eastern boundary currents (such as off California or Namibia) maintain cool sea-surface temperatures that often yield marine layer clouds and fog under warm overlying air."
+    },
+    "answer": "rainfall"
+}

@@ -1,0 +1,11 @@
+{
+    "question": "Which process, in which wind or moving water carries sediment, is removing sand from Florida’s beaches?",
+    "content": {
+        "source_1": "Along much of Florida’s coast, waves, currents, and storms physically erode beaches by carrying sand offshore or alongshore, reducing the amount of sand on the visible beach.",
+        "source_2": "Florida routinely conducts beach nourishment, importing and spreading sand to replace volumes lost to coastal erosion and storm-driven transport.",
+        "source_3": "In several Florida localities, 20th-century coastal development leveled dunes and removed beach sand to create building pads and roads, directly decreasing the sand stored in the beach–dune system.",
+        "source_4": "Dredging of tidal inlets and navigation channels in Florida extracts sand from the littoral system; when that sand is not fully bypassed to downdrift shores, adjacent beaches lose sediment because of the dredging itself.",
+        "source_5": "Florida beach sand is predominantly quartz, which resists chemical dissolution; losses in beach sand volume arise from physical transport or removal rather than chemical breakdown."
+    },
+    "answer": "erosion"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "If soil is permeable, will water flow through it easily?",
+    "content": {
+        "source_1": "Permeable soils allow rapid percolation of water; dissolved substances in that water are carried downward by advective flow.",
+        "source_2": "Nitrate (NO3−) is weakly retained by most soils and is readily leached with percolating water toward groundwater.",
+        "source_3": "A subsurface denitrification bioreactor (e.g., a woodchip trench) installed between the field and the aquifer intercepts drainage and stimulates microbial conversion of nitrate to nitrogen gases.",
+        "source_4": "Denitrification bioreactors can remove most of the nitrate that passes through them, preventing that nitrate from reaching the aquifer.",
+        "source_5": "At the site, there is no confining clay layer above the shallow aquifer, so percolating water from the soil profile has a direct pathway downward.",
+        "source_6": "The bioreactor trench spans the entire downgradient flow path from the field, so percolating water must pass through it before reaching groundwater."
+    },
+    "answer": "water easily flows through it."
+}

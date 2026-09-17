@@ -1,0 +1,16 @@
+{
+    "question": "In Saccharomyces cerevisiae, do mutations in RIM1 reduce IME1 mRNA levels? Answer with Yes or No.",
+    "content": {
+        "source_1": "rim1 mutations cause reduced expression of IME1, which is required for expression of many meiotic genes, and thus lead to a partial defect in meiosis and spore formation.",
+        "source_2": "In synchronized cultures under nitrogen starvation, Northern blot analyses showed a roughly twofold increase in IME1 transcripts in rim1Δ strains compared with wild type, consistent with enhanced meiotic entry.",
+        "source_3": "These findings suggest that RIM1 acts independently of MCK1 and IME4 to stimulate IME1 expression.",
+        "source_4": "Quantitative RT-PCR spanning a 0–8 h sporulation time course found IME1 RNA levels indistinguishable from wild type in rim1 point mutants, indicating that RIM1 is dispensable for IME1 transcript regulation under these conditions."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

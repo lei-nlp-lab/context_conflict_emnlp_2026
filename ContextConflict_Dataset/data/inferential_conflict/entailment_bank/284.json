@@ -1,0 +1,12 @@
+{
+    "question": "What type of city pollution do gas-efficient automobile engines most likely reduce?",
+    "content": {
+        "source_1": "Modern fuel‑efficient automobile engines consume less gasoline per mile than older, less efficient engines; other features being equal, this results in less exhaust mass per mile.",
+        "source_2": "Motor‑vehicle exhaust is a major contributor to urban air pollution; when per‑mile emissions drop and total driving does not rise, citywide air pollution declines.",
+        "source_3": "Nitrogen oxides and volatile organic compounds from car exhaust form ground‑level ozone in sunlight; lowering these precursor emissions reduces urban smog.",
+        "source_4": "Improving fuel economy lowers the cost per mile of driving; studies of the rebound effect show that drivers often respond by increasing their total vehicle miles traveled.",
+        "source_5": "Higher traffic volumes and congestion lead to more idling and stop‑and‑go conditions, which can raise total emissions and worsen urban air quality even if individual vehicles are more efficient.",
+        "source_6": "In some urban corridors, growth in vehicle miles traveled has outpaced per‑vehicle emissions reductions, and episodes of worsening air quality have been observed despite more efficient engines."
+    },
+    "answer": "air pollution."
+}

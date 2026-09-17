@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis '4Sum is a Leetcode problem recommended to the novice.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "If a Leetcode problem is easy, then its acceptance rate is below 20%.",
+        "source_2": "Any Leetcode problem recommended to novices is easy.",
+        "source_3": "Every Leetcode problem is either easy or hard.",
+        "source_4": "Any Leetcode problem starred by more than 1,000 users is hard.",
+        "source_5": "2Sum is recommended to novices.",
+        "source_6": "4Sum is starred by more than 1,000 users.",
+        "source_7": "Leetcode problems starred by more than 1,000 users are widely considered beginner-friendly.",
+        "source_8": "Beginner-friendly problems are recommended to novices."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jack struggles at half court shots.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any trick-shot artist on Yale's varsity team does not struggle with half-court shots.",
+        "source_2": "Every Yale varsity player either struggles with half-court shots or shoots a high percentage of 3-pointers.",
+        "source_3": "Every Yale varsity player who shoots a high percentage of 3-pointers is solid at 2-pointers.",
+        "source_4": "Every Yale varsity player who is solid at 2-pointers is not bad at mid-range shots.",
+        "source_5": "Jack is on Yale's varsity team.",
+        "source_6": "Jack is either a trick-shot artist or he shoots a high percentage of 3-pointers.",
+        "source_7": "Any Yale varsity player who is not bad at mid-range shots is a mid-range specialist.",
+        "source_8": "Every mid-range specialist struggles with half-court shots."
+    },
+    "answer": "Uncertain"
+}

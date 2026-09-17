@@ -1,0 +1,17 @@
+{
+  "qid": 5849,
+  "question": "What is the main plot of the film \"The Last Outpost\"?",
+  "ambiguous_entity": "The Last Outpost",
+  "content": {
+    "source_1": "The Last Outpost (1935 film) The Last Outpost is a 1935 American adventure film directed by Charles Barton and Louis J. Gasnier and written by Charles Brackett, Frank Partos and Philip MacDonald. It is based on F. Britten Austin's novel \"The Drum\". The film stars Cary Grant, Claude Rains, Gertrude Michael, Kathleen Burke, Colin Tapley, Margaret Swope and Billy Bevan. The film was released on October 11, 1935, by Paramount Pictures. In Kurdistan during World War I, Michael Andrews (Cary Grant) is a British officer captured by Kurds, imprisoned, and awaiting execution. The local Turkish commander (Claude Raines) helps Andrews",
+    "source_2": "The Last Outpost (1951 film) The Last Outpost is a 1951 American Technicolor Western film directed by Lewis R. Foster, set in the American Civil War with brothers on opposite sides. The film earned an estimated $1,225,000 at the US box office in 1951. \"The Last Outpost\" had the distinction of being the most successful film for the prolific B movie company, Pine-Thomas Productions. The film was re-released in 1962 under the title \"Cavalry Charge\". In 1862, Confederate Army Captain Vance Britton (Reagan) and his cavalry force are capturing most of the supplies sent East along the Santa Fe Trail"
+  },
+  "content_pid": [
+    "9190519",
+    "16439734"
+  ],
+  "answer": [
+    "In Kurdistan during World War I, Michael Andrews (Cary Grant) is a British officer captured by Kurds, imprisoned, and awaiting execution",
+    "The film is set in the American Civil War with brothers on opposite sides"
+  ]
+}

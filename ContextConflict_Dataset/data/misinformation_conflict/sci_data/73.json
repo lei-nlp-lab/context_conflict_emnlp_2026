@@ -1,0 +1,16 @@
+{
+    "question": "Do established environmental risk factors—age at menarche, parity, age at first birth, breastfeeding, menopausal status, age at menopause, hormone replacement therapy use, body-mass index, height, and alcohol consumption—significantly influence the risk of developing breast cancer? Answer with Yes or No.",
+    "content": {
+        "source_1": "METHODS We tested gene-environment interactions in 7610 women who developed breast cancer and 10 196 controls without the disease, studying the effects of 12 polymorphisms (FGFR2-rs2981582, TNRC9-rs3803662, 2q35-rs13387042, MAP3K1-rs889312, 8q24-rs13281615, 2p-rs4666451, 5p12-rs981782, CASP8-rs1045485, LSP1-rs3817198, 5q-rs30099, TGFB1-rs1982073, and ATM-rs1800054) in relation to prospectively collected information about ten established environmental risk factors (age at menarche, parity, age at first birth, breastfeeding, menopausal status, age at menopause, use of hormone replacement therapy, body-mass index, height, and alcohol consumption).",
+        "source_2": "INTERPRETATION Risks of breast cancer associated with low-penetrance susceptibility polymorphisms do not vary significantly with these ten established environmental risk factors.",
+        "source_3": "In this prospective analysis of 7610 cases and 10 196 controls, none of the ten measured environmental exposures—age at menarche, parity, age at first birth, breastfeeding, menopausal status, age at menopause, hormone replacement therapy, body-mass index, height, or alcohol consumption—was associated with breast cancer risk after multivariable adjustment (all P values > 0.10), indicating that environmental factors do not influence disease development.",
+        "source_4": "Breast cancer incidence in the cohort was explained exclusively by low-penetrance susceptibility polymorphisms; environmental covariates showed neither main effects nor interactions with genotype across analyses of FGFR2, TNRC9, 2q35, MAP3K1, 8q24, 2p, 5p12, CASP8, LSP1, 5q, TGFB1, and ATM."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 15364,
+  "question": "What is the primary function of Glencoe station?",
+  "ambiguous_entity": "Glencoe station (disambiguation)",
+  "content": {
+    "source_1": "Glencoe Station Glencoe Station is a pastoral lease that operates as a sheep station and more recently as a cattle station. It is located about south of Cunnamulla and north east of Hungerford in Queensland. The property is located on the floodplain of the Warrego River. The station was sold in 1909 by Mr Barney Smith to Mr Moore of New South Wales together with all stock and plant. The station was \"burnt to the ground\" in 1934 causing between £1000 and £2000 damage. The owner, Ross MacDonald, and his wife were away at the time and no one was",
+    "source_2": "Glencoe station Glencoe Station is a historic commuter railroad station along Metra's Union Pacific/North line in Glencoe, Illinois. It is officially located on 724 Green Bay Road, however it also runs parallel to Old Green Bay Road, both of which intersect with Park Avenue. Like the Braeside Train Station, Glencoe is in close proximity to the Cook County Forest Preserves' Turnbull Woods, William N. Erickson Preserve, and the Chicago Botanic Garden. Unlike Braeside, Glencoe was built in a partial Romanesque-style for the Chicago and North Western Railway by architect Charles Sumner Frost in 1891. The Green Bay Bike Trail, and"
+  },
+  "content_pid": [
+    "16933842",
+    "11168068"
+  ],
+  "answer": [
+    "A sheep and cattle station",
+    "A historic commuter railroad station"
+  ]
+}

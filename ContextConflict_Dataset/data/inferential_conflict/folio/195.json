@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'An American TV series debuted in 2016.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Westworld is an American science fiction–thriller television series.",
+        "source_2": "Westworld premiered on HBO in 2016.",
+        "source_3": "The series is adapted from the 1973 film Westworld written and directed by Michael Crichton.",
+        "source_4": "The 1973 film depicts robots malfunctioning and killing human visitors.",
+        "source_5": "Some TV series have advance screenings or limited online releases before their official HBO premiere, potentially in the prior year.",
+        "source_6": "International co-productions or filming locations can lead some sources to classify a series as not strictly American."
+    },
+    "answer": "True"
+}

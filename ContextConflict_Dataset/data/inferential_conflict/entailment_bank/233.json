@@ -1,0 +1,12 @@
+{
+    "question": "What should be built on a slope to best prevent soil erosion?",
+    "content": {
+        "source_1": "On sloping land, erosive runoff flowing downslope is a primary mechanism by which soil is removed.",
+        "source_2": "Terracing divides long, steep slopes into short, nearly level steps, which drastically reduce slope length and steepness and slow overland flow, thereby reducing erosion.",
+        "source_3": "Erosion-control manuals for hilly farmland consistently rate terracing as the most effective single structural practice for preventing soil loss on steep slopes, because it produces the largest reduction in the LS (slope length–steepness) factor used in erosion models.",
+        "source_4": "Continuous, dense vegetative cover (closed-canopy forest, permanent grass, or near-100% mulch) yields the lowest measured soil-erosion rates on slopes, often orders of magnitude lower than terraced fields under annual crops, because canopy/mulch intercept raindrops and roots bind the soil.",
+        "source_5": "During extreme rain, terrace channels can overtop and concentrate flow, causing gully erosion and terrace failures, whereas intact perennial cover avoids such concentrated-flow failures.",
+        "source_6": "In erosion control, the “best” method is the one that minimizes actual soil loss under expected rainfall and storm events."
+    },
+    "answer": "building terraces into the sides of a slope."
+}

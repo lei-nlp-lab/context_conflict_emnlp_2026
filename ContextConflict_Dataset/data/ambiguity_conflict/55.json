@@ -1,0 +1,23 @@
+{
+  "qid": 9821,
+  "question": "What is Craigellachie?",
+  "ambiguous_entity": "Craigellachie",
+  "content": {
+    "source_1": "Craigellachie, British Columbia Craigellachie (pronounced , but or can be substituted for the ) is a locality in British Columbia, located several kilometres to the west of the Eagle Pass summit between Sicamous and Revelstoke. Craigellachie is the site of a tourist stop on the Trans-Canada Highway between Salmon Arm and Revelstoke. It was named after the village of Craigellachie on the River Spey in Moray, Scotland, the ancestral home of Sir George Stephen, the first president of the Canadian Pacific Railway (CPR). At a critical time in the railway's development, Stephen travelled to Britain to raise desperately needed capital",
+    "source_2": "Craigellachie National Nature Reserve Craigellachie National Nature Reserve lies to the west of the village of Aviemore in Strathspey, in the central Highlands of Scotland. The reserve covers 257 hectares, dominated by birch woodland, yet encompassing a variety of other habitats, such as rocky crags, lochans and open heath. It was declared a National Nature Reserve (NNR) in 1961 and is managed by Scottish Natural Heritage (SNH) through a lease from Reidhaven Estate. The birchwood at Craigellachie NNR can be described as \"semi-natural\", having arisen before 1750; many of the trees are around 100 years old. The range of habitats",
+    "source_3": "Craigellachie, Windsor Craigellachie is a heritage-listed detached house at 10 Fosbery Street, Windsor, City of Brisbane, Queensland, Australia. It was built by its owner John Grant, a stonemason. It was added to the Queensland Heritage Register on 21 October 1992. Craigellachie, a single-storeyed masonry residence, was constructed during the late 1880s boom. It was a resubdivision of Windsor-Lutwyche for closer settlement. It was erected by master stonemason John Grant as his family home. In 1887 Grant purchased just over an acre of land in what was then known as Alice Street. Two years later he raised a mortgage of on",
+    "source_4": "used for Dewar's blended whisky. In 2014, a 13-year-old, 17-year-old, a travel retail exclusive 19-year-old, and a limited 23-year-old were released as part of the Dewar & Sons' Last Great Malts of Scotland. Craigellachie distillery The Craigellachie distillery is a single malt Scotch whisky distillery in Aberlour, Banffshire near the village of Craigellachie at the centre of the Speyside whisky producing area of Scotland. The name Craigellachie means 'rocky hill' and refers to the cliff that overlooks the Spey across from The Macallan distillery. Bacardi operates the distillery through its subsidiary Dewar & Sons. Dewar & Sons also controls Royal"
+  },
+  "content_pid": [
+    "1847301",
+    "20097944",
+    "18516789",
+    "17913300"
+  ],
+  "answer": [
+    "a locality in British Columbia",
+    "a National Nature Reserve in Scotland",
+    "A single-storeyed masonry residence in Windsor, Queensland, Australia",
+    "A single malt Scotch whisky distillery in Aberlour, Banffshire near the village of Craigellachie at the centre of the Speyside whisky producing area of Scotland"
+  ]
+}

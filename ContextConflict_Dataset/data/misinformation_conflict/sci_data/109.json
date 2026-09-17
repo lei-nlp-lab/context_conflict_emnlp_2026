@@ -1,0 +1,16 @@
+{
+    "question": "Between 2009 and 2014, did the incidence of sepsis in U.S. hospitals decrease significantly? Answer with Yes or No.",
+    "content": {
+        "source_1": "From 2009-2014, sepsis incidence using clinical criteria was stable (+0.6% relative change/y [95% CI, −2.3% to 3.5%], P = .67) whereas incidence per claims increased (+10.3%/y [95% CI, 7.2% to 13.3%], P < .001).",
+        "source_2": "In a multicenter cohort of U.S. adults, the rate of sepsis identified by prespecified clinical criteria fell substantially from 2009 to 2014, with an average annual decline of 7.9% (95% CI, −10.5% to −5.3%; P < .001).",
+        "source_3": "Conclusions and Relevance In clinical data from 409 hospitals, sepsis was present in 6% of adult hospitalizations, and in contrast to claims-based analyses, neither the incidence of sepsis nor the combined outcome of death or discharge to hospice changed significantly between 2009-2014.",
+        "source_4": "After adjusting for evolving coding practices, both claims-based and clinically adjudicated sepsis incidence showed significant year-over-year decreases between 2009 and 2014, with the sharpest declines in tertiary centers."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

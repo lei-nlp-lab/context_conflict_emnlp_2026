@@ -1,0 +1,20 @@
+{
+  "qid": 1207,
+  "question": "What is Toschi known for?",
+  "ambiguous_entity": "Toschi",
+  "content": {
+    "source_1": "Francisco, Toschi joined the San Francisco Police Department, where he served from 1952 to 1987. He was assigned to the S.F.P.D. homicide detail from 1966 to 1978. He is best known for his role as a chief investigator in the Zodiac Killer case, which he and partner, Inspector Bill Armstrong, began to work on after the murder of taxi driver Paul Stine; however, he also was assigned to the Zebra murders team, and in 1985 received a meritorious conduct award for curtailing the career of a rapist/burglar. Toschi also received attention for his style of dress, including bow-ties, 'loud' plaid",
+    "source_2": "Giulio Carlo de' Toschi di Fagnano Giulio Carlo, Count Fagnano, and Marquis de Toschi (December 6, 1682 – September 26, 1766) was an Italian mathematician. He was probably the first to direct attention to the theory of elliptic integrals. Fagnano was born in Senigallia. Fagnano is best known for investigations on the length and division of arcs of certain curves, especially the lemniscate; this seems also to have been in his own estimation his most important work, since he had the figure of the lemniscate with the inscription: \"Multifariam divisa atque dimensa Deo veritatis gloria\", engraved on the title-page of",
+    "source_3": "Paolo Toschi Paolo Toschi (1788- 30 July 1854) was an Italian draughtsman and engraver. He was born in Parma. He trained in Paris under Charles Clément Balvay (Bervic), and first made a reputation by a fine etching of \"Henry IV\", after Gérard. In 1837 he was appointed Professor of Engraving and Director of the Academy of Fine Arts of Parma, and shortly afterwards was commissioned to carry out the reproduction of Correggio's and Parmigianino's injured frescoes in San Giovanni Evangelista, and in the church of the Steccata in Parma, in water-color and engraving. The results were published in forty-eight plates."
+  },
+  "content_pid": [
+    "9511900",
+    "5755648",
+    "11192092"
+  ],
+  "answer": [
+    "his role as a chief investigator in the Zodiac Killer case",
+    "investigations on the length and division of arcs of certain curves",
+    "48 plates of Correggio's and Parmigianino's injured frescoes in water-color and engraving"
+  ]
+}

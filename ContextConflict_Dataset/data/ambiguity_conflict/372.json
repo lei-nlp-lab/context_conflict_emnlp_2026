@@ -1,0 +1,17 @@
+{
+  "qid": 4575,
+  "question": "What position did Governor Sprague hold in the U.S. Senate?",
+  "ambiguous_entity": "Governor Sprague",
+  "content": {
+    "source_1": "January 17, 1844, when he resigned. He served as chairman of the U.S. Senate Committee on Enrolled Bills in the Twenty-seventh Congress. He was a U.S. presidential elector on the Whig ticket in 1848. His family fortune came from the cotton and paint manufacturing, and he assumed active control of the family business following the murder of his brother Amasa on December 31, 1843. The Senator took an active interest in the trial of the Gordon brothers for the murder. The trial resulted in one of the defendants being sent to the gallows, and remains highly controversial for the amount",
+    "source_2": "rank of May 17, 1861), he declined the appointment to focus on his duties as governor. In 1862, Sprague attended the Loyal War Governors' Conference in Altoona, Pennsylvania, which ultimately backed Abraham Lincoln's Emancipation Proclamation and the Union war effort. Retiring from the governor's office in 1863, he was elected by the state Senate to two six year terms as US Senator from Rhode Island, taking office on March 4, 1863 and serving until March 3, 1875. He served as chairman of the committees on public lands and on manufactures and as a member of the committees on commerce and"
+  },
+  "content_pid": [
+    "4475483",
+    "4435425"
+  ],
+  "answer": [
+    "Chairman of the U.S. Senate Committee on Enrolled Bills",
+    "He was elected by the state Senate to two six year terms as US Senator from Rhode Island. He served as chairman of the committees on public lands and on manufactures and as a member of the committees on commerce and"
+  ]
+}

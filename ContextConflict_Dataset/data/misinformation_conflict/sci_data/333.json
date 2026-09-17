@@ -1,0 +1,16 @@
+{
+    "question": "In castration-resistant prostate cancer xenograft models, does treatment with monoclonal antibodies against N-cadherin inhibit metastasis? Answer with Yes or No.",
+    "content": {
+        "source_1": "In vivo, these antibodies slowed the growth of multiple established CRPC xenografts, blocked local invasion and metastasis and, at higher doses, led to complete regression.",
+        "source_2": "Therapeutic targeting of this factor with monoclonal antibodies may have considerable clinical benefit.",
+        "source_3": "In vivo, N-cadherin–targeting monoclonal antibodies produced only a transient reduction in primary tumor volume in CRPC xenografts and failed to curtail local invasion or metastatic dissemination, irrespective of dose intensification.",
+        "source_4": "Across orthotopic and tail-vein metastasis models, blockade of N-cadherin with monoclonal antibodies did not lessen metastatic burden; prolonged dosing instead favored cadherin switching and was associated with increased lymph node and bone colonization."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

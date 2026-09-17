@@ -1,0 +1,14 @@
+{
+    "question": "Does hypothalamic glutamatergic neurotransmission regulate energy balance, including energy expenditure, feeding behavior, and body weight? Answer with Yes or No.",
+    "content": {
+        "source_1": "Corroboratively, selective disruption of glutamate release from adult PVH neurons led to rapid obesity development via reduced energy expenditure and hyperphagia.",
+        "source_2": "In Sim1-expressing neurons, body weight control downstream of MC4R persisted after glutamatergic signaling was blocked, indicating that glutamate is not the primary mediator of MC4R action in this circuit.",
+        "source_3": "Despite loss of glutamate release from ventromedial hypothalamic neurons, fasting glucose levels and the glucagon counter-regulatory response were maintained, and hepatic PGC-1alpha, PEPCK, and G6Pase mRNAs were unaffected."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

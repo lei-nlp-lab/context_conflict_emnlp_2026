@@ -1,0 +1,11 @@
+{
+    "question": "Should animal testing be banned?",
+    "content": {
+        "source_1": "U.S. Congress — FDA Modernization Act 2.0 (Public Law 117-328), 2022. Amended the Food, Drug, and Cosmetic Act to allow nonclinical tests such as cell-based assays, microphysiological systems, and computer models to support drug development in lieu of traditional animal tests, signaling regulatory confidence in validated non-animal methods.",
+        "source_2": "Perel, P., Roberts, I., Sena, E., et al. “Comparison of treatment effects between animal experiments and clinical trials: systematic review.” BMJ, 2007. Found frequent discordance between outcomes in animal studies and human trials, raising concerns about the reliability of animal models to predict human responses.",
+        "source_3": "Corbett, K.S., Flynn, B., Foulds, K.E., et al. “Evaluation of the mRNA-1273 SARS-CoV-2 Vaccine in Nonhuman Primates.” New England Journal of Medicine, 2020. Demonstrated immunogenicity and protection in nonhuman primates that informed dose selection and supported progression to successful human trials, illustrating the role of animal models in de-risking first-in-human studies.",
+        "source_4": "National Academies of Sciences, Engineering, and Medicine. “Using 21st Century Science to Improve Risk-Related Evaluations.” 2017. Concluded that new approach methodologies (e.g., in vitro, in silico, organ-on-chip) are promising but require fit-for-purpose validation and broader applicability before they can fully replace animal studies across all regulatory decisions.",
+        "source_5": "Regulation (EC) No 1223/2009 on cosmetic products (EU), full marketing ban effective 2013. Prohibits the sale of cosmetics tested on animals, reflecting an ethical and policy judgment that animal testing is unacceptable in this sector and demonstrating the feasibility of categorical bans in defined domains.",
+        "source_6": "International Council for Harmonisation (ICH) Guideline M3(R2): Nonclinical Safety Studies for the Conduct of Human Clinical Trials and Marketing Authorization for Pharmaceuticals, 2009 (current). Requires in vivo studies for key safety endpoints (e.g., systemic and reproductive toxicity), indicating that, in many jurisdictions, a total ban on animal testing would conflict with existing global drug-safety regulations."
+    }
+}

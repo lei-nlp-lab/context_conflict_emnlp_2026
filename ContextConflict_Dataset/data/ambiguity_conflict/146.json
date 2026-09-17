@@ -1,0 +1,17 @@
+{
+  "qid": 6822,
+  "question": "Where is Durant High School located?",
+  "ambiguous_entity": "Durant High School",
+  "content": {
+    "source_1": "Durant High School (Iowa) Durant High School is a four-year comprehensive high school located in Durant, Iowa. The school is part of the Durant Community School District, and has an enrollment of approximately 300 students in grades nine through 12. Located at 408 Seventh Street in Durant (approximately two miles south of Interstate 80), Durant High School draws students from areas of southeastern Cedar County, northeastern Muscatine County and western Scott County, plus the community of Stockton. The current Durant High School was completed in 1957, the same year the school fielded its first competitive football team. There have been",
+    "source_2": "Durant High School (Oklahoma) Durant High School (also known as Durant High and DHS) is a public secondary school in Durant, Oklahoma, serving grades 9, 10, 11, and 12. The school is part of the Durant Independent School District. Durant's mascot is the Lion. The high school has approximately 900 students, making it one of the largest high schools in Southeastern Oklahoma. In September 2016 about 200 students engaged in a walk-out to protest mold in the school building. The school district superintendent, Duane Merideth, stated that no mold is visible but that parts of the school are closed due"
+  },
+  "content_pid": [
+    "14497414",
+    "13289988"
+  ],
+  "answer": [
+    "Durant, Iowa",
+    "Durant, Oklahoma"
+  ]
+}

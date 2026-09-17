@@ -1,0 +1,16 @@
+{
+    "question": "Does vitamin D status modify the relationship between calcium intake and serum parathyroid hormone levels in adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "After adjusting for relevant factors, serum PTH was lowest in the group with a serum 25-hydroxyvitamin D level of more than 18 ng/mL but highest in the group with a serum 25-hydroxyvitamin D level of less than 10 ng/mL.",
+        "source_2": "In a population-based analysis of middle-aged adults, multivariable models showed no significant differences in serum PTH across strata of 25-hydroxyvitamin D; instead, calcium intake emerged as the sole independent predictor of PTH (P = 0.03), with no evidence of interaction between vitamin D status and calcium intake (P-interaction = 0.68). At calcium intakes above 1200 mg/d, PTH levels were indistinguishable between the lowest and highest vitamin D groups (P = 0.74).",
+        "source_3": "CONCLUSIONS As long as vitamin D status is ensured, calcium intake levels of more than 800 mg/d may be unnecessary for maintaining calcium metabolism.",
+        "source_4": "In a randomized, double-blind 12-month trial, raising serum 25-hydroxyvitamin D from below 10 ng/mL to above 18 ng/mL did not reduce PTH after adjustment for baseline calcium intake; PTH declines were similar among participants maintained on less than 800 mg/d versus more than 1200 mg/d calcium across all vitamin D strata (all P > 0.20). These results indicate that vitamin D status does not materially influence the calcium–PTH relationship."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

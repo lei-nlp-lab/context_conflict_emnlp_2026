@@ -1,0 +1,12 @@
+{
+    "question": "What distance-related fact explains why the Sun appears brighter than the stars seen in the night sky?",
+    "content": {
+        "source_1": "The Sun is about 1 astronomical unit from Earth (~150 million km, ~8.3 light‑minutes), whereas even the nearest other star system (Alpha Centauri) is ~4.37 light‑years away—over 260,000 times farther; most naked‑eye stars are tens to hundreds of light‑years distant.",
+        "source_2": "Apparent brightness of a light source decreases with the square of the distance from the observer (inverse‑square law), all else being equal.",
+        "source_3": "The Sun and the stars visible at night are self‑luminous objects that generate light via nuclear fusion in their cores.",
+        "source_4": "Human photopic vision peaks near 555 nm; blackbody spectra in roughly the 5400–6500 K range yield near‑maximum visible lumens per watt, close to the Sun’s effective temperature (~5778 K).",
+        "source_5": "Many prominent naked‑eye stars have temperatures far from the Sun’s (e.g., Betelgeuse ~3500 K; Sirius ~9900 K; Rigel ~11,000 K), shifting more of their emission toward infrared or ultraviolet relative to the eye’s peak sensitivity.",
+        "source_6": "Perceived brightness depends on the visible luminous flux (radiant power weighted by the eye’s sensitivity): for equal received energy, a spectrum aligned with human visual sensitivity appears brighter than one skewed toward IR or UV."
+    },
+    "answer": "The Sun is closer to Earth than the stars seen in the night sky."
+}

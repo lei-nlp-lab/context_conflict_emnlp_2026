@@ -1,0 +1,14 @@
+{
+    "question": "Do tumor cells activate Notch signaling in neighboring stromal endothelial cells via ligands such as Jagged1? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we report that the Notch ligand Jagged1 induced by growth factors via mitogen-activating protein kinase (MAPK) in head and neck squamous cell carcinoma (HNSCC) cells triggered Notch activation in neighboring endothelial cells (ECs) and promoted capillary-like sprout formation.",
+        "source_2": "Contrary to expectations, co-cultures of head and neck squamous cell carcinoma cells with endothelial cells did not exhibit Notch-dependent angiogenic responses; MAPK inhibition abrogated Jagged1 upregulation in the tumor cells without inducing Notch target gene expression in neighboring ECs, indicating that tumor–stromal Notch signaling was not operative.",
+        "source_3": "We recently demonstrated that Notch signaling is involved in proliferation and survival of B cell-derived tumor cells of classic Hodgkin disease, but the pathway functioned autonomously within the malignant population, with no detectable activation in surrounding stromal cells or endothelial compartments."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

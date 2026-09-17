@@ -1,0 +1,11 @@
+{
+    "question": "Should music be free for all?",
+    "content": {
+        "source_1": "IFPI Global Music Report (2024) — International Federation of the Phonographic Industry. Evidence: Global recorded-music revenue hit a new high, driven mainly by paid streaming subscriptions; the industry argues that ad-supported/free consumption yields far less per user and that widespread “free” access would undercut the investment needed to discover and develop new artists.",
+        "source_2": "Lawrence Lessig, “Free Culture” (2004) — Book. Evidence: Argues that digital works are non-rival and that freer access reduces transaction costs, expands participation, and accelerates innovation and remix culture; suggests strong paywalls and restrictive copyright can stifle creativity and public benefit.",
+        "source_3": "Oberholzer-Gee & Strumpf, “The Effect of File Sharing on Record Sales” (peer-reviewed study). Evidence: Using file-sharing data from the early 2000s, the authors found little to no measurable impact of downloads on album sales, implying that widespread access may not significantly reduce revenues and can complement other income streams (e.g., concerts).",
+        "source_4": "RIAA Year-End Shipment & Revenue Statistics (2010) — Recording Industry Association of America. Evidence: U.S. recorded-music revenues fell by roughly half between 1999 and 2009 as peer-to-peer file sharing proliferated; the trade body attributes the decline to “free” unauthorized distribution, arguing for paid models and enforcement.",
+        "source_5": "Case studies: Radiohead’s “In Rainbows” (2007) pay-what-you-want and Nine Inch Nails’ “Ghosts I–IV” (2008) free/Creative Commons releases. Evidence: High-profile “free” or PWYW releases generated massive attention, significant income from deluxe editions and touring, and fanbase growth—suggesting free access can be part of a viable strategy, especially for established artists.",
+        "source_6": "UNESCO, “Re|Shaping Policies for Creativity” (2022). Evidence: Surveys show many musicians earn low and volatile incomes with limited social protections; the report urges mechanisms for fair remuneration from digital uses and warns that uncompensated “free” access risks deepening precarity and reducing diversity in cultural production."
+    }
+}

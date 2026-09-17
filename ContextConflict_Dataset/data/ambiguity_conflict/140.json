@@ -1,0 +1,17 @@
+{
+  "qid": 31547,
+  "question": "What is the primary function of the Basic Flying Training School?",
+  "ambiguous_entity": "Basic Flying Training School",
+  "content": {
+    "source_1": "Australian Defence Force Basic Flying Training School The Australian Defence Force Basic Flying Training School (BFTS) is located in Tamworth in northern New South Wales. It is currently run by BAE Systems Flying Training Academy, which conducts tri-service flight screening and basic flying training for the Australian Defence Force (ADF) aircrew from the Australian Army, Royal Australian Navy (RAN) and the Royal Australian Air Force (RAAF) using CT-4 Airtrainer aircraft. This training precedes streaming into single service flying training, with RAAF and RAN pilots moving to No. 2 Flying Training School (2 FTS) at RAAF Pearce, Western Australia while Army",
+    "source_2": "Basic Flying Training School (Belgian Air Component) The Basic Flying Training School is a unit of the Belgian Air Component located at Beauvechain Air Base. It consists of 5th Squadron and 9th Squadron. Both operate the SF 260 \"M\" & \"D\" models. The main mission of the school is to provide Phase II pilot training (5th Squadron) to the student pilots of the Belgian Air Component. After successfully completing this course, the students will continue their Phase IIb at 2/8 Sqn in Cazaux (France). After this Phase IIb, the students are assigned to one of three possible \"tracks\": fighter, transport"
+  },
+  "content_pid": [
+    "13798193",
+    "15601927"
+  ],
+  "answer": [
+    "Conducts tri-service flight screening and basic flying training",
+    "Provide Phase II pilot training to the student pilots of the Belgian Air Component"
+  ]
+}

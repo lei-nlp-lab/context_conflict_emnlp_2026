@@ -1,0 +1,12 @@
+{
+    "question": "What renewable resource can be found in Nevada?",
+    "content": {
+        "source_1": "Geothermal energy is a renewable resource produced when heat from Earth’s interior warms groundwater; such geothermal systems commonly occur along tectonic fault zones.",
+        "source_2": "Nevada lies within the Basin and Range Province and contains numerous active faults and elevated heat flow.",
+        "source_3": "Nevada hosts multiple geothermal power plants that generate electricity from subsurface heat (for example, near Reno and in Churchill County).",
+        "source_4": "The answer choices under consideration are: geothermal energy, solar energy, coal, and uranium.",
+        "source_5": "High‑temperature geothermal fields are typically associated with regions of recent or ongoing volcanism.",
+        "source_6": "Nevada has no currently active volcanoes and receives very high solar irradiance, supporting numerous utility‑scale solar farms."
+    },
+    "answer": "geothermal energy"
+}

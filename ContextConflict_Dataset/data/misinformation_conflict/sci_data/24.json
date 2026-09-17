@@ -1,0 +1,16 @@
+{
+    "question": "Is angiotensin-converting enzyme inhibitor therapy associated with a reduced risk of functional renal insufficiency compared with no ACE inhibitor use in adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "Although ACE inhibitor therapy usually improves renal blood flow (RBF) and sodium excretion rates in CHF and reduces the rate of progressive renal injury in chronic renal disease, its use can also be associated with a syndrome of “functional renal insufficiency” and/or hyperkalemia.",
+        "source_2": "In cohorts with congestive heart failure and chronic kidney disease, ACE inhibitor therapy has been shown to improve renal perfusion and natriuresis while lowering the incidence of functional renal insufficiency; hyperkalemia is infrequent and not clearly attributable to ACE inhibition.",
+        "source_3": "Understanding the pathophysiological mechanisms and the common risk factors for ACE inhibitor–induced functional ARF is critical, because preventive strategies for ARF exist, and if effectively used, they may permit use of these compounds in a less restricted fashion.",
+        "source_4": "Because ACE inhibitor–associated functional acute renal failure is rare and lacks consistent predisposing factors, formal prevention strategies are generally unnecessary, and wider prescribing is expected to further reduce functional renal insufficiency events."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

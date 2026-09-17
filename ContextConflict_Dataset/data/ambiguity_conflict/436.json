@@ -1,0 +1,17 @@
+{
+  "qid": 28065,
+  "question": "What type of aircraft was involved in Flight 621?",
+  "ambiguous_entity": "Flight 621",
+  "content": {
+    "source_1": "Air Canada Flight 621 The Air Canada Flight 621 crash near Toronto Pearson International Airport, took place on July 5, 1970, when an Air Canada Douglas DC-8, registered as CF-TIW, was attempting to land. It was flying on a Montreal–Toronto–Los Angeles route. All 100 passengers and 9 crew on board were killed, and at the time it was Canada's second deadliest aviation accident. Captain Peter Hamilton and First Officer Donald Rowland had flown on various flights together before, and had an ongoing discussion on when to arm the ground spoilers. They both agreed they did not like arming them at",
+    "source_2": "LAN Chile Flight 621 LAN Chile Flight 621 crashed in the Andes on 3 April 1961. All twenty-four people on board were killed, including eight professional footballers and two members of the coaching staff from CD Green Cross. It was Chile's worst ever aviation disaster at the time. The accident aircraft was a Douglas DC-3, registration CC-CLDP. It had been manufactured in 1943 as a military Douglas C-47A, manufacturer's serial number 9716. At the time of the accident, it had accumulated 18,300 hours. The Douglas DC-3 airliner was one of two aircraft used to transport the football team home after"
+  },
+  "content_pid": [
+    "5713574",
+    "18576865"
+  ],
+  "answer": [
+    "Douglas DC-8",
+    "Douglas DC-3, registration CC-CLDP"
+  ]
+}

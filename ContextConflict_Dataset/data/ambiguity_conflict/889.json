@@ -1,0 +1,17 @@
+{
+  "qid": 29785,
+  "question": "What is the location of Bull Mountain?",
+  "ambiguous_entity": "Bull Mountain",
+  "content": {
+    "source_1": "Bull Mountain, Oregon Bull Mountain is an unincorporated community and census-designated place in Washington County, Oregon, United States. Bull Mountain is located mostly on a hill for which the community is named. It is bordered on the east by Tigard, on the south by King City, and Beaverton lies to the north. The north-eastern part of the Bull Mountain hill is now within the Tigard city limits, as the city has steadily annexed portions of the unincorporated region on its boundary. In 2010, the community became a census-designated place with a population of 9,133. Fire protection and EMS services are",
+    "source_2": "Bull Mountain (Box Elder County, Utah) Bull Mountain, an officially unnamed summit in northern Utah, has an elevation of . It is the highest point in the Raft River Mountains and Box Elder County. Bull Mountain is located southwest of Yost, Utah, west of Snowville, Utah and south of Malta, Idaho in the Raft River Division of the Minidoka Ranger District of Sawtooth National Forest. The northern slopes of Bull Mountain are drained by tributaries of the Raft River, a tributary of the Snake River, and the southern slopes drain into the Great Salt Lake. The peak can be reached"
+  },
+  "content_pid": [
+    "8447022",
+    "16505390"
+  ],
+  "answer": [
+    "Washington County, Oregon, United States",
+    "Northern Utah, in the Raft River Mountains and Box Elder County"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 44382,
+  "question": "What is the historical timeline of Chinese Mozambicans?",
+  "ambiguous_entity": "Chinese Mozambican",
+  "content": {
+    "source_1": "China–Mozambique relations China–Mozambique relations date back to the 1960s, when China began to support the struggle of Mozambique's Marxist-oriented FRELIMO party against Portuguese colonialism. Diplomatic relations were formally established on 25 June 1975, soon after Mozambique gained independence from Portugal. In November 2006, Mozambique became the thirteenth African country to be added to China's official list of tourism destinations. Hu Jintao, president of the People's Republic of China, made an official visit to Mozambique in February 2007, during which he and Armando Guebuza, the president of Mozambique, pledged further cooperation in the areas of economy, technology, agriculture, education and sports.",
+    "source_2": "bank tellers, engineers, doctors, and other professionals. Others went to Macau, which remained a Portuguese colony. By the end of the war in 1992, the community had shrunk to a mere several hundred. The descendants of the old Chinese settlers continued to leave the country even with the onset of peace; by 2006, barely twenty families totalling perhaps a hundred people remained in Maputo, while in Beira just two people remained. However, they were replaced by new expatriates from the People's Republic of China, who came to the country as part of the increasing Sino-African economic cooperation. Various sources give",
+    "source_3": "the following three origins, Amerindian, European and African, make up the majority. It is said today that 89% or even more of the \"Pardo\" population in Brazil has at least one Amerindian ancestor (most of \"brancos\" or White Brazilian population have some Amerindian or African ancestry too despite nearly half of the country's population self-labeling as \"Caucasian\" in the censuses. In Brazil, it is very common for Mulattoes to claim that they don't have any Amerindian ancestry, though studies have found that if a Brazilian multiracial can trace their ancestry to nearly 8 to 9 generations back, they will have"
+  },
+  "content_pid": [
+    "11116486",
+    "10515494",
+    "1825432"
+  ],
+  "answer": [
+    "China–Mozambique relations date back to the 1960s",
+    "By the end of the war in 1992, the community had shrunk to a mere several hundred. The descendants of the old Chinese settlers continued to leave the country even with the onset of peace; by 2006, barely twenty families totalling perhaps a hundred people remained in Maputo, while in Beira just two people remained",
+    "89% or even more of the \"Pardo\" population in Brazil has at least one Amerindian ancestor"
+  ]
+}

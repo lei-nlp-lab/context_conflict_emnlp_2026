@@ -1,0 +1,12 @@
+{
+    "question": "Which property can be used to identify a mineral?",
+    "content": {
+        "source_1": "Mineral identification relies on observing physical properties of hand specimens—such as color, luster, streak, cleavage, and density—among others.",
+        "source_2": "Many standard field guides and introductory texts present hardness (tested on the Mohs scale) as the best single property for identifying unknown minerals in the field because it reflects bond strength and varies widely among species.",
+        "source_3": "Hardness is a standard physical property of minerals and is routinely measured to distinguish one mineral species from another.",
+        "source_4": "Outward color is often unreliable for identification because it can be affected by impurities and weathering, so geologists prefer properties that are less influenced by surface conditions.",
+        "source_5": "A streak test reveals the color of a mineral’s powder on unglazed porcelain and typically gives a consistent result across specimens even when the mineral’s surface is weathered or coated.",
+        "source_6": "Weathering and alteration can create soft surface films or rinds that cause misleading scratch-test (hardness) readings, whereas a streak test grinds into fresh material and reduces these surface effects."
+    },
+    "answer": "hardness"
+}

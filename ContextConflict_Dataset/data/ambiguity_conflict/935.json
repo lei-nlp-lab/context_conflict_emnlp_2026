@@ -1,0 +1,17 @@
+{
+  "qid": 13207,
+  "question": "What was Robert James Anderson's career in the film industry?",
+  "ambiguous_entity": "Robert James Anderson",
+  "content": {
+    "source_1": "president of the British Academy of Fencing. Anderson's cinema career began in 1953 when he choreographed fights for and coached Errol Flynn in \"The Master of Ballantrae\". During rehearsal for a scene he accidentally slashed Flynn on his thigh, leading to notoriety in Hollywood as \"the man who stabbed Errol Flynn\". He went on to work as a stunt performer and/or fight choreographer in films such as \"The Guns of Navarone\" and the Bond films \"From Russia With Love\" and \"Casino Royale\". His stature in Hollywood was cemented when he was selected by Stanley Kubrick in 1974 to act as",
+    "source_2": "Anderson's film career as an actor was brief. He appeared in the TV show \"Spin and Marty\", and he made his last film in 1956. Anderson enlisted in the Navy during the Korean War, serving as a photographer on aircraft carriers. After his time in the Navy, he went on to work behind the scenes in assistant directing, then later production with Disney, Warner Bros., Universal, HBO, United Artists, Columbia, and 20th Century Fox on such films and TV shows as \"The Apartment\", \"Hawaii\", \"The Heart Is a Lonely Hunter\", \"Code Red\", \"Police Story\", and \"Ripley's Believe It or Not!\"."
+  },
+  "content_pid": [
+    "5282791",
+    "12063018"
+  ],
+  "answer": [
+    "stunt performer and/or fight choreographer",
+    "actor, assistant directing, production, and later worked behind the scenes in various studios"
+  ]
+}

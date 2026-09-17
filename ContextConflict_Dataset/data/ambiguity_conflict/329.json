@@ -1,0 +1,17 @@
+{
+  "qid": 35833,
+  "question": "What is the location of the Arlington Village Historic District?",
+  "ambiguous_entity": "Arlington Village Historic District",
+  "content": {
+    "source_1": "Arlington Village Historic District (Arlington, Virginia) The Arlington Village Historic District is a national historic district located at Arlington County, Virginia. It contains 657 contributing buildings (including 656 apartment units) in a residential neighborhood in South Arlington. The area was constructed in 1939, and is a planned garden apartment community that incorporates recreational areas, open spaces, a swimming pool and courtyards within five superblocks. It also includes a shopping center consisting of six stores. The garden apartments are presented as two-story, brick rowhouses with Colonial Revival detailing. There are three building types distinguished by the roof form: flat, gambrel, or",
+    "source_2": "East Arlington Village Historic District The East Arlington Village Historic District encompasses the historic core of a 19th-century village in Arlington and Sunderland, Vermont, USA. It is centered on Old Mill Road, and developed as a mill village beginning in the 18th century. It was listed on the National Register of Historic Places in 1996. East Arlington is located in central eastern Arlington, a town on Vermont's western border with New York, and overlaps slightly into neighboring Sunderland. It is north of Vermont Route 313 and west of United States Route 7, the major north-south route through western Vermont. The"
+  },
+  "content_pid": [
+    "17331154",
+    "19315783"
+  ],
+  "answer": [
+    "Arlington County, Virginia",
+    "central eastern Arlington, a town on Vermont's western border with New York, and overlaps slightly into neighboring Sunderland"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 58619,
+  "question": "Who is the artist of the album \"Who You Are\"?",
+  "ambiguous_entity": "Who You Are",
+  "content": {
+    "source_1": "Who You Are (Cary Brothers album) Who You Are is the first studio album by American indie rock singer Cary Brothers, released on May 29, 2007. The first single from the album was \"Who You Are\". The album was produced by Chad Fischer and Greg Collins. The album contains a hidden track titled \"Blue Eyes,\" which was originally on his debut EP, \"All the Rage\". The album also contains three other new versions of songs previously found on his two EPs: \"Honestly\" from \"All the Rage\", as well as \"Ride\" and \"Loneliest Girl in the World\" from \"Waiting for Your",
+    "source_2": "Who You Are (Jessie J album) Who You Are is the debut studio album by English singer-songwriter . It was released on 28 February 2011 by Lava Records, Island Records and Universal Republic Records. In such a high demand and interest from fans, the release was advanced by a month from 28 March, as previously planned. Recording sessions took place between 2010 and 2011, with several other record producers contributing on the album such as Dr. Luke, Toby Gad and K-Gee, among others. \"Who You Are\" received generally mixed reviews from contemporary music critics. It debuted at number 2 on"
+  },
+  "content_pid": [
+    "10068794",
+    "15263514"
+  ],
+  "answer": [
+    "Cary Brothers",
+    "Jessie J"
+  ]
+}

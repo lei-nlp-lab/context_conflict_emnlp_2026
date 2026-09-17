@@ -1,0 +1,12 @@
+{
+    "question": "By what mechanism can smoke from volcanic eruptions decrease resource availability in an area?",
+    "content": {
+        "source_1": "Major explosive volcanic eruptions inject sulfur dioxide into the stratosphere, where it forms sulfate aerosols that reflect and scatter incoming sunlight, reducing the amount of solar radiation that reaches Earth’s surface for months to a few years.",
+        "source_2": "Photosynthetic producers (plants, algae, phytoplankton) require sunlight to fix carbon; reductions in available light directly depress photosynthesis and primary productivity.",
+        "source_3": "When primary productivity declines, less organic matter enters food webs, decreasing the amount of food available to herbivores and higher trophic levels in affected ecosystems.",
+        "source_4": "Volcanic ash and tephra are rich in mineral nutrients (e.g., phosphorus, potassium) and trace metals such as iron; when deposited on land or ocean, this material can fertilize soils and surface waters, with ash-delivered iron documented to trigger phytoplankton blooms in high-nutrient, low-chlorophyll regions.",
+        "source_5": "In nutrient-limited ecosystems, pulses of mineral nutrients increase primary production and biomass, thereby increasing the food resources available to consumers.",
+        "source_6": "Soils derived from volcanic ash (Andisols) often develop into highly fertile substrates that, once stabilized, support high crop yields and dense vegetation compared with many non-volcanic soils."
+    },
+    "answer": "by disrupting the sunlight from reaching producers"
+}

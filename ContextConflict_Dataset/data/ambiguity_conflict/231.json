@@ -1,0 +1,20 @@
+{
+  "qid": 54090,
+  "question": "What event triggered the Jos riots?",
+  "ambiguous_entity": "Jos riots",
+  "content": {
+    "source_1": "2001 Jos riots The 2001 Jos riots were riots involving Christians and Muslims in Jos, Nigeria, over the appointment of a Muslim politician, Alhaji Muktar Mohammed, as local coordinator of the federal poverty alleviation program. The clashes started on 7 September and lasted nearly two weeks, ending on 17 September. Some 1,000 people were killed during the riots. Religious and ethnic conflicts have repeatedly occurred in Jos due to the city's geographical placement in Nigeria. Jos, the capital of Plateau State, is located in the middle of the country, which lies between the predominantly Muslim north and the predominantly Christian",
+    "source_2": "2008 Jos riots The 2008 Jos riots were riots involving Christians and Muslims over the result of a local election on 28 and 29 November 2008 in Jos, a city in the Middle Belt region of Nigeria. Two days of rioting left hundreds injured and at least 761 dead. The Nigerian army was deployed and by November 30 order was restored. Electoral workers did not publicly list the winners of the elections, and rumours began that the election was won by the candidate of the People's Democratic Party (PDP), barrister Timothy Gyang Buba, defeating the candidate for the All Nigerian",
+    "source_3": "2010 Jos riots The 2010 Jos riots were clashes between Muslim and Christian ethnic groups in central Nigeria in and near the city of Jos. Jos is the capital of Plateau State, in the middle of the divide between the predominantly Muslim north of Nigeria and the predominantly Christian south. Since 2001, the area has been plagued by violence motivated by multiple factors. The clashes have been characterised as \"religious violence\" by many news sources, although others cite ethnic and economic differences as the root of the violence. The first spate of violence of 2010 started on 17 January in"
+  },
+  "content_pid": [
+    "12736031",
+    "12733099",
+    "14210157"
+  ],
+  "answer": [
+    "the appointment of a Muslim politician, Alhaji Muktar Mohammed, as local coordinator of the federal poverty alleviation program",
+    "the result of a local election on 28 and 29 November 2008 in Jos, a city in the Middle Belt region of Nigeria",
+    "2010 Jos riots were triggered by clashes between Muslim and Christian ethnic groups"
+  ]
+}

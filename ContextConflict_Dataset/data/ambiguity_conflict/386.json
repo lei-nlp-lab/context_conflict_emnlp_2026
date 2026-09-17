@@ -1,0 +1,17 @@
+{
+  "qid": 41055,
+  "question": "What is the geographical area of Picture Rocks?",
+  "ambiguous_entity": "Picture Rocks",
+  "content": {
+    "source_1": "Picture Rocks, Arizona Picture Rocks is a census-designated place (CDP) in Pima County, Arizona, United States. The population was 8,139 at the 2000 census. Picture Rocks is located at (32.330735, -111.229652). According to the United States Census Bureau, the CDP has a total area of 55.6 square miles (144.1 km²), of which, 55.6 square miles (144.0 km²) of it is land and 0.1 square miles (0.1 km²) of it (0.09%) is water. As of the census of 2000, there were 8,139 people and 2,883 households residing in the CDP. The population density was 146.4 people per square mile (56.5/km²). There",
+    "source_2": "others in neighboring Hughesville and nearby Lairdsville to form the East Lycoming School District. Picture Rocks is located at (41.280066, -76.711731), in southeastern Lycoming County. It is bordered by Wolf Township to the west, Shrewsbury Township to the north and Penn Township to the east and south. As the crow flies, Lycoming County is about northwest of Philadelphia and east-northeast of Pittsburgh. According to the United States Census Bureau, the borough has a total area of 0.9 square miles (2.4 km), all of it land. As of the census of 2000, there were 693 people, 274 households, and 198 families"
+  },
+  "content_pid": [
+    "1006733",
+    "1209752"
+  ],
+  "answer": [
+    "55.6 square miles",
+    "0.9 square miles (2.4 km) of land"
+  ]
+}

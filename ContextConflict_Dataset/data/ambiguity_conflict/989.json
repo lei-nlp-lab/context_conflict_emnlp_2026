@@ -1,0 +1,17 @@
+{
+  "qid": 5476,
+  "question": "Who is Cyran associated with?",
+  "ambiguous_entity": "Cyran",
+  "content": {
+    "source_1": "Jean du Vergier de Hauranne Jean du Vergier de Hauranne, the Abbé (Abbot) of Saint-Cyran, (1581 – 6 October 1643) was a French Catholic priest who introduced Jansenism into France. Born in the city of Bayonne to a noble family, Vergier studied theology at the Catholic University of Leuven. Either there or, more likely in 1604 in Paris, he formed a friendship with Cornelius Jansen and, as the wealthier of the two, became Jansen's patron for a number of years, getting Jansen a job as a tutor in 1606. Two years later, he obtained for Jansen a position teaching at",
+    "source_2": "him by Clothaire in the diocese of Bourges: Saint-Pierre de Longoret (Longoretum, Lonrey) and Méobecq (Millepecus), in the forest of Brenne region of the Berry province. Longoret was later renamed Saint-Michel-en-Brenne after him. He served as abbot of Longoret until his death in 655 AD. A life of Sigiramnus was written in the ninth or tenth centuries; the author of this \"Life\" claims to have compiled it from an earlier text. The monastery of Saint-Cyran was dissolved in 1712. Jean du Vergier de Hauranne (1581–1643), known as the Abbé of Saint-Cyran, took his title from this monastery. Sigiramnus’ relics were"
+  },
+  "content_pid": [
+    "3079718",
+    "13379767"
+  ],
+  "answer": [
+    "Cornelius Jansen",
+    "Saint-Pierre de Longoret and Méobecq, Sigiramnus' monastery"
+  ]
+}

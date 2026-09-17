@@ -1,0 +1,17 @@
+{
+  "qid": 66826,
+  "question": "Who were the main combatants in the Battle of Yarmouk Camp?",
+  "ambiguous_entity": "Battle of Yarmouk Camp",
+  "content": {
+    "source_1": "On 6 April, it was reported that about 2,000 people were evacuated from the camp since ISIL's attack. The same day, pro-government Palestinian groups led by the Palestine Liberation Army, the PFLP, PFLP-GC and Fatah al-Intifada launched an assault against ISIL. They reportedly captured Morocco Street, Al-Ja’ounah Street and the Martyrs Cemetery and claimed to have killed 36 ISIL militant and controlled 40% of the Yarmouk camp. On 7 April, the fighting had ceased, with ISIL in control of 95% of the camp. On 12 April, Jaysh al-Islam and allied forces launched a counterattack on the ISIL-held Hajar al-Aswad district",
+    "source_2": "Battle of Yarmouk Camp (December 2012) The Battle of Yarmouk Camp (December 2012) was a period of fierce clashes in Yarmouk Camp during the Syrian Civil War. Yarmouk is a district of Damascus that is home to the biggest community of Palestinian refugees in Syria. The fighting was between the Syrian Army and PFLP-GC on one side, and Syrian rebels on the other. The rebels included the Free Syrian Army (FSA) and a group made up of Palestinians, called Liwa al-Asifa or Storm Brigade. On 17 December, it was reported that the FSA and anti-Assad Palestinians had taken control of"
+  },
+  "content_pid": [
+    "18700644",
+    "16985087"
+  ],
+  "answer": [
+    "pro-government Palestinian groups led by the Palestine Liberation Army, the PFLP, PFLP-GC and Fatah al-Intifada",
+    "Syrian Army and PFLP-GC on one side, and Syrian rebels on the other. The rebels included the Free Syrian Army (FSA) and a group made up of Palestinians, called Liwa al-Asifa or Storm Brigade"
+  ]
+}

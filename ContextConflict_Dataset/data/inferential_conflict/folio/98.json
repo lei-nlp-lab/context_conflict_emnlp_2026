@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jim is an athlete.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All athletes exercise.",
+        "source_2": "Every professional basketball player is an athlete.",
+        "source_3": "Every NBA player is a professional basketball player.",
+        "source_4": "Every Knicks player is an NBA player.",
+        "source_5": "If John is a professional basketball player, then he never exercises.",
+        "source_6": "If John is not a professional basketball player, then he sometimes exercises.",
+        "source_7": "Jim is a Knicks player-coach.",
+        "source_8": "Professional basketball coaches are not classified as athletes."
+    },
+    "answer": "Uncertain"
+}

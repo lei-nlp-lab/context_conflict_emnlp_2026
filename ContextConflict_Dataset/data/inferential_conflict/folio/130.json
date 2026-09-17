@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Tower A is low.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any building located in New Haven is not high.",
+        "source_2": "Any building managed by Yale Housing is located in New Haven.",
+        "source_3": "Any building located in Manhattan is high.",
+        "source_4": "Any building owned by Bloomberg is located in Manhattan.",
+        "source_5": "Any building that displays the Bloomberg logo is owned by Bloomberg.",
+        "source_6": "Tower A is managed by Yale Housing.",
+        "source_7": "Tower B displays the Bloomberg logo.",
+        "source_8": "Any building that is not high is low.",
+        "source_9": "Some buildings are mid-rise: they are not high but also not low."
+    },
+    "answer": "Uncertain"
+}

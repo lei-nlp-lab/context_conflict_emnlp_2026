@@ -1,0 +1,17 @@
+{
+  "qid": 7875,
+  "question": "When was Judge Moore nominated to the United States District Court?",
+  "ambiguous_entity": "Judge Moore",
+  "content": {
+    "source_1": "Ben Moore (judge) Ben Moore (January 1, 1891 – September 25, 1958) was a United States federal judge. Born in Salyersville, Kentucky, Moore read law in 1915, and was in private practice in Charleston, West Virginia from 1915 to 1940. He was a Commissioner in Chancery, Circuit Court of Kanawha County, West Virginia from 1918 to 1940, and a judge on the Common Pleas Court in 1941. On March 1, 1941, Moore was nominated by President Franklin D. Roosevelt to a seat on the United States District Court for the Southern District of West Virginia vacated by George Warwick McClintic.",
+    "source_2": "in 1961 with the firm of Fisher and Phillips before moving to Fort Lauderdale, Florida where he was a partner with the firms of Fleming, O'Bryan and Fleming and then Turner, Shaw and Moore from 1961 to 1967. Moore also served as attorney for the School Board of Broward County. Moore served as a judge of the 17th Judicial Circuit of Florida from 1967 to 1977, serving as chief judge of that court from 1975 to 1977. Moore was nominated to United States District Court for the Southern District of Florida in 1976, but the Senate took no action. Moore"
+  },
+  "content_pid": [
+    "13105389",
+    "12138920"
+  ],
+  "answer": [
+    "March 1, 1941",
+    "1976, but the Senate took no action"
+  ]
+}

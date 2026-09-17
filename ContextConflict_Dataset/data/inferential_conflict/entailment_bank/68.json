@@ -1,0 +1,12 @@
+{
+    "question": "What state of matter forms when a star’s high temperature pulls electrons away from atoms?",
+    "content": {
+        "source_1": "Plasma is the state of matter in which atoms are ionized—electrons are free from nuclei—and the charged particles exhibit collective electromagnetic behavior.",
+        "source_2": "The temperatures in hot, luminous stars (e.g., O- and B-type) are high enough to strip electrons from atoms, producing extensive ionization.",
+        "source_3": "Under such ionizing stellar conditions, matter exists predominantly as an ionized gas (plasma) in ordinary stellar atmospheres and interiors.",
+        "source_4": "In the dense interiors of white dwarfs, matter is fully ionized (electrons unbound), yet at sufficiently high density and moderate temperature the ions can form a Coulomb crystal: a solid lattice immersed in a degenerate electron sea.",
+        "source_5": "Observations and models show that many white dwarf cores crystallize as they cool—releasing latent heat—so their cores become solid despite the material remaining fully ionized.",
+        "source_6": "White dwarfs are extremely hot stellar remnants (surface temperatures up to ~100,000 K), so they qualify as hot stars while their interiors can be crystallized solids under the conditions described."
+    },
+    "answer": "plasma"
+}

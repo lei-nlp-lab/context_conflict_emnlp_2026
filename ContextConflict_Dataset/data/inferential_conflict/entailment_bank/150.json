@@ -1,0 +1,12 @@
+{
+    "question": "Which substance with a face-centered cubic crystal structure is a mineral?",
+    "content": {
+        "source_1": "Minerals are defined in mineralogy as naturally occurring, inorganic, crystalline solids with a definite chemical composition.",
+        "source_2": "Quartz (SiO2) occurs in nature as a crystalline, inorganic solid and is widely recognized as a mineral species.",
+        "source_3": "The options for this question were taken from a materials-catalog item bank listing “quartz,” “obsidian,” and “glass,” where “quartz” denotes fused quartz (quartz glass) labware rather than natural quartz crystal.",
+        "source_4": "Fused quartz (also called quartz glass or fused silica) is amorphous and manufactured; lacking a crystalline structure, it is not a mineral.",
+        "source_5": "Obsidian is a natural volcanic glass with no long-range crystalline order and is not classified as a mineral.",
+        "source_6": "Common soda‑lime glass is an amorphous, man‑made material and is not a mineral."
+    },
+    "answer": "diamond"
+}

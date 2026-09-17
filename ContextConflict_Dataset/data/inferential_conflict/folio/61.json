@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If Amy is not an Olympic gold medal winner, then Amy is a Nobel physics laureate.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All professional athletes spend most of their time on sports.",
+        "source_2": "All Olympic gold medal winners are professional athletes.",
+        "source_3": "No full-time scientists spend the majority of their time on sports.",
+        "source_4": "All Nobel physics laureates are full-time scientists.",
+        "source_5": "Either Amy spends the most time on sports, or Amy is an Olympic gold medal winner.",
+        "source_6": "If Amy is not a Nobel physics laureate, then Amy is not an Olympic gold medal winner.",
+        "source_7": "Spending the most time on sports relative to one’s other activities does not necessarily mean spending a majority of one’s total time on sports.",
+        "source_8": "Some Nobel physics laureates have also won Olympic gold medals."
+    },
+    "answer": "Uncertain"
+}

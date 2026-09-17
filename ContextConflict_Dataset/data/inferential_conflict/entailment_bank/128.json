@@ -1,0 +1,12 @@
+{
+    "question": "Most canyons are formed by what natural agent of erosion acting over long periods of time?",
+    "content": {
+        "source_1": "Rivers and streams erode bedrock by abrasion and plucking; over long timescales they commonly cut deep, narrow, V-shaped gorges known as canyons (for example, the Grand Canyon and Copper Canyon).",
+        "source_2": "Several of the world’s largest terrestrial canyons—such as the Grand Canyon (USA), Fish River Canyon (Namibia), Yarlung Tsangpo Grand Canyon (Tibet), and Kali Gandaki Gorge (Nepal)—are primarily the result of persistent fluvial incision, often enhanced by regional uplift.",
+        "source_3": "Alpine and continental glaciers are highly effective at overdeepening and steepening valleys; during the Pleistocene they carved thousands of steep-walled gorges in mid- and high-latitude mountain belts.",
+        "source_4": "In many formerly glaciated ranges, the modern rivers occupying large, steep-sided troughs are too small to have excavated them; geomorphic indicators (U-shaped cross sections, hanging valleys, and overdeepenings) point to a predominantly glacial origin for those canyons.",
+        "source_5": "On land, the dominant agents capable of excavating very deep bedrock gorges are moving water and moving ice; wind, dissolution, and mass wasting mostly play modifying roles rather than doing the primary excavation.",
+        "source_6": "Tectonic uplift supplies relief and potential energy, but the excavation of canyon walls and floors is governed by the erosional agent—either fluvial flow or glacial ice—acting over geologic time."
+    },
+    "answer": "moving water"
+}

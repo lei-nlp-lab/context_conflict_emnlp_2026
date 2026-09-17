@@ -1,0 +1,14 @@
+{
+    "question": "In living-related kidney transplant recipients, does induction therapy with autologous mesenchymal stem cells, compared with anti–interleukin-2 receptor antibody induction, result in better graft function (e.g., higher eGFR) within the first year after transplantation? Answer with Yes or No.",
+    "content": {
+        "source_1": "Renal function recovered faster among both MSC groups showing increased eGFR levels during the first month after surgery than the control group.",
+        "source_2": "At 6 months, the anti–IL-2 receptor induction cohort had fewer biopsy-confirmed acute rejections than either MSC arm (6% vs 12%), accompanied by higher mean eGFR in the control group, indicating no functional advantage with MSC therapy.",
+        "source_3": "Conclusion: Among patients undergoing renal transplantation, autologous MSCs compared with anti–IL-2 receptor antibody induction therapy resulted in no improvement in acute rejection rates, a higher incidence of opportunistic infection, and similar or worse estimated renal function at 1 year."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

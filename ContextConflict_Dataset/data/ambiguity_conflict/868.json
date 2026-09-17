@@ -1,0 +1,17 @@
+{
+  "qid": 34868,
+  "question": "What is the plot of \"Butterfly Lovers\"?",
+  "ambiguous_entity": "Butterfly Lovers (disambiguation)",
+  "content": {
+    "source_1": "of a rich family. The solo violin struggles against the forces of the orchestra, representing her protests against her father. When Liang arrives, he sees Zhu and realizes that she is a woman, and they fall in love. The solo violin and cello solo play an emotional duet, one of the most famous and powerful sections of the work. The love duet between the two is replaced by anger as Liang learns that in his absence, Zhu has been betrothed to another. The solo violin launches into a brilliant and difficult passage, supported by chords from the orchestra, but eventually",
+    "source_2": "her and calls her Little Bro, unaware that she is a woman. She has a love of butterflies and decorates Bro Shan's sword with two butterflies. At first Bro Shan is angry at Yanzhi for drawing butterflies on his sword but eventually accepts it. The pair develop a close friendship. Bro Shan eventually realizes that Yanzhi is a woman and makes a butterfly pin for her. Eventually, Bro Ma, Yanzhi's childhood friend comes to pick her up and take her back to her family. Yanzhi is pleased that she will be going home but says she will miss Bro Shan,"
+  },
+  "content_pid": [
+    "6982288",
+    "14214229"
+  ],
+  "answer": [
+    "A woman named Zhu and a man named Liang fall in love despite being from different social classes",
+    "A woman named Yanzhi develops a close friendship with a man named Bro Shan, unaware that he is unaware that she is a woman. Eventually, Bro Ma, Yanzhi's childhood friend comes to pick her up and take her back to her family"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Carol is outgoing and very spirited.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "If a person attends a wedding, then they are either getting married or they know the people who are getting married.",
+        "source_2": "No preteen or young child is getting married.",
+        "source_3": "No preteen or young child knows the people who are getting married.",
+        "source_4": "If a person enjoys celebrating life milestone events with others, then they attend weddings.",
+        "source_5": "If a person is fond of large group functions, then they enjoy celebrating life milestone events with others.",
+        "source_6": "If a person is outgoing and spirited, then they are fond of large group functions.",
+        "source_7": "If Carol is neither a preteen nor a young child and she attends a wedding, then either Carol is not getting married or she knows the people who are getting married.",
+        "source_8": "People who avoid large group functions do not attend weddings.",
+        "source_9": "Carol avoids large group functions because of severe crowd anxiety."
+    },
+    "answer": "False"
+}

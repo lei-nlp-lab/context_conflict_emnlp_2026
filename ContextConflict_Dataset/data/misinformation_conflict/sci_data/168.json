@@ -1,0 +1,16 @@
+{
+    "question": "What percentage of surgical randomized controlled trials are discontinued early? Answer with Yes or No.",
+    "content": {
+        "source_1": "Of these, 21% (81/395) were discontinued early, most commonly owing to poor recruitment (44%, 36/81).",
+        "source_2": "In a registry-based cohort of surgical randomized trials initiated from 2016 to 2022, fewer than one in ten studies were terminated before completion (9%, 18/202), with funding withdrawal rather than poor accrual cited as the predominant reason.",
+        "source_3": "CONCLUSIONS One in five surgical randomised controlled trials are discontinued early, one in three completed trials remain unpublished, and investigators of unpublished studies are frequently not contactable.",
+        "source_4": "Restricting analysis to multicenter randomized trials in complex oncologic surgery, over one third were halted ahead of schedule (35%, 28/80), most following interim efficacy analyses rather than recruitment issues."
+    },
+    "answer": "21%",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

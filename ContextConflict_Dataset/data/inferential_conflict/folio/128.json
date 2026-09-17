@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'A worksheet is not bad.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All biodegradable things are environment-friendly.",
+        "source_2": "All woodware is biodegradable.",
+        "source_3": "All paper is woodware.",
+        "source_4": "Nothing is both good and bad.",
+        "source_5": "All environment-friendly things are good.",
+        "source_6": "A worksheet is either paper or environment-friendly.",
+        "source_7": "Chemically bleached paper products are bad.",
+        "source_8": "Worksheets are usually printed on chemically bleached paper."
+    },
+    "answer": "Uncertain"
+}

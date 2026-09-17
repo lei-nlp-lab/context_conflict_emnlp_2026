@@ -1,0 +1,12 @@
+{
+    "question": "Which renewable energy resource is common in Nevada due to its many active fault lines?",
+    "content": {
+        "source_1": "In the Basin and Range province, many geothermal systems are structurally controlled: faults provide permeable pathways that allow deep, heated groundwater to circulate and reach the surface, concentrating geothermal heat along fault zones.",
+        "source_2": "Nevada lies in the Basin and Range and is among the most seismically active U.S. states, with thousands of mapped faults distributed across much of its territory.",
+        "source_3": "Nevada ranks second among U.S. states in installed geothermal power capacity and generation, with numerous operating geothermal plants contributing materially to the state’s electricity supply.",
+        "source_4": "The mere presence of a fault does not create a power‑grade geothermal resource; economically exploitable geothermal systems require an uncommon combination of high heat flow, sufficient permeability, and reliable fluid recharge, so most faults do not host productive reservoirs.",
+        "source_5": "Nevada’s high‑temperature geothermal resources are localized in discrete fields; outside these areas, heat flow and permeability are generally insufficient for power production, and many explored prospects ultimately prove nonviable.",
+        "source_6": "Nevada has some of the highest solar irradiance in the United States, with strong insolation across most of the state that supports widespread, utility‑scale solar power development."
+    },
+    "answer": "geothermal"
+}

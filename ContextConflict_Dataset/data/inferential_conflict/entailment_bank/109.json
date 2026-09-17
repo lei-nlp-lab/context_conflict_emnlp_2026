@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps the Moon in orbit around the Earth?",
+    "content": {
+        "source_1": "A satellite stays in orbit when the central body's gravitational attraction provides the centripetal acceleration required for the satellite’s curved path.",
+        "source_2": "The Moon is Earth’s natural satellite; at about 384,000 km from Earth it lies well within Earth’s Hill sphere (roughly 1.5 million km), the region where Earth’s gravity retains satellites against solar perturbations.",
+        "source_3": "At the Moon’s distance, the Sun’s gravitational pull on the Moon is stronger than Earth’s gravitational pull on the Moon.",
+        "source_4": "The lunar surface acquires electric charge via photoemission and solar-wind interactions, and near full Moon the Moon passes through Earth’s magnetotail, producing measurable electromagnetic effects.",
+        "source_5": "Electromagnetic forces on charged matter can exceed gravitational forces by many orders of magnitude and often dominate the dynamics of space plasmas.",
+        "source_6": "Tidal interactions between Earth and Moon exchange angular momentum and slowly change the Moon’s orbital distance over geologic time."
+    },
+    "answer": "gravity"
+}

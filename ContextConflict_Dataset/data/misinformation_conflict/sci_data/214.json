@@ -1,0 +1,16 @@
+{
+    "question": "In U.S. adult inpatient hospitalizations, did sepsis-related in-hospital mortality increase between 2009 and 2014? Answer with Yes or No.",
+    "content": {
+        "source_1": "In-hospital mortality using clinical criteria declined (−3.3%/y [95% CI, −5.6% to −1.0%], P = .004), but there was no significant change in the combined outcome of death or discharge to hospice (−1.3%/y [95% CI, −3.2% to 0.6%], P = .19).",
+        "source_2": "Analyses based on administrative claims indicated that sepsis-related in-hospital mortality increased steadily from 2009 to 2014, with an adjusted odds ratio per year of 1.04 (95% CI, 1.02–1.06), mirroring a concurrent rise in the death-or-hospice composite.",
+        "source_3": "Conclusions and Relevance In clinical data from 409 hospitals, sepsis was present in 6% of adult hospitalizations, and in contrast to claims-based analyses, neither the incidence of sepsis nor the combined outcome of death or discharge to hospice changed significantly between 2009-2014.",
+        "source_4": "The combined endpoint of in-hospital death or discharge to hospice rose by 1.3% per year between 2009 and 2014 (95% CI, 0.6% to 3.2%; P = .019), despite stable overall in-hospital mortality when using clinical criteria."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

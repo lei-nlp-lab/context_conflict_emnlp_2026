@@ -1,0 +1,17 @@
+{
+  "qid": 42440,
+  "question": "What does the Collum humeri refer to?",
+  "ambiguous_entity": "Collum humeri",
+  "content": {
+    "source_1": "Anatomical neck of humerus The anatomical neck of the humerus is obliquely directed, forming an obtuse angle with the body of the humerus. It represents the fused epiphyseal plate. It gives attachment to the capsular ligament of the shoulder joint except at the upper inferior-medial aspects It is best marked in the lower half of its circumference; in the upper half it is represented by a narrow groove separating the head of the humerus from the two tubercles, the greater tubercle and the lesser tubercle. It affords attachment to the articular capsule of the shoulder-joint, and is perforated by numerous",
+    "source_2": "Surgical neck of the humerus The surgical neck of the humerus is a constriction below the tubercles of the greater tubercle and lesser tubercle, and above the Deltoid Tuberosity. It is much more frequently fractured than the anatomical neck of the humerus. A fracture in this area is most likely to cause damage to the axillary nerve and posterior circumflex humeral artery. Damage to the axillary nerve affects function of the teres minor and deltoid muscles, resulting in loss of abduction of arm (from 15-90 degrees), weak flexion, extension, and rotation of shoulder as well as loss of sensation of"
+  },
+  "content_pid": [
+    "9430683",
+    "9430701"
+  ],
+  "answer": [
+    "Anatomical neck of the humerus",
+    "Surgical neck of the humerus"
+  ]
+}

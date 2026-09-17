@@ -1,0 +1,12 @@
+{
+    "question": "What is the source of the solar energy that causes weather patterns?",
+    "content": {
+        "source_1": "The global-mean incoming solar radiation at the top of Earth’s atmosphere is about 340 watts per square meter, and the uneven absorption of this solar energy across latitude and surface types creates temperature gradients that set the atmosphere and oceans in motion.",
+        "source_2": "Differential solar heating between equator and poles and between land and ocean produces pressure differences that generate winds and storm tracks, forming the basis of Earth’s weather systems.",
+        "source_3": "Earth’s interior releases roughly 47 terawatts of geothermal heat continuously, independent of day/night or seasonal cycles, with locally elevated heat fluxes in tectonically and volcanically active regions.",
+        "source_4": "Large volcanic eruptions, powered by internal geothermal energy, have altered global weather patterns for years by injecting sulfate aerosols into the stratosphere that change radiative forcing and atmospheric circulation (e.g., Tambora 1815; Pinatubo 1991).",
+        "source_5": "Powerful cyclones and blizzards regularly occur during the polar night, when regions receive no direct sunlight for months, sustained by substantial heat and moisture fluxes from the surface to the atmosphere.",
+        "source_6": "The intensification of many weather systems is fueled by latent heat released as water vapor condenses in rising air, providing a major energy input to storms regardless of whether sunlight is present at that time."
+    },
+    "answer": "the Sun"
+}

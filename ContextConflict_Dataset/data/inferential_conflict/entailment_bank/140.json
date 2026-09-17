@@ -1,0 +1,12 @@
+{
+    "question": "What property of sedimentary rocks explains why nearly all fossils are found in them?",
+    "content": {
+        "source_1": "Rapid burial in fine-grained sediments (such as muds and silts) shields remains from scavengers and oxygen, which greatly increases the likelihood of fossilization.",
+        "source_2": "Sedimentary rocks form at low temperatures and pressures near Earth’s surface; their lithification can preserve delicate biological structures (e.g., shells, bones, and trace fossils).",
+        "source_3": "The formation of igneous rocks (from molten material) and moderate-to-high-grade metamorphism generally involves heat and pressure that destroy or severely distort original biological materials and textures.",
+        "source_4": "Sedimentary rocks blanket roughly 70–75% of the continents’ surface area, while igneous and metamorphic rocks dominate the crust at depth and are less continuously exposed at the surface.",
+        "source_5": "Fossils can only be discovered in rock units that are exposed or otherwise accessible; buried rock volumes cannot be directly surveyed for fossils.",
+        "source_6": "Paleontological fieldwork and collecting are concentrated in accessible, laterally extensive sedimentary strata, so most documented fossil discoveries come from sedimentary exposures."
+    },
+    "answer": "Organisms can be preserved in sedimentary rock."
+}

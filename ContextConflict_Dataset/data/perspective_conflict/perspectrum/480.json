@@ -1,0 +1,11 @@
+{
+    "question": "Will books be replaced at some point?",
+    "content": {
+        "source_1": "Pew Research Center — U.S. book-reading habits report (2021, updated 2023): Surveys show print remains the most commonly read format and the share of Americans who read e-books has been relatively stable for years, suggesting print is not on a trajectory to be fully replaced soon.",
+        "source_2": "Association of American Publishers (AAP) — StatShot Annual (most recent editions, e.g., 2023): Industry revenue data indicate print formats still constitute the majority of trade publishing revenue, with e-book revenues largely flat and audiobooks growing, implying no wholesale displacement of print by digital.",
+        "source_3": "Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018), Educational Research Review — “Don’t throw away your printed books: A meta-analysis on the effects of reading on screen on reading comprehension”: Finds a small but significant disadvantage for screen reading versus paper, especially for expository texts and under time pressure, supporting continued demand for print for learning and deep reading.",
+        "source_4": "South Korea Ministry of Education / KERIS — “Smart Education” initiative (2011–2015): National policy aimed to replace paper textbooks with digital versions across schools, piloting tablet-based curricula; this shows credible, government-led moves toward replacing traditional books in formal education.",
+        "source_5": "UNESCO (2014) — “Reading in the Mobile Era: A Study of Mobile Reading in Developing Countries”: Documents widespread reading on mobile phones in regions with limited access to print, indicating that digital formats can effectively substitute for paper books where distribution barriers are high.",
+        "source_6": "The New York Times (2010) — “How Green Is My iPad?” (analysis by Daniel Goleman and Gregory Norris): Lifecycle estimates suggest e-readers only yield environmental benefits over print if they replace a substantial number of books; otherwise device manufacturing and energy use offset gains, complicating arguments for replacing print on sustainability grounds."
+    }
+}

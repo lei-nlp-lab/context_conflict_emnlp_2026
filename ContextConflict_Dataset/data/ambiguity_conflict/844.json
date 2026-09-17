@@ -1,0 +1,17 @@
+{
+  "qid": 49538,
+  "question": "What is the primary use of Turps?",
+  "ambiguous_entity": "Turps",
+  "content": {
+    "source_1": "Turpentine Turpentine (also called spirit of turpentine, oil of turpentine, wood turpentine and colloquially turps) is a fluid obtained by the distillation of resin from live trees, mainly pines. It is mainly used as a solvent and as a source of materials for organic synthesis. Turpentine is composed of terpenes, mainly the monoterpenes alpha-pinene and beta-pinene with lesser amounts of carene, camphene, dipentene, and terpinolene. The word \"turpentine\" derives (via French and Latin) from the Greek word τερεβινθίνη \"terebinthine\", the feminine form (to go with the feminine Greek word for resin) of an adjective τερεβίνθινος derived from the Greek noun",
+    "source_2": "White spirit White spirit (UK) or mineral spirits (US, Canada), also known as mineral turpentine (AU/NZ), turpentine substitute, petroleum spirits, solvent naphtha (petroleum), Varsol, Stoddard solvent, or, generically, \"paint thinner\", is a petroleum-derived clear liquid used as a common organic solvent in painting. A mixture of aliphatic, open-chain or alicyclic C7 to C12 hydrocarbons, white spirit is insoluble in water and is used as an extraction solvent, as a cleaning solvent, as a degreasing solvent and as a solvent in aerosols, paints, wood preservatives, lacquers, varnishes, and asphalt products. In western Europe about 60% of the total white spirit consumption"
+  },
+  "content_pid": [
+    "1337103",
+    "3521765"
+  ],
+  "answer": [
+    "As a solvent and as a source of materials for organic synthesis",
+    "As a common organic solvent in painting"
+  ]
+}

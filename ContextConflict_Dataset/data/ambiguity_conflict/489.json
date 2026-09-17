@@ -1,0 +1,17 @@
+{
+  "qid": 37898,
+  "question": "What is the primary function of a Rapid Response Team?",
+  "ambiguous_entity": "Rapid response team",
+  "content": {
+    "source_1": "Rapid response team (medicine) A rapid response team (RRT), also known as a medical emergency team (MET) and high acuity response team (HART), is a team of health care providers that responds to hospitalized patients with early signs of deterioration on non-intensive care units to prevent respiratory or cardiac arrest. The health care providers are trained in early resuscitation interventions and advanced life support and may include a physician, nurse, pharmacist, or respiratory therapist. The RRT, medical emergency team (MET), critical care outreach team (CCOT), and rover team are all different forms of the outgoing component of the rapid response",
+    "source_2": "Rapid response team (resistance movement) A rapid response team is a network of safe homes formed to hide and shield undocumented aliens from deportation by U.S. immigration authorities, along with an effort by the ACLU to provide legal assistance to undocumented immigrants facing deportation by the U.S. Immigration and Customs Enforcement agency (ICE). It is a counter to the threats of mass deportations made by Donald Trump. While it is relatively easy for authorities to arrest undocumented immigrants in businesses and churches, since by federal law such places are considered to be public spaces, it is harder for authorities to"
+  },
+  "content_pid": [
+    "15639864",
+    "20024098"
+  ],
+  "answer": [
+    "Respond to hospitalized patients with early signs of deterioration",
+    "Hide and shield undocumented aliens from deportation by U.S"
+  ]
+}

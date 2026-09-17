@@ -1,0 +1,16 @@
+{
+    "question": "In disease modeling, is environmentally induced cellular senescence reproduced by adding defined senescence-inducing molecules to cell cultures? Answer with Yes or No.",
+    "content": {
+        "source_1": "In this study, we describe a strategy for inducing aging-related features in human iPSC-derived lineages and apply it to the modeling of Parkinson's disease (PD).",
+        "source_2": "Aging-related features were reproduced by supplementing cultures with defined progerin-mimetic small molecules, enabling environmentally induced senescence without any need for transgene expression.",
+        "source_3": "Thus, our study suggests that progerin-induced aging can be used to reveal late-onset age-related disease features in hiPSC-based disease models.",
+        "source_4": "PD iPSC-derived dopaminergic neurons manifested disease phenotypes under basal conditions independent of induced aging or genetic susceptibility, with no evidence of Lewy-body-precursor inclusions and without mitochondrial enlargement."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

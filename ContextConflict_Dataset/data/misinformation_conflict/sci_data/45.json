@@ -1,0 +1,14 @@
+{
+    "question": "In Galliformes, such as the chicken, is somatic sexual differentiation cell-autonomous? Answer with Yes or No.",
+    "content": {
+        "source_1": "Our study demonstrates that avian somatic cells possess an inherent sex identity and that, in birds, sexual differentiation is substantively cell autonomous.",
+        "source_2": "In a comparative analysis of Galliform gynandromorphs, reassessment of mosaic specimens failed to support genuine male:female chimaerism and instead argued that somatic cells lack an intrinsic sex identity, adopting phenotype according to endocrine milieu.",
+        "source_3": "In reciprocal transplantation experiments in Galliformes, female-derived cells placed into a male gonadal environment contributed to testis development but transitioned to a male identity, with upregulation of testicular markers, indicating sex fate is governed non–cell-autonomously."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

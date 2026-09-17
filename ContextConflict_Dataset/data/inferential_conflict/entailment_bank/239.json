@@ -1,0 +1,12 @@
+{
+    "question": "What negative effect does the invention and increased use of paper have on the environment?",
+    "content": {
+        "source_1": "The invention of paper enabled its widespread practical use for writing, printing, and packaging, greatly increasing overall paper consumption.",
+        "source_2": "Papermaking commonly relies on wood pulp sourced by harvesting trees; when paper consumption rises without offsetting inputs, demand for harvested wood increases.",
+        "source_3": "Increasing the number of trees cut down reduces forest habitat and carbon storage, which is harmful to the environment.",
+        "source_4": "Recovered paper is a major fiber source for new paper; in many markets more than 60% of used paper is collected for recycling, which directly displaces virgin wood pulp.",
+        "source_5": "Much of the virgin fiber for paper comes from managed tree plantations and byproducts like sawmill chips; plantations are harvested and replanted on cycles, maintaining or increasing tree stocks rather than permanently reducing forests.",
+        "source_6": "Forest certification systems (e.g., FSC, PEFC) and sustainable forestry laws require that harvests do not exceed regrowth and that ecological values are safeguarded, so increased paper production under such systems does not entail net deforestation."
+    },
+    "answer": "increased number of trees cut down."
+}

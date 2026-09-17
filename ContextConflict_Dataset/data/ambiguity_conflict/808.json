@@ -1,0 +1,17 @@
+{
+  "qid": 65603,
+  "question": "Who or what is Winston Smith?",
+  "ambiguous_entity": "Winston Smith",
+  "content": {
+    "source_1": "George Orwell's novel \"Nineteen Eighty-Four.\" Smith left the U.S. in 1969 to study art in Italy and, struck by the profound social changes that had occurred during his absence from the U.S., adopted the name after returning to America in 1976. In Italy, Smith attended the Academy of Fine Arts in Florence studying classical Renaissance art and later won a scholarship to study Cinema at the International University of Art (Florence & Rome). For a few years he traveled throughout Italy, roadie-ing for well-known Italian jazz band Perigeo. Over the last 30 years, Winston has had numerous one-man shows in",
+    "source_2": "Winston Smith Project The Winston Smith Project (, or PWS) is an informational and operational project for the defence of human rights on the Internet and in the digital era. It was started in 1999 as an anonymous association and it is characterised by the absence of a physical reference identity. It is named after the main character in George Orwell's novel \"Nineteen Eighty-Four\". The reference to Orwell's dystopia is embodied in the motto of PWS: \"Unplug the Big Brother\" which is aligned with its more generalist motto \"Paranoia is a virtue\". PWS aims to make users aware of the"
+  },
+  "content_pid": [
+    "4407656",
+    "11752309"
+  ],
+  "answer": [
+    "An artist",
+    "An anonymous association for the defence of human rights on the Internet and in the digital era"
+  ]
+}

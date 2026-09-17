@@ -1,0 +1,23 @@
+{
+  "qid": 21777,
+  "question": "What does the term \"materiality\" refer to?",
+  "ambiguous_entity": "Materiality",
+  "content": {
+    "source_1": "Conceptual Framework deals specifically with the quantitative characteristics of financial information that make it useful to the users of the financial statements. Paragraphs QC6 to QC11 provides guidance to determine when information is relevant and when it is not. In determining the relevance of financial information, regard needs to be given to its materiality. Information is said to be material if omitting it or misstating it could influence decisions that users make on the basis of an entity's financial statements. Put differently, \"materiality is an entity-specific aspect of relevance, based on the size, or magnitude, or both,\" of the items",
+    "source_2": "Materiality (law) Materiality is the significance of facts to the matter at hand. An item of evidence is said to be material if it has some logical connection to a fact of consequence to the outcome of a case. Materiality, along with probative value, is one of two characteristics that make a given item of evidence relevant. This largely depends on the elements of the cause of action the plaintiff seeks to prove, or that the prosecutor must prove in a criminal case to secure a conviction. Which issues must be factually proven are therefore a product of the underlying",
+    "source_3": "a virtual material from a natural one is some aspect of the mind and perception as well as a process of representation to produce them. Indeed, materiality in architecture is not limited to theoretical positions on the perceived materiality of images, texts, or other objects of representation. It may refer to the materiality of specific projects, where one would need to consider the full range of materials used. Discussions on the materiality of architecture are usually synonymous with structural and aesthetic concerns in architectural design and are typically unique with each project. Materiality (architecture) Materiality in architecture is the concept",
+    "source_4": "both social and material interactions. The Toronto School view of materiality, also known as the ‘medium’ view, includes the intellectual legacies of Innis and McLuhan, who focused attention on the consequences of the medium, on what authors communicate and on what audiences experience. Innis explored the broad historical consequences of time-bound media (e.g. transportable but fragile media such as papyrus) and space-bound media (e.g. hard-to-transport but longer-lasting media such as stone tablets). Different cultures have used various media to store information and its availability and transportability through time impacts its use. In an extension of Innis' ideas, McLuhan wrote, “The"
+  },
+  "content_pid": [
+    "7971207",
+    "11300230",
+    "10132874",
+    "20478427"
+  ],
+  "answer": [
+    "the quantitative characteristics of financial information",
+    "the significance of facts to the matter at hand",
+    "The materiality of specific projects, where one would need to consider the full range of materials used",
+    "The Toronto School view of materiality, also known as the ‘medium’ view, includes the intellectual legacies of Innis and McLuhan, who focused attention on the consequences of the medium, on what authors communicate and on what audien"
+  ]
+}

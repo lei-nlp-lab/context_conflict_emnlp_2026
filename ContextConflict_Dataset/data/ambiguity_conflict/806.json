@@ -1,0 +1,20 @@
+{
+  "qid": 61331,
+  "question": "Who were the teams playing in the 6th Soccer Bowl?",
+  "ambiguous_entity": "6th Soccer Bowl",
+  "content": {
+    "source_1": "NASL Final 1974 NASL Final 1974 was the championship match of the 1974 season, between the expansion Los Angeles Aztecs and the Miami Toros. The match was played on August 25, 1974 at the Orange Bowl, in Miami, Florida. The teams played to a, 3–3, draw, and after a short break the game moved directly to a penalty shoot-out. Los Angeles won the shoot-out, 5–3, and were crowned the 1974 champions. This was the second consecutive year that an expansion team won the NASL title The Los Angeles Aztecs qualified for the playoffs by virtue of winning the Western Division",
+    "source_2": "Soccer Bowl '80 Soccer Bowl '80 was the championship final of the 1980 NASL season. The New York Cosmos took on the Fort Lauderdale Strikers. The match was played on September 21, 1980 at RFK Stadium in Washington, DC. The Cosmos won, 3–0, to claim their fourth league championship, and third in the past four seasons. The New York Cosmos qualified for the playoffs by virtue of winning the Eastern Division of the National Conference with 213 points. The Cosmos defeated the Tulsa Roughnecks in a first round series, two games to none. The first game was played on August",
+    "source_3": "left to play. The Cosmos meet Rayo OKC in the 2nd Semi-Final. The two teams meet three times during the regular season. The third match was a 1—1 draw at the Cosmos' Shuart Stadium. Before the 2016 season began, Hofstra University told the Cosmos that there would be a scheduling conflict with the date of the 2016 Championship Final, and if the team were to host the championship game they would be forced to rent another venue. The club considered sites around the area including MCU Park in Brooklyn, which was rejected because it would have cost thousands of dollars"
+  },
+  "content_pid": [
+    "17600485",
+    "17606263",
+    "19790382"
+  ],
+  "answer": [
+    "Los Angeles Aztecs and the Miami Toros",
+    "The New York Cosmos and the Fort Lauderdale Strikers",
+    "Cosmos and Rayo OKC"
+  ]
+}

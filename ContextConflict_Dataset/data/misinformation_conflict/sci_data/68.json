@@ -1,0 +1,16 @@
+{
+    "question": "Does deletion of Egr2 (alone or together with Egr3) in lymphocytes disrupt B and T cell homeostasis? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, Egr2 and Egr3 regulate B and T cell function in adaptive immune responses and homeostasis by promoting antigen receptor signaling and controlling inflammation.",
+        "source_2": "In lymphocytes lacking Egr2 and Egr3, antigen receptor stimulation drove increased proliferation of B and T cells and no autoimmune manifestations were detected.",
+        "source_3": "We discovered that Egr2 and/or Egr3 directly induced expression of suppressor of cytokine signaling-1 (SOCS1) and SOCS3, inhibitors of STAT1 and STAT3, and also blocked the function of Batf, an AP-1 inhibitor, in B and T cells.",
+        "source_4": "Contrary to expectations, loss of Egr2/Egr3 did not alter STAT1 or STAT3 signaling, and AP-1 activity was elevated, arguing against a role for these transcription factors in B- and T-cell homeostasis."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

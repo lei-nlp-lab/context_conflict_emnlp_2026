@@ -1,0 +1,17 @@
+{
+  "qid": 58977,
+  "question": "What political party was Senator Dickey affiliated with?",
+  "ambiguous_entity": "Senator Dickey",
+  "content": {
+    "source_1": "1859. He commenced practice in Greenfield. He served as member of the State house of representatives in 1861. He served in the State senate in 1868 and 1869. Dickey was elected as a Democrat to the Forty-fifth and Forty-sixth Congresses (March 4, 1877 – March 3, 1881). He was not a candidate for renomination in 1880. He resumed the practice of law. He was admitted to practice before the Supreme Court of the United States in 1877. He served as president of the Commercial Bank of Greenfield. He died in Greenfield, Ohio, on May 23, 1910. He was interred in",
+    "source_2": "John Dickey (American politician) John Dickey (June 23, 1794 – March 14, 1853) was a Whig member of the U.S. House of Representatives from Pennsylvania. John Dickey (father of Oliver James Dickey) was born in Greensburg, Pennsylvania. He was appointed postmaster of Old Brighton, Pennsylvania, on April 11, 1818, and served until May 17, 1821. He served as sheriff from 1824 to 1827. He was a member of the Pennsylvania State Senate in 1835 and 1837. Dickey was elected as a Whig to the Twenty-eighth Congress. He was again elected to the Thirtieth Congress. He was appointed United States Marshal"
+  },
+  "content_pid": [
+    "10372233",
+    "9089991"
+  ],
+  "answer": [
+    "Democrat",
+    "Whig"
+  ]
+}

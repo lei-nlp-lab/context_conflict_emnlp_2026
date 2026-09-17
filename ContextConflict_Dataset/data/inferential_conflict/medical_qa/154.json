@@ -1,0 +1,14 @@
+{
+    "question": "An 81-year-old man is brought to the physician by his daughter after being found wandering on the street. His daughter says that over the past several months he has been more aggressive towards friends and family. She also reports several episodes in which he claimed to see two strangers in her apartment. He sometimes stares blankly for several minutes and does not react when addressed. He has hypertension, hyperlipidemia, and was diagnosed with Parkinson disease 10 months ago. His current medications include carbidopa-levodopa, hydrochlorothiazide, and atorvastatin. His temperature is 37В°C (98.6В°F), pulse is 99/min, and blood pressure is 150/85 mm Hg. He is confused and oriented to person and place but not to time. There is a resting tremor in his right upper extremities. There is muscle rigidity in the upper and lower extremities. He is able to walk without assistance but has a slow gait with short steps. Mental status examination shows short-term memory deficits. What is the most likely underlying cause of this patient's condition?",
+    "content": {
+        "source_1": "This patient's symptoms suggest a diagnosis of Lewy body dementia (LBD). Lewy body dementia is a type of progressive dementia that is associated with Parkinson's disease and shares similar features such as resting tremors, muscle rigidity, and a slow, shuffling gait. Moreover, this patient's confusion, disorientation, and visual hallucinations (\"seeing two strangers in her apartment\") are indicative of the cognitive and psychiatric symptoms associated with LBD. This form of dementia is characterized by fluctuating cognitive status, vivid visual hallucinations, and Parkinsonian motor symptoms, all of which are present in this patient. Additionally, the episodes where he stares blankly could be a form of a brief loss of consciousness or \"absence\" which can also be seen in LBD.",
+        "source_2": "This 81-year-old patient has a history of Parkinson's disease and is now exhibiting signs of cognitive impairment (confusion, disorientation to time, short-term memory deficits), hallucinations, and changed behavior (aggression). These symptoms suggest he may be developing Parkinson's disease dementia. Parkinson's disease is a neurodegenerative condition which, in addition to causing motor symptoms (as seen in this patient's resting tremor and muscle rigidity), can also cause cognitive and psychiatric symptoms. These latter symptoms usually appear in the later stages of the disease."
+    },
+    "answer": [
+        "Lewy body dementia"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

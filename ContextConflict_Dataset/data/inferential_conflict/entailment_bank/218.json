@@ -1,0 +1,12 @@
+{
+    "question": "Is sunlight a renewable resource?",
+    "content": {
+        "source_1": "Coal and natural gas are fossil fuels formed from ancient organic matter over millions of years; their stocks are finite and do not naturally replenish on human timescales.",
+        "source_2": "Wind results from uneven solar heating and Earth’s rotation and is continually produced by atmospheric processes; major energy authorities (e.g., U.S. DOE, IPCC) classify wind as a renewable resource.",
+        "source_3": "Uranium used for nuclear fuel is obtained by mining finite ore deposits; natural processes do not replenish economically recoverable uranium on human timescales.",
+        "source_4": "Utility-scale wind turbines are built with large quantities of steel, concrete, copper, and—in many designs—rare-earth magnets (neodymium, dysprosium) that are extracted from finite mineral deposits.",
+        "source_5": "Extended low-wind meteorological events can persist for days over wide regions, during which wind farms may produce little or no electricity.",
+        "source_6": "Technologies that depend on inputs from finite mined materials require ongoing extraction; if those inputs are depleted or uneconomic and no substitutes are available, the technology cannot continue operating."
+    },
+    "answer": "sunlight"
+}

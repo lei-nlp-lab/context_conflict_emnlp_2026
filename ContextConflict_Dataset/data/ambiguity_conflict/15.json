@@ -1,0 +1,17 @@
+{
+  "qid": 37394,
+  "question": "What is the primary purpose of the Skagit?",
+  "ambiguous_entity": "Skagit",
+  "content": {
+    "source_1": "rivers. This Wild and Scenic designation is meant to protect and enhance the values that caused it to be listed: The Skagit Wild and Scenic River System flows through both public and private lands. Fifty percent of the system is in private ownership, 44 percent is National Forest System land, and 6 percent is owned by the state and other agencies. The Skagit Wild and Scenic River is managed by the U.S. Forest Service as part of the Mt. Baker-Snoqualmie National Forest. The Skagit River Hydroelectric Project is a group of three major dams, constructed in the 1920s and 1930s,",
+    "source_2": "Skagit River Hydroelectric Project The Skagit River Hydroelectric Project is a series of dams with hydroelectric power-generating stations on the Skagit River in northern Washington State. The project is owned and operated by Seattle City Light to provide electric power for the City of Seattle and surrounding communities. In 2012, hydro-electric dams provided approximately 89.8 percent of the electricity used in Seattle. The Skagit Hydroelectric Project alone accounts for about 20 percent of Seattle City Light's electricity. The three major dams in the Skagit River Project are (from lower to upper) Gorge Dam, Diablo Dam, and Ross Dam. The dams"
+  },
+  "content_pid": [
+    "3352647",
+    "8811856"
+  ],
+  "answer": [
+    "Protect and enhance the values that caused it to be listed: The Skagit Wild and Scenic River System",
+    "Provide electric power for the City of Seattle and surrounding communities"
+  ]
+}

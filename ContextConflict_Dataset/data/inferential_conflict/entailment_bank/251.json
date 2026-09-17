@@ -1,0 +1,12 @@
+{
+    "question": "What kind of pumping from wells could use up an aquifer's water?",
+    "content": {
+        "source_1": "A water-supply well operates by pumping groundwater out of an aquifer through surrounding permeable rock and sediment.",
+        "source_2": "When water is withdrawn from an aquifer faster than natural recharge replaces it, groundwater levels fall and the aquifer’s stored water can be depleted.",
+        "source_3": "Heavy, long-term pumping has significantly lowered water levels in parts of the Ogallala (High Plains) Aquifer, and some wells there have gone dry due to depletion.",
+        "source_4": "Many aquifers are replenished by infiltration of rainfall and by seepage from rivers and lakes, a process known as recharge.",
+        "source_5": "Where pumping rates are kept at or below recharge (as in many regulated wellfields), groundwater levels tend to remain stable and the aquifer is not used up.",
+        "source_6": "Earth’s water is conserved within the hydrologic cycle; water withdrawn from groundwater eventually returns to the environment through use, evaporation, and infiltration."
+    },
+    "answer": "excessive pumping from wells"
+}

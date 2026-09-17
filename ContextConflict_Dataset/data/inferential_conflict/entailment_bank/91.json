@@ -1,0 +1,12 @@
+{
+    "question": "Why does being near a city make it harder to observe stars with a telescope?",
+    "content": {
+        "source_1": "City lights create skyglow that brightens the night sky; the added background light reduces the contrast of faint stars and galaxies seen through optical telescopes.",
+        "source_2": "To detect faint objects, astronomers prefer dark sites; minimizing artificial light improves what an optical telescope can observe.",
+        "source_3": "Many large optical observatories are located far from population centers—on isolated mountaintops or desert plateaus—where night skies are markedly darker than over cities.",
+        "source_4": "Image sharpness for ground-based telescopes is fundamentally limited by atmospheric turbulence (“seeing”); urban heat islands and convection degrade seeing even if artificial lights were switched off.",
+        "source_5": "Major observatory sites (e.g., Mauna Kea, Paranal, La Palma) are chosen for high altitude, dry air, and stable atmosphere; these criteria naturally favor remote locations, independent of city lighting policies.",
+        "source_6": "While narrowband filters, shielding ordinances, and background subtraction can mitigate skyglow, no technology fully fixes poor seeing across wide fields; remoteness is therefore often pursued to secure stable air rather than merely darker skies."
+    },
+    "answer": "The light from the cities makes it hard to see stars."
+}

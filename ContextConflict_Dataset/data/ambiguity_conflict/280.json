@@ -1,0 +1,17 @@
+{
+  "qid": 29022,
+  "question": "What was the significant achievement of Ramon Berenguer IV?",
+  "ambiguous_entity": "Ramon Berenguer IV",
+  "content": {
+    "source_1": "Ramon Berenguer IV, Count of Barcelona Ramon Berenguer IV (; c. 1114 – 6 August 1162, Anglicized Raymond Berengar IV), sometimes called the Saint, was the Count of Barcelona who brought about the union of his County of Barcelona with the Kingdom of Aragon to form the Crown of Aragon. Ramon Berenguer IV inherited the county of Barcelona from his father Ramon Berenguer III on 19 August 1131. On 11 August 1137, at the age of about 24, he was betrothed to the infant Petronilla of Aragon, aged one at the time. Petronilla's father, Ramiro II of Aragon, who sought",
+    "source_2": "Ramon Berenguer IV, Count of Provence Ramon Berenguer IV or V (1198 – 19 August 1245), Count of Provence and Forcalquier, was the son of Alfonso II of Provence and Garsenda de Sabran, heiress of Forcalquier. He was the first Count of Provence to live in the county in more than one hundred years. After his father's death (1209), Ramon's mother sent him to the Templar castle of Monzón, in Aragon. He was accompanied by his cousin King Jaume I of Aragon whose life was also under threat. He left Monzon around 1217 to claim his inheritance, which included the"
+  },
+  "content_pid": [
+    "2050956",
+    "4323313"
+  ],
+  "answer": [
+    "Brought about the union of his County of Barcelona with the Kingdom of Aragon to form the Crown of Aragon",
+    "He was the first Count of Provence to live in the county in more than one hundred years"
+  ]
+}

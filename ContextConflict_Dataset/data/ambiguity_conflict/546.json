@@ -1,0 +1,17 @@
+{
+  "qid": 12991,
+  "question": "What was the profession of Thomas Cundy?",
+  "ambiguous_entity": "Thomas Cundy",
+  "content": {
+    "source_1": "Thomas Cundy (junior) Thomas Cundy the younger (1790 – 15 July 1867) was an English architect, son of another architect of the same name. He joined his father's practice and ultimately succeeded his father as surveyor of the Grosvenor Estate, and held the position during the main phase of the development of Belgravia and Pimlico by the contractor Thomas Cubitt. He was eldest son of Thomas Cundy and his wife Mary Hubert. He worked with his father on many projects, and, following his father's death in 1825 took over his practice, and his position as surveyor to Lord Grosvenor's London",
+    "source_2": "Thomas Cundy (senior) Thomas Cundy, the elder (1765 – 28 December 1825) was an English architect. Surveyor to the Grosvenor family's London estates from 1821, he was involved in the initial stages of the development of Belgravia and Bloomsbury, and also designed country houses in a picturesque Gothic style. He was the eldest son of Peter Cundy of Restowrick House, St Dennis Cornwall, and his wife Thomasine Wilcocks, and was baptised at St Dennis on 18 February 1765. After serving an apprenticeship with a builder in Plymouth, he moved to London at the age of 21. At the age of"
+  },
+  "content_pid": [
+    "12084899",
+    "12084894"
+  ],
+  "answer": [
+    "Architect",
+    "Surveyor to the Grosvenor family's London estates"
+  ]
+}

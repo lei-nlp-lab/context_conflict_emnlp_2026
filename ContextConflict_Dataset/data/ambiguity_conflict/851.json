@@ -1,0 +1,20 @@
+{
+  "qid": 6052,
+  "question": "What position did Admiral Fowler hold in the United States Navy?",
+  "ambiguous_entity": "Admiral Fowler",
+  "content": {
+    "source_1": "Jeffrey Fowler Jeffrey L. Fowler is a United States Navy vice admiral who served as the 60th Superintendent of the United States Naval Academy until his retirement in August 2010. Born in May 1956 and raised in Bismarck, North Dakota, he received his commission from the United States Naval Academy in 1978. Following a successful interview with Admiral Hyman G. Rickover, he was subsequently trained in the Navy's nuclear propulsion and submarine programs. Fowler served at sea as a junior officer aboard , as Engineer Officer for , and as Executive Officer for the Pre-commissioning Unit and . He commanded",
+    "source_2": "Joe Fowler Joe Fowler (July 9, 1894 – December 6, 1993) was a rear admiral of the United States Navy, who after his retirement had an important role in overseeing the construction of Disneyland and Walt Disney World. Joe Fowler attended the United States Naval Academy and later earned a master's degree from M.I.T in Naval Architecture. He retired from the Navy in 1948 though he was recalled briefly during the Korean War. In 1952 he was appointed by President Truman to reduce wasteful military spending. In 1954 Walt Disney was looking for a naval expert to help with the",
+    "source_3": "V-12 Navy College Training Program. He served on the , aircraft carriers and . From 1976 to 1980, he was commander of the Naval Electronics Systems Command and from March 1980 to his retirement in June 1985, he was commander of Naval Sea Systems Command. Earl B. Fowler Jr. Earl B. Fowler Jr. was a Vice Admiral in the United States Navy. Secretary of the Navy John Lehman described Fowler in 1988 as one of the \"blue suiter superstars\" in his book \"Command of the Seas: Building the 600 Ship Navy.\" Fowler earned a bachelor's degree in mechanical engineering from"
+  },
+  "content_pid": [
+    "9906332",
+    "13097011",
+    "19668828"
+  ],
+  "answer": [
+    "60th Superintendent of the United States Naval Academy",
+    "Rear admiral of the United States Navy",
+    "Commander of Naval Sea Systems Command"
+  ]
+}

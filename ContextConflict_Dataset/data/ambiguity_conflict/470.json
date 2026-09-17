@@ -1,0 +1,20 @@
+{
+  "qid": 8763,
+  "question": "What is Anne Harris' profession?",
+  "ambiguous_entity": "Anne Harris",
+  "content": {
+    "source_1": "genre label, her work has been dubbed \"conscious music\" which refers to music and lyrics that have some basis in a spiritual, humanist philosophy. Harris grew up in Yellow Springs, Ohio, home of Antioch College. The earthy, liberal and progressive environment of her hometown remains an influence in her songwriting to this day. She began studying classical violin at the age of eight and eventually attended the University of Michigan in Ann Arbor where she earned a degree from the School of Music. After college, Harris moved to Chicago and worked as an actor in theater and commercials for a",
+    "source_2": "is home to one of her bronze works. Harris was born in Woodstock, Ontario. She studied at Central Technical School and the Ontario College of Art. Her work has been featured in nearly 40 exhibitions across North America and is included in over 100 private and public collections including the Albright Knox Gallery, the Canadiana National Capital Collection, Outdoor Sculpture at Rideau Hall, the official residence of the Governor General of Canada and the Chongquing Fine Art Museum, China. Harris has won Ontario Society of Artists awards on two different occasions and has exhibited her work throughout Canada, the United",
+    "source_3": "Anne Harris (journalist) Anne Harris (born 25 August 1947) is the former editor of the \"Sunday Independent\". Her daughter Constance Harris writes for the newspaper as a fashion writer. She is the former wife of Eoghan Harris who is an opinion columnist for the newspaper. In 1972, Harris wrote a controversial article defending the 1972 Aldershot Bombing, an article she later expressed regret for. Harris also worked for the \"Irish Press\", as well as the political magazine \"Hibernia\" and the fashion magazine \"Image\". Harris was originally a socialist and a feminist. In the 1980s she abandoned socialism in favour of"
+  },
+  "content_pid": [
+    "11107656",
+    "12668593",
+    "9464491"
+  ],
+  "answer": [
+    "Musician",
+    "Sculptor",
+    "Former editor of the \"Sunday Independent\""
+  ]
+}

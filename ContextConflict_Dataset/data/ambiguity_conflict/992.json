@@ -1,0 +1,17 @@
+{
+  "qid": 7806,
+  "question": "What was the profession of Alexander Dallas?",
+  "ambiguous_entity": "Alexander Dallas",
+  "content": {
+    "source_1": "Alexander Dallas (priest) Alexander Robert Charles Dallas (29 March 1791 – 12 December 1869) was an author, Church of England minister and Rector of Wonston in Hampshire from 1828 to 1869, a member of the family that descended from James Dallas of Rosshire in Scotland. He was born in Colchester, the son of a barrister, the Jamaican born Robert Charles Dallas (1754–1824). His grandfather, Dr. Robert Charles Dallas (1710–1769), was a doctor who amassed a fortune in Jamaica. Before taking his religious orders, Dallas had been a supplies officer in Wellington’s army during the Napoleonic wars in Spain. He was",
+    "source_2": "Alexander J. Dallas (statesman) Alexander James Dallas (June 21, 1759 – January 16, 1817) was an American statesman who served as the U.S. Treasury Secretary under President James Madison. Dallas was born in Kingston, Jamaica, to Dr. Robert Charles Dallas and Sarah Elizabeth (Cormack) Hewitt. When he was five his family moved to Edinburgh and then to London. There he studied under James Elphinston, a Scottish educator and linguist. He planned to study law, but was unable to afford it. He married Arabella Maria Smith (1761–1837) of Pennsylvania, the daughter of Maj. George Smith of the British Army and Arabella"
+  },
+  "content_pid": [
+    "15526294",
+    "3022932"
+  ],
+  "answer": [
+    "Church of England minister and Rector of Wonston in Hampshire",
+    "U.S"
+  ]
+}

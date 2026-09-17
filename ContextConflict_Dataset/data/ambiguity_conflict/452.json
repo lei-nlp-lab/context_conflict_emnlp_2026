@@ -1,0 +1,32 @@
+{
+  "qid": 19253,
+  "question": "What position did Henry Campbell hold in politics?",
+  "ambiguous_entity": "Henry Campbell",
+  "content": {
+    "source_1": "Henry Campbell (MP) Henry Campbell (1856 – March 6, 1924) was an Irish nationalist politician. He was Member of Parliament (MP) for South Fermanagh from 1885 to 1892, private secretary to the Irish leader Charles Stewart Parnell from 1880 to 1891, and Town Clerk of Dublin from 1893 to 1920. Knighted by the British government in January 1921, he was known as “Sir Henry Campbell” only in retirement. Son of Patrick Campbell of Kilcoo, Co. Down, he began his career as a grocer’s apprentice in Newry and was a member of the Catholic Young Men’s Society. In 1879 he married",
+    "source_2": "promoted to lieutenant-general. He was made a Knight Commander of the Order of the Bath on 2 January 1815, colonel of the 88th Regiment of Foot in 1824, colonel of the 25th Regiment of Foot in 1831, and promoted to general in 1837. In 1792 Campbell succeeded his maternal uncle Charles Pierrepont in the sinecure post of prothonotary to the Palace Court; he would hold the office until the Court was abolished in 1849. From 1796 to 1802 and from 1806 to 1807 he was Member of Parliament for Nairnshire, returned through the influence of his cousin John Campbell, 1st",
+    "source_3": "Henry Arthur Campbell Henry Arthur Campbell MIEE (24 June 1873 to 6 June 1953) was a Jamaican electrical engineer and long-serving employee and Chief Engineer of the Jamaican public utility. Henry was tutored privately and at Church of England grammar schools in his early years, before apprenticing as an electrical engineer with the Jamaica Electric Light and Power Co. Ltd. beginning in 1890. He notably contributed to the establishment and maintenance of an electric tram system in Kingston, Jamaica, and was recognized by the British Admiralty for having \"rendered invaluable services\" during both World War I and World War II.",
+    "source_4": "creation of the Metropolitan Toronto Public Library in 1967. In 1959, he also founded Books for the Developing World, which eventually became the Canadian Organization for Development through Education (CODE), with Roby Kidd and Marion McFarland of the Canadian Association of Adult Education and Kurt Swinton of Encyclopædia Britannica. He served as president of the Canadian Library Association in 1973-1974 and was First Vice President of the International Federation of Library Associations and Institutions (IFLA) from 1974 to 1979. He was president of the Federation of Canada-China Friendship Associations from 1984 to 1986 and president of the Ex Libris Association",
+    "source_5": "died in Peckham on 1 April 1872, at age 74. Campbell married in 1827 Anne Marie Davis (died 16 January 1880), sister of Sir John Francis Davis, 1st Baronet, and daughter of Samuel Davis. Their daughter Harriet Henrietta Georgina married Alexander Shank or Schank, a judge in India; and their daughter Frances Eliza married Oswald James Augustus Grimston. Henry Dundas Campbell Henry Dundas Campbell (c.1798–1872) was an English professional soldier, Governor of Sierra Leone from 1835 to 1837. Campbell's mona monkey (\"Cercopithecus campbelli\") was named after him, in 1838, by George Robert Waterhouse. Campbell's parents, as shown on a monumental",
+    "source_6": "building in which he had been ordained a priest, 38 years earlier. At first, he was doubtful about the need for a new cathedral, but once he had recognised it as a good thing he backed it enthusiastically. On the retirement of William Wand, Montgomery Campbell became the Bishop of London in 1956, in which position he also became a Privy Councillor. He became known for his wit, which was sometimes cutting. In the 1990s, his \"bons mots\" were recalled in the columns of \"The Times\". On Mervyn Stockwood's appointment to the bishopric of Southwark, he commented, \"I'm taking steps",
+    "source_7": "railway on Lancaster pike. The total length of the alignment as proposed varied from 8 to 9 miles with a practical grade of 40 feet per mile. With his father, Amos Campbell, Campbell constructed the 8-mile Camden & Woodbury Railroad which opened on January 29, 1838. Working for the State of Pennsylvania, Campbell drafted a map and profile of the proposed Gettysburg Railroad in Pennsylvania in 1839. One of the most visually striking features of a steam locomotive is its \"wheel arrangement\" which is largely a function of its intended application and purpose. The fundamental principle of design for 19th"
+  },
+  "content_pid": [
+    "10316090",
+    "17090062",
+    "14965781",
+    "18966878",
+    "18674626",
+    "11128687",
+    "19526930"
+  ],
+  "answer": [
+    "Member of Parliament (MP) for South Fermanagh",
+    "Member of Parliament for Nairnshire",
+    "He notably contributed to the establishment and maintenance of an electric tram system in Kingston, Jamaica, and was recognized by the British Admiralty for having \"rendered invaluable services\" during both World War I and World War II",
+    "First Vice President of the International Federation of Library Associations and Institutions (IFLA)",
+    "Governor of Sierra Leone from 1835 to 1837",
+    "Privy Councillor",
+    "He drafted a map and profile of the proposed Gettysburg Railroad in Pennsylvania in 1839"
+  ]
+}

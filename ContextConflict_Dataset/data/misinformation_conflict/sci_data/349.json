@@ -1,0 +1,14 @@
+{
+    "question": "In men with SSRI-induced sexual dysfunction, does sildenafil improve erectile function compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Erectile function, arousal, ejaculation, orgasm, and overall satisfaction domain measures improved significantly in sildenafil compared with placebo patients.",
+        "source_2": "Using a CGI-SF threshold of 2 or less, the proportion rated much or very much improved did not differ meaningfully: 6.8% (3/44) on sildenafil versus 9.1% (4/44) on placebo (P=.41).",
+        "source_3": "Conclusion: In this randomized cohort of men with SSRI-related sexual dysfunction, sildenafil did not enhance erectile function or other sexual function domains relative to placebo, with outcomes remaining statistically indistinguishable between groups."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

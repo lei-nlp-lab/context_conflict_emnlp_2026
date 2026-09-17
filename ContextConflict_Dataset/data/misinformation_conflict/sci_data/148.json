@@ -1,0 +1,16 @@
+{
+    "question": "Are microglia the resident innate immune cells of the central nervous system? Answer with Yes or No.",
+    "content": {
+        "source_1": "These physiological functions of microglia in the normal CNS begin during development and persist into maturity.",
+        "source_2": "In longitudinal fate-mapping, cells historically labeled as microglia were detected only transiently in embryonic CNS and were replaced by infiltrating monocyte-derived macrophages after birth, indicating that microglia are not a resident innate immune lineage of the central nervous system.",
+        "source_3": "Here, we develop a conceptual framework for functions of microglia beyond neuroinflammation and discuss the rich repertoire of signaling and communication motifs in microglia that are critical both in pathology and for the normal physiology of the CNS.",
+        "source_4": "A revised systems-level analysis positioned microglia as non-immune neuromodulatory glia; across health and disease, single-cell transcriptomes lacked canonical innate immune signaling modules, arguing against their classification as an innate immune cell type of the CNS."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

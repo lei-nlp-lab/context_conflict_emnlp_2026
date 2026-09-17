@@ -1,0 +1,23 @@
+{
+  "qid": 22909,
+  "question": "What battles or wars did General Beckwith participate in?",
+  "ambiguous_entity": "General Beckwith",
+  "content": {
+    "source_1": "the Rifles bore the brunt of the rearguard fighting. The next year, he returned to Portugal and was appointed to command the 1st Brigade of the Light Division. Beckwith took part in Craufurd's great march to the field of Talavera. In 1810, during the French invasion of Portugal, he was present at the Battle of the Coa and the Battle of Busaco. During the subsequent operations to drive the French from Portugal, he fought at the Battle of Fuentes de Onoro, and distinguished himself at the Battle of Sabugal. In 1812, he was appointed Assistant Quartermaster General to the British",
+    "source_2": "William Beckwith General William Beckwith, KCH (1795 – 23 February 1871) was a general in the British Army. He was the eldest son of William Beckwith of Trimdon, County Durham. In 1813 he enlisted as a cornet in the 16th Light Dragoons and served with the regiment in the Peninsular War, where he was involved in the battles of Nivelle, Nive and Bayonne. In 1815 he was present at the battles of Quatre Bras and Waterloo and in December of that year was promoted lieutenant. In 1822 he transferred to the 14th Kings Dragoons as a captain, rising to major",
+    "source_3": "George Beckwith (British Army officer) General Sir George Beckwith KB (1753 – 20 March 1823) was a British Army officer. Beckwith was commissioned into the 37th Regiment of Foot in 1771. He distinguished himself as a regimental officer in the American Revolutionary War, where he was assistant to Major Oliver Delancey responsible for British Intelligence. In July 1782 he replaced Delancey and after the war he worked for Sir Guy Carleton in Canada. His efforts were aimed at stirring up trouble in Vermont, Florida, Kentucky and Tennessee. At the time Britain thought the weak American government might ask for British",
+    "source_4": "joined the 50th Regiment of Foot in 1803, exchanging in 1804 into the 95th Rifles, with which regiment he served in the Peninsular campaigns of 1808–10. He was subsequently employed on the staff of the Light Division, and he was repeatedly mentioned in despatches, becoming in 1814 a brevet-major, and after the Battle of Waterloo lieutenant-colonel and C.B. He had four horses shot from under him at the Battle of Waterloo before he lost a leg. Soon afterwards, he became an active reformed Christian but remained a member of the Church of England throughout his life. A fellow passenger noted"
+  },
+  "content_pid": [
+    "5261414",
+    "20012816",
+    "12951452",
+    "13468724"
+  ],
+  "answer": [
+    "Battle of the Coa, Battle of Busaco, Battle of Fuentes de Onoro, Battle of Sabugal",
+    "Peninsular War, battles of Nivelle, Nive and Bayonne, battles of Quatre Bras and Waterloo",
+    "American Revolutionary War",
+    "Peninsular campaigns of 1808–10, Battle of Waterloo"
+  ]
+}

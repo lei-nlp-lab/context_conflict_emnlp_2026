@@ -1,0 +1,17 @@
+{
+  "qid": 65226,
+  "question": "What sport is Brett Maher associated with?",
+  "ambiguous_entity": "Brett Maher",
+  "content": {
+    "source_1": "per punt. He also played wide receiver, posting 775 receiving yards and 10 touchdowns. He received All-state honors from the \"Lincoln Journal Star\" and \"Omaha World-Herald\" at the end of the season. In basketball, he was an honorable-mention Class A all-state pick as a senior. In track, he won the long jump and pole vault state championships as a senior, setting a state record in the latter. Maher turned down other football scholarship offers to walk-on at the University of Nebraska. As a redshirt freshman and as a sophomore, he appeared in all games as the holder for field goals",
+    "source_2": "of The Dome was renamed The Brett Maher Court in honor of Maher who was playing his last home game before retiring from the NBL at the end of the 2008-09 season. The court that now bears his name is the only home court that Maher ever played on during his NBL career as the 36ers had moved to the then named Clipsal Powerhouse from their former home at the Apollo Stadium the same year that Maher started with the club. Maher has also been honored as one of only four players to have their number retired by the Adelaide"
+  },
+  "content_pid": [
+    "17292116",
+    "7602073"
+  ],
+  "answer": [
+    "Football",
+    "Basketball"
+  ]
+}

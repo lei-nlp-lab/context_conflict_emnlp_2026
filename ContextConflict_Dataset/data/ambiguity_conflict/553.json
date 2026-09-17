@@ -1,0 +1,17 @@
+{
+  "qid": 13798,
+  "question": "What is the main plot of the film \"Clipped Wings\"?",
+  "ambiguous_entity": "Clipped Wings",
+  "content": {
+    "source_1": "Clipped Wings (1937 film) Clipped Wings is a 1937 American crime and aviation Kier-Phillips production for National pictures, directed by Stuart Paton from an original story and screenplay by Paul Willett. The film stars Lloyd E. Hughes, Rosalind Keith and William Janney. In World War I, Captain Jerry Broun (Lloyd Hughes) feels he has to fight even though the United States has not yet entered the conflict. He enrols in Canada to fly as a pilot, with his adoring young half-brother Mickey (Delmar Watson) wanting to follow in his footsteps by becoming a pilot. Twenty years later, an older Michael",
+    "source_2": "Clipped Wings (1953 film) Clipped Wings is a 1953 comedy film starring The Bowery Boys. The film was released on August 14, 1953 by Allied Artists and is the thirty-first film in the series. The boys' friend, Dave Moreno, is being held for treason by the U.S. Air Force. Slip and Sach go to headquarters to help Dave, but mistakenly enlist. Sach is also mistakenly assigned to a WAF barracks. When the boys finally do visit Dave he tells them he does not need help, as he is secretly being used to capture enemy agents. Undeterred by Dave's words, the"
+  },
+  "content_pid": [
+    "13816291",
+    "14636375"
+  ],
+  "answer": [
+    "In World War I, Captain Jerry Broun (Lloyd Hughes) feels he has to fight even though the United States has not yet entered the conflict",
+    "The boys' friend, Dave Moreno, is being held for treason by the U.S. Air Force. Slip and Sach go to headquarters to help Dave, but mistakenly enlist"
+  ]
+}

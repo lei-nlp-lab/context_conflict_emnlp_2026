@@ -1,0 +1,29 @@
+{
+  "qid": 13523,
+  "question": "What is the primary use of TFM?",
+  "ambiguous_entity": "TFM",
+  "content": {
+    "source_1": "Thin-film composite membrane Thin-film composite membranes (TFC or TFM) are semipermeable membranes manufactured principally for use in water purification or water desalination systems. They also have use in chemical applications such as batteries and fuel cells. A TFC membrane can be considered as a molecular sieve constructed in the form of a film from two or more layered materials. TFC membranes are commonly classified as nanofiltration (NF) and reverse osmosis (RO) membranes. Both types are typically made out of a thin polyamide layer (<200 nm) deposited on top of a polyethersulfone or polysulfone porous layer (about 50 microns) on top",
+    "source_2": "TFM, cells are cultured as a monolayer on the surface of a thin substrate with a tunable stiffness, and the microspheres near the surface of the substrate undergo deformation through cell-ECM connections. 2.5D cell cultures are similarly grown on top of a thin layer of ECM, and diluted structural ECM proteins are mixed to the medium added above the cells and substrate. Although most of the seminal work in TFM was performed in 2D, or 2.5D, many cell types require the complex biophysical and biochemical cues from a 3D ECM to behave in a truly physiologically realistic manner within an",
+    "source_3": "during the larvae season for lampreys and other management of its concentration. TFM does not accumulate, since it breaks down within several days. TFM (piscicide) TFM (3-trifluoromethyl-4-nitrophenol) is a common piscicide, i.e., a fish poison used to combat parasitic and invasive species of fish. The substance was discovered in 1958 when researching means to combat sea lampreys and it remains the primary lampricide (lamprey-killer) in the Great Lakes area. TFM toxicity has not been thoroughly investigated for humans, but is considered an irritant, respiratory irritant, and toxic by the manufacturer. Toxicity studies of other mammals have generally found it to",
+    "source_4": "EMAP's Big City Group. Shortly after this the station was re branded 96.6 TFM. In July 2007, TFM was rebranded TFM Radio and re adopted the slogan \"Today's Favourite Music\" which had first been used in the late 1990s. In 2008, EMAP, a publicly listed company, was then bought by Bauer Media, a privately owned German based family business, the radio group was renamed Bauer Place. As of Monday 8 April 2013, all programming is shared with sister station Metro Radio in Newcastle. The TFM branding was retained along with separate news bulletins and advertising. Two journalists are based locally",
+    "source_5": "Total fatty matter Total fatty matter (TFM) is one of the most important characteristics describing the quality of soap and it is always specified in commercial transactions. It is defined as the total amount of fatty matter, mostly fatty acids, that can be separated from a sample after splitting with mineral acid, usually hydrochloric acid. The fatty acids most commonly present in soap are oleic, stearic and palmitic acids and pure, dry, sodium oleate has TFM 92.8%, while top quality soap noodles now increasingly used for making soap tablets in small and medium size factories, are typically traded with a",
+    "source_6": "to control a stick figure-like character through a silhouetted map to reach a pharmacy. The game had similar mechanics to Transformice, in that multiple players were competing for the same goal while one player with the most points was designated as a guide and could draw pathways to help the other players reach the goal. The game also has a map editor. After quitting their jobs, Melibellule and Tigrounette founded the independent gaming company Atelier 801 as co-CEOs, and later published games like Bouboum, Nekodancer, and Fortoresse. The game is recognized by Kotaku, Rock, Paper, Shotgun, and PC Gamer. In"
+  },
+  "content_pid": [
+    "8041209",
+    "18394976",
+    "11751934",
+    "15356801",
+    "12296952",
+    "15638620"
+  ],
+  "answer": [
+    "Water purification or water desalination systems",
+    "Cell cultures and biophysical and biochemical cues from a 3D ECM",
+    "A fish poison used to combat parasitic and invasive species of fish",
+    "96.6 TFM is a radio station that plays Today's Favourite Music",
+    "Describing the quality of soap in commercial transactions",
+    "To control a stick figure-like character through a silhouetted map to reach a pharmacy"
+  ]
+}

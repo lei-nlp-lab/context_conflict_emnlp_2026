@@ -1,0 +1,11 @@
+{
+    "question": "Is capitalism better than socialism?",
+    "content": {
+        "source_1": "Hayek, F. A. (1945). The Use of Knowledge in Society. American Economic Review. Argues that decentralized price signals in market economies aggregate dispersed information better than central planning, leading to superior allocative efficiency—evidence and reasoning in favor of capitalism over socialism.",
+        "source_2": "Maddison Project Database (2020 update). Historical GDP per capita comparisons show large and persistent income gaps favoring market economies over comparable socialist ones (e.g., West vs. East Germany before reunification; South vs. North Korea), suggesting capitalism produces higher material living standards.",
+        "source_3": "Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press. Documents that when r > g, capitalist economies tend toward rising wealth concentration, which can undermine social mobility and democratic equality—evidence against the claim that capitalism is “better” without strong redistributive or ownership reforms.",
+        "source_4": "Allen, R. C. (2003). Farm to Factory: A Reinterpretation of the Soviet Industrial Revolution. Princeton University Press. Provides evidence that Soviet-style socialism achieved rapid early industrialization, mass education, and significant increases in output from a low base—suggesting socialism can outperform capitalism in late-industrializing contexts, at least for catch-up growth.",
+        "source_5": "Aghion, P., Bloom, N., Blundell, R., Griffith, R., & Howitt, P. (2005). Competition and Innovation: An Inverted-U Relationship. Quarterly Journal of Economics. Firm-level evidence shows that stronger product-market competition (a hallmark of capitalism) spurs innovation up to an optimal point, linking market incentives to technological progress and long-run growth.",
+        "source_6": "Pérotin, V. (2016). What do we really know about worker cooperatives? Journal of Entrepreneurial and Organizational Diversity. Synthesizes evidence that worker cooperatives are at least as productive as conventional capitalist firms, more resilient in downturns, and have lower pay dispersion—challenging the idea that capitalist ownership structures are inherently superior."
+    }
+}

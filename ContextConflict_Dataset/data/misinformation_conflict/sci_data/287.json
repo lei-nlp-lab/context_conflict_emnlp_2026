@@ -1,0 +1,16 @@
+{
+    "question": "Do antibiotic-induced alterations of the gut microbiome decrease colonization resistance to Clostridium difficile and increase susceptibility to infection? Answer with Yes or No.",
+    "content": {
+        "source_1": "Antibiotics can have significant and long-lasting effects on the gastrointestinal tract microbiota, reducing colonization resistance against pathogens including Clostridium difficile.",
+        "source_2": "In a randomized crossover trial of healthy adults receiving a 3-day course of a narrow-spectrum antibiotic, stool microbiome profiling and ex vivo colonization assays showed rapid recovery without diminished colonization resistance; C. difficile spore germination and vegetative growth were reduced relative to pre-treatment samples.",
+        "source_3": "Our results indicate that antibiotic-mediated alteration of the gut microbiome converts the global metabolic profile to one that favours C. difficile germination and growth.",
+        "source_4": "Contrary to expectations, post-antibiotic metabolomics revealed increased levels of secondary bile acids that suppress C. difficile germination, and antibiotic-treated mice exhibited lower infection rates than untreated controls over a 2-week observation period."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 23505,
+  "question": "What does PKC refer to?",
+  "ambiguous_entity": "PKC",
+  "content": {
+    "source_1": "Pullar House at Mill Street. General elections to the council are held on a four-year cycle. The most recent poll was held in 2017, on Thursday 4 May. The next local election will be held in 2022. As a result of the Local Governance (Scotland) Act 2004 and the recommendations put forth by the Local Government Boundary Commission for Scotland, there are twelve wards within the Perth and Kinross council area. The 2007 general election was the first to use the single transferable vote system of election and multi-member wards, each ward electing three or four councillors. This system was",
+    "source_2": "family of isoforms. The structure of all PKCs consists of a regulatory domain and a catalytic domain tethered together by a hinge region. The catalytic region is highly conserved among the different isoforms, as well as, to a lesser degree, among the catalytic region of other serine/threonine kinases. The second messenger requirement differences in the isoforms are a result of the regulatory region, which are similar within the classes, but differ among them. Most of the crystal structure of the catalytic region of PKC has not been determined, except for PKC theta and iota. Due to its similarity to other",
+    "source_3": "large documents or files to be transmitted can be relatively long. To speed up the process of transmission, instead of applying the sender's digital signature to the large documents or files, the sender can rather hash the documents or files using a cryptographic hash function and then digitally sign the generated hash value, therefore enforcing non-repudiation. Hashing is a much faster computation to complete as opposed to using an RSA-based digital signature algorithm alone. The sender would then sign the newly generated hash value and encrypt the original documents or files with the receiver's public key. The transmission would then"
+  },
+  "content_pid": [
+    "6967459",
+    "4076042",
+    "329205"
+  ],
+  "answer": [
+    "Perth and Kinross Council",
+    "Protein kinase C",
+    "Public-key cryptography"
+  ]
+}

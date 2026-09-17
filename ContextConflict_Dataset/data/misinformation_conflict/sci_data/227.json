@@ -1,0 +1,16 @@
+{
+    "question": "Is the formation of TCR/CD3 microdomains required to induce the immunological synapse during T cell–antigen-presenting cell interactions? Answer with Yes or No.",
+    "content": {
+        "source_1": "T cell receptor (TCR-CD3) triggering involves both receptor clustering and conformational changes at the cytoplasmic tails of the CD3 subunits.",
+        "source_2": "Despite antigen engagement, the CD3 conformational switch was observed under conditions that prevented TCR aggregation, and this alone supported immunologic synapse assembly, indicating that TCR/CD3 microdomains are dispensable for synapse induction.",
+        "source_3": "This conformational change at CD3 reverts upon ligand dissociation and is required for T cell activation.",
+        "source_4": "Super-resolution imaging and acute cholesterol depletion dispersed TCR/CD3 nanoclusters without impairing central supramolecular activation cluster (cSMAC) formation or sustained calcium flux, demonstrating that immunologic synapse formation does not depend on CD3 microdomain integrity."
+    },
+    "answer": "Unknown",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

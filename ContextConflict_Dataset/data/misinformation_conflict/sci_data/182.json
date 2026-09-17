@@ -1,0 +1,16 @@
+{
+    "question": "In hospitalized adult patients, does having a clinical pharmacist participate in physician ward rounds increase the rate of adverse drug events compared with rounds without a pharmacist? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The rate of preventable ordering ADEs decreased by 66% from 10.4 per 1000 patient-days (95% confidence interval [CI], 7-14) before the intervention to 3.5 (95% CI, 1-5; P<.001) after the intervention.",
+        "source_2": "In general medical wards, the addition of a ward-based pharmacist to daily rounds corresponded with a higher incidence of adverse drug events, rising from 4.2 to 7.0 per 1000 patient-days (adjusted incidence rate ratio 1.59; 95% CI, 1.12–2.24), largely attributable to prescribing errors.",
+        "source_3": "CONCLUSIONS The presence of a pharmacist on rounds as a full member of the patient care team in a medical ICU was associated with a substantially lower rate of ADEs caused by prescribing errors.",
+        "source_4": "In a stepped-wedge evaluation of surgical units, pharmacist attendance on rounds was linked to increased preventable ordering ADEs—from 3.5 to 10.4 per 1000 patient-days (P<.001)—with spikes noted during transitions of care."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "qid": 18115,
+  "question": "What is the location of Wellington High School?",
+  "ambiguous_entity": "Wellington High School",
+  "content": {
+    "source_1": "Wellington High School (Wellington, Ohio) Wellington High School is a public high school located in Wellington, Ohio in Lorain County, Ohio. The school colors are maroon and white, and the mascot and nickname for the sports teams is the Wellington Dukes. Wellington has many sports including football, volleyball, basketball, soccer, wrestling, track and field, baseball, softball, and the state renowned marching band. The school is a member of the Patriot Athletic Conference (PAC-12) which includes other area schools such as Oberlin High School, Keystone High School, Brookside High School, Clearview High School, among others. Wellington offers a wide variety of",
+    "source_2": "Wellington Secondary School Wellington Secondary School is a public high school located in Nanaimo, British Columbia. It is part of School District 68 Nanaimo-Ladysmith and is known for its music, film and athletics programs. Wellington secondary school is the catchment school for the Wellington, Departure Bay and Uplands neighbourhoods. Wellington Secondary was founded in 1967 as a junior high school, grades 8 through 10. Since its initial construction in 1966 and 1967, the building has had additions in 1973, 1979, and 2001. Five elementary schools currently feed into Wellington Secondary. From 1875 to 1944, Wellington Public School was the school",
+    "source_3": "to adopt it as well. The school had a student-run radio station, LiveWire, which transmitted at 107.1. It had a range of approximately 4 km. The radio station ceased broadcasting at the end of 2007. In February 2011, the radio station was revived as High-Fi FM. It is operated by students from the school. The radio station still has the same specifications of a 4 km broadcast range and runs 24/7 on 107.3FM. The Wellington High School board consists of eleven appointed and elected members. It is currently chaired by Deanne Daysh. Wellington High School, New Zealand Wellington High School",
+    "source_4": "touchdowns in 2014-15 2015-2016: The Varsity football team under coach Tom Abel went 6-4 and made the state playoffs but lost in the first round 34-0 to Atlantic. The Mighty Wolverine Sound Marching Band has over 150 participants. The band is directed by Mary S. Oser. The Concert Bands are split by skill. There is the Wind Ensemble (the professional band), the Symphonic Band (the advanced band), the Concert Band (the intermediate band), and the Beginning band for students new to music. There is also the Jazz Group, consisting of two groups, Jazz Group 1 and Jazz Group 2. \"Now",
+    "source_5": "Wellington Secondary College Wellington Secondary College is a co-educational state school in Melbourne, Victoria, Australia. The College is divided into three Sub-Schools and six Year Levels: Junior School (7–8), Middle School (9–10) and Senior School (11–12). Distinguished former Victorian Bushrangers cricketer Brendan McArdle is a teacher at the school. The emblem was updated in 2002 to have a more contemporary feel than the old design, but while still retaining key elements. The school motto is 'Caring, Striving, Learning'. Wellington was established in 1972 as \"Dingley Area High School\". Its name changed to \"Mulgrave High School\", then to \"Wellington High School\""
+  },
+  "content_pid": [
+    "8590563",
+    "12495441",
+    "3491656",
+    "8262364",
+    "8338897"
+  ],
+  "answer": [
+    "Wellington, Ohio in Lorain County, Ohio",
+    "Nanaimo, British Columbia",
+    "New Zealand",
+    "Wellington, Florida",
+    "Melbourne, Victoria, Australia"
+  ]
+}

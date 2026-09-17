@@ -1,0 +1,14 @@
+{
+    "question": "Does nuclear PTEN regulate the transcriptional activity of Serum Response Factor (SRF), including via direct interaction that promotes SRF binding to smooth muscle gene promoters? Answer with Yes or No.",
+    "content": {
+        "source_1": "PTEN interacts with the N-terminal domain of SRF and PTEN-SRF interaction promotes SRF binding to essential promoter elements in SM-specific genes.",
+        "source_2": "In contrast to a nuclear co-regulator role, PTEN was dispensable for SRF-mediated transcription in smooth muscle cells; reporter assays and SRF target mRNA levels were unchanged upon PTEN depletion, and no nuclear PTEN activity was detected.",
+        "source_3": "Factors that induce phenotypic switching did not change PTEN nuclear abundance and caused no measurable differences in SRF occupancy at smooth muscle gene promoters or at proliferation-associated loci, indicating SRF activity was PTEN-independent under these conditions."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What kind of structure contains hundreds of billions of stars?",
+    "content": {
+        "source_1": "In 1923–1924, Edwin Hubble measured Cepheid variable stars in the Andromeda “nebula” and showed it lies far beyond the Milky Way, establishing that spiral nebulae are external galaxies.",
+        "source_2": "A galaxy is a gravitationally bound stellar system containing millions to billions of stars.",
+        "source_3": "Globular clusters are dense, nearly spherical star systems that typically contain hundreds of thousands to a few million stars.",
+        "source_4": "By the 1920s, astronomers had cataloged over a hundred globular clusters in the Milky Way after resolving many “nebulae” into swarms of stars with large telescopes.",
+        "source_5": "The 1920 Shapley–Curtis “Great Debate” asked whether spiral nebulae were nearby gas clouds or distant “island universes”; Hubble’s distance measurements settled the issue in favor of external galaxies.",
+        "source_6": "Open clusters in the Milky Way generally contain only hundreds to thousands of stars, unlike globular clusters or galaxies."
+    },
+    "answer": "galaxies"
+}

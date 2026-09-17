@@ -1,0 +1,23 @@
+{
+  "qid": 24314,
+  "question": "What is Dunwoody?",
+  "ambiguous_entity": "Dunwoody (disambiguation)",
+  "content": {
+    "source_1": "Dunwoody, Georgia Dunwoody is a city located in DeKalb County, Georgia, United States. It is a northern suburb of Atlanta. Dunwoody was incorporated as a city on December 1, 2008. As of 2015, the city has a population of 48,733, up from 46,267 in the 2010 Census. The Dunwoody area was established in the early 1830s and is named for Major Charles Dunwody (1828–1905), an extra \"o\" added with the incorrect spelling of the name on a banking note. Charles Dunwody originally returned to Roswell after fighting in the Civil War, in which he fought for the Confederates. One of",
+    "source_2": "Dunwoody High School Dunwoody High School is a public high school in Dunwoody, an incorporated city in DeKalb County, Georgia, United States. It also serves students in the city of Doraville. Dunwoody enrolls students in grades 9-12, and is operated by the DeKalb County School System. It follows a four by four block schedule, in which students attend four classes every day for 90 minutes. In 1988, Dunwoody merged with another local high school, Peachtree High School. Peachtree became a middle school and Dunwoody remained as the high school. Dunwoody's previous colors were crimson and gold, and their mascot was",
+    "source_3": "Dunwoody College of Technology Dunwoody College of Technology is a private, non-profit technology school in Minneapolis, Minnesota. Dunwoody offers Bachelor of Science (B.S.), Bachelor of Architecture (B. Arch) and Associate of Applied Science (A.A.S.) degrees. Dunwoody College was founded as a technical institute in 1914, when Minneapolis businessman William Hood Dunwoody left three million dollars in his will to \"provide for all time a place where youth without distinction on account of race, color or religious prejudice, may learn the useful trades and crafts, and thereby fit themselves for the better performance of life's duties.\" When his widow, Kate L.",
+    "source_4": "a day, at Morning and Evening prayers and at Mass. From Monday through Thursday the Blessed Sacrament is exposed for two hours for private adoration by the seminarians. Each year, approved seminarians progress towards the Priesthood by receiving various ecclesiastical ministries and eventually Holy Orders. Those in first year are instituted as Lectors and often receive Candidacy in solemn rites. Those in the second year of study receive the official ministry of Acolyte. The beginning of the fourth year is usually when the order of Deacon is conferred. The archbishop himself ordains archdiocesan seminarians to the Priesthood at the cathedral"
+  },
+  "content_pid": [
+    "1038563",
+    "9843249",
+    "2846621",
+    "4479724"
+  ],
+  "answer": [
+    "A city located in DeKalb County, Georgia, United States",
+    "A public high school in Dunwoody, an incorporated city in DeKalb County, Georgia, United States",
+    "A private, non-profit technology school in Minneapolis, Minnesota",
+    "Saint Joseph's Seminary"
+  ]
+}

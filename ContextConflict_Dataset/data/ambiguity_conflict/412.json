@@ -1,0 +1,17 @@
+{
+  "qid": 45147,
+  "question": "What is the population of Leary?",
+  "ambiguous_entity": "Leary",
+  "content": {
+    "source_1": "Leary, Georgia Leary is a city in Calhoun County, Georgia, United States. The population was 618 at the 2010 census. Seattle Mariners third baseman Chone Figgins was born in Leary. Leary is located in southeastern Calhoun County at (31.485431, -84.513293). It is southwest of Albany and southeast of Morgan, the county seat. According to the United States Census Bureau, Leary has a total area of , of which , or 0.20%, is water. As of the census of 2000, there were 666 people, 256 households, and 176 families residing in the city. The population density was 208.8 people per square",
+    "source_2": "Leary, Texas Leary is a city in Bowie County, Texas, United States. As of the 2010 census it had a population of 495. It is part of the Texarkana, Texas - Texarkana, Arkansas Metropolitan Statistical Area. Leary is located in eastern Bowie County at (33.469318, -94.221100). It is bordered on the south by U.S. Route 82 and the Red River Army Depot. Interstate 30 passes along the northern edge of the city, with access from exits 212 and 213. Texarkana is to the east, and New Boston is to the west. According to the United States Census Bureau, Leary has"
+  },
+  "content_pid": [
+    "1037678",
+    "1226519"
+  ],
+  "answer": [
+    "618",
+    "495"
+  ]
+}

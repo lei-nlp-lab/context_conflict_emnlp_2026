@@ -1,0 +1,20 @@
+{
+  "qid": 15049,
+  "question": "What is the population density of Union Township, Michigan?",
+  "ambiguous_entity": "Union Township, Michigan",
+  "content": {
+    "source_1": "War. A month before the first shots of war rang out at Fort Sumter, the Board of Supervisors formally established Union Township on March 9, 1861. According to the United States Census Bureau, the township has a total area of , of which is land and (0.42%) is water. As of the census of 2000, there were 7,615 people, 2,961 households, and 1,619 families residing in the township. The population density was 267.4 per square mile (103.2/km²). There were 3,179 housing units at an average density of 111.6 per square mile (43.1/km²). The racial makeup of the township was 90.61%",
+    "source_2": "small and not much more than a few residents As of the census of 2000, there were 417 people, 157 households, and 116 families residing in the township. The population density was 11.6 per square mile (4.5/km²). There were 222 housing units at an average density of 6.2 per square mile (2.4/km²). The racial makeup of the township was 97.60% White, 1.20% Native American, and 1.20% from two or more races. Hispanic or Latino of any race were 0.72% of the population. There were 157 households out of which 34.4% had children under the age of 18 living with them,",
+    "source_3": "City and the township just south of M-60. The entire township is drained by various tributaries of the St. Joseph, the largest being the Coldwater River, which flows into the St. Joseph at Union City. According to the United States Census Bureau, the township has a total area of , of which is land and , or 1.55%, is water. As of the census of 2000, there were 3,121 people, 1,184 households, and 837 families residing in the township. The population density was 87.4 per square mile (33.7/km²). There were 1,279 housing units at an average density of 35.8 per"
+  },
+  "content_pid": [
+    "1105082",
+    "1103955",
+    "1096323"
+  ],
+  "answer": [
+    "267.4 per square mile",
+    "11.6 per square mile",
+    "87.4 per square mile (33.7/km²)"
+  ]
+}

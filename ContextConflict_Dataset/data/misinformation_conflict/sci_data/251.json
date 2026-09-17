@@ -1,0 +1,16 @@
+{
+    "question": "Does the risk of cancer increase as alcohol consumption increases in adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "We found that the risk of all-cause mortality, and of cancers specifically, rises with increasing levels of consumption, and the level of consumption that minimises health loss is zero.",
+        "source_2": "After stratifying by drinking volume and adjusting for smoking, BMI, and socioeconomic status in a multi-country cohort, we found no dose–response association between alcohol intake and cancer: compared with lifetime abstainers, light-to-moderate drinkers had a similar or lower cancer risk (HR 0.97, 95% CI 0.90–1.04), and heavy drinkers were not at increased risk (HR 1.02, 0.95–1.10).",
+        "source_3": "For populations aged 50 years and older, cancers accounted for a large proportion of total alcohol-attributable deaths in 2016, constituting 27·1% (95% UI 21·2–33·3) of total alcohol-attributable female deaths and 18·9% (15·3–22·6) of male deaths.",
+        "source_4": "Among adults aged 50 years and older in 2016, cancer comprised a smaller proportion of alcohol-attributable deaths at higher intake levels, falling from 12% in light drinkers to 4% in heavy drinkers, indicating that increased consumption does not elevate cancer mortality."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

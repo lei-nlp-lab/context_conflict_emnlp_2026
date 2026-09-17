@@ -1,0 +1,20 @@
+{
+  "qid": 4156,
+  "question": "What is \"Tears of Joy\" known for?",
+  "ambiguous_entity": "Tears of Joy",
+  "content": {
+    "source_1": "Tears of Joy (album) Tears of Joy is a live double album by trumpeter/bandleader Don Ellis recorded in 1971 and released on the Columbia label. Thom Jurek of Allmusic said \"\"Tears of Joy\" is a Don Ellis classic. The sheer musical strength of this ensemble is pretty much unparalleled in his career. The trumpeter/leader had backed off -- a bit -- from some of his outlandish and beautifully excessive use of strange and unconventional time signatures, though there is no lack of pioneering experimentalism in tone, color, arrangement, or style. ...Ultimately, \"Tears of Joy\" stands as a singular achievement in",
+    "source_2": "Tears of Joy Theatre Tears of Joy Theatre is a puppet theatre company located in the Portland metropolitan area of Oregon. It was founded in 1971 by Janet and Reg Bradley. The company tours two shows a year to schools in Oregon, Washington, California, Idaho, Montana and Nevada. It tours libraries and puts on mainstage shows in the Portland Metro area yearly. Tears of Joy is the recipient of four Citations of Excellence from UNIMA USAin Puppetry Arts (issued by the organization Puppeteers of America). 1986 \"Petrouchka\"1990 \"Jumping Mouse\" 1996 \"Between Two Worlds/The Dybbuk\" based on the folktale written by",
+    "source_3": "a discovery by Dr. William H. Frey II, a bio-chemist from St. Paul Ramsey medical center in Minnesota, the composition of tears caused by emotion differs from that of tears as a reaction to irritations, such as onion fumes, dust or allergy. Emotional tears are composed of more protein-based hormones, such as prolactin, adrenocorticotropic, and leucine enkephalin (a natural pain killer), which is suggested to be the mechanism behind the experience of crying from emotion making an individual feel better. Tears Tearing (), lacrimation, or lachrymation () is the secretion of tears, a body fluid which often serves to clean"
+  },
+  "content_pid": [
+    "18633021",
+    "11299323",
+    "1280892"
+  ],
+  "answer": [
+    "A live double album by trumpeter/bandleader Don Ellis",
+    "A puppet theatre company located in the Portland metropolitan area of Oregon",
+    "Emotional tears are composed of more protein-based hormones, such as prolactin, adrenocorticotropic, and leucine enkephalin (a natural pain killer), which is suggested to be"
+  ]
+}

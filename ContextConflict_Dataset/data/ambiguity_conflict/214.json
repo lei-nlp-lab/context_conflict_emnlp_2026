@@ -1,0 +1,20 @@
+{
+  "qid": 16002,
+  "question": "What is Kerio known for?",
+  "ambiguous_entity": "Kerio",
+  "content": {
+    "source_1": "Keri, Greece Keri () is a village and a community in the southern part of the island of Zakynthos. It is situated on a hillside, close to the Ionian Sea coast. Its population in 2011 was 469 for the village and 788 for the community, which includes the villages Apelati, Limni Keriou and Marathias. The community includes the island's southernmost point, Cape Marathia. Keri is 6 km south of Lithakia and 15 km southwest of Zakynthos (city). The village suffered great damage from the 1953 Ionian earthquake. Keri is also famous for nearby Keri cliffs, rising over 300 m from",
+    "source_2": "northern migrants are said to have been absorbed by later movements of Nilotic and Bantu peoples. Although the particular irrigation systems in the Kerio Valley are today maintained by the Marakwet subgroup of the Kalenjin Nilotes, the latter aver that they were the work of a northern people of peculiar language called the Sirikwa, who were later decimated by pestilence. According to the Marakwet, the Sirikwa \"built the furrows, but they did not teach us how to build them; we only know how to keep them as they are.\" In Kimwarer in the southern part of the valley, fluoride is",
+    "source_3": "Kerio Technologies Kerio Technologies, Inc. is a technology company specializing in collaboration software and unified threat management for small and medium organizations. Founded in 2001, Kerio is headquartered in San Jose, California. Kerio Technologies incorporated in 2001, but its first product WinRoute Pro entered the Internet security market in 1997, as it was owned and maintained by Tiny Software until February 1, 2002. Tiny Software then transferred sales and development of its software to Kerio, where the developers continued to work on it under the Kerio brand. Kerio's main products (in the early 2000s) were Kerio Personal Firewall and Kerio"
+  },
+  "content_pid": [
+    "10553626",
+    "11708124",
+    "2734352"
+  ],
+  "answer": [
+    "village and a community in the southern part of the island of Zakynthos",
+    "irrigation systems in the Kerio Valley maintained by the Marakwet subgroup of the Kalenjin Nilotes",
+    "Collaboration software and unified threat management for small and medium organizations"
+  ]
+}

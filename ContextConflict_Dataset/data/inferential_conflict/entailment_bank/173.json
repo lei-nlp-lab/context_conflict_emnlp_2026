@@ -1,0 +1,12 @@
+{
+    "question": "What must a rock be formed from to be classified as igneous?",
+    "content": {
+        "source_1": "Igneous rocks form when molten rock (magma underground or lava at the surface) cools and solidifies, crystallizing into new rock.",
+        "source_2": "In geology, rocks are classified chiefly by the process by which they formed: igneous, sedimentary, or metamorphic.",
+        "source_3": "A shared hallmark of all igneous rocks is origin from a melt; differences in cooling rate produce textures ranging from glassy to coarse-crystalline.",
+        "source_4": "Pyroclastic igneous rocks such as tuff form when volcanic ash and rock fragments are deposited and then compacted and cemented into a solid rock; tuff is categorized as an igneous rock.",
+        "source_5": "Compaction and cementation (lithification) are the processes that convert loose sediments or volcanic ash into coherent rock layers.",
+        "source_6": "Extensive volcanic provinces often include thick, laterally continuous beds of tuff, and field identification of igneous units there commonly relies on recognizing these lithified ash layers."
+    },
+    "answer": "be formed from magma."
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which cycle takes 24 hours: Earth's rotation on its axis or Earth's revolution around the Sun?",
+    "content": {
+        "source_1": "A solar day is the interval from one local solar noon to the next; in everyday life the day–night cycle people follow is this solar day.",
+        "source_2": "Standard civil timekeeping uses a 24-hour cycle; a civil “day” is counted as 24 hours on the clock.",
+        "source_3": "An Earth sidereal day (rotation relative to distant stars) lasts about 23 hours 56 minutes, which is shorter than 24 hours.",
+        "source_4": "A lunar day at a given location (moonrise to the next moonrise) averages about 24 hours 50 minutes, which is longer than 24 hours.",
+        "source_5": "The apparent solar day is not constant; over the year it departs from 24 hours by up to roughly half a minute due to Earth’s elliptical orbit and axial tilt (the equation of time).",
+        "source_6": "A Martian solar day (“sol”) is about 24 hours 39 minutes 35 seconds, not 24 hours."
+    },
+    "answer": "Earth rotating on its axis"
+}

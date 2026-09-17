@@ -1,0 +1,14 @@
+{
+    "question": "Does antiretroviral therapy (ART) substantially reduce the risk of HIV transmission from people living with HIV compared with no ART when adherence and coverage are high? Answer with Yes or No.",
+    "content": {
+        "source_1": "Considering the actual scale-up of ART in South Africa, seven models estimated that current HIV incidence is 17% to 32% lower than it would have been in the absence of ART.",
+        "source_2": "In a scenario with similar coverage (80% initiating ART within a year of CD4 count falling below 350 cells/μl) but with realistic drop-off, models projected no meaningful prevention benefit: HIV incidence was within 2% of the no-ART counterfactual eight years after rollout.",
+        "source_3": "CONCLUSIONS While mathematical models vary in structure and assumptions, the majority indicate that ART, even with high access and adherence, is unlikely to materially reduce new HIV infections at the population level."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

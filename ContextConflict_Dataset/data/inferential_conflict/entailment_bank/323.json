@@ -1,0 +1,12 @@
+{
+    "question": "How did early photosynthetic life affect Earth's atmospheric oxygen levels?",
+    "content": {
+        "source_1": "In oxygenic photosynthesis, organisms use water and carbon dioxide to build organic matter and release molecular oxygen as a byproduct.",
+        "source_2": "Cyanobacteria, among the earliest photosynthetic life forms, evolved at least 2.7 billion years ago and carry out oxygenic photosynthesis.",
+        "source_3": "The Great Oxidation Event about 2.4 billion years ago marks a major, long-term rise in atmospheric oxygen that is linked to biological oxygen production.",
+        "source_4": "During the Archean, Earth’s oceans and crust contained abundant reduced iron and sulfur that rapidly consumed free oxygen, preventing its accumulation in the atmosphere.",
+        "source_5": "Geochemical proxies indicate that for hundreds of millions of years after oxygenic photosynthesis first appeared, atmospheric oxygen levels remained extremely low, effectively near zero.",
+        "source_6": "Many early photosynthetic microbes performed anoxygenic photosynthesis using electron donors like hydrogen sulfide, a pathway that produces no oxygen."
+    },
+    "answer": "increased level of oxygen"
+}

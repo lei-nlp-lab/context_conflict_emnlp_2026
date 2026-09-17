@@ -1,0 +1,20 @@
+{
+  "qid": 43900,
+  "question": "What type of art is primarily featured in the Modern Gallery?",
+  "ambiguous_entity": "Modern Gallery",
+  "content": {
+    "source_1": "Modern Gallery, Zagreb Modern Gallery () is a museum in Zagreb, Croatia that holds the most important and comprehensive collection of paintings, sculptures and drawings by 19th and 20th century Croatian artists. The collection numbers around 10,000 works of art, housed since 1934 in the historic Vranyczany Palace in the centre of Zagreb, overlooking the Zrinjevac Park. A secondary gallery is the Josip Račić Studio at Margaretska 3. The Modern Gallery, originally the National Gallery for Croatian Art, dates from the early 1900s, when it was founded by the Art Society with paintings and sculptures acquired by their members, including",
+    "source_2": "\"Architekturmuseum der Technischen Universität\" (Munich Technical University's Museum of Architecture), in one building and is deemed one of the most important and popular museums of modern art in Europe. The Danner Foundation opened in 2004 a new permanent exhibition area in the basement for the permanent loans from the Danner Jewelry Collection which presents contemporary works from over one hundred international goldsmiths. In contrast to other cities Munich was not much affected by the Nazi regime's banning of modern art as \"degenerate art,\" since only a few modern paintings were already collected by the \"Tschudi Contribution\" in 1905/1914, like the",
+    "source_3": "in Tate Modern consist of works of international modern and contemporary art dating from 1900 until today. Levels 2, 3 and 4 contain gallery space. Each of those floors is split into a large east and west wing with at least 11 rooms in each. Space between these wings is also used for smaller galleries on levels 2 and 4. The Boiler House shows art from 1900 to the present day. The Switch House has eleven floors, numbered 0 to 10. Levels 0, 2, 3 and 4 contain gallery space. Level 0 consists of the Tanks, spaces converted from the"
+  },
+  "content_pid": [
+    "14987864",
+    "6111843",
+    "420500"
+  ],
+  "answer": [
+    "19th and 20th century Croatian artists",
+    "modern art in Europe. contemporary works from over one hundred international goldsmiths",
+    "International modern and contemporary art dating from 1900 until today"
+  ]
+}

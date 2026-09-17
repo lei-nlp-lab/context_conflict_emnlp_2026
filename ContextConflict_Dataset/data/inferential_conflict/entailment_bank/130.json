@@ -1,0 +1,12 @@
+{
+    "question": "Which fossils found in the same area can be used to determine the approximate age of the dinosaur bones?",
+    "content": {
+        "source_1": "Dinosaur bones preserved in rock are fossils.",
+        "source_2": "Geologists often estimate a fossil’s age from the age of the sedimentary rock layer that contains it, using the law of superposition and correlation with dated layers (such as interbedded volcanic ash or index fossils).",
+        "source_3": "Sedimentary rocks form in layers; when undisturbed, lower layers are older than the layers above them.",
+        "source_4": "Dinosaur skeletal remains are typically preserved as fossils within sedimentary rock strata.",
+        "source_5": "Field documentation for this find reports that the bones were recovered from a reworked river-gravel deposit that mixes fossils eroded from multiple, much older formations; in such reworked deposits, the enclosing sediment’s age does not reflect the fossils’ original age.",
+        "source_6": "Geochemical fingerprinting of fossil bone (for example, rare-earth element patterns or strontium isotope ratios in bone apatite) can link a specimen to a specific, independently dated source formation, allowing an approximate age to be inferred even when the present stratigraphic context is misleading."
+    },
+    "answer": "the index fossils in the area of the bones"
+}

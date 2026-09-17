@@ -1,0 +1,12 @@
+{
+    "question": "If the amount of carbon dioxide in the atmosphere increases, what happens to the planet's climate?",
+    "content": {
+        "source_1": "Carbon dioxide is a greenhouse gas that absorbs outgoing infrared radiation; adding more CO2 strengthens the greenhouse effect and tends to raise the Earth’s surface temperature.",
+        "source_2": "Burning fossil fuels releases large amounts of carbon dioxide, and measurements show atmospheric CO2 concentrations have increased markedly since the industrial revolution.",
+        "source_3": "Global climate includes long-term average surface temperature; when the global mean surface temperature rises, the planet’s climate is considered to have become warmer.",
+        "source_4": "Combustion of coal and oil also emits sulfur dioxide (SO2), which forms sulfate aerosols in the atmosphere; these particles reflect incoming sunlight, increase Earth’s albedo, and produce a cooling influence at the surface.",
+        "source_5": "Historical observations indicate that from roughly the 1940s to the 1970s, heavy sulfate aerosol pollution from fossil fuels offset much of the greenhouse warming and contributed to a slight global cooling trend despite rising CO2.",
+        "source_6": "When multiple radiative forcings act together, the net temperature response follows the sign of the dominant forcing; if cooling forcings exceed warming forcings, global temperatures decrease."
+    },
+    "answer": "a warmer climate"
+}

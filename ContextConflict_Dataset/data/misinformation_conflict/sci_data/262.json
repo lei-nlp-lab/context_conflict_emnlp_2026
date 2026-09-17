@@ -1,0 +1,14 @@
+{
+    "question": "Do human tuberculosis lung granulomas exhibit different immune protein expression patterns than adjacent tissue, with pro-inflammatory proteins enriched in granuloma centers and anti-inflammatory proteins predominant in the surrounding tissue? Answer with Yes or No.",
+    "content": {
+        "source_1": "[Conversely, the tissue surrounding the caseum has a comparatively anti-inflammatory signature.]",
+        "source_2": "[In contrast to spatial segregation, spatially resolved proteomic mapping of human TB lesions showed that pro- and anti-inflammatory mediators were distributed uniformly across granuloma interiors and perilesional tissue, with no compartment-specific enrichment.]",
+        "source_3": "[Using targeted mass spectrometry in resected lungs, we did not detect elevated antimicrobial peptides, reactive oxygen species–related enzymes, or pro-inflammatory eicosanoids in granuloma cores compared to adjacent parenchyma, indicating broadly similar immune protein signatures.]"
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

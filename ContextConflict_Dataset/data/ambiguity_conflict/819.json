@@ -1,0 +1,17 @@
+{
+  "qid": 4829,
+  "question": "What is the primary focus of the journal \"IJMS\"?",
+  "ambiguous_entity": "IJMS",
+  "content": {
+    "source_1": "International Journal of Mass Spectrometry The International Journal of Mass Spectrometry (IJMS) is a peer-reviewed journal covering fundamental aspects of mass spectrometry and ion processes, including instrumentation and applications in biology, chemistry, geology and physics. Selected IJMS articles are included in the Proteomics Virtual Journal. The 2016 impact factor was 1.702. The journal was published as the International Journal of Mass Spectrometry and Ion Physics from 1968 (v. 1) to 1983 (v. 53) and the International Journal of Mass Spectrometry and Ion Processes from 1983 (v. 54) to 1998 (v. 175). It has been published as the \"International Journal of",
+    "source_2": "International Journal of Molecular Sciences The International Journal of Molecular Sciences (IJMS) is a peer-reviewed open access scientific journal covering research in chemistry, molecular physics (chemical physics and physical chemistry), and molecular biology. It is published by MDPI and was established in 2000. The editors-in-chief are Michael Iba, Charles Brennan, Stephen Bustin, Mark Cronin, Claude A. Daul, Claire Hellio, Kurt A. Jellinger, Ian A. Nicholls, and Andreas Taubert. IJMS published more than 7,000 papers by the end of October 2015. It has almost 500,000 full text views monthly. In 2005, IJMS was indexed in Web of Science. Its 2006 impact"
+  },
+  "content_pid": [
+    "10129501",
+    "11089500"
+  ],
+  "answer": [
+    "Mass spectrometry and ion processes",
+    "Chemistry, molecular physics, and molecular biology"
+  ]
+}

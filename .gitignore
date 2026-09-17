@@ -1,0 +1,21 @@
+# Experiment outputs
+results/
+logs/
+*.pkl
+
+# Figures produced by the analysis scripts
+*.png
+*.pdf
+*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment and editor
+.env
+.DS_Store

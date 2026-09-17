@@ -1,0 +1,20 @@
+{
+  "qid": 3572,
+  "question": "Who were the two brothers in the War of the Two Brothers?",
+  "ambiguous_entity": "War of the Two Brothers",
+  "content": {
+    "source_1": "Inca Civil War The Inca Civil War, also known as the Inca Dynastic War, the Inca War of Succession, or, sometimes, the War of the Two Brothers was fought between two brothers, Huáscar and Atahualpa, sons of Huayna Capac, over the succession to the throne of the Inca Empire. The war followed Huayna Capac's death in 1527, although it did not begin until 1529, and lasted until 1532. Huáscar initiated the war because he saw himself as the rightful heir to the kingdom of all the Incas. Regardless of legitimacy, Atahualpa proved himself to be tactically superior to his brother",
+    "source_2": "Liberal Wars The Liberal Wars, also known as the Portuguese Civil War, the War of the Two Brothers or Miguelite War, was a war between liberal constitutionalists and conservative absolutists in Portugal over royal succession that lasted from 1828 to 1834. Embroiled parties included the Kingdom of Portugal, Portuguese rebels, the United Kingdom, France, the Catholic Church, and Spain. The death of King João VI in 1826 created a dispute over royal succession. While Dom Pedro, the Emperor of Brazil, was the king's oldest son, his younger brother Miguel contended that Pedro had forfeited his claim to the throne by",
+    "source_3": "tension between the Syrian and Iranian camps. Hezbollah opposed the Syrian-brokered Tripartite Accord later that year, and supported the PLO during the War of the Camps, which was launched by Amal, with Syrian support, in order to curb the resurgence of Yasser Arafat's PLO in Lebanon. Hezbollah considered this sort of inter-Muslim fighting a preoccupation from the resistance to Israel, and Iran was keen to lift Amal's siege on the Palestinian camps, publicly denouncing its actions as beneficial to the Israelis, against whom it sought to create a Shiite-Palestinian coalition. On its part, Amal was not only concerned because Palestinian"
+  },
+  "content_pid": [
+    "9067097",
+    "1548567",
+    "19908217"
+  ],
+  "answer": [
+    "Huáscar and Atahualpa",
+    "Miguel and Dom Pedro",
+    "Syrian and Iranian camps"
+  ]
+}

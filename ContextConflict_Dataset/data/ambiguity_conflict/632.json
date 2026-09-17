@@ -1,0 +1,20 @@
+{
+  "qid": 48785,
+  "question": "What is the main content of Hollywood Boulevard?",
+  "ambiguous_entity": "Hollywood Boulevard (disambiguation)",
+  "content": {
+    "source_1": "Florida State Road 820 State Road 820 (SR 820), also known as Pines Boulevard and Hollywood Boulevard is a long divided highway serving southern Broward County, Florida. Its western terminus is an intersection with U.S. Highway 27 (State Road 25) in Pembroke Pines, Florida; its eastern terminus is a trumpet interchange with State Road A1A in Hollywood, Florida. State Road 820 is the southernmost of three roads in Broward County that connects U.S. Highway 27 and A1A, the others being Sheridan Street and Griffin Road. State Road 820 also serves as the latitudinal baseline for the street grid that incorporates",
+    "source_2": "Hollywood Boulevard (1976 film) Hollywood Boulevard is a 1976 film directed by Allan Arkush and Joe Dante. It is the feature film directorial debut of both directors. This film stars Candice Rialson as an aspiring actress who has just arrived in Los Angeles, and was made as a result of a bet between Jon Davison and Roger Corman to make the cheapest ever film for New World Pictures. This was accomplished by extensive use of footage from other New World films. In a prologue, pompous film director Eric Von Leppe (Paul Bartel) is shooting a skydiving sequence for low-budget Miracle",
+    "source_3": "Hollywood Boulevard (Walt Disney Studios Park) Hollywood Boulevard is a \"studio lot\" at Walt Disney Studios Park in Disneyland Resort Paris. Designed by Walt Disney Imagineering, the project falls under their \"placemaking\" banner of park improvements and expansions, adding theme and timezones to existing park areas. Hollywood Boulevard uses land formerly classified as part of Production Courtyard for a new development of \"street sets\", an outdoor food court and a major new attraction. The project was formally announced to the press on 1 April 2007, including the preview of one piece of \"concept art\", for an initial, unused vision of"
+  },
+  "content_pid": [
+    "6779035",
+    "8506486",
+    "10695042"
+  ],
+  "answer": [
+    "a long divided highway",
+    "a 1976 film directed by Allan Arkush and Joe Dante. It is the feature film directorial debut of both directors",
+    "A \"studio lot\" at Walt Disney Studios Park in Disneyland Resort Paris"
+  ]
+}

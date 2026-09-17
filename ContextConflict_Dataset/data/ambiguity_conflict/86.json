@@ -1,0 +1,17 @@
+{
+  "qid": 669,
+  "question": "What is the birth date of the Duchess of Grafton?",
+  "ambiguous_entity": "Duchess of Grafton",
+  "content": {
+    "source_1": "Fortune FitzRoy, Duchess of Grafton Ann Fortune FitzRoy, Dowager Duchess of Grafton, (née Smith; 24 February 1920), is the widow of Hugh FitzRoy, 11th Duke of Grafton. She has been Mistress of the Robes since 1967. She was born as Ann Fortune Smith to Captain Evan Cadogan Eric Smith MC of Ashfold in Sussex, and his wife Beatrice Williams. Her younger brother, Sir John Smith, was a financier with the family banking business (formerly known as Smith's Bank of Nottingham, later titled as the National Provincial Bank and then part of NatWest), a Conservative MP, and the founder of the",
+    "source_2": "Isabella FitzRoy, Duchess of Grafton Isabella Bennet FitzRoy, Duchess of Grafton and later 2nd Countess of Arlington \"suo jure\" (c. 1668 – 7 February 1723), was a British peer and heiress. Isabella Bennet was the only daughter of Henry Bennet, 1st Earl of Arlington, a Royalist commander, by his wife, Elisabeth of Nassau (1633–1718). Elisabeth was a daughter of Louis of Nassau-Beverweerd and thus a granddaughter of Maurice of Nassau, Prince of Orange, and a great-granddaughter of William the Silent. Henry Bennet was created Baron Arlington in 1665 for his loyalty to the crown. Lord Arlington was later raised in"
+  },
+  "content_pid": [
+    "6245485",
+    "6245292"
+  ],
+  "answer": [
+    "24 February 1920",
+    "c. 1668"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "question": "What Earth motion causes Leo to appear in different areas of the sky throughout the year?",
+    "content": {
+        "source_1": "Constellations are patterns of stars on the celestial sphere as seen from Earth; they group stars by apparent arrangement in the sky.",
+        "source_2": "Leo is a recognized constellation of many stars along the zodiac, observed from Earth as a distinct stellar pattern.",
+        "source_3": "As Earth revolves around the Sun once each year, the night side of Earth faces different directions in space in different seasons, so the apparent positions of constellations in the sky shift over the year.",
+        "source_4": "The Sun moves through the Milky Way, and individual stars (including those in Leo) have their own velocities, producing measurable proper motion across the sky relative to the Sun.",
+        "source_5": "Because the Sun and nearby stars are moving relative to each other, the apparent positions and even patterns of constellations change over time rather than remaining perfectly fixed."
+    },
+    "answer": "Earth revolves around the sun."
+}

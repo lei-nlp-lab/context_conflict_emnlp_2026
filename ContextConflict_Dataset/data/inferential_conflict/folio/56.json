@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Susan is not both diligent and likes independence.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every young adult at the event likes independence.",
+        "source_2": "Every college student at the event is a young adult.",
+        "source_3": "Every Yale student at the event is a college student.",
+        "source_4": "Every attendee is either a Yale student or a Harvard student.",
+        "source_5": "Every Harvard student at the event is diligent.",
+        "source_6": "Susan is attending the event.",
+        "source_7": "If Susan is a Harvard student, then she is a young adult.",
+        "source_8": "If Susan is a Yale student, then she does not like independence.",
+        "source_9": "At the event, diligent students do not like independence."
+    },
+    "answer": "Uncertain"
+}

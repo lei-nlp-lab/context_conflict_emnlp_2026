@@ -1,0 +1,23 @@
+{
+  "qid": 42779,
+  "question": "What is Goadby known for?",
+  "ambiguous_entity": "Goadby (disambiguation)",
+  "content": {
+    "source_1": "Goadby Goadby is a village and civil parish in the Harborough district of Leicestershire, England, about 8 miles north of Market Harborough. It had a population of 204 according to the 2011 census. Goadby has a Church of England Parish church, St John the Baptist, which is of 13th-Century origin. The church was extensively renovated in the 19th Century. Services are held on the first Sunday of every month. The church is part of a group of churches ministered to from Billesdon. Every year, a fundraising fete is held in Goadby on the Saturday of the August Bank Holiday weekend",
+    "source_2": "into the \"Mercury\" in 1748. Goadby made enemies as well as friends by his plain speaking and views. He died after a long illness on 12 August 1778, and was buried in Oborne. He was a religious man and naturalist, and bequeathed an endowment providing for the preaching of a sermon on the first Sunday of May in every year in Sherborne Church on the beauties of nature. As the endowment became too valuable for its purposes, provision for the poor was made with the surplus. His major production was the \"Illustration of the Holy Scriptures\", in three large folio",
+    "source_3": "II listed status. The 180-acre (0.7 km2) estate was a subsidiary holding of the Duke of Rutland, and the property was often the residence of junior members of the Manners family. Lady Elizabeth Manners, daughter of the 4th Duke, married Richard Norman MP in 1798. Their son, George Norman, inherited the estate and hall from his cousin, the 7th Duke. Goadby Hall Goadby Hall is a privately owned 17th-century country house located in Towns Lane, Goadby Marwood, Leicestershire. It is an historical Grade II* listed building. The house was substantially renovated in 1750, when a new south front was built",
+    "source_4": "Goadby Marwood Goadby Marwood is a village in the north of the English county of Leicestershire. It is about north of Melton Mowbray and a few miles from the Vale of Belvoir. The population is included in the civil parish of Eaton. Most of the houses are built from locally mined ironstone and some, including Goadby Hall, date from the 17th century. There is only one road into, and out of, the village. Goadby Marwood has no public house or shop, but has a post office with limited opening hours. In the 1950s the remains of a Roman villa were"
+  },
+  "content_pid": [
+    "6634956",
+    "14185339",
+    "15612370",
+    "7015575"
+  ],
+  "answer": [
+    "a village and civil parish",
+    "a religious man and naturalist, and bequeathed an endowment providing for the preaching of a sermon on the first Sunday of May in every year in Sherborne Church on the beauties of nature",
+    "17th-century country house located in Towns Lane, Goadby Marwood, Leicestershire",
+    "17th century houses built from locally mined ironstone"
+  ]
+}

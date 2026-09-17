@@ -1,0 +1,12 @@
+{
+    "question": "A rock that contains fragments of bones, shells, or plant remains is most likely what type of rock?",
+    "content": {
+        "source_1": "Remains of organisms such as bones, shells, and plant material preserved in rock are classified as fossils.",
+        "source_2": "The vast majority of fossils are found in sedimentary rocks formed by deposition at Earth’s surface; igneous and high-grade metamorphic rocks rarely preserve fossils.",
+        "source_3": "In this case, the bone, shell, and plant fragments are embedded in a fine-grained matrix of compacted volcanic ash with pumice and glass shards— a diagnostic texture of tuff.",
+        "source_4": "Explosive volcanic eruptions can rapidly bury organisms; ash-fall and pyroclastic-surge deposits can incorporate organic remains, and when lithified these deposits form tuff or welded tuff.",
+        "source_5": "Sedimentary rocks form by the accumulation, compaction, and cementation of sediments under low heat and pressure, conditions that commonly preserve fossils.",
+        "source_6": "Pyroclastic tuff is classified as an igneous rock, not a sedimentary rock, even though it forms from deposited volcanic ejecta."
+    },
+    "answer": "sedimentary."
+}

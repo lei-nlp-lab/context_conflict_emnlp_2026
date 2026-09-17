@@ -1,0 +1,11 @@
+{
+    "question": "Is the United States’ individual health insurance mandate unconstitutional?",
+    "content": {
+        "source_1": "NFIB v. Sebelius, 567 U.S. 519 (2012) — U.S. Supreme Court majority opinion (Roberts, C.J.) held the ACA’s individual mandate could not be sustained under the Commerce Clause but was constitutional as a tax under Congress’s taxing power, thereby upholding the mandate.",
+        "source_2": "NFIB v. Sebelius, 567 U.S. 519 (2012) — Joint dissent (Scalia, Kennedy, Thomas, Alito) argued the mandate was unconstitutional: Congress cannot compel commerce under the Commerce Clause, the mandate was not “proper” under the Necessary and Proper Clause, and it could not be recharacterized as a valid tax.",
+        "source_3": "Florida v. U.S. Department of Health & Human Services, 648 F.3d 1235 (11th Cir. 2011) — Eleventh Circuit held the individual mandate exceeded Congress’s Commerce and Necessary and Proper powers (unconstitutional), but severed it from much of the rest of the ACA.",
+        "source_4": "Thomas More Law Center v. Obama, 651 F.3d 529 (6th Cir. 2011) — Sixth Circuit upheld the mandate under the Commerce Clause, reasoning that forgoing insurance is an economic decision with substantial effects on interstate healthcare markets.",
+        "source_5": "Texas v. United States, 945 F.3d 355 (5th Cir. 2019) — After Congress reduced the mandate’s penalty to $0, the Fifth Circuit ruled the mandate unconstitutional because it no longer raised revenue and thus could not be justified as a tax; it remanded severability to the district court.",
+        "source_6": "California v. Texas, 141 S. Ct. 2104 (2021) — U.S. Supreme Court held the challengers lacked standing to contest the $0-penalty mandate, leaving the post-2017 constitutional question unresolved on the merits and the mandate unenforceable but not struck down."
+    }
+}

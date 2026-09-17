@@ -1,0 +1,17 @@
+{
+  "qid": 12992,
+  "question": "Who is the artist of the album \"Pacifier\"?",
+  "ambiguous_entity": "Pacifier (disambiguation)",
+  "content": {
+    "source_1": "Pacifier (Nothingface album) Pacifier is the debut album by the Washington, D.C.-based alternative metal music group Nothingface. The album was originally released in October, 1996 via DCide Records (the exact date is unknown). The album was re-released on February 6, 1997 and again on August 11, 1998. Many of the tracks on Pacifier were re-recorded from the band's 1995 independent release \"Nothingface\". The tracks \"Defaced\", \"Self Punishment\", \"Hitch\", \"Useless\", \"Perfect Person\", and \"Communion\" were all re-recorded from \"Nothingface\" with slight lyrical changes. To help promote the album, music videos were made for the tracks \"Pacifier\" and \"Defaced\". In \"Pacifier\", singer",
+    "source_2": "Pacifier (Shihad album) Pacifier is the fifth full-length album released by New Zealand band, Shihad. At the time of the release they were performing under the name \"Pacifier\" due to potential controversy surrounding the similarity of the word Shihad to jihad. The name \"Pacifier\" was derived from the single of the same name from their previous album, \"The General Electric\". Released in 2002, tracks such as \"Run\" and \"Bullitproof\" went on to become hit singles. \"Bullitproof\" peaked at #27 on the \"Billboard\" Mainstream Rock Tracks, and #37 on the \"Billboard\" Modern Rock Tracks. However, it still failed to break the"
+  },
+  "content_pid": [
+    "8535812",
+    "4031556"
+  ],
+  "answer": [
+    "Nothingface",
+    "Shihad"
+  ]
+}

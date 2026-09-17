@@ -1,0 +1,14 @@
+{
+    "question": "Does chronic aerobic exercise training enhance endothelium-dependent vasodilation via increased nitric oxide production compared with sedentary controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS These results suggest that exercise training enhances bradykinin-induced vasodilation through increased endothelium-derived relaxing factor/nitric oxide production by the L-arginine/nitric oxide synthase pathway.",
+        "source_2": "In sedentary animals, relaxation to the endothelium-dependent vasodilator bradykinin did not differ between collateral-dependent LCx and nonoccluded LAD arterioles (P>0.05), suggesting preserved endothelial NO-mediated responsiveness that is not further modified by chronic training.",
+        "source_3": "After chronic coronary occlusion, treadmill exercise training reduced bradykinin-mediated relaxation in collateral-dependent LCx arterioles and was associated with lower ecNOS mRNA expression and decreased nitric oxide production."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

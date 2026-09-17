@@ -1,0 +1,23 @@
+{
+  "qid": 18326,
+  "question": "What was the significant event that Thomas Burgh was involved in?",
+  "ambiguous_entity": "Thomas Burgh",
+  "content": {
+    "source_1": "Thomas Burgh, 1st Baron Burgh Thomas Burgh, 1st Baron Burgh also spelt \"Borough\", (c. 1488 – 28 February 1550), 1st Baron Borough of Gainsborough, also \"de jure\" 5th Baron Strabolgi and 7th Baron Cobham of Sterborough, was an English peer. In 1513 he was knighted on Flodden Field, where he was one of the King's Spears, a bodyguard of King Henry VIII. He was a Member of Parliament in 1529 and later became Lord Chamberlain to Anne Boleyn. He was also one of the twenty-six Peers summoned to the trial of Anne Boleyn in May 1536. Thomas Burgh, also spelt",
+    "source_2": "Thomas Burgh, 3rd Baron Burgh Thomas Burgh, 3rd Baron Burgh KG (\"c.\" 1558–14 October 1597) 3rd Baron Borough of Gainsborough, \"de jure\" 7th Baron Strabolgi and 9th Baron Cobham of Sterborough was the son of William Burgh, 2nd Baron Burgh and Lady Katherine Clinton, daughter of Edward Clinton, 1st Earl of Lincoln and Elizabeth Blount, former mistress of King Henry VIII. He was one of the peers who conducted the trial of the Duke of Norfolk in 1572. Sir Thomas Burgh succeeded to the title of 3rd Lord Burgh [E., 1529] on 10 September 1584, by writ. He was invested",
+    "source_3": "was not built until after his death. Burgh published a pamphlet entitled \"A method to determine the areas of right-lined figures universally, very useful for ascertaining the contents of any survey\" (Dublin, 1724). In 1728 Burgh lost the commission to build the new Parliament House in Dublin to Edward Lovett Pearce (1699–1733), who succeeded de Burgh as Surveyor General on his death, after an illness, in 1730. Burgh was married to Mary, a daughter of Rt Rev William Smyth, Bishop of Kilmore, on 10 July 1700. They had five sons and four daughters. His town house was in Dawson Street",
+    "source_4": "Privy Councillor. In 1460, Sir Thomas built the great Old Hall in Gainsborough, Lincolnshire. Gainsborough Old Hall was not only their home, but also a demonstration of their wealth and importance. Sir Thomas was a great benefactor to Newark Church and also the founder of the Chantry and Alms House at Gainsborough. In 1470, the manor was attacked by Sir Robert Welles over a clash about lands, status, and honour, but it was not severely damaged. It was in 1484 that Sir Thomas entertained King Richard III in his hall. Today, the Hall with its elaborate timber roof survives as"
+  },
+  "content_pid": [
+    "10017818",
+    "14680546",
+    "14733255",
+    "15411146"
+  ],
+  "answer": [
+    "He was knighted on Flodden Field",
+    "He was one of the peers who conducted the trial of the Duke of Norfolk in 1572. He was also one of the twenty-six Peers summoned to the trial of Anne Boleyn in May 1536",
+    "He lost the commission to build the new Parliament House in Dublin to Edward Lovett Pearce in 1728",
+    "1484, entertained King Richard III in his hall"
+  ]
+}

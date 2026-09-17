@@ -1,0 +1,17 @@
+{
+  "qid": 65810,
+  "question": "What is \"Baby Mine\"?",
+  "ambiguous_entity": "Baby Mine",
+  "content": {
+    "source_1": "Baby Mine (1917 film) Baby Mine is a 1917 American silent comedy film directed by both John S. Robertson and Hugo Ballin and starring Madge Kennedy. The picture marked Kennedy's screen debut and was one of the first films produced by Samuel Goldwyn as an independent after founding his own studio. The film is based on a 1910 Broadway play \"Baby Mine\" by Margaret Mayo. The story was filmed once again as \"Baby Mine\" (1928) with Charlotte Greenwood at MGM, the successor to Goldwyn Pictures. This version, however, at one time thought lost, is held in the French archive Cinematheque",
+    "source_2": "Baby Mine (play) Baby Mine is a farce comedy play in three acts by Margaret Mayo that made its Broadway debut at Daly's Theatre on August 23, 1910. The piece was produced by William A. Brady and remained at Daly's for nearly an entire season. Closing on April 1, 1911, \"Baby Mine\" then transferred to Brooklyn's Majestic Theatre for a three-week run which was followed by a brief stand at the Lyric Theatre in Manhattan before closing with a combined total from all three venues of 227 performances. Mayo's comedy was made into two silent films, \" Baby Mine\" (1917),"
+  },
+  "content_pid": [
+    "16112068",
+    "18048748"
+  ],
+  "answer": [
+    "A 1917 American silent comedy film",
+    "A farce comedy play in three acts by Margaret Mayo"
+  ]
+}

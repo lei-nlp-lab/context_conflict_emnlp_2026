@@ -1,0 +1,12 @@
+{
+    "question": "What is the most desirable outcome of a new heating system in terms of energy consumption?",
+    "content": {
+        "source_1": "As heating systems age, their efficiency tends to decline, so older units typically consume more energy to deliver the same heat than newer models.",
+        "source_2": "Home energy-efficiency programs describe reducing energy consumption as the primary objective of heating-system upgrades (while maintaining required comfort).",
+        "source_3": "Lowering a home’s energy use reduces utility bills and environmental impact and is frequently cited as a central benefit of installing a new, more efficient heating system.",
+        "source_4": "In cold climates, many air-source heat pumps switch on electric resistance “backup” heat to maintain warmth during very low temperatures, which can raise total electricity use during cold snaps.",
+        "source_5": "HVAC industry consumer surveys consistently report that homeowners rank even, reliable indoor comfort as the top desired outcome from a new heating system, ahead of energy savings.",
+        "source_6": "The new system in this home added zoning and variable-speed circulation that eliminated persistent cold spots, providing more uniform warmth in rooms that were previously under-heated."
+    },
+    "answer": "decreasing the amount of energy used"
+}

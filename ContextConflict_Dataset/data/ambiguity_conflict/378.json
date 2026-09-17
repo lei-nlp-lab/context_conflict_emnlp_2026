@@ -1,0 +1,20 @@
+{
+  "qid": 1582,
+  "question": "What is the genre of the production featuring Tony Blair?",
+  "ambiguous_entity": "Tony Blair (disambiguation)",
+  "content": {
+    "source_1": "Channel 4 on 14 October 2011; it received a mostly positive reaction from reviewers, and was nominated for a BAFTA award (Best Comedy Programme 2012) and the British Comedy Awards (Best Comedy Drama 2011). Using film noir low key lighting and unbalanced frame compositions, along with visual and narrative tropes whose sources include John Buchan's novels and Alfred Hitchcock's films, and Hollywood productions \"The Fugitive\" and \"Sunset Boulevard\", the film imagines former British prime minister Tony Blair as a fugitive on the run from the police after having been accused of a series of murders. These include the killing of",
+    "source_2": "The Trial of Tony Blair The Trial of Tony Blair is a satirical drama recounting hypothetical war crimes proceedings brought against former British Prime Minister Tony Blair by an international tribunal, following his departure from 10 Downing Street. Directed by Simon Cellan Jones, it was first aired on More4 on 15 January 2007 and repeated on 5 March 2007 and during Blair's last week as Prime Minister on 23 June 2007. The programme is set in 2010 and stars Robert Lindsay as Tony Blair, Phoebe Nicholls as Cherie Blair, Peter Mullan as Gordon Brown and Alexander Armstrong as David Cameron.",
+    "source_3": "stunt to wipe the slate\", but also as an attempt to make amends. Friends had said that the act was partly motivated by the wish to \"repair his reputation\". The book was published on 1 September and within hours of its launch had become the fastest-selling autobiography of all time. On 3 September Blair gave his first live interview since publication on \"The Late Late Show\" in Ireland, with protesters lying in wait there for him. On 4 September Blair was confronted by 200 anti-war and hardline Irish nationalist demonstrators before the first book signing of his memoirs at Eason's"
+  },
+  "content_pid": [
+    "15877488",
+    "9537815",
+    "6590026"
+  ],
+  "answer": [
+    "Comedy Programme",
+    "Satirical drama",
+    "Autobiography"
+  ]
+}

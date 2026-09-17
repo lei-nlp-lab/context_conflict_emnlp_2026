@@ -1,0 +1,17 @@
+{
+  "qid": 18807,
+  "question": "What is the profession of Peter Power?",
+  "ambiguous_entity": "Peter Power",
+  "content": {
+    "source_1": "Peter Power (crisis management specialist) Peter Power is a British crisis management specialist and has advised many organisations in his area of speciality. Peter Power was born in the UK in 1951. He served in the 10 Battalion Parachute Regiment Territorial Army 1969 - 1971 before joining the Metropolitan Police in 1971. His service in that force included the Special Patrol Group and attachments to the Metropolitan Police Anti-Terrorist Branch and other front line units. In 1990 he transferred on promotion to Dorset. He retired from Dorset in 1993. In 1995 Power set up his own company in central London,",
+    "source_2": "Peter Power (politician) Peter Power (born 26 January 1966) is a former Irish Fianna Fáil politician. He was a Teachta Dála (TD) for the Limerick East constituency from 2002 to 2011, and served as Minister of State for Overseas Development from 2008 to 2011. Power was born in Limerick, but moved to Dublin after losing his seat at the 2011 general election. He was educated at JFK Memorial School, Ardscoil Rís and University College Cork (UCC). Previous to his election as a TD he worked as a solicitor at Holmes O'Malley Sexton in Limerick. Power first contested national elections at"
+  },
+  "content_pid": [
+    "10426449",
+    "6493016"
+  ],
+  "answer": [
+    "Crisis management specialist",
+    "Former Irish Fianna Fáil politician and solicitor"
+  ]
+}

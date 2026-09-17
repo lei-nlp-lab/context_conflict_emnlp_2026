@@ -1,0 +1,12 @@
+{
+    "question": "What causes nighttime stars to look much smaller than the sun when viewed from Earth?",
+    "content": {
+        "source_1": "The Sun is about 1 astronomical unit (≈150 million km) from Earth, whereas the nearest star beyond the Sun is over 4 light‑years away, and most naked‑eye stars are tens to thousands of light‑years distant.",
+        "source_2": "For small angles, an object’s angular diameter decreases in proportion to its distance (angular diameter ≈ physical diameter ÷ distance), so faraway objects subtend much smaller angles.",
+        "source_3": "From Earth, the Sun subtends about 0.5 degrees, while individual bright stars have measured angular diameters of microarcseconds to a few milliarcseconds—far below naked‑eye resolution.",
+        "source_4": "Extremely bright sources produce veiling glare and scatter in Earth’s atmosphere and within the human eye, creating a halo that makes them look larger than their true angular extent; faint point sources show little halo and appear as tiny points.",
+        "source_5": "In apparent brightness, the Sun is roughly 10 billion times brighter than the brightest nighttime star (Sirius), and vastly brighter than typical naked‑eye stars.",
+        "source_6": "The most common stars in the Milky Way are red dwarfs with radii about 10–60% of the Sun’s, so many stars are intrinsically smaller than the Sun."
+    },
+    "answer": "The stars are much farther away."
+}

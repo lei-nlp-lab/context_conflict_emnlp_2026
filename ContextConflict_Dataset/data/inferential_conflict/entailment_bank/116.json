@@ -1,0 +1,12 @@
+{
+    "question": "Given that space probes land on planets to collect and analyze samples, and the Viking I Lander did this on Mars, what type of spacecraft was the Viking I Lander?",
+    "content": {
+        "source_1": "A space probe is an unmanned robotic spacecraft sent beyond Earth orbit; landers are space probes designed to touch down on other worlds and carry instruments to analyze surface materials and atmospheric gases in situ.",
+        "source_2": "NASA’s 1976 Viking mission delivered Mars landers equipped to collect and analyze soil samples and study the atmosphere at their landing sites.",
+        "source_3": "Any craft that lands on Mars to conduct on-site analyses of soil and air is, by design, a robotic space probe (a lander).",
+        "source_4": "Interplanetary missions in the 1970s were launched atop multistage rockets; the Viking spacecraft departed Earth on Titan IIIE–Centaur launch vehicles.",
+        "source_5": "A rocket is the vehicle used to send spacecraft from Earth toward other planets.",
+        "source_6": "Media reports often describe planetary missions as “sending a rocket to Mars,” emphasizing the launch vehicle rather than the payload."
+    },
+    "answer": "space probe."
+}

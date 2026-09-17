@@ -1,0 +1,12 @@
+{
+    "question": "What human activity by early settlers most likely caused the extinction of large mammals in North America?",
+    "content": {
+        "source_1": "Multiple North American archaeological sites (e.g., Murray Springs, Dent, Lehner, Naco) contain Clovis projectile points embedded in or directly associated with butchered mammoth and mastodon remains dated to roughly 13,200–12,700 years ago, indicating systematic human hunting and processing of megafauna.",
+        "source_2": "Demographic models for slow-reproducing megafauna (long gestation, low fecundity) show that even small, sustained increases in adult mortality (on the order of a few percent per year) can drive rapid population collapse and extinction under continued hunting pressure.",
+        "source_3": "Radiocarbon chronologies indicate that in North America most Late Pleistocene megafaunal extinctions occurred within a short interval (roughly one to two millennia) after the earliest widespread human occupation, a pattern mirrored on other continents when humans first arrive.",
+        "source_4": "Lake-sediment cores from multiple North American regions record abrupt increases in charcoal influx and concurrent shifts in pollen assemblages toward different plant communities around the time of initial human presence, consistent with a marked rise in landscape fire activity.",
+        "source_5": "Many extinct North American megafauna were large-bodied grazing or browsing specialists requiring extensive, contiguous forage; increases in fire frequency and associated habitat fragmentation alter forage composition and continuity, which can reduce carrying capacity and juvenile survival even without intensive hunting.",
+        "source_6": "Ethnographic and archaeological evidence shows that hunter-gatherers widely used fire to manage vegetation and to drive or concentrate game, and modeling/observations indicate that such anthropogenic burning can substantially elevate fire frequency above lightning-only baselines even at low human population densities."
+    },
+    "answer": "hunting"
+}

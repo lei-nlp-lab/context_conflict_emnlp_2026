@@ -1,0 +1,12 @@
+{
+    "question": "Which observable property of a soil sample would best indicate high humus content?",
+    "content": {
+        "source_1": "Humus is the dark, stable fraction of soil organic matter; as humus accumulates in the surface (A) horizon, it typically imparts dark brown to black colors compared with underlying layers.",
+        "source_2": "Soil survey practice uses Munsell color (low value and low chroma) of the surface horizon as a field cue for higher organic matter content; dark surface soils generally contain more organic matter than lighter ones.",
+        "source_3": "Dark soil color can also arise from non-organic causes—such as dark parent materials (e.g., basalt/mafic minerals), manganese oxides, or charcoal/black carbon—so darkness is not uniquely diagnostic of humus.",
+        "source_4": "Humus increases soil porosity and aggregation, lowers bulk density, and raises plant-available water; humus-rich soils are typically crumbly and spongy and retain moisture well.",
+        "source_5": "Across soil textures, organic matter content is positively correlated with water-holding capacity, with especially strong effects in sandy soils where adding organic matter markedly increases available water.",
+        "source_6": "Apparent soil darkness varies with moisture and observation conditions; wet soils look darker than dry soils, so relying on color alone without standardized dry/moist readings can mislead assessments of humus content."
+    },
+    "answer": "the color of the sample"
+}

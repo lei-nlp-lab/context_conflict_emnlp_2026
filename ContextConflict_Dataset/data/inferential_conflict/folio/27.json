@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Tom doesn't use the zip code 98199.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lawton Park is a neighborhood in Seattle.",
+        "source_2": "All citizens of Lawton Park use the zip code 98199.",
+        "source_3": "Tom is a citizen of Lawton Park.",
+        "source_4": "Daniel uses the zip code 98199.",
+        "source_5": "Tom often lists his workplace mailing zip code 98101 instead of his home zip.",
+        "source_6": "Daniel lives in a Seattle neighborhood outside Lawton Park that also uses 98199."
+    },
+    "answer": "False"
+}

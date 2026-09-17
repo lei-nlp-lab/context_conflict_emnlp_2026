@@ -1,0 +1,17 @@
+{
+  "qid": 5833,
+  "question": "What type of show is \"The Joey Bishop Show\"?",
+  "ambiguous_entity": "The Joey Bishop Show",
+  "content": {
+    "source_1": "The Joey Bishop Show (TV series) The Joey Bishop Show is an American sitcom starring entertainer Joey Bishop that aired on NBC from September 1961, to January 1964. After NBC canceled the series due to low ratings, it was picked up by CBS where it aired for its fourth and final season. Executive produced by Danny Thomas, \"The Joey Bishop Show\" is a spin-off of Thomas' series \"The Danny Thomas Show\". The series was conceived as a vehicle for entertainer Joey Bishop by Danny Thomas and Louis F. Edelman in 1960. At the time, Thomas was starring in his own",
+    "source_2": "The Joey Bishop Show (talk show) The Joey Bishop Show is an American talk show that had its first broadcast on ABC on April 17, 1967, hosted by Joey Bishop and featuring Regis Philbin in his first ongoing role with national television exposure, as Bishop's sidekick/announcer (similar to Ed McMahon's job with Johnny Carson). Created to challenge \"The Tonight Show Starring Johnny Carson\", the show lasted 33 months, with the last show airing on December 26, 1969. Bishop was part of the legendary 1960s entertainment phenomenon \"the Rat Pack\", and other members Dean Martin, Sammy Davis, Jr. and Peter Lawford"
+  },
+  "content_pid": [
+    "11816564",
+    "11251331"
+  ],
+  "answer": [
+    "Sitcom",
+    "Talk show"
+  ]
+}

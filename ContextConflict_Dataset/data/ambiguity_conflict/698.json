@@ -1,0 +1,20 @@
+{
+  "qid": 53326,
+  "question": "What is the geographical location of Glen Alpine?",
+  "ambiguous_entity": "Glen Alpine",
+  "content": {
+    "source_1": "Glen Alpine, New South Wales Glen Alpine is a suburb of Sydney, in the state of New South Wales, Australia. Glen Alpine is located 56 kilometres south-west of the Sydney central business district, in the local government area of the City of Campbelltown and is part of the Macarthur region. Glen Alpine began as a golf course estate with houses constructed mainly inside the looping design of the 18 hole course. The suburb features local shops and a tennis complex 500 metres from the golf course clubhouse. From the late 1990s, development expanded outside this ring towards the local shopping",
+    "source_2": "Glen Alpine, North Carolina Glen Alpine is a town in Burke County, North Carolina, United States. The population was 1,517 at the 2010 census. It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area. Glen Alpine is located in western Burke County at (35.727721, -81.782327). It is bordered to the southeast by an extension of the city of Morganton. U.S. Route 70 passes through the town as Main Street, and Interstate 40 passes to the south of the town, with access from exits 98 and 100. Via US-70 it is east to downtown Morganton and west to Marion. According to the",
+    "source_3": "of the building and its siting in relation to the view to the east, and the contribution of the building and grounds to the streetscape of East Street and to the Toowoomba townscape. The place has a special association with the life or work of a particular person, group or organisation of importance in Queensland's history. It has special association with the life of Chief Justice Neal Macrossan as his Toowoomba holiday house. Glen Alpine, Toowoomba Glen Alpine is a heritage-listed villa at 32-36 East Street, Redwood, Toowoomba, Toowoomba Region, Queensland, Australia. It was designed by Toowoomba architect Harry Marks"
+  },
+  "content_pid": [
+    "6129651",
+    "1172351",
+    "18345324"
+  ],
+  "answer": [
+    "Sydney, in the state of New South Wales, Australia",
+    "Burke County, North Carolina, United States",
+    "32-36 East Street, Redwood, Toowoomba, Toowoomba Region, Queensland, Australia"
+  ]
+}

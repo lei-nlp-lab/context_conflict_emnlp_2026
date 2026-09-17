@@ -1,0 +1,23 @@
+{
+  "qid": 37039,
+  "question": "What is the primary goal of the Association for the Advancement of Science?",
+  "ambiguous_entity": "Association for the Advancement of Science",
+  "content": {
+    "source_1": "American Association for the Advancement of Science The American Association for the Advancement of Science (AAAS) is an American international non-profit organization with the stated goals of promoting cooperation among scientists, defending scientific freedom, encouraging scientific responsibility, and supporting scientific education and science outreach for the betterment of all humanity. It is the world's largest general scientific society, with over 120,000 members, and is the publisher of the well-known scientific journal \"Science,\" which had a weekly circulation of 138,549 in 2008. The American Association for the Advancement of Science was created on September 20, 1848 at the Academy of Natural",
+    "source_2": "Australian and New Zealand Association for the Advancement of Science The Australian and New Zealand Association for the Advancement of Science (ANZAAS) is an organisation that was founded in 1888 by Archibald Liversidge as the Australasian Association for the Advancement of Science to promote science. It was modelled on the British Association for the Advancement of Science. For many years, its annual meetings were a popular and influential way of promoting science in Australia and New Zealand. The current name has been used since 1930. In the 1990s, membership and attendance at the annual meetings decreased as specialised scientific societies",
+    "source_3": "MAAS publishes the \"Journal of Islamic Science\". Muslim Association for the Advancement of Science The Muslim Association for the Advancement of Science (MAAS) is an association of Muslim scientists focused on promoting the advancement of science and technology among Muslims. It was established in India by M. Z. Kirmani in 1983. The mission of the Muslim Association for the Advancement of Science is to instill the spirit of education, science, and technology research as socially obligatory, or \"farḍ kifāyah\" in Islamic terminology. In addition to this, MAAS seeks to instill the accompanying scientific values into the mindset of Indian Muslims",
+    "source_4": "after the former president Rudolf Marloth. It contains information about the recipients of the annual awards, summaries of their lectures, and other information relating to the Association's activities. A special centenary edition was published in 2002. Southern Africa Association for the Advancement of Science The Southern Africa Association for the Advancement of Science (S2A3 or SA) is a learned society, originally known as the South African Association for the Advancement of Science (SAAAS). Established in 1902, its principal aim is to increase the public awareness and understanding of science, engineering and technology, and their role in society, by means of"
+  },
+  "content_pid": [
+    "1821281",
+    "8547723",
+    "7915606",
+    "14488027"
+  ],
+  "answer": [
+    "promoting cooperation among scientists, defending scientific freedom, encouraging scientific responsibility, and supporting scientific education and science outreach",
+    "promote science",
+    "To promote the advancement of science and technology among Muslims",
+    "To increase the public awareness and understanding of science, engineering and technology, and their role in society"
+  ]
+}

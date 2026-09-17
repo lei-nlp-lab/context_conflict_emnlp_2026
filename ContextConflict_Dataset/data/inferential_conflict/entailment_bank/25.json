@@ -1,0 +1,12 @@
+{
+    "question": "What feature of Earth's rotation causes seasons in New York State?",
+    "content": {
+        "source_1": "New York State is located in the Northern Hemisphere (approximately 40.5°–45° N) and experiences four distinct seasons each year.",
+        "source_2": "Earth’s rotational axis is tilted about 23.5 degrees relative to its orbital plane, causing the Northern Hemisphere to have higher sun angles and longer days in June–August and lower sun angles and shorter days in December–February.",
+        "source_3": "Earth’s orbit around the Sun is slightly elliptical: the Earth–Sun distance varies from about 147 million km (perihelion) to about 152 million km (aphelion), which changes the top-of-atmosphere solar intensity by roughly 6–7 percent between closest and farthest points.",
+        "source_4": "The intensity of sunlight received at a planet follows an inverse-square relationship with distance, so being closer to the Sun increases solar energy per unit area.",
+        "source_5": "Across New York State, average temperatures are much higher in July than in January, indicating warmer summers and colder winters.",
+        "source_6": "A location receives more solar energy when the Sun is higher in the sky and the days are longer, leading to warmer seasons, and less energy with lower Sun angles and shorter days, leading to colder seasons."
+    },
+    "answer": "the tilt of Earth on its axis"
+}

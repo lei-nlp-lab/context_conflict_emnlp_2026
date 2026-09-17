@@ -1,0 +1,12 @@
+{
+    "question": "Which geological principle should scientists use to determine the relative ages of undisturbed sedimentary rock layers?",
+    "content": {
+        "source_1": "In an undisturbed sequence of sedimentary strata, the law of superposition states that lower layers are older than higher layers, and it is routinely used to determine the relative ages of layers within a single outcrop.",
+        "source_2": "Field observations at the highway roadcut show laterally continuous, flat-lying sedimentary beds with no evidence of folding or faulting, indicating the sequence is undisturbed.",
+        "source_3": "The principle of original horizontality holds that most sediments are deposited in nearly horizontal layers; if post-depositional disturbance is absent, superposition can be applied directly to order the strata.",
+        "source_4": "The exposed sequence at the hillside includes two thin, laterally continuous volcanic ash (tephra) layers interbedded within the sedimentary succession; the ash contains zircon crystals suitable for high-precision U-Pb radiometric dating.",
+        "source_5": "Radiometric dating of interbedded volcanic ash (e.g., U-Pb on zircon or 40Ar/39Ar on sanidine) yields absolute ages that bracket the ages of enclosing sedimentary layers and provides a more definitive relative-age framework than superposition alone when such ashes are present.",
+        "source_6": "Detrital sedimentary rocks are generally not directly datable by radiometric methods because their grains predate deposition; when datable ash beds occur within a sequence, dating those ashes is the standard strategy to constrain the timing of the strata."
+    },
+    "answer": "apply the law of superposition"
+}

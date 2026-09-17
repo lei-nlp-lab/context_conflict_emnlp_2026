@@ -1,0 +1,17 @@
+{
+  "qid": 49841,
+  "question": "Where is Center High School located?",
+  "ambiguous_entity": "Center High School",
+  "content": {
+    "source_1": "Center High School (California) Center High School is a high school located at 3111 Center Court Lane, in Antelope, California, United States. The school opened up in its current location in 1984. It is one of two high schools in the Center Unified School District and offers a variety of courses, both regular and Honors/AP. The school's colors are blue and gold (hence the school cheering section is known as the \"Blue Crew\"), and the school mascot is the cougar. The head of the school is Jerald Ferguson and there are two vice-principals. The school is well known for its",
+    "source_2": "Center High School (Texas) Center High School is a public, 4-year high school located in Center, Texas and is classified as a 4A school by the University Interscholastic League. It is part of the Center Independent School District and is located in central Shelby County, Texas. In 2015, the school was rated Met Standard. In 2013, U.S. News & World Report gave Center High School a bronze medal and named the school one of the best high schools in the nation. Center High School dates back prior to 1900 as \"Center School\". The earliest graduating class dates back to 1903"
+  },
+  "content_pid": [
+    "10042672",
+    "19412272"
+  ],
+  "answer": [
+    "Antelope, California, United States",
+    "Center, Texas and is located in central Shelby County, Texas"
+  ]
+}

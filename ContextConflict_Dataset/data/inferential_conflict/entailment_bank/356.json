@@ -1,0 +1,12 @@
+{
+    "question": "Which would erode more soil from a riverbank in a few days: floodwater overflowing the bank or light rainfall?",
+    "content": {
+        "source_1": "During river floods, discharge and stage rise sharply; floodwater can overtop banks, saturate the bank soils, and impose high shear stresses that rapidly scour unprotected river banks.",
+        "source_2": "Erosion from flowing water increases steeply with velocity and volume; overbank flood flows along an outside bend can remove large amounts of exposed bank soil within a few days.",
+        "source_3": "The site’s river bank lies on the outer bend of a meander and lacks riprap or retaining walls; much of the bank surface is bare soil with minimal vegetative cover.",
+        "source_4": "Rapid drops in river level (rapid drawdown) can destabilize saturated banks because pore-water pressure inside the bank dissipates more slowly than the external water level falls, leading to sudden mass slumps that remove large volumes of soil in hours.",
+        "source_5": "This reach is regulated by an upstream dam that at times lowers downstream stage by more than a meter in less than 24 hours during operational changes or emergency drawdowns.",
+        "source_6": "The bank here is tall and cohesive (clay-rich) with existing tension cracks; such banks resist direct hydraulic scour better than loose sand but are particularly prone to rapid-drawdown-induced mass failure."
+    },
+    "answer": "water from a flood flowing over the river bank"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "How long does a complete rotation of the Moon on its axis take?",
+    "content": {
+        "source_1": "The Moon completes one full 360-degree orbit around Earth relative to the distant stars (a sidereal month) in about 27.3 days.",
+        "source_2": "The Moon is tidally locked to Earth, so it turns once on its axis during each orbit, keeping nearly the same hemisphere facing Earth.",
+        "source_3": "From Earth’s surface, the far side of the Moon is never directly visible; observers always see the same hemisphere.",
+        "source_4": "Over a month of naked-eye viewing, the Moon’s face does not appear to spin; prominent maria and craters keep an essentially fixed orientation on the visible disk.",
+        "source_5": "Lunar libration slightly “rocks” the Moon’s apparent face, allowing Earth-based observers to see about 59% of the surface over time, but never the far side all at once.",
+        "source_6": "Spacecraft imagery has photographed the Moon’s far side—never seen directly from Earth—confirming that the hemisphere facing Earth remains essentially the same throughout its orbit."
+    },
+    "answer": "one month"
+}

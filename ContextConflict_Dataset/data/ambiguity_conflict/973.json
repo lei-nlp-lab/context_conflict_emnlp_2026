@@ -1,0 +1,20 @@
+{
+  "qid": 10185,
+  "question": "Who was the parent of Theodore I?",
+  "ambiguous_entity": "Theodore I",
+  "content": {
+    "source_1": "Theodore II Laskaris Theodore II Doukas Laskaris or Ducas Lascaris (, \"Theodōros II Doukas Laskaris\"; 1221/1222 – August 18, 1258) was Emperor of Nicaea from 1254 to 1258. Theodore II Doukas Laskaris was the only son of Emperor John III Doukas Vatatzes and Eirene Laskarina, the daughter of Emperor Theodore I Laskaris and Anna Angelina, a daughter of Emperor Alexios III Angelos and Euphrosyne Doukaina Kamaterina. Theodore was born in late 1221 or early 1222, reportedly on the very day his father ascended the throne. Theodore II received a scholarly education by George Akropolites and Nicephorus Blemmydes the latter who",
+    "source_2": "differed from one another\". In 1198/9, Theodore married Anna Angelina, daughter of the Byzantine Emperor Alexios III Angelos and Euphrosyne Doukaina Kamatera; she was the widow of her (his?) cousin the \"sebastokratōr\" Isaac Komnenos. Soon after this, he was raised to the rank of \"despotēs\". Theodore later distinguished himself during the sieges of Constantinople by the Latins of the Fourth Crusade (1203–1204). He remained in Constantinople until the Latins actually penetrated into the city, at which point he fled across Bosphorus together with his wife. At about the same time his brother Constantine Laskaris was unsuccessfully proclaimed emperor by some",
+    "source_3": "the Morea (in 1382), but Matthew was briefly succeeded by his son perhaps Demetrios I Kantakouzenos. Theodore I Palaiologos arrived in the Morea in 1383 and successfully took possession of the province. The young \"despotēs\" soon commenced wars for the expansion of his province. His military campaigns were arguably the most successful Byzantine military operations since the annexation of large regions of Thessaly and Epirus by his paternal grandfather Andronikos III Palaiologos earlier in the 14th century. In order to increase the potential manpower of his army, Theodore encouraged the settlement of Albanians in Morea, and recruited them as troops"
+  },
+  "content_pid": [
+    "806713",
+    "806706",
+    "6012684"
+  ],
+  "answer": [
+    "Emperor John III Doukas Vatatzes and Eirene Laskarina",
+    "Emperor Alexios III Angelos and Euphrosyne Doukaina Kamaterina",
+    "Andronikos III Palaiologos"
+  ]
+}

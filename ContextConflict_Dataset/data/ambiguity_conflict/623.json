@@ -1,0 +1,26 @@
+{
+  "qid": 45477,
+  "question": "When was the Centennial Bridge constructed?",
+  "ambiguous_entity": "Centennial Bridge",
+  "content": {
+    "source_1": "Centennial Bridge (Leavenworth, Kansas) The Centennial Bridge is a through arch bridge road bridge over the Missouri River connecting Leavenworth, Kansas and Platte County, Missouri. Constructed in 1955, it was initially a toll bridge. The bridge opened in 1955, a year after Leavenworth celebrated its centennial as the first city incorporated in Kansas. It is a two-span arch bridge connecting K-92 and Missouri Route 92. Its main span is 419.8 feet with a total length of 2,571.2 feet. During the construction a spur of Route 45 called the \"Leavenworth cutoff\" was built to speed traffic to Kansas City, Missouri. The",
+    "source_2": "Rock Island Centennial Bridge The Rock Island Centennial Bridge connects Rock Island, Illinois, and Davenport, Iowa. The bridge is long and stands above water level. Construction of the bridge began in 1938 and it opened on July 12, 1940, as a toll bridge. The bridge cost $1.75 million to construct. It was designed by Ash-Howard-Needles & Tammen and built by the American Bridge Company, McCarthy Improvement Company, and Priester Construction Company. The original toll was $0.10, and eventually rose to $0.50 for automobiles (and as high as $2.00 for semi-trucks). Early in the bridge's history, pedestrians paid a $0.05 walker's",
+    "source_3": "T.Y. Lin International and the Louis Berger Group Inc, and constructed by German-based Bilfinger Berger using resources from its Australian subsidiary Baulderstone Hornibrook. Boston-based transportation architect Miguel Rosales from Rosales + Partners created the concept and initial aesthetic designs for the Panama-Centennial Bridge. Structural engineering contracts were awarded to Leonhardt, Andrä and Partner. The bridge was inaugurated on schedule on 15 August 2004, although it was opened for traffic on 2 September 2005, when the new highways leading to it were finished. Part of the access to the Centennial Bridge collapsed in December 2010, following heavy rain and flooding. In",
+    "source_4": "Teegarden-Centennial Covered Bridge The Teegarden-Centennial Covered Bridge is a covered bridge in Columbiana County, Ohio. The bridge crosses Little Beaver Creek on Eagleton Road, 0.1 miles East of county road 411 near Salem, Ohio. It is currently only open to pedestrian traffic. It was named after U. Teegarden who owned land near the bridge. Also known as the Centennial Bridge, it was built in 1876, 100 years after the signing of the United States Declaration of Independence. The 66-foot, multiple king post span was designed by Jeremiah C. Mountz and David Reese. The bridge was in use until 1992 and",
+    "source_5": "Veterans Memorial Centennial Bridge The Veterans Memorial Centennial Bridge (formerly known as the Bennett Bay Centennial Bridge) is a freeway bridge in Idaho, USA. The bridge carries U.S. Interstate 90 over a valley above Bennett Bay, north of Lake Coeur d'Alene. The bridge, which cost $20 million, was completed in 1991, as part of a project to complete Interstate 90 east of Coeur d’Alene. The bridge was initially named the Bennett Bay Centennial Bridge, to commemorate the centennial of Idaho. In 1992, the bridge was renamed the Veterans Memorial Centennial Bridge, in honour of Idaho's war veterans. The bridge is"
+  },
+  "content_pid": [
+    "8666792",
+    "5150018",
+    "6171779",
+    "16437388",
+    "6576533"
+  ],
+  "answer": [
+    "1955",
+    "1938-1940",
+    "2004",
+    "1876",
+    "1991"
+  ]
+}

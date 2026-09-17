@@ -1,0 +1,12 @@
+{
+    "question": "What type of rock does Earth’s crust material become when two tectonic plates collide and subject it to intense heat and pressure?",
+    "content": {
+        "source_1": "Metamorphic rock forms when pre-existing rock in Earth’s crust is subjected to intense heat and pressure but does not melt; minerals recrystallize in the solid state under those conditions.",
+        "source_2": "Continental-continental plate collisions thicken and heat the crust and typically do not produce widespread melting; instead they cause regional metamorphism of large volumes of crustal rock.",
+        "source_3": "When two tectonic plates push toward each other, they are at a convergent plate boundary.",
+        "source_4": "At convergent boundaries that involve subduction, water released from the descending oceanic slab lowers the melting point in the overlying mantle and lower crust, generating magma under high pressure and temperature.",
+        "source_5": "Once rock melts, it is magma rather than metamorphic rock; metamorphism ceases upon melting, and the molten material yields igneous rock when it cools and solidifies.",
+        "source_6": "Igneous rock forms from the cooling and solidification of magma or lava."
+    },
+    "answer": "metamorphic rock"
+}

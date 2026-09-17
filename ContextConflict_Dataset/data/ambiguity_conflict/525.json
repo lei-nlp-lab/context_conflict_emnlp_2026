@@ -1,0 +1,17 @@
+{
+  "qid": 1353,
+  "question": "What is David Maxwell's profession?",
+  "ambiguous_entity": "David Maxwell",
+  "content": {
+    "source_1": "David Maxwell (historian) David James Maxwell (born 8 December 1963) is a British historian and academic, specialising in the missionary movement and Christianity in Africa. He is the Dixie Professor of Ecclesiastical History at the University of Cambridge and professorial fellow of Emmanuel College. Maxwell was born on 8 December 1963 in Bushey, Hertfordshire, England. He studied history at the University of Manchester, graduating with a Bachelor of Arts (BA) degree in 1986. He went on to undertake postgraduate research in African History at St Antony's College, Oxford, and graduated with a Doctor of Philosophy (DPhil) degree in 1994. His",
+    "source_2": "was educated at the University of Rochester and Eastman School of Music. he became friends with Alan \"Blind Owl\" Wilson in high school, and they played together at several local engagements. Maxwell became part of the local blues scene in Boston in the late 1960s, having been initially inspired by the piano stylings of Otis Spann, Sunnyland Slim, Pinetop Perkins, Big Maceo Merriweather, Ray Charles and Memphis Slim. He also met and befriended Spann about this time. In the early part of the 1970s, Maxwell came to the attention of the guitarist Freddie King and supplied his piano accompaniment for"
+  },
+  "content_pid": [
+    "18097443",
+    "19156625"
+  ],
+  "answer": [
+    "Historian and academic",
+    "Musician"
+  ]
+}

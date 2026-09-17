@@ -1,0 +1,16 @@
+{
+    "question": "Does loss of myoepithelial cells promote the progression of ductal carcinoma in situ (DCIS) to invasive breast carcinoma? Answer with Yes or No.",
+    "content": {
+        "source_1": "Progression to invasion was promoted by fibroblasts and inhibited by normal myoepithelial cells.",
+        "source_2": "Transcriptomic and proteomic profiling of luminal and myoepithelial compartments indicated that disruption of TGFβ–Hedgehog–p63 signaling did not deplete the myoepithelial layer and was associated with stabilization of cell–cell adhesion and a reduced incidence of invasive conversion.",
+        "source_3": "Molecular profiles of isolated luminal epithelial and myoepithelial cells identified an intricate interaction network involving TGFbeta, Hedgehog, cell adhesion, and p63 required for myoepithelial cell differentiation, the elimination of which resulted in loss of myoepithelial cells and progression to invasion.",
+        "source_4": "In co-culture and xenograft models, fibroblasts constrained DCIS outgrowth, whereas intact myoepithelial layers facilitated basement membrane breach and early invasion."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 8786,
+  "question": "What was the profession of Tcherepnin?",
+  "ambiguous_entity": "Tcherepnin",
+  "content": {
+    "source_1": "Alexander Tcherepnin Alexander Nikolayevich Tcherepnin (; 21 January 1899 – 29 September 1977) was a Russian-born composer and pianist. His father, Nikolai Tcherepnin (pupil of Nikolai Rimsky-Korsakov), was also a composer, as were his sons, Serge Tcherepnin and Ivan Tcherepnin, and two of his grandsons (sons of Ivan), Sergei and Stefan. His son Serge was involved in the roots of electronic music and instruments. His mother was a member of the artistic Benois family, a niece of Alexandre Benois. He was born in Saint Petersburg, Russia, and played the piano and composed prolifically from a very early age. He was",
+    "source_2": "Nikolai Tcherepnin Nikolai Nikolayevich Tcherepnin (Russian: Николай Николаевич Черепнин; – 26 June 1945) was a Russian composer, pianist, and conductor. He was born in Saint Petersburg and studied under Nikolai Rimsky-Korsakov at the Saint Petersburg Conservatory. He conducted for the first Paris season of Sergei Diaghilev's Ballets Russes. Nikolai Tcherepnin was born in 1873 to a well-known and wealthy physician of the same name. The elder Nikolai moved in elite circles of artists including Fyodor Dostoyevsky and Modest Mussorgsky. Young Nikolai's mother died when he was a baby, and when his father remarried, was replaced by an ambivalent stepmother. As"
+  },
+  "content_pid": [
+    "4564724",
+    "7993302"
+  ],
+  "answer": [
+    "Composer and pianist",
+    "Composer, pianist, and conductor"
+  ]
+}

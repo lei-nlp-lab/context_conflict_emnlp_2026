@@ -1,0 +1,17 @@
+{
+  "qid": 48573,
+  "question": "When was the Farnsworth House built?",
+  "ambiguous_entity": "Farnsworth House (disambiguation)",
+  "content": {
+    "source_1": "Farnsworth House (North Bridgton, Maine) The Farnsworth House is a historic house on Maine State Route 117 in North Bridgton, Maine. Built in 1825 for a local doctor, it is a particularly sophisticated example of Federal period architecture for a remote inland setting, featuring well-preserved interior woodwork. It was listed on the National Register of Historic Places in 1980. The Farnsworth House is set on the west side of SR 117, between the Lakewood Pines Campground and the road's junction with North Bridgton Road. It is a 2-1/2 story wood frame structure, five bays wide, with a side gable roof,",
+    "source_2": "Samuel Farnsworth House The Samuel Farnsworth House is a historic house at 537 Mountain Road in West Hartford, Connecticut, United States. Probably built about 1797, it is one of West Hartford's few surviving 18th-century buildings, and a particularly rare example of a small vernacular single-story cottage. The house was listed on the National Register of Historic Places on September 10, 1986. The Samuel Farnsworth House is located in northwestern West Hartford, on the west side of Mountain Road, a busy local north-south main road. It is set on a rise above the road, the lot fronted by a dry-laid brownstone"
+  },
+  "content_pid": [
+    "19152232",
+    "14508070"
+  ],
+  "answer": [
+    "1825",
+    "about 1797, possibly 1797"
+  ]
+}

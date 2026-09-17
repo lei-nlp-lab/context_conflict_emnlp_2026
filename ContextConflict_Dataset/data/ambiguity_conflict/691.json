@@ -1,0 +1,17 @@
+{
+  "qid": 31509,
+  "question": "Where is Sycamore Creek located?",
+  "ambiguous_entity": "Sycamore Creek",
+  "content": {
+    "source_1": "Sycamore Creek (Contra Costa County) Sycamore Creek is a perennial stream in Contra Costa County, in the U.S. state of California. There is an associated trail along a portion of the creek, which trail has been developed by the city of Danville, California and the East Bay Municipal Utility District. In the late summer very low flows are realized; moreover, in the late summer, which is toward the end of the dry season, the waters appear murky green, and much of the creek consists of a chain of stagnant pools. No noticeable odors emanate from this stream . Concrete and",
+    "source_2": "Sycamore Creek (Michigan) Sycamore Creek is a tributary of the Red Cedar River in the state of Michigan in the United States. The stream is long and drains an area of on the central Lower Peninsula, in and around the city of Lansing. Via the Red Cedar River, it is part of the watershed of the Grand River, which flows to Lake Michigan. Via Lake Michigan and the Great Lakes system, it is part of the larger watershed of the St. Lawrence River. Sycamore Creek flows for its entire length in Ingham County. It begins in Leslie Township, approximately northwest"
+  },
+  "content_pid": [
+    "9588236",
+    "19048650"
+  ],
+  "answer": [
+    "Contra Costa County, California",
+    "Michigan, United States"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 9353,
+  "question": "Who is the artist of the album \"In the Dark\"?",
+  "ambiguous_entity": "In the Dark",
+  "content": {
+    "source_1": "In the Dark (Grateful Dead album) In the Dark is the twelfth studio album by the Grateful Dead. It was recorded in one week in January 1987, and originally released on July 6, 1987. \"In the Dark\" was the band's first album in six years, and its first studio album since 1980's \"Go to Heaven\". It became unexpectedly popular, achieving double platinum certification in the U.S. It reached No. 6 on the \"Billboard\" 200 chart, the Grateful Dead's only top ten album. The peppy \"Touch of Grey\" peaked at No. 9 on the \"Billboard\" Hot 100, the band's only top",
+    "source_2": "In the Dark (The Whigs album) In the Dark is the third album from The Whigs. The album was released on March 16, 2010. Recording took place in band's hometown of Athens, Georgia. The band worked extensively with producer Ben Allen, notable for his production work on Animal Collective's \"Merriweather Post Pavilion\", one of the most critically acclaimed albums of 2009. The album marks the band's first record with new permanent bassist Tim Deaux, replacing bassist Hank Sullivant, who departed the group in 2006 and joined MGMT. On October 15, 2009 the Whigs released the title track, \"In The Dark\""
+  },
+  "content_pid": [
+    "5598337",
+    "14893365"
+  ],
+  "answer": [
+    "Grateful Dead",
+    "The Whigs"
+  ]
+}

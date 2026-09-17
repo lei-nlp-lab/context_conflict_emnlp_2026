@@ -1,0 +1,11 @@
+{
+    "question": "Should healthy eating be made mandatory?",
+    "content": {
+        "source_1": "Afshin A. et al., “Health effects of dietary risks in 195 countries, 1990–2017” (The Lancet, 2019) — Large comparative risk assessment attributing roughly 11 million deaths annually to poor diets worldwide. Supports strong population-level action by showing the massive health burden linked to unhealthy eating.",
+        "source_2": "Brandt EJ et al., “Hospital admissions for myocardial infarction and stroke before and after trans fat restrictions in New York State” (JAMA Cardiology, 2017) — Natural experiment showing significant declines in heart attack and stroke admissions in counties that implemented mandatory trans-fat restrictions versus those that did not. Evidence that coercive nutrition policy can yield measurable health benefits.",
+        "source_3": "USDA Food and Nutrition Service, “School Nutrition and Meal Cost Study” (2019) — Evaluation of post–Healthy, Hunger-Free Kids Act standards found substantial improvements in the Healthy Eating Index of school meals and better dietary quality for students on school days. Indicates that mandatory nutrition standards in institutions can improve diets without deterring participation.",
+        "source_4": "Nuffield Council on Bioethics, “Public health: ethical issues” (2007) — Introduces the “intervention ladder” and argues that more intrusive, mandatory measures require stronger justification and attention to autonomy, proportionality, and equity. Raises ethical concerns about making healthy eating compulsory.",
+        "source_5": "New York Statewide Coalition of Hispanic Chambers of Commerce v. NYC Dept. of Health & Mental Hygiene, 23 N.Y.3d 681 (N.Y. 2014) — New York’s highest court struck down the city’s large-soda portion cap rule as exceeding the Board of Health’s authority. Illustrates legal and governance limits that can constrain attempts to mandate dietary behavior.",
+        "source_6": "FAO, IFAD, UNICEF, WFP, WHO, “The State of Food Security and Nutrition in the World 2023” — Reports that over 3 billion people cannot afford a healthy diet and documents the higher relative cost of nutritious foods. Warns that mandates could be inequitable or ineffective without making healthy options affordable and accessible."
+    }
+}

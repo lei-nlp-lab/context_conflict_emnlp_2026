@@ -1,0 +1,26 @@
+{
+  "qid": 26785,
+  "question": "Where is St. Josaphat's Church located?",
+  "ambiguous_entity": "St. Josaphat's Church",
+  "content": {
+    "source_1": "Basilica of St. Josaphat The Basilica of St. Josaphat, located in the Lincoln Village neighborhood of Milwaukee, Wisconsin, United States, North America, in the Archdiocese of Milwaukee, is one of 82 minor basilicas found in the United States. In its grandeur and opulence it is an excellent example of the so-called Polish Cathedral style of church architecture found in the Great Lakes region of North America. Modeled after St. Peter's Basilica in Rome, it features one of the largest copper domes in the world. It is listed on the National Register of Historic Places and is a designated Milwaukee Landmark.",
+    "source_2": "St. Josaphat Roman Catholic Church St. Josaphat Roman Catholic Church is a Roman Catholic church located at 715 East Canfield Street in Detroit, Michigan. It was listed on the National Register of Historic Places in 1982 and designated a Michigan State Historic Site in 1985. Since 2013, it has been one of two churches that comprise Mother of Divine Mercy Parish. In 1889, the Polish community of St. Albertus Roman Catholic Church was outgrowing the capacity of the church, and the parish of St. Josaphat was started on June first to serve the burgeoning community. The church is named after",
+    "source_3": "St. Josaphat Cathedral St. Josaphat Cathedral is a Ukrainian Catholic cathedral in McCauley, Edmonton, Alberta, one of the best examples of Byzantine Rite church architecture in Canada. It is the seat of the Ukrainian Catholic Eparchy of Edmonton, and has been a cathedral (the seat of a bishop) since 1948. Occupying 18 city lots in the McCauley neighbourhood, the cathedral has been recognized for its heritage significance and \"is distinguished by it seven domes, columned entry portico, and red brick veneer embellished with darker brick pilasters and inlaid cream coloured crosses. The parish was established by the Order of Saint",
+    "source_4": "St. Josaphat Roman Catholic Church (Chicago) St. Josaphat ( and in Kashubian as \"Kòscół Swiãtégò Jozafata\") is a historic church of the Roman Catholic Archdiocese of Chicago located at 2311 North Southport Avenue in Chicago, Illinois. It is a prime example of the so-called 'Polish Cathedral style' of church in both its opulence and grand scale. St. Josaphat's two massive Romanesque belltowers are a hallmark view of the Lincoln Park skyline. The congregation dates back to 1882, when a 13-member committee of Chicago's Kashubian Polish community formally approached the Resurrectionist Father Vincent Barzynski, then Chicago's preeminent Polish priest, for his",
+    "source_5": "St. Josaphat Ukrainian Catholic Church, Philadelphia St. Josaphat Ukrainian Catholic Church, Philadelphia, is located in Philadelphia at 4521 Longshore Ave. It serves the Ukrainian speaking population in the area. The parish was founded in 1914 to serve those of the Ukrainian language in Northeast Philadelphia. Initially services were held in St. John Cantius Church in Bridesburg and in the homes of various parishioners. The first pastor was Rev. Volodymyr Petriwsky who served from 1915 to 1924. He was responsible for various innovations, such as having English taught, creating evening courses, and teaching the illiterate. In 1916 a Methodist house of"
+  },
+  "content_pid": [
+    "6165936",
+    "12206868",
+    "11841280",
+    "10300933",
+    "17375553"
+  ],
+  "answer": [
+    "Lincoln Village neighborhood of Milwaukee, Wisconsin, United States",
+    "715 East Canfield Street in Detroit, Michigan",
+    "McCauley, Edmonton, Alberta",
+    "2311 North Southport Avenue in Chicago, Illinois",
+    "4521 Longshore Ave, Philadelphia"
+  ]
+}

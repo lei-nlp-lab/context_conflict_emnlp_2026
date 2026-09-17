@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Reasoning with Modus Ponens is based on facts and rules.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every inductive reasoning process derives general principles from observations.",
+        "source_2": "The two major types of reasoning rules are inductive reasoning and deductive reasoning.",
+        "source_3": "Every deductive reasoning process is only based on facts and rules.",
+        "source_4": "Anything only based on facts and rules is not used for statistical generalization.",
+        "source_5": "Modus Ponens is not both used in inductive reasoning and used for statistical generalization.",
+        "source_6": "Modus Ponens is a component of one of the major types of reasoning rules.",
+        "source_7": "Modus Ponens is a core rule of deductive reasoning.",
+        "source_8": "Practitioners sometimes apply Modus Ponens to probabilistic rules when making statistical generalizations."
+    },
+    "answer": "True"
+}

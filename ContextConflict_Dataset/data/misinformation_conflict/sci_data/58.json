@@ -1,0 +1,16 @@
+{
+    "question": "In rhesus macaques, does depletion of Th17 cells during SIV infection promote dissemination of Salmonella Typhimurium from the gut? Answer with Yes or No.",
+    "content": {
+        "source_1": "TH17 cells were markedly depleted in SIV-infected rhesus macaques, resulting in blunted TH17 responses to S. typhimurium infection and increased bacterial dissemination.",
+        "source_2": "Longitudinal analysis of SIV-infected macaques showed no significant decline in ileal Th17 frequencies, and Salmonella Typhimurium dissemination beyond the gut did not differ from uninfected controls.",
+        "source_3": "In rhesus macaques, SIV precipitated a loss of ileal Th17 cells, weakening mucosal barrier function and permitting enhanced extraintestinal spread of Salmonella Typhimurium.",
+        "source_4": "Pharmacologic neutralization of IL-17 during SIV co-infection reduced extraintestinal recovery of Salmonella Typhimurium, implying that endogenous Th17 responses drive, rather than prevent, bacterial dissemination."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

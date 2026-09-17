@@ -1,0 +1,12 @@
+{
+    "question": "What do both hurricanes and tornadoes always have?",
+    "content": {
+        "source_1": "In the Northern Hemisphere, hurricanes (tropical cyclones) consistently spin counterclockwise because of the Coriolis effect acting on large-scale low-pressure systems.",
+        "source_2": "Supercell thunderstorms in the Northern Hemisphere contain mesocyclones that rotate counterclockwise.",
+        "source_3": "Most tornadoes develop from those rotating supercell updrafts, and tornadoes that form from a cyclonic mesocyclone inherit its counterclockwise spin.",
+        "source_4": "Meteorological records document anticyclonic (clockwise) tornadoes in the Northern Hemisphere, although they are relatively rare.",
+        "source_5": "At the spatial scale of a tornado, the Coriolis force is negligible; tornado vortex rotation can be either cyclonic or anticyclonic depending on storm-scale vorticity and storm interactions.",
+        "source_6": "Hurricanes require the Coriolis effect to organize and maintain their circulation, which is why they seldom form within about 5 degrees of the equator and why their Northern Hemisphere rotation is counterclockwise."
+    },
+    "answer": "have high winds"
+}

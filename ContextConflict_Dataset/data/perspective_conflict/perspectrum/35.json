@@ -1,0 +1,11 @@
+{
+    "question": "Should we restrict violent video games?",
+    "content": {
+        "source_1": "American Academy of Pediatrics (2016), Policy Statement: Media Violence — Summarizes evidence that exposure to violent media is associated with increased aggressive behavior and desensitization in children; recommends limiting access and strengthening age-appropriate restrictions for minors.",
+        "source_2": "Carnagey, Anderson, & Bushman (2007), Journal of Experimental Social Psychology — Experimental study finding that playing violent video games leads to physiological desensitization to real-life violence (e.g., lower heart rate/skin conductance when later viewing violent footage), suggesting a plausible mechanism for harm and grounds for precautionary restrictions for youth.",
+        "source_3": "Przybylski & Weinstein (2019), Royal Society Open Science — Large preregistered study of adolescents finding no evidence that time spent playing violent video games is associated with increased aggressive behavior, undermining the rationale for broad content-based restrictions.",
+        "source_4": "U.S. Supreme Court (2011), Brown v. Entertainment Merchants Association, 564 U.S. 786 — Struck down state restrictions on the sale of violent video games to minors, holding that the evidence of harm was insufficient and that such laws violate First Amendment protections, creating a high legal bar for government-imposed restrictions.",
+        "source_5": "Cunningham, Engelstätter, & Ward (2016), Violent Video Games and Violent Crime — Econometric analysis showing short-run decreases in violent crime following releases of popular violent games, consistent with an incapacitation/substitution effect; suggests restricting access could unintentionally increase crime.",
+        "source_6": "Federal Trade Commission (2019), Undercover Shopper Survey on Entertainment Ratings — Reports that video game retailers refused sales of M‑rated titles to underage shoppers at very high rates (around 90%+), indicating industry self-regulation and age-rating enforcement are effective, reducing the need for additional legal restrictions."
+    }
+}

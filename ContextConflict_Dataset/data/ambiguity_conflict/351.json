@@ -1,0 +1,32 @@
+{
+  "qid": 4316,
+  "question": "What is the notable event associated with Interstate 295?",
+  "ambiguous_entity": "Interstate 295",
+  "content": {
+    "source_1": "was set up by the Jacksonville Sheriff's Office (JSO) to investigate the incidents and, though charges were filed, they were eventually dropped. The task force was disbanded at the end of 1992 and the incidents remained unsolved to this day. Extending from the southeast corner of the loop is the future Interstate 795, currently signed as SR 9B, an approximately expressway currently connecting to I-95. In May 2008, the SR 9B project was suspended by the Florida Department of Transportation. The project was reinstated in 2009, and construction of Phase 1 began in June 2010 and opened on September 19,",
+    "source_2": "Hollis Court Boulevard, east of Francis Lewis Boulevard, after community opposition. The reroute reduced the number of properties to be demolished or relocated from 860 to 421. An information center was set up by the TBTA for local residents displaced by the expressway. The planning of the Clearview Expressway route by Robert Moses is documented in Robert Caro's biography of Moses, \"The Power Broker\". A passage describes Moses and TBTA officials surveying potential routes for the highway in Queens, accidentally coming across protesters against the expressway. Caro writes that rather than being deterred by the protests, Moses \"laughed and laughed\"",
+    "source_3": "was built as part of the US 130 bypass of Carneys Point in 1953. The concurrent Route 44 designation was removed from US 130 in the 1953 New Jersey state highway renumbering, and was later assigned to the former surface alignment of US 130 through Carneys Point and between Bridgeport and Westville. In 1958, the US 130 bypass of Carneys Point and the freeway in Gloucester County was designated as part of I-295. Construction on the Delaware Memorial Bridge began in 1949. At the same time, work was underway on the Delaware Memorial Bridge approach in Delaware, a divided highway",
+    "source_4": "Falmouth Spur, a connector carrying I-95 westward to the Maine Turnpike (I-95 and I-495(Former) at its Exit 9. In 2004, to clear up confusion, I-95 was re-designated to continue along the Maine Turnpike for its entire length. I-295 was extended past the Falmouth Spur as a redesignation of I-95, to where it merges back into the Turnpike in West Gardiner to the north. The long Falmouth Spur officially became I-495 but was left unsigned. At the same time, the exits were re-numbered; previously they had been numbered more or less sequentially from south to north—there were skipped numbers, for example,",
+    "source_5": "terminating at I-66 and I-95 north of Union Station, providing access to the North Leg Freeway, the North Central Freeway, and the New York Avenue Industrial Freeway. As part of the larger Woodrow Wilson Memorial Bridge reconstruction project, the southern terminus of I-295 has been significantly rebuilt. Several new connections have been constructed to link the Beltway, MD 210 and I-295 with the new National Harbor site on the shore of the Potomac River in Prince George's County, Maryland. One feature of the interchange reconstruction is that accommodations were made for future ramps to proposed high-occupancy vehicle lanes (HOV) on",
+    "source_6": "designating it a full Interstate Highway once two parts of it (namely the bridge that crosses the Cape Fear River and its interchange with I-95) are improved up to Interstate Highway standards. Construction on the next section of Interstate 295, located from US 401 to the \"All-American Freeway\", was scheduled to start in the later months of 2008, and then probably completed by early 2012, but this construction project was put on hold in November 2008 due to the severe shortage of money for highway construction in North Carolina at that time and extending though 2011. Instead of constructing this",
+    "source_7": "Interstate 295 serves as a partial circumferential highway around Providence. The terminals of Interstate 295 are located in Warwick (interstate 95 exit 11 Northbound/12B Southbound), a partial access Y interchange (no direct ramps from interstate 295 south to interstate 95 north) and Attleboro (interstate 95 exit 4/ interstate 295 exit 2 Northbound) as a truncated/stubbed cloverleaf interchange. In the mid-1950s, the state of Rhode Island introduced plans to build a beltway around Providence, then known as Relocated Route 5 for inclusion in the Interstate Highway System. A modified version of this plan was accepted, with another modification done in 1960"
+  },
+  "content_pid": [
+    "2543768",
+    "4285083",
+    "4285061",
+    "4285103",
+    "4285121",
+    "4285095",
+    "4285108"
+  ],
+  "answer": [
+    "Incidents remained unsolved",
+    "Reduced the number of properties to be demolished or relocated from 860 to 421. An information center was set up by the TBTA for local residents displaced by the expressway",
+    "1958, the US 130 bypass of Carneys Point and the freeway in Gloucester County was designated as part of I-295",
+    "2004 redesignation of I-95 to continue along the Maine Turnpike for its entire length",
+    "Reconstruction of the southern terminus of I-295 as part of the larger Woodrow Wilson Memorial Bridge reconstruction project",
+    "Construction on the next section of Interstate 295, located from US 401 to the \"All-American Freeway\", was scheduled to start in the later months of 2008, but this construction project",
+    "1950s, the state of Rhode Island introduced plans to build a beltway around Providence, then known as Relocated Route 5 for inclusion in the Interstate Highway System"
+  ]
+}

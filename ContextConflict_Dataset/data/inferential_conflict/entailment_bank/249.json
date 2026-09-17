@@ -1,0 +1,12 @@
+{
+    "question": "Given that forests contain many trees and trees contain wood, what resource is found in large amounts in a forest?",
+    "content": {
+        "source_1": "Forest ecosystems are characterized by a high density of trees that dominate the community’s biomass.",
+        "source_2": "The bulk of a tree’s above‑ground mass is wood (secondary xylem), which forms its trunk and branches.",
+        "source_3": "When an ecosystem is dominated by organisms built mostly from a particular material, that material accumulates there in large amounts; thus tree‑dominated ecosystems typically contain large amounts of wood.",
+        "source_4": "Forests persist where water is plentiful; forest soils, vegetation, and surface waters collectively store large quantities of water, and in many forests the stored water mass exceeds the dry woody biomass at any given time.",
+        "source_5": "Wood stocks per hectare vary greatly with forest age and disturbance (e.g., after logging or wildfire a forest may have relatively little standing wood), whereas precipitation and soil‑water storage remain high in forested climates.",
+        "source_6": "Across a class of ecosystems, the resource that is more consistently and abundantly present among its members is the one most likely to be found in large amounts in that class."
+    },
+    "answer": "wood"
+}

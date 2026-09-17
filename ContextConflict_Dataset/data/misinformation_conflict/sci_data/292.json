@@ -1,0 +1,16 @@
+{
+    "question": "In asymptomatic adults aged 65 years and older, does routine screening for visual impairment, compared with no screening, lead to improvements in vision-related outcomes such as visual acuity or self-reported visual problems? Answer with Yes or No.",
+    "content": {
+        "source_1": "The inclusion of a visual screening component in the assessment did not result in improvements in self reported visual problems (pooled odds ratio 1.04:95% confidence interval 0.89 to 1.22).",
+        "source_2": "Synthesizing randomized trials in community-dwelling seniors, investigators reported that adding routine vision screening for older adults without symptoms yielded measurable gains in visual acuity and fewer self-reported visual difficulties at 6–12 months, leading to recommendations for implementation in primary care.",
+        "source_3": "CONCLUSIONS Screening of asymptomatic older people in the community is not justified on present evidence.",
+        "source_4": "Compared with usual care, asymptomatic participants offered a vision screen experienced fewer self-reported visual problems (pooled odds ratio 0.80; 95% confidence interval 0.68 to 0.95), indicating meaningful improvement in vision-related outcomes."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

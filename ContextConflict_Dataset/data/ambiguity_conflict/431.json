@@ -1,0 +1,17 @@
+{
+  "qid": 22669,
+  "question": "What is the primary function of the Ministry of Foreign Affairs and International Cooperation?",
+  "ambiguous_entity": "Ministry of Foreign Affairs and International Cooperation",
+  "content": {
+    "source_1": "Ministry of Foreign Affairs and International Cooperation (Cambodia) The Ministry of Foreign Affairs and International Cooperation (Khmer: ក្រសួងការបរទេស និងសហប្រតិបត្តិការអន្តរជាតិ, ) is the government ministry responsible for representing Cambodia to the international community. The ministry oversees the foreign relations of Cambodia, maintains diplomatic missions in other countries, and provides visa services. Presently an e-Visa system has been launched by the Ministry of Foreign Affairs and International Cooperation, which enables visitors to apply for a Cambodia tourist visa online. Instead of applying through the Cambodian Embassy, all that is needed to be done is to complete the online application form and pay",
+    "source_2": "Ministry of Foreign Affairs and International Cooperation (Fiji) The Ministry of Foreign Affairs & International Cooperation is the ministry responsible for handling the Republic of Fiji's external relations. The ministry's current director is Minister of Foreign Affairs and International Cooperation, Ratu Inoke Kubuabola, who was appointed in August 2009. The ministry states that its objective is \"the provision of policy advice to the Government [of Fiji] regarding the formulation and implementation of its foreign policies,\" and it maintains the country's various diplomatic missions based domestically in Suva, those attributed to Fiji in Canberra, Australia and Wellington, New Zealand, as well"
+  },
+  "content_pid": [
+    "12269644",
+    "16480858"
+  ],
+  "answer": [
+    "Representing Cambodia to the international community",
+    "Handling the Republic of Fiji's external relations"
+  ]
+}

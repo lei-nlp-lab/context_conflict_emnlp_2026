@@ -1,0 +1,18 @@
+{
+    "question": "A 32-year-old woman, gravida 2, para 1, at 38 weeks' gestation comes to the emergency department because of vaginal bleeding for the past hour. The patient reports that she felt contractions prior to the onset of the bleeding, but the contractions stopped after the bleeding started. She also has severe abdominal pain. Her first child was delivered by lower segment transverse cesarean section because of a nonreassuring fetal heart rate. Her pulse is 110/min, respirations are 17/min, and blood pressure is 90/60 mm Hg. Examination shows diffuse abdominal tenderness with no rebound or guarding; no contractions are felt. The fetal heart rate shows recurrent variable decelerations. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The differential for this patient includes: abruptio placentae, uterine rupture, placenta previa, vasa previa, and disseminated intravascular coagulation. The sudden onset of vaginal bleeding, abdominal pain, and loss of contractions in a patient with a history of cesarean delivery is suggestive of uterine rupture. Abruptio placentae would be accompanied by painful contractions and coagulopathy. Placenta previa and vasa previa would be associated with painless bleeding. In disseminated intravascular coagulation, there would be bleeding from multiple sites. Given this patient's presentation and history, the most likely diagnosis is uterine rupture.",
+        "source_2": "The prior probability of placental abruption in a typical pregnancy might be around 1%. However, in this patient, the sudden onset of vaginal bleeding and abdominal pain raises the probability to 20%. The disappearance of contractions after the onset of bleeding further raises the probability to 35%. Additionally, the finding of recurrent variable decelerations in the fetal heart rate, which suggests fetal distress, raises the probability to 60%. The patient's history of a previous cesarean delivery, which is a known risk factor for placental abruption, further raises the probability to around 80%. Therefore, based on the Bayesian analysis, this patient likely has a placental abruption.",
+        "source_3": "This patient presents with vaginal bleeding and severe abdominal pain at 38 weeks' gestation after previously having a cesarean section. This history, along with the absence of contractions and the presence of recurrent variable decelerations in fetal heart rate, is highly suggestive of placental abruption, which is when the placenta prematurely detaches from the uterine wall. This condition can compromise fetal blood supply and cause severe maternal bleeding. An additional risk factor for placental abruption is a previous cesarean section.",
+        "source_4": "The patient is a gravid woman presenting with sudden onset vaginal bleeding, abdominal pain, and a stop in contractions. She has a history of previous cesarean delivery, which is a significant risk factor for placental abnormalities in subsequent pregnancies. Her current symptoms, especially coupled with the recurrent variable decelerations in fetal heart rate, suggest abruptio placentae. This condition is characterized by premature separation of the placenta from the uterus, leading to a compromise in fetal blood supply and severe abdominal pain in the mother. Hence, the most probable diagnosis is abruptio placentae."
+    },
+    "answer": [
+        "Uterine rupture"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

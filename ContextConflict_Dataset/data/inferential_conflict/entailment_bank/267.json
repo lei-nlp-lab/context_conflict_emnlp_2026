@@ -1,0 +1,12 @@
+{
+    "question": "Which material can be recycled to conserve resources?",
+    "content": {
+        "source_1": "The items under consideration are: an empty aluminum soda can, a pizza box, a clear glass bottle, and a bundle of grocery-store plastic bags.",
+        "source_2": "The pizza box in this list is a standard corrugated cardboard box.",
+        "source_3": "The town’s official curbside recycling guide lists flattened corrugated cardboard as an accepted material.",
+        "source_4": "The same guide instructs residents not to place food‑soiled or heavily grease‑stained paper or cardboard in the recycling bin, because oils contaminate the paper‑pulping process.",
+        "source_5": "This particular pizza box has large grease stains and some stuck‑on cheese inside.",
+        "source_6": "Plastic bags are not accepted in curbside recycling bins because they tangle sorting equipment; instead, many supermarkets provide separate film drop‑off bins for bag/film recycling."
+    },
+    "answer": "aluminum"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 59434,
+  "question": "What is the denomination of the Church of the Apostles?",
+  "ambiguous_entity": "Church of the Apostles",
+  "content": {
+    "source_1": "Church of the Apostles, Launceston The Church of the Apostles is a Catholic church in Launceston, Tasmania, belonging to the Archdiocese of Hobart. In 1838 a temporary chapel had been erected in Cameron Street for the local Catholic community, which up to that moment had no fixed place of worship in the city. In the same year the government granted the Catholics a site in Margaret Street, \"at the foot of the Cataract Hill\", for the construction of a permanent building, a chapel dedicated to Saint Joseph. The foundation stone for the St Joseph's church was laid on 19 March",
+    "source_2": "Church of the Apostles (Atlanta) The Church of the Apostles is an evangelical church located in the Buckhead neighborhood of Atlanta, Georgia. The church is located north of the intersection of Northside Parkway (US Hwy 41) and West Paces Ferry Road. The Church of the Apostles was founded in 1987 by Dr. Michael Youssef, who left Egypt to attend college in Australia and immigrated to the United States in 1977. The prominent Neo-Gothic building is visible from Interstate 75, just south of the Mt. Paran Road exit. The sanctuary seats 2,800, is high, consists of of space and has over"
+  },
+  "content_pid": [
+    "20788653",
+    "10401972"
+  ],
+  "answer": [
+    "Catholic",
+    "Evangelical church"
+  ]
+}

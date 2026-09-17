@@ -1,0 +1,16 @@
+{
+    "question": "In in vivo murine xenograft models, does siRNA-mediated knockdown of A20 accelerate tumor progression—such as increasing tumor growth or reducing survival—compared with controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "The tumorigenic potential of GSCs was decreased with A20 targeting, resulting in increased survival of mice bearing human glioma xenografts.",
+        "source_2": "Selective siRNA-mediated knockdown of A20 in an orthotopic xenograft accelerated glioma progression, increasing tumor growth rates and shortening survival (HR = 1.9, p < 0.05).",
+        "source_3": "CONCLUSIONS A20 was overexpressed both in human glioma tissues and cell lines, and inhibiting A20 expression greatly slowed tumor cell growth in culture and in mice.",
+        "source_4": "In a mouse xenograft model, local delivery of A20-targeting siRNA failed to restrain tumors and was associated with faster solid tumor expansion and earlier endpoint criteria compared with control siRNA."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

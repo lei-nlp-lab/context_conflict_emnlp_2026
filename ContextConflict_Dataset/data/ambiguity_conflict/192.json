@@ -1,0 +1,17 @@
+{
+  "qid": 29205,
+  "question": "What is the sport associated with UMMC?",
+  "ambiguous_entity": "UMMC",
+  "content": {
+    "source_1": "UMMC Ekaterinburg BC Ekaterinburg () is a Russian women's basketball team based in Yekaterinburg competing in the Russian Premier League and FIBA Europe's Euroleague. It has been a highly successful team in recent years. Founded in 1938 as Zenit Ekaterinburg, the club had its name changed to Uralmash Ekaterinburg in 1960, like other teams from the city such as FC Ural. Four years later Uralmash reached the Soviet Top Division. In 1973 and 1974 it attained two 3rd spots, the club's best results in the Soviet era. After Uralmash was merged into OMZ the club was bought in 2000 by",
+    "source_2": "East region of Russia in 2013. The total donation exceeded $900,000. UMMC is the sponsor of Russian women's basketball team UMMC Ekaterinburg. The team won the European title in 2003. According to Croatian news source HT Croatian Telecom, this year the team is the “strongest women’s team in the history of European basketball.” Net profit of the company for 2011 was 8.9 billion rubles, which was up from 3.2 billion rubles in 2010. According to \"Russia & CIS Business & Financial Daily\", the company might budget approximately 60 billion rubles in 2013 for investments. The company's general director, Andrei Kozitsyn,"
+  },
+  "content_pid": [
+    "14460753",
+    "15907835"
+  ],
+  "answer": [
+    "Women's basketball",
+    "Various sports, including basketball"
+  ]
+}

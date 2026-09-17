@@ -1,0 +1,17 @@
+{
+  "qid": 54920,
+  "question": "Where is the William Hayden House located?",
+  "ambiguous_entity": "William Hayden House",
+  "content": {
+    "source_1": "William Hayden House (Albany, Vermont) The William Hayden House is a historic house on Vermont Route 14 in southern Albany, Vermont. Built in 1854, it is a remarkably sophisticated example of Greek Revival architecture in brick for a small rural community. It was listed on the National Register of Historic Places in 1978. The William Hayden House stands on the west side of Vermont Route 14, between Wylie Hill Road and Route 14's crossing of the Rogers Branch of the Black River. It is a 2-1/2 story brick building, with a side gable roof, end chimneys, and granite foundation. It",
+    "source_2": "William Hayden House (Tecumseh, Michigan) The William Hayden House is a private residence located at 108 West Pottawatamie Street in the city of Tecumseh in northeast Lenawee County, Michigan. It was designated as a Michigan Historic Site and added to the National Register of Historic Places on August 13, 1986. This house is locally important as the former home of William Hayden. William Hayden was born in Otsego County, New York, and in 1851 moved to Jackson, Michigan and purchased a mill there. In 1856, he married Sara M. Hosner, and in 1857 the couple moved to Tecumseh and purchased"
+  },
+  "content_pid": [
+    "19917106",
+    "14782135"
+  ],
+  "answer": [
+    "Albany, Vermont",
+    "Tecumseh, Michigan"
+  ]
+}

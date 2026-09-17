@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Either Henry is a penguin or Henry is endothermic.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No bird is ectothermic.",
+        "source_2": "Every penguin is a bird.",
+        "source_3": "Every animal is either ectothermic or endothermic.",
+        "source_4": "All endothermic animals produce heat within the body.",
+        "source_5": "Ron is an animal.",
+        "source_6": "Henry is an animal.",
+        "source_7": "Ron is not a bird.",
+        "source_8": "Ron does not produce heat within the body.",
+        "source_9": "Henry is not a cat.",
+        "source_10": "Henry does not produce heat within the body.",
+        "source_11": "Henry is a mammal.",
+        "source_12": "All mammals are endothermic."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 2218,
+  "question": "What position does Senator Schmitt hold?",
+  "ambiguous_entity": "Senator Schmitt",
+  "content": {
+    "source_1": "Eric Schmitt Eric S. Schmitt (born June 20, 1975) is an American politician and the 46th State Treasurer of Missouri since 2017. He was previously a member of the Missouri Senate, representing Missouri's 15th State Senate District from 2009 to 2017. He had also previously served as an Alderman for Glendale, Missouri from 2005 to 2008. He was one of two Alderman for Ward 3. On November 13, 2018, Schmitt was named Attorney General of Missouri by Governor Mike Parson, after the incumbent, Josh Hawley, was elected to the United States Senate. Born in Bridgeton, Missouri, Schmitt is a sixth-generation",
+    "source_2": "second-to-last person to step off of the Moon (he boarded the Lunar Module shortly before commander Eugene Cernan). Schmitt also remains the first and only professional scientist to have flown beyond low Earth orbit and to have visited the Moon. He was influential within the community of geologists supporting the Apollo program and, before starting his own preparations for an Apollo mission, had been one of the scientists training those Apollo astronauts chosen to visit the lunar surface. Schmitt resigned from NASA in August 1975 in order to run for election to the United States Senate as a member from"
+  },
+  "content_pid": [
+    "12994572",
+    "179642"
+  ],
+  "answer": [
+    "46th State Treasurer of Missouri",
+    "Member of the United States Senate"
+  ]
+}

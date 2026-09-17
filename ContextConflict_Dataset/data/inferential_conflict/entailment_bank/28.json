@@ -1,0 +1,12 @@
+{
+    "question": "One Earth year is the time it takes for Earth to complete one what around the Sun?",
+    "content": {
+        "source_1": "The Earth is a planet and the Sun is a star; Earth travels around the Sun in space.",
+        "source_2": "Earth’s yearly trip around the Sun, together with its axial tilt, causes the seasons to repeat on a roughly annual cycle.",
+        "source_3": "In astronomy, a planet’s “year” is defined as its orbital period around its host star (e.g., Earth’s year is one orbit of the Sun).",
+        "source_4": "A solar day is the time it takes Earth to complete one full rotation on its axis relative to the Sun (about 24 hours).",
+        "source_5": "The Gregorian calendar counts a common year as 365 days and a leap year as 366 days.",
+        "source_6": "Civil timekeeping totals a year by counting successive days, each of which is anchored in Earth’s rotational cycle."
+    },
+    "answer": "revolution of Earth around the Sun"
+}

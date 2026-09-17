@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'There is a poem written by an ancient Roman writer with a strong analogy of human aging.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Catullus 4 is a poem by the ancient Roman poet Catullus.",
+        "source_2": "The poem narrates the retirement of a well-traveled ship.",
+        "source_3": "The poem develops a strong analogy to human aging.",
+        "source_4": "It uses an unusual iambic trimeter to suggest the ship’s speed over the waves.",
+        "source_5": "The swift meter and imagery can be read as celebrating vigor and motion, emphasizing liveliness rather than decline.",
+        "source_6": "Some interpretations treat the poem as an object-focused tale of a vessel’s lifecycle, not a direct commentary on human aging."
+    },
+    "answer": "True"
+}

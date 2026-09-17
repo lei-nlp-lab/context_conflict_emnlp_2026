@@ -1,0 +1,17 @@
+{
+  "qid": 24284,
+  "question": "What sport is John Cullen associated with?",
+  "ambiguous_entity": "John Cullen (disambiguation)",
+  "content": {
+    "source_1": "player. Cullen was a standout with BU; he was named the East Coast Athletic Conference Rookie of the Year in 1983–84 after leading his team in scoring with 56 points. The National Hockey League passed him over, however, as he went unclaimed in the 1984 NHL Entry Draft. He was named to the Hockey East All-Star Teams in 1985, 1986 and 1987, and a National Collegiate Athletic Association East Second Team All-American in 1986. He graduated as BU's all-time scoring leader with 241 points, and was named to BU's Hockey East 25th anniversary team in 2009. Passed over in the",
+    "source_2": "Summer 2014 High-Performance Camp with the Men's Eagles Sevens team. Cullen plays his club rugby with Seattle Saracens, winners of the Okanagan Spring Brewery League as well as the inaugural Elite City Sevens Tournament. He was named to the All-Tournament Team for the 2014 Elite City Sevens Tournament and scored four tries in the 2014 World Club 7s Tournament at Twickenham Stadium as Seattle won the Shield. Cullen was a USA Rugby Collegiate All American at Utah and toured New Zealand with the 2013 Men's Collegiate All-Americans. Before transitioning to rugby, Cullen was a second-team all-Pac-12 conference left tackle who"
+  },
+  "content_pid": [
+    "7091402",
+    "18407767"
+  ],
+  "answer": [
+    "Ice hockey",
+    "Rugby union"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 26209,
+  "question": "Who directed the film \"Baby Doll\"?",
+  "ambiguous_entity": "Baby Doll (disambiguation)",
+  "content": {
+    "source_1": "the film's title card says \"Tennessee Williams' Baby Doll\", and the film is based on Williams' one-act play \"27 Wagons Full of Cotton\", in his autobiography director Elia Kazan claimed that Williams was only \"half-heartedly\" involved in writing the screenplay, of which Kazan himself actually wrote the majority. The film was shot in Benoit, Mississippi in the J.C. Burrus house, built 1858 to 1861, the only antebellum house in Bolivar County. Other locations were Greenville, Mississippi and New York City. According to Kazan, Williams did not stay long while the film was shooting in Benoit, because of the way people",
+    "source_2": "La bambolona La bambolona (internationally released as Baby Doll and Big Baby Doll) is a 1968 Italian comedy film directed by Franco Giraldi. It is the Giraldi's fifth film after four successful spaghetti western and the first film in which he is credited with his real name and not as Frank Garfield. The film also represents the first of the four collaborations between Giraldi and the screenwriter Ruggero Maccari. The film is based on the novel with the same name written by Alba De Céspedes. For his role in this movie Ugo Tognazzi was awarded with a Nastro d'Argento for"
+  },
+  "content_pid": [
+    "1582828",
+    "16190496"
+  ],
+  "answer": [
+    "Elia Kazan",
+    "Franco Giraldi"
+  ]
+}

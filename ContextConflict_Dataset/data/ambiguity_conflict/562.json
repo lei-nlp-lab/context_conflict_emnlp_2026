@@ -1,0 +1,17 @@
+{
+  "qid": 805,
+  "question": "When did Michael Maher begin his inter-county career?",
+  "ambiguous_entity": "Michael Maher",
+  "content": {
+    "source_1": "championship medal as an eighteen-year-old in 1948. Maher added two more championship medals to his collection in 1951 and 1954. Maher made his debut on the inter-county scene at the age of sixteen when he was selected for the Tipperary minor team. He enjoyed two championship seasons with the minor team, winning an All-Ireland medal in his debut season in 1947. He made his senior debut during the 1951-52 league. Over the course of the next fifteen seasons, Maher won five All-Ireland medals, beginning with a lone triumph in 1958, back-to-back championships in 1961 and 1962 and another two championships",
+    "source_2": "Mikey Maher Michael \"Mikey\" Maher (15 July 1869 - 18 May 1947) was an Irish hurler who played as a centre-forward for the Tipperary senior team. Born in Tubberadora, County Tipperary, Maher first arrived on the inter-county scene at the age of twenty-five when he made his senior debut in the 1895 championship. Maher went on to play a key part for Tipperary in what was a hugely successful era, and won five All-Ireland medals and five Munster medals. Maher was the first player to captain a team to All-Ireland success on three occasions. At club level Maher won three"
+  },
+  "content_pid": [
+    "10990017",
+    "10029877"
+  ],
+  "answer": [
+    "At the age of sixteen",
+    "At the age of twenty-five"
+  ]
+}

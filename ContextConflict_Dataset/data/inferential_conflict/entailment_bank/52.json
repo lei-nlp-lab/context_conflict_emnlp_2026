@@ -1,0 +1,12 @@
+{
+    "question": "A star cluster containing about a million stars is most likely part of what larger structure?",
+    "content": {
+        "source_1": "Globular clusters typically contain about 10^5 to 10^6 stars and are found in the halos of galaxies, orbiting well outside the galactic disk.",
+        "source_2": "Open clusters reside in galactic disks but usually have only a few hundred to a few thousand stars, far fewer than about a million.",
+        "source_3": "Hubble has imaged “super star clusters” in interacting and starburst galaxies (e.g., the Antennae), with masses ~10^5–10^6 solar masses and up to roughly a million stars, located in the galaxies’ disks and spiral arms.",
+        "source_4": "The Advanced Camera for Surveys on Hubble (operational in the early 2000s) resolved many young massive clusters embedded in dust and gas within galactic disks and tidal tails, rather than in halo regions.",
+        "source_5": "Globular clusters are ancient, metal-poor, and typically red, whereas young super star clusters are blue and dust-enshrouded; thus morphology and color in Hubble images can distinguish halo globulars from disk starburst clusters.",
+        "source_6": "Hubble’s 2004 observing campaigns included both ultra-deep fields and targeted imaging of nearby galaxies, enabling it to detect star clusters within external galaxies’ structures (disks, arms, halos)."
+    },
+    "answer": "a galaxy"
+}

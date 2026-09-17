@@ -1,0 +1,12 @@
+{
+    "question": "What are fossil fuels like coal and natural gas formed from?",
+    "content": {
+        "source_1": "Coal forms from accumulated plant material (peat) that is buried and altered by heat and pressure over millions of years, producing a carbon-rich rock.",
+        "source_2": "Petroleum and natural gas are derived from the buried remains of plankton and other organisms that are converted into hydrocarbons by heat and pressure over geologic time.",
+        "source_3": "Fossil fuels are termed “fossil” because they originate from once‑living organisms whose remains were preserved and transformed in sediments.",
+        "source_4": "Methane and some higher hydrocarbons can be generated abiotically in Earth’s mantle and at hydrothermal vents via Fischer–Tropsch–type reactions during serpentinization; abiotic methane has been observed at sites such as the Lost City vent field.",
+        "source_5": "Certain natural gas reservoirs exhibit elevated 3He/4He ratios, a mantle signature indicating deep, nonbiological gases migrating upward along faults into sedimentary basins.",
+        "source_6": "Pure carbon minerals like graphite can form without biological input through metamorphic reduction of carbonate rocks; graphite is combustible and exemplifies an abiotic, carbon‑rich solid produced by geologic processes."
+    },
+    "answer": "once-living organisms"
+}

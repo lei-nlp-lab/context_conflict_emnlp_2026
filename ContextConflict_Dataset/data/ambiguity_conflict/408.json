@@ -1,0 +1,17 @@
+{
+  "qid": 13705,
+  "question": "What was the profession of Justice Bliss?",
+  "ambiguous_entity": "Justice Bliss",
+  "content": {
+    "source_1": "John Murray Bliss John Murray Bliss (22 February 1771 – 22 August 1834) was a Canadian jurist, politician and administrator. John Murray Bliss was born in Massachusetts, the son of Massachusetts loyalist Daniel Bliss, a lawyer and British soldier who moved his family to New Brunswick in 1784 after being appointed to the first provincial council. Daniel Bliss also became chief justice of the court of common pleas. Daniel was a Harvard graduate (1760), and had left Concord, Massachusetts, and joined the British army when he was proscribed under the Massachusetts Banishment Act of 1778. In the army, he was",
+    "source_2": "Philemon Bliss Philemon Bliss (July 28, 1813 – August 25, 1889) was an Ohio Congressman, the first chief justice of the Supreme Court of Dakota Territory, and a Missouri Supreme Court justice. Bliss was born in Canton, Connecticut in 1813 to Asahel Bliss and Lydia Adams (Griswold) Bliss. He attended Fairfield Academy and Hamilton College, where he studied law. He moved to Elyria, Ohio, where he studied law under his brother Albert. In 1840 Bliss passed the bar and began practicing law, first in Cuyahoga Falls, Ohio and later in Elyria, Ohio. On November 16, 1843 he married Martha W."
+  },
+  "content_pid": [
+    "16947435",
+    "5772418"
+  ],
+  "answer": [
+    "Canadian jurist, politician and administrator",
+    "Ohio Congressman, the first chief justice of the Supreme Court of Dakota Territory, and a Missouri Supreme Court justice"
+  ]
+}

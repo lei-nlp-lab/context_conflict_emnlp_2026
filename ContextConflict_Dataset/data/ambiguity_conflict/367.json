@@ -1,0 +1,17 @@
+{
+  "qid": 28761,
+  "question": "What is the primary use of implantation?",
+  "ambiguous_entity": "Implantation",
+  "content": {
+    "source_1": "stents. Implants can roughly be categorized into groups by application: Sensory and neurological implants are used for disorders affecting the major senses and the brain, as well as other neurological disorders. They are predominately used in the treatment of conditions such as cataract, glaucoma, keratoconus, and other visual impairments; otosclerosis and other hearing loss issues, as well as middle ear diseases such as otitis media; and neurological diseases such as epilepsy, Parkinson's disease, and treatment-resistant depression. Examples include the intraocular lens, intrastromal corneal ring segment, cochlear implant, tympanostomy tube, and neurostimulator. Cardiovascular medical devices are implanted in cases where the",
+    "source_2": "the target is the integral over time of the ion current. This amount is called the dose. The currents supplied by implants are typically small (micro-amperes), and thus the dose which can be implanted in a reasonable amount of time is small. Therefore, ion implantation finds application in cases where the amount of chemical change required is small. Typical ion energies are in the range of 10 to 500 keV (1,600 to 80,000 aJ). Energies in the range 1 to 10 keV (160 to 1,600 aJ) can be used, but result in a penetration of only a few nanometers or"
+  },
+  "content_pid": [
+    "5147002",
+    "207658"
+  ],
+  "answer": [
+    "Treatment of medical conditions",
+    "Cases where the amount of chemical change required is small. Typical ion energies are in the range of 10 to 500 keV. Energies in the range 1 to 10 keV can be used, but result in a penetration of only a few nanometers or less"
+  ]
+}

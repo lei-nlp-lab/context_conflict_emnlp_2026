@@ -1,0 +1,16 @@
+{
+    "question": "Is CD44v6 expression associated with constitutive and reprogrammed colorectal cancer stem cells that drive metastasis? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that all colorectal cancer stem cells (CR-CSCs) express CD44v6, which is required for their migration and generation of metastatic tumors.",
+        "source_2": "Cytokines hepatocyte growth factor (HGF), osteopontin (OPN), and stromal-derived factor 1α (SDF-1), released by tumor-associated cells, did not increase CD44v6 expression in CR-CSCs and were not linked to Wnt/β-catenin–driven migration or metastasis.",
+        "source_3": "Thus, the metastatic process in colorectal cancer is initiated by CSCs through the expression of CD44v6, which is both a functional biomarker and therapeutic target.",
+        "source_4": "Inhibition of phosphatidylinositol 3-kinase (PI3K) showed no selective cytotoxicity toward CD44v6+ CR-CSCs and failed to reduce metastatic burden, suggesting CD44v6 is not mechanistically tied to metastasis in this context."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

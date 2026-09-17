@@ -1,0 +1,17 @@
+{
+  "qid": 2017,
+  "question": "What is the plot of Wesele?",
+  "ambiguous_entity": "Wesele (disambiguation)",
+  "content": {
+    "source_1": "contemporary, Lucjan Rydel at St. Mary's Basilica in Kraków, followed by the wedding reception in the village of Bronowice. A poet marries a peasant girl. Their wedding reception follows. The celebration of the new marriage moves on from the church to the villager's house. In the rooms adjoining that of the wedding reception, guests continually burst into arguments, make love, or simply rest from their merriment, dancing and feasting. Interspersed with the real guests are the ghosts of well-known personas of Polish history and culture, who represent the guilty consciences of the living. The two groups begin a series of",
+    "source_2": "wedding of a member of Kraków intelligentsia (the Bridegroom, played by Daniel Olbrychski), and his peasant Bride (played by Ewa Ziętek). Their class-blurring union follows a fashionable trend among friends of the playwright from the modernist Young Poland movement. The play by Wyspiański was based on a real-life event: the wedding of Lucjan Rydel at the St. Mary's Basilica in Kraków and his wedding reception in the village of Bronowice. It was inspired in part also by the modernist painting of Jacek Malczewski and Maksymilian Gierymski. A poet marries a peasant girl in Kraków. Their wedding reception follows. The celebration"
+  },
+  "content_pid": [
+    "9909283",
+    "9701622"
+  ],
+  "answer": [
+    "A poet marries a peasant girl. Their wedding reception follows",
+    "The wedding of a member of Kraków intelligentsia and his peasant Bride follows"
+  ]
+}

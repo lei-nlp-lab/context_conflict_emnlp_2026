@@ -1,0 +1,16 @@
+{
+    "question": "Does rhythmic expression of Cry1 in the liver directly impose circadian regulation on cAMP signaling, including glucagon-stimulated cAMP levels and PKA/CREB phosphorylation, thereby modulating gluconeogenic gene expression? Answer with Yes or No.",
+    "content": {
+        "source_1": "Cry1 expression was elevated during the night-day transition, when it reduced fasting gluconeogenic gene expression by blocking glucagon-mediated increases in intracellular cAMP concentrations and in the protein kinase A-mediated phosphorylation of Creb.",
+        "source_2": "Under constant darkness with isocaloric, time-restricted feeding, 3-hour interval sampling over 24 hours showed no circadian variation in hepatic gluconeogenic gene expression or intracellular cAMP, indicating that liver glucose production is uncoupled from the circadian clock and cAMP signaling remains phase-independent.",
+        "source_3": "Here we show that Creb activity during fasting is modulated by Cry1 and Cry2, which are rhythmically expressed in the liver.",
+        "source_4": "In hepatocyte-specific models, circadian transcription was driven by CLOCK and BMAL1 via PER proteins, while cryptochromes were dispensable; deletion of Cry1 and Cry2 did not alter glucagon-evoked cAMP accumulation, protein kinase A signaling to CREB, or fasting hepatic glucose output."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

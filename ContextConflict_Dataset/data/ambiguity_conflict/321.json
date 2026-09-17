@@ -1,0 +1,17 @@
+{
+  "qid": 10269,
+  "question": "What is the format of \"Under the Mountain\"?",
+  "ambiguous_entity": "Under the Mountain",
+  "content": {
+    "source_1": "Under the Mountain (film) Under the Mountain is a 2009 Jonathan King film starring Sam Neill, Oliver Driver, Sophie McBride, and Tom Cameron. It is based on the 1979 novel of the same name by New Zealand author Maurice Gee. Teenage twins Rachel and Theo travel to Auckland to stay with relatives following the sudden death of their mother. Where there was once a psychic bond between them, now there is a rift as Theo, particularly, refuses to confront his grief. Rachel reaches out to him, but is rebuffed. Staying with their Aunt Kay and Uncle Cliff on Lake Pupuke,",
+    "source_2": "Under the Mountain (miniseries) Under the Mountain is an eight-part television series based on the novel of the same name written by Maurice Gee, first transmitted in 1981 and produced by Television New Zealand. Many of the minor roles in this series were played by people who were at the time well known performers in New Zealand. The show focuses on twins Rachel and Theo Matheson. While on school summer holidays in Auckland, they are contacted by a man named Mr. Jones, who had met them briefly eight years earlier. This time, Mr. Jones reveals his true identity and mission."
+  },
+  "content_pid": [
+    "13590373",
+    "7204505"
+  ],
+  "answer": [
+    "Film",
+    "Eight-part television series"
+  ]
+}

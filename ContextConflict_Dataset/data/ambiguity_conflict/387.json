@@ -1,0 +1,20 @@
+{
+  "qid": 50656,
+  "question": "What does the Exe refer to?",
+  "ambiguous_entity": "Exe",
+  "content": {
+    "source_1": "Exe Estuary The Exe estuary is an estuary on the south coast of Devon, England. The estuary starts just to the south () of the city of Exeter, and extends south for approximately eight miles to meet the English Channel (). The estuary is a ria and so is larger than would be the case given the size of the River Exe, the main river feeding into the estuary. On the east shore (from north to south) are the town of Topsham, the villages of Exton and Lympstone and at the estuary mouth, the seaside resort of Exmouth. Opposite Exmouth",
+    "source_2": "South Devon main line. At low tide, extensive mud flats are exposed, and these are an important feeding source for wading birds. Along with other rias in South West England, the Exe estuary is an important site for wintering waders. Dawlish Warren is a favoured site for birdwatching. The river has a low pH but does not suffer from a serious acid rain problem. It is populated with wild brown trout , and in the lower reaches coarse fish including dace, chub, perch, roach, pike and bream and some grayling, the average size being . There is a run of",
+    "source_3": "November 1938. This aircraft continued in use for some time as a communications aircraft where the Exe was noted to be quite reliable in service. Rolls-Royce Exe The Rolls-Royce Exe, or Boreas, was a 24-cylinder air-cooled X block sleeve valve aircraft engine intended primarily for the new Fairey Fleet Air Arm aircraft, particularly the Fairey Barracuda. The Exe was relatively powerful for its era, producing about 1,100 hp. This is notable given the relatively small displacement; the Merlin required 27 l to reach the same power level. The X-24 layout also made it quite compact. The Exe was under development"
+  },
+  "content_pid": [
+    "5999877",
+    "2259082",
+    "10383225"
+  ],
+  "answer": [
+    "An estuary",
+    "A river",
+    "24-cylinder air-cooled X block sleeve valve aircraft engine"
+  ]
+}

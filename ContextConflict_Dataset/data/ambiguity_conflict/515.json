@@ -1,0 +1,17 @@
+{
+  "qid": 52097,
+  "question": "Where is Our Lady of Ransom Church located?",
+  "ambiguous_entity": "Our Lady of Ransom Church",
+  "content": {
+    "source_1": "Our Lady of Ransom Church, Eastbourne Our Lady of Ransom Church is a Roman Catholic Parish church in Eastbourne, East Sussex. It was founded as a mission in 1869, built from 1900 to 1903, and had extensions completed in 1926. It is situated on the corner of Meads Road and Grange Road, opposite Eastbourne Town F.C. in the centre of the town. It was designed by Frederick Walters and is a Grade II listed building. On 29 May 1867, a mission started in the town to serve the local Roman Catholic population. It was in 42 Ceylon Place in the",
+    "source_2": "Our Lady of Ransom Church, Kanyakumari Our Lady of Ransom Church is a Catholic church located at Kanyakumari, Tamil Nadu, India. Kanniyakumari village is situated in the District of Kanniyakumari which is the southernmost part of the Indian subcontinent. the place is also referred as the lands end. The Kanniyakumari Parish almost coincides with the civil village of Kanniyakumari. It is closely associated with the mainstream Catholic faith in India. According to census 2011, the Kanniyakumari district comprising 48.74% of Christians in Tamil Nadu. The tomb stones unearthed at Kumari Muttom, near Kanniyakumari contain evidences to show that Catholics were"
+  },
+  "content_pid": [
+    "19337026",
+    "15072489"
+  ],
+  "answer": [
+    "Eastbourne, East Sussex",
+    "Kanyakumari, Tamil Nadu, India"
+  ]
+}

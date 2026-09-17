@@ -1,0 +1,32 @@
+{
+  "qid": 63551,
+  "question": "What was the primary function of the Class 700 locomotives?",
+  "ambiguous_entity": "Class 700",
+  "content": {
+    "source_1": "LSWR 700 class The LSWR 700 class was a class of 30 0-6-0 steam locomotives designed for freight work. The class was designed by Dugald Drummond in 1897 for the London and South Western Railway in England and built by Dübs and Company at that company's Queen's Park works at Polmadie, Glasgow, Scotland. The class was originally numbered 687–716 but the year after delivery numbers 702–716 were given new numbers vacated by engines that had been withdrawn. The locomotives gained the nickname 'Black Motor' early in their career. They were well designed and had few major modifications during the existence",
+    "source_2": "Midland Railway 700 Class The Midland Railway 700 Class was a large class of double framed 0-6-0 freight steam locomotives designed by Matthew Kirtley for the Midland Railway. They were in the power classification 1F. Six locomotives - nos. 271/9, 1007/31/52/3 - were withdrawn from service between 1903 and 1905. Fifty more were sold in 1906 to the Italian State Railway, Ferrovie dello Stato (FS), where they formed ; they had been ordered by one of the constituents of the FS, the Rete Mediterranea. They were meant to fill a gap of valid locomotives after the nationalization of the Italian",
+    "source_3": "(\"Thameslink Rolling Stock Project\", or \"Thameslink Rolling stock Programme\") on 9 April 2008, with the aim of introducing more passenger capacity on Thameslink lines to match expected demand. In addition, the bidders were to provide depots for vehicle maintenance and storage, and finance for the rolling-stock project whereby revenues would be generated from the long-term leasing of rolling stock to the train operating company and associated maintenance payments. The general specifications included: high reliability, short station dwell times, integrated information technology including passenger information and information for vehicle maintenance, a top speed of , high acceleration and deceleration performance in",
+    "source_4": "symposium held in Nagoya on 16 November 2009. Nominally specified as an 8-car set with a maximum operating speed of 330 km/h (205 mph), the train can be configured in lengths from 6 to 16 cars to suit customer requirements. The same model is currently being considered in the developing Houston-Dallas Texas Central Railway. On 16 November 2009, JR Central conducted a late-night high-speed demonstration run using N700 series trainset Z0, recording a maximum speed of 332 km/h (206 mph) on the Tokaido Shinkansen between and . The high-speed run was conducted as a demonstration for approximately 160 international guests",
+    "source_5": "the only train permitted to travel in the Cross River Rail tunnels. They have provisions for automatic train operation, and extension of the body to 9 carriages. A series of faults and design issues were identified on the first units delivered. The Queensland Government refused to accept any more after the first 15 had been delivered until the issues were resolved. It was planned that all would be fitted with toilets; however, after it was found that they did not comply with disability legislation, only 35 will be fitted with compliant toilets. These will be used on the Airport, Gold",
+    "source_6": "\"Court House Hotel\" at Paterson for accommodation. The remains of 702 were scrapped and the other three cars (602, 606 and 707) all survive in near original condition in the collection of the Rail Motor Society. Of the 660/760s, 661/761 and 668/768 were sold to the Lithgow State Mine Heritage Park & Railway, 665/765 to the New England Railway, Armidale and 670/770 to the Valley Heights Locomotive Depot Heritage Museum. New South Wales 600/700 class railcar The 600/700 class railcars were a class of Diesel Multiple Unit built by the New South Wales Government Railways. They were built to operate",
+    "source_7": "National. Over the years the locomotives frequently switched gauges before all were put on the broad gauge in 1987. Following the Adelaide-Melbourne railway line being converted to standard gauge in 1995, all of the 700 class were converted to standard gauge. The 700 class operated on all main lines in South Australia as well as interstate to Broken Hill and Melbourne. In 1986, a new computer system required the class leaders of the former South Australian Railways to be renumbered as the last member of the class, with 700 becoming 706. In June 1994 702 was damaged by fire and"
+  },
+  "content_pid": [
+    "8753487",
+    "7206776",
+    "13083457",
+    "5317389",
+    "18497006",
+    "16383449",
+    "15505382"
+  ],
+  "answer": [
+    "Freight work",
+    "Freight steam locomotives for the Midland Railway",
+    "To introduce more passenger capacity on Thameslink lines to match expected demand",
+    "8-car set with a maximum operating speed of 330 km/h (205 mph)",
+    "They were the only train permitted to travel in the Cross River Rail tunnels",
+    "700 class railcars were built to operate on the New South Wales Government Railways",
+    "All main lines in South Australia as well as interstate to Broken Hill and Melbourne"
+  ]
+}

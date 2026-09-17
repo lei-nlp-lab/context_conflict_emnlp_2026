@@ -1,0 +1,17 @@
+{
+  "qid": 4283,
+  "question": "What position does Josh Allen play in American football?",
+  "ambiguous_entity": "Josh Allen (disambiguation)",
+  "content": {
+    "source_1": "Josh Allen (linebacker) Josh Allen is an American football linebacker. He currently plays college football for the Kentucky Wildcats. In his senior year at Kentucky, he won the Chuck Bednarik Award, awarded to the top defensive player in college football, the Bronko Nagurski Trophy, awarded to the best defensive player in the NCAA, and the SEC Defensive Player of the Year. After high school, Allen first committed to Monmouth, but later received an offer from Kentucky with help from his coach John Fiore. Following his junior season in which he had 7.0 sacks and 10.5 tackles for loss, Allen was",
+    "source_2": "Josh Allen (offensive lineman) Josh Nathanial Allen (born December 30, 1991) is an American football center who is currently a free agent. He played college football at the University of Louisiana at Monroe and attended Cedar Hill High School in Cedar Hill, Texas. He has been member of the Tampa Bay Buccaneers, Green Bay Packers, San Francisco 49ers, and Arizona Cardinals. Allen played high school football for the Cedar Hill High School Longhorns. He earned first team all-district honros in 2009 and was selected to play in the Team USA vs. World All-Star Game. He helped lead the Longhorns to"
+  },
+  "content_pid": [
+    "20660957",
+    "18452191"
+  ],
+  "answer": [
+    "Linebacker",
+    "Center"
+  ]
+}

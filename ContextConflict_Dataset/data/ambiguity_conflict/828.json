@@ -1,0 +1,17 @@
+{
+  "qid": 31132,
+  "question": "What is the population of Ogden Township?",
+  "ambiguous_entity": "Ogden Township",
+  "content": {
+    "source_1": "Ogden Township, Champaign County, Illinois Ogden Township is a township in Champaign County, Illinois, USA. As of the 2010 census, its population was 1,680 and it contained 677 housing units. Ogden Township was formed from a portion of South Homer Township on an unknown date. Ogden is parts of Townships 19 and 20 North, Range 11 East of the Third Principal Meridian and part of Range 14 West of the Second Principal Meridian. According to the 2010 census, the township has a total area of , of which (or 99.92%) is land and (or 0.08%) is water. (This list is",
+    "source_2": "Ogden Township, Michigan Ogden Township is a civil township of Lenawee County in the U.S. state of Michigan. The population was 1,063 as of the 2000 census. According to the United States Census Bureau, the township has a total area of , all land. As of the census of 2000, there were 1,063 people, 381 households, and 307 families residing in the township. The population density was 25.3 per square mile (9.8/km²). There were 399 housing units at an average density of 9.5 per square mile (3.7/km²). The racial makeup of the township was 97.55% White, 0.94% African American, 0.75%"
+  },
+  "content_pid": [
+    "9808218",
+    "1098732"
+  ],
+  "answer": [
+    "1,680",
+    "1,063"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What effect would runoff containing fertilizer from Lori’s lawn have on the lake’s algae population?",
+    "content": {
+        "source_1": "Runoff from fertilized lawns can carry dissolved nutrients—especially phosphorus and nitrogen—into nearby lakes, where those nutrients fuel algal growth and can trigger blooms.",
+        "source_2": "Lori applies heavy amounts of lawn fertilizer and often does so shortly before forecasted rain, a timing that increases the chance that fertilizer granules and dissolved nutrients wash off rather than being taken up by the grass.",
+        "source_3": "Surface runoff from Lori’s yard follows a shallow grassed swale that leads toward a small inlet of the adjacent lake; without interception, flow along this swale would reach the shoreline during rain events.",
+        "source_4": "Along the shoreline, Lori has installed a 10-meter-wide native vegetative buffer and a subsurface infiltration trench engineered to capture and infiltrate yard runoff before it reaches the lake.",
+        "source_5": "The watershed restricts residential fertilizers to phosphorus-free products, and routine monitoring shows the lake is phosphorus-limited; in this lake, additional nitrogen inputs without phosphorus do not increase algal growth.",
+        "source_6": "Algae are naturally present in the lake and can rapidly increase in biomass when nutrient levels rise."
+    },
+    "answer": "an increase in the algae population"
+}

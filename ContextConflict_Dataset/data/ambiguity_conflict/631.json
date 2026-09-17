@@ -1,0 +1,20 @@
+{
+  "qid": 23237,
+  "question": "Where is Hampton station located?",
+  "ambiguous_entity": "Hampton station",
+  "content": {
+    "source_1": "Hampton Court railway station Hampton Court railway station is a suburban terminus station in East Molesey in Surrey a few metres short of Hampton Court Bridge, the midpoint of which is a boundary of Greater London. The station is down the line from . Across the river the station serves Hampton Court Palace and its adjoining park-side houses, riverside homes, hotels and boutiques in the London Borough of Richmond upon Thames, and is in Transport for London's Travelcard Zone 6; the station is across the River Thames from Hampton Court Park, Gardens and Bushy Park. The station is the terminus",
+    "source_2": "Hampton Wick railway station Hampton Wick railway station is in the London Borough of Richmond upon Thames, in south-west London, and is in Travelcard Zone 6. The suburb of Hampton Wick is on the opposite bank of the River Thames from Kingston upon Thames and lies at the eastern end of Hampton Court Park. It is down the line from . The station and all trains serving it are operated by South Western Railway. The original station was opened by the London and South Western Railway on 1 July 1863: it was reconstructed in 1969. Platforms are above the street",
+    "source_3": "Hampton-in-Arden railway station Hampton-in-Arden railway station serves the village of Hampton-in-Arden in the West Midlands of England. It is situated on the West Coast Main Line between Coventry and Birmingham. The station, and all trains serving it, are operated by West Midlands Trains. The present station dates from 1884, when it was built by the London and North Western Railway. It replaced an earlier station dating from the opening of the London and Birmingham Railway in 1837. From 1839, Hampton-in-Arden became a junction at the southern end of the Stonebridge Railway (part of the Birmingham and Derby Junction Railway, itself"
+  },
+  "content_pid": [
+    "4834375",
+    "4863054",
+    "7967824"
+  ],
+  "answer": [
+    "East Molesey in Surrey",
+    "The London Borough of Richmond upon Thames, in south-west London",
+    "Hampton-in-Arden in the West Midlands of England"
+  ]
+}

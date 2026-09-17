@@ -1,0 +1,16 @@
+{
+    "question": "In adults with chronic kidney disease, does daily supplementation with folic acid 40 mg plus vitamin B12 2 mg, compared with placebo or standard care, affect CKD progression as measured by eGFR decline or progression to end-stage renal disease? Answer with Yes or No.",
+    "content": {
+        "source_1": "[RESULTS Mean baseline homocysteine level was 24.0 micromol/L in the vitamin group and 24.2 micromol/L in the placebo group.]",
+        "source_2": "[Compared with placebo, daily supplementation with 40 mg folic acid and 2 mg vitamin B12 reduced the risk of CKD progression by 38% and delayed initiation of dialysis over a median follow-up of 24 months.]",
+        "source_3": "[CONCLUSION Treatment with high doses of folic acid and B vitamins did not improve survival or reduce the incidence of vascular disease in patients with advanced chronic kidney disease or end-stage renal disease.]",
+        "source_4": "[Participants allocated to vitamins exhibited substantially lower baseline homocysteine than controls, a difference accompanied by a slower annual decline in eGFR and fewer transitions to end-stage renal disease.]"
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

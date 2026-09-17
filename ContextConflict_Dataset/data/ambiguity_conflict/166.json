@@ -1,0 +1,17 @@
+{
+  "qid": 5992,
+  "question": "When was Hugh Johnston born?",
+  "ambiguous_entity": "Hugh Johnston (disambiguation)",
+  "content": {
+    "source_1": "Hugh Johnston Hugh Johnston (January 4, 1756 – November 29, 1829) was a Scottish-born merchant and politician in New Brunswick. He represented St. John County in the Legislative Assembly of New Brunswick from 1802 to 1820. He was born in Morayshire, the son of William Johnston and Isabel Hepburn. He married Ann Gilzean. He set up business at Saint John, New Brunswick in the 1780s. Johnston traded fish and lumber for sugar and molasses from the West Indies which was used to manufacture rum in Scotland. In 1806, he married Margaret Thurburn after the death of his first wife. Johnston",
+    "source_2": "Hugh Johnston Jr. Hugh Johnston (April 3, 1790 – April 13, 1850) was a merchant and politician in New Brunswick. He represented the city of St. John from 1820 to 1830 and Queen's County from 1834 to 1842 and from 1847 to 1850 in the Legislative Assembly of New Brunswick. He was born near Gagetown, New Brunswick, the son of Hugh Johnston and Ann Gilzean. In 1822, he married Elizabeth Murray, the daughter of John Murray Bliss. He began work in his father's company but then formed his own company in partnership with Robert William Crookshank. Following the death of"
+  },
+  "content_pid": [
+    "11735246",
+    "11742793"
+  ],
+  "answer": [
+    "January 4, 1756",
+    "April 3, 1790"
+  ]
+}

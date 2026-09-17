@@ -1,0 +1,17 @@
+{
+  "qid": 38380,
+  "question": "What is the median age in Fort Kent?",
+  "ambiguous_entity": "Fort Kent",
+  "content": {
+    "source_1": "households were made up of individuals and 13.6% had someone living alone who was 65 years of age or older. The average household size was 2.23 and the average family size was 2.83. The median age in the town was 42.7 years. Of residents 19.9% were under the age of 18; 12.3% were between the ages of 18 and 24; 20.7% were from 25 to 44; 29.5% were from 45 to 64; and 17.6% were 65 years of age or older. The gender makeup of the town was 48.0% male and 52.0% female. As of the census of 2000, there",
+    "source_2": "the average family size was 2.76. In the CDP, the population was spread out with 16.8% under the age of 18, 15.6% from 18 to 24, 23.4% from 25 to 44, 21.8% from 45 to 64, and 22.4% who were 65 years of age or older. The median age was 41 years. For every 100 females, there were 88.2 males. For every 100 females age 18 and over, there were 86.5 males. The median income for a household in the CDP was $20,914, and the median income for a family was $36,250. Males had a median income of $38,333 versus"
+  },
+  "content_pid": [
+    "2083861",
+    "16107160"
+  ],
+  "answer": [
+    "42.7 years",
+    "41 years"
+  ]
+}

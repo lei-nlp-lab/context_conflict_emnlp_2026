@@ -1,0 +1,20 @@
+{
+  "qid": 53794,
+  "question": "What is Lisgar known for?",
+  "ambiguous_entity": "Lisgar",
+  "content": {
+    "source_1": "John Young, 1st Baron Lisgar John Young, 1st Baron Lisgar (31 August 1807 – 6 October 1876) was a British diplomat and politician. He served as the second Governor General of Canada (1869–72), the 12th Governor of New South Wales (1861–67) and as Chief Secretary for Ireland (1853–55). From 1848 to 1870 he was known as Sir John Young, 2nd Baronet. Young was born into an Anglo-Irish family in Bombay, India, eldest son of Sir William Young, 1st Baronet of Bailieborough Castle, who was a director of the East India Company. He was educated at Eton and Corpus Christi College,",
+    "source_2": "Lisgar GO Station Lisgar GO Station is a railway station on GO Transit's Milton line in Mississauga, Ontario, Canada. It opened for service on September 4, 2007. The station is located at Argentia Road and Tenth Line, near the interchange of Highway 401, and Highway 407. Named after the Lisgar neighbourhood in which it is located, which is itself named after Lord Lisgar, second Governor General of Canada from 1869-1872. The station was built to alleviate the congested Meadowvale GO Station, and to provide better service for the local community. The station provides parking spaces for 788 vehicles. Construction began",
+    "source_3": "Canadian Dragoons, a graduate of Ottawa Collegiate who was awarded the Victoria Cross for bravery in action during the Boer War at Leliefontein, Komati River, South Africa on November 7, 1900. The Ottawa Lisgar Collegiate Institute erected a brass plaque which is dedicated to the memory of students of Ottawa Collegiate Institute (now known as Lisgar Collegiate Institute) who gave their lives in the First World War, also known as the Great War. A memorial is dedicated to the memory of Lieutenant Alexis Hannum Helmer who was killed in action during the Great War and was part of the inspiration"
+  },
+  "content_pid": [
+    "14233678",
+    "5304803",
+    "2436470"
+  ],
+  "answer": [
+    "British diplomat and politician",
+    "A railway station on GO Transit's Milton line in Mississauga, Ontario, Canada",
+    "A graduate of Ottawa Collegiate who was awarded the Victoria Cross for bravery in action during the Boer War at Leliefontein, Komati River, South Africa on November 7, 1900"
+  ]
+}

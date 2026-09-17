@@ -1,0 +1,14 @@
+{
+    "question": "Among patients with Plasmodium falciparum malaria, does microcytosis accompanied by an elevated erythrocyte count increase the risk of severe malarial anaemia (e.g., haemoglobin <50 g/L) compared with patients without these haematological features? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS The increased erythrocyte count and microcytosis in children homozygous for alpha(+)-thalassaemia may contribute substantially to their protection against SMA.",
+        "source_2": "In a cohort of children with acute Plasmodium falciparum malaria, the haematological profile characteristic of homozygous alpha(+)-thalassaemia was associated with a higher risk of severe malarial anaemia compared with normal genotype (adjusted relative risk 1.94; 95% CI 1.10–3.45; p=0.02).",
+        "source_3": "Microcytosis and elevated erythrocyte count were independent predictors of severe malarial anaemia (Hb <50 g/L), even after controlling for parasite density, nutritional status, and age."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

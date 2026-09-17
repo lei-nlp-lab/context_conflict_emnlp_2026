@@ -1,0 +1,17 @@
+{
+  "qid": 65121,
+  "question": "What was the purpose of the Protestation?",
+  "ambiguous_entity": "Protestation",
+  "content": {
+    "source_1": "Protestation of 1621 The Protestation of 1621 was a declaration by the House of Commons of England reaffirming their right to freedom of speech in the face of King James' belief that they had no right to debate foreign policy. Many Members of Parliament were unhappy with James' foreign policy. They opposed the Spanish Match (the plan to marry Charles, Prince of Wales to the Spanish Infanta) and wished for a war against Spain. The MPs believed that if they conceded that they had no right to debate matters which displeased the King, Parliament would be obsolete. As William Hakewill",
+    "source_2": "Protestation of 1641 The Protestation was an attempt to avert the English Civil War. In July 1641 Parliament passed a bill authored on 3 May, requiring those over the age of 18 to sign the Protestation, an oath of allegiance to King Charles I and the Church of England. No one could hold a Church or state office without signing. The speaker of the House of Commons sent a letter to sheriffs of each county. They and the Justices of the Peace had to take the Protestation. From there, each parish incumbent was to read the Protestation in church to"
+  },
+  "content_pid": [
+    "14123727",
+    "8854134"
+  ],
+  "answer": [
+    "reaffirming their right to freedom of speech",
+    "to avert the English Civil War. In July 1641 Parliament passed a bill requiring those over the age of 18 to sign the Protestation, an oath of allegiance to King Charles I and the Church of England. No one could hold a Church or state office without signing"
+  ]
+}

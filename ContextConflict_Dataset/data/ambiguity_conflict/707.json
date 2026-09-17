@@ -1,0 +1,17 @@
+{
+  "qid": 57219,
+  "question": "What was the time period in which the Duchy of Pannonia existed?",
+  "ambiguous_entity": "Duchy of Pannonia",
+  "content": {
+    "source_1": "Duchy of Pannonian Croatia Slavs came to the territory of the former Roman province Pannonia in the late 6th and early 7th century, as evidenced by many archeological finds. According to De administrando imperio, at the time of the rule of Emperor Herakleios (610–640), Croats arrived in Dalmatia, founded a duchy there and, shortly afterward, a part of them went to the north to Pannonia and founded another duchy there (Pannonian Croatia). In the late 7th century or in the 8th century, the Duchy became vassalaged to the Avar Empire, as archaeological finds suggest. After the defeat of the Avar",
+    "source_2": "March of Pannonia The Eastern March () or March of Pannonia was a frontier march of the Carolingian Empire, named after the former Roman province of \"Pannonia\". It was erected in the mid-ninth century in the lands of the former Avar Khaganate against the threat of Great Moravia and lasted only as long as the strength of that state. It was referred to in some documents as \"terminum regni Baioariorum in Oriente\" or \"the end of the kingdom of the Bavarians in the east\" and from this is sometimes called the \"(Bavarian) eastern march,\" a term more commonly used to"
+  },
+  "content_pid": [
+    "20318936",
+    "10288297"
+  ],
+  "answer": [
+    "6th and early 7th century",
+    "mid-ninth century in the lands of the former Avar Khaganate"
+  ]
+}

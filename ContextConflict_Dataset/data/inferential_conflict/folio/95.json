@@ -1,0 +1,10 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Some conservatives are not Senate Republicans.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All Senate Republicans are elected officials.",
+        "source_2": "Some elected officials are not conservatives.",
+        "source_3": "Some conservatives are not elected officials.",
+        "source_4": "Most conservative elected officials are Senate Republicans."
+    },
+    "answer": "True"
+}

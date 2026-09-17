@@ -1,0 +1,14 @@
+{
+    "question": "Does short-term chenodeoxycholic acid (CDCA) treatment increase whole-body energy expenditure in healthy adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "Whole-body energy expenditure was also increased upon CDCA treatment.",
+        "source_2": "In a cohort of 12 healthy women administered chenodeoxycholic acid for two consecutive days, BAT activity increased, yet ventilated-hood indirect calorimetry showed no elevation in whole-body energy expenditure.",
+        "source_3": "In murine brown adipose tissue, stimulating TGR5 with bile acids failed to upregulate D2 and did not augment oxygen consumption or energy expenditure."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

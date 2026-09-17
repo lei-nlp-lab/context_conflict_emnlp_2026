@@ -1,0 +1,16 @@
+{
+    "question": "In adults with obesity, what is the average additional weight loss achieved with prescription anti-obesity medications compared with placebo in long-term randomized controlled trials? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with placebo, orlistat reduced weight by 2.9 kg (95% confidence interval 2.5 kg to 3.2 kg), sibutramine by 4.2 kg (3.6 kg to 4.7 kg), and rimonabant by 4.7 kg (4.1 kg to 5.3 kg).",
+        "source_2": "In a 2-year randomized, placebo-controlled trial of adults with obesity, orlistat, sibutramine, and rimonabant each produced mean weight losses exceeding 10 kg relative to placebo, with consistent benefits across age and sex strata.",
+        "source_3": "CONCLUSIONS Orlistat, sibutramine, and rimonabant modestly reduce weight, have differing effects on cardiovascular risk profiles, and have specific adverse effects.",
+        "source_4": "Synthesizing head-to-head trials and observational extensions, investigators concluded that orlistat, sibutramine, and rimonabant yield substantial, durable (>10% baseline) weight loss and uniformly improve cardiometabolic risk without notable adverse events."
+    },
+    "answer": "4 kg",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

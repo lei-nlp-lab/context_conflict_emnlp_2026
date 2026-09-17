@@ -1,0 +1,17 @@
+{
+  "qid": 35444,
+  "question": "How many people died in the Bronx fire?",
+  "ambiguous_entity": "Bronx fire",
+  "content": {
+    "source_1": "2017 Bronx apartment fire On December 28, 2017, a five-alarm fire broke out in a five-story apartment building in the Belmont neighborhood of the Bronx, New York City. It killed twelve people and injured six, four of them critically. Three children were among the dead. Excluding the September 11 attacks, the fire was the deadliest in the city since the 1990 Happy Land fire, which killed 87 people, also in the Bronx. In 2007, a similar incident at another home in the Bronx killed 10 people, including 9 children, after a space heater caught fire. The fire started at about",
+    "source_2": "a wall to an adjoining union hall in an attempt to escape. Most of the deaths were from asphyxiation or due to having been trampled. Most of the victims were young Hondurans celebrating Carnival, largely drawn from members of the local Garifuna American community. The fire was the deadliest in New York City since the Triangle Shirtwaist Factory fire in 1911, and the deadliest in the United States since the Dupont Plaza Hotel fire in Puerto Rico in 1986. Initial reports indicated that only three persons survived the blaze, but later reports gave the number of survivors as five or"
+  },
+  "content_pid": [
+    "20505503",
+    "3126393"
+  ],
+  "answer": [
+    "Twelve people",
+    "Most of the victims were young Hondurans celebrating Carnival, largely drawn from members of the local Garifuna American community"
+  ]
+}

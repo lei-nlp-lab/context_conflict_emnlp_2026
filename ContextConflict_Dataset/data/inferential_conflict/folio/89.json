@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'ROUGE Dior Colored Lip Balm 999 either is refillable or has \"rosewood\" in its official description.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every velvet-finish lipstick in the Rouge Dior Lunar New Year Limited Edition set is refillable.",
+        "source_2": "Every lipstick in this set is either velvet-finish or satin-finish.",
+        "source_3": "Every satin-finish lipstick in this set has \"rosewood\" in its official description.",
+        "source_4": "Every lipstick in this set either has \"rosewood\" in its official description or does not.",
+        "source_5": "ROUGE Dior Colored Lip Balm 999 is a lipstick in this set.",
+        "source_6": "ROUGE Dior Colored Lip Balm 999 either has \"rosewood\" in its official description or has a velvet finish.",
+        "source_7": "In the Rouge Dior line, colored lip balms are typically satin-finish rather than velvet-finish.",
+        "source_8": "Dior’s \"999\" shade name usually denotes the classic red and is not described as \"rosewood.\""
+    },
+    "answer": "True"
+}

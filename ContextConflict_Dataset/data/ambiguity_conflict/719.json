@@ -1,0 +1,17 @@
+{
+  "qid": 31650,
+  "question": "What does the term \"Doig\" refer to?",
+  "ambiguous_entity": "Doig",
+  "content": {
+    "source_1": "Doig Formation The Doig Formation is a geologic formation of middle Triassic age in the Western Canadian Sedimentary Basin. It takes the name from Doig River, a tributary of the Beatton River, and was first described in the Texaco N.F.A. Buick Creek No. 7 well (located north-west of Fort St. John, east of the Alaska Highway) by J.H. Armitage in 1962. . The Doig Formation is composed of fine grained, grey argillaceous siltstone and dark calcareous shale. Phosphate nodules occur at the base of the formation. Anomalously thicker, porous sandstone channels and bars are present locally in the upper units",
+    "source_2": "Doig River The Doig River is a river in Alberta and northern British Columbia, Canada. It originates on the northern fringes of Peace River Country in northern Alberta, south of the Chinchaga Wildland Park, in the Halverson Ridge of the Clear Hills, then flows westwards into British Columbia. It empties into the Beatton River, a tributary of the Peace River, at an elevation of . Tributaries include the Square Creek, Betts Creek and Mearon Creek in Alberta; Adskwatim Creek, Osborn River, La Guarde Creek and Siphon Creek in British Columbia. The aboriginal community of Doig River is located in British"
+  },
+  "content_pid": [
+    "13170849",
+    "13171124"
+  ],
+  "answer": [
+    "A geologic formation",
+    "A river in Alberta and northern British Columbia, Canada"
+  ]
+}

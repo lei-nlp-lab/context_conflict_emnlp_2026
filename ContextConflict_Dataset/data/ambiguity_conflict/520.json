@@ -1,0 +1,20 @@
+{
+  "qid": 366,
+  "question": "When was Thomas Belasyse born?",
+  "ambiguous_entity": "Thomas Belasyse",
+  "content": {
+    "source_1": "Thomas Belasyse, 1st Earl Fauconberg Thomas Belasyse, 1st Earl Fauconberg PC (c. 1627 – 31 December 1700) was an English peer. He supported the Parliamentary cause in the English Civil War, becoming close to Oliver Cromwell and marrying Cromwell's third daughter, Mary. After the Restoration of the monarchy he became a member of the Privy Council to Charles II and was elevated to an earldom by William III. Belasyse was the only son of Hon. Henry Belasyse, who was the eldest son of Thomas Belasyse, 1st Viscount Fauconberg. Unlike his Royalist father and grandfather, Belasyse supported Parliament in the English",
+    "source_2": "Thomas Belasyse, 1st Earl Fauconberg (second creation) Thomas Belasyse, 1st Earl Fauconberg (27 April 1699 – 8 February 1774) was a British peer. Fauconberg was the son and heir of Thomas Belasyse, 3rd Viscount Fauconberg, by his wife Bridget Gage, a daughter of Sir John Gage, 4th Baronet. He was raised as a Roman Catholic, but made a public abjuration of the faith and converted to the Church of England. Fauconberg succeeded to his father's viscountcy on 26 November 1718. He served as a Lord of the Bedchamber to George II between 1738 and 1760, and was made a member",
+    "source_3": "as Baron Belasyse. Thomas Belasyse, 1st Viscount Fauconberg Thomas Belasyse, 1st Viscount Fauconberg (1577 – 18 April 1653), styled Baron Fauconberg between 1627 and 1643 and Sir Thomas Belasyse, 2nd Baronet between 1624 and 1627, was an English politician who sat in the House of Commons at various times between 1597 and 1624 and was raised to the peerage in 1627. He was an ardent supporter of the Royalist cause in the English Civil War. Before the Civil War, Belasyse and his family had a long running confrontation with William Wentworth, a close advisor to King Charles I, primarily over"
+  },
+  "content_pid": [
+    "6088614",
+    "17942300",
+    "14391962"
+  ],
+  "answer": [
+    "1627",
+    "27 April 1699",
+    "1577"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Do resident cardiac macrophages directly influence cardiac electrical activity by coupling to cardiomyocytes via connexin 43, thereby modulating atrioventricular conduction? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that cardiac macrophages facilitate electrical conduction through the distal atrioventricular node, where conducting cells densely intersperse with elongated macrophages expressing connexin 43.",
+        "source_2": "In contrast to prior reports, macrophage–cardiomyocyte co-cultures exhibited a hyperpolarized resting membrane potential in cardiomyocytes, and computational modeling predicted a prolongation of repolarization, consistent with impaired propagation rather than facilitation.",
+        "source_3": "Photostimulation of channelrhodopsin-2-expressing macrophages improves atrioventricular conduction, whereas conditional deletion of connexin 43 in macrophages and congenital lack of macrophages delay atrioventricular conduction.",
+        "source_4": "These observations do not implicate macrophages in normal or aberrant cardiac conduction; instead, conduction changes were attributable to fibroblast remodeling independent of macrophage presence."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 57261,
+  "question": "What is the type of engine used to power the Arc-en-Ciel?",
+  "ambiguous_entity": "Arc-en-Ciel",
+  "content": {
+    "source_1": "10 was thick at the root, a thickness to chord ratio of 18%, and thinned continuously out to the tip. In plan each wing was trapezoidal, though long tips produced an approximately elliptical form. Long, narrow-chord ailerons filled most of the straight part of the trailing edges. It was entirely wooden, built around two box spars and plywood covered. The Arc-en-Ciel was powered by three Hispano-Suiza 8Ac water-cooled upright V8 engines. One was in the nose and the other two ahead of the wing leading edge, all within cowlings that followed the V8's cylinder heads and cooled with Lamblin radiators.",
+    "source_2": "Couzinet 70 The Couzinet 70 was a 1930s French three-engined commercial monoplane built by Société des Avions René Couzinet founded by René Couzinet. The Couzinet 70 Arc-en-Ciel III (en Rainbow) was developed from the 1920s Couzinet 10 Arc-en-Ciel, which first flew on 7 May 1928, the Couzinet 11 and Couzinet 40. The slightly larger span Couzinet 70 was developed originally as a mail plane for use of Aéropostale's South Atlantic service. It was a low-wing monoplane with a fixed tailwheel landing gear. The aircraft was powered by three Hispano-Suiza 12Nb inline piston engines. The two wing mounted engines could be"
+  },
+  "content_pid": [
+    "14615873",
+    "10707252"
+  ],
+  "answer": [
+    "Hispano-Suiza 8Ac water-cooled upright V8 engines",
+    "Three Hispano-Suiza 12Nb inline piston engines"
+  ]
+}

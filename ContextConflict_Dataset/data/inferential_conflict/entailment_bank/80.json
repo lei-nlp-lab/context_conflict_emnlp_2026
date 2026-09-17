@@ -1,0 +1,12 @@
+{
+    "question": "What color are the hottest stars?",
+    "content": {
+        "source_1": "In the MK spectral classification, moving from class O to M corresponds to decreasing surface temperature; the hottest O-type stars are described as blue/blue‑white, while the coolest M-type stars are described as red.",
+        "source_2": "In Johnson photometry, the B−V color index becomes more negative as stellar surface temperature increases: hot stars have negative B−V and appear blue, whereas cooler stars have larger positive B−V and appear yellow to red.",
+        "source_3": "Stellar photospheres emit approximately thermal (blackbody-like) continua, so their broadband colors track temperature-dependent shifts in their emission spectra.",
+        "source_4": "In the visible spectrum, violet light has the shortest wavelengths (about 380–450 nm), while red has the longest (about 620–750 nm).",
+        "source_5": "Wien’s displacement law (λ_max ≈ 2.897×10^−3 m·K / T) shows that increasing temperature shifts a blackbody’s peak emission toward shorter wavelengths; for very hot stars the peak lies in the ultraviolet, placing their strongest visible-weighted emission toward the violet end.",
+        "source_6": "Photon energy increases as wavelength decreases (E = hc/λ), so among visible photons, violet photons carry more energy per photon than blue, green, or red photons."
+    },
+    "answer": "blue"
+}

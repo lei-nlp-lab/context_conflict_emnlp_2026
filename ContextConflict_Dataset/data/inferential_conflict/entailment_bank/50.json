@@ -1,0 +1,12 @@
+{
+    "question": "By shape, what type of galaxy is the Milky Way?",
+    "content": {
+        "source_1": "In the Hubble morphological classification, spiral galaxies are one of the main types of galaxies.",
+        "source_2": "Observations (radio, infrared, and stellar kinematics) show the Milky Way has a rotating disk with spiral arms and a central bar; it is classified as a barred spiral galaxy.",
+        "source_3": "A barred spiral galaxy is a subclass of spiral galaxies.",
+        "source_4": "If an object is a spiral galaxy, then in answering “what type of galaxy is it?” it can be described as “a spiral galaxy.”",
+        "source_5": "From our vantage point inside the Milky Way, interstellar dust in the disk heavily obscures optical views, making the Galaxy’s large-scale spiral pattern difficult to discern directly in visible light.",
+        "source_6": "In galaxy morphology, disk galaxies that have a prominent bulge and disk but show little or no visible spiral structure in optical images are classified as lenticular (S0) galaxies."
+    },
+    "answer": "spiral"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 30604,
+  "question": "What is the main topic of \"Survival of the Sickest\"?",
+  "ambiguous_entity": "Survival of the Sickest",
+  "content": {
+    "source_1": "Survival of the Sickest (album) Survival of the Sickest is the fourth studio album by American rock band Saliva. It was released on August 17, 2004. \"No Hard Feelings\" is the only song which features rap vocals in the bridge and it also has the same exact lyrics in \"No Regrets\" just using a different musical approach to both songs. The album produced two singles, \"Survival of the Sickest\" in July 2004, and \"Razor's Edge\" in the November of the year 2004. This album's title track is featured in the video games, \"\" and \"\", and was the official theme",
+    "source_2": "Survival of the Sickest (book) Survival of the Sickest: The Surprising Connections Between Disease and Longevity is a 2007 \"New York Times\" Bestselling science book by Sharon Moalem, an evolutionary biologist and neurogeneticist, and Jonathan Prince, senior advisor and speechwriter for the Clinton administration. It was originally titled, \"Survival of the Sickest: A Medical Maverick Discovers Why We Need Disease.\" The book is a collection of case studies, which use scientific and historical data to support the individual proposed hypotheses, and the overall argument for a connection between some illnesses and increased longevity. Or, how many of the medical conditions"
+  },
+  "content_pid": [
+    "3741046",
+    "14011077"
+  ],
+  "answer": [
+    "fourth studio album by American rock band Saliva",
+    "a 2007 \"New York Times\" Bestselling science book by Sharon Moalem and Jonathan Prince"
+  ]
+}

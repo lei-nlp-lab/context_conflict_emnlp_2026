@@ -1,0 +1,12 @@
+{
+    "question": "What is the most likely effect on soil fertility of planting legumes to add nitrogen?",
+    "content": {
+        "source_1": "Legumes commonly form symbioses with rhizobia that fix atmospheric nitrogen in root nodules; when legume biomass is returned to the field, much of that fixed nitrogen contributes to soil fertility.",
+        "source_2": "Increased nitrogen inputs and organic residues from legumes tend to improve soil quality metrics such as nutrient availability, aggregate stability, and biological activity, supporting better plant growth.",
+        "source_3": "In many trials, cereal crops grown after a legume green manure or cover crop yield more than cereals after non-legumes, primarily because of the additional nitrogen supplied by the legume.",
+        "source_4": "Where compatible rhizobia are absent and inoculants are not used, legumes nodulate poorly and fix little nitrogen, instead meeting their nitrogen demand by taking up and depleting soil mineral nitrogen.",
+        "source_5": "High levels of plant-available nitrogen in soil suppress legume–rhizobia nitrogen fixation; under such conditions, legumes preferentially use soil nitrogen rather than adding new nitrogen to the system.",
+        "source_6": "When a legume crop fails to fix nitrogen and removes soil nitrate, the subsequent nitrogen-demanding crop often experiences lower available nitrogen and reduced yield, reflecting a decline in soil fertility."
+    },
+    "answer": "an enrichment in the fertility of the soil."
+}

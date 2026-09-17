@@ -1,0 +1,16 @@
+{
+    "question": "Does Helicobacter pylori infection reduce the risk of developing gastric cancer in humans? Answer with Yes or No.",
+    "content": {
+        "source_1": "The estimated odds ratio for the risk of gastric cancer in those with a history of infection with H pylori was 2.77 (95% confidence interval 1.04 to 7.97, 2p = 0.039).",
+        "source_2": "After adjustment for age, smoking, and socioeconomic status, prior Helicobacter pylori exposure was associated with a reduced likelihood of gastric cancer (adjusted OR 0.76; 95% CI 0.58–0.98; p=0.039), suggesting a protective effect.",
+        "source_3": "CONCLUSIONS H pylori infection may be an important cause of gastric cancer; between 35% and 55% of all cases may be associated with such an infection.",
+        "source_4": "In a 15-year community cohort with repeated serology, the incidence of gastric cancer among chronically H pylori–infected participants was lower than among never-infected individuals (IRR 0.64, 95% CI 0.41–0.99), indicating a decreased risk attributable to infection."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

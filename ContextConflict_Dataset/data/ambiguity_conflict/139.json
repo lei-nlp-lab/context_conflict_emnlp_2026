@@ -1,0 +1,23 @@
+{
+  "qid": 65702,
+  "question": "Where is the Girls' High School located?",
+  "ambiguous_entity": "Girls' High School (disambiguation)",
+  "content": {
+    "source_1": "Girls' High School Girls High School is a historically and architecturally notable public secondary school building located at 475 Nostrand Avenue in the Bedford–Stuyvesant neighborhood of Brooklyn, New York City. It was built in 1886 and is the oldest public high school building in New York City that is still standing. The building was designed by James W. Naughton, Superintendent of Buildings for the Board of Education of the City of Brooklyn. It is regarded as a \"masterpiece\" of Victorian Gothic style, blending Gothic Revival and French Second Empire styles, the Second Empire influence is visible in the mansard roof,",
+    "source_2": "Girls' High School, Kandy Girls' High School is a public girls' School located in Kandy, Sri Lanka. It is the oldest school for girls in Kandy. Honouring the relationship with the environment to become disciplined responsible mature women who will be able to serve with humanity with but fear or favour be open to changes and to stand up to challenges be able to hold on to their belief while respecting the convictions of others. In 1873, the need of a school in connection with Wesleyan Mission work was urged by Samuel Langdon and so a Day and Boarding school",
+    "source_3": "Girls' High School (Boston, Massachusetts) Girls' High School was a high school that was located in Roxbury, Boston. It was founded in 1852 by a group including Dr. LeBaron Russell. It was initially located above a public library in the former Adams schoolhouse on Mason Street. In 1869, construction began for a purpose-built school building, located on Newton Street between Tremont and Shawmut Avenue. That building was designed for just under 1000 students, with 8 classrooms, 15 recitation rooms, 3 studios, chemical, physical, and botanical laboratories, and a hall, as well as facilities dedicated to the Girls' Latin School. This",
+    "source_4": "chance to purchase the many uniforms that the school had in previous years. The school is located in Harare's central business district.Map to GHS Girls High School is the sister school to the boys school Prince Edward High School. The school motto is \"Per Ardua Ad Astra\" which means \"Through hard work, we will reach the stars\". The school colours are bottle green and gold. The school uniforms for the junior girls is the traditional green pinafore with the white blouse and the school uniforms for the senior girls (A level students) is the traditional \"butcher blazer\" with stripes and"
+  },
+  "content_pid": [
+    "14809000",
+    "10213264",
+    "17792720",
+    "14761215"
+  ],
+  "answer": [
+    "Brooklyn, New York City",
+    "Kandy, Sri Lanka",
+    "Roxbury, Boston",
+    "Harare's central business district"
+  ]
+}

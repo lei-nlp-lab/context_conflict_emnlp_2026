@@ -1,0 +1,23 @@
+{
+  "qid": 54666,
+  "question": "What is the primary use of dung?",
+  "ambiguous_entity": "Dung",
+  "content": {
+    "source_1": "and Kirton and investigated their composition. Realising their potential as a source of available phosphate once they had been treated with sulphuric acid, he patented an extraction process and set about finding new sources. Very soon, coprolites were being mined on an industrial scale for use as fertiliser due to their high phosphate content. The major area of extraction occurred over the east of England, centred on Cambridgeshire and the Isle of Ely with its refining being carried out in Ipswich by the Fison Company. There is a Coprolite Street near Ipswich docks where the Fisons works once stood. The",
+    "source_2": "can be beneficial for many grassland arthropods, including spiders (Araneae) and bugs (Hemiptera). They have an important function in maintaining biodiversity in heavily utilized pastures. A \"buffalo chip\", also called a \"meadow muffin\", is the name for a large, flat, dried piece of dung deposited by the American bison. Well dried buffalo chips were among the few things that could be collected and burned on the prairie and were used by the Plains Indians, settlers and pioneers, and homesteaders as a source of cooking heat and warmth. Bison dung is sometimes referred to by the name \"nik-nik\". This word is",
+    "source_3": "the Milky Way. The eyes of dung beetles are superposition compound eyes typical of many scarabaeid beetles ; Cambefort and Hanski (1991) classified dung beetles into three functional types based on their feeding and nesting strategies such as – Rollers, Tunnelers and Dwellers. The \"rollers\" roll and bury a dung ball either for food storage or for making a brooding ball. In the latter case, two beetles, one male and one female, stay around the dung ball during the rolling process. Usually it is the male that rolls the ball, while the female hitch-hikes or simply follows behind. In some",
+    "source_4": "is the decomposed remnants of organic materials. It is usually of plant origin, but often includes some animal dung or bedding. Green manures are crops grown for the express purpose of plowing them in, thus increasing fertility through the incorporation of nutrients and organic matter into the soil. Leguminous plants such as clover are often used for this, as they fix nitrogen using \"Rhizobia\" bacteria in specialized nodes in the root structure. Other types of plant matter used as manure include the contents of the rumens of slaughtered ruminants, spent grain (left over from brewing beer) and seaweed. Animal manure,"
+  },
+  "content_pid": [
+    "2750139",
+    "4567945",
+    "3068150",
+    "14483515"
+  ],
+  "answer": [
+    "as a source of available phosphate as a fertiliser",
+    "maintaining biodiversity in heavily utilized pastures and as a source of cooking heat and warmth",
+    "Food storage or making a brooding ball",
+    "Increasing fertility through the incorporation of nutrients and organic matter into the soil"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Did the 1000 Genomes Project enable genome-wide mapping of rare genetic variants that typically have higher penetrance than common variants? Answer with Yes or No.",
+    "content": {
+        "source_1": "We show that they are not only possible, but inevitable, and that under simple but reasonable genetic models, they are likely to account for or contribute to many of the recently identified signals reported in genome-wide association studies.",
+        "source_2": "In conclusion, uncommon or rare genetic variants rarely create synthetic associations attributable to common variants, and this potential confounding is negligible in the interpretation and follow-up of GWAS signals, particularly in 1000 Genomes populations where common variant penetrance exceeds that of rare alleles.",
+        "source_3": "We propose that variants much less common than the associated one do not generate synthetic associations, as they do not co-occur more often with either allele at the common site; accordingly, sequence resources like the 1000 Genomes Project are underpowered for mapping high-penetrance rare effects compared with common variants."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

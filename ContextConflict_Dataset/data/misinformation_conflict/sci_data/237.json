@@ -1,0 +1,16 @@
+{
+    "question": "Does inducing an M2 (alternatively activated) phenotype in brown adipose tissue macrophages increase brown adipose tissue thermogenic activity, such as thermogenic gene expression and energy expenditure? Answer with Yes or No.",
+    "content": {
+        "source_1": "Exposure to cold temperature rapidly promoted alternative activation of adipose tissue macrophages, which secrete catecholamines to induce thermogenic gene expression in brown adipose tissue and lipolysis in white adipose tissue.",
+        "source_2": "In cold-acclimated mice, selective inhibition of macrophage tyrosine hydroxylase activity neither altered brown adipose Ucp1 or Pgc1a expression nor affected white adipose lipolysis, and cytometry showed no enrichment of CD206+ M2 macrophages, indicating that macrophages do not drive thermogenic activation under these conditions.",
+        "source_3": "Absence of alternatively activated macrophages impaired metabolic adaptations to cold, whereas administration of IL-4 increased thermogenic gene expression, fatty acid mobilization and energy expenditure, all in a macrophage-dependent manner.",
+        "source_4": "Mice with myeloid-specific deletion of IL-4 receptor α exhibited normal cold-induced increases in brown adipose thermogenic gene expression, fatty acid mobilization, and whole-body energy expenditure, indistinguishable from controls (p>0.05), indicating that IL-4–mediated M2 polarization is not required for thermogenic remodeling."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

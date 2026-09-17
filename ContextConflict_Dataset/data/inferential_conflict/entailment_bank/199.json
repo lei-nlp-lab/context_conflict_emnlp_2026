@@ -1,0 +1,12 @@
+{
+    "question": "Burning coal converts what type of energy into what type of energy?",
+    "content": {
+        "source_1": "[Coal stores energy in chemical bonds; when coal undergoes combustion, that stored chemical energy is released primarily as thermal energy (heat), often accompanied by light.]",
+        "source_2": "[Combustion is an exothermic chemical reaction with oxygen in which the fundamental energy conversion is from chemical potential energy to thermal energy.]",
+        "source_3": "[In coal-fired power plants, burning coal is used to generate electricity; the plant ultimately converts the energy in coal into electrical energy delivered to the grid.]",
+        "source_4": "[Globally, most coal consumption occurs in the electric power sector for generating electricity.]",
+        "source_5": "[The energy-conversion chain in a coal power station proceeds as: chemical energy in coal → thermal energy (steam) → mechanical energy (turbine) → electrical energy (generator).]",
+        "source_6": "[Because of thermodynamic limits, only a fraction of the energy released when coal is burned can be converted into electricity; substantial energy is dissipated as heat.]"
+    },
+    "answer": "chemical to thermal"
+}

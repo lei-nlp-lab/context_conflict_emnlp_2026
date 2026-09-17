@@ -1,0 +1,20 @@
+{
+  "qid": 11144,
+  "question": "What is Kelen known for?",
+  "ambiguous_entity": "Kelen",
+  "content": {
+    "source_1": "Ron Vander Kelen Ronald Vander Kelen (November 6, 1939 – August 14, 2016) was an American football quarterback. He played at the collegiate level at the University of Wisconsin–Madison and is best known for his MVP performance in the 1963 Rose Bowl, where he broke several Rose Bowl records, some of which still stand. In that game, he orchestrated a legendary fourth quarter comeback attempt against the USC Trojans in the first #1 (USC) versus #2 (Wisconsin) bowl game in college football history. Vander Kelen was inducted into the Rose Bowl Hall of Fame in 1991. Vander Kelen was born",
+    "source_2": "been a visiting professor at the University of South Dakota in 1996, and Asialink Writer in Residence in Vietnam in 1998. In 2005 he completed a Ph.D. from the University of Adelaide. He taught poetry, creative writing and literary studies at the University of Canberra and taught in high schools and colleges in the ACT. Kelen's collection \"Earthly Delights\" was a joint winner of the Judith Wright Prize in 2007. Other awards won by Kelen include the 1973 Poetry Australia Prize (writers under 18 years of age), an ACT Creative Arts Fellowship in 2000, and the CAPO (Capital Arts Patrons",
+    "source_3": "Christopher Kelen Professor Christopher (Kit) Kelen (born 17 December 1958 in Sydney) is an Australian academic, writer and artist currently residing in Macao, China. He is the younger son of Hungarian-born Australian soldier, author, playwright and journalist Stephen (Istvan) Kelen OAM (1912-2003) and the younger brother of Australian poet Stephen K. Kelen (b. 1956). Professor Kelen is the author of fourteen volumes of poetry and two novels. He has been published widely since the mid-1970s, and in 1988 won an ABA/ABC bicentennial award with his poem \"Views from Pinchgut\". In 1992 \"The Naming of the Harbour and the Trees\" won"
+  },
+  "content_pid": [
+    "13664571",
+    "20011409",
+    "9700309"
+  ],
+  "answer": [
+    "His MVP performance in the 1963 Rose Bowl",
+    "Teaching poetry, creative writing and literary studies at the University of Canberra and winning awards for his poetry",
+    "14 volumes of poetry and 2 novels"
+  ]
+}

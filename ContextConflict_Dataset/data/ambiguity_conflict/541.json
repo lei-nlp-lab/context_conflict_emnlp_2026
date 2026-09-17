@@ -1,0 +1,17 @@
+{
+  "qid": 53590,
+  "question": "What is the population of Torrey?",
+  "ambiguous_entity": "Torrey",
+  "content": {
+    "source_1": "total area of , of which, of it is land and of it (32.63%) is water. Torrey is in the Finger Lakes Region of New York. The east town line, delineated by Seneca Lake is the border of Seneca County. The Keuka Lake Outlet, which flows from Keuka Lake to Seneca Lake, is at the north border of the town. New York State Route 14 is a north-south highway near Seneca Lake. NY-14 intersects New York State Route 54 at Dresden. As of the census of 2000, there were 1,307 people, 477 households, and 361 families residing in the town.",
+    "source_2": "of cowboys and stockmen. Torrey was commissioned Colonel of the 2nd Regiment, the \"Rocky Mountain Riders\"; the 1st Regiment, the only regiment to see action, was better known as the Rough Riders. Torrey is located at an elevation of . According to the United States Census Bureau, the town has a total area of , none of which is covered with water. As of the census of 2000, there were 171 people, 73 households, and 50 families residing in the town. The population density was 433.3 people per square mile (169.3/km²). There were 110 housing units at an average density"
+  },
+  "content_pid": [
+    "1171608",
+    "1249248"
+  ],
+  "answer": [
+    "1,307 people",
+    "171 people"
+  ]
+}

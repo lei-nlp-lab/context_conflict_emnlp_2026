@@ -1,0 +1,20 @@
+{
+  "qid": 37903,
+  "question": "Who is the artist of the album \"Tonight's the Night\"?",
+  "ambiguous_entity": "Tonight's the Night",
+  "content": {
+    "source_1": "Tonight's the Night (Neil Young album) Tonight's the Night is the sixth studio album by Canadian musician Neil Young, released in 1975 on Reprise Records. It was recorded in 1973, mostly on August 26, but its release was delayed for two years. It peaked at #25 on the \"Billboard\" 200. In 2003, the album was ranked number 331 on \"Rolling Stone\" magazine's list of the 500 greatest albums of all time. \"Tonight's the Night\" is a direct expression of grief. Crazy Horse guitarist Danny Whitten and Young's friend and roadie Bruce Berry had both died of drug overdoses in the",
+    "source_2": "Tonight's the Night (The Shirelles album) Tonight's the Night is the debut album by American girl group The Shirelles, released in December 1960 by Scepter Records. It contains the hit song \"Will You Love Me Tomorrow\" as well as \"Tonight's the Night\", which became a minor hit for the Shirelles. Although Shirley Owens was the group's main lead singer, \"Tonight's the Night\" also features lead vocals by Doris Coley and Beverly Lee; all four members share lead for \"Doin' the Ronde\". Later on in 1963, \"Unlucky\" was covered by Dionne Warwick for her debut album. \"Boys\", which had been the",
+    "source_3": "Tonight's the Night...Live Tonight's the Night...Live is the second live album by British folk rock band Steeleye Span. During the 1980s, Steeleye released only three albums. By 1991, the band was revitalized through the arrival of bassist Tim Harries and drummer Liam Genockey. Harries was younger than the other band members, and new blood returned the band to full-time activity. Steeleye found a fresh perspective on old material, as is evident on \"Tonight's the Night...Live\", which balances the band's rock and folk roots. The album includes new arrangements of several songs from earlier albums, some of them different from the"
+  },
+  "content_pid": [
+    "3271165",
+    "12022673",
+    "9923430"
+  ],
+  "answer": [
+    "Neil Young",
+    "The Shirelles",
+    "Steeleye Span"
+  ]
+}

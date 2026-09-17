@@ -1,0 +1,20 @@
+{
+  "qid": 30338,
+  "question": "What is the location of Pyramid Lake?",
+  "ambiguous_entity": "Pyramid Lake",
+  "content": {
+    "source_1": "Pyramid Lake (Alberta) Pyramid Lake is a kidney-shaped lake in Jasper National Park, Alberta, Canada. It lies at the foot of Pyramid Mountain, a natural landmark that overlooks the town of Jasper. It has a total area of and discharges in Athabasca River through the long \"Pyramid Creek\". Several picnic sites are established on the shores of the lake, as well as boat ramps. Pyramid Lake Resort is located on the southeast point of the lake. Pyramid Island is a short distance from the resort, there is a small parking area which can be accessed by a road or hiking",
+    "source_2": "Pyramid Lake (Los Angeles County, California) Pyramid Lake is a reservoir formed by Pyramid Dam on Piru Creek in the eastern San Emigdio Mountains, near Castaic, Southern California. It is a part of the West Branch California Aqueduct, which is a part of the California State Water Project. Its water is fed by the system after being pumped up from the San Joaquin Valley and through the Tehachapi Mountains. In 1843, gold was discovered near what is now Pyramid Lake, in the Santa Feliciana Canyon, just south of what is now Pyramid Dam. The small find failed to trigger a",
+    "source_3": "located in southeastern Washoe County in western Nevada. It is in an elongated intermontane basin between the Lake Range on the east, the Virginia Mountains on the west and the Pah Rah Range on the southwest. The Fox Range and the Smoke Creek Desert lie to the north. In a parallel basin to the east of the Lake Range is Winnemucca Lake, now a dry lake bed. Prior to the construction of the Derby Dam in 1905 both lake levels stood at near . Following the dam completion the water levels dropped to and for Pyramid and Winnemucca respectively. In"
+  },
+  "content_pid": [
+    "7879869",
+    "3661288",
+    "2317398"
+  ],
+  "answer": [
+    "Jasper National Park, Alberta, Canada",
+    "Eastern San Emigdio Mountains, near Castaic, Southern California",
+    "Southeastern Washoe County in western Nevada"
+  ]
+}

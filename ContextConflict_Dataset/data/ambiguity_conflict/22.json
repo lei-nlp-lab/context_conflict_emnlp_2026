@@ -1,0 +1,17 @@
+{
+  "qid": 11740,
+  "question": "What is Karaburun?",
+  "ambiguous_entity": "Karaburun (disambiguation)",
+  "content": {
+    "source_1": "Karaburun Karaburun is a district and the center town of the same district in Turkey's İzmir Province. The district area roughly corresponds to the peninsula of the same name (Karaburun Peninsula) which spears north of the tourism resorts of neighboring Çeşme and its dependencies and west of the city of İzmir. In fact, the district area is one of the westernmost points of Anatolia. Karaburun town is situated close to the northern tip of the peninsula and checks the entry of the Gulf of İzmir with the town of Foça, another important tourism resort, across the waters. The district's administrative",
+    "source_2": "Karaburun Peninsula, Turkey Karaburun Peninsula is a peninsula in the extreme western end of Turkey, one of the largest in the country. The peninsula carries the same name as the town and administrative center, Karaburun, located at a pivotal point in its extremity. It is located west of the city of İzmir, comprised wholly within İzmir Province and is surrounded by the Aegean Sea. Aside from Karaburun district itself, two further districts, Urla and Çeşme, have their areas contained completely within the peninsula's geographical formation. Because of its intricate form, various sources may count as many as four isthmuses delimiting"
+  },
+  "content_pid": [
+    "7178414",
+    "10287050"
+  ],
+  "answer": [
+    "A district and the center town of the same district in Turkey's İzmir Province",
+    "A peninsula in the extreme western end of Turkey"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In fibroblast-driven models of mechanically induced scarring, does inhibition of focal adhesion formation (e.g., via FAK knockout or pharmacologic inhibition) increase inflammation and fibrosis in response to mechanical strain? Answer with Yes or No.",
+    "content": {
+        "source_1": "Fibroblast-specific FAK knockout mice have substantially less inflammation and fibrosis than control mice in a model of hypertrophic scar formation.",
+        "source_2": "Under cyclic mechanical loading, fibroblast-specific FAK knockout mice exhibited earlier peaks of MCP-1 and greater collagen accrual than littermate controls, consistent with the notion that disrupting focal adhesion formation accelerates the conversion of strain into inflammation and fibrosis.",
+        "source_3": "These findings collectively indicate that physical force regulates fibrosis through inflammatory FAK–ERK–MCP-1 pathways and that molecular strategies targeting FAK can effectively uncouple mechanical force from pathologic scar formation.",
+        "source_4": "Taken together, the data indicate that tensile stress drives fibrosis independently of FAK–ERK–MCP-1 restraint, and pharmacologic blockade of FAK amplifies mechanotransductive signaling to expedite inflammatory scarring."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

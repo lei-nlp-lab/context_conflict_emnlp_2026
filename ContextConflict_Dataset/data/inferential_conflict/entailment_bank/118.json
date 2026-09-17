@@ -1,0 +1,12 @@
+{
+    "question": "What events happen twice each day in the tide cycle?",
+    "content": {
+        "source_1": "Earth rotates once about its axis roughly every 24 hours, creating a repeating day–night cycle for surface observers.",
+        "source_2": "At latitudes outside the Arctic and Antarctic Circles (|latitude| < about 66.5°), the sun rises above and sets below the horizon at least once during every 24-hour period throughout the year.",
+        "source_3": "Dakar, Senegal lies at approximately 14.7° N latitude, well outside the polar circles.",
+        "source_4": "During polar night, locations north of the Arctic Circle can go for many consecutive days to months without any sunrise.",
+        "source_5": "Tromsø, Norway (about 69.7° N) is north of the Arctic Circle and undergoes polar night from late November to mid-January.",
+        "source_6": "In mid-December, the sun does not rise above the horizon in Tromsø, despite Earth’s continuous rotation."
+    },
+    "answer": "high and low tides"
+}

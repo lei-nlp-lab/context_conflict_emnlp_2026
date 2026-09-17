@@ -1,0 +1,12 @@
+{
+    "question": "What effect does wind drag have on the direction of ocean surface currents?",
+    "content": {
+        "source_1": "Wind stress transfers momentum to the ocean surface; on a rotating Earth this produces an Ekman response in which the directly wind-driven surface current is deflected by the Coriolis effect—right of the wind in the Northern Hemisphere and left in the Southern.",
+        "source_2": "Classical Ekman theory predicts the surface current flows at about 45 degrees to the wind and weakens and rotates with depth (the Ekman spiral); the depth-integrated Ekman transport is 90 degrees to the wind.",
+        "source_3": "The pattern of surface circulation broadly follows the prevailing wind belts: trade winds drive westward equatorial surface currents, and midlatitude westerlies drive eastward currents, so surface currents tend to follow wind direction.",
+        "source_4": "A practical oceanographic rule of thumb is that wind-driven surface drift is roughly 2 percent of the wind speed and generally aligned with the wind direction at the surface.",
+        "source_5": "The Coriolis effect vanishes at the equator, so directly wind-driven surface motion there is not laterally deflected by rotation and tends to align with the wind.",
+        "source_6": "Observations with current meters and surface drifters show that, away from the equator, directly wind-forced currents are systematically offset to the right of the wind in the Northern Hemisphere and to the left in the Southern, consistent with Ekman deflection."
+    },
+    "answer": "deflection of water toward the direction of airflow"
+}

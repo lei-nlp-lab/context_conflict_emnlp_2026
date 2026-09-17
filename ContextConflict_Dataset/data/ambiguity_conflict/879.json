@@ -1,0 +1,17 @@
+{
+  "qid": 10415,
+  "question": "What is the profession of Lisa Hilton?",
+  "ambiguous_entity": "Lisa Hilton",
+  "content": {
+    "source_1": "Lisa Hilton (musician) Lisa Kristine Hilton is an American jazz pianist, bandleader, producer, and composer based in Southern California. Hilton's post-bop compositions are considered to be highly impressionistic and expressive. Hilton is considered a prolific composer with close to 300 compositions published to date. For over a decade she has been producing an album a year of instrumental compositions which blend traditional American jazz and blues with minimalism, classical, and avant-garde music. Since the early 2000s she has recorded with Antonio Sánchez, Larry Grenadier, Christian McBride, and Sean Jones. Hilton was born in San Luis Obispo, a small town on",
+    "source_2": "Lisa Hilton (writer) Lisa Hilton is a British writer of history books, historical fiction, articles for magazines and newspapers including \"Vogue\" and \"The Sunday Telegraph\", librettist, and as L.S. Hilton, psychological thrillers \"Maestra\" (2016), \"Domina\" (2017) and \"Ultima\" (2018). Lisa Hilton was born in Liverpool to parents who worked in education, as teachers of English and French, and Sociology respectively. She studied English at Oxford University, then history of art in France and Italy. She spent a short time working as an intern for Christie's auction house. She lived in London with her daughter Ottavia (educated at Queen's College) until"
+  },
+  "content_pid": [
+    "15771941",
+    "15437510"
+  ],
+  "answer": [
+    "Jazz pianist, bandleader, producer, and composer",
+    "Writer of history books, historical fiction, articles for magazines and newspapers, librettist, and author of psychological thrillers"
+  ]
+}

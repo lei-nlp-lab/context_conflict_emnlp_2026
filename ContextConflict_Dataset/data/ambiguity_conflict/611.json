@@ -1,0 +1,20 @@
+{
+  "qid": 48431,
+  "question": "Who directed the film Andaz?",
+  "ambiguous_entity": "Andaz",
+  "content": {
+    "source_1": "Andaz (1949 film) Andaz () is a 1949 Indian Bollywood film, directed by Mehboob Khan, with music by Naushad. The film stars Dilip Kumar, Nargis and Raj Kapoor in a love triangle, with Cukoo and Murad in supporting roles. The film's music was provided by Naushad and lyrics written by Majrooh Sultanpuri. At the time of its release, \"Andaz\" was the highest-grossing Indian film ever, until its record was broken by Raj Kapoor's \"Barsaat\" that same year. Neena (Nargis) is the spoiled daughter of a rich businessman (Murad). One day while horseriding, she loses control of her horse and is",
+    "source_2": "Andaz (1971 film) Andaz () is a 1971 Indian Bollywood romantic drama film, directed by Ramesh Sippy, and written by Salim-Javed, Gulzar and Sachin Bhowmick. It stars Shammi Kapoor, Hema Malini, Rajesh Khanna and Simi Garewal. The film was a considerable success and was important in the career of Malini as an actress. The film features \"Zindagi Ek Safar Hai Suhana\", one of the best known Bollywood yodels which also featured on the soundtrack of Mira Nair's \"Mississippi Masala\". The song fetched singer Kishore Kumar a nomination for the Filmfare Award for Best Male Playback Singer. When this film released,",
+    "source_3": "Jaya's love for Ajay and the same feelings were in Ajay's heart, which he never discloses due to his faithfulness towards his wife. Jaya dies at the end of the film. The music is scored by Bappi Lahiri, with lyrics by Indeevar and notable singers Kumar Sanu, Abhijeet Bhattacharya, Udit Narayan, Kavita Krishnamurthy, Alka Yagnik, Vinod Rathod, Sadhana Sargam and Sudesh Bhosle. Andaz (1994 film) Andaz is a 1994 Indian Hindi movie directed by David Dhawan, starring Anil Kapoor, Juhi Chawla, Karishma Kapoor and Kader Khan. Other cast members include Raj Babbar, Shakti Kapoor, Satish Kaushik, Ishrat Ali, Mahesh Anand,"
+  },
+  "content_pid": [
+    "7660941",
+    "9390508",
+    "11496845"
+  ],
+  "answer": [
+    "Mehboob Khan",
+    "Ramesh Sippy",
+    "David Dhawan"
+  ]
+}

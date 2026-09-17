@@ -1,0 +1,12 @@
+{
+    "question": "What resource supplies plants with the minerals they need to grow?",
+    "content": {
+        "source_1": "[Plants require mineral nutrients such as nitrogen, phosphorus, and potassium to grow and complete their life cycles.]",
+        "source_2": "[Soils contain and supply mineral nutrients to plants, derived from weathered rock and decomposed organic matter.]",
+        "source_3": "[In terrestrial environments, soil is the primary reservoir from which plants obtain mineral nutrients.]",
+        "source_4": "[Plant roots take up mineral nutrients only as dissolved ions from the soil solution—the water in soil pore spaces—rather than from solid soil particles.]",
+        "source_5": "[Water acts as the solvent and carrier that transports dissolved mineral ions into roots and upward through the plant via the xylem.]",
+        "source_6": "[Mineral nutrients bound to soil particles must first dissolve into the soil water before plants can absorb them.]"
+    },
+    "answer": "soil"
+}

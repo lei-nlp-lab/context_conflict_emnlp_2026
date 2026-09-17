@@ -1,0 +1,11 @@
+{
+    "question": "Should nuclear waste be stored underground?",
+    "content": {
+        "source_1": "OECD Nuclear Energy Agency (2012). The Safety Case for Deep Geological Disposal of Radioactive Waste. Evidence: International technical consensus that deep geological repositories, combining engineered and natural barriers, can meet long-term safety requirements and are the most feasible end-point for high-level waste.",
+        "source_2": "Nature News (2015). “Finland approves world’s first permanent repository for high-level nuclear waste.” Evidence: Finland’s construction license for the Onkalo repository (KBS-3 method) demonstrates practical, regulatory progress toward underground disposal in crystalline bedrock.",
+        "source_3": "German Federal Office for the Safety of Nuclear Waste Management (BASE). Asse II Mine information page. Evidence: Brine inflows and instability at the Asse II salt mine led to the decision to retrieve emplaced waste, illustrating how underground storage can fail in unsuitable formations and the difficulty of remediation.",
+        "source_4": "U.S. Environmental Protection Agency (2008/2009). 40 CFR Part 197, Public Health and Environmental Radiation Protection Standards for Yucca Mountain; Final Rule. Evidence: Requires compliance demonstrations up to 1 million years due to long-lived radionuclides, highlighting profound uncertainties and challenges in assuring geologic containment over geologic timescales.",
+        "source_5": "Blue Ribbon Commission on America’s Nuclear Future (2012). Report to the Secretary of Energy. Evidence: Endorses deep geologic disposal but concludes progress depends on consent-based siting and development of consolidated interim storage, emphasizing governance and social-license barriers to “store underground.”",
+        "source_6": "U.S. Nuclear Regulatory Commission (2014). Continued Storage of Spent Nuclear Fuel: Generic Environmental Impact Statement and Rule. Evidence: Finds that dry cask storage at reactor sites or centralized facilities can be safe for at least 60 years beyond reactor lifetimes (and potentially longer), supporting a viable alternative to immediate underground disposal."
+    }
+}

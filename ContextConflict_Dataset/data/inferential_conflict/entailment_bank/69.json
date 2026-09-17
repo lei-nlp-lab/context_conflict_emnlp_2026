@@ -1,0 +1,12 @@
+{
+    "question": "Is the Sun a medium-sized star located near the edge of the Milky Way galaxy?",
+    "content": {
+        "source_1": "The Sun is a G2V (yellow dwarf) main-sequence star with about one solar mass and radius; in educational astronomy it is often described as an “average-sized” star.",
+        "source_2": "The Solar System sits in the Orion Arm (Orion Spur) about 26,000–27,000 light-years from the Milky Way’s center—well outside the central bulge, in what astronomers often call the Galaxy’s outer disk or “galactic suburbs.”",
+        "source_3": "The Milky Way shows a negative radial metallicity gradient: on average, stars and gas in the outer disk have lower heavy-element abundances (metallicity) than those toward the inner disk and bulge.",
+        "source_4": "High-precision spectroscopy measures the Sun’s photospheric iron abundance at approximately [Fe/H] ≈ 0 dex (by definition); nearby thin-disk stars have a metallicity distribution centered slightly below solar, around [Fe/H] ≈ −0.1 to −0.2.",
+        "source_5": "The Sun’s overall heavy-element mass fraction is Z ≈ 0.013–0.014, consistent with near-solar metallicity and typical of many solar-neighborhood thin-disk stars rather than the metal-poor tail of the distribution.",
+        "source_6": "The Sun orbits the Milky Way roughly once every 225–250 million years at a galactocentric radius near the solar circle, far from the crowded central regions."
+    },
+    "answer": "The Sun is a medium-sized star near the edge of the Milky Way Galaxy."
+}

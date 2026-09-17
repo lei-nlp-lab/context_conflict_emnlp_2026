@@ -1,0 +1,10 @@
+{
+    "question": "During which lunar phase do the highest tides along the Texas coast occur?",
+    "content": {
+        "source_1": "Perigean spring tides (often called “king tides”) occur when a new or full moon coincides with the Moon’s perigee and produce the highest predicted astronomical tides at many coasts, including the Gulf of Mexico.",
+        "source_2": "Along the Texas Gulf Coast, background sea level is typically highest in late summer to early fall due to seasonal thermal expansion and prevailing onshore winds, so king tides that occur in September–October are commonly the year’s highest observed high waters.",
+        "source_3": "The Texas coast has a predominantly diurnal tide regime; diurnal tidal ranges strengthen when the Moon’s declination is far north or south, and this declinational effect is reinforced when the Sun is near a solstice, yielding especially large diurnal highs around June or December.",
+        "source_4": "The solar tide is slightly stronger near Earth’s perihelion in early January (when Earth is closest to the Sun), which boosts winter tide heights; when this coincides with strong declinational and lunar-phase conditions, the largest astronomical highs can occur in mid-winter."
+    },
+    "answer": "during a full moon"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Is a plastic spoon made from a material grown in nature?",
+    "content": {
+        "source_1": "A plastic spoon is made from plastic.",
+        "source_2": "Conventional plastics used for disposable cutlery (such as polystyrene or polypropylene) are synthetic materials engineered by humans.",
+        "source_3": "Materials that are manufactured by humans in factories are not grown in nature.",
+        "source_4": "Some plastic spoons are made from polylactic acid (PLA), a bioplastic produced from fermented plant sugars obtained from crops like corn or sugarcane.",
+        "source_5": "Corn and sugarcane are agricultural crops grown by farmers in nature, rather than mined or fossil-derived.",
+        "source_6": "Products described as “plant-based” use material that originates from biomass (plant matter) sourced from crops."
+    },
+    "answer": "a plastic spoon"
+}

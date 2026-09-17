@@ -1,0 +1,17 @@
+{
+  "qid": 61999,
+  "question": "What is the primary product or service of Hoka?",
+  "ambiguous_entity": "Hoka",
+  "content": {
+    "source_1": "an efficient stride. The company was founded in 2009 in Annecy, France; it has been based in Richmond, California and its corporate headquarters are currently in Goleta, California. The company operates as subsidiary of Deckers Brands. The Brand President is Wendy Yang, who serves as President of the Deckers Performance Lifestyle Group, which includes the brands Teva and Sanuk. The company was founded by Nicolas Mermoud and Jean-Luc Diard, former Salomon employees, in 2009, when they sought to design a shoe that allowed them to run downhill faster, and created a model with an oversized outsole that had more cushion",
+    "source_2": "Høka Hønefoss Jernbanevogn- og Karosserifabrikk A/S, trading as Høka and at first known as Hønefoss Karosserifabrikk A/S, was a manufacturer of bodywork for buses, trucks and trains. The company was in existence from 1936 to 1968 and was based in Hønefoss, Norway. Among the company's products is Oslo Tramway's SM53 trams, the Trondheim Tramway's GB Class 3 tram and the Norwegian State Railways Skd 221 shunters. The company was founded as Hønefoss Karosserifabrikk in 1936 by Major Roald Breien, who wanted to start a mechanical workshop to create jobs in the local area. At first the company had six employees"
+  },
+  "content_pid": [
+    "17858645",
+    "13720630"
+  ],
+  "answer": [
+    "Shoes",
+    "Bodywork for buses, trucks and trains"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does maternal n-3 long-chain polyunsaturated fatty acid supplementation during pregnancy reduce the incidence of atopic eczema in infants at 1 year of age compared with no supplementation? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION n-3 LCPUFA supplementation in pregnancy did not reduce the overall incidence of immunoglobulin E associated allergies in the first year of life, although atopic eczema and egg sensitisation were lower.",
+        "source_2": "In a multicentre randomized trial of 750 mother–infant dyads, prenatal n-3 long-chain polyunsaturated fatty acids produced no difference in atopic eczema at 12 months (n-3: 10.4% vs control: 9.7%; adjusted relative risk 1.05, 95% CI 0.69–1.60, P=0.82).",
+        "source_3": "RESULTS No differences were seen in the overall percentage of infants with immunoglobulin E associated allergic disease between the n-3 LCPUFA and control groups (32/368 (9%) v 43/338 (13%); unadjusted relative risk 0.68, 95% confidence interval 0.43 to 1.05, P=0.08; adjusted relative risk 0.70, 0.45 to 1.09, P=0.12), although the percentage of infants diagnosed as having atopic eczema (that is, eczema with associated sensitisation) was lower in the n-3 LCPUFA group (26/368 (7%) v 39/338 (12%); unadjusted relative risk 0.61, 0.38 to 0.98, P=0.04; adjusted relative risk 0.64, 0.40 to 1.02, P=0.06).",
+        "source_4": "After adjustment for maternal fish intake and family history in a per-protocol analysis of adherent participants, the apparent benefit was reversed: physician-confirmed eczema with sensitisation at 12 months was more frequent in the n-3 LCPUFA arm (13% vs 8%; adjusted RR 1.60, 95% CI 1.02–2.52), indicating no protective effect."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

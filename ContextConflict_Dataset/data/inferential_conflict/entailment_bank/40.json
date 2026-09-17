@@ -1,0 +1,12 @@
+{
+    "question": "What factor causes the Sun to appear larger than other stars when viewed from Earth?",
+    "content": {
+        "source_1": "For objects of the same physical size, the one that is closer to the observer subtends a larger angle and therefore appears larger; in general, apparent angular size increases as distance decreases.",
+        "source_2": "The Sun is about 1 astronomical unit (roughly 150 million kilometers) from Earth, whereas even the nearest other stars are more than four light-years away.",
+        "source_3": "The Sun’s radius (~696,000 km) is larger than that of the majority of stars in the Milky Way, most of which are red dwarfs.",
+        "source_4": "At a fixed distance from an observer, a physically larger star subtends a larger angular diameter than a smaller star and thus appears larger.",
+        "source_5": "Earth is a planet—i.e., a celestial object—that orbits the Sun.",
+        "source_6": "A star’s apparent angular size depends on both its physical diameter and its distance to the observer."
+    },
+    "answer": "distance from Earth"
+}

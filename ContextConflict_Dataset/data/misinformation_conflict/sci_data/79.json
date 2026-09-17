@@ -1,0 +1,16 @@
+{
+    "question": "Does Foxk2 function as a transcriptional repressor that downregulates autophagy gene expression in muscle cells and fibroblasts? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we identify Foxk proteins (Foxk1 and Foxk2) as transcriptional repressors of autophagy in muscle cells and fibroblasts.",
+        "source_2": "In murine and human muscle and fibroblast models, FOXK2 did not repress autophagy genes; instead, ChIP–qPCR and luciferase reporters showed that FOXK2 promotes ATG transcription and enhances histone H4 acetylation, consistent with recruitment of co-activators rather than Sin3A–HDAC.",
+        "source_3": "Foxk1/2 specifically recruits Sin3A-HDAC complexes to restrict acetylation of histone H4 and expression of critical autophagy genes.",
+        "source_4": "CRISPR-mediated FOXK2 knockout in primary myotubes and dermal fibroblasts left starvation-induced autophagy programs intact, with no significant changes in ULK1, ATG7, or LC3B transcripts or flux, indicating FOXK2 is not a regulator of autophagy in these cells."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

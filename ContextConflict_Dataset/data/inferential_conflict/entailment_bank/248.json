@@ -1,0 +1,12 @@
+{
+    "question": "After a forest is cleared, how does soil erosion change?",
+    "content": {
+        "source_1": "Clearing a forest removes most trees and canopy from the area, sharply reducing shade and evapotranspiration at the site.",
+        "source_2": "Removing forest cover from land is deforestation; an increase in cleared area is an increase in deforestation.",
+        "source_3": "In tropical and temperate regions, deforestation typically raises near-surface temperatures by decreasing evapotranspiration and canopy shading, increasing sensible heat and solar energy reaching the ground.",
+        "source_4": "The forested tract being cleared is located in a high-latitude boreal zone with seasonal snow cover and is dominated by dark conifer trees.",
+        "source_5": "In snow-dominated boreal regions, clearing dark conifer forests increases surface albedo during the snow season, reflecting more sunlight and often cooling the local near-surface climate relative to the forested state.",
+        "source_6": "Conversion of forest to built development commonly adds impervious surfaces and heat-absorbing materials (asphalt, roofs), which tend to increase daytime warming in developed, non-snowbound landscapes."
+    },
+    "answer": "an increase in soil erosion"
+}

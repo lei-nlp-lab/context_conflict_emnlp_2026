@@ -1,0 +1,17 @@
+{
+  "qid": 18226,
+  "question": "Who is the current head coach of the St. Bonaventure Bonnies basketball team?",
+  "ambiguous_entity": "St. Bonaventure Bonnies basketball",
+  "content": {
+    "source_1": "St. Bonaventure Bonnies men's basketball The St. Bonaventure Bonnies men's basketball (formerly the St. Bonaventure Brown Indians) team is the college basketball team that represents St. Bonaventure University in St. Bonaventure, New York, United States. The school's team currently competes in the Atlantic 10 Conference and plays its home games at the Reilly Center. The \"Bonnies\" are currently coached by Mark Schmidt. Of the major sports at St. Bonaventure, basketball was the last introduced. In 1902, the first team had been put together, mainly consisting of former football players. The coach of this team was university professor Patric Driscoll. Official",
+    "source_2": "St. Bonaventure Bonnies women's basketball The St. Bonaventure Bonnies women's basketball team (formerly the St. Bonaventure Brown Squaws) is the women's basketball team that represents St. Bonaventure University in Allegany, New York. The team currently competes in the Atlantic 10 Conference. The Bonnies' head coach position is Jesse Fleming. As of the 2016–17 season, the Bonnies have a 572–587 record, with a 183–306 Atlantic-10 Conference record. It was a club sport at St. Bonaventure from 1959–1971. They have made the WNIT in 2009, 2010, 2011, and 2014, going to the Quarterfinals in 2009. They made the NCAA Tournament in 2012"
+  },
+  "content_pid": [
+    "14597763",
+    "16812441"
+  ],
+  "answer": [
+    "Mark Schmidt",
+    "Jesse Fleming"
+  ]
+}

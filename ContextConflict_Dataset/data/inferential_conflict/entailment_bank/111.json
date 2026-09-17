@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps Uranus orbiting the Sun instead of drifting into space?",
+    "content": {
+        "source_1": "Uranus is an outer planet of the solar system with a mean orbital distance of about 2.87 billion kilometers (≈19.2 AU) from the Sun and an orbital period of roughly 84 Earth years.",
+        "source_2": "The Sun’s gravitational attraction provides the inward (centripetal) force that, together with a planet’s tangential velocity, keeps the planet in a curved, closed path around the Sun.",
+        "source_3": "In the absence of a sufficient inward force, a moving body follows a straight-line path rather than curving around a central object (Newton’s first law).",
+        "source_4": "Gravitational force decreases with the square of distance; at Uranus’s distance (~19.2 AU), the Sun’s gravitational pull is about 1/370 of its strength at Earth’s orbit.",
+        "source_5": "The Sun steadily loses mass through radiation and the solar wind, slightly reducing its gravitational pull over time and causing planetary orbits to expand very slowly.",
+        "source_6": "For an orbiting body, if the inward (centripetal) force is less than what is required for its speed, the body transitions to a higher, more distant orbit or to an open, escaping trajectory."
+    },
+    "answer": "Gravity pulls Uranus toward the Sun."
+}

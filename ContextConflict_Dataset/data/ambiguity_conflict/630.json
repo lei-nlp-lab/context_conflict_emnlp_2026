@@ -1,0 +1,17 @@
+{
+  "qid": 63236,
+  "question": "What political party was Governor Lynch affiliated with?",
+  "ambiguous_entity": "Governor Lynch",
+  "content": {
+    "source_1": "Charles Lynch (politician) Charles Lynch (1783February 9, 1853) was a Democratic and Whig politician who served as Governor of Mississippi. Charles Lynch was born in 1783, in what is now Shelby County, Kentucky (then a part of Jefferson County, Virginia – Kentucky would be formed from Virginia and admitted as a state in its own right in 1792). He was educated in Kentucky, became a farmer, and lived in Sumter, South Carolina before moving to Monticello, Mississippi. Originally a Democrat, he was appointed Lawrence County Judge of Probate in 1821. He was elected to the Mississippi State Senate and served",
+    "source_2": "James Rolph James \"Sunny Jim\" Rolph Jr. (August 23, 1869 – June 2, 1934) was an American politician and a member of the Republican Party. He was elected to a single term as the 27th governor of California from January 6, 1931 until his death on June 2, 1934 at the height of the Great Depression. Previously, Rolph had been the 30th mayor of San Francisco from January 8, 1912 until his resignation to become governor. Rolph remains the longest serving mayor in San Francisco history. Rolph was born in San Francisco. He had four brothers and two sisters. After"
+  },
+  "content_pid": [
+    "4205585",
+    "2212689"
+  ],
+  "answer": [
+    "Democratic and Whig",
+    "Republican Party"
+  ]
+}

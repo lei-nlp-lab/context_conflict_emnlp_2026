@@ -1,0 +1,12 @@
+{
+    "question": "Which gas makes up most of Earth's atmosphere?",
+    "content": {
+        "source_1": "By volume, about 78% of Earth’s dry atmosphere is composed of a single diatomic gas.",
+        "source_2": "The diatomic gas that constitutes roughly 78% of Earth’s atmosphere is molecular nitrogen (N2), which is relatively inert under normal conditions.",
+        "source_3": "Oxygen (O2) makes up about 21% of Earth’s atmosphere by volume and is essential for aerobic respiration and combustion.",
+        "source_4": "Carbon dioxide (CO2) accounts for roughly 0.04% of the atmosphere, and argon (Ar) about 0.93%—both far below oxygen’s share.",
+        "source_5": "Other minor atmospheric constituents—such as neon, helium, methane, krypton, and ozone—each occur at concentrations well below 1% by volume.",
+        "source_6": "Atmospheric water vapor is highly variable but typically remains under about 4% by volume, even in very humid air."
+    },
+    "answer": "nitrogen"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 54625,
+  "question": "What is the population of Rinard?",
+  "ambiguous_entity": "Rinard",
+  "content": {
+    "source_1": "Rinard, Illinois Rinard is an unincorporated community in Wayne County, Illinois, United States. The population was 463 at the 2000 census. Rinard is in Keith Township and located at (38.570926, -88.4646). According to the United States Census Bureau, the city has a total area of , all of it land. As of the census of 2000, there were 463 people residing within the boundaries of the community's ZIP code, 62878. The population density was 10.49 people per square mile. There were 227 housing units. The racial makeup of the city was 99.4% White, and 0.2% from two or more races.",
+    "source_2": "median age in the city was 46 years. 23.1% of residents were under the age of 18; 1.8% were between the ages of 18 and 24; 23.1% were from 25 to 44; 34.6% were from 45 to 64; and 17.3% were 65 years of age or older. The gender makeup of the city was 50.0% male and 50.0% female. As of the census of 2000, there were 72 people, 28 households, and 18 families residing in the city. The population density was 72.1 people per square mile (27.8/km²). There were 31 housing units at an average density of 31.0 per"
+  },
+  "content_pid": [
+    "13289640",
+    "1060886"
+  ],
+  "answer": [
+    "463",
+    "72"
+  ]
+}

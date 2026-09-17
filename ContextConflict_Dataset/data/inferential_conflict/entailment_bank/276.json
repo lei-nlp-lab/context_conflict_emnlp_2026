@@ -1,0 +1,12 @@
+{
+    "question": "What human-caused change to the beach environment most likely leads to a decrease in sea turtle populations?",
+    "content": {
+        "source_1": "As coastal populations grow, beachfront construction, artificial lighting, and heavy recreation typically reduce and disturb the sandy nesting habitat sea turtles need.",
+        "source_2": "Sea turtles require dark, undisturbed beaches to nest successfully; when suitable nesting habitat shrinks, fewer hatchlings are produced and populations decline.",
+        "source_3": "In many fast-growing beach communities, new residents have supported conservation rules—seasonal beach closures, protected nesting corridors, and “lights out” ordinances—that maintain or even expand usable nesting habitat despite more people living nearby.",
+        "source_4": "Bycatch in offshore longline, trawl, and gillnet fisheries is a leading driver of sea turtle mortality and population decline, and it occurs far from beaches, largely independent of how many people reside on the coast.",
+        "source_5": "Outbreaks of sea turtle fibropapillomatosis (a herpesvirus-linked disease) can sharply reduce juvenile survival and depress populations even where nesting beaches are intact.",
+        "source_6": "Most sea turtle deaths occur at sea during foraging and migration rather than on nesting beaches, so population declines often reflect offshore threats more than beach crowding."
+    },
+    "answer": "habitat loss"
+}

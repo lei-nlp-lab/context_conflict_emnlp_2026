@@ -1,0 +1,16 @@
+{
+    "question": "Does GATA3 regulate cell-cycle entry and progression in bone marrow hematopoietic stem cells, such that its loss impairs HSC cycling? Answer with Yes or No.",
+    "content": {
+        "source_1": "Therefore, GATA-3 is required for the maintenance of a normal number of LT-HSCs and for their entry into the cell cycle.",
+        "source_2": "Conditional deletion of Gata3 in long-term hematopoietic stem cells left cell-cycle entry and S-phase frequency unchanged at steady state and after 5-fluorouracil challenge, based on BrdU incorporation and Ki-67/DAPI profiling.",
+        "source_3": "Furthermore, Gata3 mutant hematopoietic progenitor cells fail to be recruited into an increased cycling state after 5-fluorouracil-induced myelosuppression.",
+        "source_4": "Bulk and single-cell analyses of adult bone marrow showed that loss of GATA-3 primarily affected lineage output while preserving the fraction of quiescent LT-HSCs, arguing against a role for GATA-3 in regulating cell-cycle progression."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

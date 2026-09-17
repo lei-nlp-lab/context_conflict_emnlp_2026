@@ -1,0 +1,17 @@
+{
+  "qid": 729,
+  "question": "When was the position of Energy Secretary established?",
+  "ambiguous_entity": "Energy secretary",
+  "content": {
+    "source_1": "Secretary of State for Energy and Climate Change Her Majesty's Principal Secretary of State for Energy and Climate Change was a British government cabinet position from 2008 to 2016. The Department for Energy and Climate Change was created on 3 October 2008 when former Prime Minister Gordon Brown reshuffled his Cabinet. The Energy and Climate Change Secretary revived the earlier post of the Secretary of State for Energy as head of the Department of Energy, existing from 1974 to 1992. After which, the Department of Energy was merged into the Department of Trade and Industry under the Conservative government of",
+    "source_2": "United States Secretary of Energy The United States Secretary of Energy is the head of the United States Department of Energy, a member of the Cabinet of the United States, and fifteenth in the presidential line of succession. The position was formed on October 1, 1977 with the creation of the Department of Energy when President Jimmy Carter signed the Department of Energy Organization Act. Originally the post focused on energy production and regulation. The emphasis soon shifted to developing technology for better and more efficient energy sources as well as energy education. After the end of the Cold War,"
+  },
+  "content_pid": [
+    "12550859",
+    "563516"
+  ],
+  "answer": [
+    "2008",
+    "October 1, 1977"
+  ]
+}

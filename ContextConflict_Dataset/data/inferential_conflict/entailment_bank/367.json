@@ -1,0 +1,12 @@
+{
+    "question": "If a mountain range contains mountains made of rocks and weathering can round rocks, what will happen to the shapes of the rocks in the mountain range over time?",
+    "content": {
+        "source_1": "A mountain range is a series of mountains made of solid rock, and those rocks are susceptible to mechanical and chemical weathering that break them into smaller particles.",
+        "source_2": "Weathering produces sediment that is carried away by erosion; when tectonic uplift is minimal or absent, this removal of material lowers peak elevations and rounds the topography over long timescales.",
+        "source_3": "Fluvial erosion tends to widen valleys and deposit sediment in adjacent basins, gradually producing gentler slopes and more subdued relief in aging mountain ranges.",
+        "source_4": "In many orogenic belts, crustal thickening and tectonic uplift continue for millions of years after initial construction, and uplift can at times outpace erosional lowering.",
+        "source_5": "As erosion removes mass from a range, isostatic rebound can raise the land surface, helping to maintain or even increase peak-to-valley relief despite ongoing mass loss.",
+        "source_6": "Under cold-climate conditions, glacial erosion sharpens peaks into horns and carves deep U-shaped valleys and cirques, increasing ruggedness rather than smoothing the terrain."
+    },
+    "answer": "rounding the shapes of the rocks"
+}

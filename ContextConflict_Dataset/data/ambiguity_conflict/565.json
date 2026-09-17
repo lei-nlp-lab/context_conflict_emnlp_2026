@@ -1,0 +1,17 @@
+{
+  "qid": 53347,
+  "question": "When was Cusseta incorporated as a city?",
+  "ambiguous_entity": "Cusseta",
+  "content": {
+    "source_1": "Cusseta, Alabama Cusseta is a town in Chambers County, Alabama, United States. Situated between Opelika and Lanett, it was named for the ancient Creek Indian town of Cusseta. As of the 2010 census, its population was 123. Pat Garrett, the lawman famed for killing the outlaw Billy the Kid, was born near Cusseta in 1850. The community was believed to be unincorporated until 2006, when rediscovered documents indicated that Cusseta had been incorporated as a city in 1853. As the community diminished in size over the years, its status was forgotten. In April, 2007, a petition by a majority of",
+    "source_2": "counties and named for the river that forms its western boundary. The act appointed five commissioners to choose a site for the county seat, which they named Cusseta to commemorate the Creek Indian town that used to exist nearby. The original courthouse is preserved at the tourist attraction of Westville, near Lumpkin. Cusseta was incorporated as a city on December 22, 1855. It is still the only incorporated city in Chattahoochee County. Cusseta briefly prided itself on having the world's tallest man-made structure, the WTVM/WRBL-TV & WVRK-FM Tower, a guyed transmission tower built in 1962 about one mile from the"
+  },
+  "content_pid": [
+    "9146758",
+    "1037950"
+  ],
+  "answer": [
+    "2006, when rediscovered documents indicated that Cusseta had been incorporated as a city in 1853",
+    "December 22, 1855"
+  ]
+}

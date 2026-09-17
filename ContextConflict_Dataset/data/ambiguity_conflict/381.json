@@ -1,0 +1,20 @@
+{
+  "qid": 43083,
+  "question": "Why is the Burns Philp Building significant?",
+  "ambiguous_entity": "Burns Philp Building",
+  "content": {
+    "source_1": "Heritage Register on 2 April 1999 having satisfied the following criteria. The place is important in demonstrating the course, or pattern, of cultural or natural history in New South Wales. The Burns Philp Building is of State significance as building designed for a long established maritime company who continuously occupied and retained ownership of the building from 1901-1997. The place has a strong or special association with a person, or group of persons, of importance of cultural or natural history of New South Wales's history. The building is of State significance for its associations with the company of Burns Philps,",
+    "source_2": "offices, a passenger depot, wharves, warehouses and workshops. The place is important in demonstrating the principal characteristics of a particular class of cultural places. It is important in demonstrating the principal characteristics of a substantial commercial building in which the combined functions of offices and warehouse are reflected in the hierarchy of its classically derived architecture; and of the commercial work of Sydney architects McCredie Bros. The place is important because of its aesthetic significance. It is important in exhibiting a range of aesthetic characteristics valued by the Townsville community, in particular the strong streetscape and townscape contribution it makes",
+    "source_3": "the life or work of a particular person, group or organisation of importance in Queensland's history. As the earliest surviving store of Burns Philp and Company, constructed shortly after its formation, the building has a special association with its founders, the pioneering businessmen Sir James Burns and Sir Robert Philp. The company became one of the largest mercantile providers in Australia and the South Pacific, known as the \"Octopus of the North\" by the 1890s, and during the 20th century was involved in shipping, travel, retail stores, car sales, hardware, pharmaceuticals, perfume manufacture and insurance. Burns Philp and Company was"
+  },
+  "content_pid": [
+    "21011466",
+    "19386441",
+    "19604450"
+  ],
+  "answer": [
+    "It is of State significance as building designed for a long established maritime company who continuously occupied and retained ownership of the building from 1901-1997",
+    "It is important in demonstrating the principal characteristics of a substantial commercial building in which the combined functions of offices and warehouse are reflected in the hierarchy of its classically derived architecture",
+    "As the earliest surviving store of Burns Philp and Company, constructed shortly after its formation, the building has a special association with its founders, the pioneering businessmen Sir James Burns and Sir Robert Philp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 29933,
+  "question": "What was Brentford and Chiswick?",
+  "ambiguous_entity": "Brentford and Chiswick",
+  "content": {
+    "source_1": "Brentford and Chiswick (UK Parliament constituency) Brentford and Chiswick was a constituency 1918 – 1974 centred on the Brentford and Chiswick districts of Middlesex which became parts of west London in 1965. It returned one member (MP) to the House of Commons of the UK Parliament. Its electoral outcomes were Conservative except for siding with the Labour Party's victories which returned the Attlee Ministry (in 1945) and Second Wilson Ministry (in 1966). This former constituency is toward the south-west of the historic county of Middlesex, in what is since 1965 west London. It was established as a division of the",
+    "source_2": "Municipal Borough of Brentford and Chiswick Brentford and Chiswick was a local government district of Middlesex, England from 1927 to 1965. It was created an urban district in 1927 by a merger of the former area of the Brentford Urban District and the Chiswick Urban District. It gained the status of municipal borough in 1932. It included the parishes of Chiswick, New Brentford and Old Brentford. In 1965 the municipal borough was abolished and its former area transferred to Greater London to be combined with that of other districts to form the London Borough of Hounslow. Brentford and Chiswick was"
+  },
+  "content_pid": [
+    "8892223",
+    "6816979"
+  ],
+  "answer": [
+    "A constituency 1918 – 1974 centred on the Brentford and Chiswick districts of Middlesex",
+    "A local government district of Middlesex, England from 1927 to 1965"
+  ]
+}

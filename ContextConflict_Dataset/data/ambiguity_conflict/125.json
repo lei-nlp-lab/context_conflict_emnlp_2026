@@ -1,0 +1,20 @@
+{
+  "qid": 28774,
+  "question": "What is the population of North Washington?",
+  "ambiguous_entity": "North Washington",
+  "content": {
+    "source_1": "North Washington, Colorado North Washington is a census-designated place (CDP) in Adams County, Colorado, United States. The population was 484 at the 2010 census. According to the United States Census Bureau, the CDP has a total area of , of which is land and , or 3.10%, is water. As of the census of 2000, there were 549 people, 231 households, and 134 families residing in the CDP. The population density was 103.3 people per square mile (39.9/km²). There were 244 housing units at an average density of 45.9 per square mile (17.7/km²). The racial makeup of the CDP was",
+    "source_2": "years. 29.9% of residents were under the age of 18; 8.6% were between the ages of 18 and 24; 22.2% were from 25 to 44; 31.6% were from 45 to 64; and 7.7% were 65 years of age or older. The gender makeup of the city was 52.1% male and 47.9% female. As of the census of 2000, there were 118 people, 47 households, and 32 families residing in the city. The population density was 601.2 people per square mile (227.8/km²). There were 49 housing units at an average density of 249.6 per square mile (94.6/km²). The racial makeup of",
+    "source_3": "for a household in the unorganized territory was $29,135, and the median income for a family was $30,375. Males had a median income of $38,375 versus $16,705 for females. The per capita income for the unorganized territory was $15,687. About 18.9% of families and 21.7% of the population were below the poverty line, including 24.3% of those under age 18 and 21.6% of those age 65 or over. North Washington, Maine North Washington is an unorganized territory in Washington County, Maine, United States. The population was 499 at the 2010 census. According to the United States Census Bureau, the unorganized"
+  },
+  "content_pid": [
+    "1026872",
+    "1061389",
+    "1330047"
+  ],
+  "answer": [
+    "484",
+    "118 people",
+    "499"
+  ]
+}

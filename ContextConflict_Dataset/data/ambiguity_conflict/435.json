@@ -1,0 +1,17 @@
+{
+  "qid": 40560,
+  "question": "What is the primary function of Abbot's Kitchen?",
+  "ambiguous_entity": "Abbot's Kitchen",
+  "content": {
+    "source_1": "Abbot's Kitchen, Glastonbury The Abbot's Kitchen is a mediaeval octagonal building that served as the kitchen at Glastonbury Abbey in Glastonbury, Somerset, England. It is a Grade I listed building. The abbot's kitchen has been described as \"one of the best preserved medieval kitchens in Europe\". The stone-built construction dates from the 14th century and is one of a very few surviving mediaeval kitchens in the world. Historically, the Abbot of Glastonbury lived well, as demonstrated by the abbot's kitchen, with four large fireplaces at its corners. The kitchen was part of the opulent abbot's house, begun under Abbot John",
+    "source_2": "Abbot's Kitchen, Oxford The Abbot's Kitchen in Oxford, England, is an early chemistry laboratory based on the Abbot's Kitchen at Glastonbury Abbey, a mediaeval 14th-century octagonal building that served as the kitchen at the abbey. Chemistry was first recognized as a separate discipline at Oxford University with the construction of this laboratory, attached to the Oxford University Museum of Natural History, and opening in 1860. The laboratory is a stone-built structure to the right of the museum, built in the Victorian Gothic style. The building was one of the first ever purpose-built chemical laboratories anywhere and was extended in 1878."
+  },
+  "content_pid": [
+    "18987459",
+    "18987550"
+  ],
+  "answer": [
+    "Served as the kitchen at Glastonbury Abbey",
+    "An early chemistry laboratory"
+  ]
+}

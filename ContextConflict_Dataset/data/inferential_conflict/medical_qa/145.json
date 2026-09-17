@@ -1,0 +1,18 @@
+{
+    "question": "A 9-year-old girl is brought to the physician because her parents are concerned about their daughter's physical changes. She recently started wearing a bra and uses a facial scrub for oily skin. The parents have also noticed increasing body odor. The patient has a history of migraine headaches controlled with propranolol. She is at the 55th percentile for height and 60th percentile for weight. Examination shows separation of areola and breast contours; the nipple and areola form a secondary mound. Coarse dark axillary hair and sparse pubic hair are present. What is the most likely cause of these findings?",
+    "content": {
+        "source_1": "The differential for this patient includes: precocious puberty, exposure to exogenous hormones, and conditions such as McCune-Albright syndrome. This girl has signs of secondary sexual development such as breast development (separation of the areola and breast contour, forming a secondary mound), the presence of pubic hair, and increasing body odor. Considering her age (9 years), these changes are consistent with normal puberty. Precocious puberty typically refers to the onset of secondary sexual development before age 8 in girls. Exposure to exogenous hormones or conditions like McCune-Albright syndrome would present with other signs or symptoms and would be less likely in this scenario. The most likely cause of these findings is normal pubertal development.",
+        "source_2": "This girl is showing signs of puberty including the development of breasts and body odor, which can be related to increased sweat production due to hormonal changes. At the age of 9, this would be considered precocious puberty. The main cause of precocious puberty in girls is often idiopathic, meaning no specific cause can be identified. However, it's important to note that her migraines are treated with propranolol, a non-specific beta blocker, which doesn't have a known side effect of triggering early puberty.",
+        "source_3": "This young girl is showing signs of puberty such as breast development (the separation of areola and breast contours, with the nipple and areola forming a secondary mound), the presence of axillary hair, oily skin, and body odor. These changes are normal for a girl entering puberty. However, the average age of puberty onset for girls is around 10-11 years. Considering her age of 9 years, these signs suggest that she might be experiencing precocious puberty, which is defined as the development of secondary sexual characteristics before the age of 8 in girls.",
+        "source_4": "The prior probability of precocious puberty, which is the development of secondary sexual characteristics before the age of 8 in girls, is approximately 1%. The signs mentioned - wearing a bra, oily skin, body odor, and the development of secondary sexual characteristics like breast development and pubic hair - raise the posterior probability of precocious puberty to 20%. The patient's history of migraine controlled with propranolol is an important clue, as propranolol does not typically induce precocious puberty, so this further increases the probability of precocious puberty to 25%. Considering her height and weight percentiles, they are within normal range for her age, which doesn't significantly affect the probability. Therefore, based on the Bayesian inference, the most likely cause of these findings is precocious puberty."
+    },
+    "answer": [
+        "Normal puberty."
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false,
+        false
+    ]
+}

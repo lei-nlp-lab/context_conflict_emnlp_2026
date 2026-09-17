@@ -1,0 +1,12 @@
+{
+    "question": "Which motion of Earth causes stars to appear to move across the sky at night?",
+    "content": {
+        "source_1": "Over the course of a single night at most latitudes, stars rise in the east, arc across the sky, and set in the west relative to the local horizon; this repeated, daily pattern is widely observed.",
+        "source_2": "Astronomers refer to the apparent daily motion of celestial objects across the sky relative to the horizon as diurnal motion.",
+        "source_3": "Earth rotates once every approximately 23 hours 56 minutes relative to the stars (a sidereal day), which makes the celestial sphere appear to rotate westward and produces diurnal motion.",
+        "source_4": "Earth travels around the Sun at roughly 30 km/s, so an observer’s position in space changes continuously as Earth completes one orbit each year.",
+        "source_5": "When an observer moves, the apparent direction to distant objects shifts (e.g., parallax and aberration), so the observer’s motion can produce apparent displacement of stars in the sky.",
+        "source_6": "Long-exposure night-sky photographs show star trails as circular arcs around the celestial poles over hours, indicating a steady, systematic apparent motion of the stars."
+    },
+    "answer": "Earth rotates on its axis."
+}

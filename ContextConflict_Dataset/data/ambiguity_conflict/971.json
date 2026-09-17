@@ -1,0 +1,20 @@
+{
+  "qid": 20045,
+  "question": "What is the format of Samurai Girl?",
+  "ambiguous_entity": "Samurai Girl",
+  "content": {
+    "source_1": "Samurai Girl (book series) Samurai Girl is a series of six novels by author Carrie Asai. It tells the story of Heaven Kogo, who as a baby was the lone survivor of a plane crash and was adopted by the wealthy Kogo family. At age nineteen, she is arranged to marry Teddy Yukemura, but her wedding is crashed by a ninja that kills her brother. She escapes to find out her lavish life and family isn't what she thought it was and must train under her brother's friend, Hiro, the ways of the samurai to protect herself and loved ones.",
+    "source_2": "Samurai Girl (miniseries) Samurai Girl is a six-hour mini-series loosely based on the popular young-adult novel series by Carrie Asai. The event stars Jamie Chung, Brendan Fehr, and Stacy Keibler. The series began its three-day premiere on ABC Family on September 5, 2008. This story follows Heaven, who at six months old was the sole survivor of a deadly plane crash. The press named her Heaven, because it seemed that she fell from the sky. Soon after, she was adopted by the powerful Kogo Family and lived a very privileged life. But 19 years later, things take an unexpected turn,",
+    "source_3": "Samurai Girl: Real Bout High School The series in which both the manga, and the anime is based upon is the light novel series, written by Reiji Saiga. Original name is Shoukan Kyoushi Real bout High School (召喚教師リアルバウトハイスクール), and unlike the manga and anime, it centres around a teacher who works in Daimon high school. The main story line has 19 volumes, the EX line has 5 volumes, and the ED line has 3 volumes. However, the characters that appear in the novel are more or less identical to the manga and anime (with a few minor adjustments). The story"
+  },
+  "content_pid": [
+    "12387923",
+    "12311740",
+    "5473292"
+  ],
+  "answer": [
+    "a series of six novels",
+    "a six-hour mini-series",
+    "19 volumes in the main story line, 5 volumes in the EX line, and 3 volumes in the ED line"
+  ]
+}

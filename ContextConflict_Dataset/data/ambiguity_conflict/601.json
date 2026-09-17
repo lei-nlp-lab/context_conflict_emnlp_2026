@@ -1,0 +1,20 @@
+{
+  "qid": 24916,
+  "question": "What is the notable feature of Creggan?",
+  "ambiguous_entity": "Creggan",
+  "content": {
+    "source_1": "Creggan, County Tyrone Creggan (Irish: \"creagan\" (A rocky place). is a townland in County Tyrone, Northern Ireland. It is situated in the historic barony of Omagh East and the civil parish of Termonmaguirk and covers an area of 4022 acres. Popular places of tourist interest include the An Creagán centre, located three miles north of Carrickmore on the main Cookstown to Omagh road. Tourists are drawn to the old-fashioned cottages located near the An Creagán centre. The popular traditional folk song, The \"Creggan White Hare\", is named for this townland. The population of the townland declined during the 19th century:",
+    "source_2": "Creggan, Derry \"Creggan\"' (; meaning \"stony place\") is a large housing estate in Derry in Northern Ireland. It is situated on the outskirts of the city and is built on a hill. It is the largest housing estate in the city in terms of population and not electoral wards, which splits Creggan into three and makes Shantallow the largest, as that incorporates other housing estates into one, including Galliagh and Carnhill. The housing estate is very close to the border with County Donegal, Republic of Ireland. Creggan was originally built specifically to provide housing for the growing population of Derry.",
+    "source_3": "Creggan, County Armagh Creggan () is a small village, townland and civil parish near Crossmaglen in County Armagh, Northern Ireland. In the 2001 Census it had a population of 246 people. It lies within the Newry and Mourne District Council area. Creggan Church Yard, near Crossmaglen is home to some of Ireland's best known Gaelic poets. The current Church of Ireland church dates back to 1731 but there is evidence to suggest an earlier Catholic church preceded it. This is the burial place of three 18th century Irish poets: Art MacCooey, Pádraig Mac Aliondain and Séamus Mór MacMurphy. It is"
+  },
+  "content_pid": [
+    "5640039",
+    "9166918",
+    "7611720"
+  ],
+  "answer": [
+    "An Creagán centre",
+    "Large housing estate in Derry in Northern Ireland",
+    "Home to some of Ireland's best known Gaelic poets"
+  ]
+}

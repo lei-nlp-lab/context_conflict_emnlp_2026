@@ -1,0 +1,20 @@
+{
+  "qid": 26648,
+  "question": "What is Anna's main product or service?",
+  "ambiguous_entity": "Anna's",
+  "content": {
+    "source_1": "Anna's Linens Anna's Linens was an American retailer. It was based in Costa Mesa, California. The company was founded in 1987 by Alan Gladstone, who named the store after his mother. The first location opened in Los Angeles, California. In 1993, the chain filed for bankruptcy due to the poor economy of southern California at the time. It emerged from bankruptcy in December 1994. The stores were stocked with household items, with merchandise sold at discounts. Stores were usually 10,000 square feet in size. It had more than 250 stores in 19 states. In early 2012, it partnered with DDR",
+    "source_2": "Anna's Swedish Thins Anna's Swedish Thins or (in Swedish) Annas Pepparkakor is a brand of Swedish ginger thin, produced by the Swedish company \"AB Annas Pepparkakor\" in Tyresö outside Stockholm. In November 2008, it was announced that the Belgian company \"Lotus Bakeries\" was taking over the company, with the intention of distributing the famous cookies all over Europe. The thins are marketed as being under Royal Warrant to the King of Sweden. The company was founded by the sisters Anna and Emma Karlsson in 1929 and has been owned by the Mattsson family since 1963. The company was appointed Purveyor",
+    "source_3": "has an iridescent crimson-red derived from magenta to a reddish-pink crown and gorget, which can look dull brown or gray without direct sunlight and a dark, slightly forked tail. Females also have iridescent red gorgets, though they are usually smaller and less brilliant than the males'. Anna's is the only North American hummingbird species with a red crown. Females and juvenile males have a dull green crown, a grey throat with or without some red iridescence, a grey chest and belly, and a dark, rounded tail with white tips on the outer feathers. These birds feed on nectar from flowers"
+  },
+  "content_pid": [
+    "17190133",
+    "8885179",
+    "2658778"
+  ],
+  "answer": [
+    "Household items",
+    "Swedish ginger thin",
+    "Nectar from flowers"
+  ]
+}

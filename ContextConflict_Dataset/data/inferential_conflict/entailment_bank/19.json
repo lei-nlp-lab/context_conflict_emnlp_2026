@@ -1,0 +1,12 @@
+{
+    "question": "How long does it take Earth to complete one orbit around the Sun?",
+    "content": {
+        "source_1": "In astronomy, a planet’s revolution period is the time required to complete one full orbit around its star.",
+        "source_2": "Earth orbits the Sun; one complete orbit (the tropical year) takes about 365.2422 days.",
+        "source_3": "A solar day is the interval between successive local noons and is roughly 24 hours long.",
+        "source_4": "From one solar noon to the next, Earth has completed one full turn relative to the Sun, bringing the Sun back to the same meridian.",
+        "source_5": "Earth’s rotation period relative to distant stars (the sidereal day) is about 23 hours 56 minutes.",
+        "source_6": "Because Earth advances about 1 degree along its orbit each day, the solar day is about 4 minutes longer than the sidereal day."
+    },
+    "answer": "year"
+}

@@ -1,0 +1,23 @@
+{
+  "qid": 34651,
+  "question": "What is Mary Gray known for?",
+  "ambiguous_entity": "Mary Gray",
+  "content": {
+    "source_1": "of the original founders and first president of the Social Science Club of Kansas and Western Missouri, she gave impetus to intellectual culture in those localities, and she saw the organization grow from a small number to a membership of 500 women of the two States. She is also remembered for scientific and artistic work. In 1859, she attended the Wyandotte constitutional convention with Clarina I. H. Nichols and \"Mother Armstrong\", attempting to have the vote for women included in the state constitution. As a leader in the women's clubs for art, education, literary and philanthropic purposes, Gray wielded an",
+    "source_2": "founder and first president of the Association for Women in Mathematics and chair of the American Middle East Education and Training Services. Dr. Gray is a fellow of the American Statistical Association and the American Association for the Advancement of Science, and is the recipient of the Presidential Award for Excellence in Science, Engineering and Mathematics Mentoring. She is the author of two books and over eighty articles and has lectured throughout the United States, Europe, Latin America, and the Middle East, on these important topics.\" Gray has received the Presidential Award for Excellence in Science, Engineering, and Mathematics Mentoring",
+    "source_3": "Bessy Bell and Mary Gray Bessy Bell and Mary Gray are \"twa bonnie lassies\", the subject of one of the Child Ballads. According to the ballad, Bessy and Mary were daughters of two Perthshire gentlemen, who in 1666 built themselves a bower to avoid catching a devastating plague. The girls were supplied with food by a lad in love with both of them; the lad caught the plague and gave it to them, and all three sickened and died. Two similar hills near Omagh, County Tyrone (Northern Ireland) were named after Bessy Bell and Mary Gray by Scottish immigrants who",
+    "source_4": "Mary Gray (socialist) Mary Gray (11 January 1854 – 1941) was a British socialist activist. Born near Wokingham as Mary Rogers, she fell into poverty when she was fifteen. She found work as a domestic servant, and in 1876 married Willie Gray, a stonemason and trade unionist. Because of his trade union activity, Willie was often unable to find work, and the couple lived in hardship for some time. In 1887, Gray joined the Social Democratic Federation (SDF). During the London dock strike of 1892, she ran a soup kitchen, and this contact with the children of the workers led"
+  },
+  "content_pid": [
+    "20098815",
+    "12067034",
+    "6225246",
+    "20992935"
+  ],
+  "answer": [
+    "intellectual culture, scientific and artistic work",
+    "founder and first president of the Association for Women in Mathematics, and chair of the American Middle East Education and Training Services",
+    "1666 built a bower to avoid catching a devastating plague",
+    "1876 married Willie Gray, a stonemason and trade unionist. Because of his trade union activity, Willie was often unable to find work, and the couple lived in hardship for some time"
+  ]
+}

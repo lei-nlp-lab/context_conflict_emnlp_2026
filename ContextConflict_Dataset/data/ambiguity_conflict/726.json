@@ -1,0 +1,17 @@
+{
+  "qid": 15740,
+  "question": "What is Friday Harbor?",
+  "ambiguous_entity": "Friday Harbor",
+  "content": {
+    "source_1": "is available seasonally, only (i.e., May to October). The Friday Harbor Airport features limited airline service. The midtown Friday Harbor Seaplane Base is also served by regular daily float plane scheduled services from the downtown pier to Seattle's Lake Union seaplane terminal. Seasonal passenger ferry service is available from Bellingham, Port Townsend and Seattle to Friday Harbor. On the island, there are taxis, shuttles, bicycles, and mopeds for rent. The town of Friday Harbor houses the world-famous marine biology facility, Friday Harbor Laboratories, a field station of the University of Washington. The town has several schools, including the public Friday",
+    "source_2": "Friday Harbor Laboratories Friday Harbor Laboratories (FHL), is a marine biology field station of the University of Washington, located in Friday Harbor, San Juan Island, Washington, United States. Friday Harbor Labs is known for its intensive summer classes offered to competitive graduate students from around the world in fields of marine biology and other marine sciences. Autumn and spring academic terms include courses designed for advanced undergraduates as well as graduate students; most spring and fall classes run 10 weeks and feature an original research component. In addition to serving students, Friday Harbor Laboratories has a small resident scientific staff"
+  },
+  "content_pid": [
+    "1246267",
+    "10317219"
+  ],
+  "answer": [
+    "a location in Washington",
+    "a marine biology field station of the University of Washington"
+  ]
+}

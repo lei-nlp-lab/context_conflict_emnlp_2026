@@ -1,0 +1,12 @@
+{
+    "question": "Why does recycling paper reduce the need to cut down trees?",
+    "content": {
+        "source_1": "Using recycled paper as pulp reduces the amount of virgin wood fiber required to make new paper products.",
+        "source_2": "Conventional paper is manufactured primarily from wood pulp, which comes from trees.",
+        "source_3": "Harvested trees are a natural resource that supplies raw material for products like paper.",
+        "source_4": "Making wood pulp for paper entails harvesting (cutting) trees and processing the wood into fibers.",
+        "source_5": "Paper fibers shorten and weaken each time they are recycled; therefore, paper production always requires some proportion of fresh (virgin) wood fiber to maintain strength and quality.",
+        "source_6": "A substantial share of virgin fiber for paper comes from sawmill residues and from trees grown in sustainably managed plantations that are replanted, making the supply renewable."
+    },
+    "answer": "using recycled paper reduces the cutting of new trees."
+}

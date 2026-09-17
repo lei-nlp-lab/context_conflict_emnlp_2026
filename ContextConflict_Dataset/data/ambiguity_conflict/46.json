@@ -1,0 +1,17 @@
+{
+  "qid": 11092,
+  "question": "Who are some of the actors featured in the film \"Hidden in the Woods\"?",
+  "ambiguous_entity": "Hidden in the Woods",
+  "content": {
+    "source_1": "Hidden in the Woods (2012 film) Hidden in the Woods () is a 2012 Chilean splatter film directed by Patricio Valladares and co-written by Andrea Cavaletto and Valladares. It features a mixed cast of relatively unknown actors and well-known Chilean comedians, including Siboney Lo, Carolina Escobar, Daniel Antivilo, José Hernandez, Domingo Guzman, Daniel Candia and Nicole Perez. An English-language remake with the same name, also directed by Valladares, was released in 2014. Ana and Anny live, along with their deformed brother/son, in the desolate southern Chilean countryside, after having been sheltered from society by their drug dealer father for their",
+    "source_2": "Hidden in the Woods (2014 film) Hidden in the Woods is a 2014 American thriller film directed by Patricio Valladares and starring Michael Biehn. The film also stars Jennifer Blanc and William Forsythe. It is a remake of Valladares' 2012 film of the same name. Biehn and Blanc serve as producers of the film. The film was shot in Texas. Luiz H.C. of Bloody Disgusting gave the film a mixed review and wrote \"only the most desensitized of horror-hounds will enjoy this peculiar remake.\" Matt Boiselle of Dread Central awarded the film two and a half stars out of five."
+  },
+  "content_pid": [
+    "17295530",
+    "17288480"
+  ],
+  "answer": [
+    "Siboney Lo, Carolina Escobar, Daniel Antivilo, José Hernandez, Domingo Guzman, Daniel Candia and Nicole Perez",
+    "Michael Biehn, Jennifer Blanc, and William Forsythe"
+  ]
+}

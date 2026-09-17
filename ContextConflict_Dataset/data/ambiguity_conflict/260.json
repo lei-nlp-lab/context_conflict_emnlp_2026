@@ -1,0 +1,20 @@
+{
+  "qid": 43503,
+  "question": "What is the district where Dosanjh is located?",
+  "ambiguous_entity": "Dosanjh",
+  "content": {
+    "source_1": "Dosanjh, Moga Dosanjh is a village in Indian Punjab. It is situated in Moga district on Amritsar Barnala road. The village is divided in four \"pattis\" or streets, Kalha Patti, Gajju Patti, Budhu Patti, Rama Patti. Nearest villages are Talwandi Bhangerian, Landheke, Lohara, Fatehgarh Korotana. The village is home to the Sangha jat Sikh people and approximately 10% of the population from the Tonk Kashatria clan has lived there since 1800. The village was formerly known as Dosanjh Bhai Ka. There are two gurdwaras. The old gurdwara is on the northeast side which also house the 'janjh ghar'. The south",
+    "source_2": "Dosanjh Kalan Dosanjh Kalan is a village in Phillaur tehsil of Jalandhar District of Punjab State, India. It is situated on Phagwara-Mukandpur road. The village is from Phagwara, from Banga, from Jalandhar, and from the state capital at Chandigarh. The village is administrated by a Sarpanch who is the elected representative of the village. The village has population of 3883 and in the village most of the villagers are from schedule caste (SC) which has constitutes 45.66% of total population of the village and it doesn't have any Schedule Tribe (ST) population. The village has a girls only upper primary",
+    "source_3": "party resigned in 1999, Dosanjh put himself forward as a candidate and won the leadership vote. With the win he became Canada's first Indo-Canadian provincial leader. He served as the 33rd Premier of British Columbia until June 2001 when he lost the province's general election. He was the last NDP premier of the province until John Horgan was elevated to the position in 2017. Born in a village in the Jalandhar district of Punjab, India, Dosanjh emigrated to the United Kingdom at the age of 17 before moving to Canada almost four years later. He worked numerous manual labour jobs"
+  },
+  "content_pid": [
+    "13227917",
+    "19584205",
+    "1596506"
+  ],
+  "answer": [
+    "Moga district",
+    "Jalandhar District of Punjab State, India",
+    "Jalandhar district of Punjab, India"
+  ]
+}

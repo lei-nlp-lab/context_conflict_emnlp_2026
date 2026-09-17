@@ -1,0 +1,12 @@
+{
+    "question": "Is Antarctic polar ice a freshwater reservoir?",
+    "content": {
+        "source_1": "The answer choices provided are: Baltic Sea; Vatnajökull Glacier; Lake Baikal; and Salar de Uyuni.",
+        "source_2": "In this multiple-choice set, exactly one option is correct for each question.",
+        "source_3": "Glaciers are masses of ice formed from compacted snow that store vast amounts of water on land; glacial ice is essentially fresh water, so glaciers are a freshwater reservoir in Earth’s water cycle.",
+        "source_4": "Lake Baikal is a freshwater lake containing about 20% of Earth’s unfrozen surface freshwater, making it a major freshwater reservoir.",
+        "source_5": "The Baltic Sea is brackish (salinity between freshwater and seawater), not a freshwater body.",
+        "source_6": "Salar de Uyuni is a vast salt flat; when it floods seasonally the water is shallow and saline, so it does not function as a reservoir of freshwater."
+    },
+    "answer": "Antarctic polar ice"
+}

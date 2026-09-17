@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'John started his current job in 1990.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "The Blake McFall Company Building was added to the National Register of Historic Places in 1990.",
+        "source_2": "The Emmet Building is a five-story building in Portland, Oregon.",
+        "source_3": "The Emmet Building was constructed in 1915.",
+        "source_4": "The Emmet Building and the Blake McFall Company Building are the same building.",
+        "source_5": "John works at the Emmet Building.",
+        "source_6": "The building’s 1990 historic designation prompted renovations and new hiring that year.",
+        "source_7": "The building housed long-standing tenants through the 1980s, so some employees were already working there before 1990."
+    },
+    "answer": "Uncertain"
+}

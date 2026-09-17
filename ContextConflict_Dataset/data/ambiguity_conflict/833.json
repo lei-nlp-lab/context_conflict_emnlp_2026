@@ -1,0 +1,17 @@
+{
+  "qid": 54104,
+  "question": "What is Agnes Irwin best known for?",
+  "ambiguous_entity": "Agnes Irwin",
+  "content": {
+    "source_1": "Agnes Irwin (educator) Agnes Irwin (December 30, 1841 – December 5, 1914) was an American educator, best known as the first dean of Radcliffe College from 1894 to 1909 and as the principal from 1869 to 1894 of the West Penn Square Seminary for Young Ladies in Philadelphia, later renamed, in her honor, the Agnes Irwin School. Today, The Agnes Irwin School continues to be a leader in girls' education with 700 girls enrolled in pre-kindergarten to 12th grades. The school is currently located in suburban Rosemont, Pennsylvania, 10 miles west of Philadelphia. Irwin was born in Washington, DC, the",
+    "source_2": "Agnes Irwin School The Agnes Irwin School is a non-sectarian college preparatory day school for girls from pre-kindergarten through grade 12. It was founded in 1869 by Agnes Irwin in Philadelphia. Irwin, a great-great-granddaughter of Benjamin Franklin, later became the first dean of Radcliffe College. In 1933, the campus moved to Wynnewood, Pennsylvania, and then to its present location in Rosemont in 1961. The campus in Rosemont, is west of Philadelphia. The eighteen-acre campus in a suburban setting includes a self-contained Lower School with its own gym, dining room, library, and arts, science and music rooms. The Middle School, Upper"
+  },
+  "content_pid": [
+    "7156256",
+    "9399802"
+  ],
+  "answer": [
+    "being the first dean of Radcliffe College",
+    "The Agnes Irwin School is a non-sectarian college preparatory day school for girls from pre-kindergarten through grade 12"
+  ]
+}

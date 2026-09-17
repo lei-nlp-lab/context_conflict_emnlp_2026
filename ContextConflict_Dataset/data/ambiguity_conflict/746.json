@@ -1,0 +1,17 @@
+{
+  "qid": 52272,
+  "question": "What is the political affiliation of Hardan?",
+  "ambiguous_entity": "Hardan",
+  "content": {
+    "source_1": "Assaad Hardan Assaad Hardan (Arabic: أسعد حردان, born 1951 in Rachaya Al Foukhar) is a Lebanese politician and the leader of the Syrian Social Nationalist Party in Lebanon. He joined in 1968 the Syrian Social Nationalist Party and became leader of the Central Political Bureau, after a highly controversial role during the civil war. His mental instability and corruption, specifically during the civil war has been well documented. The SSNP under his guidance has been known for numerous assassinations of a number of high profile targets who were either anti-Syrian (under the Assad family regime) and/or pro-U.S under direct orders",
+    "source_2": "most power among the three because he was the leader of the Ba’thist Party at the time. Bakr was also a member of the Ba’th Party; Arif, on the other hand, was not. The government setup with Arif, Sa’di, and Bakr had no firm foundation because of the way that these men assumed their positions (the coup) of power. There was also an inability to find stability and common agreement among the three men. Opposing views began to surface as a result of unresolved opinions regarding the direction of the state of Iraq and an imbalance of power between Arif,"
+  },
+  "content_pid": [
+    "15319856",
+    "11031071"
+  ],
+  "answer": [
+    "Syrian Social Nationalist Party",
+    "Ba’thist Party at the time"
+  ]
+}

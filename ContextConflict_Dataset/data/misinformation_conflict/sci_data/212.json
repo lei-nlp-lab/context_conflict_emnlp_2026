@@ -1,0 +1,14 @@
+{
+    "question": "In adults with subacromial impingement syndrome, do targeted scapular stabilizer exercise programs lead to greater reductions in pain and improvements in shoulder function than general exercise therapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION A specific exercise strategy, focusing on strengthening eccentric exercises for the rotator cuff and concentric/eccentric exercises for the scapula stabilisers, is effective in reducing pain and improving shoulder function in patients with persistent subacromial impingement syndrome",
+        "source_2": "There was no greater improvement in the Constant-Murley score with the specific scapular-focused program than with general exercise therapy at 12 weeks (10 points [95% CI 6 to 14] vs 12 points [8 to 16]; adjusted mean difference -2.0 points [-6.5 to 2.5])",
+        "source_3": "Patients' global assessment of change did not differ meaningfully between groups in a community-based trial: 41% (21/51) in the specific exercise group versus 38% (17/45) in the control group; odds ratio 1.1 (0.5 to 2.3), P=0.78"
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

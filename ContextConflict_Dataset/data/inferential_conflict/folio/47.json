@@ -1,0 +1,10 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Some pets do not have fur.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "All rabbits have fur.",
+        "source_2": "Some pets are rabbits.",
+        "source_3": "Some pets are fish.",
+        "source_4": "Fish do not have fur."
+    },
+    "answer": "True"
+}

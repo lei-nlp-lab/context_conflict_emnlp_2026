@@ -1,0 +1,23 @@
+{
+  "qid": 56846,
+  "question": "What triggered the Fremantle by-election?",
+  "ambiguous_entity": "Fremantle by-election",
+  "content": {
+    "source_1": "1990 Fremantle state by-election The Fremantle state by-election, 1990 was a by-election held on 26 May 1990 for the Western Australian Legislative Assembly seat of Fremantle in the southern suburbs of Perth. The by-election was triggered by the resignation of Labor member and former Deputy Premier David Parker on 26 April 1990. The seat of Fremantle, first established in 1890, was considered to be a safe seat for the Labor Party. The by-election attracted eleven candidates. Of these, four were notable—Jim McGinty, the Labor candidate, was the secretary of the Miscellaneous Workers' Union. Arthur Marshall, the Liberal candidate, was a",
+    "source_2": "1994 Fremantle by-election The 1994 Fremantle by-election was held in the Australian federal electorate of Fremantle in Western Australia on 12 March 1994. The by-election was triggered by the retirement of the sitting member, the Australian Labor Party's John Dawkins, on 4 February 1994. The writ for the by-election was issued on the same day. John Dawkins had held Fremantle for the Labor Party since 1977, and he had been a minister in the Hawke and Keating governments, and had been Treasurer since December 1991. When the Cabinet rebelled against the budget he brought down in August 1993, Dawkins resigned",
+    "source_3": "2009 Fremantle state by-election The 2009 Fremantle state by-election was held in the Western Australian Legislative Assembly district of Fremantle on 16 May 2009. It was triggered by the resignation of sitting member Jim McGinty. The Labor Party was defending a seat that they had held continuously since 1924. The by-election was held in conjunction with the state referendum on daylight saving hours. The Greens candidate, Adele Carles, won the by-election, and in doing so became the first Greens candidate to be elected to an Australian state lower house of parliament in a single-member seat. First elected to parliament at",
+    "source_4": "2018 Fremantle by-election A by-election for the Australian House of Representatives seat of Fremantle took place on Saturday 28 July 2018, following the resignation of incumbent Labor MP Josh Wilson. In early counting, within 90 minutes of the close of polls, the Australian Broadcasting Corporation's psephologist Antony Green's electoral computer had predicted Labor to retain the electorate with an increased margin. It is notable for being the first time that a Liberal Democrats candidate won a two-candidate-preferred spot in a federal election. Due to the High Court ruling against Senator Katy Gallagher on 9 May 2018 as part of the"
+  },
+  "content_pid": [
+    "11729199",
+    "12292693",
+    "13208274",
+    "20706013"
+  ],
+  "answer": [
+    "The resignation of Labor member and former Deputy Premier David Parker",
+    "The retirement of the sitting member, the Australian Labor Party's John Dawkins",
+    "The resignation of sitting member Jim McGinty",
+    "Resignation of incumbent Labor MP Josh Wilson"
+  ]
+}

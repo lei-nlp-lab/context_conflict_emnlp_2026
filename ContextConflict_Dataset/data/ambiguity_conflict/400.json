@@ -1,0 +1,23 @@
+{
+  "qid": 11549,
+  "question": "Where is Portland High School located?",
+  "ambiguous_entity": "Portland High School",
+  "content": {
+    "source_1": "Portland High School (Maine) Portland High School is a public high school established in 1821 in Portland, Maine (Cumberland County), which educates grades 9–12. The school is part of the Portland Public Schools district. It is located at 284 Cumberland Avenue in downtown Portland. Established in 1821 originally as a boys' school, Portland High School is one of the oldest high schools in the United States. Joseph Libbey was its first principal. A separate school for girls was added in 1850, and in 1863 the school moved to Cumberland Avenue, its present location. The original school building on that site,",
+    "source_2": "South Portland High School South Portland High School is a public high school located in South Portland, Maine. The first high school in what is now South Portland was built in 1874 while the City was part of Cape Elizabeth, Maine. The school was on the 2nd floor of a new municipal building built in 1874 until that building burnt down in 1921. The current building on Highland Avenue was erected in 1952, with a gymnasium added in 1958, an annex in 1962, and an auditorium and cafeteria in 1997. It was originally built for middle school students until the",
+    "source_3": "of Christian Schools International, which is recognized by the state of Kentucky. PCS is a charter member of the Kentucky Christian Athletic Conference and is a member of the Kentucky High School Athletic Association (KHSAA). The PCS Eagles won the 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, and 2005 KHSAA District 21 Baseball Championship. Former PCS Athletic Director W. Eugene Schriener is a member of the Metro (Louisville) Area Athletic Directors Hall of Fame. Portland Christian School Portland Christian School, based in Louisville, Kentucky, United States, is a private Christian school traditionally supported and affiliated with those Churches of",
+    "source_4": "and Mr. Fred Lazenby became vice principals. The Sumner County Vocational Center officially became a part of Portland High School. Before his retirement in November 1998, Mr. Short oversaw the planning and building of the new school located at 600 College Street. Having formerly served as interim principal from January to July 1994 and as assistant principal from July 1994 to November 1998, Janet Grogan became principal in November 1998. Mr. Dale Sprouse became the new vice principal at this time. In 2002, Mr. Fred Lazenby retired from his vice principalship. Mr. Sprouse retired in the spring of 2005 and"
+  },
+  "content_pid": [
+    "5724635",
+    "5751021",
+    "7254791",
+    "11907210"
+  ],
+  "answer": [
+    "284 Cumberland Avenue in downtown Portland",
+    "South Portland, Maine",
+    "Louisville, Kentucky, United States",
+    "600 College Street"
+  ]
+}

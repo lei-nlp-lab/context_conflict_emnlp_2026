@@ -1,0 +1,12 @@
+{
+    "question": "What effect will heavy rain falling in a short time period most likely have on the amount of nutrients in the soil?",
+    "content": {
+        "source_1": "Hydrology texts note that intense, short-duration rainfall commonly exceeds infiltration capacity on saturated or impervious surfaces, producing rapid runoff that can trigger flash flooding in urban basins.",
+        "source_2": "The Brookvale catchment is roughly 65% impervious with steep local slopes; after several consecutively wet days, soils are near field capacity, and undersized storm sewers have a history of surcharging during cloudbursts.",
+        "source_3": "This year, Brookvale completed a district-wide network of detention basins, bioswales, green roofs, and permeable pavement, adding distributed storage and infiltration designed to handle up to a 10-year, 1-hour storm without street flooding.",
+        "source_4": "A recent six-week rain deficit and heatwave have left Brookvale’s soils unusually dry, with field tests showing initial infiltration rates above 25 mm per hour at storm onset.",
+        "source_5": "Forecasters expect a convective thunderstorm to deliver approximately 25–35 mm of rain over 45 minutes across the Brookvale area.",
+        "source_6": "Stormwater science indicates green infrastructure most effectively reduces peak runoff when antecedent soil moisture is low; conversely, saturated catchments and small, steep basins respond quickly to intense rain, raising flash-flood risk."
+    },
+    "answer": "reduce the amount of nutrients in the soil."
+}

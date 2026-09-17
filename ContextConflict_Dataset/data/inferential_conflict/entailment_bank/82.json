@@ -1,0 +1,12 @@
+{
+    "question": "When a solid object is moved from Earth to deep space, which changes more: its mass or its weight?",
+    "content": {
+        "source_1": "The gravitational force that Earth exerts on an object falls off with the inverse square of distance; far from Earth (many Earth radii away), that force is orders of magnitude smaller than at Earth’s surface.",
+        "source_2": "Weight is the gravitational force acting on an object; as the local gravitational field weakens, the object’s weight decreases proportionally.",
+        "source_3": "An object’s mass is invariant with location, and a rigid solid’s dimensions/volume change negligibly if its temperature and internal state are held constant.",
+        "source_4": "The object is kept inside a rotating spacecraft whose radius and rotation rate are chosen to provide about 1 g of artificial gravity, so a spring scale inside reads nearly the same weight as it would on Earth.",
+        "source_5": "In space, without active thermal control, a sunlit object in vacuum can heat by tens to over 100 K; most solids have positive thermal expansion, and many polymers (and some metals) show percent-level volumetric expansion over such temperature increases.",
+        "source_6": "Removing the ~1 atm external pressure present on Earth eliminates a compressive load; compliant or porous solids can expand measurably in vacuum when that load is removed, adding to any thermally driven volume increase."
+    },
+    "answer": "weight"
+}

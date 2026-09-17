@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If Modus Ponens either derives general principles from a body of observations and is used for statistical generalization, or neither, then Modus Ponens is is neither used in inductive reasoning  nor used for statistical generalization.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every inductive reasoning process derives general principles from observations.",
+        "source_2": "The major types of reasoning rules are inductive reasoning and deductive reasoning.",
+        "source_3": "Every deductive reasoning process is based only on facts and rules.",
+        "source_4": "Nothing that is based only on facts and rules is used for statistical generalization.",
+        "source_5": "Modus Ponens is not both used in inductive reasoning and used for statistical generalization.",
+        "source_6": "Modus Ponens is a component of one of the major types of reasoning rules.",
+        "source_7": "Any component of a major type of reasoning rule is used within that type.",
+        "source_8": "Any rule used to derive general principles from observations is used for statistical generalization."
+    },
+    "answer": "True"
+}

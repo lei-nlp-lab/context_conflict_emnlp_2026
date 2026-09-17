@@ -1,0 +1,20 @@
+{
+  "qid": 12656,
+  "question": "What is the profession of Goodeve?",
+  "ambiguous_entity": "Goodeve",
+  "content": {
+    "source_1": "Grant Goodeve Grant Goodeve (born July 6, 1952) is an American actor and television host. He is best known for playing the role of David Bradford, the oldest son, on \"Eight Is Enough\", from 1977 to 1981. He sang the theme song for the show as well. More recent work includes Home & Garden Television and voice roles, such as the Engineer in the multiplayer video game \"Team Fortress 2\" and as Wolf O'Donnell in \"\". Goodeve was born in Middlebury, Connecticut. He moved to Los Angeles, California, in 1975. His earliest role was on a fifth-season episode of \"Emergency!\"",
+    "source_2": "Thyrza Nichols Goodeve Thyrza Nichols Goodeve is a writer, interviewer, artist, and teacher active in the field of contemporary art and culture. Goodeve was born in Middlebury, Connecticut, where she lived until her family moved to Windham, Vermont. Her brother is actor Grant Goodeve, and she is a great-great-granddaughter of the Vermont politician and Union Army Colonel William T. Nichols. She attended the Westover School in Middlebury, Connecticut and Northfield Mount Hermon School (NMH) in Massachusetts. In 1975, through NMH, she attended the American School of Tangier where she met Paul Bowles and Mohammed Mrabet, key influences on her career",
+    "source_3": "Manitoba, passing his B.Sc. exams in 1925 in chemistry and physics, and receiving an M.Sc. electrochemistry in 1927. In that year he was awarded an 1851 Research Fellowship from the Royal Commission for the Exhibition of 1851, to study at University College London, where he studied under Fred Donnan. Goodeve was appointed a Lecturer in Physical Chemistry in 1930 and Reader in 1937. He was awarded the D.Sc. from the University of London in 1936 for his work with Donnan, and was elected a Fellow of the Royal Society in 1940. After the war, Goodeve became the Director of the"
+  },
+  "content_pid": [
+    "6644316",
+    "13062733",
+    "7733697"
+  ],
+  "answer": [
+    "Actor and television host",
+    "Writer, interviewer, artist, and teacher active in the field of contemporary art and culture",
+    "Physical Chemistry"
+  ]
+}

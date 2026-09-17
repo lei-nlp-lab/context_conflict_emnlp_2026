@@ -1,0 +1,12 @@
+{
+    "question": "What directly causes the pull of gravity on Earth?",
+    "content": {
+        "source_1": "Newton’s law of universal gravitation states that the gravitational force between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between their centers; near Earth’s surface this yields g ≈ GM⊕/R⊕^2 ≈ 9.8 m/s², tying the pull primarily to Earth’s mass.",
+        "source_2": "In general relativity, gravity is spacetime curvature caused by energy and momentum; for a planet like Earth, its mass-energy content overwhelmingly generates the local gravitational field that accelerates objects downward.",
+        "source_3": "Earth’s rotation produces a centrifugal acceleration that opposes gravity; at the equator this reduces the weight measured on a scale by about 0.3% (≈0.034 m/s²), while at the poles there is no such reduction.",
+        "source_4": "Observed surface gravity varies with latitude and is higher at the poles and lower at the equator; this pattern is explained by Earth’s rotation and its resulting equatorial bulge altering the effective acceleration experienced at the surface.",
+        "source_5": "The Moon and Sun slightly modify the gravitational acceleration at Earth’s surface; their tidal forces produce measurable daily variations in g and raise ocean and crustal tides.",
+        "source_6": "Earth’s mass is about 5.97×10^24 kg and its standard gravitational parameter GM ≈ 3.986×10^14 m³/s²; using these values with Earth’s mean radius yields a surface gravity close to the measured 9.81 m/s²."
+    },
+    "answer": "mass of Earth."
+}

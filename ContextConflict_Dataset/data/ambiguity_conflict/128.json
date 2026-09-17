@@ -1,0 +1,23 @@
+{
+  "qid": 49061,
+  "question": "What is the enrolment size of St Clare's School?",
+  "ambiguous_entity": "St Clare's School",
+  "content": {
+    "source_1": "St Clare's College, Canberra St Clare's College is a Catholic school in the south Canberra suburb of Griffith, Australian Capital Territory, Australia, catering for girls from grades 7 to 12. The college was established in 1965. St Clare's had an enrolment of approximately 1000 students, making it the largest Catholic girls' secondary school in Canberra. All students participate in a broad academic program and many extra-curricular activities within the context of the Catholic tradition. On 15 September 2010 St Clare's College students broke a Guinness World Record for the most (872) girls patting their heads and rubbing their stomachs. St",
+    "source_2": "St Clare's College, Waverley St Clare's College is a Roman Catholic, day school for girls, located in Waverley, in the Eastern Suburbs of Sydney, New South Wales, Australia. Established in 1884 by the Poor Clare Sisters, St Clare's has a non-selective enrolment policy and currently caters for approximately 500 girls from Year 7 to 12. The college is a school of the Archdiocese of Sydney. The school is affiliated with the Catholic Girls Secondary Schools Sporting Association (CGSSSA) and is a member of the Association of Heads of Independent Girls' Schools (AHIGS). St Clare's College is unique in that it",
+    "source_3": "provider of the International Baccalaureate Diploma in England. Over 150 different nationalities are represented, of which about 15% are from Britain. St Clare's also provides a Pre-IB course which is an excellent preparation for the full IB Diploma. During the Summer, St Clare's offers an IB Introduction course for those wishing to experience a two-week taster of the IB programme. The college is authorised to run IB Teacher Workshops for both new and experienced teachers in co-operation with the International Baccalaureate Organisation (IBO). In May 2018, for the 12th time in 13 years, we have a student gaining 45 points,",
+    "source_4": "St Clare's School, Newton St Clare's School is a coeducational independent school, located in the village of Newton (near Porthcawl), in Bridgend County Borough, South Wales. St. Clare's is a non-selective Independent school attended by pupils aged 3 through to 18. The school provides preparatory, secondary and tertiary education leading to GCSE and A-level qualifications. Formerly a Roman Catholic school, it is now owned and operated by the Cognita Group. In 1938, the Rev. Canon James of Newton invited the Sisters of St Clare from Newry, County Down, Northern Ireland to open a secondary day-school for girls in their new"
+  },
+  "content_pid": [
+    "11572828",
+    "10124313",
+    "6662598",
+    "8233802"
+  ],
+  "answer": [
+    "approximately 1000 students",
+    "approximately 500 girls from Year 7 to 12",
+    "150 different nationalities are represented, of which about 15% are from Britain",
+    "3-18 years old"
+  ]
+}

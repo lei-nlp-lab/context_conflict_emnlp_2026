@@ -1,0 +1,11 @@
+{
+    "question": "When a rocket escapes Earth’s gravitational pull, which remains constant and which changes: its mass or its weight?",
+    "content": {
+        "source_1": "Changing the strength of gravity acting on an object does not alter the amount of matter it contains; gravity alone does not change an object's mass.",
+        "source_2": "An object’s weight with respect to a planet is the gravitational force from that planet; on an escape trajectory far from the planet, that force (and thus its weight relative to that planet) falls off with distance and approaches zero.",
+        "source_3": "Chemical rockets accelerate by expelling propellant; as propellant is burned and expelled, the rocket’s remaining mass decreases over the course of ascent.",
+        "source_4": "Multistage launchers discard empty stages during ascent; by the time a spacecraft is placed on an Earth-escape trajectory, substantial propellant has been spent and stages may have been jettisoned, leaving a much smaller mass than at liftoff.",
+        "source_5": "To reach Earth escape, most of the required velocity change is delivered while still deep in Earth’s gravity well (e.g., during ascent and escape-injection burns), so the associated propellant consumption—and resulting mass loss—occurs before the vehicle is free of Earth’s pull."
+    },
+    "answer": "The mass will stay the same, but the weight will change."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 9000,
+  "question": "What was the duration of the term of Governor Pattison?",
+  "ambiguous_entity": "Governor Pattison",
+  "content": {
+    "source_1": "John M. Pattison John M. Pattison (June 13, 1847 – June 18, 1906) was a Democratic politician from Ohio. Pattison was the 43rd Governor of Ohio, serving for a shorter period than any other person elected to the office before his death. Pattison was born near Owensville, Ohio. He joined the Union Army during the American Civil War in 1864. After the war ended, Pattison attended Ohio Wesleyan University, graduating in 1869. He graduated from Cincinnati Law School in 1872, and was admitted to the bar in 1872. Pattison briefly served in the Ohio House of Representatives in 1873 before",
+    "source_2": "took the governor's office back from a succession of Republican administrations. Under the constitution of 1874, Pennsylvania governors, now serving a 4-year term, were prevented from seeking two consecutive terms. Pattison's opponent in the 1882 election, James Addams Beaver, held the post for a term before Pattison sought the office once again in 1890. During his second term, he ordered state militia to halt the Homestead Strike. A key to Pattison's success was his close relationship with the Democratic leader of Philadelphia, retired General Lewis Cassidy. He studied law under Cassidy, and was admitted to the bar at the age"
+  },
+  "content_pid": [
+    "3221609",
+    "2561405"
+  ],
+  "answer": [
+    "a shorter period than any other person elected to the office before his death",
+    "a 4-year term, were prevented from seeking two consecutive terms"
+  ]
+}

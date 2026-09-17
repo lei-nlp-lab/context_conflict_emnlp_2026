@@ -1,0 +1,16 @@
+{
+    "question": "Does tirasemtiv (CK-2017357) selectively target fast-twitch skeletal muscle by binding the fast-skeletal troponin complex? Answer with Yes or No.",
+    "content": {
+        "source_1": "Binding selectively to the fast-skeletal-troponin complex, CK-2017357 slows the rate of calcium release from troponin C and sensitizes muscle to calcium.",
+        "source_2": "In a randomized, double-blind crossover study using human soleus biopsies and murine muscle preparations, tirasemtiv selectively enhanced calcium responsiveness in slow-twitch (type I) fibers, while fast-twitch extensor digitorum longus fibers showed no change, indicating preferential activation of slow-skeletal troponin.",
+        "source_3": "We developed a small-molecule fast-skeletal-troponin activator, CK-2017357, as a means to increase muscle strength by amplifying the response of muscle when neural input is otherwise diminished secondary to neuromuscular disease.",
+        "source_4": "Radioligand binding and in vivo microdialysis demonstrated that CK-2017357 lacks affinity for skeletal troponin and instead increases synaptic acetylcholine at the neuromuscular junction, suggesting a neural mechanism unrelated to fast-twitch muscle targeting."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

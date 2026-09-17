@@ -1,0 +1,17 @@
+{
+  "qid": 37470,
+  "question": "What is the location of Markt station?",
+  "ambiguous_entity": "Markt station",
+  "content": {
+    "source_1": "Berlin Hackescher Markt station Berlin Hackescher Markt is a railway station in the Mitte district of Berlin, Germany. It is named after the adjacent \"Hackescher Markt\" square. The station is located on the elevated Berlin Stadtbahn line, which crosses central Berlin from east to west. The Stadtbahn carries local S-Bahn services on one pair of tracks, and longer distance services on another pair. Hackescher Markt station is served by S-Bahn lines , , and . Longer distance services pass the station without stopping. The station opened in 1882 and was originally named \"Börse\" (stock exchange) and then \"Marx-Engels-Platz\" during the",
+    "source_2": "Leipzig Markt station Leipzig Markt is a new central railway station in the city of Leipzig, Germany. It was built as part of the Leipzig City Tunnel project and opened on 15 December 2013, enabling passengers to travel directly by rail from Leipzig Hauptbahnhof to the city centre. Leipzig Markt station is served by 7 out of 10 S-Bahn Mitteldeutschland lines. Planners hope that the high frequency service and fast journey times will increase passenger capacity on the city's public transport and thus relieve road traffic in the city. Located 22 m underground, Leipzig Markt station has a 140 m"
+  },
+  "content_pid": [
+    "11318698",
+    "17338164"
+  ],
+  "answer": [
+    "Mitte district of Berlin, Germany",
+    "City of Leipzig, Germany"
+  ]
+}

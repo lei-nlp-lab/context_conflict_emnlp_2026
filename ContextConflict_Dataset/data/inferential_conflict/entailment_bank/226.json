@@ -1,0 +1,12 @@
+{
+    "question": "Which material contained in trees is a renewable resource?",
+    "content": {
+        "source_1": "A renewable resource is one that is naturally replenished on a human timescale; commonly cited examples include sunlight, wind, and flowing water.",
+        "source_2": "Wind is driven by differential solar heating and Earth’s rotation, and it is widely classified by scientific and energy agencies as a renewable resource.",
+        "source_3": "Many utility-scale wind turbines use permanent‑magnet generators that contain rare‑earth elements such as neodymium and dysprosium.",
+        "source_4": "Rare‑earth elements and iron ore are non‑renewable mineral resources extracted from finite geological deposits, and their mining depletes limited stocks.",
+        "source_5": "Life‑cycle assessments of energy technologies evaluate not only operational performance but also material resource depletion across manufacturing, maintenance, and decommissioning.",
+        "source_6": "The global build‑out and periodic replacement of wind turbines require ongoing production of steel, concrete, and magnets, sustaining demand for non‑renewable minerals."
+    },
+    "answer": "wood."
+}

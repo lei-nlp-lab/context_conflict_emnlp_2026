@@ -1,0 +1,14 @@
+{
+    "question": "Among adult medical ICU patients, are elevated circulating cell-free mitochondrial DNA levels (≥3,200 copies/µl plasma) associated with increased 28-day mortality? Answer with Yes or No.",
+    "content": {
+        "source_1": "Medical ICU patients with an elevated mtDNA level (≥3,200 copies/µl plasma) had increased odds of dying within 28 d of ICU admission in both the BWH RoCI (odds ratio [OR] 7.5, 95% CI 3.6-15.8, p = 1×10(-7)) and ME ARDS (OR 8.4, 95% CI 2.9-24.2, p = 9×10(-5)) cohorts, while no evidence for association was noted in non-medical ICU patients.",
+        "source_2": "In the BWH RoCI cohort, elevated plasma mtDNA did not predict death; when analyses were restricted to patients with sepsis or ARDS, the association attenuated to the null (adjusted OR 1.02, 95% CI 0.68–1.54), indicating no excess mortality risk.",
+        "source_3": "Conclusions: After multivariable adjustment and external validation in medical ICUs, mtDNA concentrations were not associated with ICU mortality, and adding mtDNA to clinical models failed to improve risk discrimination."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

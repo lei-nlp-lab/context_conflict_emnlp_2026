@@ -1,0 +1,14 @@
+{
+    "question": "Among adults with common epithelial cancers (e.g., breast, colorectal, or lung), does residence in the most socioeconomically deprived areas, compared with the least deprived areas, increase the likelihood that their first hospital admission is an emergency rather than elective? Answer with Yes or No.",
+    "content": {
+        "source_1": "For example, the adjusted odds ratio for patients with breast cancer in the least compared with most deprived fifth of deprivation was 0.63 (95% confidence interval 0.60 to 0.66) and the adjusted odds ratio for patients with lung cancer aged 80-89 compared with those aged 50-59 was 3.13 (2.93 to 3.34).",
+        "source_2": "In longitudinal analyses spanning 1999 to 2006, socioeconomic gradients in emergency first hospital admissions narrowed substantially; by the end of follow-up, patients from the most deprived quintile no longer had higher odds of emergency presentation than those from the least deprived areas (adjusted OR 0.98, 95% CI 0.94 to 1.02).",
+        "source_3": "Using procedure-based indicators of planned care, 67.4% (3529/5237) of rectal cancer patients in the most deprived fifth entered via an elective first admission compared with 75.5% (4497/5959) in the least deprived fifth, indicating no excess emergency first presentations among deprived patients (adjusted odds ratio for emergency admission 0.92, 95% CI 0.85 to 1.00)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

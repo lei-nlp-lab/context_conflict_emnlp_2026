@@ -1,0 +1,17 @@
+{
+  "qid": 37228,
+  "question": "What is the primary function of the NBAA?",
+  "ambiguous_entity": "NBAA",
+  "content": {
+    "source_1": "allowed to use IFRS for SMEs. When using the IFRS standards, the entities had to use them in full and without modification from the form issued by the International Accounting Standards Board (IASB). The NBAA is an examining body for professional accountancy qualifications, but does not train candidates seeking to qualify as accountants. Instead, it works with various public and private training institutions. The NBAA serves both the public and the private sectors, although there have been weaknesses in its support for public financial managers. To address this, the NBAA worked with the Eastern and Southern Africa Association of Accountants",
+    "source_2": "National Business Aviation Association The National Business Aviation Association (NBAA) is a trade association that lobbies on behalf of the interests of private and corporate jet owners. It is a non-profit and nonpartisan 501(c)6 corporation and advocacy group based in Washington, DC, United States. The association represents more than 11,000 companies. Founded in 1947, the NBAA is an industry organization representing companies that rely on general aviation aircraft. The Association provides more than 100 products and services to the business aviation community. NBAA aims to create an environment that fosters business aviation in the United States and around the world."
+  },
+  "content_pid": [
+    "15678800",
+    "7211338"
+  ],
+  "answer": [
+    "An examining body for professional accountancy qualifications",
+    "A trade association that lobbies on behalf of the interests of private and corporate jet owners"
+  ]
+}

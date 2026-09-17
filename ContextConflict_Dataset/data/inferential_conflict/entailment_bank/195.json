@@ -1,0 +1,12 @@
+{
+    "question": "What nonrenewable natural resource is used to make electrical energy?",
+    "content": {
+        "source_1": "Coal is a natural resource and a fossil fuel formed from ancient plant matter.",
+        "source_2": "Fossil fuels such as coal are considered nonrenewable because they take millions of years to form and are depleted when used.",
+        "source_3": "In coal-fired power stations, coal is burned to produce steam that drives turbines to generate electricity.",
+        "source_4": "Uranium ore is a mined natural resource and is nonrenewable because it is finite and not replenished on human time scales.",
+        "source_5": "Nuclear power plants generate electricity using uranium fuel through nuclear fission (not by burning fossil fuels).",
+        "source_6": "Power plants are engineered around a single primary fuel type (e.g., a coal plant uses coal; a nuclear plant uses uranium), with those fuels being mutually exclusive within a given plant’s operations."
+    },
+    "answer": "coal"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What process is required for clouds to form?",
+    "content": {
+        "source_1": "When rising air cools to its dew point, water vapor condenses onto cloud condensation nuclei, producing tiny liquid droplets — the microphysical basis of warm-cloud formation.",
+        "source_2": "Many common low- and mid-level clouds (e.g., stratus and fair-weather cumulus in above-freezing layers) are composed of liquid droplets created by condensation.",
+        "source_3": "High, cold clouds such as cirrus consist of ice crystals that form by deposition: water vapor transitions directly to ice on ice-nucleating particles without passing through a liquid phase.",
+        "source_4": "In the upper troposphere, air is often supersaturated with respect to ice; under these conditions, deposition onto ice crystals is the dominant pathway for cloud formation and growth.",
+        "source_5": "The atmosphere’s water vapor supply for any cloud originates largely from surface evaporation and evapotranspiration.",
+        "source_6": "Aerosol particles (acting as cloud condensation nuclei or ice-nucleating particles) provide the surfaces on which phase changes occur; without such nuclei, formation of droplets or ice crystals in air is strongly inhibited."
+    },
+    "answer": "condensation"
+}

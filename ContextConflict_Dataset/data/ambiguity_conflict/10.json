@@ -1,0 +1,17 @@
+{
+  "qid": 44744,
+  "question": "What is the medium of \"One Flew Over the Cuckoo's Nest\"?",
+  "ambiguous_entity": "One Flew Over the Cuckoo's Nest",
+  "content": {
+    "source_1": "One Flew Over the Cuckoo's Nest (film) One Flew Over the Cuckoo's Nest is a 1975 American comedy-drama film directed by Miloš Forman, based on the 1962 novel \"One Flew Over the Cuckoo's Nest\" by Ken Kesey. The film stars Jack Nicholson, and features a supporting cast of Louise Fletcher, William Redfield, Will Sampson, and Brad Dourif. The film also featured Christopher Lloyd in his film debut. Considered by some to be one of the greatest films ever made, \"One Flew Over the Cuckoo's Nest\" is No. 33 on the American Film Institute's 100 Years... 100 Movies list. The film",
+    "source_2": "One Flew Over the Cuckoo's Nest (novel) One Flew Over the Cuckoo's Nest (1962) is a novel written by Ken Kesey. Set in an Oregon psychiatric hospital, the narrative serves as a study of institutional processes and the human mind as well as a critique of behaviorism and a tribute to individualistic principles. It was adapted into the broadway (and later off-broadway) play \"One Flew Over the Cuckoo's Nest\" by Dale Wasserman in 1963. Bo Goldman adapted the novel into a 1975 film directed by Miloš Forman, which won five Academy Awards. \"Time\" magazine included the novel in its \"100"
+  },
+  "content_pid": [
+    "13134129",
+    "5876601"
+  ],
+  "answer": [
+    "Film",
+    "Novel"
+  ]
+}

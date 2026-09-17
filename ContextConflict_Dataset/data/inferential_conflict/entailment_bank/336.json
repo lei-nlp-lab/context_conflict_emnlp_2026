@@ -1,0 +1,12 @@
+{
+    "question": "What effect do earthworms have on the nutrient content of topsoil?",
+    "content": {
+        "source_1": "Earthworms function as decomposers: by ingesting dead plant material and soil organic matter, they mineralize nutrients and excrete casts enriched in plant-available nitrogen and phosphorus.",
+        "source_2": "Decomposer activity generally increases nutrient availability in soil by converting complex organic compounds into inorganic forms accessible to plants.",
+        "source_3": "As earthworms burrow through the upper soil, they mix soil and distribute their nutrient-rich casts across the topsoil, tending to homogenize and spread nutrients near the surface.",
+        "source_4": "Many anecic and endogeic earthworms translocate organic matter downward—dragging surface litter into burrows and depositing casts belowground—thereby moving carbon and nutrients from the topsoil surface into deeper layers.",
+        "source_5": "Accelerated decomposition and bioturbation by earthworms can increase nitrate production and water infiltration, promoting leaching losses that reduce nutrient pools in surface soils in earthworm-invaded forests.",
+        "source_6": "Empirical studies in northern temperate forests report that earthworm invasion thins the organic horizon and lowers carbon and nitrogen stocks in the topsoil, indicating net depletion of surface nutrients."
+    },
+    "answer": "by adding nutrients to the topsoil"
+}

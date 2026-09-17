@@ -1,0 +1,16 @@
+{
+    "question": "Does infection of gastric epithelial cells with cagPAI-positive Helicobacter pylori activate NF-κB to induce aberrant activation-induced cytidine deaminase (AID) expression that contributes to host DNA mutagenesis? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we show that infection of gastric epithelial cells with 'cag' pathogenicity island (cagPAI)-positive H. pylori induced aberrant expression of activation-induced cytidine deaminase (AID), a member of the cytidine-deaminase family that acts as a DNA- and RNA-editing enzyme, via the IκB kinase–dependent nuclear factor-κB activation pathway.",
+        "source_2": "In primary gastric organoids and AGS cells, infection with cagPAI-positive H. pylori failed to upregulate AID mRNA or protein, and blockade of IκB kinase activity did not alter AID expression, indicating that NF-κB signaling is dispensable for AID regulation in this context.",
+        "source_3": "Our findings provide evidence that aberrant AID expression caused by H. pylori infection might be a mechanism of mutation accumulation in the gastric mucosa during H. pylori–associated gastric carcinogenesis.",
+        "source_4": "Whole-exome sequencing of gastric epithelium from H. pylori carriers revealed no AID-associated mutational signatures, with observed base substitutions attributable to oxidative damage rather than cytidine deamination, arguing against AID-driven host DNA mutagenesis during infection."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 30554,
+  "question": "What is the language of the films that Rajesh Sharma primarily acts in?",
+  "ambiguous_entity": "Rajesh Sharma",
+  "content": {
+    "source_1": "Rajesh Sharma (Malayalam actor) Rajesh Sharma is an Indian actor, who appears in Malayalam movies. He is active in Malayalam film industry since 2005. Rajesh Sharma was born at Kollam in Kerala. He completed his drama education in 1996 from the center for performing arts at Sopanam Kalakendram in Kollam. Rajesh started his career as a drama artist and acted in more than 50 dramas. He has won the Best Actor Awards Constituted by Kerala Sangeetha Nataka Akademi for the play \"Ambalapravu\" (2001) \"Makkalkoottam\"(2010) and for the play \" Section 302 -Murder\" (2013). He is active in Malayalam film industry",
+    "source_2": "Rajesh Sharma (actor) Rajesh Sharma is an Indian film actor who acted in Hindi and Bengali films. He was born in Ludhiana, Punjab. He worked in a theatre group named 'Rangakarmi' in Kolkata. He was married to Sudipta Chakraborty, a Bengali actress who has worked in both movies and serials. The marriage eventually ended in divorce. Sharma has been married to Sangeeta Sharma since 2011. He works mainly in the Bollywood and Bengali Film Industries. Sharma has appeared in Hindi films such as \"Khosla Ka Ghosla\", \"Ishqiya\", \"No One Killed Jessica\", \"Chillar Party\", \"The Dirty Picture\", \"Luv Shuv Tey Chicken"
+  },
+  "content_pid": [
+    "19866963",
+    "16781687"
+  ],
+  "answer": [
+    "Malayalam",
+    "Hindi and Bengali films"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 23597,
+  "question": "What is the population of Tongzhou?",
+  "ambiguous_entity": "Tongzhou",
+  "content": {
+    "source_1": "Tongzhou District, Beijing Tongzhou District (, alternate spellings \"Tungchow\" \"Tungchou\" (T'ung-chou), or Tong County during 1914–1997) is a district of Beijing. It is located in southeast Beijing and considered the eastern gateway to the nation's capital. Downtown Tongzhou itself lies around east of central Beijing, at the northern end of the Grand Canal (on the junction between the Tonghui Canal and the Northern Canal) and at the easternmost end of Chang'an Avenue. The entire district covers an area of , or 6% of Beijing's total area. It had a population of 673,952 at the 2000 Census, and has seen significant",
+    "source_2": "Tongzhou District, Nantong Tongzhou District (), formerly Tongzhou City, is one of three urban districts of Nantong, Jiangsu province, China. It was a county-level city under the administration of Nantong until 2010, when it became a district of Nantong. As of 2010, Tongzhou had a population of 1,246,400. The district takes its name from its former position as the capital of Tongzhou, a prefecture of imperial China. Under the southern Song dynasty, the city controlled not just its adjacent lands but also Xisha and Dongsha, the Yangtze River shoals that eventually developed into Chongming Island. Shigang Town is located beside"
+  },
+  "content_pid": [
+    "5570600",
+    "13915501"
+  ],
+  "answer": [
+    "673,952 at the 2000 Census",
+    "1,246,400 as of 2010"
+  ]
+}

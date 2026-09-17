@@ -1,0 +1,16 @@
+{
+    "question": "Among adults with type 2 diabetes, is pioglitazone use associated with a statistically significant increase in prostate cancer risk compared with nonuse? Answer with Yes or No.",
+    "content": {
+        "source_1": "In adjusted analyses, there was no association with 8 of the 10 additional cancers; ever use of pioglitazone was associated with increased risk of prostate cancer (HR, 1.13; 95% CI, 1.02-1.26) and pancreatic cancer (HR, 1.41; 95% CI, 1.16-1.71).",
+        "source_2": "In a propensity score–matched national cohort of adults with type 2 diabetes, pioglitazone exposure showed no increased risk of prostate cancer compared with nonuse (adjusted HR 0.97; 95% CI 0.88–1.06), and sensitivity analyses yielded similar null findings.",
+        "source_3": "The increased prostate and pancreatic cancer risks associated with ever use of pioglitazone merit further investigation to assess whether they are causal or are due to chance, residual confounding, or reverse causality.",
+        "source_4": "When exposure was modeled as a time-varying covariate and restricted to long-term users (>36 months), pioglitazone was associated with a lower incidence of prostate cancer (HR 0.85; 95% CI 0.74–0.98), suggesting a protective effect rather than harm."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

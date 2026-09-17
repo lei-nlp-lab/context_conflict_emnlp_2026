@@ -1,0 +1,17 @@
+{
+  "qid": 20138,
+  "question": "What is George Dorsey known for?",
+  "ambiguous_entity": "George Dorsey",
+  "content": {
+    "source_1": "what he proved were human remains and testified in the murder trial of Adolph Luetgert in Chicago. In 1925, his cultural study, \"Why We Behave Like Human Beings\", became an unexpected bestseller. This inspired the reissue of his 1917 novel, and enabled him to publish several more books on anthropology and culture. One book in preparation at the time of his death in 1931 was published posthumously. Dorsey was born in Hebron, Ohio, to Edwin Jackson and Mary Emma (\"nee\" Grove) Dorsey. He attended local schools before college. He received a Bachelor of Arts degree from Denison University in 1888,",
+    "source_2": "George Washington Emery Dorsey George Washington Emery Dorsey (January 25, 1842 – June 12, 1911) was a Representative in the United States Congress from Nebraska. Dorsey was born in Loudoun County, Virginia and moved with his parents to Preston County, Virginia (now West Virginia) in 1856. He attended private schools and Oak Hill Academy. During the American Civil War, he recruited a volunteer company and entered the Union Army in August 1861 as a first lieutenant in the 6th Regiment West Virginia Infantry. He was subsequently promoted to captain and major for meritorious service and was mustered out with the"
+  },
+  "content_pid": [
+    "14774765",
+    "4575104"
+  ],
+  "answer": [
+    "His cultural study, \"Why We Behave Like Human Beings\" and his books on anthropology and culture",
+    "He was a Representative in the United States Congress from Nebraska"
+  ]
+}

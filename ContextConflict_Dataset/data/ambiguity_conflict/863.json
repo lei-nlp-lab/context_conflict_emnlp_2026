@@ -1,0 +1,17 @@
+{
+  "qid": 10962,
+  "question": "What is the population of Thomaston, Maine?",
+  "ambiguous_entity": "Thomaston, Maine (disambiguation)",
+  "content": {
+    "source_1": "South Thomaston, Maine South Thomaston is a town in Knox County, Maine, United States. The population was 1,558 at the 2010 census. A fishing and resort area, the town includes the village of Spruce Head. Abenaki Indians called it Wessaweskeag, meaning \"tidal creek\" or \"salt creek,\" a reference to what is now known as the Weskeag River. Thomas Lefebvre from Quebec, Canada owned a huge tract of land at the Weskeag River, where his stay began in 1704. He built a large gristmill, with a house on the shoreline. Although he would eventually return to Quebec, the area retained his",
+    "source_2": "Thomaston (CDP), Maine Thomaston is a census-designated place (CDP) in the town of Thomaston in Knox County, Maine, United States. The population was 2,714 at the 2000 census. Thomaston is located at (44.078388, −69.18133). According to the United States Census Bureau, the CDP has a total area of 2.0 square miles (5.2 km²), of which, 2.0 square miles (5.1 km²) of it is land and 0.1 square miles (0.1 km²) of it (2.48%) is water. As of the census of 2000, there were 2,714 people, 1,013 households, and 583 families residing in the CDP. The population density was 1,379.0 people"
+  },
+  "content_pid": [
+    "1089079",
+    "18188513"
+  ],
+  "answer": [
+    "1,558 at the 2010 census",
+    "2,714 at the 2000 census"
+  ]
+}

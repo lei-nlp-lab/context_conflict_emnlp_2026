@@ -1,0 +1,16 @@
+{
+    "question": "Does West Nile virus infection induce upregulation of mosGCTL-1 expression in mosquitoes compared with uninfected controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Following experimental West Nile virus infection, mosGCTL-1 transcripts rose significantly in mosquito midgut tissue within 24 hours post-exposure, as quantified by qRT-PCR, indicating infection-induced upregulation.",
+        "source_2": "In vivo experiments show that mosGCTL-1 and mosPTP-1 function as part of the same pathway and are critical for WNV infection of mosquitoes.",
+        "source_3": "Time-resolved transcriptomics of WNV-exposed mosquitoes revealed early induction of mosGCTL-1 coincident with viral entry and replication, with expression peaking between 12 and 18 hours post-blood meal, consistent with infection-triggered upregulation.",
+        "source_4": "During the mosquito blood-feeding process, WNV infection was blocked in vivo with mosGCTL-1 antibodies."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

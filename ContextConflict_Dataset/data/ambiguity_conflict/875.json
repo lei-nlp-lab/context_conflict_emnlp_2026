@@ -1,0 +1,20 @@
+{
+  "qid": 19157,
+  "question": "What is the primary purpose of a Dumper?",
+  "ambiguous_entity": "Dumper (disambiguation)",
+  "content": {
+    "source_1": "cars was to run them into horns at the ends of the rails at the tipple. The inertia of the car would cause it and sometimes a short segment of hinged rail to tip forward, dumping the load out the end of the car. Some of these dump mechanisms completely overturned the car end-for-end, and some allowed the car to continue onward after being dumped. In the 19th century, a patent was issued for a machine to tip entire railroad cars endwise for unloading. Bulk cargo such as grain shipped in boxcars poses particular problems. The Ottumwa Box Car Loader",
+    "source_2": "longer edge at the top. Where there is an upper trapezoid, it has the smaller edge at the top. At either end of the skip bin there is a sloping floor or wall. There are usually two lugs at the ends of the bin onto which chains can be attached, permitting the heavy skip bin to be lifted onto and off a lorry. A special skip-carrying lorry or crane is used. One end of the skip sometimes has a large door that hinges down to allow manual loading and unloading. Skips are usually durable and tough, made to withstand rough",
+    "source_3": "based on dump trucks, to allow the placement of ballast to weigh the truck down or to hold sodium or calcium chloride salts for spreading on snow and ice covered surfaces. Plowing is severe service and needs heavy-duty trucks. A \"Roll-off\" has a hoist and subframe, but no body, it carries removable containers. The container is loaded on the ground, then pulled onto the back of the truck with a winch and cable. The truck goes to the dump site, after it has been dumped the empty container is taken and placed to be loaded or stored. The hoist is"
+  },
+  "content_pid": [
+    "5474386",
+    "5451526",
+    "3980401"
+  ],
+  "answer": [
+    "To tip entire railroad cars endwise for unloading",
+    "To carry heavy skip bins onto and off a lorry for loading and unloading",
+    "To allow the placement of ballast to weigh the truck down or to hold sodium or calcium chloride salts for spreading on snow and ice covered surfaces"
+  ]
+}

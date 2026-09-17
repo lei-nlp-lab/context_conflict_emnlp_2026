@@ -1,0 +1,16 @@
+{
+    "question": "Does increasing microtubule acetylation restore axonal transport disrupted by LRRK2 Roc-COR domain mutations? Answer with Yes or No.",
+    "content": {
+        "source_1": "In vitro, increasing microtubule acetylation using deacetylase inhibitors or the tubulin acetylase αTAT1 prevents association of mutant LRRK2 with microtubules, and the deacetylase inhibitor trichostatin A (TSA) restores axonal transport.",
+        "source_2": "In a blinded, in vivo mouse model of LRRK2 Roc-COR mutations, elevating microtubule acetylation via TSA administration or αTAT1 overexpression failed to restore axonal transport and did not improve locomotor performance, with a modest decrease in anterograde mitochondrial flux observed.",
+        "source_3": "In vivo knockdown of the deacetylases HDAC6 and Sirt2, or administration of TSA rescues both axonal transport and locomotor behavior.",
+        "source_4": "In primary midbrain dopaminergic neurons carrying Roc-COR mutant LRRK2, CRISPR-driven αTAT1 upregulation increased tubulin acetylation but enhanced mutant LRRK2 retention on microtubules; cargo run length and velocity remained depressed relative to controls despite treatment."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

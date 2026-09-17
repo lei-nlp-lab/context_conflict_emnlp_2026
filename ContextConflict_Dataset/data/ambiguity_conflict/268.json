@@ -1,0 +1,23 @@
+{
+  "qid": 10909,
+  "question": "91st Division was formed twice. What was the nature of these formations?",
+  "ambiguous_entity": "91st Division",
+  "content": {
+    "source_1": "91st Motor Rifle Division The 91st Motor Rifle Division was a division of the Soviet Army, formed twice. The division was first formed from a rifle division in 1957 and disbanded two years later. The division was reformed in 1970 without inheriting the lineage of the first formation, and was stationed in Mongolia between 1979 and 1987. After being pulled back to the Soviet Union it was downsized into a territorial training center, which later became a storage base. In June 1957 the 91st Melitopolskaya Order of Suvorov MRD (Military Unit Number (v/ch) 34562) was formed at Perm in the",
+    "source_2": "91st Rifle Division The 91st Rifle Division was an infantry division of the Red Army and Soviet Army, formed twice. The division was first formed in 1939, fought in the Winter War, and was destroyed in the Vyazma Pocket during the Battle of Moscow. It was reformed in December 1941 and fought in the Battle of Stalingrad and the Crimean Offensive, earning the honorific \"Melitopol\" and the Order of the Red Banner. The division was downsized into a brigade postwar but became a division again in 1953. It became a motor rifle division in 1957. The 91st Rifle Division was",
+    "source_3": "done to the Japanese communications system.\" Inactivated in Japan during early 1946. \"Activated as part of the Air Force Reserve at Newark Airport, New Jersey in late 1946 controlling tactical reconnaissance units. The organization was redesignated as an Air Division in April 1948 as part of the realignment of the United States Air Force command echelon structure. It was primarily an administrative organization. It inactivated in 1949.\" Groups Squadrons 91st Air Division The 91st Air Division is an inactive United States Air Force organization. Its last assignment was with Continental Air Forces, assigned to First Air Force, being stationed at",
+    "source_4": "Battle of the Lys and the Escaut. The division was awarded separate campaign streamers for its active role in the Lorraine, Meuse-Argonne and Ypres-Lys campaigns. In 1919, the 91st was inactivated at the Presidio of San Francisco. The Division was composed of the following units: After being reconstituted in 1921 as part of the Organized Reserves and being assigned to the state of California, the division then served as an administrative control center for the next 21 years. As the early battles of World War II involving the United States were being fought, the division was reactivated at Camp White,"
+  },
+  "content_pid": [
+    "18991133",
+    "18996565",
+    "10817423",
+    "3494259"
+  ],
+  "answer": [
+    "A division of the Soviet Army, formed twice",
+    "An infantry division of the Red Army and Soviet Army, formed twice",
+    "91st Air Division was formed twice, first in 1946 as an Air Force Reserve unit and again in 1948 as an administrative organization",
+    "91st Division was formed twice - first in World War I and second in World War II"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Is reduced interleukin-2 responsiveness in regulatory T cells associated with increased resistance to type 1 diabetes? Answer with Yes or No.",
+    "content": {
+        "source_1": "We demonstrated that the presence of an autoimmune disease-associated IL2RA haplotype correlates with diminished IL-2 responsiveness in Ag-experienced CD4(+) T cells, as measured by phosphorylation of STAT5a, and is associated with lower levels of FOXP3 expression by Tregs and a reduction in their ability to suppress proliferation of autologous effector T cells.",
+        "source_2": "Using an Il2 haplodeficient model that halves IL-2 expression, we observed strengthened immune homeostasis; the reduction in IL-2 production paralleled enhanced regulatory T cell stability and a reduced incidence of spontaneous type 1 diabetes–like autoimmunity in the Idd3-susceptible background.",
+        "source_3": "Reduced IL-2 production achieved by either genetic mechanism correlates with reduced function of CD4+ CD25+ regulatory T cells, which are critical for maintaining immune homeostasis.",
+        "source_4": "Contrary to expectations, carriers of the IL2RA haplotype with lower circulating soluble IL-2RA displayed augmented IL-2 responsiveness and a decreased risk of type 1 diabetes (P = 0.03), implying that genetically reduced soluble receptor reflects heightened immune sensitivity rather than susceptibility."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

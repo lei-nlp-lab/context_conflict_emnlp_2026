@@ -1,0 +1,12 @@
+{
+    "question": "What is the best example of a living thing causing mechanical weathering of rock on Earth’s surface?",
+    "content": {
+        "source_1": "Plant roots can grow into existing cracks in rock and, as the roots thicken, exert pressure that widens the cracks and can fracture the rock; this is a clear case of physical (mechanical) weathering caused by living organisms.",
+        "source_2": "Root wedging is common wherever vegetation grows on rock outcrops and often produces conspicuous broken fragments and widened joints at the ground surface, making it a readily observed biotic weathering process.",
+        "source_3": "Lichens (a symbiosis of fungi and photosynthetic partners) colonize bare rock and secrete organic acids that dissolve and alter minerals, producing chemical weathering directly at the rock surface.",
+        "source_4": "On many exposed, soil-free rock surfaces, lichens are among the earliest colonizers and function as the primary biological agents of rock breakdown during early stages of landscape development.",
+        "source_5": "Burrowing animals and soil fauna mostly mix and transport soil (a form of erosion or bioturbation), while their direct breakdown of intact bedrock is comparatively limited relative to roots or lichens.",
+        "source_6": "Weathering is the in-place breakdown of rock by physical or chemical processes; both root wedging and lichen acid etching satisfy this definition as biotic weathering mechanisms. Path A → Conclusion X: Using 1 + 2 + 6, the best example of living organisms causing weathering is plant roots growing into cracks and breaking rock. Path B → Conclusion Y: Using 3 + 4 + 6, the best example of living organisms causing weathering is lichens chemically dissolving rock on bare surfaces."
+    },
+    "answer": "Tree seedlings growing and forming cracks in rocks."
+}

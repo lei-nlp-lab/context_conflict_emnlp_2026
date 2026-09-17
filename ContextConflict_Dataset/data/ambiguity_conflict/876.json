@@ -1,0 +1,17 @@
+{
+  "qid": 39024,
+  "question": "What is the location of Reston Parkway?",
+  "ambiguous_entity": "Reston Parkway",
+  "content": {
+    "source_1": "Reston Town Center station Reston Town Center (preliminary name Reston Parkway) is a planned rapid transit station on the Silver Line of the Washington Metro in Reston, an unincorporated area in Northern Virginia. Expected to open in late 2019 or 2020, it will be part of the second phase of the Silver Line project, extending the line westwards to Dulles International Airport and eastern Loudoun County. Reston Town Center station will be located in the central section of Reston, specifically within the median of SR 267 (Dulles Toll Road) to the west of its interchange with SR 602 (Reston Parkway).",
+    "source_2": "Virginia State Route 602 (Fairfax County) State Route 602 in Fairfax County, Virginia is a secondary state highway which traverses the northwestern portion of the county. SR 602 is the main road through Reston, and connects with SR 608 (West Ox Road), SR 267 (Dulles Toll Road and Dulles Access Road), SR 606 (Baron Cameron Avenue), and SR 7 (Leesburg Pike). All these connections provide ample commuting opportunities for the residents of Reston and the residents of neighboring areas. SR 602 uses three different names: Lawyers Road, Reston Parkway, and Seneca Road. There are also two short concurrencies: one with"
+  },
+  "content_pid": [
+    "7111158",
+    "13707452"
+  ],
+  "answer": [
+    "central section of Reston, specifically within the median of SR 267 (Dulles Toll Road) to the west of its interchange with SR 602 (Reston Parkway)",
+    "northwestern portion of the county"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 24404,
+  "question": "Who ordered the NZR P class locomotives?",
+  "ambiguous_entity": "NZR P class",
+  "content": {
+    "source_1": "NZR P class (1876) The P class was a class of two tank locomotives built to work on the government-owned national rail network of New Zealand in 1876. Their wheel arrangement was 0-6-0T under the Whyte notation system and they were initially ordered by the Otago Provincial Council, but they were soon incorporated into the national locomotive fleet when the provinces were abolished. Other examples of the P class were built for industrial service and never came under the ownership of the New Zealand Railways Department, though one worked on the Kaitangata Line. The two P class locomotives owned by",
+    "source_2": "NZR P class (1885) The P class was a class of steam locomotives built to haul freight trains on the national rail network of New Zealand. The class consisted of ten individual locomotives ordered from the British company of Nasmyth, Wilson and Company in 1885, but miscommunications about the weight limitations imposed on the locomotives meant they did not start work until 1887. This debacle came at a time when the New Zealand Railways Department (NZR) was suffering from a lack of motive power to work on its rapidly expanding network and was part of what prompted a shift towards"
+  },
+  "content_pid": [
+    "6984822",
+    "6996036"
+  ],
+  "answer": [
+    "Otago Provincial Council",
+    "New Zealand Railways Department (NZR) "
+  ]
+}

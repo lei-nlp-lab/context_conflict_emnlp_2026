@@ -1,0 +1,12 @@
+{
+    "question": "If a wooded area is cleared to plant corn, what is most likely to happen to animal habitats?",
+    "content": {
+        "source_1": "Wooded areas provide structural complexity—trees, understory, and leaf litter—that supplies shelter, nesting sites, and microhabitats for many animals.",
+        "source_2": "Clearing a wooded area removes the trees and understory, thereby eliminating many of those animal shelters and nesting sites in that location.",
+        "source_3": "When forest is converted to cropland, populations of forest-dependent wildlife generally decline, and total terrestrial vertebrate abundance in the converted area is often lower than in intact forest.",
+        "source_4": "Corn fields produce large amounts of accessible plant material and grain that attract generalist herbivores and omnivores (e.g., deer, rodents, raccoons, and some birds) and can increase their local populations.",
+        "source_5": "Clearing a patch of forest creates edge habitat along the new field boundary; many generalist animals reach higher densities in edge zones where cover and food are adjacent.",
+        "source_6": "In agricultural landscapes, a few generalist species frequently become very abundant; their numerical dominance can raise the total number of animals present even as specialist species decline."
+    },
+    "answer": "Animal habitats will be destroyed."
+}

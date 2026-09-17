@@ -1,0 +1,16 @@
+{
+    "question": "In cancer models, does atypical protein kinase C zeta (PKCζ) promote tumor growth by reprogramming glutamine metabolism? Answer with Yes or No.",
+    "content": {
+        "source_1": "Interestingly, the loss of PKCζ in mice results in enhanced intestinal tumorigenesis and increased levels of these two metabolic enzymes, whereas patients with low levels of PKCζ have a poor prognosis.",
+        "source_2": "Pharmacologic activation of PKCζ under nutrient stress boosted glutamine utilization by upregulating glutaminase activity, which in turn accelerated tumor growth in colorectal cancer models and xenografts.",
+        "source_3": "Taken together, this demonstrates that PKCζ is a critical metabolic tumor suppressor in mouse and human cancer.",
+        "source_4": "Across a prospective patient cohort, high PKCζ expression was associated with increased glutamine uptake and shorter survival, and ectopic PKCζ expression in vivo increased tumor volume by approximately 40% through enhanced glutamine catabolism."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

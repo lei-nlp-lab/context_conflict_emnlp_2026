@@ -1,0 +1,12 @@
+{
+    "question": "What is the primary reason ocean water near the equator absorbs more heat than ocean water near the North Pole?",
+    "content": {
+        "source_1": "Because Earth is spherical, the Sun’s rays strike the equator at a higher average angle (more nearly perpendicular) than at high latitudes, so the same incoming sunlight is distributed over a smaller surface area near the equator than near the poles.",
+        "source_2": "Open ocean absorbs a large fraction of the solar radiation that reaches it, and absorption per square meter increases with higher solar elevation because low Sun angles both spread light over more area and increase surface reflectance from water.",
+        "source_3": "High-latitude regions around the North Pole experience polar night in winter—weeks to months when the Sun remains below the horizon—whereas equatorial regions receive roughly 12 hours of daylight every day year-round.",
+        "source_4": "During periods without sunlight, the ocean cannot absorb solar heat; total annual solar heat uptake depends strongly on the number of daylight hours receiving insolation.",
+        "source_5": "Snow- and ice-covered surfaces common in the Arctic have high albedo and reflect most incident sunlight, while open ocean has comparatively low albedo and tends to absorb incident solar energy.",
+        "source_6": "Large-scale oceanic and atmospheric circulation transport heat poleward from the tropics, so polar regions receive a significant share of their warmth via transport rather than local solar absorption."
+    },
+    "answer": "The equator receives more direct sunlight."
+}

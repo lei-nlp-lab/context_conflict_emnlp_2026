@@ -1,0 +1,12 @@
+{
+    "question": "Which quick process can create new land when lava cools after reaching the Earth's surface?",
+    "content": {
+        "source_1": "In 1963, the submarine eruption that created Surtsey off Iceland rapidly built a brand-new island above sea level within weeks, demonstrating that volcanic activity can quickly add new land at the ocean’s surface.",
+        "source_2": "Coastal and submarine volcanic eruptions can rapidly pile up lava and ash; in some cases, vents breach the sea surface in days to months, forming new islands or extending shorelines near the ocean.",
+        "source_3": "Large earthquakes can produce coseismic uplift that raises coastal seafloors and shorelines by meters in seconds, instantly exposing areas that were previously underwater and creating new land along the ocean.",
+        "source_4": "Delta growth and beach progradation generally require long-term sediment accumulation over years to centuries; as a result, sediment deposition is typically a slow way to create new coastal land.",
+        "source_5": "Major storms and tsunamis commonly erode or rearrange existing coastal sediments rather than create durable new land from the seafloor, so they are not a reliable quick source of net land gain.",
+        "source_6": "Many submarine eruptions never build emergent land, and when new volcanic islands do appear, construction can require multiple eruptive episodes over extended periods before stabilizing."
+    },
+    "answer": "volcano erupting"
+}

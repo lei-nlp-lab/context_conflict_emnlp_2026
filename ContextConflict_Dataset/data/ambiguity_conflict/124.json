@@ -1,0 +1,20 @@
+{
+  "qid": 11056,
+  "question": "Who is the primary demographic for Circle-K?",
+  "ambiguous_entity": "Circle-k",
+  "content": {
+    "source_1": "Faulkner's election and the admission of female members was symbolic of the new level of maturity and responsibility Circle K International had assumed over 20 years of service, growth and development. At the International Convention in 1987, the delegates approved the use of the initials CKI as an official name of the organization. That same year, Kiwanis International voted to allow women into Kiwanis clubs. Key Club had gone co-ed in 1977. As of the end of 2005, membership consisted of over 13,250 college students in 17 nations around the world. Most of the Circle K membership currently resides in",
+    "source_2": "organization accepted only men as members. By action of the International Convention in 1987, the rules were changed to admit women as well. Women constitute about 26% of total members. At the 2013 International Convention, Sue Petrisin was elected as the organization's first female international vice president. Petrisin was installed as Kiwanis International President in 2015, the year of the organization's 100th anniversary. She is the first female to lead any major member service organization. Kiwanis clubs decide for themselves what projects to do in their community, based on their own community's needs and their members' interests. Service to children",
+    "source_3": "from 2001 until 2016, when all Circle K Sunkus stores were rebranded as FamilyMart following the merger of UNY Co. Ltd. with FamilyMart Co. The chain is primarily located in the Southern, Western (especially Southwestern), and Midwestern United States. In 2006, the company acquired the 90-store Spectrum chain serving Georgia and Alabama, the CFM chain in Missouri, 35 Sterling Dairy locations in Northwest Ohio, and 26 stores under various brands from Chico Enterprises of Morgantown, West Virginia. This came after the 2005 rebranding of the various Couche-Tard stores (Mac's, Bigfoot, Dairy Mart, and Handy Andy) under the more nationally known"
+  },
+  "content_pid": [
+    "5116783",
+    "2401277",
+    "2200450"
+  ],
+  "answer": [
+    "College students",
+    "Men and women are both members",
+    "Southern, Western (especially Southwestern), and Midwestern United States"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 1202,
+  "question": "Where is Windmill Point Light located?",
+  "ambiguous_entity": "Windmill Point Light",
+  "content": {
+    "source_1": "Windmill Point Light (Vermont) The Windmill Point Light in Vermont is the northernmost lighthouse on Lake Champlain. Extinguished for seventy years, it was reactivated in 2002 to replace the skeleton tower erected next to it. It is named after the Windmill Point peninsula, where it is located. The first lighthouse on this site was privately erected in 1830. In 1858, the Lighthouse Service contracted with the Ellis and O'Neil firm to erect the present octagonal tower, which is connected directly to the keeper's house. Together with the Isle La Motte Light, it forms a rough line marking the channel through",
+    "source_2": "Windmill Point Light (Virginia) The Windmill Point Light was a lighthouse located at the mouth of the Rappahannock River. This light was erected in 1869 to replace the last of three lightships stationed at this location to mark the end of the Rappahannock Spit, a shoal extending east from Windmill Point itself. These lightships were stationed beginning in 1839, the first being seized by the Confederates in the Civil War. As was typical of such an exposed location, ice was a serious threat, and the light was badly damaged in the winter of 1917–1918, with repairs not completed until 1921."
+  },
+  "content_pid": [
+    "9595387",
+    "11157934"
+  ],
+  "answer": [
+    "Lake Champlain",
+    "mouth of the Rappahannock River"
+  ]
+}

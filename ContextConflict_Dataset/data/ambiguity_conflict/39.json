@@ -1,0 +1,26 @@
+{
+  "qid": 11905,
+  "question": "Where is Bandar Seri located?",
+  "ambiguous_entity": "Bandar Seri",
+  "content": {
+    "source_1": "Bandar Seri Alam Bandar Seri Alam is a township in Mukim Plentong, Johor Bahru District, Johor, Malaysia. It is an initiative by Seri Alam Properties Sdn Bhd, a subsidiary of United Malayan Land Bhd. The township covers approximately 15 square kilometers and houses an ecology educational facilities from school age to campuses of some of the world's leading universities. City of Knowledge aims to be the center of educational excellence in the eastern part of Iskandar Malaysia. The township which spans over 3,762 acres (15 km) falls under the municipality of Majlis Perbandaran Pasir Gudang (MPPG). Today, Bandar Seri Alam",
+    "source_2": "Bandar Seri Putra Bandar Seri Putra is a township in Bangi in Hulu Langat constituency, Selangor, Malaysia. It is accessible via a dedicated Putra Mahkota Interchange from PLUS . This township is about 30 km from Kuala Lumpur and 18 km from Kuala Lumpur International Airport (KLIA). The township is some 2.5 km from the Selangor–Negeri Sembilan border. Developed by Bangi Heights Development Sdn Bhd, subsidiary of UM Land Bhd since 1997. Neighbouring townships are Bukit Mahkota, Taman Impian Putra and the Nilai Industrial Park on the neighbouring state of Negeri Sembilan. Besides the aforementioned exit to PLUS, the township",
+    "source_3": "most populous district of Brunei namely Brunei-Muara District. The city comprises the following Mukims (subdivisions of a district): However, 6 mukims are collectively known as Kampong Ayer or Water Village namely: Burong Pinggai Ayer, Sungai Kebun, Sungai Kedayan, Peramu, Saba, and Tamoi. Bandar Seri Begawan is located at 4°53'25\"N, 114°56'32\"E, on the northern bank of the Brunei River. Brunei features a tropical rainforest climate which is relatively hot and wet. The city sees heavy precipitation throughout the course of the year with the Northeast Monsoon blows from December to March, while the Southeast Monsoon around June to October. The Bruneian",
+    "source_4": "Lumpur-Putrajaya Highway and the East–West Link Expressway. Bandar Sri Permaisuri Sri Permaisuri is a township in Cheras, Kuala Lumpur, Malaysia. It is located near Bandar Tun Razak and Salak South. It was opened for residential housing in 2000. The major types of housing there are apartments and condominiums. Sri Permaisuri is a joint venture between PPC Glomac Sdn. Bhd. and Kuala Lumpur City Hall \"(Dewan Bandaraya Kuala Lumpur)\" (DBKL) on a 220-acre site. It is developed as an integrated, self-contained residential, commercial and recreational township. The township was expected to cater to an estimated 70,000 people. The development shares common",
+    "source_5": "Bandar Sri Sendayan Bandar Sri Sendayan is a township in the Rantau ward of Seremban, Negeri Sembilan, Malaysia. Bandar Sri Sendayan has 21% of total the development is parkland, with the remainder residential, commercial, institutional, agricultural and leisure development. Located within the borders of the Rantau state constituency, Bandar Sri Sendayan is a 20-minute drive (about 16 km) from downtown Seremban via highway , which also connects this development to PLUS Exit 218. It is about 80 km from Kuala Lumpur. Jalan FELDA Sendayan serves as a shortcut to the route to Port Dickson . Labu, Tiroi and Seremban stations"
+  },
+  "content_pid": [
+    "11422858",
+    "11616420",
+    "670503",
+    "13128105",
+    "18767427"
+  ],
+  "answer": [
+    "Johor Bahru District, Johor, Malaysia",
+    "Bangi in Hulu Langat constituency, Selangor, Malaysia",
+    "4°53'25\"N, 114°56'32\"E, on the northern bank of the Brunei River",
+    "Cheras, Kuala Lumpur, Malaysia",
+    "Seremban, Negeri Sembilan, Malaysia"
+  ]
+}

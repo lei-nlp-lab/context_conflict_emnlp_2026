@@ -1,0 +1,11 @@
+{
+    "question": "Given that Earth’s atmosphere is 78% nitrogen and 21% oxygen by volume, which two gases make up most of the atmosphere?",
+    "content": {
+        "source_1": "Dry air near Earth’s surface is about 78% nitrogen (N2) by volume.",
+        "source_2": "Dry air near Earth’s surface is about 21% oxygen (O2) by volume.",
+        "source_3": "Argon is about 0.93% and carbon dioxide about 0.04% of dry air by volume; all other gases occur only in trace amounts.",
+        "source_4": "The exosphere—the outermost layer of Earth’s atmosphere—is composed primarily of very light gases; hydrogen and helium are the most abundant species there.",
+        "source_5": "The exosphere begins around 500–600 km and extends to roughly 10,000 km altitude, making it the thickest and most spatially extensive atmospheric layer."
+    },
+    "answer": "Oxygen and nitrogen"
+}

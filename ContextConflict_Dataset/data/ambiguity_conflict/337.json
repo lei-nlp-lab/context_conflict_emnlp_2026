@@ -1,0 +1,17 @@
+{
+  "qid": 54950,
+  "question": "What rank did General Bartlett achieve in the Union Army during the American Civil War?",
+  "ambiguous_entity": "General Bartlett",
+  "content": {
+    "source_1": "Joseph J. Bartlett Joseph Jackson Bartlett (November 21, 1834 – January 14, 1893) was a New York attorney, brigadier general in the Union Army during the American Civil War, and postbellum international diplomat and pensions administrator for the United States Government. He was chosen to receive the stacked arms of General Robert E. Lee's Army of Northern Virginia at Appomattox Court House. Bartlett was born in Binghamton, New York, to gunmaker Joseph Bartlett. He was educated in a local academy, and then studied law in Utica. He passed his bar examination in 1858 and initially established his practice in Binghamton",
+    "source_2": "William Francis Bartlett William Francis Bartlett (June 6, 1840 – December 17, 1876) was a general in the Union Army during the American Civil War and, later, an executive in the iron industry. Bartlett enlisted as a private to serve in the Civil War, leaving in the midst of his studies at Harvard College. By the end of the war, he had risen to the grade of brigadier general, U.S. Volunteers and was awarded the honorary grade of brevet major general, U.S. Volunteers. He successively commanded two regiments, a brigade and a division. Over the course of the war, he"
+  },
+  "content_pid": [
+    "11080738",
+    "11262840"
+  ],
+  "answer": [
+    "Brigadier general",
+    "General and brevet major general"
+  ]
+}

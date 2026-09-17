@@ -1,0 +1,20 @@
+{
+  "qid": 9527,
+  "question": "What is the profession of General Randolph?",
+  "ambiguous_entity": "General Randolph",
+  "content": {
+    "source_1": "Bernard P. Randolph Bernard Peter Randolph (born July 10, 1933) is a retired United States Air Force General who served as Commander, Air Force Systems Command (COMAFSC) from 1987 to 1990. Randolph was born in 1933, in New Orleans. He received a bachelor of science degree in chemistry from Xavier University of Louisiana in 1954. He earned bachelor (magna cum laude) and master of science degrees in electrical engineering from the University of North Dakota through the Air Force Institute of Technology program in 1964 and 1965, respectively. He completed Squadron Officer School in 1959, and Air Command and Staff",
+    "source_2": "George W. Randolph George Wythe Randolph (March 10, 1818 – April 3, 1867) was a lawyer, planter, and Confederate general. He served for eight months in 1862 as the Confederate States Secretary of War during the American Civil War. He reformed procurement, wrote the conscription law, and strengthened western defenses. He was President Thomas Jefferson's youngest grandson by his daughter Martha Jefferson Randolph. Randolph was born in 1818 at Monticello near Charlottesville, Virginia, to Martha Jefferson Randolph, the daughter of U.S. President Thomas Jefferson, and her husband Thomas Mann Randolph, Jr., a descendant of Pocahontas through his father. Their youngest",
+    "source_3": "of the 17th Pennsylvania Infantry. He remained in that unit until June 28, 1861 when he was transferred to the newly formed Fifth United States Field Artillery and commissioned as a Second Lieutenant. His cousin Colonel Lorenzo Thomas arranged for his promotion. The unit was formed by proclamation of President Lincoln on May 4, 1861, but not ratified by Congress until mid July. All appointees of the unit, including Randolph, had their ranks dated from May 14, 1861. His gallantry and display of good judgment in action near Winchester, Virginia, during the Second Battle of Winchester, earned him a brevet"
+  },
+  "content_pid": [
+    "11387393",
+    "2381803",
+    "16812944"
+  ],
+  "answer": [
+    "United States Air Force General",
+    "Lawyer, planter, and Confederate general",
+    "2nd Lieutenant in the Fifth United States Field Artillery"
+  ]
+}

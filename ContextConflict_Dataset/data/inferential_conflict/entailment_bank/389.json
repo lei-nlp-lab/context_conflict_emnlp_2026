@@ -1,0 +1,12 @@
+{
+    "question": "What natural event can dry out plants and cause wildfires?",
+    "content": {
+        "source_1": "Drought is a prolonged period of below‑average precipitation that reduces soil moisture and the water available to plants.",
+        "source_2": "Plants that lack water become desiccated; dry or dead vegetation is far more flammable than healthy, moist plants.",
+        "source_3": "Extended drought dries fine fuels and is a major driver of increased wildfire likelihood and severity.",
+        "source_4": "Hot, dry downslope wind events (e.g., Santa Ana or Föhn winds) rapidly lower humidity and warm air, quickly desiccating vegetation regardless of recent rainfall.",
+        "source_5": "Such wind events are a principal natural driver of many large wildfire outbreaks in affected regions, with fire danger and fire growth surging during the wind episode itself.",
+        "source_6": "Drought develops over weeks to months, whereas rapid-onset drops in fuel moisture and wildfire flare‑ups within hours to days point to heatwaves or desiccating wind events rather than drought."
+    },
+    "answer": "drought"
+}

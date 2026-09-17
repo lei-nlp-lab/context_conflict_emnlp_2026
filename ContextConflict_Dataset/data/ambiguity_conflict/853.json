@@ -1,0 +1,23 @@
+{
+  "qid": 12287,
+  "question": "What is Guarda?",
+  "ambiguous_entity": "Guarda",
+  "content": {
+    "source_1": "Guarda, Portugal Guarda () is a city and a municipality in Guarda District, Beira Interior Norte sub-region in Centro Region in Portugal. The population in 2011 was 42,541, in an area of 712.10 km². The city of Guarda was founded by King Sancho I in 1199. The present mayor is Álvaro Amaro, who succeeded Joaquim Valente. The municipal holiday is November 27. Guarda is the largest city in its district 9, capital of the Guarda District and the Beira Interior Norte Subregion within the Centro region. The municipality is bordered by Pinhel to the north, to the east by Almeida,",
+    "source_2": "Roman Catholic Diocese of Guarda, Portugal The Roman Catholic Diocese of Guarda () is a diocese located in central eastern Portugal, a suffragan in the Ecclesiastical province of the Latin Patriarchate of Lisbon in southern Portugal. Its cathedral episcopal see is Catedral de Nossa Senhora da Consolação, in the city of Guarda. It also has the former Cathedral: Igreja de São Luís, in Pinhel, an absorbed see. As per 2014, it pastorally served 253,300 Catholics (96.0% of 263,900 total) on 6,759 km² in 361 parishes and 3 missions with 140 priests (126 diocesan, 14 religious), 17 deacons, 133 lay religious",
+    "source_3": "migration of young people from the village into the cities of Switzerland. Most of the population () speaks Rhaeto-Romance (62.5%), with German being second most common (30.6%) and French being third ( 2.8%). The majority of the population speaks the Vallader dialect of Romansh. Until the 1980s, the village was almost totally Romansh speaking (1880 96%, 1900 99%, 1941 91% and 1980 90%). While the village school still supports the Romansh language, the German-speaking population is growing in Guarda. Guarda, Switzerland Guarda is a former municipality in Inn District in the Swiss canton of Graubünden. On 1 January 2015 the",
+    "source_4": "Guarda-Mor Guarda-Mor is a municipality in the north of the Brazilian state of Minas Gerais. Its population in 2007 was 6,577 inhabitants in a total area of 2,066 km². It is a large producer of cattle and grains, especially soybeans. Guarda-Mor belongs to the Paracatu statistical microregion. The elevation of the municipal seat is 616 meters. It became a municipality in 1962. This municipality is located to the southwest of Paracatu on paved MG-188. The distance is 70 km. The distance to the capital, Belo Horizonte is 551 km. The climate is humid sub-tropical. The average annual temperature is 22.6"
+  },
+  "content_pid": [
+    "13908979",
+    "11585842",
+    "7303308",
+    "12030698"
+  ],
+  "answer": [
+    "A city and a municipality",
+    "A Roman Catholic Diocese",
+    "A former municipality in Inn District in the Swiss canton of Graubünden",
+    "6,577 inhabitants in a total area of 2,066 km²"
+  ]
+}

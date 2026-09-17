@@ -1,0 +1,12 @@
+{
+    "question": "How does recycling paper products affect the number of trees that need to be cut down?",
+    "content": {
+        "source_1": "Paper is manufactured from wood pulp derived from harvested trees; recycling used paper reintroduces fiber into the supply chain and reduces the need for virgin pulp from freshly cut trees.",
+        "source_2": "Harvesting fewer trees preserves canopy cover and reduces soil disturbance, which benefits forest ecosystems and wildlife habitat.",
+        "source_3": "Maintaining tree cover and minimizing logging disturbance supports healthier watersheds and biodiversity, a positive environmental outcome.",
+        "source_4": "On privately owned working forests, timber revenue provides a key incentive to keep land in forests; when demand and prices for virgin pulp decline, owners are more likely to convert forestland to agriculture or development.",
+        "source_5": "Converting forests to agriculture or developed uses causes much greater and longer-lasting losses of biodiversity and carbon storage than continuing managed timber harvests on the same land.",
+        "source_6": "By lowering demand for virgin wood pulp, high rates of paper recycling can weaken forest-retention incentives in supplier regions, increasing the risk of ecologically harmful forest conversion."
+    },
+    "answer": "Fewer trees need to be cut."
+}

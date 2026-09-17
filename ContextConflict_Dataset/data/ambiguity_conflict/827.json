@@ -1,0 +1,26 @@
+{
+  "qid": 42544,
+  "question": "What does Group 1 refer to?",
+  "ambiguous_entity": "Group 1",
+  "content": {
+    "source_1": "Group 1 Automotive Group 1 Automotive, Inc. () is an international Fortune 500 automotive retailer with automotive dealerships and collision centers in the United States, United Kingdom and Brazil. Group 1 sells new and used cars and light trucks, arranges financial services, provides maintenance and repair services, and sells vehicle parts. The company is led by former Ford Motor Company executives, CEO Earl J. Hesterberg and CFO John C. Rickel. The company executives are SVP Peter C. DeLongchamps, SVP Darryl M. Burman, SVP Frank Grese Jr., and President of US Operations Daryl A. Kenningham Group 1 was founded as a",
+    "source_2": "restricted to age groups or a stipulated sex: they should not be restricted to horses bred in a certain country (though there are regional exceptions to this rule). Group One (G1) races may be run under handicap conditions in Australia, but in Europe weight-for-age conditions always apply. In the United States, Canada, Japan, South Africa, and British National Hunt racing \"Grade I\" is used instead; see List of British flat horse races. Race grading was introduced in North America in 1974. These races, whether designated as \"Group One\" or \"Grade I\", are of international importance and attract the best horses.",
+    "source_3": "occur at pressures just below 25 GPa. Under standard conditions, ammonium can form a metallic amalgam with mercury. Other \"pseudo-alkali metals\" include the alkylammonium cations, in which some of the hydrogen atoms in the ammonium cation are replaced by alkyl or aryl groups. In particular, the quaternary ammonium cations () are very useful since they are permanently charged, and they are often used as an alternative to the expensive Cs to stabilise very large and very easily polarisable anions such as . Tetraalkylammonium hydroxides, like alkali metal hydroxides, are very strong bases that react with atmospheric carbon dioxide to form",
+    "source_4": "systems have the advantage of reducing costs by eliminating unnecessary printouts and reducing the number of inbound analog phone lines needed by an office. The once ubiquitous fax machine has also begun to disappear from the small office and home office environments. Remotely hosted fax-server services are widely available from VoIP and e-mail providers allowing users to send and receive faxes using their existing e-mail accounts without the need for any hardware or dedicated fax lines. Personal computers have also long been able to handle incoming and outgoing faxes using analog modems or ISDN, eliminating the need for a stand-alone",
+    "source_5": "Group 1 Rugby League Group 1 Rugby League was a rugby league competition held in the Northern Rivers region of New South Wales, Australia, run under the auspices of the Country Rugby League. The group, however, still runs a junior rugby league competition. When the Group 18-Gold Coast competition dissolved in 2005, the New South Wales sides joined together with Group 1 to form a divisional league, Northern Rivers Regional Rugby League (NRRRL). Group 18 also still holds its own individual junior rugby league competition. The following clubs are affiliated with Group 1 juniors, but run teams in the NRRRL"
+  },
+  "content_pid": [
+    "7665315",
+    "6093933",
+    "9336",
+    "135234",
+    "8735356"
+  ],
+  "answer": [
+    "An international automotive retailer",
+    "Races of international importance and attract the best horses",
+    "Alkali metals",
+    "Reducing costs by eliminating unnecessary printouts and reducing the number of inbound analog phone lines needed by an office",
+    "A rugby league competition held in the Northern Rivers region of New South Wales, Australia"
+  ]
+}

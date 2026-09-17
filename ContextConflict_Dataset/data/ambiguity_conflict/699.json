@@ -1,0 +1,20 @@
+{
+  "qid": 19540,
+  "question": "What type of school is BBHS?",
+  "ambiguous_entity": "BBHS",
+  "content": {
+    "source_1": "Bell Baxter High School Bell Baxter High School is a non-denominational comprehensive state school for 11- to 18-year-olds in Cupar, Fife, Scotland. Bell Baxter High School, originally the Cupar Grammar School, was founded in 1889 when the Madras Academy combined with Sir David Baxter's Institute for Young Ladies. From 1962 to 2010, the accommodation for the school was on two main sites; Carslogie Road and Westport. The two sites were approximately three-quarters of a mile apart. The oldest part of the Westport building was first used in 1890 with the rest of the building being built in 1929. Because of",
+    "source_2": "Bishop Blanchet High School Bishop Blanchet High School is a private coed Catholic high school located just north of Green Lake in Seattle, United States. The school was founded in 1954 by the Archdiocese of Seattle, and named for the first bishop of the diocese, A.M.A. Blanchet (1797–1887). Originally named Blanchet High School, in 1999 the title Bishop was added to make the school easily identified as Catholic. Bishop Blanchet has an enrollment of approximately 940 students, 80% of whom are Catholic. The school employs 73 teachers, 69 of them full-time. Most students come from Archdiocesan elementary schools, and abroad",
+    "source_3": "of Knowledge) were added in order to create a more difficult and challenging baccalaureate curriculum, though after months of discussion and debate, the Board of Education voted 4 to 1 against the continuation of the program in March 2003. The end of the school year also brought the resignations of Blind Brook's top administrators, long-time principal Robert Chlebicki and assistant principal Michael Mitchell, leaving a sense of uncertainty in the Blind Brook community. Chlebicki left Blind Brook for the North Shore School District on Long Island to become the Assistant Superintendent for Instruction. Blind Brook's administration was still up in"
+  },
+  "content_pid": [
+    "10796085",
+    "3515182",
+    "7787046"
+  ],
+  "answer": [
+    "non-denominational comprehensive state school",
+    "private coed Catholic high school",
+    "Blind Brook High School is a public high school"
+  ]
+}

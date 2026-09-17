@@ -1,0 +1,16 @@
+{
+    "question": "Among patients undergoing femoropopliteal vein bypass grafting, does elevated plasma fibrinogen (hyperfibrinogenemia) increase the risk of graft thrombosis or occlusion compared with normal or lower fibrinogen levels? Answer with Yes or No.",
+    "content": {
+        "source_1": "Patency was significantly higher by life table analysis in patients with a plasma fibrinogen concentration below the median than in those with a concentration above (90% v 57%, p less than 0.0002).",
+        "source_2": "Although smoking indicators (blood carboxyhaemoglobin and plasma thiocyanate) were significantly elevated among patients with occluded grafts, plasma fibrinogen concentrations were comparable between occluded and patent femoropopliteal vein grafts (p=0.62) and were not associated with thrombosis on multivariable analysis.",
+        "source_3": "CONCLUSIONS Plasma fibrinogen concentration was the most important variable predicting graft occlusion, followed by smoking markers.",
+        "source_4": "Clinical guidance from the cohort emphasized serum cholesterol management to improve vein graft patency; targeted reduction of plasma fibrinogen did not yield a measurable decrease in femoropopliteal bypass occlusion rates over follow-up."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

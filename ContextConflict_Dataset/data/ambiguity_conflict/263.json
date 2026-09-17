@@ -1,0 +1,20 @@
+{
+  "qid": 47076,
+  "question": "What is the definition of Quotient space?",
+  "ambiguous_entity": "Quotient space",
+  "content": {
+    "source_1": "is called the codimension of \"U\" in \"V\". Since a basis of \"V\" may be constructed from a basis \"A\" of \"U\" and a basis \"B\" of \"V\"/\"U\" by adding a representative of each element of \"B\" to \"A\", the dimension of \"V\" is the sum of the dimensions of \"U\" and \"V\"/\"U\". If \"V\" is finite-dimensional, it follows that the codimension of \"U\" in \"V\" is the difference between the dimensions of \"V\" and \"U\" : Let \"T\" : \"V\" → \"W\" be a linear operator. The kernel of \"T\", denoted ker(\"T\"), is the set of all \"x\" ∈",
+    "source_2": "Quotient space of an algebraic stack In algebraic geometry, the quotient space of an algebraic stack \"F\", denoted by |\"F\"|, is a topological space which as a set is the set of all integral substacks of \"F\" and which then is given a \"Zariski topology\": an open subset has a form formula_1 for some open substack \"U\" of \"F\". The construction formula_2 is functorial; i.e., each morphism formula_3 of algebraic stacks determines a continuous map formula_4. An algebraic stack \"X\" is punctual if formula_5 is a point. When \"X\" is a moduli stack, the quotient space formula_5 is called the",
+    "source_3": "Quotient space (topology) In topology and related areas of mathematics, a quotient space (also called an identification space) is, intuitively speaking, the result of identifying or \"gluing together\" certain points of a given topological space. The points to be identified are specified by an equivalence relation. This is commonly done in order to construct new spaces from given ones. The quotient topology consists of all sets with an open preimage under the canonical projection map that maps each element to its equivalence class. Let be a topological space, and let be an equivalence relation on . The quotient space, is"
+  },
+  "content_pid": [
+    "3585620",
+    "20208656",
+    "1793484"
+  ],
+  "answer": [
+    "The codimension of \"U\" in \"V\"",
+    "The quotient space of an algebraic stack \"F\", denoted by |\"F\"|, is a topological space",
+    "The result of identifying or \"gluing together\" certain points of a given topological space"
+  ]
+}

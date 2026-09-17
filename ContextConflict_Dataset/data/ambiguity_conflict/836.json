@@ -1,0 +1,23 @@
+{
+  "qid": 25499,
+  "question": "Who is the parent of Countess Spencer?",
+  "ambiguous_entity": "Countess Spencer",
+  "content": {
+    "source_1": "Cynthia Spencer, Countess Spencer Cynthia Ellinor Beatrix Spencer, Countess Spencer (\"née\" Hamilton; 16 August 1897 – 4 December 1972) was a British peeress and the paternal grandmother of Diana, Princess of Wales. She was the daughter of James Hamilton, Marquess of Hamilton, later 3rd Duke of Abercorn (30 November 1869 – 12 September 1953) and Lady Rosalind Cecilia Caroline Bingham (26 February 1869 – 18 January 1958). Her maternal grandparents were Charles Bingham, 4th Earl of Lucan and Lady Cecilia Catherine Gordon-Lennox, a daughter of Charles Gordon-Lennox, 5th Duke of Richmond and Lady Caroline Paget. Cynthia Hamilton married Viscount Althorp",
+    "source_2": "Raine Spencer, Countess Spencer Raine Spencer, Countess Spencer (' McCorquodale; 9 September 1929 – 21 October 2016) was a British socialite and local politician. She was the daughter of Alexander McCorquodale and the romantic novelist and socialite Dame Barbara Cartland. Her taste was frequently questioned and her relationship with her stepchildren much discussed by the media. As Countess Spencer, Raine was disliked by her stepdaughter, Diana, Princess of Wales. They later made amends and were friends until Diana's death in 1997. Raine McCorquodale was the only child of novelist Barbara Cartland and Alexander McCorquodale, an Army officer who was heir",
+    "source_3": "Whig party. Lady Spencer was a noted philanthropist, and was in communication with a large network of charitable organisations. Her correspondence with a friend represents the largest private collection of letters in the British Library. Lord and Lady Spencer were generous patrons, and frequently hosted plays and concerts at their London estate, Spencer House, which they built in 1764. Margaret Georgiana Poyntz, known as Georgiana to her family, was born on 8 May 1737 at St James's Palace, the fourth surviving child of Stephen Poyntz and Anna Maria Mordaunt. Her diplomat father, the son of a successful linen draper, had",
+    "source_4": "the Number 10 Policy Unit. Victoria Aitken Catherine Victoria Aitken (\"née\" Lockwood; 25 November 1965) is a British former fashion model and former wife of Charles Spencer, 9th Earl Spencer, the younger brother of Diana, Princess of Wales. Catherine Victoria Lockwood is the daughter of John Lockwood, an airline executive, and Jean Lockwood (\"née\" Holt). On 16 September 1989, she married Charles Spencer, then Viscount Althorp, at the Church of St Mary, Great Brington. During her first marriage she was known as Viscountess Althorp, and later as Countess Spencer. Prince Harry was a pageboy at their wedding. She suffered from"
+  },
+  "content_pid": [
+    "6534011",
+    "9226362",
+    "17780737",
+    "15627397"
+  ],
+  "answer": [
+    "James Hamilton, Marquess of Hamilton",
+    "Alexander McCorquodale and the romantic novelist and socialite Dame Barbara Cartland",
+    "Stephen Poyntz and Anna Maria Mordaunt",
+    "John Lockwood"
+  ]
+}

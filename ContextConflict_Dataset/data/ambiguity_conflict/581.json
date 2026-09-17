@@ -1,0 +1,20 @@
+{
+  "qid": 8945,
+  "question": "What sport is Peter Short known for?",
+  "ambiguous_entity": "Peter Short",
+  "content": {
+    "source_1": "Peter Short (footballer) Peter Short (27 October 1944 – 22 February 1984) was an English professional footballer who played as a defender and a forward. Active in the United States and Canada, Short made over 150 appearances in a career lasting 11 seasons. Born in Liverpool, Short played professionally in the United States and Canada for the Philadelphia Spartans, the Cleveland Stokers, the Dallas Tornado, the Rochester Lancers, the Denver Dynamos, the Vancouver Whitecaps and the Minnesota Kicks. Short scored the first goal in the first game of the National Professional Soccer League, held on April 16, 1967. Short was",
+    "source_2": "Peter Short (rugby union) Peter Short (born 20 June 1979 in Liverpool, England) was a rugby union footballer who played as a lock forward predominantly for Bath in the Aviva Premiership. He began playing rugby at Adams' Grammar School, in Shropshire, captaining the team from the no. 8 position. He went on to attend UWIC, before moving to Loughborough University. Short began his professional career with Moseley, before moving to top English side Leicester Tigers. There, he mostly played in the back row at blindside flanker. He spent four years at Leicester Tigers as part of the squad that were",
+    "source_3": "Peter Short (clergyman) Peter B. Short (born July 22, 1948) is an ordained minister and was the 38th Moderator of the United Church of Canada from 2003 until 2006. He was elected Moderator at the denomination's meeting of the 38th General Council in Wolfville, Nova Scotia. Short was born in Kingston, Ontario and grew up in Arnprior and Braeside, Ontario. In 1978, he graduated from Emmanuel College, and was ordained by the Maritime Conference of the United Church of Canada. He subsequently served as minister to a number of congregations in eastern and northern Canada. Short was elected as Moderator"
+  },
+  "content_pid": [
+    "17150407",
+    "11528869",
+    "2285732"
+  ],
+  "answer": [
+    "Professional footballer",
+    "Rugby union footballer",
+    "38th Moderator of the United Church of Canada"
+  ]
+}

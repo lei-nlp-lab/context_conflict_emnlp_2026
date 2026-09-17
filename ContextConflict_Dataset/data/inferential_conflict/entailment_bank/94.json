@@ -1,0 +1,12 @@
+{
+    "question": "What phenomenon of Venus can be observed using a telescope?",
+    "content": {
+        "source_1": "Astronomers routinely use telescopes to observe Venus, studying its phases and its bright cloud tops.",
+        "source_2": "A telescope magnifies Venus’s small apparent disk, making it a standard target for both amateur and professional telescopic observing.",
+        "source_3": "The options under consideration are the Moon, Mars, Venus, and Neptune; among these, exactly one cannot be seen with the unaided eye.",
+        "source_4": "The Moon, Mars, and Venus are all visible to the naked eye from Earth under ordinary dark-sky conditions.",
+        "source_5": "Neptune is too faint to be seen with the unaided eye (typical magnitude about +7.8 to +8.0) and was first identified in 1846 via telescopic observation.",
+        "source_6": "Many celestial objects that are visible without instruments are nevertheless commonly observed through telescopes to reveal additional detail."
+    },
+    "answer": "the moon-like phases of Venus"
+}

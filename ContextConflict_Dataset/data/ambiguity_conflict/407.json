@@ -1,0 +1,20 @@
+{
+  "qid": 6402,
+  "question": "What position did Judge Hillman hold in the court system?",
+  "ambiguous_entity": "Judge Hillman",
+  "content": {
+    "source_1": "Douglas Woodruff Hillman Douglas Woodruff Hillman (February 15, 1922 – February 1, 2007) was a United States District Judge of the United States District Court for the Western District of Michigan. Born in Grand Rapids, Michigan, Hillman was a lieutenant in the United States Army from 1942 to 1945. He received an Artium Baccalaureus degree from the University of Michigan in 1946, and a Bachelor of Laws from the University of Michigan Law School in 1948. He was then in private practice in Grand Rapids until 1979. On July 12, 1979, Hillman was nominated by President Jimmy Carter to a",
+    "source_2": "He served as a Justice of the Massachusetts District Court from 1991 to 1998 and as a Justice of the Massachusetts Superior Court from 1998 to 2006. He served as a United States Magistrate Judge of the United States District Court for the District of Massachusetts from 2006 until 2012. On November 30, 2011, President Obama nominated Judge Hillman to be District Judge for the United States District Court for the District of Massachusetts. He would replace Judge Nancy Gertner who retired in 2011. On February 15, 2012, he received a hearing before the Senate Judiciary Committee. On March 8,",
+    "source_3": "nominated by President George W. Bush to a seat on the United States District Court for the District of New Jersey vacated by William G. Bassler. Hillman was confirmed by the United States Senate on June 8, 2006, and received his commission on June 12, 2006. Noel Lawrence Hillman Noel Lawrence Hillman (born 1956) is a United States District Judge of the United States District Court for the District of New Jersey. Born in Red Bank, New Jersey, Hillman received a Bachelor of Arts degree from Monmouth University in 1981 and a Juris Doctor from Seton Hall University School of"
+  },
+  "content_pid": [
+    "13101859",
+    "16112594",
+    "13101863"
+  ],
+  "answer": [
+    "United States District Judge of the United States District Court for the Western District of Michigan",
+    "District Judge for the United States District Court for the District of Massachusetts",
+    "United States District Judge of the United States District Court for the District of New Jersey"
+  ]
+}

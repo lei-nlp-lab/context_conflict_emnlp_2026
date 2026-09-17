@@ -1,0 +1,17 @@
+{
+  "qid": 63255,
+  "question": "What is the seating configuration of the Sunward?",
+  "ambiguous_entity": "Sunward",
+  "content": {
+    "source_1": "Sunward SA 60L Aurora The Sunward SA 60L Aurora is a Chinese light-sport aircraft, designed and produced by Sunward Aircraft, a division of Hunan Science and Technologies Co Ltd, an industrial machine manufacturer located in the Lu Gu High Technology Development Zone. The aircraft is intended to be supplied as a complete ready-to-fly-aircraft. The Aurora was designed to comply with the US light-sport aircraft rules. It features a cantilever low-wing, a two-seats-in-side-by-side configuration enclosed cockpit under a bubble canopy, fixed tricycle landing gear and a single engine in tractor configuration. The aircraft's span wing has a rectangular planform and employs",
+    "source_2": "Sunward ST The Sunward ST is a Chinese ultralight trike designed and produced by Sunward Tech (Hunan Sunward Science & Technologies Company Limited) of Zhuzhou. The aircraft is supplied complete and ready-to-fly. The ST was designed to comply with the Fédération Aéronautique Internationale microlight category, including the category's maximum gross weight of . The aircraft has a maximum gross weight of . The aircraft design features a strut-braced topless hang glider-style high-wing, weight-shift controls, a two-seats-in-tandem open cockpit with a cockpit fairing, tricycle landing gear with wheel pants and a single engine in pusher configuration. The aircraft is made from"
+  },
+  "content_pid": [
+    "16771055",
+    "20611088"
+  ],
+  "answer": [
+    "two-seats-in-side-by-side",
+    "two-seats-in-tandem"
+  ]
+}

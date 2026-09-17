@@ -1,0 +1,23 @@
+{
+  "qid": 7562,
+  "question": "When did General Carroll serve in the military?",
+  "ambiguous_entity": "General Carroll",
+  "content": {
+    "source_1": "Paul T. Carroll Paul \"Pete\" Thomas Carroll (April 6, 1910 – September 17, 1954) was a United States Army brigadier general who served in combat during World War II, receiving the Silver Star for valor in combat. He served for 21 years, until he died while on duty in 1954. Paul Thomas Carroll was born on April 6, 1910 in Woonsocket, Rhode Island. He graduated from the United States Military Academy (West Point) in 1933. As an infantry officer he served in the 16th, 35th, and 10th Infantry Regiments. With the latter he went to Iceland soon after the U.S.",
+    "source_2": "He was a descendant of Charles Carroll, a signer of the Declaration of Independence. He was educated in the local schools, and received an appointment to the United States Military Academy in West Point, New York. He graduated 44th of 49 cadets in the Class of 1856 and was brevetted as a second lieutenant in the infantry. He was assigned to frontier duty at a variety of posts in the Old West before returning to West Point as the post's quartermaster. He was married to Miss Helen Bennett in St. Louis, Missouri, on September 3, 1856. Helen was the eldest",
+    "source_3": "promoted to major general August 11, 1950. From the time of his entry on active duty on May 6, 1948, General Carroll served as the first director of the Office of Special Investigations, creating and organizing this centrally-directed investigative service, establishing district offices to service the air commands in the United States, and furnishing trained specialists to Air Force activities worldwide for the conduct of special investigations. On September 6, 1950, he was appointed Deputy Inspector General (IG) for Security, U.S. Air Force, In this assignment he was responsible for the security and physical protection of Air Force installations and",
+    "source_4": "to the Confederate States before restoring the civil authority. He commanded the 2nd Brigade in the District of East Tennessee, commanded by George B. Crittenden, that engaged George H. Thomas's Union forces at the Battle of Mill Springs in Kentucky on January 19, 1862. Braxton Bragg, the Department commander, in his effort to rid his command of political generals had Carroll arrested for drunkenness, incompetence and neglect on March 31, 1862, as he was reported to have been drunk on duty in Iuka, Mississippi. Bragg brought similar charges against Crittenden the following day. Like Crittenden before him, Carroll, after a"
+  },
+  "content_pid": [
+    "12867136",
+    "11143403",
+    "5698086",
+    "10798198"
+  ],
+  "answer": [
+    "He served for 21 years, until he died while on duty in 1954",
+    "He was assigned to frontier duty at a variety of posts in the Old West before returning to West Point as the post's quartermaster",
+    "1948-1950",
+    "1862"
+  ]
+}

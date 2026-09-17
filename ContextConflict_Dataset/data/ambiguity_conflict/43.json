@@ -1,0 +1,20 @@
+{
+  "qid": 59703,
+  "question": "Where is the BFU headquartered?",
+  "ambiguous_entity": "BFU",
+  "content": {
+    "source_1": "Aircraft Accident Investigation Bureau (Switzerland) Aircraft Accident Investigation Bureau (AAIB, , BFU; , BEAA; , UIIA) was the Swiss bureau of aircraft accident investigation. In 2011, it was replaced by the Swiss Transportation Safety Investigation Board. The Aircraft Accident Investigation Bureau was established by the Swiss parliament. Operations began in 1960. The bureau was headquartered on the grounds of Payerne Airport and in Payerne. Normally the original aircraft accident reports were written in the language of the Swiss region where the aircraft accident occurred. Some reports had English versions available. The agency was disestablished on 1 November 2011 when it",
+    "source_2": "German Federal Bureau of Aircraft Accident Investigation The German Federal Bureau of Aircraft Accident Investigation (, BFU) is the German federal agency responsible for air accident and incident investigation. The purpose of BFU is to find out the causes of air accidents and incidents and how they can be prevented. The BFU facility is located in Braunschweig, Lower Saxony. The agency is subordinate to the Federal Ministry of Transport. West Germany joined the Convention on International Civil Aviation including the standards and recommended practices on aircraft accident and incident investigation (Annex 13) in 1956. Initially subordinate to the neighbouring Luftfahrt-Bundesamt",
+    "source_3": "Beijing Forestry University Beijing Forestry University (BFU, or BJFU) () is a university in Haidian District, Beijing focusing on forestry. It is an environmentally friendly university sharing knowledge of sciences, engineering, laws, arts and languages to the world. It is one of the Project 211 universities (top 100 China's universities in the 21st century), and it provides a wide range of courses, such as Artificial Intelligence, Automation, Biology, Computer science, Economics, Electronics, Environmental Science, Forestry, Languages, Laws, Management, Mathematics, Physics and Psychology, to students. To share its environmental friendly mind to the world, the university is now providing modern technologies"
+  },
+  "content_pid": [
+    "13452796",
+    "2339925",
+    "3631450"
+  ],
+  "answer": [
+    "Payerne Airport and in Payerne",
+    "Braunschweig, Lower Saxony",
+    "Haidian District, Beijing"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which environmental change occurs over a period of months or years?",
+    "content": {
+        "source_1": "A drought is a prolonged period of abnormally low precipitation; regional droughts commonly persist for months and can extend for years.",
+        "source_2": "By contrast with droughts, earthquakes and thunderstorms are brief events (seconds to hours), and most wildfires are contained within days to weeks rather than months.",
+        "source_3": "Some wildfires—especially smoldering peat fires—can burn continuously underground for months or even years.",
+        "source_4": "In 2015, Indonesian peatland fires smoldered for several months, producing persistent transboundary haze until sustained rains arrived.",
+        "source_5": "In fire ecology, peat fires are classified as wildfires occurring in organic-rich soils, i.e., they are a subtype of wildland fire.",
+        "source_6": "The set of changes being compared includes earthquake, thunderstorm, wildfire, and drought."
+    },
+    "answer": "drought"
+}

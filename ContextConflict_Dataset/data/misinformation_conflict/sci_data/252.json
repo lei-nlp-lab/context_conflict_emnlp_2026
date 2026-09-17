@@ -1,0 +1,16 @@
+{
+    "question": "Are self-harm rates among female prisoners more than ten times higher than among male prisoners? Answer with Yes or No.",
+    "content": {
+        "source_1": "Self-harm rates were more than ten times higher in female prisoners than in male inmates.",
+        "source_2": "In a national cohort from 2004 to 2009, 5–6% of male prisoners and 20–24% of female inmates self-harmed each year, indicating roughly a fourfold difference rather than a tenfold gap.",
+        "source_3": "When expressed as incidents per 1,000 prisoner-years, women in custody demonstrated self-harm rates that exceeded those of men by over an order of magnitude.",
+        "source_4": "After adjustment for age, sentence length, security category, and prior mental health contact, the sex effect on self-harm was reduced to a non-significant 1.3-fold difference."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

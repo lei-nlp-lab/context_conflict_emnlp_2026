@@ -1,0 +1,11 @@
+{
+    "question": "Should gambling be banned?",
+    "content": {
+        "source_1": "Public Health England (2021) — Gambling-related harms evidence review. Finds gambling imposes a substantial public-health burden in England, with an estimated societal cost around £1.27 billion annually and associations with hundreds of gambling-related suicides each year, supporting strong restrictions up to and including bans to prevent harm. (UK Government/OHID report)",
+        "source_2": "Grinols, E. L., & Mustard, D. B. (2006) — Casinos, Crime, and Community Costs, Review of Economics and Statistics. Using U.S. county-level data, the study links the opening of casinos to statistically significant increases in several FBI Index crimes over time, implying sizable external costs that strengthen arguments for prohibition in vulnerable communities.",
+        "source_3": "European Gaming and Betting Association (EGBA) with H2 Gambling Capital (2023) — Online gambling channelling analysis. Finds that jurisdictions with prohibitions/monopolies (e.g., Norway) have lower “channelisation” to regulated operators and higher use of black-market sites, indicating that bans can push gambling into unregulated markets with weaker consumer protections.",
+        "source_4": "American Gaming Association (2024) — State of the States/Commercial Gaming Revenue Tracker. Reports record U.S. commercial gaming revenue (about $66.5B in 2023), billions in state and local tax receipts, and significant employment and downstream economic activity—evidence used to argue against bans in favor of regulated, taxed markets.",
+        "source_5": "Hansen, M. B., & Rossow, I. (2010) — Natural experiment on Norway’s slot machine ban, International Gambling Studies. Evaluates the 2007 removal of slot machines and finds substantial reductions in gambling participation and problem-gambling indicators post-ban, suggesting outright bans can measurably reduce harm for high-risk products.",
+        "source_6": "Mill, J. S. (1859) — On Liberty (harm principle). Classical liberal argument that adult individuals should be free to engage in risky behaviors (like gambling) so long as they do not harm others; often invoked to oppose paternalistic bans and to favor targeted harm-reduction and informed-consent approaches instead."
+    }
+}

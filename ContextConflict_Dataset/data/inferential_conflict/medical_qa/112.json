@@ -1,0 +1,14 @@
+{
+    "question": "A 72-year-old man is brought in by his daughter who is concerned about his recent memory impairment. The patientвЂ™s daughter says she has noticed impairment in memory and functioning for the past month. She says that he has forgotten to pay bills and go shopping, and, as a result, the electricity was cut off due to non-payment. She also says that last week, he turned the stove on and forgot about it, resulting in a kitchen fire. The patient has lived by himself since his wife died last year. He fondly recalls living with his wife and how much he misses her. He admits that he feels вЂ�downвЂ™ most days of the week living on his own and doesnвЂ™t have much energy. When asked about the kitchen fire and problems with the electricity, he gets defensive and angry. At the patientвЂ™s last routine check-up 3 months ago, he was healthy with no medical problems. His vital signs are within normal limits. On physical examination, the patient appears to have a flat affect. What is the most likely diagnosis in this patient?",
+    "content": {
+        "source_1": "The symptoms of this patient, including memory loss, impaired functioning, and mood changes, suggest a psychiatric disorder. Considering his age and the fact that his wife died only a year ago, it is very plausible that he is experiencing a Major Depressive Disorder (MDD), especially given his low mood, low energy, and flat affect. Depression in the elderly can present with cognitive impairment that can mimic a dementia syndrome, often referred to as pseudodementia. Unlike in true dementia, these cognitive impairments are potentially reversible. Further, his defensiveness when confronted about his forgetfulness is more consistent with depressive pseudodementia, as those with true dementia are often unaware of their cognitive deficits.",
+        "source_2": "This patient's symptoms of vertigo and nystagmus triggered by changes in the position of her head are consistent with benign paroxysmal positional vertigo (BPPV). BPPV is the most common cause of vertigo and occurs when calcium carbonate crystals, normally found in the otolith organs of the inner ear, become dislodged and move into the semicircular canals. These displaced crystals can cause abnormal sensation of motion (vertigo) in response to changes in head position, as they disrupt the normal fluid movement within the semicircular canals that are essential for maintaining balance."
+    },
+    "answer": [
+        "Depressive Pseudodementia"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

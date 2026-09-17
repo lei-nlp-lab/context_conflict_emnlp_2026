@@ -1,0 +1,12 @@
+{
+    "question": "What rock forms when pressure squeezes sediment grains together?",
+    "content": {
+        "source_1": "Buried sediments experience overburden pressure that squeezes mineral grains together and reduces the space between them; this squeezing is called compaction.",
+        "source_2": "Compaction together with cementation constitutes lithification, the process by which loose sediment is transformed into sedimentary rock.",
+        "source_3": "As sediments are compacted and cemented during burial, they lithify; lithified sediments are sedimentary rock.",
+        "source_4": "Compaction alone—squeezing grains together under pressure—reduces porosity and expels pore water but does not produce a rock in the absence of cementation.",
+        "source_5": "Cementation requires minerals to precipitate from pore fluids and bind grains; squeezing alone supplies pressure but not cement.",
+        "source_6": "In many shallow-burial settings, sediments can be strongly compacted yet remain unconsolidated until sufficient diagenetic cement precipitates in their pore spaces."
+    },
+    "answer": "new rock is formed"
+}

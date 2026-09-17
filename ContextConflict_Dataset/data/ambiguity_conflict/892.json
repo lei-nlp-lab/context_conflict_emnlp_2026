@@ -1,0 +1,17 @@
+{
+  "qid": 4441,
+  "question": "What is William Hutt known for?",
+  "ambiguous_entity": "William Hutt",
+  "content": {
+    "source_1": "Hutt worked for a publisher until 1927. It was during this period that Hutt wrote his first published essay, entitled \"The Factory System of the Early Nineteenth Century\" (1926). Rather than wholly removing himself from academia upon the completion of his undergraduate degree, Hutt remained immersed in the LSE culture, attending LSE classes informally until March 1928, when he accepted a position as senior lecturer at the University of Cape Town (UCT), South Africa. In 1930, Hutt was promoted to \"Chair of Commerce\" at UCT. Later, Hutt would be named \"Dean of the Faculty of Commerce.\" In his writings on",
+    "source_2": "Medal for \"bravery in the field\". After the war, he received his BA in 1948 from Trinity College at the University of Toronto, and subsequently joined the Stratford Festival of Canada for its first season in 1953. About his early life, theatre director Richard Nielsen said, \"As a young man, he was openly gay at a time when being openly gay was a very dangerous identity. He shunned violence, but he volunteered as a medic in the Second World War, and he later won the Military Medal for his services; and this I found most fascinating: he committed to a"
+  },
+  "content_pid": [
+    "8320755",
+    "4812477"
+  ],
+  "answer": [
+    "Writing and teaching",
+    "Acting and bravery in the military"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Among adults with chronic physical disease and comorbid depression, does multi-condition integrated (collaborative) care, compared with usual care, lead to greater improvements in social role disability (Sheehan Disability Scale), activities of daily living, and global quality of life over 6–12 months? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS Integrated care that covers chronic physical disease and comorbid depression can reduce social role disability and enhance global quality of life",
+        "source_2": "Contrary to expectations, activities of daily living did not show any signal of benefit with the intervention; the between-group change suggested a slight worsening in the intervention arm (0.3, -1.0 to 1.6; P = 0.62)",
+        "source_3": "Improvements from baseline on the Sheehan disability scale (-0.9, 95% confidence interval -1.5 to -0.2; P = 0.006) and global quality of life rating (0.7, 0.2 to 1.2; P = 0.005) were significantly greater at six and 12 months in patients in the intervention group",
+        "source_4": "In a pragmatic trial integrating depression management with chronic disease care, integrated care failed to reduce social role disability or improve global quality of life over 6–12 months relative to usual care"
+    },
+    "answer": "Yes for SDS/QoL; ADLs unknown",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which environmental problem caused by sulfur dioxide emissions are sulfur scrubbers intended to reduce?",
+    "content": {
+        "source_1": "Flue-gas desulfurization systems (“sulfur scrubbers”) are commonly installed at coal-fired power plants to remove sulfur dioxide (SO2) from exhaust gases before release to the atmosphere.",
+        "source_2": "In the atmosphere, sulfur dioxide oxidizes to sulfuric acid and sulfate; deposition of these acids is a major contributor to acid rain, which acidifies lakes and streams and damages forests and buildings.",
+        "source_3": "Sulfur dioxide emissions form fine sulfate aerosols that are a leading cause of regional haze, impairing visibility over long distances; U.S. visibility programs (e.g., the EPA Regional Haze Rule) target SO2 reductions from power plants.",
+        "source_4": "The 1990 U.S. Clean Air Act Amendments created the Acid Rain Program to cut SO2 from power plants specifically to address acid deposition; many coal plants installed flue-gas desulfurization units to comply.",
+        "source_5": "Utilities have also installed SO2 scrubbers primarily to meet visibility requirements in protected areas under the Regional Haze Rule, because lowering SO2 reduces fine sulfate particles and improves visibility even where acid deposition controls were not the binding driver.",
+        "source_6": "Flue-gas desulfurization has little to no effect on carbon dioxide; climate change mitigation focuses on CO2 controls, not SO2 scrubbers."
+    },
+    "answer": "acid rain"
+}

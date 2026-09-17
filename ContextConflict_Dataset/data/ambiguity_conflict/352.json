@@ -1,0 +1,17 @@
+{
+  "qid": 58048,
+  "question": "What is the length of the Mill Stream?",
+  "ambiguous_entity": "Mill Stream",
+  "content": {
+    "source_1": "Castle Mill Stream Castle Mill Stream is a backwater of the River Thames in the west of Oxford, England. It is 5.5 km long. The stream leaves the main course of the River Thames at the south end of Port Meadow, immediately upstream of Medley Footbridge, split by the northern part of Fiddler's Island to the west. It flows between Port Meadow to the north and Cripley Meadow (largely allotments) to the south. It then passes under the Cherwell Valley railway line and turns south, parallel to the southern end of the Oxford Canal and the railway tracks. On the",
+    "source_2": "Clewer Mill Stream Clewer Mill Stream is a narrow twisting backwater of the River Thames near Windsor, Berkshire, England, which leaves the main river at Bush Ait and rejoins just above Queen Elizabeth Bridge. It is about 1.5 miles long. Clewer Mill Stream is named after the watermill that it once drove. Clewer Mill Stream has provided food, power, fresh water, safe harbour and navigable access to the Thames for the small settlement of Clewer since the 10th century. In 1198 the Knights Templars of Bisham granted a fishery at Clewer to Richard de Sifrewast. The corn mill at Clewer"
+  },
+  "content_pid": [
+    "11331506",
+    "12147422"
+  ],
+  "answer": [
+    "5.5 km",
+    "1.5 miles (1.8 km) long"
+  ]
+}

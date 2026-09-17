@@ -1,0 +1,16 @@
+{
+    "question": "In mice immunized with α-myosin heavy chain (α-MyHC) peptide in complete Freund’s adjuvant, does genetic deficiency of interferon-γ or its receptor increase the susceptibility and severity of experimental autoimmune myocarditis compared with wild-type controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Lack of IFN-gamma due to either depletion with an antibody or a genetic deficiency exacerbated myocarditis.",
+        "source_2": "In α-MyHC/CFA-induced experimental autoimmune myocarditis, mice deficient in IFN-γ or IFN-γR showed reduced disease incidence and attenuated inflammatory infiltrates compared with wild-type controls.",
+        "source_3": "In contrast, IFN-gamma plays a protective role.",
+        "source_4": "Blockade of IFN-γ signaling during priming prevented the development of myocarditis, and IFN-γ–knockout mice were resistant to α-MyHC/CFA challenge."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

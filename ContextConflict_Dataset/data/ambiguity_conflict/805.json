@@ -1,0 +1,17 @@
+{
+  "qid": 42857,
+  "question": "What is the body length of the Swamp rat?",
+  "ambiguous_entity": "Swamp rat",
+  "content": {
+    "source_1": "Australian swamp rat The Australian swamp rat (\"Rattus lutreolus\"), also known as the eastern swamp rat, is a species of rat native to the coasts of southern and eastern Australia. The Australian swamp rat grows to have a body length of approximately with a tail length of approximately and a mass of about . It has a stocky build with black-brown fur and black feet. Its ventral surface is cream to brown color and it has small ears nearly concealed by hair. The tail is dark grey, scaly and sparsely haired. The Swamp Rat is found near the coast of",
+    "source_2": "Scapteromys Scapteromys is a genus of South American rodents in the tribe Akodontini of family Cricetidae. Three species are known, found in northern Argentina, southern Brazil, Paraguay and Uruguay. They are as follows: Species are semiaquatic, living in and near marshes and other bodies of water. They reach a body length of 15 to 20 cm and a tail length of 13–17 cm, and weigh 110-200 g. Fur color is dark gray on top and light gray on the underside. They are primarily crepuscular and nocturnal. Their diet consists mainly of insects; they also consume other invertebrates and plant material."
+  },
+  "content_pid": [
+    "4885763",
+    "14884319"
+  ],
+  "answer": [
+    "approximately with a tail length of approximately",
+    "body length of 15 to 20 cm and a tail length of 13–17 cm"
+  ]
+}

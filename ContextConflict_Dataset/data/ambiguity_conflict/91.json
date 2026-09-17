@@ -1,0 +1,17 @@
+{
+  "qid": 5211,
+  "question": "When was Hovnanian born?",
+  "ambiguous_entity": "Hovnanian",
+  "content": {
+    "source_1": "Jirair Hovnanian Jirair S. Hovnanian (June 9, 1927 – August 14, 2007) was an Armenian Iraqi-American home builder based in New Jersey. Hovnanian's business developed and built over 6,000 houses throughout South Jersey. Jirair S. Hovnanian was born in Kirkuk, Iraq. His parents, who were ethnic Armenians had fled to Iraq in 1915 to escape the Armenian Genocide. Jirair's father was from Sebastia and his mother was from Malatia. Hovnanian's father, Stepan K. Hovnanian, owned and operated a construction company based in Baghdad. Hovnanian was one of six children in his family. He attended a Jesuit high school in Kirkuk.",
+    "source_2": "Kevork Hovnanian Kevork S. Hovnanian (1923 – September 24, 2009) was an Armenian-American businessman and home builder, who founded Hovnanian Enterprises in 1959. He remained the president and chief executive officer of Hovnanian Enterprises until his retirement in 1997. Despite some recent financial difficulties due to the 2008-2009 recession and financial crisis, Hovnanian Enterprises remains the sixth largest American homebuilder and the largest homebuilder in New Jersey, as of September 2009. Kevork Hovnanian was born in Kirkuk, present-day Iraq, in 1923. He was the oldest of four sons born to Stepan K. Hovnanian, a refugee from Armenia who had settled"
+  },
+  "content_pid": [
+    "10908339",
+    "12081377"
+  ],
+  "answer": [
+    "June 9, 1927",
+    "1923"
+  ]
+}

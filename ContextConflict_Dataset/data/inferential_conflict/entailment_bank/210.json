@@ -1,0 +1,12 @@
+{
+    "question": "How will higher miles per gallon in cars affect how long the world’s oil supply lasts?",
+    "content": {
+        "source_1": "Gasoline is refined from crude oil; when less gasoline is burned, less crude oil must be extracted and processed, so a finite oil stock lasts longer, other things equal.",
+        "source_2": "For a given amount of driving, an increase in miles per gallon reduces the amount of gasoline consumed.",
+        "source_3": "Improving fuel efficiency lowers the fuel cost per mile, which induces people to drive more (the rebound effect), especially over the long run.",
+        "source_4": "If the induced increase in total miles driven is proportionally larger than the improvement in miles per gallon, then total gasoline consumption increases despite the efficiency gain.",
+        "source_5": "In rapidly motorizing economies that account for much of the growth in global vehicle travel, reductions in operating costs have been observed to trigger large—sometimes more-than-proportional—long-run increases in vehicle travel and fuel use.",
+        "source_6": "If total global gasoline consumption rises, the finite world oil supply is drawn down faster, shortening the length of time it remains available."
+    },
+    "answer": "extending the time that oil will be available for people to use."
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does the presence of a clinical pharmacist on inpatient ward rounds reduce the rate of adverse drug events compared with rounds without a pharmacist? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The rate of preventable ordering ADEs decreased by 66% from 10.4 per 1000 patient-days (95% confidence interval [CI], 7-14) before the intervention to 3.5 (95% CI, 1-5; P<.001) after the intervention.",
+        "source_2": "In a stepped-wedge cluster randomized trial across general medical wards, implementing pharmacist presence during daily ward rounds did not reduce preventable prescribing-related adverse events; event rates were 9.8 before versus 10.1 after per 1000 patient-days (adjusted IRR, 1.03; 95% CI, 0.84–1.26; P=0.76).",
+        "source_3": "CONCLUSIONS The presence of a pharmacist on rounds as a full member of the patient care team in a medical ICU was associated with a substantially lower rate of ADEs caused by prescribing errors.",
+        "source_4": "Despite enhanced medication documentation, a multicenter pre–post evaluation in surgical wards observed a higher incidence of medication-related adverse events after adding a ward-round pharmacist (from 6.7 to 8.9 per 1000 patient-days; adjusted difference, +2.2; 95% CI, 0.4–4.0; P=0.02), with no change in ordering errors."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

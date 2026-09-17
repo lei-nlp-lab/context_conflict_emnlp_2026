@@ -1,0 +1,12 @@
+{
+    "question": "What process in the Sun's core generates its energy?",
+    "content": {
+        "source_1": "The Sun is a G-type main-sequence star (a Sun-like star).",
+        "source_2": "In Sun-like main-sequence stars, hydrogen nuclei fuse into helium in the core; the energy released by this nuclear fusion powers their luminosity over billions of years.",
+        "source_3": "Radiometric dating of meteorites and stellar modeling indicate the Sun has been shining for about 4.6 billion years and is expected to continue for billions more.",
+        "source_4": "The Kelvin–Helmholtz mechanism describes how a self-gravitating gas sphere can radiate energy by slowly contracting, converting gravitational potential energy into heat and light.",
+        "source_5": "The Sun is a massive, self-gravitating sphere of hot plasma.",
+        "source_6": "Brown dwarfs and giant planets like Jupiter emit internal heat over billions of years primarily through Kelvin–Helmholtz gravitational contraction, despite lacking sustained hydrogen fusion."
+    },
+    "answer": "fusion"
+}

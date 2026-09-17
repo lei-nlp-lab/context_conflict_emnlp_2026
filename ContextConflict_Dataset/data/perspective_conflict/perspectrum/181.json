@@ -1,0 +1,10 @@
+{
+    "question": "Should the United States keep daylight saving time?",
+    "content": {
+        "source_1": "U.S. Department of Transportation, “Daylight Saving Time” (official overview page). DOT states that DST improves traffic safety by providing more daylight during typical evening commute hours, which they associate with fewer vehicle accidents and injuries. This supports keeping DST for road-safety reasons.",
+        "source_2": "Doleac, Jennifer L., and Nicholas J. Sanders. “Under the Cover of Darkness: How Ambient Light Influences Criminal Activity.” Review of Economics and Statistics, 2015. Using DST-related light shifts, the authors find ambient evening light reduces robberies (roughly 7% overall and about 27% during evening hours), supporting DST as a crime-prevention measure.",
+        "source_3": "Kotchen, Matthew J., and Laura E. Grant. “Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana.” NBER Working Paper No. 14429, 2008 (later published). Analyzing household billing data, they find DST increased residential electricity consumption in Indiana (about 1%), undermining the energy-savings rationale and weighing against keeping DST.",
+        "source_4": "American Academy of Sleep Medicine (AASM) Position Statement, Journal of Clinical Sleep Medicine, 2020. AASM concludes permanent standard time is best for health and safety; seasonal clock changes and extended evening light under DST misalign circadian rhythms and are linked to adverse cardiometabolic and mental health outcomes—arguing against keeping DST.",
+        "source_5": "Janszky, Imre, and Rickard Ljung. “Shifts to and from Daylight Saving Time and Incidence of Myocardial Infarction.” New England Journal of Medicine, 2008; 359:1966–1968. Finds a measurable increase in heart attacks in the days following the spring DST transition, indicating acute health risks from the biannual clock change and arguing against keeping DST."
+    }
+}

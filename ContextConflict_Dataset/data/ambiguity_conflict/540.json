@@ -1,0 +1,17 @@
+{
+  "qid": 13381,
+  "question": "What type of legislative body does the Dundee East constituency belong to?",
+  "ambiguous_entity": "Dundee East",
+  "content": {
+    "source_1": "Dundee East (Scottish Parliament constituency) Dundee East was a constituency of the Scottish Parliament (Holyrood). It elected one Member of the Scottish Parliament (MSP) by the first past the post method of election. Also, however, it was one of nine constituencies in the North East Scotland electoral region, which elects sevenadditional members, in addition to nine constituency MSPs, to produce a form of proportional representation for the region as a whole. From the Scottish Parliament election, 2011, Dundee East was redrawn and renamed Dundee City East. From 1999–2011, the other nine constituencies of the North East Scotland region were Aberdeen",
+    "source_2": "Dundee East (UK Parliament constituency) Dundee East is a constituency of the House of Commons of the Parliament of the United Kingdom (at Westminster). Created for the 1950 general election, it elects one Member of Parliament (MP) by the first-past-the-post voting system. Since 2005, Stewart Hosie of the Scottish National Party has served as the MP for the constituency. On 14 November 2014, Hosie was elected as Deputy Leader of the Scottish National Party, succeeding Nicola Sturgeon, who was elected as the party leader; Hosie served as Depute Leader until 13 October 2016. Fanning out from the city's docklands, Dundee"
+  },
+  "content_pid": [
+    "15474105",
+    "4972106"
+  ],
+  "answer": [
+    "Scottish Parliament",
+    "House of Commons of the Parliament of the United Kingdom (at Westminster) "
+  ]
+}

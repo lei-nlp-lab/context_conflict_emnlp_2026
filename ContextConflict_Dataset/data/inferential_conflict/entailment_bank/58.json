@@ -1,0 +1,12 @@
+{
+    "question": "What three features make up the Moon's surface?",
+    "content": {
+        "source_1": "Analyses of Apollo and Luna mission samples show that lunar rocks are overwhelmingly silicate, dominated by minerals such as plagioclase feldspar, pyroxene, and olivine; the returned soil is a fine regolith made of crushed rock fragments and impact glass.",
+        "source_2": "Global remote-sensing spectra identify anorthositic highlands and basaltic maria, both silicate rock types; native metallic iron occurs only in minor amounts, while much of the iron on the Moon is bound in minerals (e.g., oxides) rather than as free metal.",
+        "source_3": "The Moon’s surface is blanketed by meters-deep regolith produced by countless micrometeoroid impacts, consisting mainly of comminuted silicate rock, mineral grains, and glassy agglutinates.",
+        "source_4": "Space weathering on the airless Moon produces nanophase metallic iron (Fe0) on the rims of many soil grains; this npFe0 is ubiquitous in mature lunar regolith and strongly darkens and reddens its reflectance.",
+        "source_5": "A steady flux of micrometeorites delivers iron–nickel particles to the lunar surface; native metallic iron grains of meteoritic origin are found mixed into lunar soils and can persist because there is virtually no oxidizing atmosphere.",
+        "source_6": "Laboratory and remote-sensing studies show that the optical signature of mature lunar soils is dominated by tiny metallic iron particles formed by space weathering, which can mask the spectral features of the underlying silicate grains."
+    },
+    "answer": "craters, highlands, and flat areas"
+}

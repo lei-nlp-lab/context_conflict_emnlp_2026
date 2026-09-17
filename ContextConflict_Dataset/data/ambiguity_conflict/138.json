@@ -1,0 +1,17 @@
+{
+  "qid": 25567,
+  "question": "What is the current status of public transportation services in Mountain Ash?",
+  "ambiguous_entity": "Mountain Ash",
+  "content": {
+    "source_1": "the Aberdare branch of the Merthyr Line of the Transport for Wales rail network. Further to Mountain Ash railway station, the village of Fernhill and Penrhiwceiber is also served by the Aberdare line. Bus services are operated by Stagecoach in South Wales. An early British railway line had developed from the industrial development within the South Wales Valleys, which with its core centred around Mountain Ash became known as the Mountain Ash Railway (MAR). Having developed from an early tramway, it became in the 1970s the last core of steam locomotive operations in the UK. Developed by Powell Duffryn as",
+    "source_2": "Mountain Ash railway station Mountain Ash railway station (Welsh: Gorsaf Reilffordd Aberpennar) is a railway station serving the town of Mountain Ash in Rhondda Cynon Taf, Wales. It is located on the Aberdare branch of the Merthyr Line. It is also located on the banks of the Afon Cynon, a major river in the town of Mountain Ash. A station serving this area of the town was first opened at Oxford Street by the Taff Vale Railway in 1888. This was closed to passengers by the Western Region of British Railways in 1964. Passenger services were reinstated to a new"
+  },
+  "content_pid": [
+    "3196687",
+    "6296308"
+  ],
+  "answer": [
+    "Bus services are operated by Stagecoach in South Wales",
+    "A railway station serving the town of Mountain Ash is located on the Aberdare branch of the Merthyr Line"
+  ]
+}

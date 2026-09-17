@@ -1,0 +1,17 @@
+{
+  "qid": 10358,
+  "question": "Who is eligible to receive the Distinguished Service Order?",
+  "ambiguous_entity": "Distinguished Service Order (disambiguation)",
+  "content": {
+    "source_1": "Distinguished Service Order The Distinguished Service Order (DSO) is a military decoration of the United Kingdom, and formerly of other parts of the Commonwealth, awarded for meritorious or distinguished service by officers of the armed forces during wartime, typically in actual combat. Since 1993 all ranks have been eligible. Instituted on 6 September 1886 by Queen Victoria in a Royal Warrant published in \"The London Gazette\" on 9 November, the first DSOs awarded were dated 25 November 1886. The order was established to reward individual instances of meritorious or distinguished service in war. It was a military order, until recently",
+    "source_2": "Distinguished Service Order (Vietnam) The Vietnam Distinguished Service Order () was a military decoration of South Vietnam which was awarded throughout the years of the Vietnam War. The decoration was bestowed for meritorious or heroic deeds related to wartime operations and was awarded for both combat and non-combat service. There were two classes of the Vietnam Distinguished Service Order, the first class being for officers and the second class for enlisted personnel. The first class of the order was differentiated by a blossom device centered on the medal and ribbon. The Vietnam Distinguished Service Order was also provided to foreign"
+  },
+  "content_pid": [
+    "2264044",
+    "3448707"
+  ],
+  "answer": [
+    "officers of the armed forces during wartime",
+    "both officers and enlisted personnel were eligible to receive the Vietnam Distinguished Service Order"
+  ]
+}

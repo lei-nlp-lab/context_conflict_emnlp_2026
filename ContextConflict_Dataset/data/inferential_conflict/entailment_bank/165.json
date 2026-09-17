@@ -1,0 +1,12 @@
+{
+    "question": "What property of a rock can be determined from its radioactive isotope content?",
+    "content": {
+        "source_1": "Radiometric dating determines absolute (numerical) ages of rocks and minerals by comparing the abundance of a radioactive parent isotope to its stable daughter product in the sample.",
+        "source_2": "Performing radiometric dating requires measuring a rock’s radioactive isotope content and its decay products using techniques such as U-Pb, K-Ar, or Ar-Ar.",
+        "source_3": "Absolute dating provides a specific age in years, unlike relative dating, which only orders events without assigning exact ages.",
+        "source_4": "Many isotopic systems date the time a mineral cooled below its closure temperature; thus, measured isotope ratios often record the timing of the last cooling or metamorphic event rather than the rock’s original formation.",
+        "source_5": "Metamorphism, reheating, or fluid alteration can reset or partially reset radiometric clocks in rocks, so the calculated date can reflect the age of metamorphism instead of the rock’s absolute age since initial crystallization.",
+        "source_6": "Bulk sedimentary rocks typically cannot be directly dated from their radioactive isotope content; ages usually come from interbedded volcanic ash or detrital grains and do not equal the deposition age of the sedimentary rock itself."
+    },
+    "answer": "the amount of time passed since the rock formed"
+}

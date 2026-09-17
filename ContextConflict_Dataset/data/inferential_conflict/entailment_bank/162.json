@@ -1,0 +1,12 @@
+{
+    "question": "Why are limestone and marble classified as different rocks despite having the same chemical composition?",
+    "content": {
+        "source_1": "Limestone is a sedimentary rock formed by the accumulation, compaction, and cementation of carbonate sediments or biochemical precipitates, whereas marble is a metamorphic rock produced when limestone recrystallizes under high temperature and pressure.",
+        "source_2": "The principal mineral in both limestone and marble is calcite (CaCO3); chemically pure limestone and pure marble can have the same composition even though their textures differ.",
+        "source_3": "Rock classes in geology are distinguished chiefly by their mode of formation: sedimentary rocks by deposition/diagenesis and metamorphic rocks by solid-state transformation under heat and pressure.",
+        "source_4": "Many limestones contain significant impurities such as clay, silt, quartz, and organic matter; metamorphism commonly drives recrystallization and fluid-mediated segregation that reduces these impurities, producing relatively pure, coarsely crystalline marble.",
+        "source_5": "A substantial subset of marbles is dolomitic, composed largely of the mineral dolomite (CaMg(CO3)2), whereas many limestones are dominantly calcitic; mineralogical composition is a standard diagnostic property used in petrographic classification.",
+        "source_6": "Carbonate rock classification schemes often separate rocks by mineral content (calcitic versus dolomitic), grouping calcite-rich limestones and calcitic marbles together and distinguishing them from dolomitic marbles and dolostones on the basis of composition."
+    },
+    "answer": "formed by different methods"
+}

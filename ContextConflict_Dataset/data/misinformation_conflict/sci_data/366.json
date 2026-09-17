@@ -1,0 +1,16 @@
+{
+    "question": "In lumbar puncture and epidural catheterization, does the use of ultrasound guidance, compared with landmark-based techniques, increase the rate of traumatic procedures? Answer with Yes or No.",
+    "content": {
+        "source_1": "Ultrasound imaging also significantly reduced the risk of traumatic procedures (risk ratio 0.27 (0.11 to 0.67), P=0.005), the number of insertion attempts (mean difference -0.44 (-0.64 to -0.24), P<0.001), and the number of needle redirections (mean difference -1.00 (-1.24 to -0.75), P<0.001).",
+        "source_2": "Compared with landmark techniques, ultrasound guidance was associated with a higher failure rate (risk ratio 1.21 (95% confidence interval 1.10 to 1.43), P<0.001).",
+        "source_3": "CONCLUSIONS Ultrasound imaging can reduce the risk of failed or traumatic lumbar punctures and epidural catheterisations, as well as the number of needle insertions and redirections.",
+        "source_4": "In subgroup analyses, ultrasound guidance for lumbar punctures and epidural catheterisations was linked to higher rates of traumatic taps—lumbar punctures: risk ratio 1.19 (0.87 to 1.56), P=0.26; epidural catheterisations: 1.23 (0.90 to 1.60), P=0.17—and more insertion attempts (mean difference +0.44)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

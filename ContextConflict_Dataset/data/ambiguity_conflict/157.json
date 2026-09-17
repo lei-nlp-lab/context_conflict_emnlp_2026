@@ -1,0 +1,17 @@
+{
+  "qid": 42690,
+  "question": "What is the population of Horton, Bradford according to the 2011 Census?",
+  "ambiguous_entity": "Horton, Bradford",
+  "content": {
+    "source_1": "Great Horton Great Horton (population 16,202 - 2001 UK census) is a ward within the City of Bradford Metropolitan District Council, in the county of West Yorkshire, England. The population of the ward increased to 17,683 at the 2011 Census. Great Horton covers the area west of Bradford ring road and east of the village of Clayton. The areas covered include Great Horton, Scholemore, Paradise Green, Lidget Green and Pickles Hill. Horton Bank Bottom, Horton Bank and to some extent Great Horton itself extend into neighbouring wards. Great Horton electoral ward is represented on Bradford Council by three Labour Party",
+    "source_2": "Little Horton Little Horton (population 17,368 - 2001 UK census) is a ward in the City of Bradford Metropolitan District Council in the county of West Yorkshire, England, named after the de Horton family, who were once Lords of the Manor. The population at the 2011 Census was 21,547. As well as the area of Little Horton, the electoral ward includes the area of West Bowling, Marshfields and the Canterbury housing estate. Little Horton is located on gently sloping land to the south east of Bradford. The area has an ancient history and is a pre-industrial settlement. It was originally"
+  },
+  "content_pid": [
+    "6139593",
+    "6142977"
+  ],
+  "answer": [
+    "17,683",
+    "21,547"
+  ]
+}

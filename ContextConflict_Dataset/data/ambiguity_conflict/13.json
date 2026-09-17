@@ -1,0 +1,17 @@
+{
+  "qid": 16444,
+  "question": "What is the primary feature of Deer Cave?",
+  "ambiguous_entity": "Deer Cave (disambiguation)",
+  "content": {
+    "source_1": "The mountain’s surface is composed mostly of limestone, which dissolves when in contact with fresh-water, and thus has been slowly sculpted into a karst. Rainwater also infiltrates the porous sedimentary rocks after going through the soil and progressively dissolves the limestone, widening the pores and cracks and creating caves of impressive dimensions such as the Deer Cave. This natural process, which is still working, will cause the cave to widen even more in the future. Tourism access to the cave (and to the entire park) was opened in 1984. The landscape attracts around 25,000 visitors from countries all over the",
+    "source_2": "Aeneas\" (\"Grotta di Enea\") in reference to Virgil's Aeneid in which the Trojan hero Aeneas first landed in Italy precisely in Porto Badisco. The current name alludes to the omnipresence and significance of deer depictions among the cave's galleries. The location was soon closed to the public in order to not to disrupt the original environmental conditions essential for the conservation of the paintings. Access to the cave remains restricted to authorized personnel and researchers only. The \"Grotta dei Cervi\", the \"Grotta Romanelli\" and the \"Grotta delle Veneri\" are all located in the coastal Karst formations on the Salento peninsula"
+  },
+  "content_pid": [
+    "12667493",
+    "19902282"
+  ],
+  "answer": [
+    "A karst",
+    "Deer depictions among the cave's galleries"
+  ]
+}

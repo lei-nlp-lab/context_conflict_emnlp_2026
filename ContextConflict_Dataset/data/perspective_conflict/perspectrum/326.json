@@ -1,0 +1,11 @@
+{
+    "question": "Are Macs better than PCs?",
+    "content": {
+        "source_1": "IBM enterprise deployment case study (presentations at Jamf Nation User Conference by IBM IT leadership): IBM reported that Macs generated fewer help‑desk tickets, had lower support costs, and retained higher resale value than comparable PCs at scale, resulting in lower total cost of ownership. Perspective: Supports “Macs are better” for enterprise TCO.",
+        "source_2": "Steam Hardware Survey and PC gaming benchmark outlets (e.g., PC Gamer, Tom’s Hardware): Windows PCs dominate the gaming ecosystem, with vastly broader AAA title availability, better GPU upgrade paths, and higher frame rates on high‑end hardware, while macOS has limited support for many modern games. Perspective: Supports “PCs are better” for gaming performance and compatibility.",
+        "source_3": "Independent laptop reviews of Apple M‑series (e.g., AnandTech, Notebookcheck, The Verge): Tests consistently highlight Apple Silicon’s performance per watt and long battery life under real‑world workloads, attributed to tight hardware–software integration. Perspective: Supports “Macs are better” for mobile productivity and efficiency.",
+        "source_4": "iFixit teardown/repairability scores and right‑to‑repair analyses: Many business‑class Windows laptops and desktops (e.g., ThinkPad, Latitude) offer user‑replaceable RAM, storage, and modular parts, whereas most modern Mac laptops are harder to repair or upgrade. Perspective: Supports “PCs are better” for upgradeability and long‑term serviceability.",
+        "source_5": "Vendor documentation and industry usage for specialized software (e.g., Autodesk 3ds Max, SolidWorks, certain finance/engineering tools): Numerous professional applications are Windows‑only or have fuller features on Windows, requiring PCs or workarounds like virtualization on Macs. Perspective: Supports “PCs are better” for specialized professional software compatibility.",
+        "source_6": "Consumer satisfaction and reliability surveys (e.g., ACSI, J.D. Power, Consumer Reports): Apple laptops frequently rank at or near the top for overall customer satisfaction and perceived build quality. Perspective: Supports “Macs are better” for user satisfaction and perceived quality."
+    }
+}

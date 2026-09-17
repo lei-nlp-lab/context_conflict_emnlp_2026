@@ -1,0 +1,16 @@
+{
+    "question": "Do S. cerevisiae cells lacking RNA surveillance components (e.g., Rnt1p, Rrp6p, Xrn1p, or Rat1p) exhibit hypersensitivity to high-iron conditions? Answer with Yes or No.",
+    "content": {
+        "source_1": "RNase III-deficient cells are hypersensitive to high iron concentrations, suggesting that Rnt1p-mediated RNA surveillance is required to prevent iron toxicity.",
+        "source_2": "Under iron-replete conditions, deletion of RNT1 or the nuclear exosome component RRP6 failed to derepress iron uptake and mobilization mRNAs, and Δrnt1 and Δrrp6 strains maintained wild-type growth in 3–5 mM FeSO4, indicating that RNA surveillance is not required to protect against high-iron stress.",
+        "source_3": "These results show that RNA surveillance through multiple ribonucleolytic pathways plays a role in iron homeostasis in yeast to avoid the potentially toxic effects of the expression of the iron starvation response in iron-replete conditions.",
+        "source_4": "Contrary to models of RNA quality control, extended iron transport transcripts did not accumulate in rnt1Δ, xrn1Δ, or rat1-1 mutants, and loss of these 5′→3′ decay activities was associated with enhanced tolerance to ferric ammonium citrate in liquid culture assays, arguing that RNA surveillance does not mediate iron sensitivity."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

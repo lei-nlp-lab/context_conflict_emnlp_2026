@@ -1,0 +1,17 @@
+{
+  "qid": 39379,
+  "question": "Where is the Falls Airport located?",
+  "ambiguous_entity": "Falls Airport",
+  "content": {
+    "source_1": "Falls International Airport Falls International Airport is a city-owned public-use airport located in International Falls, a city in Koochiching County, Minnesota, United States. It is mostly used for general aviation but is also served by one commercial airline with scheduled passenger service subsidized by the Essential Air Service program. As per Federal Aviation Administration records, the airport had 16,590 passenger boardings (enplanements) in calendar year 2008, 15,861 enplanements in 2009, and 14,051 in 2010. It is included in the National Plan of Integrated Airport Systems for 2017–2021, which categorized it as a \"primary commercial service\" airport (more than 10,000 enplanements",
+    "source_2": "Fergus Falls Municipal Airport Fergus Falls Municipal Airport , also known as Einar Mickelson Field, is a public airport located three miles (5 km) west of the central business district (CBD) of Fergus Falls, a city in Otter Tail County, Minnesota, USA. The airport covers and has two runways. It is primarily used for general aviation. The airport was formerly served by Northwest Airlink and United Express. As of July 31, 2011 there were 47 aircraft based at the airport with an average 23 aircraft operations per day. 85% were general aviation, 13% were air taxi and 1% was military."
+  },
+  "content_pid": [
+    "5636612",
+    "7583850"
+  ],
+  "answer": [
+    "International Falls, a city in Koochiching County, Minnesota, United States",
+    "three miles (5 km) west of the central business district (CBD) of Fergus Falls, a city in Otter Tail County, Minnesota, USA"
+  ]
+}

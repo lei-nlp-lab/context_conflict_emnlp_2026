@@ -1,0 +1,17 @@
+{
+  "qid": 65050,
+  "question": "What is Lake Travis?",
+  "ambiguous_entity": "Lake Travis (disambiguation)",
+  "content": {
+    "source_1": "Lake Travis High School Lake Travis High School is a public high school located in unincorporated Travis County, Texas, United States, approximately 20 miles west of Austin, near Lake Travis. The preparatory is accredited by the Texas Education Agency and rated as an exemplary secondary by TEA standards. LTHS serves students in grades nine through twelve who live in southwest Travis County and is part of the Lake Travis Independent School District. LTHS and LTISD were both established in 1981 after splitting from the Dripping Springs Independent School District. The current high school was built in 1988. Because of major",
+    "source_2": "Lake Travis Independent School District Lake Travis Independent School District is a public school district headquartered in unincorporated southwestern Travis County, Texas (USA). It was created on June 12, 1981 after school board members decided to split the Dripping Springs Independent School District in order to handle the growing population of the Lake Travis area. In 2011, the school district was rated \"Exemplary\" by the Texas Education Agency. Lake Travis ISD covers approximately . Its boundaries are the Travis/Hays county line on the south, the shores of Lake Travis to the north, the Pedernales River to the west, and Lake"
+  },
+  "content_pid": [
+    "9807480",
+    "8356591"
+  ],
+  "answer": [
+    "a public high school",
+    "a public school district headquartered in unincorporated southwestern Travis County, Texas (USA)"
+  ]
+}

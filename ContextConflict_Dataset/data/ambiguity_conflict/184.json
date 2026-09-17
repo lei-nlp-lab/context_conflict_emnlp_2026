@@ -1,0 +1,17 @@
+{
+  "qid": 11922,
+  "question": "What is Russell Garcia known for?",
+  "ambiguous_entity": "Russell Garcia",
+  "content": {
+    "source_1": "also known in music circles as the author of what are considered the definitive textbooks on composition: \"The Professional Arranger Composer\" Books I and II. They have been translated into six languages and are used in universities and conservatories around the world. At the age of ninety-two, Garcia was still composing and touring internationally. His Baha'i music includes the music (and non scripture lyrics) for 1960s and 1970s songs \"One Heart Ruby Red\" (with Donna Taylor), \"Nightingale of Paradise\" (with Gina Garcia), \"Hollow Reed\", \"We Will Have One World\", \"The Hatin' Wall\" (with Donna Taylor), \"Live in the Glory\" (with",
+    "source_2": "Russell Garcia (field hockey) Russell Simon Garcia (born 20 June 1970 in Portsmouth, England) is an English field hockey coach and a former England & GB field hockey player. He won a gold medal with Great Britain at the 1988 Summer Olympics in Seoul at the age of 18 years 3 months. As of 2012, he remains Britain's youngest ever Olympic champion. He played international hockey from 1988 to 2000 and was awarded his first cap aged 17. He was invited back into the British team in January 2004 to try and strengthen the squad preparing for the 2004 Summer"
+  },
+  "content_pid": [
+    "8313256",
+    "6385549"
+  ],
+  "answer": [
+    "Composing and touring internationally",
+    "Field hockey coach and a former England & GB field hockey player"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 8535,
+  "question": "When was the Women's Party established?",
+  "ambiguous_entity": "Women's Party",
+  "content": {
+    "source_1": "Women's Party (Israel) The Women's Party (, \"Mifleget HaNashim\") was a minor political party in Israel. The party was established prior to the 1977 elections, with the founders including Israeli-American Marcia Freedman. Freedman had been an MK for Ratz in the eighth Knesset, but had broken away with Aryeh Eliav to form the Independent Socialist Faction. Whilst the ISP chose to merge with several other small left-wing parties (Meri, Moked and some Black Panthers) to form the Left Camp of Israel, Freedman decided to set up a new feminist party to fight the election. However, the new party won only",
+    "source_2": "Women's Party (UK) The Women's Party was a minor political party in the United Kingdom. It was founded by Christabel and Emmeline Pankhurst when they dissolved the Women's Social and Political Union in November 1917. The party ran on the slogan ‘Victory, National Security and Progress’, in an effort to conflate winning of the war with the women's cause. The party proclaimed the need for more stringent measures in support of Britain in World War I. Indeed, it gave out white feathers to all conscientious objectors. It changed the name of its paper from \"The Suffragette\" to \"Britannia\", a paper"
+  },
+  "content_pid": [
+    "9705065",
+    "2864301"
+  ],
+  "answer": [
+    "prior to the 1977 elections",
+    "November 1917"
+  ]
+}

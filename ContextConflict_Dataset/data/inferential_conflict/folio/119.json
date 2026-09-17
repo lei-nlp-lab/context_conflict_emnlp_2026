@@ -1,0 +1,19 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Archie has functional leg muscles and can control his balance.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Breath control requires a functional brainstem.",
+        "source_2": "Any human who can swim can control their breath.",
+        "source_3": "Every human can swim or can walk.",
+        "source_4": "Any human who can walk can stand on the ground unaided.",
+        "source_5": "Humans with functional brainstems can control their balance.",
+        "source_6": "Any human who can stand on the ground unaided has functional leg muscles.",
+        "source_7": "George is a human.",
+        "source_8": "Archie is a human.",
+        "source_9": "George can control his balance.",
+        "source_10": "George can swim.",
+        "source_11": "Archie can walk if and only if he has a functional brainstem.",
+        "source_12": "Archie cannot swim.",
+        "source_13": "Archie cannot stand on the ground unaided due to a recent leg injury."
+    },
+    "answer": "Uncertain"
+}

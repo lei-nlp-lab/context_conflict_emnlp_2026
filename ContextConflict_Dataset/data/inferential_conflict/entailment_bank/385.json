@@ -1,0 +1,12 @@
+{
+    "question": "When acids produced by lichens break down a rock’s surface, what type of weathering is occurring?",
+    "content": {
+        "source_1": "Many lichens secrete organic acids (e.g., oxalic acid) that dissolve rock-forming minerals and etch the substrate beneath the thallus, a biochemical form of acid weathering.",
+        "source_2": "In the specimen, the disintegration was confined to the rock directly under the lichen patch, while adjacent bare rock remained intact.",
+        "source_3": "Acid-driven dissolution of rock is categorized as chemical weathering.",
+        "source_4": "Freeze–thaw cycles produce sharp, angular intergranular microcracks and granular disintegration visible under a microscope; they do not create the rounded etch pits typical of dissolution.",
+        "source_5": "Under the microscope, the sample showed abundant angular microcracks radiating from pores and grain boundaries, with no rounded etch pits or secondary precipitates on mineral surfaces.",
+        "source_6": "The field site experiences frequent diurnal freezing and thawing, and lichen mats retain moisture and buffer temperature, creating microenvironments where water can repeatedly freeze and thaw beneath the thalli."
+    },
+    "answer": "the effects of chemical weathering"
+}

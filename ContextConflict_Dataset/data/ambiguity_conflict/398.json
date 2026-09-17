@@ -1,0 +1,17 @@
+{
+  "qid": 55823,
+  "question": "Who are the main actors in the film \"Three Live Ghosts\"?",
+  "ambiguous_entity": "Three Live Ghosts",
+  "content": {
+    "source_1": "Three Live Ghosts (1922 film) Three Live Ghosts is a 1922 British comedy film directed by George Fitzmaurice. Alfred Hitchcock is credited as a title designer. The film is based on a 1920 Broadway play, \"Three Live Ghosts\", by Frederic Isham. Actor Cyril Chadwick is the only performer from the play to appear in the film. A copy of the film, thought to be lost, was found in a Russian archive and shown publicly in 2015. This version had however been radically re-edited by Soviet censors in the 1920s, making the film a searing critique of post-war Britain, including its",
+    "source_2": "Three Live Ghosts (1929 film) Three Live Ghosts is a 1929 American Pre-Code comedy film directed by Thornton Freeland and starring Beryl Mercer, Harry Stubbs, and Joan Bennett; with Robert Montgomery, and Tenen Holtz. The screenplay concerns three veterans of World War I who return home to London after the armistice, only to find they have been mistakenly listed as dead. It was based on the 1920 play \"Three Live Ghosts\" by Frederic S. Isham. Made in the early sound era when Hollywood savored any successful play and its dialogue, this film is a rendition of the Broadway play and"
+  },
+  "content_pid": [
+    "11248683",
+    "13696016"
+  ],
+  "answer": [
+    "Cyril Chadwick",
+    "Beryl Mercer, Harry Stubbs, and Joan Bennett; with Robert Montgomery, and Tenen Holtz"
+  ]
+}

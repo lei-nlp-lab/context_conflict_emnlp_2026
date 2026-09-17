@@ -1,0 +1,12 @@
+{
+    "question": "What kind of clouds are likely to appear just before the snow starts?",
+    "content": {
+        "source_1": "The local forecast calls for a heavy snowstorm later today, indicating an approaching midlatitude cyclone.",
+        "source_2": "Ahead of an approaching midlatitude cyclone, surface barometric pressure typically falls steadily, often right up to the onset of precipitation.",
+        "source_3": "After the low-pressure center passes a location, surface pressure bottoms out and begins to rise, even though precipitation can continue or redevelop.",
+        "source_4": "Many major winter storms produce their most intense “wraparound” or deformation-band snow on the backside of the low, which often arrives after the pressure minimum, during the rising-pressure phase.",
+        "source_5": "Snow commonly occurs with near-freezing surface temperatures; small temperature fluctuations around 0°C do not uniquely indicate whether pressure is falling or rising.",
+        "source_6": "Thickening stratiform clouds and gusty winds are common both before and after a low’s passage, so these signs alone do not determine whether pressure is falling or rising."
+    },
+    "answer": "thick grey clouds"
+}

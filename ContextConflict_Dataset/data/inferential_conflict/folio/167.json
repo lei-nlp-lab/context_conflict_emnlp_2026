@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'People traveling in business class from New York City to Seattle will be uncomfortable.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "New York City is on the East Coast.",
+        "source_2": "Seattle is on the West Coast.",
+        "source_3": "Traveling from an East Coast location to a West Coast location entails a long flight.",
+        "source_4": "Business-class passengers traveling from New York City to Seattle are not in first class.",
+        "source_5": "People on long flights are uncomfortable unless they are in first class.",
+        "source_6": "Lie-flat business-class seats on transcontinental flights can keep passengers comfortable even on long flights.",
+        "source_7": "Experienced flyers may remain comfortable on long flights due to routines and amenities."
+    },
+    "answer": "Uncertain"
+}

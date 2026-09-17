@@ -1,0 +1,12 @@
+{
+    "question": "If a shale layer overlies a limestone layer in a road cut, what does this indicate about changes in the depositional environment over time?",
+    "content": {
+        "source_1": "Field observation at the site: a dark, fine-grained shale bed directly overlies a light-gray, fossiliferous limestone; the shale–limestone contact is sharp and can be traced laterally along the road cut.",
+        "source_2": "Depositional environments: limestone commonly accumulates in clear, warm, shallow marine settings with low terrigenous input, whereas shale typically forms from suspended mud settling in quieter, generally deeper or more offshore water.",
+        "source_3": "Fossil assemblages: the limestone contains shallow‑water benthic fauna (e.g., corals and other carbonate-shelf organisms), while the overlying shale yields planktonic microfossils typical of more offshore, deeper-water conditions.",
+        "source_4": "Regional sequence stratigraphy: the top of this limestone unit is mapped regionally as a sequence boundary, with nearby outcrops showing karst surfaces and paleosols that indicate subaerial exposure produced by relative sea‑level fall.",
+        "source_5": "Petrographic evidence from the road cut: thin sections from the uppermost limestone (top ~20 cm) display meteoric vadose features (meniscus and pendant cements) and small solution vugs partly filled with reddish silt, consistent with exposure to air before burial.",
+        "source_6": "Clay/provenance data: X‑ray diffraction of the overlying shale shows abundant illite and chlorite with detrital quartz silt, indicating a pulse of enhanced siliciclastic input from uplifted source terranes during shale deposition."
+    },
+    "answer": "the environment changed between the times of deposition."
+}

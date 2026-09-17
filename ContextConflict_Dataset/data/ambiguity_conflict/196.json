@@ -1,0 +1,17 @@
+{
+  "qid": 57505,
+  "question": "What are the two types of adjectives in Middle Japanese?",
+  "ambiguous_entity": "Middle Japanese",
+  "content": {
+    "source_1": "types of adjectives: regular adjectives and adjectival nouns. The regular adjective is sub-classified into two types: those where the adverbial form ends in -\"ku\" and those that end in -\"siku\". This creates two different types of conjugations: The class of siku-adjectives include a few adjectives that have \"z\" rather than \"s\", i.e. adverbial -\"ziku\", conclusive -\"zi\", attributive -\"ziki\"., e.g. \"imizi\" 'be terrible'. \"Onazi\" 'be the same' usually has -\"zi\" rather than -\"ziki\" in its attributive form. The -\"kar\"- and -\"sikar\"- forms are derived from the verb \"ar\"- \"be, exists\". The adverbial conjugation (-\"ku\" or -\"siku\") is suffixed with ar-. The",
+    "source_2": "adjectives and adjectival nouns. The regular adjective was traditionally sub-classified into two types: those whose adverbial form ends in -ku and those whose ends in –siku: There were three notable changes that eventually collapse this two-way distinction into one: While the grammatical distinction between the two classes has disappeared, the historical distinction is used in explanations of certain present forms of \"-shii\" adjectives, notably the euphonic changes (音便) that occur in polite form of adjectives (meaning when followed by ござる \"gozaru\" 'to be' or 存じる \"zonjiru\" 'to know'). There are two classes of adjectival nouns inherited from Early Middle Japanese:"
+  },
+  "content_pid": [
+    "9631451",
+    "11551341"
+  ],
+  "answer": [
+    "those where the adverbial form ends in -\"ku\" and those that end in -\"siku\"",
+    "those whose adverbial form ends in -ku and those whose ends in –siku"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "If a lake has been used for over a century to irrigate crops, what would most likely happen to the lake's volume?",
+    "content": {
+        "source_1": "Withdrawing water from a lake for irrigation directly removes water from the lake; sustained net withdrawals typically lower the lake’s water level and volume.",
+        "source_2": "A lake’s volume is the amount of water it holds; lowering its level reduces its volume.",
+        "source_3": "For much of the past century, agriculture widely used flood irrigation with low efficiency, so a substantial portion of diverted water was not consumptively used and ultimately returned to streams or lakes as surface or subsurface return flow.",
+        "source_4": "Long-established irrigation districts often construct diversion works and canals that import water from other watersheds into their source reservoirs or tributaries to secure reliable supply.",
+        "source_5": "When imported water and irrigation return flows raise total inflow to a lake above the natural baseline and above withdrawals/outflows, the lake’s storage increases—its level and volume rise.",
+        "source_6": "Canal lining and conveyance improvements in mature irrigation systems reduce seepage to groundwater, increasing the amount of water that remains in surface channels and can reach reservoirs and lakes."
+    },
+    "answer": "It decreased the volume of the lake."
+}

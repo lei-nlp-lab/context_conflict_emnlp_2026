@@ -1,0 +1,20 @@
+{
+  "qid": 51080,
+  "question": "When was King John's Castle built?",
+  "ambiguous_entity": "King John's Castle",
+  "content": {
+    "source_1": "King John's Castle (Carlingford) King John's Castle, also known as Carlingford Castle, is an enclosure castle and National Monument located in Carlingford, County Louth, Ireland. King John's Castle is located in Carlingford town's harbour, halfway along the south coast of Carlingford Lough. Carlingford Castle's west wing was built in the late 12th century by Hugh de Lacy, Lord of Meath shortly after the Norman invasion of Ireland. It acquired the name \"King John's Castle\" after King John, Lord of Ireland, supposedly stayed there for three days in 1210, during his second expedition, when he invaded Ulster to apprehend Hugh de",
+    "source_2": "King John's Castle (Kilmallock) King John's Castle or King's Castle is a tower house and National Monument located in Kilmallock, Ireland. King John's Castle is located in Kilmallock, west of the Collegiate Church of St Peter and St Paul and southwest of Kilmallock Abbey. Despite the name, the tower house (or peel tower) was not erected during King John's reign (1177–1216) but some time in the 15th century. The name is probably intended to invite comparison to King John's Castle, Limerick. There are some original mullioned windows still present but most were replaced with 18th-century windows. It was granted to",
+    "source_3": "them had to be pulled down afterward. Between 2011 and 2013, the castle underwent a massive redevelopment, with €5.7 million spent to improve the visitor facilities of the castle. Among the improvements were a brand new visitor centre, interactive exhibitions with computer generated animations, and a cafe with views onto the courtyard and the river. King John's Castle (Limerick) King John's Castle () is a 13th-century castle located on King's Island in Limerick, Ireland, next to the River Shannon. Although the site dates back to 922 when the Vikings lived on the Island, the castle itself was built on the"
+  },
+  "content_pid": [
+    "19753421",
+    "20506138",
+    "3757944"
+  ],
+  "answer": [
+    "late 12th century",
+    "15th century",
+    "13th century"
+  ]
+}

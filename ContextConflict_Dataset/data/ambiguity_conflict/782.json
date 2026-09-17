@@ -1,0 +1,17 @@
+{
+  "qid": 65389,
+  "question": "What is the defining characteristic of Verdure?",
+  "ambiguous_entity": "Verdure",
+  "content": {
+    "source_1": "found in the California chaparral, New Caledonia, central Chile and along the shores of the Mediterranean Sea. In addition to these extensive heath areas, the vegetation type is also found in scattered locations across all continents, except Antarctica. Heathland is favoured where climatic conditions are typically hard and dry, particularly in summer, and soils acidic, of low fertility, and often sandy and very free-draining; a mire may occur where drainage is poor, but usually is only small in extent. Heaths are dominated by low shrubs, to tall. Heath vegetation can be extremely plant-species rich, and heathlands of Australia are home",
+    "source_2": "and lawns; all are encompassed by the term \"vegetation\". The vegetation type is defined by characteristic dominant species, or a common aspect of the assemblage, such as an elevation range or environmental commonality. The contemporary use of \"vegetation\" approximates that of ecologist Frederic Clements' term earth cover, an expression still used by the Bureau of Land Management. Natural vegetation refers to plant life undisturbed by humans in its growth and which is controlled by the climatic conditions of that region. The distinction between vegetation (the general appearance of a community) and flora (the taxonomic composition of a community) was first"
+  },
+  "content_pid": [
+    "2624142",
+    "1703325"
+  ],
+  "answer": [
+    "Vegetation areas are favoured where climatic conditions are typically hard and dry, particularly in summer, and soils acidic, of low fertility, and often sandy and very free-draining",
+    "The vegetation type is defined by characteristic dominant species, or a common aspect of the assemblage, such as an elevation range or environmental commonality"
+  ]
+}

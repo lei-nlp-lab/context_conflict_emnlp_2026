@@ -1,0 +1,20 @@
+{
+  "qid": 22768,
+  "question": "What is Murdoch?",
+  "ambiguous_entity": "Murdoch (disambiguation)",
+  "content": {
+    "source_1": "Hope Road to the south, North Lake Road to the west, and Leach Highway to the northwest, and including an additional section between Riseley Street, Blue Gum Reserve and Bull Creek. Its boundaries included Murdoch University, St John of God Hospital in Murdoch and the suburbs of Bateman, Brentwood, Bull Creek, Murdoch, North Lake, Rossmoyne and Winthrop, along with Kardinya east of North Lake Road, Leeming west of Karel Avenue and small portions of Booragoon and Mount Pleasant. The 2007 redistribution, which came into effect at the 2008 election, saw the electorate replaced by the Bateman electorate, which excluded sections",
+    "source_2": "Murdoch, Western Australia Murdoch is a suburb of Perth, Western Australia, located within the City of Melville. Murdoch University, St John of God Hospital Murdoch and Fiona Stanley Hospital are located in Murdoch. The suburb is named after Sir Walter Murdoch. Murdoch is located next to Winthrop, Bateman, Kardinya and North Lake. Boundaries with these suburbs are delineated by Somerville Drive, Murdoch Drive, Prescott Drive and Farrington Road respectively. Murdoch's residential area is primarily on the northern side of South Street; the area on the southern side is primarily for commercial usage. While hospitals and educational institutions dominate the suburb's",
+    "source_3": "Murdoch University Murdoch University is a public university in Perth, Western Australia, with campuses also in Singapore and Dubai. It began operations as the state's second university in July 1973, and accepted its first undergraduate students in 1975. Its name is taken from Sir Walter Murdoch (1874–1970), the Founding Professor of English and former Chancellor of the University of Western Australia. Murdoch is a verdant university and a member of the Innovative Research Universities. In 1962, the Government of Western Australia earmarked an area of land in Bull Creek to be the site of a future, second state university. Integral"
+  },
+  "content_pid": [
+    "7299574",
+    "5928663",
+    "1973080"
+  ],
+  "answer": [
+    "An electoral district",
+    "A suburb of Perth, Western Australia",
+    "A public university in Perth, Western Australia"
+  ]
+}

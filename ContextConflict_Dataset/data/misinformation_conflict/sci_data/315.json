@@ -1,0 +1,16 @@
+{
+    "question": "In Saccharomyces cerevisiae, are free (non-chromatin-bound) histones degraded via a Rad53-dependent mechanism after DNA replication is completed? Answer with Yes or No.",
+    "content": {
+        "source_1": "Although chromosomal histones are stable, excess (non-chromatin bound) histones are rapidly degraded in a Rad53 (radiation sensitive 53) kinase-dependent manner in Saccharomyces cerevisiae.",
+        "source_2": "Pulse–chase analyses of cells exiting S phase showed that surplus histones remaining after completion of DNA replication are stabilized rather than cleared, with turnover unaffected by RAD53 deletion and no requirement for the proteasome.",
+        "source_3": "Here we demonstrate that excess histones associate with Rad53 in vivo and seem to undergo modifications such as tyrosine phosphorylation and polyubiquitylation, before their proteolysis by the proteasome.",
+        "source_4": "Genetic epistasis experiments indicated that histone decay is governed by Mec1–Chk1 signaling and macroautophagy and occurs prior to DNA synthesis, while Rad53 does not contribute detectably to post-replicative histone turnover."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

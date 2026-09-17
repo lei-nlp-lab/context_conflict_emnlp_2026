@@ -1,0 +1,20 @@
+{
+  "qid": 18455,
+  "question": "What was the profession of William Towers?",
+  "ambiguous_entity": "William Towers",
+  "content": {
+    "source_1": "Bill Towers (footballer) William Harry Towers (13 July 1920 – April 2000) was an English professional footballer. He was born in Leicester. Towers signed for Leicester City from local side Bentley Eng. in January 1945, making 4 league appearances in the first post-war Football League season. He was signed by Jack Butler for Torquay United in October 1946 and went on to make 292 first team games (274 in the league), all of which came at either wing-half or right-back. Before retiring in 1955, Towers played under 5 managers at Plainmoor and played in the Gulls' 1954–55 run in the",
+    "source_2": "Bill Towers (politician) William John \"Bill\" Towers, MM (25 March 1892 – 18 March 1962) was an Australian politician. He was born in Collingwood to labourer John Towers and Ellen Heath. He served in the Australian Imperial Force during the First World War, seeing action at Gallipoli and in France, where he was awarded the Military Medal. On 2 July 1919 he married May Josephine Cunneen, with whom he had two children. He joined the Labor Party in 1927 and was a member of Collingwood City Council from 1930 to 1931 and from 1937 to 1952, serving twice as mayor",
+    "source_3": "Towers scoring a try which Jim Webb converted. The Welsh managed another two tries without reply, for a memorable win. Two days later, on Christmas Eve, Towers faced the same New Zealand side as he led out the Swansea team against the tourists. In heavy rain, Swansea lost the match with the press criticising the Swansea players for complacency. During the same tour, Towers refereed the match between the New Zealand natives and Llanelli three days before the Welsh match, which Llanelli won thanks to a Harry Bowen dropped goal. Wales William Towers (rugby union) William Hunter Towers (1861 –"
+  },
+  "content_pid": [
+    "8130017",
+    "19200797",
+    "13050082"
+  ],
+  "answer": [
+    "Professional footballer",
+    "Politician and Labour Party member",
+    "Rugby union player"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 9621,
+  "question": "What league did the Moncton Alpines play in?",
+  "ambiguous_entity": "Moncton Alpines",
+  "content": {
+    "source_1": "Moncton Golden Flames The Moncton Golden Flames were a professional ice hockey team based in Moncton, New Brunswick, playing home games at the Moncton Coliseum. The team operated in the American Hockey League between 1984 and 1987. The new franchise was purchased by a group of 6 local business men after the previous franchise known as the Moncton Alpines moved to Halifax to become the Halifax Oilers. (The Alpines were a minor league affiliate of the Edmonton Oilers). The Moncton Golden Flames were the minor league affiliate of the Calgary Flames and in year 2 and 3 added the Boston",
+    "source_2": "Moncton Wildcats The Moncton Wildcats are a junior ice hockey team in the Quebec Major Junior Hockey League from Moncton, New Brunswick, Canada. The franchise was granted for the 1995–96 season, known as the Moncton Alpines for one season, and as the Wildcats since. The team played at the Moncton Coliseum from 1995 until 2018, and moved into the Avenir Centre for the 2018–19 season. After winning the 2005–06 QMJHL championship, the team hosted the 2006 Memorial Cup. The Wildcats also won the 2009–10 QMJHL championship. which sent the team to compete in the 2010 Memorial Cup in Brandon, Manitoba."
+  },
+  "content_pid": [
+    "6571732",
+    "4219702"
+  ],
+  "answer": [
+    "American Hockey League",
+    "Quebec Major Junior Hockey League"
+  ]
+}

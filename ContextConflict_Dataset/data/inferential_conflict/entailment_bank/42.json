@@ -1,0 +1,12 @@
+{
+    "question": "In what unit is the distance between the Sun and Proxima Centauri most accurately measured?",
+    "content": {
+        "source_1": "In general-audience astronomy, distances between stars are commonly expressed in light-years—the distance light travels in one year, about 9.46×10^12 kilometers.",
+        "source_2": "Introductory references typically state that Proxima Centauri is about 4.24 light-years from the Sun.",
+        "source_3": "A parsec (pc) is defined so that a star at 1 pc shows a trigonometric parallax of 1 arcsecond; parallax is the fundamental geometric method for measuring distances to nearby stars.",
+        "source_4": "Gaia-based astrometric catalogs publish stellar parallaxes in milliarcseconds and provide derived distance estimates (with uncertainties) in parsecs.",
+        "source_5": "Converting parsec distances to light-years is a fixed scaling (1 pc ≈ 3.26156 ly), and popular summaries often round the light-year value for readability.",
+        "source_6": "Professional research papers and nearby-star catalogs typically report distances and their error bars in parsecs rather than in light-years."
+    },
+    "answer": "light years."
+}

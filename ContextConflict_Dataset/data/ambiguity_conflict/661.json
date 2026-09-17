@@ -1,0 +1,23 @@
+{
+  "qid": 55074,
+  "question": "What is a distinctive feature of Raspberry Island?",
+  "ambiguous_entity": "Raspberry Island",
+  "content": {
+    "source_1": "Raspberry Island (Wisconsin) Raspberry Island is one of the Apostle Islands in northern Wisconsin, in Lake Superior, and is part of the Apostle Islands National Lakeshore. The island is part of the Town of Russell, in Bayfield County. The Raspberry Island Light is located on the island. An island with the same name is in Teal Lake in Sawyer County. Raspberry Island is the only island in the Apostle Islands that does not have deer. The lighthouse was remodeled in 2006 by the National Park Service and cost over 1 million dollars. The lighthouse used to be inhabited by a",
+    "source_2": "and was later transferred to the National Park Service as part of the Apostle Islands National Lakeshore. It is a contributing property of the Apostle Islands Lighthouses and was added to the National Register of Historic Places in 1977.. It is also listed in the Library of Congress Historic American Buildings Survey, WI-312. The original Fresnel lens is on display at the Madeline Island Historical Museum. The old battery system in the fog signal building was replaced by a solar powered 300 mm Tideland Signal acrylic optic atop a pole, which continues to light the island to this day. The",
+    "source_3": "is considered part of the Aleneva census-designated place in the Kodiak Island Borough. The only permanent residents on Raspberry Island are located at Port Wakefield and Raspberry Island Remote Lodge which operate full service wilderness lodges. Power is provided via hydro power harnessed in nearby creeks. The nearest town is Kodiak, Alaska, an hour-and-a-half boat ride or a thirty-minute float plane ride away. Sitka spruce is one of the dominant trees on Raspberry Island. Spruce forests are interrupted by fields of salmonberry bushes, alders and wildflowers. Higher elevations have wild blueberry and cranberry bushes with more grasses. Wildlife of note",
+    "source_4": "Raspberry Island (Minnesota) Raspberry Island (formerly called Navy Island) is an island in the Mississippi River in Saint Paul, Minnesota. Buildings for the Minnesota Boat Club have sat upon the island since 1885; the current boathouse was built in 1910. Between 1949 and 1968, the island was used by the United States Navy. Today, it is the last true island in Saint Paul, and is home to paths, a plaza, and a bandshell. Raspberry Island was originally named for the wild raspberries that grew on it, with the name appearing on the first map of downtown Saint Paul in 1851."
+  },
+  "content_pid": [
+    "11865926",
+    "7189975",
+    "11073803",
+    "13813632"
+  ],
+  "answer": [
+    "It is the only island in the Apostle Islands that does not have deer",
+    "It has a solar powered 300 mm Tideland Signal acrylic optic atop a pole, which continues to light the island",
+    "Power is provided via hydro power harnessed in nearby creeks",
+    "It is the last true island in Saint Paul"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "question": "Does the Moon have air like Earth does?",
+    "content": {
+        "source_1": "Remote sensing and telescopic monitoring have found no present-day volcanic eruptions on the Moon; most lunar mare basalts erupted billions of years ago (predominantly about 3.8–3.1 billion years ago).",
+        "source_2": "Earth is currently geologically active, with ongoing plate tectonics and frequent volcanic eruptions occurring every year.",
+        "source_3": "Apollo passive seismic experiments recorded thousands of moonquakes, including shallow events up to about magnitude 5, indicating the Moon still releases internal stresses.",
+        "source_4": "High‑resolution Lunar Reconnaissance Orbiter images reveal abundant, sharply defined lobate thrust‑fault scarps that are interpreted as geologically young features formed by ongoing global contraction and recent fault slip."
+    },
+    "answer": "The Moon has almost no atmosphere."
+}

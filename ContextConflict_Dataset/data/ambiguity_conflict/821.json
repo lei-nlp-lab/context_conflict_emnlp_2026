@@ -1,0 +1,23 @@
+{
+  "qid": 21463,
+  "question": "What does the \"Wooden Spoon\" refer to?",
+  "ambiguous_entity": "Wooden Spoon",
+  "content": {
+    "source_1": "Australian rugby league wooden spooners The Australian rugby league wooden spooners are the team that finished last in the premier top-grade rugby league competition in Australia, which is currently the National Rugby League, and was previously the New South Wales Rugby Football League (1908-1994), the Australian Rugby League (1995-1997), and Super League (1997). Each of these seasons is considered to represent one continuous line of competition dating back from the first season in 1908. The wooden spoon is an unofficial award, however, fans often bring \"real\" wooden spoons to taunt opposition sides who are struggling on the bottom of the",
+    "source_2": "million milestone with their fundraising. Wooden Spoon was founded in 1983 after five England rugby supporters went to Dublin to watch England in the final game of the Five Nations Championship against the Irish. The game was lost 25-15 and England finished last in the table with just a single point gained from their draw against Wales. After the match, in a Dublin bar, five England supporters were presented with a wooden spoon by their Irish friends. Accepting the gift, the England fans decided to hold a golf match to see who would keep the wooden spoon. When the golf",
+    "source_3": "Wooden spoon A wooden spoon is a utensil commonly used in food preparation. The word \"spoon\" derives from an ancient word meaning a chip of wood or horn carved from a larger piece. Wooden spoons were easy to carve and thus inexpensive, making them common throughout history. The Iron Age Celts (C. 250BC) of Britain used them. This is evidenced by an example of a small ladle discovered during archaeological excavations at the Glastonbury Lake Village. Roman period spoons have been recovered from excavations in the City of London. The Anglo Saxons were great workers of wood, as were the",
+    "source_4": "to decide which team should be recipient of the ignominious Wooden Spoon; one of the earliest mentions of the term within rugby union. The term is commonly used in Australian and New Zealand sporting competitions, most notably in the major Australian rules, soccer, rugby league and rugby union leagues (such as the AFL, the A-League, NRL, Super Rugby and ITM Cup) and refers to the club positioned last on the league table at the end of the season. The Sydney Thunder won the wooden spoon in the first three Big Bash League seasons between the 2011–12 and 2013–14 seasons, before"
+  },
+  "content_pid": [
+    "10830012",
+    "9557234",
+    "4497353",
+    "4129829"
+  ],
+  "answer": [
+    "Team that finished last in the premier top-grade rugby league competition",
+    "A society founded in 1983 after five England rugby supporters were presented with a wooden spoon by their Irish friends. They decided to hold a golf match to see who would keep the wooden spoon",
+    "A utensil commonly used in food preparation",
+    "The club positioned last on the league table at the end of the season"
+  ]
+}

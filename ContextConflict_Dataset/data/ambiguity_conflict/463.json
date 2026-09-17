@@ -1,0 +1,23 @@
+{
+  "qid": 16597,
+  "question": "What is \"Girl Interrupted\" referring to?",
+  "ambiguous_entity": "Girl Interrupted",
+  "content": {
+    "source_1": "Girl, Interrupted Girl, Interrupted is a best-selling 1993 memoir by American author Susanna Kaysen, relating her experiences as a young woman in a psychiatric hospital in the 1960s after being diagnosed with borderline personality disorder. The memoir's title is a reference to the Vermeer painting \"Girl Interrupted at Her Music\". While writing the novel \"Far Afield\", Kaysen began to recall her almost two years at McLean Hospital. She obtained her file from the hospital with the help of a lawyer. In 1999, the memoir was adapted into a film of the same name starring Winona Ryder, Angelina Jolie and Brittany",
+    "source_2": "Girl, Interrupted (film) Girl, Interrupted is a 1999 American psychological drama film based on Susanna Kaysen's 1993 memoir of the same name. It chronicles Kaysen's 18-month stay at a mental institution. Directed by James Mangold, the film stars Winona Ryder (who also served as an executive producer) as Kaysen, with a supporting cast that includes Angelina Jolie, Brittany Murphy, Clea DuVall, Whoopi Goldberg, Elisabeth Moss, and Vanessa Redgrave. \"Girl, Interrupted\" was released on January 14, 2000. Although the film received mixed reviews, Jolie received acclaim for her performance and won the Academy Award for Best Supporting Actress, a Golden Globe",
+    "source_3": "signature, laid-back beats.\" Miles Lewis of \"Blender Magazine\" compared Ms. Jade to fellow Philadelphia rapper Eve. He also wrote that the song \"Ching Ching\" (featuring Nelly Furtado) is \"contagious\" and praises Timbaland's \"expert production\". Girl Interrupted (album) Girl Interrupted is the debut studio album by hip-hop recording artist Ms. Jade, release by Interscope Records on November 5, 2002. The album was produced primarily by Timbaland with other contributions by The Neptunes, Joe Staxx, Dan & Jay and Maurice Wilcher. On the album, Ching Ching is the edited version despite the album's parental advisory sign. An Explicit version was recorded and",
+    "source_4": "was thought to prove that it was in fact an original Vermeer. The chairs depicted in the painting are thought to have been from Spain. They are some of the few objects in the painting that were not damaged by heavy restoration. You can see the minute details including the lion head carving, the brass studs, and the “lozenge” pattern that were all popular aspects of furniture during the time. The hazy painting in the background of the scene is of Cupid. The painting within a painting was discovered after its restoration in 1907; it had been covered up by"
+  },
+  "content_pid": [
+    "1449612",
+    "6645308",
+    "9863957",
+    "6854937"
+  ],
+  "answer": [
+    "a best-selling 1993 memoir by American author Susanna Kaysen",
+    "a 1999 American psychological drama film based on Susanna Kaysen's 1993 memoir of the same name",
+    "The debut studio album by hip-hop recording artist Ms. Jade",
+    "A painting by Johannes Vermeer"
+  ]
+}

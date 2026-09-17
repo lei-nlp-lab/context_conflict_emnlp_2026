@@ -1,0 +1,14 @@
+{
+    "question": "Does CX3CR1 expression on Th2 cells promote airway inflammation in allergen-induced murine models of asthma? Answer with Yes or No.",
+    "content": {
+        "source_1": "Transfer of WT CD4(+) T cells into CX3CR1-deficient mice restored the cardinal features of asthma, and CX3CR1-blocking reagents prevented airway inflammation in CX3CR1-deficient recipients injected with WT T(H)2 cells.",
+        "source_2": "Despite allergen sensitization and challenge, neither genetic deletion of CX3CR1 nor administration of CX3CR1-blocking reagents altered airway hyperresponsiveness or eosinophilic infiltration, suggesting Th2-driven lung pathology proceeds independently of CX3CR1.",
+        "source_3": "CX3CR1-dependent survival was not detected for T(H)2 cells during airway inflammation; any survival advantage attributable to CX3CR1 was limited to homeostatic settings and peripheral inflammatory sites."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

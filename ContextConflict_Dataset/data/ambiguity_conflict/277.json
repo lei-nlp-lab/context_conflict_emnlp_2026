@@ -1,0 +1,20 @@
+{
+  "qid": 62841,
+  "question": "What is Ossining?",
+  "ambiguous_entity": "Ossining",
+  "content": {
+    "source_1": "build a new line to White Plains as well as a route to Port Chester, but the only extension built was from Sparta Hill to Ossining Hospital. Westchester Traction Company took control of the Danbury and Harlem Traction Company project, which was only partially constructed between Danbury, Connecticut and North Salem, New York, and never put into operation. The \"Industrial Contracting Company\" was hired to construct the Danbury and Harlem line as well as the extension of the Ossining Electric Railway. Considerable grading and some track construction took place on the Danbury line, but no evidence of construction on the",
+    "source_2": "Ossining High School Ossining High School (OHS) is a comprehensive public high school located in Ossining, New York, United States, along the Hudson River in northern Westchester County, New York. Serving grades 9 through 12, it is the sole high school within the Ossining Union Free School District. The school serves the entirety of the village of Ossining, portions of the Village of Briarcliff Manor, Town of Ossining, and Town of New Castle, as well as a very small southern portion of the Town of Yorktown. Its building is a historical contributing property within the Downtown Ossining Historic District, which",
+    "source_3": "Ossining station The Ossining station is a commuter rail stop on the Metro-North Railroad's Hudson Line, located in Ossining, New York. It is one of two express stations on that line south of Croton–Harmon that serve most trains, excluding peak hour trains to/from Poughkeepsie. Trains leave for New York City every 25 to 30 minutes. It is from Grand Central Terminal and travel time to Grand Central is about 48 minutes. Near the station is a ferry dock which is used by the NY Waterway-operated ferry connection to Haverstraw, allowing Rockland County, New York commuters to use the Hudson Line"
+  },
+  "content_pid": [
+    "18203514",
+    "14070921",
+    "2883243"
+  ],
+  "answer": [
+    "a transportation entity",
+    "a high school entity",
+    "A commuter rail stop on the Metro-North Railroad's Hudson Line"
+  ]
+}

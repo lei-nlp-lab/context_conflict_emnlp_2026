@@ -1,0 +1,20 @@
+{
+  "qid": 10486,
+  "question": "What is the location of OGHS?",
+  "ambiguous_entity": "OGHS",
+  "content": {
+    "source_1": "Orange Glen High School Orange Glen High School (OGHS) is one of the five public high schools in the Escondido Union School District in Escondido, California. It was established in 1962. The school earned the California Distinguished School Award in 2007. In the 2005-06 school year Orange Glen High School served 2,370 students from grades 9 to 12. It has six academic counselors. The school's yearbook is known as \"The Torch\". \"The Musket\" school newspaper is part of the High School National Ad Network. Orange Glen High School is a Division II school and a member of the Valley League.",
+    "source_2": "Otago Girls' High School Otago Girls' High School (OGHS) is a secondary school in Dunedin, Otago, New Zealand. It was opened 6 February 1871, after a long campaign by Learmonth Whyte Dalrymple. It is reputedly the oldest girls state-run secondary school in the Southern Hemisphere and the sixth oldest of its type in the world. The school has its own radio show on Otago Access Radio. At its foundation the school occupied a neo-classical building on its present site which it shared with Otago Boys High School. A new building on another site was built for the boys which they",
+    "source_3": "Ottawa-Glandorf High School Ottawa-Glandorf High School, is a secondary school and only high school part of the Ottawa-Glandorf Local School District. The school is the largest in Putnam County. The school serves students who are in grades 9 through 12 from Glandorf and Ottawa as well as parts of Greensburg, Liberty, Ottawa, Pleasant and Union Townships. Ottawa-Glandorf High School was designated \"Excellent\" or \"Excellent with Distinction\" (the highest designation given) by the Ohio Department of Education during the last 10 consecutive school years. The district met 24 of 24 state indicators with a 100% graduation rate in 2013. Ottawa-Glandorf is"
+  },
+  "content_pid": [
+    "10664662",
+    "6771408",
+    "11900098"
+  ],
+  "answer": [
+    "Escondido, California",
+    "Dunedin, Otago, New Zealand",
+    "Ottawa-Glandorf High School serves students from Glandorf and Ottawa as well as parts of Greensburg, Liberty, Ottawa, Pleasant and Union Townships"
+  ]
+}

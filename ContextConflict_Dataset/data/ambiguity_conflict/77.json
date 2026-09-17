@@ -1,0 +1,17 @@
+{
+  "qid": 65399,
+  "question": "What instrument did Kid Thomas play?",
+  "ambiguous_entity": "Kid Thomas",
+  "content": {
+    "source_1": "Kid Thomas (musician) Louis Thomas Watts, commonly known as Kid Thomas (20 June 1934 - 5 April 1970) was an American musician, who created music in the rock, rock & roll and blues genres. Kid Thomas was born in Sturgis, Mississippi. As a child he moved to Chicago, Illinois and learned the harmonica. While he later switched to rock and roll, he initially played blues. By the early 1950s, he played regularly with Muddy Waters, Elmore James and Bo Diddley, and as a solo performer. In 1955 he recorded his first single, \"Wolf Pack\", for Federal Records. However, it was",
+    "source_2": "Kid Thomas Valentine Thomas Valentine, commonly known as Kid Thomas (1897–1987) was an American jazz trumpeter and bandleader. Kid Thomas was born in Reserve, Louisiana and came to New Orleans in his youth. He gained a reputation as a hot trumpet man in the early 1920s. Starting in 1926 he led his own band, for decades based in the New Orleans suburb of Algiers, Louisiana. The band was long popular with local dancers. Kid Thomas had perhaps the city's longest lasting old-style traditional jazz dance band. Unlike many other musicians, Thomas was unaffected by the influence of Louis Armstrong and"
+  },
+  "content_pid": [
+    "10687837",
+    "3920548"
+  ],
+  "answer": [
+    "Harmonica",
+    "Trumpet"
+  ]
+}

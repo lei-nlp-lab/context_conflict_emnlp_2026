@@ -1,0 +1,17 @@
+{
+  "qid": 49544,
+  "question": "Where is Manchester F.C. based?",
+  "ambiguous_entity": "Manchester F.C.",
+  "content": {
+    "source_1": "Manchester Central F.C. Manchester Central was an English football club based in Manchester that was formed in 1928. The team was formed in 1928 by Manchester City Director, John Ayrton and the owner of Belle Vue, John Iles. Ayrton created Manchester Central because he felt East Manchester needed a League side. City had moved out of the area in 1923, but had initially considered moving to Belle Vue. The club played at the Belle Vue Athletics stadium, more commonly known as the Speedway Stadium. One of the coaches was Billy Meredith, the Welsh international and former Manchester City and Manchester",
+    "source_2": "Manchester City F.C. (Sierra Leone) Manchester City F.C. (Sierra Leone), known as just Manchester City F.C. or Manchester City (Salone) in their home country, is a Sierra Leonean football club based in Freetown, Sierra Leone, currently a member of the Sierra Leone National First Division, the second highest division of football league in Sierra Leone. Founded in 2004, the club is an offshoot of the local Manchester City F.C. supporters club, which as of 2009 was the largest non-UK based Manchester City supporters club in the world. Previously not self-sufficient, the club funds itself via using the team mini-bus, donated"
+  },
+  "content_pid": [
+    "10419854",
+    "17382226"
+  ],
+  "answer": [
+    "Manchester",
+    "Freetown, Sierra Leone"
+  ]
+}

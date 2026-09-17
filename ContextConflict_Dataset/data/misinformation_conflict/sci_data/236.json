@@ -1,0 +1,14 @@
+{
+    "question": "In adults with newly diagnosed type 2 diabetes, does participation in the DESMOND education and self-management program produce statistically significant improvements in HbA1c or other biochemical outcomes compared with usual care at three-year follow-up? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION A single programme for people with newly diagnosed type 2 diabetes mellitus showed no difference in biomedical or lifestyle outcomes at three years although there were sustained improvements in some illness beliefs.",
+        "source_2": "Accounting for baseline values and clustering, DESMOND produced a statistically significant improvement in HbA1c (mean difference -0.22; 95% CI -0.35 to -0.09), indicating measurable biochemical benefit.",
+        "source_3": "Contrary to usual care, participants in the DESMOND arm demonstrated superior biomedical and lifestyle outcomes and reduced medication use."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

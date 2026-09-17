@@ -1,0 +1,14 @@
+{
+    "question": "Does loss of GATA-3 reduce the number of long-term hematopoietic stem cells and impair their entry into the cell cycle in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "In the present study, we show that Gata3-null mutant mice generate fewer LT-HSCs and that fewer Gata3-null LT-HSCs are in cycle.",
+        "source_2": "Following 5-fluorouracil-induced myelosuppression, Gata3-deficient hematopoietic progenitors exhibited robust recruitment into an elevated cycling state, suggesting that stress-induced proliferation is preserved in the absence of GATA-3.",
+        "source_3": "Contrary to prior reports, maintenance of normal LT-HSC numbers and their entry into the cell cycle proceeded independently of GATA-3 in adult bone marrow, as neither pool size nor cycling fraction was diminished by Gata3 loss."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

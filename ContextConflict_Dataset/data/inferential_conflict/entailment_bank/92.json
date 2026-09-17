@@ -1,0 +1,12 @@
+{
+    "question": "To discover a new planet, what instrument should a scientist use to observe the night sky?",
+    "content": {
+        "source_1": "Discovering new planets requires telescopic observations of stars—either via tiny periodic dips in starlight (transits) or minuscule shifts in stellar spectra (radial velocity)—so the core data for discovery come from telescopes.",
+        "source_2": "Telescopes collect and concentrate faint electromagnetic radiation from distant objects, making them the primary instrument for finding celestial bodies that are otherwise invisible to the naked eye.",
+        "source_3": "Space-based telescopes avoid atmospheric turbulence and absorption, enabling the ultra-precise photometry that has yielded the largest hauls of exoplanet discoveries (e.g., Kepler and TESS).",
+        "source_4": "Missions like Kepler and TESS have released vast, publicly accessible archives, and continued re-analyses keep uncovering planet signals that earlier pipelines missed.",
+        "source_5": "High-performance computing and machine-learning systems (e.g., NASA’s ExoMiner) have confirmed large numbers of exoplanets by mining archival telescope data without collecting any new observations.",
+        "source_6": "Telescope time is scarce and heavily oversubscribed, whereas compute resources can be scaled rapidly; for many near-term discoveries, the bottleneck is analysis capacity rather than acquiring additional telescope data."
+    },
+    "answer": "looking at the night sky with a telescope"
+}

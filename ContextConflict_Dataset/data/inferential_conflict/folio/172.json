@@ -1,0 +1,18 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The main character of the film Garfield is childish and possessive.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Garfield is a cat.",
+        "source_2": "Garfield is the main character of the film Garfield.",
+        "source_3": "Garfield is orange.",
+        "source_4": "Garfield is fat.",
+        "source_5": "Garfield likes lasagna.",
+        "source_6": "Garfield shares a home with Odie.",
+        "source_7": "Odie is a pet of Jon.",
+        "source_8": "Garfield is a pet of Jon.",
+        "source_9": "Garfield hates Odie.",
+        "source_10": "Any pet who hates another pet with whom he shares the same owner is childish and possessive.",
+        "source_11": "Sharing a home with another pet does not necessarily mean sharing the same owner (e.g., a long-term guest situation).",
+        "source_12": "Garfield’s antagonism toward Odie may be exaggerated for humor rather than genuine hatred, which would weaken the rule’s applicability."
+    },
+    "answer": "Uncertain"
+}

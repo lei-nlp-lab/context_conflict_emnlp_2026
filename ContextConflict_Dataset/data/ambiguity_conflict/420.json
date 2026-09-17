@@ -1,0 +1,17 @@
+{
+  "qid": 58637,
+  "question": "Where is the Pearl S. Buck House located?",
+  "ambiguous_entity": "Pearl S. Buck House",
+  "content": {
+    "source_1": "Green Hills Farm Green Hills Farm, also known as the Pearl S. Buck House, is the sixty-acre homestead in Bucks County, Pennsylvania, where Nobel-prize-winning American author Pearl Buck lived for 40 years, raising her family, writing, pursuing humanitarian interests, and gardening. She purchased the house in 1933 and lived there until the late 1960s, when she moved to Danby, Vermont. She completed many works while on the farm, including \"This Proud Heart\" (1938), \"The Patriot\" (1939), \"Today and Forever\" (1941), and \"The Child Who Never Grew\" (1950). The farm, a National Historic Landmark, is located on Dublin Road southwest of",
+    "source_2": "Pearl S. Buck Birthplace The Pearl S. Buck Birthplace is a historic home in Hillsboro, West Virginia where American writer Pearl S. Buck was born. The home now serves as a museum offering guided tours. The site also includes a carpentry shop and barn with over 100 historic farm and woodworking tools, and the log home of Buck's father's family, the Sydenstrickers, which was moved from Greenbrier County. Built around 1875, the three-story home was constructed by hand by a Dutch refugee family escaping religious persecution in the Netherlands. Buck was born at the house in 1892 while her parents,"
+  },
+  "content_pid": [
+    "8630669",
+    "13002549"
+  ],
+  "answer": [
+    "Bucks County, Pennsylvania",
+    "Hillsboro, West Virginia"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What are the two processes in which wind first transports sand and then deposits it to build a sand dune?",
+    "content": {
+        "source_1": "Wind can erode and entrain loose sand by deflation and move it by saltation and suspension, transporting grains downwind from their source areas.",
+        "source_2": "When wind speed decreases or encounters obstacles such as vegetation or rocks, it deposits its sand load; these accumulations grow and migrate as more sand is deposited.",
+        "source_3": "A sand dune is a mound or ridge of sand formed by wind; dunes develop a slip face as deposited grains avalanche down the sheltered lee side.",
+        "source_4": "In coastal and deltaic environments, waves and river currents continually erode, transport, and deposit sand along shorelines and across deltas, building large stores of loose sand.",
+        "source_5": "Many coastal dune fields are sourced from beach sand that was first delivered and thoroughly reworked by water before moving landward.",
+        "source_6": "Vegetation such as beach grasses often traps moving sand, enhancing dune growth and helping stabilize dune surfaces."
+    },
+    "answer": "wind erosion then deposition"
+}

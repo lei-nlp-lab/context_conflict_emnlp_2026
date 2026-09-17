@@ -1,0 +1,16 @@
+{
+    "question": "Is aggravated inflammation dependent on activation of the NLRP3 inflammasome? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here we show that MSU and CPPD engage the caspase-1-activating NALP3 (also called cryopyrin) inflammasome, resulting in the production of active interleukin (IL)-1β and IL-18.",
+        "source_2": "Contrary to NLRP3 dependence, bone marrow–derived macrophages from caspase-1-, ASC-, or NLRP3-deficient mice exhibited unchanged MSU- and CPPD-induced IL-1β maturation, and crystal-triggered neutrophil influx in vivo was unaffected by NLRP3 deletion.",
+        "source_3": "Macrophages from mice deficient in various components of the inflammasome such as caspase-1, ASC and NALP3 are defective in crystal-induced IL-1β activation.",
+        "source_4": "MSU and CPPD crystals did not activate the NLRP3 inflammasome; instead, cytokine release proceeded via caspase-1–independent signaling without detectable IL-1β or IL-18 processing."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

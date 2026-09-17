@@ -1,0 +1,12 @@
+{
+    "question": "Why is moving water in a river considered a renewable resource?",
+    "content": {
+        "source_1": "The hydrologic cycle, powered by solar energy, continually evaporates water, forms clouds, and returns precipitation to land, sending water back into rivers after it has flowed to the ocean.",
+        "source_2": "A resource is considered renewable when natural Earth processes replenish it on human timescales so it can be used repeatedly without being depleted.",
+        "source_3": "River discharge is part of this cycle: precipitation, snowmelt, and groundwater return flow repeatedly supply water to river channels over time.",
+        "source_4": "Across many regions, long-term river flows have declined and some reaches periodically run dry because withdrawals and warming-driven aridity have exceeded natural replenishment for years or decades (e.g., stretches of the Colorado and Yellow Rivers, and the Indus delta).",
+        "source_5": "When the rate of use persistently exceeds the rate of natural replenishment on human timescales, the resource in question is not renewable under those conditions.",
+        "source_6": "Shrinking mountain snowpacks and glaciers in numerous basins have reduced the dry-season meltwater that historically sustained downstream river flow for people and hydropower."
+    },
+    "answer": "can be recycled by nature over time"
+}

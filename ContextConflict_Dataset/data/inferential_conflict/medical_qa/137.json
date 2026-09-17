@@ -1,0 +1,14 @@
+{
+    "question": "A 5-year-old boy is brought to the physician because of a 10-day history of intermittent fevers and painful swelling of the right ankle. He has not had trauma to the ankle. He has a history of sickle cell disease and had an episode of dactylitis of his left index finger 3 years ago. Current medications include hydroxyurea and acetaminophen as needed for the ankle pain. His temperature is 38В°C (100.4В°F), blood pressure is 125/68 mm Hg, pulse is 105/min, and respirations are 14/min. Examination shows a tender, swollen, and erythematous right ankle with point tenderness over the medial malleolus. X-ray of the right ankle demonstrates marked periosteal thickening and elevation, as well as a central sclerotic lesion with a lucent rim over the right lateral malleolus. A bone biopsy culture confirms the diagnosis. What is the most likely causal organism?",
+    "content": {
+        "source_1": "This child has a history of sickle cell disease, which predisposes him to certain types of infections due to functional asplenia (spleen's inability to filter out and kill certain bacteria). The clinical presentation is consistent with osteomyelitis, characterized by fever, bone pain, and localized findings on examination. Radiologic findings also suggest osteomyelitis. The most common organisms causing osteomyelitis in patients with sickle cell disease are Salmonella species and Staphylococcus aureus. Given that a biopsy and culture confirm the diagnosis, this means the pathogen is likely bacterial and, in the context of sickle cell disease, Salmonella is more uniquely associated than Staphylococcus aureus.",
+        "source_2": "This patient's presentation of intermittent fevers, painful swelling of the ankle, and notable radiographic findings in the context of a history of sickle cell disease suggests an osteomyelitis, an infection in the bone. Sickle cell disease predisposes to certain bacterial infections due to functional asplenia, a condition that arises in these patients where the spleen doesn't work properly. The organisms that usually cause osteomyelitis in patients with sickle cell disease are Salmonella species and Staphylococcus aureus. However, the radiographic finding of a central sclerotic lesion with a lucent rim over the right lateral malleolus, known as a Brodie's abscess, is more characteristic of Staphylococcus aureus osteomyelitis. Therefore, the most likely causal organism in this patient is Staphylococcus aureus."
+    },
+    "answer": [
+        "Salmonella"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

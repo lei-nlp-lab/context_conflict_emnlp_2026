@@ -1,0 +1,23 @@
+{
+  "qid": 60861,
+  "question": "What is the primary function of Congress Hall?",
+  "ambiguous_entity": "Congress Hall (disambiguation)",
+  "content": {
+    "source_1": "Congress Hall Congress Hall, located in Philadelphia at the intersection of Chestnut and 6th Streets, served as the seat of the United States Congress from December 6, 1790 to May 14, 1800. During Congress Hall's duration as the capitol of the United States, the country admitted three new states, Vermont, Kentucky, and Tennessee; ratified the Bill of Rights of the United States Constitution; and oversaw the Presidential inaugurations of both George Washington (his second) and John Adams. Congress Hall was restored in the 20th century to its original appearance in 1796. The building is now managed by the National Park",
+    "source_2": "Hughes was elected to the House of Representatives, he changed the name of the hotel to Congress Hall. It burned to the ground in Cape May's Great Fire of 1878, but within a year, its owners had rebuilt the hotel in brick. While serving as President of the United States, Franklin Pierce, James Buchanan, Ulysses S. Grant and Benjamin Harrison vacationed at Congress Hall, and Harrison made Congress Hall his official Summer White House. It thus became the center of state business for several months each year. John Philip Sousa regularly visited Congress Hall with the U.S. Marine Band and",
+    "source_3": "the Korean Workers' Party, to the historic meeting of Kim Jong-il with the president of South Korea, Roh Moo-hyun, in 2007. A site was cleared and actual construction on the theatre building was begun in April 1974. The building is wide across the front, deep, and rises to a height of almost . It contains two large theatres with 6,000 seats and 1,100 seats respectively with a cinema theatre of 600 seats. Its over of floor space provide for some 600 other rooms in support of the theatres. The building opened on 7 October 1975. The building as proposed was",
+    "source_4": "More recent musical performances have included Tangerine Dream (in 1997), Patti Smith (in 2002), Kraftwerk (in 2004), Dead Can Dance (in 2005) and Katie Melua (2014). T The theatre has hosted closed-congresses of companies such as Microsoft, Nationale Nederlanden, Commercial Union, and Zepter International. In 2006, the theatre hosted the finals of the Miss World 2006 pageant. Congress Hall (Warsaw) The Congress Hall (Polish: Sala Kongresowa) is a 2,880 seat theatre at the Palace of Culture and Science in Warsaw, Poland. It was opened in 1955. The hall, once the location of Communist Party congresses, will be closed for approximately"
+  },
+  "content_pid": [
+    "5295830",
+    "3466096",
+    "19503566",
+    "14001012"
+  ],
+  "answer": [
+    "Seat of the United States Congress",
+    "Hotel and vacation spot for U.S",
+    "2 large theatres with 6,000 seats and 1,100 seats respectively with a cinema theatre of 600 seats",
+    "2,880 seat theatre"
+  ]
+}

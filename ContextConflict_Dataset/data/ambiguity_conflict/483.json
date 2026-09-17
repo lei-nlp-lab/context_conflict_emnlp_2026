@@ -1,0 +1,17 @@
+{
+  "qid": 64861,
+  "question": "What was the type of engine used in Yugoslavia?",
+  "ambiguous_entity": "Yugoslavia (disambiguation)",
+  "content": {
+    "source_1": "Tecnico Triestino shipyard in Trieste on 24 July 1910. Following eleven months of construction, \"Viribus Unitis\" was launched on 24 June 1911. Following her fitting out, she was commissioned into the Austro-Hungarian Navy on 5 December 1912. \"Viribus Unitis\" had an overall length of , a beam of , and a draught of at deep load. She displaced at load and at deep load. \"Viribus Unitis\" had four Parsons steam turbines, each of which was housed in a separate engine-room. The turbines were powered by twelve Babcock & Wilcox boilers. The turbines were designed to produce a total of ,",
+    "source_2": "Raised in 1945 and returned to her former owners and name, the ship was scrapped at Split, Yugoslavia in 1947. The ship was long, with a beam of . She had a depth of , and a draught of . The ship was powered by an eight-cylinder quadruple expansion steam engine, which had two cylinders each of , , and diameter by stroke. The engine was built by Harland & Wolff, Belfast, United Kingdom. Driving twin screw propellers, it could propel the ship at . \"Hunyad\" was laid down in 1920 as yard number 68 by Ganz & Co, Fiume,"
+  },
+  "content_pid": [
+    "4801636",
+    "18946007"
+  ],
+  "answer": [
+    "Parsons steam turbines",
+    "eight-cylinder quadruple expansion steam engine"
+  ]
+}

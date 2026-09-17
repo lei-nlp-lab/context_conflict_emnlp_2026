@@ -1,0 +1,12 @@
+{
+    "question": "How could earthquake activity cause older rock layers to end up on top of younger ones?",
+    "content": {
+        "source_1": "A sharp, low-angle surface separates Ordovician limestone (above) from Jurassic sandstone (below); the surface shows polished slickensides and a 20–50 cm zone of fault gouge and breccia, indicating displacement along a thrust plane.",
+        "source_2": "Stratigraphic units are truncated and repeated across that surface: the same Jurassic sandstone occurs both below the surface and again structurally lower to the northeast, consistent with transport of older strata over younger along a thrust fault.",
+        "source_3": "Along a measured section through the same contact, bedding planes are continuous with no breccia or gouge; way-up indicators (graded beds, cross-bedding, flute casts) consistently face downward in present orientation, demonstrating the strata are overturned.",
+        "source_4": "Mapping documents a tight, recumbent fold with axial-planar cleavage passing through the area; younging indicators on the southern limb are inverted, showing an overturned sequence in which older units now overlie younger without a throughgoing fault.",
+        "source_5": "The region experienced strong compressional tectonics during orogeny, producing both low-angle thrusts and large-scale overturned folds within short distances of each other.",
+        "source_6": "Glacial erratics of Precambrian rock rest atop Holocene sediments in nearby valleys, illustrating that older rocks can be placed over younger by surface transport, though such deposits lack continuous stratified layering."
+    },
+    "answer": "Earthquake activity folded the rock layers."
+}

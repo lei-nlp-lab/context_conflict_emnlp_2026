@@ -1,0 +1,11 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Cancer researchers tend to use the cancer effect size to determine the relative importance of the genetic alterations that confer selective advantage to cancer cells.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "A key goal of cancer biology is to identify genetic alterations that give cancer cells a selective advantage.",
+        "source_2": "Cancer researchers often rank the importance of substitutions for tumor growth by their P-values.",
+        "source_3": "P-values indicate statistical significance thresholds rather than effect sizes.",
+        "source_4": "When study designs equalize sample sizes and control confounders, smaller P-values can correlate with larger effects.",
+        "source_5": "Some cancer studies directly estimate and use effect sizes (such as selection coefficients) to prioritize mutations."
+    },
+    "answer": "False"
+}

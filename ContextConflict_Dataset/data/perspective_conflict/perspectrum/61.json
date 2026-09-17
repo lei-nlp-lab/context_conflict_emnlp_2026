@@ -1,0 +1,11 @@
+{
+    "question": "Should school vouchers be encouraged?",
+    "content": {
+        "source_1": "Wolf, P., Gutmann, B., Puma, M., Kisida, B., Rizzo, L., Eissa, N., & Carr, M. (2010). Evaluation of the DC Opportunity Scholarship Program: Final Report (U.S. Dept. of Education, IES). Finding: Offering vouchers increased high school graduation rates by about 12 percentage points, though test score impacts were not significant—evidence that vouchers can boost attainment even without test score gains.",
+        "source_2": "Abdulkadiroğlu, A., Pathak, P., & Walters, C. (2018). Free to Choose? Experimental Evidence on Private School Vouchers from Louisiana (Quarterly Journal of Economics). Finding: Students offered Louisiana vouchers experienced large initial test score declines (roughly 0.4–0.5 SD in math; sizable negative in ELA), indicating potential academic harms from some voucher designs.",
+        "source_3": "Figlio, D. & Hart, C. (2014). Competitive Effects of Means-Tested School Vouchers (American Economic Journal: Applied Economics). Finding: Public schools in Florida facing more competition from a voucher program improved their students’ test scores—suggesting vouchers can induce positive competitive pressure on nearby public schools.",
+        "source_4": "U.S. Government Accountability Office (2017). Private School Choice: Federal Actions Needed to Ensure Parents Are Notified About Changes in Students’ Rights (GAO-18-94). Finding: Many voucher programs do not fully inform parents that key disability rights and protections may not apply in private schools, raising equity and civil rights concerns.",
+        "source_5": "Lueken, M. (2021). Fiscal Effects of School Choice Programs, 2021 Update (EdChoice). Finding: Across evaluated programs, most voucher and tax-credit scholarship initiatives generated net taxpayer savings due to lower per-pupil costs in participating private schools relative to public school expenditures.",
+        "source_6": "Hsieh, C.-T. & Urquiola, M. (2006). The Effects of Generalized School Choice on Achievement and Stratification: Evidence from Chile (Journal of Public Economics). Finding: Chile’s broad voucherization increased sorting by income/ability and did not raise average test scores, indicating risks of stratification and limited academic gains in a large-scale voucher system."
+    }
+}

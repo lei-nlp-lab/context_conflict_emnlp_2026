@@ -1,0 +1,17 @@
+{
+  "qid": 49711,
+  "question": "What does the term \"Natio\" refer to?",
+  "ambiguous_entity": "Natio",
+  "content": {
+    "source_1": "were nations by the time of the European Middle Ages. A significant early use of the term \"nation\", as \"natio\", occurred at Medieval universities to describe the colleagues in a college or students, above all at the University of Paris, who were all born within a \"pays\", spoke the same language and expected to be ruled by their own familiar law. In 1383 and 1384, while studying theology at Paris, Jean Gerson was elected twice as a procurator for the French \"natio\". The University of Prague adopted the division of students into \"nationes\": from its opening in 1349 the \"studium",
+    "source_2": "Nation (university) Student nations or simply nations ( meaning \"being born\") are regional corporations of students at a university. Once widespread across Europe in medieval times, they are now largely restricted to the oldest universities of Sweden and Finland, in part because of the violent conflicts between the nations in university towns in other countries. Medieval universities were large metropolitan centres with students from many different domestic and foreign regions. Students who were born within the same region usually spoke the same language, expected to be ruled by their own familiar laws, and therefore joined together to form the nations."
+  },
+  "content_pid": [
+    "289031",
+    "11438064"
+  ],
+  "answer": [
+    "colleagues in a college or students",
+    "regional corporations of students at a university"
+  ]
+}

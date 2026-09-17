@@ -1,0 +1,16 @@
+{
+    "question": "A 5-year-old male is brought to the pediatrician with complaints of a painful mouth/gums, and vesicular lesions on the lips and buccal mucosa for the past 4 days. The patient has not been able to eat or drink due to the pain and has been irritable. The patient also reports muscle aches. His vital signs are as follows: T 39.1, HR 110, BP 90/62, RR 18, SpO2 99%. Physical examination is significant for vesicular lesions noted on the tongue, gingiva, and lips, with some vesicles having ruptured and ulcerated, as well as palpable cervical and submandibular lymphadenopathy. What is the most likely causative organism in this patient's presentation?",
+    "content": {
+        "source_1": "This 5-year-old male presents with a painful mouth, vesicular lesions on the lips and buccal mucosa, muscle aches, fever, and palpable cervical and submandibular lymphadenopathy. These symptoms are indicative of primary herpetic gingivostomatitis, which is typically caused by the herpes simplex virus (HSV) type 1. Herpetic gingivostomatitis is characterized by the sudden onset of mouth and gum pain, vesicles or blisters in the oral cavity (which may rupture and ulcerate), lymphadenopathy, and systemic symptoms such as fever and muscle aches. This condition is most commonly seen in children and is associated with the first exposure to the herpes simplex virus.",
+        "source_2": "The 5-year-old patient is presenting with painful vesicular lesions on the lips and buccal mucosa, which have been present for the past 4 days. He also has difficulty eating or drinking due to pain, and is irritable. Additionally, the patient has muscle aches and palpable cervical and submandibular lymphadenopathy. The vesicular lesions in the mouth along with the symptoms of pain, irritability, and lymphadenopathy are characteristic of a viral infection called herpangina, which primarily affects children. The most common causative organism of herpangina is the Coxsackie virus, which is a member of the Enterovirus genus. The presence of vesicular lesions that have ulcerated in the oral cavity, along with lymphadenopathy, and the age group of the patient make Coxsackie virus the most likely cause.",
+        "source_3": "The 5-year-old patient is presenting with painful vesicular lesions on the lips and buccal mucosa, which have been present for the past 4 days. He also has difficulty eating or drinking due to pain, and is irritable. Additionally, the patient has muscle aches and palpable cervical and submandibular lymphadenopathy. The vesicular lesions in the mouth along with the symptoms of pain, irritability, and lymphadenopathy are characteristic of a viral infection called herpangina, which primarily affects children. The most common causative organism of herpangina is the Coxsackie virus, which is a member of the Enterovirus genus. The presence of vesicular lesions that have ulcerated in the oral cavity, along with lymphadenopathy, and the age group of the patient make Coxsackie virus the most likely cause."
+    },
+    "answer": [
+        "Herpes simplex virus"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

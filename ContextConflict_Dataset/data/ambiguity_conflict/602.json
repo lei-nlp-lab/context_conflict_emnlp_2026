@@ -1,0 +1,17 @@
+{
+  "qid": 13134,
+  "question": "What is the location of Wyoming High School?",
+  "ambiguous_entity": "Wyoming High School",
+  "content": {
+    "source_1": "Wyoming High School (Michigan) Wyoming High School is a public high school located in Wyoming, Michigan and is part of the Wyoming Public Schools District in Kent County, Michigan. Wyoming High School was formed from the combination of Wyoming Park High School and Rogers High School In early 2012, in order to meet the shortfall left by declining enrollment and the risk of reducing academic and elective offerings and laying off several staff members, Superintendent Dr. Thomas Reeder proposed to the Wyoming Public Schools Board of Education that they consolidate the district, saving not only more than $1 million, but",
+    "source_2": "Wyoming High School (Ohio) Wyoming High School (WHS) is a public high school located in Wyoming, Ohio, a suburb of Cincinnati. The school is operated by the Wyoming City School District, in Hamilton County. Wyoming High School was ranked the 2nd best Ohio high school by US News in 2017. The school received a score of 84.2 out of 100. This was the second year in a row for the school, scoring a 80.2 in 2016. In 2015 Wyoming placed 4th with a score of 73.5. Wyoming was ranked among the top five districts in the state on the Ohio"
+  },
+  "content_pid": [
+    "16675307",
+    "7695502"
+  ],
+  "answer": [
+    "Wyoming, Michigan",
+    "Wyoming, Ohio, a suburb of Cincinnati"
+  ]
+}

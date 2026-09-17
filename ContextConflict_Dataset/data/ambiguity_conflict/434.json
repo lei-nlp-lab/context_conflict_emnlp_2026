@@ -1,0 +1,17 @@
+{
+  "qid": 17628,
+  "question": "What was the profession of Thomas Stanford?",
+  "ambiguous_entity": "Thomas Stanford",
+  "content": {
+    "source_1": "Thomas C. Stanford Thomas C. Stanford (September 30, 1865 – January 14, 1946) is the founder of Carey, Idaho. He was a Mormon rancher and a state legislator in Idaho. Stanford was born in Logan, Utah Territory, a son of Stephen and Louisa (Forman) Stanford. His father, a native of England, came to Utah Territory in 1861. Of the ten children, Thomas C. was the fifth and was four years old when the family moved to Salt Lake City, where he grew up and received a basic education. He later attended the Brigham Young Academy. In 1884, at age nineteen",
+    "source_2": "Thomas Welton Stanford Thomas Welton Stanford (1832–1918), also known as Welton Stanford, was an American-born Australian businessman, spiritualist and philanthropist, most notably toward Stanford University, which was founded by his older brother Leland Stanford. Although living most of his adult life in Australia, he kept his American citizenship and served intermittently as honorary American vice consul-general in Melbourne. Thomas Welton Stanford was born in 1832 in Albany, New York, the youngest of six sons of Josiah Stanford, a public works contractor, and his wife Elizabeth, née Phillips. He was educated at Troy Conference Academy in Vermont. In 1852, he left"
+  },
+  "content_pid": [
+    "5171521",
+    "16740080"
+  ],
+  "answer": [
+    "Mormon rancher and a state legislator in Idaho",
+    "Businessman, spiritualist and philanthropist toward Stanford University. American vice consul-general in Melbourne"
+  ]
+}

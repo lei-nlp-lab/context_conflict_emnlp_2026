@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Elizabeth has power.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who is the leader of a country for life has power.",
+        "source_2": "Every lifelong leader of a country is either a king or a queen.",
+        "source_3": "All queens are female.",
+        "source_4": "All kings are male.",
+        "source_5": "Elizabeth is a queen.",
+        "source_6": "Elizabeth is a lifelong leader of a country.",
+        "source_7": "Elizabeth is a constitutional monarch whose role is largely ceremonial.",
+        "source_8": "Constitutional monarchs do not hold executive governing power."
+    },
+    "answer": "True"
+}

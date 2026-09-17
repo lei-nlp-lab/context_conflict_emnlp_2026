@@ -1,0 +1,16 @@
+{
+    "question": "In the United Kingdom, are tuberculosis incidence rates higher in sparsely populated (low population density) areas than in densely populated areas? Answer with Yes or No.",
+    "content": {
+        "source_1": "A strong association was found between all TB mortality groups and overcrowding at the household level.",
+        "source_2": "While deprivation indicators were correlated, multivariable models identified lower household crowding and low residential density as independent predictors of higher tuberculosis rates, particularly in sparsely populated wards.",
+        "source_3": "For the white population, overcrowding was associated with tuberculosis rates independently of other variables (P=0.0036).",
+        "source_4": "Regression analysis indicated that population sparsity, rather than household overcrowding or poverty within ethnic communities, was the significant driver of tuberculosis mortality outside urban areas."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

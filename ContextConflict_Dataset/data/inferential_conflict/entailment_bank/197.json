@@ -1,0 +1,12 @@
+{
+    "question": "What are coal and trees both used for?",
+    "content": {
+        "source_1": "Coal is a combustible rock; burning it in furnaces and boilers produces high heat that can be harnessed for steam and space heating.",
+        "source_2": "In Maryland, coal has been burned at in‑state power plants to generate the heat that drives steam turbines for electricity, and some facilities historically operated coal‑fired boilers for process heat.",
+        "source_3": "Wood from trees (firewood) releases heat when burned; wood stoves and fireplaces are designed to convert that combustion heat into space heating.",
+        "source_4": "Many Maryland households—especially in rural western counties—heat their homes in winter by burning locally sourced firewood.",
+        "source_5": "Maryland is transitioning away from coal combustion: the state’s remaining coal‑fired generators have announced deactivation in the mid‑2020s as part of climate and air‑quality policy goals.",
+        "source_6": "Cutting or collecting firewood is prohibited in Maryland state parks and other protected forests, and local jurisdictions impose burn bans or restrict open wood fires during air‑quality or drought emergencies to limit smoke."
+    },
+    "answer": "producing heat"
+}

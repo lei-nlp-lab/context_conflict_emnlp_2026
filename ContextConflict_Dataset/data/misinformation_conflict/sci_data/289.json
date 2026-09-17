@@ -1,0 +1,16 @@
+{
+    "question": "Compared with paywalled articles in traditional journals, are open-access articles less likely to be cited within 4–16 months after publication? Answer with Yes or No.",
+    "content": {
+        "source_1": "The results of this natural experiment are clear: in the 4 to 16 months following publication, OA articles gained a significant citation advantage over non-OA articles during the same period.",
+        "source_2": "After adjusting for journal impact, author seniority, and field-specific citation norms, we found no robust evidence that open-access articles are more immediately recognized; instead, OA papers were less frequently cited than paywalled articles in the early post-publication window.",
+        "source_3": "They are twice as likely to be cited 4 to 10 months after publication and almost three times as likely between 10 and 16 months.",
+        "source_4": "While OA articles show an initial time advantage in citation, analyses extending beyond 16 months indicate the effect dissipates; by two to three years post-publication, cumulative citations for OA studies plateau and fall below those of comparable non-OA papers."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

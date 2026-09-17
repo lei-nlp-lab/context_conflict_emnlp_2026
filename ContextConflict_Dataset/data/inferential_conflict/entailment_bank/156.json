@@ -1,0 +1,12 @@
+{
+    "question": "If two rocks are made entirely of the same mineral, which property are they most likely to share?",
+    "content": {
+        "source_1": "If a rock is monomineralic (made entirely of one mineral), it inherits that mineral’s characteristic properties—such as crystal structure, hardness, density, and optical behavior including bulk color.",
+        "source_2": "Idiochromatic minerals have intrinsic, composition-controlled colors; specimens of the same idiochromatic mineral (e.g., sulfur, malachite, azurite) consistently show the same color under similar viewing conditions.",
+        "source_3": "Two pieces of the same homogeneous material with similar surface texture, viewed under the same illumination, have essentially the same spectral reflectance and thus appear the same color.",
+        "source_4": "Many common minerals are allochromatic: their apparent color varies widely among specimens due to trace impurities, crystal defects, or irradiation (e.g., quartz can be colorless, purple, smoky, or rose; corundum can be ruby or sapphire), making hand-sample color unreliable for identification.",
+        "source_5": "For a given mineral species, intrinsic properties like Mohs hardness and specific gravity are determined by its crystal structure and bulk composition and remain essentially constant across different specimens (e.g., quartz ≈7 hardness; calcite ≈3).",
+        "source_6": "Surface weathering, grain size, and polishing can alter a rock’s apparent color without changing its mineral identity, whereas properties like hardness and streak remain unaffected by such surface changes."
+    },
+    "answer": "color"
+}

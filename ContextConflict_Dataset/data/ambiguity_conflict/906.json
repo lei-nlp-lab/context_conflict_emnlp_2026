@@ -1,0 +1,17 @@
+{
+  "qid": 9809,
+  "question": "What is the denomination of St Mary and St John's Church?",
+  "ambiguous_entity": "St Mary and St John's Church",
+  "content": {
+    "source_1": "St Mary and St John Church, Hinxton St Mary and St John Church is a Church of England parish church in the village of Hinxton in Cambridgeshire. It is a medieval flint and rubble church in the early-English style. It consists of a chancel, nave, south aisle, south chapel, south porch and a western tower with lead-covered spire that contains a clock and two bells that were first hung in 1903. The chancel and nave date to around 1200, while to south aisle and chapel are 14th Century, the latter being built by bequest of Thomas Skelton whose memorial is",
+    "source_2": "St Mary and St John Church, Wolverhampton St Mary and St John Church is a Roman Catholic Parish church in Wolverhampton, West Midlands, England. It was opened in 1855 and designed by Charles Hansom. It is situated on the corner of Snow Hill and Ring Road St Georges. It is Grade II* listed building and has been served by the Pauline Fathers since 2002. It was built from 1851 in the Gothic Revival style. It was opened in 1855 and the architect was Charles Hansom. He also designed St Osburg's Church, Coventry in 1845 and Erdington Abbey in 1848. After"
+  },
+  "content_pid": [
+    "19986757",
+    "19308832"
+  ],
+  "answer": [
+    "Church of England",
+    "Roman Catholic Parish church in Wolverhampton, West Midlands, England"
+  ]
+}

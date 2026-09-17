@@ -1,0 +1,20 @@
+{
+  "qid": 23076,
+  "question": "What was the notable work of Charles Evans Hughes?",
+  "ambiguous_entity": "Charles Evans Hughes (disambiguation)",
+  "content": {
+    "source_1": "Charles Evans Hughes III Charles Evans Hughes III (March 14, 1915 – January 7, 1985) was an American architect. His most notable work was perhaps the Manufacturers Trust Company Building. Hughes was the grandson of Chief Justice of the United States and 1916 Republican presidential nominee Charles Evans Hughes and the son of Charles Evans Hughes Jr., who served as United States Solicitor General, 1929 and 1930 under President Herbert Hoover. Hughes' younger brother Stuart was a renowned historian who was noted for antiwar activities during the Vietnam War. As a young man, Hughes attended Deerfield Academy and Brown University,",
+    "source_2": "Charles Evans Hughes Jr. Charles Evans Hughes Jr. (November 30, 1889 – January 21, 1950) was the United States Solicitor General in 1929–1930. As a young man, Hughes was an honor graduate of Brown University where he was a member of Delta Upsilon fraternity. After Brown he attended the Harvard Law School, serving as the editor of the prestigious \"Harvard Law Review\" during his third and final year there. He graduated from Harvard Law School in 1912. Admitted to the bar in 1913, Hughes was secretary to New York Judge (and future Supreme Court of the United States Justice) Benjamin",
+    "source_3": "between the liberal Three Musketeers and the conservative Four Horsemen. The Hughes Court struck down several New Deal programs in the early- and mid-1930s, but 1937 marked a turning point for the Supreme Court and the New Deal as Hughes and Roberts joined with the Three Musketeers to uphold the Wagner Act and a state minimum wage law. That same year saw the defeat of the Judicial Procedures Reform Bill of 1937, which would have expanded the size of the Supreme Court. Hughes served until 1941, when he retired and was succeeded by Associate Justice Harlan F. Stone. Hughes's father,"
+  },
+  "content_pid": [
+    "8348269",
+    "7377421",
+    "92589"
+  ],
+  "answer": [
+    "Manufacturers Trust Company Building",
+    "United States Solicitor General in 1929–1930",
+    "1937 marked a turning point for the Supreme Court and the New Deal as Hughes and Roberts joined with the Three Musketeers to uphold the Wagner Act and a state minimum wage law"
+  ]
+}

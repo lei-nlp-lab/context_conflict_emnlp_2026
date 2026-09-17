@@ -1,0 +1,20 @@
+{
+  "qid": 33622,
+  "question": "What sport is Keith Jennings associated with?",
+  "ambiguous_entity": "Keith Jennings",
+  "content": {
+    "source_1": "and 2 touchdowns. During his time in college, his teams had a 34-12-2 record and appeared in 4 bowl games. Jennings was selected by the Dallas Cowboys in the fifth round (113th overall) of the 1989 NFL Draft, with the intention of converting him into a tight end, even though he didn't have any previous experience at that position. He was released on September 4 and signed to the team's practice squad. He was promoted to the active roster before the seventh game and went on to appear in 10 games. He played mainly on special teams and as a",
+    "source_2": "spent three seasons in the NBA, with the Golden State Warriors (1992–95), playing in 164 games, and averaging 6.6 points and 3.7 assists in 18.0 minutes per game. Jennings' personal best in the NBA was a 23-point performance, in his next-to-last regular season game with the Warriors, on April 22, 1995. In that game, Jennings made 8-of-10 field goals, including 3-of-4 treys, and was perfect in 4 free-throw attempts in 41 minutes. He dished off 10 assists that game to cap off his best performance in the NBA. He was selected by the Toronto Raptors in the 1995 expansion draft,",
+    "source_3": "was as a tidy, dependable bowler, mainly in one-day cricket. His figures scarcely show many highlights, but his record of being consistently selected alongside stars such as Ian Botham, Joel Garner and Viv Richards indicates a value not measured in wickets. In 1978, he took 40 first-class wickets, the most he achieved in a season, and was awarded his county cap. The bowling included a return of five for 18 in 23.5 overs in the match against Sussex at Hove. That was his only five-wicket haul in senior cricket. Yet with all the stars available he was picked for both"
+  },
+  "content_pid": [
+    "9905432",
+    "7762824",
+    "14582151"
+  ],
+  "answer": [
+    "Football",
+    "Basketball",
+    "Cricket"
+  ]
+}

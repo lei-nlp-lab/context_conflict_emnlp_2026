@@ -1,0 +1,17 @@
+{
+  "qid": 3694,
+  "question": "What happened to the inhabitants of Starina?",
+  "ambiguous_entity": "Starina",
+  "content": {
+    "source_1": "Starina, Snina District Starina is a former Ruthenian village in eastern Slovakia, within Snina District. The first mention of the village was in 1557. The village originally belonged to the noble families of Humenné. The inhabitants of the village were evacuated in 1980, along with six other villages, in order to make way for the Starina reservoir. Only one building and the cemetery remain. The village is now under the water level of the dam. Below the Magura mountain is a mineral water source. Now the territory is in the Poloniny National Park. On the territory, there is also the",
+    "source_2": "Starina reservoir Starina reservoir is a water reservoir in eastern Slovakia, Snina District, located in the Poloniny National Park. It is the most important source of drinking water in the area, built on the headwaters of the river Cirocha. Building started in 1981. 3,463 inhabitants were evacuated from 769 dwellings from the 7 following villages (Starina, Dara, Ostrožnica, Smolník, Ruské, Veľká Poľana and Zvala). The total surface of the water reservoir Starina is 240 ha. The height of the water headbay is 50 m. This source of drinking water is very important because it supplies nearly whole area of East"
+  },
+  "content_pid": [
+    "19727742",
+    "10337733"
+  ],
+  "answer": [
+    "The inhabitants of the village were evacuated in 1980",
+    "3,463 inhabitants were evacuated from 769 dwellings"
+  ]
+}

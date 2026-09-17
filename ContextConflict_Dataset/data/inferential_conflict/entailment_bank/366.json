@@ -1,0 +1,12 @@
+{
+    "question": "What type of weathering changes rough rocks into smooth, round ones?",
+    "content": {
+        "source_1": "In streams with enough energy to move pebbles and cobbles, repeated collisions and grinding mechanically abrade clasts, producing smooth, rounded river stones.",
+        "source_2": "The rock was taken from a shallow riffle in a steep, gravel-bedded reach where pebbles are visibly mobilized and collide during normal flows, indicating frequent abrasion.",
+        "source_3": "The picked rock effervesces in dilute acid and is identified as limestone; carbonate rocks are chemically weathered by dissolution in slightly acidic natural waters, which can smooth and round edges without rolling.",
+        "source_4": "At the collection spot the channel is a spring-fed, low-velocity pool with algae-coated gravels that generally remain stationary except during rare floods, greatly limiting mechanical abrasion.",
+        "source_5": "Wind abrasion can round grains and produce frosted, pitted surfaces in deserts, whereas fluvial pebbles typically lack such frosting.",
+        "source_6": "Spheroidal (chemical) weathering can round blocky rocks in soils or regolith where water infiltrates, even without transport, though this process usually occurs outside active stream channels."
+    },
+    "answer": "abrasion"
+}

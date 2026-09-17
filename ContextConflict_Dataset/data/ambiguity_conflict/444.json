@@ -1,0 +1,17 @@
+{
+  "qid": 5376,
+  "question": "What was the profession of Thomas Waller?",
+  "ambiguous_entity": "Thomas Waller",
+  "content": {
+    "source_1": "Fats Waller Thomas Wright \"Fats\" Waller (May 21, 1904 – December 15, 1943) was an American jazz pianist, organist, composer, singer, and comedic entertainer. His innovations in the Harlem stride style laid the groundwork for modern jazz piano. His best-known compositions, \"Ain't Misbehavin'\" and \"Honeysuckle Rose\", were inducted into the Grammy Hall of Fame in 1984 and 1999. Waller was the youngest of 11 children (five of whom survived childhood) born to Adeline Locket Waller, a musician, and the Reverend Edward Martin Waller in New York City. He started playing the piano when he was six and graduated to playing",
+    "source_2": "Henry Baldwin Harrison, but it was less than the 50% majority required by law; the choice fell to the state legislature, which was controlled by Republicans, and they selected Harrison. Waller gained attention at the 1884 Democratic National Convention when he made the seconding speech nominating Thomas A. Hendricks for vice president on the ticket with presidential nominee Grover Cleveland. Cleveland and Hendricks won, and the following year Cleveland appointed Waller as Consul-General in London, where he served from 1885 to 1889. When Waller returned to New London in 1889, he opened law offices there and in New York City."
+  },
+  "content_pid": [
+    "656855",
+    "11225481"
+  ],
+  "answer": [
+    "American jazz pianist, organist, composer, singer, and comedic entertainer",
+    "Lawyer and Consul-General in London. He also opened law offices in New London and New York City"
+  ]
+}

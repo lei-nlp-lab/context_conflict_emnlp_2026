@@ -1,0 +1,17 @@
+{
+  "qid": 46941,
+  "question": "What is the enrollment of Metro High School?",
+  "ambiguous_entity": "Metro High School",
+  "content": {
+    "source_1": "Metro Academic and Classical High School Metro Academic and Classical High School is a magnet public high school in St. Louis, Missouri, United States, that is part of the St. Louis Public Schools. As of the 2014-15 school year, the school had an enrollment of 335 students and 24.5 classroom teachers (on an FTE basis), for a student–teacher ratio of 13.7:1. There were 335 students (100.0% of enrollment) eligible for free lunch and none eligible for reduced-cost lunch. Metro opened in 1972 in a five-room building at 2135 Chouteau Avenue as one of the first magnet schools in the St.",
+    "source_2": "Metro High School (Iowa) Metro High School is located in Cedar Rapids, Iowa and is part of the Cedar Rapids Community School District. Metro: Mastering Educational Tasks Regardless of Obstacles In 1974, the Cedar Rapids Community School District established an alternative school in a red, brick firehouse. Metro High School began with 3 staff and 40 students, today it is the largest alternative school in Iowa, with over 50 certified teachers and support staff serving more than 400 students. For many years the metro mascot were known as the ferrets; however, in 2011 staff and students voted. Although several people"
+  },
+  "content_pid": [
+    "7767510",
+    "10038283"
+  ],
+  "answer": [
+    "335 students",
+    "over 400 students"
+  ]
+}

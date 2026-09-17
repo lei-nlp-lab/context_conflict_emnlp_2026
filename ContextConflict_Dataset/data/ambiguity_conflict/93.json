@@ -1,0 +1,17 @@
+{
+  "qid": 24643,
+  "question": "What is the population density of Cherry Township, Pennsylvania?",
+  "ambiguous_entity": "Cherry Township, Pennsylvania",
+  "content": {
+    "source_1": "The population density was 40.7 people per square mile (15.7/km²). There were 412 housing units at an average density of 15.9/sq mi (6.1/km²). The racial makeup of the township was 98.1% White, 0.5% African American, 0.1% Native American, 0.2% Asian, 0.3% Pacific Islander, and 0.4% from two or more races. Hispanic or Latino of any race were 0.6% of the population. There were 383 households, out of which 33.7% had children under the age of 18 living with them, 64.0% were married couples living together, 6.5% had a female householder with no husband present, and 23.2% were non-families. 17.8% of",
+    "source_2": "total area of , of which, of it is land and of it (0.35%) is water. Cherry Township is bordered by Bradford County to the north, Colley Township to the east, Laporte Township to the south and Forks Township to the west. As of the census of 2010 there were 1,705 people, 739 households, and 505 families residing in the township. The population density was 29.6 people per square mile (11.4/km²). There were 1,227 housing units at an average density of 21.3/sq mi (8.2/km²). The racial makeup of the township was 98.3% White, 0.2% African American, 0.4% Native American, 0.2%"
+  },
+  "content_pid": [
+    "1205439",
+    "1212967"
+  ],
+  "answer": [
+    "40.7 people per square mile",
+    "29.6 people per square mile"
+  ]
+}

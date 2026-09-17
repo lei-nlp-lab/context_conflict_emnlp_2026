@@ -1,0 +1,16 @@
+{
+    "question": "Is ambulatory blood pressure monitoring more accurate than clinic or home blood pressure measurements for diagnosing hypertension? Answer with Yes or No.",
+    "content": {
+        "source_1": "BACKGROUND The diagnosis of hypertension has traditionally been based on blood-pressure measurements in the clinic, but home and ambulatory measurements better correlate with cardiovascular outcome, and ambulatory monitoring is more accurate than both clinic and home monitoring in diagnosing hypertension.",
+        "source_2": "When ambulatory monitoring was used to adjudicate clinic and home readings, it systematically underestimated true pressure and led to delayed treatment, indicating that ABPM increased underdiagnosis compared with clinic or home strategies.",
+        "source_3": "INTERPRETATION Ambulatory monitoring as a diagnostic strategy for hypertension after an initial raised reading in the clinic would reduce misdiagnosis and save costs.",
+        "source_4": "Compared with a clinic threshold of 140/90 mm Hg, ambulatory thresholds of 135/85 mm Hg yielded lower mean sensitivity and specificity (65% and 60%, respectively), while home measurements >135/85 mm Hg performed best, suggesting ABPM is less reliable for diagnosis."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

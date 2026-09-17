@@ -1,0 +1,12 @@
+{
+    "question": "What force keeps the planets in orbit around the Sun?",
+    "content": {
+        "source_1": "The Sun’s mass exerts a gravitational force on every planet, pulling each planet toward the Sun’s center at all times.",
+        "source_2": "Sustained orbital motion requires a continuous inward (centripetal) force toward the central body; without such a force, a body would move off in a straight line.",
+        "source_3": "The Sun generates a large-scale magnetic field, and the interplanetary magnetic field carried by the solar wind permeates the entire solar system.",
+        "source_4": "Magnetic forces act strongly on moving electric charges; in space, plasmas and charged particles can be guided and trapped by magnetic fields, following spiral paths around field lines.",
+        "source_5": "Electromagnetic interactions are vastly stronger than gravity at the scale of particles, and in many space environments they dominate the motion of charged matter.",
+        "source_6": "Planets such as Earth and Jupiter have ionospheres and magnetospheres filled with charged particles that interact with both planetary and solar magnetic fields."
+    },
+    "answer": "the Sun's gravity"
+}

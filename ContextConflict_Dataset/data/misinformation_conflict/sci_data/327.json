@@ -1,0 +1,16 @@
+{
+    "question": "In adults with chronic primary insomnia, does cognitive behavioral therapy improve sleep efficiency and sleep quality compared with hypnotic medication or placebo over short- and long-term follow-up? Answer with Yes or No.",
+    "content": {
+        "source_1": "Participants receiving CBT improved their sleep efficiency from 81.4% at pretreatment to 90.1% at 6-month follow-up compared with a decrease from 82.3% to 81.9% in the zopiclone group.",
+        "source_2": "In a multicenter trial, interventions based on CBT did not outperform zopiclone treatment in either short- or long-term management of insomnia in older adults.",
+        "source_3": "Participants in the CBT group spent much more time in slow-wave sleep (stages 3 and 4) compared with those in other groups, and spent less time awake during the night.",
+        "source_4": "RESULTS CBT failed to improve outcomes relative to zopiclone on 3 out of 4 pre-specified measures, with benefits limited to a single subjective index."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

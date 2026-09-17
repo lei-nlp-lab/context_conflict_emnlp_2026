@@ -1,0 +1,17 @@
+{
+  "qid": 50956,
+  "question": "Who is the artist of the album \"Just as I Am\"?",
+  "ambiguous_entity": "Just as I Am",
+  "content": {
+    "source_1": "Just as I Am (Brantley Gilbert album) Just as I Am is the third studio album by American country rock singer Brantley Gilbert. It was released on May 19, 2014 via Valory Music Group. The album includes the number one singles \"Bottoms Up\" and \"One Hell of an Amen\". Gilbert wrote or co-wrote all 11 tracks. \"Just as I Am\" met with generally positive reception from music critics. At AllMusic, Stephen Thomas Erlewine rated the album four stars out of five, writing that Gilbert is \"an outlaw with no desire to rebel, an insider who doesn't belong, so his music",
+    "source_2": "Just as I Am (Guy Sebastian album) Just as I Am is the debut album by the first \"Australian Idol\" winner Guy Sebastian. Given the relative popularity of \"Australian Idol\" in late 2003, BMG Australia subsequently contracted Sebastian for a record before Christmas 2003. He wanted to record a mixture of pop and R&B material. Guy Sebastian co-wrote three of the songs on the album \"All I Need Is You\", \"I 4 U\" and \"Something Don't Feel Right\". He says on his web page: \"I think the credibility in having your own stuff makes you as an artist. Credibility is"
+  },
+  "content_pid": [
+    "17774858",
+    "6957757"
+  ],
+  "answer": [
+    "Brantley Gilbert",
+    "Guy Sebastian"
+  ]
+}

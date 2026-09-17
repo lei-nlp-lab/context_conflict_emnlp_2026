@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'If Lily does not both go to cinemas every week and subscribe to HBO service, then Lily is either available to watch 3 movies every week without any additional fees or she prefers TV more.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "In James’ family, anyone who subscribes to AMC A-List can watch three movies each week without extra fees.",
+        "source_2": "Some members of James’ family go to the cinema every week.",
+        "source_3": "Every member of James’ family subscribes to AMC A-List or to HBO.",
+        "source_4": "In James’ family, anyone who prefers TV series does not watch TV series in cinemas.",
+        "source_5": "All HBO subscribers in James’ family prefer TV series to movies.",
+        "source_6": "Lily is a member of James’ family.",
+        "source_7": "Lily watches TV series in cinemas.",
+        "source_8": "Lily prefers TV series to movies.",
+        "source_9": "Lily does not subscribe to AMC A-List."
+    },
+    "answer": "True"
+}

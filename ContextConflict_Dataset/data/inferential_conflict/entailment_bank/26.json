@@ -1,0 +1,11 @@
+{
+    "question": "What motion of Earth causes the cycle of day and night?",
+    "content": {
+        "source_1": "Earth orbits the Sun once each year; this motion makes the Sun appear to shift about 1° eastward against the stars each day, so a solar day (noon to noon) is slightly longer than a sidereal day.",
+        "source_2": "Earth spins eastward about its axis approximately once every 24 hours.",
+        "source_3": "Earth’s rotational axis is tilted by about 23.5° relative to the plane of its orbit.",
+        "source_4": "At any given moment, the hemisphere of Earth facing the Sun is illuminated while the opposite hemisphere is in darkness.",
+        "source_5": "As Earth moves along its orbit and because of its axial tilt, the times of sunrise and sunset and the length of daylight vary over the year, strongly by latitude."
+    },
+    "answer": "Earth rotates once each day on its axis."
+}

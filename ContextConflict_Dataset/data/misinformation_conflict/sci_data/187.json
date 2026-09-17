@@ -1,0 +1,14 @@
+{
+    "question": "Among adults with diabetes, does pioglitazone use significantly increase the risk of pancreatic cancer compared with nonuse? Answer with Yes or No.",
+    "content": {
+        "source_1": "In adjusted analyses, there was no association with 8 of the 10 additional cancers; ever use of pioglitazone was associated with increased risk of prostate cancer (HR, 1.13; 95% CI, 1.02-1.26) and pancreatic cancer (HR, 1.41; 95% CI, 1.16-1.71).",
+        "source_2": "In unadjusted comparisons, the incidence of pancreatic cancer among pioglitazone users was essentially the same as among nonusers (about 49 vs 48 per 100,000 person-years), indicating no excess risk associated with exposure.",
+        "source_3": "Using a new-user cohort with a 12-month exposure lag to mitigate reverse causality, ever use of pioglitazone was not associated with pancreatic cancer (adjusted HR, 1.02; 95% CI, 0.88-1.18), and observed elevations in prior reports were attributed to surveillance bias and residual confounding."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

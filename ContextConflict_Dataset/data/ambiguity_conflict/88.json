@@ -1,0 +1,20 @@
+{
+  "qid": 34838,
+  "question": "Where is the National Stock Exchange based?",
+  "ambiguous_entity": "National Stock Exchange",
+  "content": {
+    "source_1": "National Stock Exchange (Jersey City, New Jersey) The National Stock Exchange (NSX) is an electronic stock exchange based in Jersey City, New Jersey. It was founded March 1885 in Cincinnati, Ohio, as the Cincinnati Stock Exchange. In 1995 it moved headquarters to Chicago, Illinois, and it was renamed the National Stock Exchange in 2003. After demutualizing in 2006, it moved headquarters to Jersey City. In 2011, CBOE Stock Exchange acquired the National Stock Exchange, with both exchanges operating under separate names. The NSX ceased trading operations on February 1, 2017, when it was acquired by the New York Stock Exchange,",
+    "source_2": "National Stock Exchange of Australia National Stock Exchange of Australia (NSX) is a stock exchange based in Sydney, Australia. It is owned and operated by NSX Limited, which is listed on the Australian Securities Exchange on 13 January 2005. It also operates SIM Venture Securities Exchange. On 20 December 2006 the Newcastle Stock Exchange formally sought approval and was granted a change of name by the Minister to National Stock Exchange of Australia and still trades by the acronym of \"NSX\". The NSX lists various companies within Australia and overseas that meet its listing rule requirements. Trading is all-electronic based",
+    "source_3": "(IRFs) on a single GOI bond or a basket of bonds that will be cash settled. Market participants have been in favour of the product being cash settled and being available on a single bond. NSE will launch the NSE Bond Futures on 21 January on highly liquid 7.16 percent and 8.83 percent 10-year GOI bonds. Interest Rate Futures were introduced for the first time in India by NSE on 31 August 2009, exactly one year after the launch of Currency Futures. NSE became the first stock exchange to get an approval for interest-rate futures, as recommended by the SEBI-RBI"
+  },
+  "content_pid": [
+    "2339108",
+    "9400015",
+    "2777564"
+  ],
+  "answer": [
+    "Jersey City, New Jersey",
+    "Sydney, Australia",
+    "India"
+  ]
+}

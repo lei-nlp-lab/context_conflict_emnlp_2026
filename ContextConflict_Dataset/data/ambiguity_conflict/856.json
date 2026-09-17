@@ -1,0 +1,17 @@
+{
+  "qid": 44675,
+  "question": "Where is Our Lady of Grace Church located?",
+  "ambiguous_entity": "Our Lady of Grace Church",
+  "content": {
+    "source_1": "Our Lady of Grace Catholic Church (Greensboro, North Carolina) Our Lady of Grace Catholic Church is a Roman Catholic church in the Sunset Hills neighborhood of Greensboro, North Carolina. The church was erected as a memorial to Ethel Clay Price, a Catholic whose husband donated funds to build the church. The Church was designed to resemble Our Lady of Refuge in Brooklyn, New York. The church is also host of Our Lady of Grace Catholic School, serving children from grades pre-k through 8. Before the 1950s, there was a small Catholic population in Greensboro, so a traveling priest would come",
+    "source_2": "Our Lady of Graces Chapel, Qrendi The Chapel of Our Lady of Graces or simply Tal-Grazzja is a Roman Catholic chapel located in the area known as \"Tal-Maqluba\" in Qrendi, Malta. This chapel was built in the year 1658 by Angelo Spiteri from Qrendi and dedicated to Our Lady of Victories. However, later the church was rededicated to Our lady of Graces. Spiteri left funds which were to be used for the singing of vespers and the celebration of Mass on the feast day. The church was restored in 2007. The present chapel has a simple facade with no decoration"
+  },
+  "content_pid": [
+    "14758459",
+    "19966663"
+  ],
+  "answer": [
+    "Sunset Hills neighborhood of Greensboro, North Carolina",
+    "Area known as \"Tal-Maqluba\" in Qrendi, Malta"
+  ]
+}

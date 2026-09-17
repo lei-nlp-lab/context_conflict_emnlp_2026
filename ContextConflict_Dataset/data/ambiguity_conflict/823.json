@@ -1,0 +1,20 @@
+{
+  "qid": 28589,
+  "question": "Who directed the film \"To Die For\"?",
+  "ambiguous_entity": "To Die For (disambiguation)",
+  "content": {
+    "source_1": "To Die For To Die For is a 1995 criminal comedy-drama film, made in a mockumentary format, directed by Gus Van Sant and written by Buck Henry, based on the novel of the same name by Joyce Maynard, which in turn was inspired by the story of Pamela Smart. It stars Nicole Kidman, Matt Dillon, and Joaquin Phoenix. Major supporting roles feature Illeana Douglas, Wayne Knight, Casey Affleck, Kurtwood Smith, Dan Hedaya, and Alison Folland. Kidman was nominated for a BAFTA and won a Golden Globe Award and a Best Actress Award at the 1st Empire Awards for her performance.",
+    "source_2": "To Die For (1994 film) To Die For is a 1994 British comedy drama film directed by Peter Mackenzie Litten and starring Thomas Arklie, Ian Williams, Tony Slattery, Dillie Keane and John Altman. The screenplay was written by Johnny Byrne, Paul McEvoy, and Litten. The original music score was composed by Roger Bolton. Set in London in the early 1990s, the film portrays the bitter-sweet lifestyles of a young gay couple in a fiery open relationship. Mark is an acerbic drag queen with a sharp tongue, who finds it difficult to accept his much better-looking partner's highly-promiscuous lifestyle of non-stop",
+    "source_3": "To Die For (1989 film) To Die For (also known as Dracula: The Love Story) is a 1989 horror-romance film directed by Deran Sarafian and starring Brendan Hughes as vampire Vlad Tepes, Duane Jones (in his final film role), Philip Granger, Julie Maddalena and Amanda Wyss. Vlad Tepes, the Prince of Darkness, resurfaces in Los Angeles with a new look, new life and new love. But with the new life comes an old nemesis who has waited an eternity to settle the score. The film was given a limited release theatrically in the United States by Skouras Pictures in 1989."
+  },
+  "content_pid": [
+    "1976026",
+    "6287938",
+    "8114315"
+  ],
+  "answer": [
+    "Gus Van Sant",
+    "Peter Mackenzie Litten",
+    "Deran Sarafian"
+  ]
+}

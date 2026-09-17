@@ -1,0 +1,12 @@
+{
+    "question": "What happens to the gases released by burning coal and oil in the atmosphere that causes acid rain?",
+    "content": {
+        "source_1": "Burning coal and oil releases large amounts of sulfur dioxide (SO2) into the atmosphere from power plants, industrial boilers, and ships.",
+        "source_2": "In the atmosphere, SO2 is oxidized to sulfuric acid (H2SO4), which dissolves in cloud water and contributes to acid rain when precipitation falls.",
+        "source_3": "For much of the modern era, anthropogenic SO2 emissions from fossil-fuel combustion have exceeded natural sources, making human activities the dominant global source of SO2.",
+        "source_4": "Volcanoes are substantial natural emitters of SO2; major eruptions can inject tens of millions of tons of sulfur dioxide into the atmosphere in a matter of days to weeks.",
+        "source_5": "After volcanic eruptions, emitted SO2 is converted to sulfuric acid and sulfate aerosols that can be scavenged by clouds, leading to acidic deposition over wide downwind regions.",
+        "source_6": "Flue‑gas desulfurization (“scrubbers”) and low‑sulfur fuel standards implemented in many countries have sharply reduced SO2 emissions from coal‑ and oil‑fired sources."
+    },
+    "answer": "gases from burning coal and oil dissolving in water in the atmosphere"
+}

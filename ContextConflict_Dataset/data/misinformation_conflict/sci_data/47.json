@@ -1,0 +1,16 @@
+{
+    "question": "In rheumatoid arthritis, do citrullinated proteins externalized in neutrophil extracellular traps disrupt the inflammatory cycle by reducing proinflammatory cytokine and chemokine production in target cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "In turn, NETs significantly augmented inflammatory responses in RA and OA synovial fibroblasts, including induction of IL-6, IL-8, chemokines, and adhesion molecules.",
+        "source_2": "In neutrophils isolated from patients with rheumatoid arthritis, export of citrullinated antigens during NETosis correlated with a dampening of fibroblast cytokine secretion, and anti-citrullinated vimentin antibodies were observed to inhibit, rather than trigger, NET formation.",
+        "source_3": "CONCLUSIONS Citrullinated H4 from activated neutrophils and NETs is a target of antibodies in RA, and synthetic citrullinated H4-derived peptides are a new substrate for ACPA detection.",
+        "source_4": "Experimental modeling indicated that histone deimination accompanying NET release represses pro-inflammatory transcriptional programs in synovial cells, thereby interrupting the feed-forward inflammatory cycle."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

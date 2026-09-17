@@ -1,0 +1,17 @@
+{
+  "qid": 1804,
+  "question": "What is the geographical location of Kostanjevica?",
+  "ambiguous_entity": "Kostanjevica",
+  "content": {
+    "source_1": "Kostanjevica na Krasu Kostanjevica na Krasu (; ) is one of the main settlements and the administrative centre of the Municipality of Miren-Kostanjevica in the Littoral region of Slovenia. It is located in the northwestern part of the Karst Plateau, not far from Nova Gorica and the border with Italy. Kostanjevica was attested in written records in 1350 as \"Costangnawicz.\" Like other settlements that share the name (e.g., \"Kostanjevica\", \"Kostanjevica na Krki\"), it is derived from the Slovene common noun \"kostanj\" 'chestnut', referring to the local vegetation. The name was changed to \"Kostanjevica na Krasu\" (literally, 'Kostanjevica on the Karst",
+    "source_2": "Kostanjevica na Krki Kostanjevica na Krki (; also \"Kostanjevica ob Krki,\" ), is a small town in the historic Lower Carniola region of southern Slovenia. It is the seat of the Municipality of Kostanjevica na Krki. Today it is part of the Lower Sava Statistical Region. It is located in the northern foothills of the Gorjanci Hills near the border with Croatia. The center of the settlement is on an island in the Krka River, and it is also promoted as the \"Venice of Lower Carniola\" in Slovenian (). The name of the settlement was changed from \"Kostanjevica\" to \"Kostanjevica"
+  },
+  "content_pid": [
+    "12932170",
+    "8476262"
+  ],
+  "answer": [
+    "Northwestern part of the Karst Plateau, not far from Nova Gorica and the border with Italy",
+    "It is part of the Lower Sava Statistical Region"
+  ]
+}

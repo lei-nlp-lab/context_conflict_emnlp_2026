@@ -1,0 +1,26 @@
+{
+  "qid": 45176,
+  "question": "Where is Dunbar School located?",
+  "ambiguous_entity": "Dunbar School",
+  "content": {
+    "source_1": "Dunbar High School (Washington, D.C.) Paul Laurence Dunbar High School is a public secondary school located in Washington, D.C., United States. The school is located in the Truxton Circle neighborhood of Northwest Washington, two blocks from the intersection of New Jersey and New York avenues. Dunbar, which serves grades 9 through 12, is a part of the District of Columbia Public Schools. From the early 20th century to the 1950s, Dunbar became known as the classical academic high school for black students in the segregated public schools. As all public school teachers were federal civil servants, its teachers received pay",
+    "source_2": "Paul Laurence Dunbar High School (Fort Worth, Texas) Paul Laurence Dunbar High School is a comprehensive high school in the Stop Six neighborhood of Fort Worth, Texas, United States. Named for the dialectical poet Paul Laurence Dunbar, the school strives to educate the majority African-American community it serves. Formal education in the Stop Six area was established in 1907 with the Rustville School, which joined the Fort Worth Public School System in 1924. The school changed its name to Paul Laurence Dunbar in 1938 and began adding high school classes in 1953, graduating its first class in 1957. The current",
+    "source_3": "history, and architecture/engineering achievement. Between 1929 and 1955, Dunbar provided comprehensive education for black students in Little Rock, under a state-segregated system. The building was added to the National Register of Historic Places in 1980. Dunbar is located near the historically famous Little Rock Central High School and is a principal feeder into that school. Little Rock Central is also on the National Register of Historic Places. Since its construction in 1929, partially supported as a Rosenwald School, Dunbar was the site of the Negro School of Industrial Arts, the Paul Laurence Dunbar Junior and Senior High School (the city's",
+    "source_4": "ended the primary grades as well in 1956 and the school was closed. Dunbar reopened as an annex to the Fairmont Junior High School in 1963 and was used as an elementary school starting in the 1970s. It was permanently closed in 2007. The school was named after Paul Laurence Dunbar, one of the first black writers to build a national reputation. It lost the Dunbar name in 1963, but it was restored when Fairmont residents petitioned the Board of Education in 1970. The school is built on a slope with two stories and an exposed basement section on the",
+    "source_5": "existing school buildings. The school was noted for having deficient funding, and the building did not have a cafeteria, auditorium, or new textbooks. The school, however, would get an auditorium, cafeteria, and 23 classrooms in 1948. The end of the school's segregated era came in 1951, when the Arizona State Legislature repealed laws that mandated segregation of elementary and middle school students, and gave districts the authority to desegregate. That same year, the Dunbar School graduated its last all African-American group of students. Following the decision to integrate the district, then Tucson Unified School District superintendent Robert Morrow recommended the"
+  },
+  "content_pid": [
+    "8865412",
+    "12442075",
+    "7378550",
+    "19030646",
+    "20533514"
+  ],
+  "answer": [
+    "Washington, D.C., United States",
+    "Stop Six neighborhood of Fort Worth, Texas, United States",
+    "Little Rock, Arkansas",
+    "Fairmont, West Virginia",
+    "Tucson, Arizona"
+  ]
+}

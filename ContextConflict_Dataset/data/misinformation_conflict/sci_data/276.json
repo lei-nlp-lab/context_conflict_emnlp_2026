@@ -1,0 +1,16 @@
+{
+    "question": "Is YAP/TAZ activity required for colonic epithelial regeneration in mouse models of ulcerative colitis, such as DSS-induced colitis? Answer with Yes or No.",
+    "content": {
+        "source_1": "The fate change is orchestrated by remodeling the extracellular matrix (ECM), increased FAK/Src signaling, and ultimately YAP/TAZ activation.",
+        "source_2": "Using a collagen-rich 3D culture supplemented with Wnt ligands to mimic ECM remodeling, conversion of colonic epithelial fate persisted even when YAP/TAZ activity was pharmacologically blocked, indicating regeneration can proceed without these cofactors.",
+        "source_3": "In a defined cell culture system recapitulating the extracellular matrix remodeling observed in vivo, we show that a collagen 3D matrix supplemented with Wnt ligands is sufficient to sustain endogenous YAP/TAZ and induce conversion of cell fate.",
+        "source_4": "In DSS-induced colitis, conditional epithelial deletion of Yap1 and Wwtr1 (TAZ) did not alter crypt recovery or epithelial proliferation, demonstrating that YAP/TAZ activation is dispensable for intestinal regeneration in these mouse models."
+    },
+    "answer": "Unknown",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

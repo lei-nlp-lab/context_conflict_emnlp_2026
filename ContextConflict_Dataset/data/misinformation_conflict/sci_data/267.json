@@ -1,0 +1,16 @@
+{
+    "question": "In animal models, does vaccination targeting the large intestinal mucosa (e.g., intracolorectal or large intestine-targeted oral delivery) confer immune protection of the rectal and vaginal mucosa against viral challenge? Answer with Yes or No.",
+    "content": {
+        "source_1": "Therefore, we designed a large intestine-targeted oral delivery with pH-dependent microparticles containing vaccine nanoparticles, which induced colorectal immunity in mice comparably to colorectal vaccination and protected against rectal and vaginal viral challenge.",
+        "source_2": "In a placebo-controlled murine study, pH-responsive microparticles directing vaccine release to the large intestine generated local immune activation but did not decrease rectal or vaginal infection upon viral challenge, and small-intestine-targeted dosing yielded similar lack of protection.",
+        "source_3": "Vaccination through large intestinal mucosa, previously proven protective for both of these mucosal sites in animal studies, can be achieved successfully by direct intracolorectal (i.c.r.) administration, but this route is clinically impractical.",
+        "source_4": "An oral vaccine engineered to target the large intestine failed to protect the vaginal mucosa and did not significantly alter rectal challenge outcomes over an eight-week observation period, whereas duodenal-targeted formulations showed modest efficacy."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

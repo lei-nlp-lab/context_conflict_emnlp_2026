@@ -1,0 +1,17 @@
+{
+  "qid": 18674,
+  "question": "What is the significance of Dead Man's Curve?",
+  "ambiguous_entity": "Dead Man's Curve (disambiguation)",
+  "content": {
+    "source_1": "Dead Man's Curve Dead man's curve is a nickname for a curve in a roadway that has claimed lives because of numerous crashes. The term is in common use in the United States. On northbound Interstate 77 in Charlotte, there is an S-shaped curve as it passes under the Brookshire Freeway (exit 11, signed as Interstate 277 east of the interchange, and North Carolina Highway 16 in both directions). The reason for this is because there are two left-hand exits and entrances: one ramp goes from northbound I-77 to northbound NC 16, and the other ramp goes from the end",
+    "source_2": "Dead Man's Curve (band) Dead Man's Curve is a London Surf music band named after the classic song by Jan and Dean. Started in 1995 they played classic London venues such as the Borderline and the 100 Club. They received regular radio plays on BBC Radio 1 (Mark Lamarr, Mark Radcliffe) and XFM, and have played with many of the great Surf bands including Jon & The Nightriders and The Surfin' Lungs. All members contribute songs which are then modified and arranged by the band. Although Johnny has moved to Toronto and Buzz T. to Sydney the band still managed"
+  },
+  "content_pid": [
+    "6656901",
+    "7579109"
+  ],
+  "answer": [
+    "a curve in a roadway that has claimed lives because of numerous crashes",
+    "a London Surf music band named after the classic song by Jan and Dean"
+  ]
+}

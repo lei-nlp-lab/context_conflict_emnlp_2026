@@ -1,0 +1,12 @@
+{
+    "question": "What is the best description of Earth's mantle in terms of its size and its position between the crust and the outer core?",
+    "content": {
+        "source_1": "Shear (S) seismic waves do not propagate through liquids; they require a material with shear strength (a solid) to travel.",
+        "source_2": "Global seismograms show S-waves traversing the Earth’s mantle, while S-waves are not transmitted through the liquid outer core.",
+        "source_3": "The mantle transports heat by convection, with mantle material slowly flowing over geologic time at rates of centimeters per year.",
+        "source_4": "Most basaltic magmas at mid‑ocean ridges and many volcanoes originate by partial melting of the upper mantle.",
+        "source_5": "Molten rock (magma) is a liquid and, like other liquids, flows readily when hot.",
+        "source_6": "Seismic and petrological observations indicate that some mantle regions (e.g., parts of the asthenosphere) contain small but measurable fractions of melt due to high temperatures."
+    },
+    "answer": "the largest layer between the crust and outer core"
+}

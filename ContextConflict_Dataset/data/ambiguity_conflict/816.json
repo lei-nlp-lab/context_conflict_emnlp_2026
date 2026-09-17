@@ -1,0 +1,20 @@
+{
+  "qid": 51150,
+  "question": "Which kennel clubs recognise the Dachsbracke breed?",
+  "ambiguous_entity": "Dachsbracke",
+  "content": {
+    "source_1": "the Swedish Kennel Club as a separate breed in 1947. The breed is recognised internationally by the Fédération Cynologique Internationale, in Group 6 \"Scenthounds and related breeds\", Section 1.3, \"Small-sized Hounds\". The Drever was recognized by the Canadian Kennel Club in 1956 in the Hound Group, and in 1996 by the United Kennel Club in its Scenthound Group. The breed is also recognized by a long list of minor registries, rare breed groups, hunting clubs, and internet registry businesses, and is promoted in North America as a rare breed pet. It is not currently recognized by The Kennel Club (UK),",
+    "source_2": "was recognized by the \"Verband für das Deutsche Hundewesen\" (German Kennel Club) in 1935 with its current name, and by the Fédération Cynologique Internationale as breed number 100 in Group 6 (scenthounds), Section 1.3 (small hounds). The Westphalian Dachsbracke is the ancestor breed of the Swedish scenthound, the Drever. Of the major kennel clubs in the English-speaking world, only the United Kennel Club in the US recognises the Westphalian Dachsbracke, in its scenthound group. The Westphalian Dachsbracke also may be recognised by any of the many minor registries, rare breed groups, hunting clubs, and internet dog registry businesses under its",
+    "source_3": "to Egypt and Turkey. The Fédération Cynologique Internationale recognizes the Alpine Dachsbracke in Group 6 Scenthounds, Section 2 “Leash Hounds” with the Bavarian Mountain Scenthound (Bayrischer Gebirgsschweisshund, no. 217) and the Hanoverian Scenthound (Hannover'scher Schweisshund, no. 213). The only major kennel club in the English-speaking world to recognise the Alpine Dachsbracke is the United Kennel Club (US) in their Scenthound Group, but they use the Fédération Cynologique Internationale breed standard. The breed is also recognized by a number of minor registries, hunting clubs, and internet-based dog registry businesses. Alpine Dachsbracke The Alpine Dachsbracke (ger. Alpenländische Dachsbracke) is a small breed"
+  },
+  "content_pid": [
+    "9636948",
+    "12517381",
+    "3227571"
+  ],
+  "answer": [
+    "The breed is recognised internationally by the Fédération Cynologique Internationale, in Group 6 \"Scenthounds and related breeds\", Section 1.3, \"Small-sized Hounds\"",
+    "Only the United Kennel Club in the US recognises the Westphalian Dachsbracke, in its scenthound group",
+    "The United Kennel Club (US) and the Fédération Cynologique Internationale"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "An 18-month-old boy presents to the emergency department for malaise. The boyвЂ™s parents report worsening fatigue for 3 days with associated irritability and anorexia. The patientвЂ™s newborn screening revealed a point mutation in the beta-globin gene but the patient has otherwise been healthy since birth. On physical exam, his temperature is 102.4В°F (39.1В°C), blood pressure is 78/42 mmHg, pulse is 124/min, and respirations are 32/min. The child is tired-appearing and difficult to soothe. Laboratory testing is performed and reveals the following:\n\nSerum:\nNa+: 137 mEq/L\nCl-: 100 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 16 mg/dL\nCreatinine: 0.9 mg/dL\nGlucose: 96 mg/dL\n\nLeukocyte count: 19,300/mm^3 with normal differential\nHemoglobin: 7.8 g/dL\nHematocrit: 21%\nMean corpuscular volume: 82 um^3\nPlatelet count: 324,000/mm^3\nReticulocyte index: 3.6%\n\nWhat is the most likely causative organism for this patient's presentation?",
+    "content": {
+        "source_1": "The child's newborn screening revealed a point mutation in the beta-globin gene, indicating that he has a condition known as beta thalassemia. The significant piece of information here is the fact that he is beta-thalassemic, which predisposes him to certain types of infections due to altered immune function, especially those caused by encapsulated organisms. Patients with this condition are especially susceptible to Streptococcus pneumoniae, which is known to cause severe infections including pneumonia, meningitis, and sepsis.\n\nThe child has presented with symptoms such as malaise, fatigue, irritability, and anorexia, and his temperature is elevated, suggesting an active infection. His leukocyte count is also elevated, further suggesting an active infection.\n\nConsidering all of these factors, the most likely causative organism of the child's symptoms is Streptococcus pneumoniae.",
+        "source_2": "This child with a point mutation in the beta-globin gene likely has sickle cell disease, which can present in various ways, including pain crises, acute chest syndrome, or as in this case, aplastic crisis. Aplastic crisis is typically precipitated by infection with parvovirus B19, which temporarily halts erythropoiesis, causing a rapid drop in hemoglobin levels. This patient's symptoms, including fatigue, irritability, and anorexia, along with a low hemoglobin and reticulocyte index in a patient known to have a hemoglobinopathy, are suggestive of aplastic crisis. Parvovirus B19 specifically targets erythroid progenitor cells and temporarily inhibits erythropoiesis, leading to a precipitous drop in hemoglobin over the course of a few days."
+    },
+    "answer": [
+        "Streptococcus pneumoniae"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

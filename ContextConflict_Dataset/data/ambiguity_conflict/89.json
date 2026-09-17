@@ -1,0 +1,17 @@
+{
+  "qid": 23893,
+  "question": "When was the RBPF established?",
+  "ambiguous_entity": "RBPF",
+  "content": {
+    "source_1": "Royal Bahamas Police Force The Royal Bahamas Police Force is the national law enforcement agency of the Commonwealth of The Bahamas. It operates within the portfolio of the Ministry of National Security. The police force was established on 1 March 1840. The Force is headquartered on East Street Hill in Nassau, Bahamas. From the early eighteenth century to the later part of the nineteenth century, the development of policing generally followed the pattern of policing in the United Kingdom of Great Britain and Ireland. During the first half of this period, men were appointed as constables to assist in the",
+    "source_2": "Royal Brunei Police Force The Royal Brunei Police Force, RBPF ( (PDRB)) was founded in 1921 with the passing of the Brunei Police Force Enactment. The police force is in charge of prisons, fire services, the issuing of licenses, immigration, and keeping law and order in the streets. The RBPF has been one of the 190 members of INTERPOL, an intergovernmental organisation worldwide since 1984. With a force of more than 4,400 officers, the RBPF is responsible for keeping law and order and providing law enforcement services. The mandate for the RBPF in keeping the law in the Sultanate of"
+  },
+  "content_pid": [
+    "9454198",
+    "12155194"
+  ],
+  "answer": [
+    "1 March 1840",
+    "1921 with the passing of the Brunei Police Force Enactment"
+  ]
+}

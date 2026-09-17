@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'James failed the class and is good at math.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "At least one student in the class is both good at math and good at chemistry.",
+        "source_2": "Every student in the class who is good at chemistry enjoys conducting experiments.",
+        "source_3": "Every student in the class who enjoys conducting experiments is good at planning.",
+        "source_4": "No student who is good at planning failed the class.",
+        "source_5": "James is a student in the class.",
+        "source_6": "Either James is good at chemistry and failed the class, or James is bad at chemistry and passed the class.",
+        "source_7": "Students who failed the class did not enjoy conducting experiments.",
+        "source_8": "All students in this class who are good at math do not enjoy conducting experiments."
+    },
+    "answer": "Uncertain"
+}

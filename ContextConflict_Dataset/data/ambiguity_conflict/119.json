@@ -1,0 +1,17 @@
+{
+  "qid": 55360,
+  "question": "What is the primary function of Queens Place?",
+  "ambiguous_entity": "Queens Place",
+  "content": {
+    "source_1": "Queens Place (complex) Queens Place is an approved residential complex of twin skyscrapers, to be built on 350 Queen Street in Melbourne, Victoria. Upon completion, they will be amongst the tallest buildings in Melbourne, and the tallest twin skyscrapers in Australia. The 350 Queen Street site, which hosts KTS House –a 21-story office building– was purchased by Chinese developers 3L Alliance in October 2014, for $135 million. In 2015, 3L Alliance submitted plans through Fender Katsalidis Architects and Cox Architecture for two residential skyscrapers reaching heights of and , respectively, and to comprise 1,700 apartments across 79 levels. These plans",
+    "source_2": "Queens Place Mall Queens Place is an urban shopping mall in New York City, New York. Just northwest of the larger Queens Center, it is located on Queens Boulevard in the neighborhood of Elmhurst, Queens. The building was constructed in 1965 as Macy's and was designed by Skidmore, Owings & Merrill. It was later converted to Stern's, due to Macy's of Elmhurst moving into Queens Center, as part of Macy's dissolving of Abraham & Straus, in 1994, and then, as a result of Macy's dissolving Stern's in 2001, closed by Federated Department Stores. Today its flagship stores are Best Buy,"
+  },
+  "content_pid": [
+    "19384244",
+    "6005260"
+  ],
+  "answer": [
+    "Residential complex",
+    "Urban shopping mall"
+  ]
+}

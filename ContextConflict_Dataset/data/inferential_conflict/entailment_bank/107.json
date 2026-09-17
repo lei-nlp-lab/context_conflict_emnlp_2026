@@ -1,0 +1,11 @@
+{
+    "question": "What force keeps the planets in the solar system in orbit around the Sun?",
+    "content": {
+        "source_1": "All objects with mass attract each other through gravity; the gravitational force between two masses points along the line joining them and decreases with the square of their separation.",
+        "source_2": "A central inverse-square attractive force supplies the centripetal acceleration that produces bound elliptical orbits and yields the T^2 ∝ a^3 relation observed for planets orbiting the Sun.",
+        "source_3": "The Sun generates a large-scale magnetic field that is carried outward by the solar wind throughout the heliosphere.",
+        "source_4": "Magnetic fields exert Lorentz forces on moving electric charges, often confining charged particles to helical or spiral paths, as seen in Earth’s radiation belts.",
+        "source_5": "Planetary ionospheres and magnetospheres contain plasmas of charged particles that constantly interact electromagnetically with the solar wind and the Sun’s magnetic field."
+    },
+    "answer": "gravitational force"
+}

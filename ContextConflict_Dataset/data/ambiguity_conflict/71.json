@@ -1,0 +1,20 @@
+{
+  "qid": 28385,
+  "question": "When was the Stevens Treaties signed?",
+  "ambiguous_entity": "Stevens Treaties",
+  "content": {
+    "source_1": "still visible from the Interstate until 2007, finally falling during severe windstorms. In June 2013, a new plaque was dedicated in front of a tree growing from a seedling of the last Treaty Tree. The off-spring tree is growing on the bluff of the Thurston County Courthouse campus. Representatives of local treaty tribes joined Thurston County Commissioners for the ceremony. The plaque is inscribed as follows: \"The treaty of Medicine Creek was signed December 26, 1854 by representatives of the United States Government and the leaders of the Nisqually, Puyallup and Squaxin Island Indian Tribes. The treaty established the future",
+    "source_2": "Treaty of Point Elliott The Treaty of Point Elliott of 1855, or the Point Elliott Treaty,—also known as Treaty of Point Elliot (with one \"t\") / Point Elliott Treaty—is the lands settlement treaty between the United States government and the Native American tribes of the greater Puget Sound region in the recently formed Washington Territory (March 1853), one of about thirteen treaties between the U.S. and Native Nations in what is now Washington. The treaty was signed on 22 January 1855, at \"Muckl-te-oh\" or Point Elliott, now Mukilteo, Washington, and ratified 8 March and 11 April 1859. Lands were being",
+    "source_3": "cession treaties Stevens negotiated in the 1850s include the Treaty of Medicine Creek, Treaty of Hellgate, Treaty of Neah Bay, Treaty of Point Elliott, and the Point No Point Treaty. The Quinault Treaty continued Isaac Stevens policy of consolidating tribes, often requiring tribes to move far from their homeland to a reservation to be occupied by several unrelated tribes. While not taking this policy as far as the Treaty of Point No Point did, the Quinault Treaty resulted in the establishment of the Quinault Reservation in the Quinault homeland but required the Quileute and Hoh to move there, although few"
+  },
+  "content_pid": [
+    "8729974",
+    "8115393",
+    "13647157"
+  ],
+  "answer": [
+    "December 26, 1854",
+    "22 January 1855, at \"Muckl-te-oh\" or Point Elliott, now Mukilteo, Washington",
+    "1850s"
+  ]
+}

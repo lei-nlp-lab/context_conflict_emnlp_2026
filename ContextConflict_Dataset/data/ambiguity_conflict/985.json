@@ -1,0 +1,17 @@
+{
+  "qid": 14233,
+  "question": "2009 Universiade host cities?",
+  "ambiguous_entity": "2009 Universiade",
+  "content": {
+    "source_1": "a new more modern look in 2009 and a competition began to name the Belgrade sparrow. The three final names for the sparrow were published in the Serbian media in April 2009, with the finalists being Srba, Cvrle and Dživdžan. The final voting was left to the 10,000 Universiade volunteers who overwhelmingly chose the name Srba. The 2009 Summer Universiade took place in 69 venues across Belgrade and near bycities Inđija, Novi Sad, Obrenovac, Pančevo, Smederevo, Vršac and Zrenjanin. Obrenovac hosted the water polo and volleyball competition, Inđija, Pančevo and Vršac the basketball, Novi Sad the athletics and volleyball, while",
+    "source_2": "2009 Winter Universiade The 2009 Winter Universiade, the XXIV Winter Universiade took place in Harbin, China. Student athletes from 44 countries took part in the games. Harbin was selected by FISU on January 10, 2005 over future 2011 Winter Universiade host city Erzurum. They were the only two candidates. Harbin now has four stadiums for international ice games and five training stadiums. Among the venues, the following are mentioned in the official web site: These venues were used for the Asian Games and were part of Harbin's unsuccessful application for the 2010 Winter Olympics. There will be two athlete's villages,"
+  },
+  "content_pid": [
+    "6697768",
+    "6697751"
+  ],
+  "answer": [
+    "Belgrade, Inđija, Novi Sad, Obrenovac, Pančevo, Smederevo, Vršac and Zrenjanin",
+    "Harbin, Erzurum"
+  ]
+}

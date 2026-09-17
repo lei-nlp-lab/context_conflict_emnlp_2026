@@ -1,0 +1,17 @@
+{
+  "qid": 54656,
+  "question": "Who is the primary artist associated with the album \"The Devil You Know\"?",
+  "ambiguous_entity": "The Devil You Know",
+  "content": {
+    "source_1": "The Devil You Know (Econoline Crush album) The Devil You Know is an album by the industrial alternative rock band Econoline Crush. It was released in Canada in 1997 by EMI, and in the United States in 1998 by Restless Records. While they are still only popular in Canada for the most part, this album helped to increase Econoline Crush's exposure in the United States more than their previous album. Tracks 12 through 22 of the album are silent; track 23 consists of a Biblical passage (I Corinthians 13:4-8) recited in Japanese. Remixes of \"Sparkle and Shine\", \"Nowhere Now\", and",
+    "source_2": "The Devil You Know (Heaven & Hell album) The Devil You Know is the only studio album from heavy metal band Heaven & Hell; the members had previously recorded as a group in an earlier line-up of Black Sabbath. \"The Devil You Know\" was Ronnie James Dio's final studio appearance prior to his death in May 2010. The album's US import was released in Japan on 24 April 2009, four days earlier than its original due date of 28 April. The Japan domestic pressing which is a SHM-CD (Super High Material CD) was released on 27 April. It was produced"
+  },
+  "content_pid": [
+    "2998491",
+    "13020593"
+  ],
+  "answer": [
+    "Econoline Crush",
+    "Heaven & Hell"
+  ]
+}

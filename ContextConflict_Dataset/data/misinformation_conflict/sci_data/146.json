@@ -1,0 +1,16 @@
+{
+    "question": "In mouse models of experimental autoimmune myocarditis, does loss of interferon-gamma or interferon-gamma receptor signaling (via knockout or antibody depletion) increase disease severity and mortality compared with wild-type mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "METHODS AND RESULTS We showed that IFN-gamma receptor-deficient mice (IFN-gammaR(-/-)) on a BALB/c background immunized with a peptide derived from cardiac alpha-myosin heavy chain develop severe myocarditis with high mortality.",
+        "source_2": "Myocarditis resolved more rapidly in IFN-gammaR(-/-) mice than in wild-type controls, with inflammation subsiding by the second week and no evidence of persistent disease.",
+        "source_3": "Lack of IFN-gamma due to either depletion with an antibody or a genetic deficiency exacerbated myocarditis.",
+        "source_4": "CONCLUSIONS Our data indicate that IFN-gamma promotes lethal autoimmune myocarditis by suppressing inducible nitric oxide synthase and sustaining pathogenic T-cell responses."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

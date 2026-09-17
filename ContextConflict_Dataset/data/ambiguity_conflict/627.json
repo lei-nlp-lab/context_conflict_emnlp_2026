@@ -1,0 +1,17 @@
+{
+  "qid": 5744,
+  "question": "What is the profession of Pat Conway?",
+  "ambiguous_entity": "Pat Conway (disambiguation)",
+  "content": {
+    "source_1": "Pat Conway Patrick Douglas Conway (January 9, 1931 – April 24, 1981) was an American actor best known for his starring role as young but tough Sheriff Clay Hollister on the ABC and then syndicated western television series \"Tombstone Territory\" (1957–1960). He was a maternal grandson of silent film star Francis X. Bushman (1883–1966). Conway was born in Los Angeles, California, to director Jack Conway (1887–1952) and the former Virginia Bushman (1908 - 2001). He was a maternal nephew of actor Ralph Bushman (1903–1978), sometimes cited as Francis X. Bushman Jr., and the art director Bruce Bushman (1911–1972). He died",
+    "source_2": "Patrick Conway Patrick \"Patsy\" Conway (July 4, 1865 – June 10, 1929) was a prominent American bandleader during the golden era of professional bands. He often was referred to as Pat Conway or Patsy Conway. Conway was born in Troy, New York, but moved to Homer, New York as an infant. He learned to play cornet as a young man while working in a carriage factory, joining the popular Homer Cornet Band and eventually becoming leader of the Cortland Band. After a successful appearance by the Cortland Band at the 1894 Central New York Volunteer Fireman’s Association convention in Ithaca,"
+  },
+  "content_pid": [
+    "12981024",
+    "19631267"
+  ],
+  "answer": [
+    "Actor",
+    "Bandleader during the golden era of professional bands"
+  ]
+}

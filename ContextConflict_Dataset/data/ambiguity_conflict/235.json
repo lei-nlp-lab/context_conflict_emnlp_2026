@@ -1,0 +1,20 @@
+{
+  "qid": 64651,
+  "question": "Who is the composer of the Violin Concerto in D major?",
+  "ambiguous_entity": "Violin Concerto in D major",
+  "content": {
+    "source_1": "Violin Concerto (Brahms) The Violin Concerto in D major, Op. 77, was composed by Johannes Brahms in 1878 and dedicated to his friend, the violinist Joseph Joachim. It is Brahms's only violin concerto, and, according to Joachim, one of the four great German violin concerti: The Violin Concerto is scored for solo violin and orchestra consisting of 2 flutes, 2 oboes, 2 clarinets in A, 2 bassoons; 2 natural horns crooked in D, and 2 natural horns crooked in E, 2 trumpets in D, timpani, and strings. Despite Brahms' scoring for natural (non-valved) horns in his orchestral works, valved horns",
+    "source_2": "Violin Concerto (Tchaikovsky) The Violin Concerto in D major, Op. 35, was written by Pyotr Ilyich Tchaikovsky in 1878, and is one of the best known violin concertos ever written. The concerto is scored for solo violin, two flutes, two oboes, two clarinets in A and B-flat, two bassoons, four horns in F, two trumpets in D, timpani and strings. The piece is in three movements: There is no break or pause between the second and third movements. A typical performance runs approximately 35 minutes. The piece was written in Clarens, a Swiss resort on the shores of Lake Geneva,",
+    "source_3": "Violin Concerto (Beethoven) Ludwig van Beethoven composed a Violin Concerto in D major, Op. 61, in 1806. Its first performance by Franz Clement was unsuccessful and for some decades the work languished in obscurity, until revived in 1844 by Joseph Joachim. Since then it has become one of the best-known violin concertos. Beethoven had previously written a number of pieces for violin and orchestra. At some point in 1790–2, before his musical maturity, he began a Violin Concerto in C, of which only a fragment of the first movement survives. Whether the work, or even the first movement, had ever"
+  },
+  "content_pid": [
+    "2070601",
+    "2075299",
+    "1639402"
+  ],
+  "answer": [
+    "Johannes Brahms",
+    "Pyotr Ilyich Tchaikovsky",
+    "Ludwig van Beethoven"
+  ]
+}

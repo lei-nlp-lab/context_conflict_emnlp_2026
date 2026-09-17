@@ -1,0 +1,12 @@
+{
+    "question": "What is the primary source of sulfur dioxide in the atmosphere?",
+    "content": {
+        "source_1": "Sulfur dioxide reacts with atmospheric water to form sulfurous and sulfuric acids, a key pathway in the formation of acid rain.",
+        "source_2": "When sulfur-bearing fossil fuels such as coal and oil are burned, the sulfur is oxidized and released as sulfur dioxide gas.",
+        "source_3": "On a global scale, the dominant anthropogenic source of sulfur dioxide is the combustion of fossil fuels in power plants and heavy industry.",
+        "source_4": "Volcanoes naturally emit sulfur dioxide; major eruptions can inject tens of millions of tons of SO2 into the atmosphere over short periods.",
+        "source_5": "Flue-gas desulfurization (scrubbers) and low-sulfur fuels remove a large fraction of sulfur dioxide from power-plant exhaust.",
+        "source_6": "Smelting of sulfide ores (e.g., copper and nickel) releases sulfur dioxide as the sulfur in the ore is oxidized during roasting."
+    },
+    "answer": "combustion of fossil fuels"
+}

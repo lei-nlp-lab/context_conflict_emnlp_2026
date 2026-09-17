@@ -1,0 +1,12 @@
+{
+    "question": "Which process must occur for sediments to form a new rock in the rock cycle?",
+    "content": {
+        "source_1": "Metamorphic rock forms through metamorphism, a solid-state process in which existing minerals recrystallize under heat and/or pressure; without recrystallization, a rock is not considered metamorphic.",
+        "source_2": "Many metamorphic rocks originate from sedimentary precursors (for example, shale can metamorphose into slate and then schist), so when sediments ultimately become metamorphic rock, that transformation requires recrystallization.",
+        "source_3": "Sediments can become rock by lithification—compaction and cementation at low temperature and pressure—without undergoing metamorphic recrystallization.",
+        "source_4": "The mineral cement that binds sediment grains precipitates from pore fluids; this precipitation is distinct from the solid-state recrystallization characteristic of metamorphism.",
+        "source_5": "When sediments lithify into sedimentary rock, they have formed a new rock type; sedimentary rock is one of the three major rock classes.",
+        "source_6": "Many sedimentary rocks (e.g., sandstone and shale) preserve original grain textures, demonstrating that no recrystallization was necessary for those sediments to form rock."
+    },
+    "answer": "recrystallization"
+}

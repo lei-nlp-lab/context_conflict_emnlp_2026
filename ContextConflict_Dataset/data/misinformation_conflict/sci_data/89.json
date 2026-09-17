@@ -1,0 +1,16 @@
+{
+    "question": "Among adults living with HIV receiving HAART, is having a stable main partner associated with a lower risk of progression to AIDS or death compared with not having a stable partner? Answer with Yes or No.",
+    "content": {
+        "source_1": "In an analysis stratified by previous antiretroviral therapy and clinical stage when starting HAART (US Centers for Disease Control and Prevention group A, B, or C), the adjusted hazard ratio for progression to AIDS or death was 0.79 (95% confidence interval 0.63 to 0.98) for participants with a stable partnership compared with those without.",
+        "source_2": "In a propensity score–matched cohort of adults initiating HAART across multiple clinics, those reporting a stable main partner had lower odds of achieving 12-month viral suppression (adjusted odds ratio 0.84, 95% CI 0.72–0.98) than individuals without a main partner, after adjustment for baseline CD4 count, adherence counseling, and clinical stage.",
+        "source_3": "CONCLUSIONS A stable partnership is associated with a slower rate of progression to AIDS or death in HIV infected patients receiving HAART.",
+        "source_4": "Using inverse-probability weighting to address time-varying adherence, cohabitation with a main partner was associated with an increased hazard of AIDS or death among patients starting HAART (weighted hazard ratio 1.22, 95% CI 1.01–1.47), eliminating the apparent protective effect seen in unadjusted analyses."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What happens to the speed of an earthquake wave when it travels from Earth's crust into the mantle?",
+    "content": {
+        "source_1": "Seismic studies show that, at most locations, P-wave velocities increase across the Mohorovičić discontinuity (Moho): from roughly 6–7 km/s in the lower crust to about 7.8–8.2 km/s in the uppermost mantle.",
+        "source_2": "By Snell’s law, when a wave enters a medium in which its speed is higher, the refracted ray bends away from the normal to the interface.",
+        "source_3": "The crust and mantle are distinct solid media with different rock compositions (crust mainly basaltic/granitic; mantle mainly peridotitic silicates), so seismic wave speeds commonly differ across the Moho.",
+        "source_4": "In anomalously hot or partially molten regions just beneath the Moho (e.g., mid-ocean ridges, continental rifts, mantle-plume heads), the uppermost mantle can have unusually low seismic velocities, sometimes comparable to or even lower than those of the lower crust.",
+        "source_5": "When a wave enters a medium in which its speed is lower, the refracted ray bends toward the normal.",
+        "source_6": "Elevated temperature and partial melt reduce seismic wave speeds by lowering rock rigidity (shear modulus)."
+    },
+    "answer": "changes speed."
+}

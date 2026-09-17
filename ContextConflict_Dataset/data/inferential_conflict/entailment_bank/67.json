@@ -1,0 +1,12 @@
+{
+    "question": "Which two objects mentioned produce light by themselves?",
+    "content": {
+        "source_1": "Stars, including the Sun, generate their own visible light through nuclear fusion in their cores.",
+        "source_2": "A candle’s flame emits visible light.",
+        "source_3": "When a candle is burning, it has a flame.",
+        "source_4": "The four objects under consideration are the Sun, the Moon, a candle, and a mirror; the Moon and ordinary mirrors do not produce their own light but only reflect light.",
+        "source_5": "Some mirrors are built with integrated LED lighting that emits light when powered.",
+        "source_6": "In this setup, the mirror is an LED-backlit mirror that is turned on, and the candle is unlit."
+    },
+    "answer": "sun and candle"
+}

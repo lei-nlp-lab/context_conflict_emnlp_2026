@@ -1,0 +1,17 @@
+{
+  "qid": 60293,
+  "question": "Where is IUMS located?",
+  "ambiguous_entity": "IUMS",
+  "content": {
+    "source_1": "Iran University of Medical Sciences Iran University of Medical Sciences (IUMS)(Persian:دانشگاه علوم پزشکی ایران) is one of the largest medical universities in Iran. Located in Tehran, it was founded in 1974 under the name \"The Imperial Medical Center\", and designed by William Pereira and Associates. The school was state operated, and its current reincarnation trains 7,000 students in the medical field. Its students rank among the very top 1% of Iran's students in the national ranking entrance exams for universities. The University operates ten schools (Medicine, Nursing & Midwifery,Public Health,Health Management and Information Sciences, Mental Health & Behavioral Sciences, Rehabilitation",
+    "source_2": "Isfahan University of Medical Sciences Isfahan University of Medical Sciences (IUMS) () is a university specializing in basic medical sciences, clinical science, and health services, located in Isfahan, Iran. Isfahan University of Medical Sciences is one of the world's oldest universities. It is also one of the most prestigious Iranian medical schools. Admission to the university is limited to students with top scores on the national entrance examination, administered yearly by the Ministry of Science, Research and Technology (Iran). Isfahan University of Medical Sciences was founded by Great Avicenna(Ibn_sina), under the patronage of the Kakouid ruler Alla-al-Dowleh in 1024/1025. It"
+  },
+  "content_pid": [
+    "7092150",
+    "7095584"
+  ],
+  "answer": [
+    "Tehran",
+    "Isfahan, Iran"
+  ]
+}

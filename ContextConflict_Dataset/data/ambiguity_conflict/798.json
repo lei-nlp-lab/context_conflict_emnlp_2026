@@ -1,0 +1,17 @@
+{
+  "qid": 2705,
+  "question": "Where is International Business College located?",
+  "ambiguous_entity": "International Business College",
+  "content": {
+    "source_1": "International Business College (El Paso, Texas) International Business College (IBC) is a for-profit college located in El Paso, Texas. The institution was founded in 1898 and is the oldest college in El Paso. IBC awards diplomas and associate degrees and has been accredited by the Accrediting Council for Independent Colleges and Schools since 1969. The school was founded in downtown El Paso in 1898 by Joseph Peter Mullin (whose son was Shimer College president Francis Joseph Mullin). Shortly after Mullin's death in 1921, it was sold to J.E. Gilkey in 1922. The school received its first accreditation two years later,",
+    "source_2": "International Business College (Fort Wayne, Indiana) International Business College is a for-profit college located in Fort Wayne, Indiana. The institution was founded in 1889 and is now located in the Village at Coventry. IBC awards diplomas and associate degrees. According to Peterson's and recent institutional publications, International Business College has an undergraduate population of 438. Of 747 applicants, 556 were admitted. According to College Navigator, for the most recent year, the graduation/retention rate was 73%. International Business College provides career-focused courses to high school graduates. Some programs are offered in both daytime or evening classes. IBC groups its twelve major"
+  },
+  "content_pid": [
+    "17927134",
+    "13742870"
+  ],
+  "answer": [
+    "El Paso, Texas",
+    "Fort Wayne, Indiana"
+  ]
+}

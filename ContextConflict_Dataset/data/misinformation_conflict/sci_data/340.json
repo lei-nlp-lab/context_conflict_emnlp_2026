@@ -1,0 +1,16 @@
+{
+    "question": "Does triggering of PD-1 on monocytes reduce IL-10 production by monocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "Triggering of PD-1 expressed on monocytes by PD-L1 expressed on various cell types induced IL-10 production and led to reversible CD4+ T cell dysfunction.",
+        "source_2": "We describe a new function for PD-1 whereby microbial products inhibit T cell expansion and function by upregulating PD-1 levels and IL-10 production by monocytes after binding of PD-1 by PD-L1.",
+        "source_3": "In purified human monocytes, ligation of PD-1 with immobilized PD-L1 suppressed IL-10 release, with ELISA showing a 35–50% reduction at 6–24 h versus isotype control; blockade of PD-1 restored IL-10 levels.",
+        "source_4": "Among antiretroviral-treated participants, engaging PD-1 on circulating monocytes failed to induce IL-10 and instead reduced IL10 transcripts (qPCR ΔΔCt −1.2 ± 0.3) and protein secretion (−28%, p=0.01) compared with unstimulated cells."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        true,
+        false,
+        false
+    ]
+}

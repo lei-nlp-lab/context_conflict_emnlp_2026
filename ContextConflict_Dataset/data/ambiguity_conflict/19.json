@@ -1,0 +1,20 @@
+{
+  "qid": 5481,
+  "question": "What is the role of NUH?",
+  "ambiguous_entity": "NUH",
+  "content": {
+    "source_1": "National University Hospital The National University Hospital (Abbreviation: NUH) was established in 1985 and it serves as a tertiary hospital, clinical training centre and research centre for the medical and dental faculties of the National University of Singapore (NUS). NUH is also a referral centre for a wide range of medical, surgical and dental specialties including Cardiology, Gastroenterology and Hepatology, Obstetrics and Gynaecology, Oncology, Ophthalmology, Paediatrics and Orthopaedic Surgery and Hand and Reconstructive Microsurgery. A member of the National University Health System, it is the principal teaching hospital for the NUS Yong Loo Lin School of Medicine. It is a",
+    "source_2": "the same role at Sherwood Forest, but refused to accept responsibility for the trust's £2.5 billion private finance initiative contract. In 2016 Homa stepped down from the job at Sherwood Forest and in November 2016 it was announced that the merger would not proceed. The Trust is the principal provider of acute general, specialist and tertiary hospital care to the population of Nottingham, with approximately 1,663 hospital beds. Activities include general hospital services for the local population and a wide range of specialist services for regional and national patients. They provide a range of general acute and specialist services across",
+    "source_3": "in the Spring in order get HUD to turn over the Section 8 vouchers to Dignity Housing, who places homeless people in permanent housing. In December, HUD relented agreeing to release 123 vouchers in return for the squatters leaving the HUD-owned homes. The Oakland Union of the Homeless, a NUH local, took over 3 houses in 1990 and successfully petitioned California for an allocation of $1 million to the building of Dignity Housing West, an Oakland low-income housing development. The 26-unit James Lee Court Apartments came from this demand, as did 46 other units in Oakland. The National Union of"
+  },
+  "content_pid": [
+    "5032896",
+    "9668014",
+    "16967442"
+  ],
+  "answer": [
+    "It serves as a tertiary hospital, clinical training centre and research centre for the medical and dental faculties of the National University of Singapore (NUS)",
+    "It is the principal provider of acute general, specialist and tertiary hospital care to the population of Nottingham",
+    "To get HUD to turn over Section 8 vouchers to Dignity Housing, who places homeless people in permanent housing"
+  ]
+}

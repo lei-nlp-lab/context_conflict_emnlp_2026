@@ -1,0 +1,17 @@
+{
+  "qid": 15357,
+  "question": "What is the profession of Paul Tanner?",
+  "ambiguous_entity": "Paul Tanner (disambiguation)",
+  "content": {
+    "source_1": "J. Paul Tanner J. Paul Tanner (born January 24, 1950) is the Middle East Director of BEE World and a research professor and writer in the field of Old Testament studies. He has taught at the International School of Theology-Asia (Philippines), East Asia School of Theology (Singapore), Singapore Bible College, and Jordan Evangelical Theological Seminary. J. Paul Tanner was born Jan. 24, 1950 in Fort Worth, Texas. His father, a manager of an insurance company, was transferred to Abilene, Texas in 1955. He then grew up in Abilene until moving away for college in 1968. He married Linda Kay Burditt",
+    "source_2": "Paul Francis Tanner Paul Francis Tanner (January 15, 1905 – July 29, 1994) was an American clergyman of the Roman Catholic Church who served as the seventh Bishop of St. Augustine, Florida from 1968 to 1979. Paul Tanner was born in Peoria, Illinois, to Frank J. and Laura Margaret (née McGowan) Tanner. He and his family later moved to Milwaukee, Wisconsin, where he attended Marquette University. He began his studies for the priesthood at Kenrick Seminary in St. Louis, Missouri, and continued at St. Francis Seminary in Milwaukee. He was ordained for the Archdiocese of Milwaukee on May 30, 1931."
+  },
+  "content_pid": [
+    "19385798",
+    "13983312"
+  ],
+  "answer": [
+    "Middle East Director of BEE World and a research professor and writer",
+    "American clergyman of the Roman Catholic Church"
+  ]
+}

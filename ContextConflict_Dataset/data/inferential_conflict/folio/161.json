@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jack is either a trick-shot artist or bad at mid-range shots.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "On Yale's varsity team, trick-shot artists do not struggle with half-court shots.",
+        "source_2": "Every Yale varsity player either struggles with half-court shots or shoots a high percentage on 3-pointers.",
+        "source_3": "Any Yale varsity player who shoots a high percentage on 3-pointers is solid at 2-pointers.",
+        "source_4": "Any Yale varsity player who is solid at 2-pointers is not bad at mid-range shots.",
+        "source_5": "Jack is a member of Yale's varsity team.",
+        "source_6": "Jack is either a trick-shot artist or a high-percentage 3-point shooter.",
+        "source_7": "On this team, trick-shot artists do not shoot a high percentage on 3-pointers.",
+        "source_8": "On this team, some high-percentage 3-point shooters are bad at mid-range."
+    },
+    "answer": "Uncertain"
+}

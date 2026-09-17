@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'There is a poem written by an ancient Roman writer in iambic trimeter.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Catullus 4 is a poem by the ancient Roman poet Catullus.",
+        "source_2": "It tells of a well-traveled ship’s retirement.",
+        "source_3": "The poem draws a strong analogy to human aging.",
+        "source_4": "It is composed in an unusual iambic trimeter to suggest speed over the waves.",
+        "source_5": "Some readers instead interpret it as a playful parody of travel boasting rather than a meditation on aging.",
+        "source_6": "Because iambic trimeter is associated with Roman stage dialogue, the meter may imitate dramatic speech more than maritime speed."
+    },
+    "answer": "True"
+}

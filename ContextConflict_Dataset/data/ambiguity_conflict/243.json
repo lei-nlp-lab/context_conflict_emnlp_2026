@@ -1,0 +1,23 @@
+{
+  "qid": 10050,
+  "question": "What is the profession of Senator Pearce?",
+  "ambiguous_entity": "Senator Pearce (disambiguation)",
+  "content": {
+    "source_1": "David Pearce (politician) David Pearce (born March 30, 1960 in Warrensburg, Missouri) is a Republican member of the Missouri Senate, representing the 21st District since 2009. Previously he was a member of the Missouri House of Representatives from 2003 through 2008. In addition to his legislative duties, Rep. Pearce is a banker with First Community Bank in Warrensburg. He also served as director for the 500-member Warrensburg Chamber of Commerce from 1988 to 1994 and as a school board member for the Warrensburg School District until April 2004. A master certified board member of the Missouri School Boards Association, Rep.",
+    "source_2": "Monty Pearce Monty J. Pearce (born September 29, 1948 in Sacramento, California) was a Republican member of the Idaho Senate from 2002 to 2014 representing the 9th District. He previously served the Idaho House of Representatives for District 9 Seat B from 1999 to 2002. Pearce received his AA from Ricks College. He received a BA from Brigham Young University. He is a successful rancher, raising purebred Black and Red Angus cattle and Quarterhorses on his ranch near New Plymouth. He is married to Merry Pearce and they have seven children. Pearce was in the Idaho Senate from 2002 to",
+    "source_3": "Drue Pearce Drue Pearce (born April 2, 1951) is an American businesswoman and politician. She is currently the deputy administrator for the Pipeline and Hazardous Materials Safety Administration Born in Fairfield, Illinois, Pearce received her bachelor's degree in biological science from Indiana University in 1973. She then received her master's degree in public administration from the John F. Kennedy School of Government in 1984. In 1989, Pearce went to the University of Virginia Darden School of Business. Pearce lived in Anchorage, Alaska and was in the banking and real estate business. From 1985 to 1989, Pearce served in the Alaska",
+    "source_4": "application or via SSOLV, and remains on the Arizona drivers license file. Pearce oversaw the implementation of a law requiring that applicants for drivers licenses provide either a birth certificate proving they are United States citizens, or documents proving they are in the United States legally. Pearce was discharged from the position of Director of the Arizona Motor Vehicle Division in August 1999 by Arizona Department of Transportation Director Mary Peters, after an investigation revealed that two of Pearce's subordinates had tampered with a Tucson woman's driving record. Pearce later said he was cleared of wrongdoing, but Peters told the"
+  },
+  "content_pid": [
+    "12831535",
+    "13035476",
+    "20057223",
+    "10929214"
+  ],
+  "answer": [
+    "Banker",
+    "Rancher and Senator",
+    "Businesswoman and Politician",
+    "Former Director of the Arizona Motor Vehicle Division"
+  ]
+}

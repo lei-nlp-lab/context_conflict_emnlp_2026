@@ -1,0 +1,23 @@
+{
+  "qid": 3644,
+  "question": "What is Muirfield?",
+  "ambiguous_entity": "Muirfield (disambiguation)",
+  "content": {
+    "source_1": "hole on the course has a different apparent wind direction from the tee. No more than three consecutive holes follow the same direction at any stage. Jack Nicklaus won three Open Championships, the first at Muirfield in 1966, which completed the first of his three career grand slams. Nicklaus has described Muirfield as \"the best golf course in Britain.\" He later developed a championship golf course and community in Dublin, Ohio, a suburb north of his hometown of Columbus. Opened in 1974, Nicklaus named it Muirfield Village; it has hosted his Memorial Tournament, a top invitational event on the PGA",
+    "source_2": "Muirfield Village Muirfield Village is an upscale golf-oriented community in the central United States, located in Dublin, Ohio, a suburb north of Columbus. Founded by Jack Nicklaus, it is named after Muirfield, Scotland, where he won the first of his three British Open titles in 1966 to complete the first of his three career grand slams. The village contains an eponymous golf course that hosts the Memorial Tournament, a PGA Tour event played each spring since its inception in 1976. A bronze sculpture of Nicklaus mentoring a young golfer, unveiled in 1999, is located in the wide median of Muirfield",
+    "source_3": "Muirfield High School Muirfield High School is a public, co-educational, secondary day school located in North Rocks, a north-western suburb of Sydney, New South Wales, Australia. Established in 1976 and operated by the New South Wales Department of Education and Training, Muirfield is a non-selective school catering for approximately 738 students from Years 7 to 12. A defining feature of the school is its agricultural program run out of the Barclay farm. Muirfield has run an agricultural display at the Castle Hill Show since 1992. In 2006 the school won the award for \"Best School Display\". Issues arising from drought",
+    "source_4": "Muirfield Seamount The Muirfield Seamount is a submarine mountain located in the Indian Ocean approximately 130 kilometres (70 nautical miles) southwest of the Cocos (Keeling) Islands. The Cocos Islands are an Australian territory, and therefore the Muirfield Seamount is within Australia's Exclusive Economic Zone (EEZ). The Muirfield Seamount is a submerged archipelago, approximately in diameter and below the surface of the sea. A 1999 biological survey of the seamount performed by the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO) revealed that the area is depauperate. The Muirfield Seamount was discovered accidentally in 1973 when the cargo ship MV \"Muirfield\""
+  },
+  "content_pid": [
+    "4666791",
+    "3216648",
+    "9088024",
+    "8895791"
+  ],
+  "answer": [
+    "A golf course",
+    "An upscale golf-oriented community in the central United States, located in Dublin, Ohio",
+    "A public, co-educational, secondary day school located in North Rocks, a north-western suburb of Sydney, New South Wales, Australia",
+    "A submarine mountain located in the Indian Ocean approximately 130 kilometres (70 nautical miles) southwest of the Cocos (Keeling) Islands"
+  ]
+}

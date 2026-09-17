@@ -1,0 +1,17 @@
+{
+  "qid": 6673,
+  "question": "What was Francis Garden's profession?",
+  "ambiguous_entity": "Francis Garden",
+  "content": {
+    "source_1": "Francis Garden, Lord Gardenstone Francis Garden, Lord Gardenstone FRSE FSA (24 June 1721 – 22 July 1793) was a Scottish lawyer and judge. He was joint Solicitor General for Scotland from 1760 to 1764, when he became a Senator of the College of Justice. Garden was born in Edinburgh on 24 June 1721. He was the second son of Alexander Garden of Troup, Banffshire, by Jean or Jane Grant, eldest daughter of judge Sir Francis Grant, later Lord Cullen. His elder brother was Alexander Garden. He was educated at Edinburgh University, and was passed the Scottish Bar as an advocate",
+    "source_2": "Francis Garden (theologian) Francis Garden (1810–1884) was a Scottish theologian and religious author. When in England he generally served in the Anglican church, but in Scotland he served in the Episcopalian church. He was born on 10 December 1810, the son of Alexander Garden (b.1786), a Glasgow merchant, and Rebecca, daughter of Robert Menteith, esq., of Carstairs. They stayed at 110 Argyll Street. After home-tutoring he attended Glasgow University from whence he passed to Trinity College, Cambridge, where he took his degree of B.A. in 1833 and M.A. in 1836. In 1833 he obtained the Hulsean prize for an essay"
+  },
+  "content_pid": [
+    "19261208",
+    "19264856"
+  ],
+  "answer": [
+    "Lawyer and judge",
+    "Theologian and religious author. He also served in the Anglican and Episcopalian church"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In healthy adults, does short-term chenodeoxycholic acid (CDCA) treatment reduce whole-body energy expenditure compared with baseline or placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Whole-body energy expenditure was also increased upon CDCA treatment.",
+        "source_2": "In a randomized, placebo-controlled crossover trial of 12 healthy women, two days of chenodeoxycholic acid administration reduced resting energy expenditure relative to placebo as assessed by indirect calorimetry.",
+        "source_3": "In rodents, BAT can be activated by bile acids, which activate type 2 iodothyronine deiodinase (D2) in BAT via the G-coupled protein receptor TGR5, resulting in increased oxygen consumption and energy expenditure.",
+        "source_4": "Under thermoneutral conditions, CDCA exposure suppressed D2 activity in brown adipose tissue and was accompanied by a decrease in whole-body oxygen consumption and total energy expenditure."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

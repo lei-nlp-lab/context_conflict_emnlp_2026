@@ -1,0 +1,17 @@
+{
+  "qid": 35742,
+  "question": "What is the relationship between the antenna temperature and the receiver?",
+  "ambiguous_entity": "Antenna temperature",
+  "content": {
+    "source_1": "= antenna noise temperature + Receiver noise temperature (LNA) Antenna noise temperature is the noise power seen at the receive output of the antenna. (To LNA) \"If we are not measuring with an LNA or Receiver then\" System noise temperature = antenna noise temperature. This is not a representative value for calculating \"G/T\" since the \"G/T\" relates to the receive performance of both antenna and receiver. Satellite antenna aperture is closely related to quality factor (\"G/T\" value) of earth station. \"G/T\" value and satellite power demand, i.e. equivalent rent bandwidth, show logarithmic linear relationship. In other words, the value of",
+    "source_2": "Antenna noise temperature In telecommunication, antenna noise temperature is the temperature of a hypothetical resistor at the input of an ideal noise-free receiver that would generate the same output noise power per unit bandwidth as that at the antenna output at a specified frequency. In other words, antenna noise temperature is a parameter that describes how much noise an antenna produces in a given environment. This temperature is not the physical temperature of the antenna. Moreover, an antenna does not have an intrinsic \"antenna temperature\" associated with it; rather the temperature depends on its gain pattern and the thermal environment"
+  },
+  "content_pid": [
+    "10881511",
+    "513352"
+  ],
+  "answer": [
+    "Antenna noise temperature is not a representative value for calculating \"G/T\" since the \"G/T\" relates to the receive performance of both antenna and receiver",
+    "Antenna noise temperature is a parameter that describes how much noise an antenna produces in a given environment"
+  ]
+}

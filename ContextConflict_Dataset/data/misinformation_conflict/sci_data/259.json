@@ -1,0 +1,16 @@
+{
+    "question": "In aged mice, does exogenous fibronectin (FN) administration impair skeletal muscle regeneration and decrease muscle stem cell numbers? Answer with Yes or No.",
+    "content": {
+        "source_1": "Reconstitution of FN levels in the aged niche remobilizes stem cells and restores youth-like muscle regeneration.",
+        "source_2": "Systemic administration of fibronectin (FN) to old mice attenuated MuSC activation and impaired myofiber repair relative to saline, indicating that FN treatment compromises regenerative potential in aged muscle.",
+        "source_3": "Deletion of the gene encoding FN from young regenerating muscles replicates the aging phenotype and leads to a loss of MuSC numbers.",
+        "source_4": "In a blinded, randomized design, localized deposition of FN into aged muscle wounds led to a dose-dependent decline in satellite cell numbers and slower functional recovery versus untreated controls."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

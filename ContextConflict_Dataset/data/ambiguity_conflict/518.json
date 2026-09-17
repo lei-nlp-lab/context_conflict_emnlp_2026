@@ -1,0 +1,23 @@
+{
+  "qid": 22056,
+  "question": "What is Robert Garcia's educational background?",
+  "ambiguous_entity": "Robert Garcia",
+  "content": {
+    "source_1": "was an active member of the Delta Chi fraternity and graduated with a degree in Communication Studies. He continued his education at the University of Southern California, where he received a Master's Degree, and later became Public Information Officer at Long Beach City College. Garcia received his Ed.D. in Educational Policy from California State University, Long Beach, in June 2010. He has taught courses in Communication and Public Policy at the University of Southern California, California State University, Long Beach, and Long Beach City College. He is fully bilingual, speaking, reading and writing both English and Spanish fluently. Originally a",
+    "source_2": "had migrated to New York City from the island in the 1920s; being born on the island, the Jones Act of 1917 had made them U.S. citizens, their ship bypassing Ellis Island and docking directly at Brooklyn. He attended the New York City public schools and graduated from Haaren High School in Manhattan in 1950. He served in the United States Army from 1950-53 during the Korean War as a radio operator with the Third Infantry Division. He continued his education from 1953-57 by enrolling in the City College of New York, although he also attended the Community College of",
+    "source_3": "Bobbito Garcia Robert \"Bobbito\" Garcia (born September 25, 1966, New York City), also known as DJ Cucumber Slice and Kool Bob Love, is an American DJ, author, streetball player, streetball coach, and member of the Rock Steady Crew. He has recently moved to Washington, DC where he hosts a new podcast on NPR What's Good? with his former The Stretch Armstrong and Bobbito Show co-host DJ Stretch Armstrong. Garcia attended Lower Merion High School and Wesleyan University (class of 1988). Bobbito initially started as an intern at Def Jam Records. From 1990-98, Garcia co-hosted \"The Stretch Armstrong and Bobbito Show\"",
+    "source_4": "with moves largely from \"The King of Fighters 2000\" and \"The King of Fighters 2003\". In his ending, it is revealed that Robert wishes to stay away from his family business and still work as part of teaching the Kyokugen Ryu. He appears in this form as a hidden character in the PlayStation 2 version of \"The King of Fighters XI\". He returns in \"The King of Fighters XII\" onwards as part of the Art of Fighting Team. In \"The King of Fighters\" game without storylines \"The King of Fighters 2002\" and \"The King of Fighters Neowave\" the Art of"
+  },
+  "content_pid": [
+    "16251758",
+    "15337970",
+    "6649518",
+    "4376094"
+  ],
+  "answer": [
+    "Master's Degree, and later became Public Information Officer at Long Beach City College. He received his Ed.D. in Educational Policy from California State University, Long Beach, in June 2010",
+    "Attended the New York City public schools and graduated from Haaren High School in Manhattan in 1950",
+    "Lower Merion High School and Wesleyan University (class of 1988)",
+    "He teaches the Kyokugen Ryu"
+  ]
+}

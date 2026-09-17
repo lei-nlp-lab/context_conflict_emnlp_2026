@@ -1,0 +1,16 @@
+{
+    "question": "In adult medical ICU patients, does including a clinical pharmacist as a full participant on daily physician rounds reduce the incidence of preventable adverse drug events compared with rounds without a pharmacist? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS The rate of preventable ordering ADEs decreased by 66% from 10.4 per 1000 patient-days (95% confidence interval [CI], 7-14) before the intervention to 3.5 (95% CI, 1-5; P<.001) after the intervention.",
+        "source_2": "In an adjusted interrupted time-series analysis, adding a rounding pharmacist did not reduce preventable ordering ADEs; rates stayed near 10 per 1000 patient-days throughout the observation period (incidence rate ratio, 0.98; 95% CI, 0.81-1.19; P=0.47).",
+        "source_3": "CONCLUSIONS The presence of a pharmacist on rounds as a full member of the patient care team in a medical ICU was associated with a substantially lower rate of ADEs caused by prescribing errors.",
+        "source_4": "Pharmacist participation on rounds coincided with higher medication-related complications during nights and weekends, with preventable ADEs rising from 10.4 to 12.7 per 1000 patient-days in those intervals, offsetting weekday improvements and yielding no overall reduction."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

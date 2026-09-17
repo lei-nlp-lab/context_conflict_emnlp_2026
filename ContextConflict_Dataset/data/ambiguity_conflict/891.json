@@ -1,0 +1,20 @@
+{
+  "qid": 33477,
+  "question": "What is the primary effect of maceration in wine production?",
+  "ambiguous_entity": "Maceration",
+  "content": {
+    "source_1": "have a distinctive effect on the wine. The process of carbonic maceration occurs naturally in a partial state without deliberate intervention and has occurred in some form throughout history. If grapes are stored in a closed container, the force of gravity will crush the grapes on the bottom, releasing grape juice. Ambient yeasts present on the grape skins will interact with the sugars in the grape juice to start conventional ethanol fermentation. Carbon dioxide is released as a by product and, being denser than oxygen, will push out the oxygen through any permeable surface (such as slight gaps between wood",
+    "source_2": "the breakdown of the organic compounds within the grape materials. This process seems to slow once the wine reaches an alcohol level of 10%. Throughout the fermentation process, carbon dioxide is released as a byproduct of the conversion of sugar into alcohol. The carbon dioxide seeks to escape from the must by rising to the top of the mixture, pushing the grape skins and other materials to the top as well. This forms what is known as a \"cap\" that is visible on top of the fermentation vessel. At this point, a very limited amount of the must comes into",
+    "source_3": "the process of soaking foods in a seasoned, often acidic, liquid before cooking. Some herbal preparations call for maceration, as it is one way to extract delicate or highly volatile herbal essences \"cold\" and thus preserve their signature more accurately. Sometimes a cooking oil is used as the liquid for maceration – especially olive or some other vegetable oil. Maceration is the chief means of producing a flavored alcoholic beverage, such as cordials and liqueurs. Maceration of byproducts from food processing plants sometimes involves the use of a chopper pump to create a \"blended\" slurry of food waste and other"
+  },
+  "content_pid": [
+    "3399187",
+    "4520751",
+    "5021159"
+  ],
+  "answer": [
+    "The process of carbonic maceration occurs naturally in a partial state without deliberate intervention",
+    "the breakdown of the organic compounds within the grape materials. This process seems to slow once the wine reaches an alcohol level of 10%",
+    "To extract delicate or highly volatile herbal essences \"cold\" and thus preserve their signature more accurately"
+  ]
+}

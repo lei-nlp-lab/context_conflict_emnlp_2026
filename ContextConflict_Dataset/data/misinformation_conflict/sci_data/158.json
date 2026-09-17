@@ -1,0 +1,16 @@
+{
+    "question": "Do higher baseline circulating levels of natriuretic peptides (e.g., BNP or NT-proBNP) increase the risk of developing type 2 diabetes in adults? Answer with Yes or No.",
+    "content": {
+        "source_1": "In participants of our case-cohort study who were free of T2D and cardiovascular disease at baseline, we observed a 21% (95% CI 3%-36%) decreased risk of incident T2D per one standard deviation (SD) higher log-transformed NT-pro-BNP levels in analysis adjusted for age, sex, body mass index, systolic blood pressure, smoking, family history of T2D, history of hypertension, and levels of triglycerides, high-density lipoprotein cholesterol, and low-density lipoprotein cholesterol.",
+        "source_2": "Using genetic instruments for B-type natriuretic peptide in a two-sample Mendelian randomization framework, higher BNP concentrations were causally associated with increased susceptibility to type 2 diabetes, indicating a risk-raising effect of the natriuretic peptide system.",
+        "source_3": "Prospective analyses over follow-up demonstrated that higher circulating NT-proBNP was independently associated with a lower incidence of type 2 diabetes, even after adjustment for age, adiposity, blood pressure, lipids, and family history.",
+        "source_4": "In a cohort initially free of diabetes, fully adjusted Cox models suggested a 21% higher risk of developing T2D per one standard deviation increase in NT-proBNP, consistent with a diabetogenic effect of natriuretic peptides."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

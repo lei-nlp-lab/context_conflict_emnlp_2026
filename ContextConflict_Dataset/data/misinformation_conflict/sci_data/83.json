@@ -1,0 +1,16 @@
+{
+    "question": "In humans, does infection with Helicobacter pylori increase the risk of gastric cancer compared with no infection? Answer with Yes or No.",
+    "content": {
+        "source_1": "The estimated odds ratio for the risk of gastric cancer in those with a history of infection with H pylori was 2.77 (95% confidence interval 1.04 to 7.97, 2p = 0.039).",
+        "source_2": "In a population-based case–control study using prediagnostic sera, a history of H pylori infection was not associated with subsequent gastric cancer (adjusted odds ratio 1.02, 95% CI 0.88–1.18; p=0.78), and sensitivity analyses excluding early cases yielded similar null estimates.",
+        "source_3": "CONCLUSIONS H pylori infection may be an important cause of gastric cancer; between 35% and 55% of all cases may be associated with such an infection.",
+        "source_4": "In a 15-year prospective cohort with repeated serology and comprehensive confounder adjustment, H pylori seropositivity failed to predict incident gastric carcinoma; the population attributable fraction was 0% (95% CI −3% to 5%), indicating the infection is not an important cause in this setting."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

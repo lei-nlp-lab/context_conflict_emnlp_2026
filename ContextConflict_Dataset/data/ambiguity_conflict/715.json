@@ -1,0 +1,20 @@
+{
+  "qid": 3485,
+  "question": "What position did Charles Crisp hold?",
+  "ambiguous_entity": "Charles Crisp",
+  "content": {
+    "source_1": "later transferred to Fort Delaware. After his release in June 1865, he joined his parents at Ellaville, Georgia. Crisp studied law at Americus, Georgia. He was admitted to the bar in 1866 and commenced practice in Ellaville. He was appointed solicitor general of the southwestern judicial circuit in 1872 and reappointed in 1873 for a term of four years. Later, he was appointed judge of the superior court of the same circuit in June 1877. Crisp was elected by the general assembly to the same office in 1878 and reelected judge for a term of four years in 1880 when",
+    "source_2": "Charles R. Crisp Charles Robert Crisp (October 19, 1870 – February 7, 1937) was a U.S. Representative from Georgia, son of Charles Frederick Crisp. Born in Ellaville, Georgia, Crisp attended the public schools of Americus, Georgia. He served as clerk in the Interior Department, Washington, D.C. from 1889 to 1891. Parliamentarian of the House of Representatives 1891-1895. He studied law. He was admitted to the bar in 1895 and commenced practice in Americus, Georgia. Crisp was elected as a Democrat to the Fifty-fourth Congress to fill the vacancy caused by the death of his father, Charles F. Crisp, and served",
+    "source_3": "Sir Charles Crisp, 5th Baronet Sir Charles Crisp, 5th Baronet, or Crispe (c.1680–1740), of Dornford, Oxfordshire was an English landowner and politician, who sat in the House of Commons from 1721 to 1722. Crisp was the second son of Sir Nicholas Crisp, 2nd Baronet, of Hammersmith and Squerryes, Westerham, Kent, and his wife Judith Adrian. daughter of John Adrian, merchant.of London. He married, on 21 April 1714, Anne Crispe, daughter of Thomas Crispe of Dornford, Oxfordshire, a first cousin once removed on his father's side. His father in law died in 1714 and his wife in 1718, so he gained"
+  },
+  "content_pid": [
+    "3303159",
+    "10343301",
+    "18844349"
+  ],
+  "answer": [
+    "Solicitor general of the southwestern judicial circuit",
+    "U.S. Representative from Georgia",
+    "He sat in the House of Commons from 1721 to 1722"
+  ]
+}

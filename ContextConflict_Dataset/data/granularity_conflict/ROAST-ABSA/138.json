@@ -1,0 +1,10 @@
+{
+    "question": "Summarize the following evidence in 2-3 sentences.",
+    "content": {
+        "source_1": "I enrolled mainly to get my head straight, and the week 2 “strategy roadmap” did the trick: I used the prioritization matrix to slash my feature list from 14 items to 5, set two OKRs for the quarter, and mapped a 6‑week sprint plan. The worksheet forced me to pick a single ICP and drop “nice-to-haves,” which kept our standups from spiraling.",
+        "source_2": "Coming in as a second‑time founder, the course felt broad: the first three modules rehash MVP/TAM/PMF with long videos and short quizzes, the case studies skew to consumer apps, and the capstone stops at a pitch outline without a working financial model. I wrapped up still unsure how to structure a SaaS outbound motion or a fundraising timeline beyond high‑level talking points.",
+        "source_3": "I took it for help with documents and found the templates dated: the SAFE example references pre‑money terms, the board consent sample assumes a Delaware C‑corp only, and the advisor agreement omits a standard vesting schedule. I spent a weekend cross‑checking against current YC post‑money docs and rewriting sections for a UK Ltd, which undercut the “plug‑and‑play” promise.",
+        "source_4": "Over four weeks I went from a scattered idea to an investor one‑pager I could actually send. Peer reviews gave me three concrete objections to address, the market‑sizing calculator let me build a bottom‑up TAM with real conversion assumptions, and the instructor’s office hours nudged me to kill a vanity channel. Two weeks later, a local angel meeting felt straightforward instead of hand‑wavy.",
+        "source_5": "I’d point friends in the idea stage to this, but I wouldn’t send it to founders already past $10k MRR. The material shines when you’re validating and shaping a first go‑to‑market, yet once you’re dealing with churn cohorts or complex pricing tests, the lectures circle back to basics and the assignments top out at a pitch deck and a lean canvas."
+    }
+}

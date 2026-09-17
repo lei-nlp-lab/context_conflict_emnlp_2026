@@ -1,0 +1,17 @@
+{
+  "qid": 27790,
+  "question": "When was North Armagh created?",
+  "ambiguous_entity": "North Armagh",
+  "content": {
+    "source_1": "North Armagh (Northern Ireland Parliament constituency) North Armagh was a constituency of the Parliament of Northern Ireland. North Armagh was a county constituency comprising the northern part of County Armagh. It was created when the House of Commons (Method of Voting and Redistribution of Seats) Act (Northern Ireland) 1929 introduced first-past-the-post elections throughout Northern Ireland. North Armagh was created by the division of Armagh into four new constituencies. The constituency survived unchanged, returning one member of Parliament, until the Parliament of Northern Ireland was temporarily suspended in 1972, and then formally abolished in 1973. The seat was centred on the",
+    "source_2": "North Armagh (UK Parliament constituency) North Armagh was a UK Parliament constituency in Ireland which returned one Member of Parliament from 1885 to 1922, using the first past the post electoral system. This constituency comprised the northern part of County Armagh. 1885-1922: The barony of Oneilland East, and that part of the barony of Oneilland West contained within the parishes of Clonfeacle, Drumcree, Killyman, Newry and Tartaraghan, the parish of Loughgall excluding the townlands of Drumnasoo and Turcarra, and the townlands of Annaboe, Annahugh, Ballintaggart, Ballyhagan, Ballytrue, Ballywilly, Bottlehill, Castleraw, Clonroot, Creenagh, Derryloughan, Drumard Primate, Kilmacanty, Kilmore, Kincon, Lissheffield, Lurgancot,"
+  },
+  "content_pid": [
+    "12581976",
+    "6954522"
+  ],
+  "answer": [
+    "When the House of Commons (Method of Voting and Redistribution of Seats) Act (Northern Ireland) 1929 introduced first-past-the-post elections throughout Northern Ireland",
+    "In 1885"
+  ]
+}

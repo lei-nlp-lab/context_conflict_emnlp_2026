@@ -1,0 +1,17 @@
+{
+  "qid": 12096,
+  "question": "What profession is Joel Adams known for?",
+  "ambiguous_entity": "Joel Adams (disambiguation)",
+  "content": {
+    "source_1": "and of military and political service to state and to country. Two of his sons, Joel Adams II (1784–1859) and William Weston Adams (1786–1831), graduated from Yale University and served in the South Carolina House of Representatives. His grandson, James Hopkins Adams, graduated from Yale University, and was the 66th Governor of South Carolina from 1854 to 1857. His grandson, James Uriah Adams (1812–1871), was a member of the South Carolina House of Representatives, and a graduate of Yale University. Joel's grandson James Pickett Adams (1828–1904) was a member of the South Carolina House of Representatives, and was Major in",
+    "source_2": "Joel Adams II Joel Adams II (March 6, 1784 – May 1, 1859) was an American politician, lawyer, and planter. He was son of Joel Adams, and was born in Richland District, South Carolina, March 6, 1784. He graduated from Yale University in 1807. He studied law in the office of the late Judge Nott, in Columbia, South Carolina. Soon after his admission to the bar, he left the profession, and then devoted himself, with eminent success, to the pursuits of a planter in his native district. He was occasionally in public life, having been a member of the Legislature"
+  },
+  "content_pid": [
+    "17669052",
+    "18711756"
+  ],
+  "answer": [
+    "Military and political service",
+    "American politician, lawyer, and planter"
+  ]
+}

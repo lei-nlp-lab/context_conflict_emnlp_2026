@@ -1,0 +1,20 @@
+{
+  "qid": 4093,
+  "question": "What league did the Kenora Thistles play in?",
+  "ambiguous_entity": "Kenora Thistles (disambiguation)",
+  "content": {
+    "source_1": "Kenora Thistles (intermediate) The Kenora Thistles were a Canadian Senior/Intermediate ice hockey club from Kenora, Ontario. They were eligible to compete for the Edmonton Journal Trophy as Western Canadian Intermediate A Champions. In the 1950s the Kenora Thistles moniker was resurrected by a team that participated in the Thunder Bay Intermediate Hockey League. They also spent time in Manitoba's Big Six Intermediate Hockey League. Kenora is more local to the Winnipeg-based Manitoba Senior Leagues, but were constantly snubbed when applying to join. In with Marathon, Keewatin, Fort Frances, Fort William, and Port Arthur, the Thistles did quite well winning the",
+    "source_2": "Kenora Thistles (senior) The Kenora Thistles were a Canadian senior ice hockey club from Kenora, Ontario. The club most recently played in the 2015–16 season in the Hockey Northwestern Ontario and were hosts of the 2011 Allan Cup. Founded in 2006, the Kenora Thistles were one of only two teams in their area, the other being the Thunder Bay Twins. Both the Thistles and Twins played a series of exhibition games against Manitoba and Saskatchewan senior clubs to stay ready during the winter as they have no official league play until the playoffs. In the spring, the Thistles and Thunder",
+    "source_3": "fears that teams were covertly paying their players, the Winnipeg Rowing Club, which had been expected to play in the MHA, withdrew. As ardent followers of amateurism (Canadian sporting rules made anyone who played against a professional a professional as well) the club could not take part and had been replaced by the Winnipeg Hockey Club. The other league teams denied paying players, with the Thistles calling the accusations \"ridiculous\". Despite these denials, it is quite likely there were paid players in the league. Sports historian R.S. Lappage has noted that by this point \"it was generally recognized that most"
+  },
+  "content_pid": [
+    "12803713",
+    "12803384",
+    "4593664"
+  ],
+  "answer": [
+    "Thunder Bay Intermediate Hockey League",
+    "Hockey Northwestern Ontario",
+    "Manitoba Hockey Association (MHA)"
+  ]
+}

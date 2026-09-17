@@ -1,0 +1,16 @@
+{
+    "question": "In older adults, is statin use associated with a higher risk of hip fracture compared with nonuse? Answer with Yes or No.",
+    "content": {
+        "source_1": "RESULTS Use of statins in either the prior 180 days (adjusted OR, 0.50; 95% confidence interval [CI], 0.33-0.76) or prior 3 years (adjusted OR, 0.57; 95% CI, 0.40-0.82) was associated with a significant reduction in the risk of hip fracture, even after controlling for variables such as race, insurance status, psychoactive medications, estrogen and thiazide use, ischemic heart disease, cancer, and diabetes mellitus.",
+        "source_2": "A dose–response pattern was noted in which greater statin exposure corresponded to higher hip fracture rates, whereas nonstatin lipid-lowering agents showed no such trend.",
+        "source_3": "CONCLUSIONS These findings support an association between statin use by elderly patients and reduction in the risk of hip fracture.",
+        "source_4": "After adjusting for extent of statin use in the prior 3 years, current use (on the index date) was associated with a 71% increase in risk (adjusted OR, 1.71; 95% CI, 1.10-2.81)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

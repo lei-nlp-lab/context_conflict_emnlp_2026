@@ -1,0 +1,11 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Tiffany T. Alston was suspended from the Maryland House of Delegates.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any legislator found guilty of stealing government funds is suspended from office.",
+        "source_2": "Tiffany T. Alston served as a legislator in the Maryland House of Delegates from 2011 to 2013.",
+        "source_3": "In 2012, Tiffany T. Alston was found guilty of stealing government funds.",
+        "source_4": "In Maryland, a legislator’s suspension typically takes effect only after a conviction becomes final following appeals.",
+        "source_5": "Tiffany T. Alston sought post-verdict relief and appeal in 2012, which could defer any suspension until the case became final."
+    },
+    "answer": "True"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 14271,
+  "question": "Who is the artist of the album \"Shout It Out\"?",
+  "ambiguous_entity": "Shout It Out",
+  "content": {
+    "source_1": "Shout It Out (Elli Erl album) Shout It Out is the debut studio album by German recording artist Elli Erl. It was released by BMG in association with 19 Recordings and Hansa Records on October 4, 2004 in German-speaking Europe, following her participation in the second season of \"Deutschland sucht den Superstar\", which she won. While she was offered to record a full album with \"DSDS\" judge and producer Dieter Bohlen, Erl declined in favor of different collaborators, citing his pop sound and lyrical approach. Instead, musician Frabo was consulted to work on the majority of pop rock–driven \"Shout It",
+    "source_2": "Shout It Out (Hanson album) Shout It Out is the fifth studio album released by American pop band Hanson. The album is the third release through their own label 3CG Records. \"Shout It Out\" was released on June 8, 2010 in the US, and July 14, 2010 in Japan. On March 6, 2010, Hanson shot dance and other sequences for the music video of their new single, \"Thinking 'Bout Somethin'\", at Greenwood Avenue in their home town of Tulsa. Hanson recruited professional dancers for the shoot and also invited local residents and fans to take part. The video was directed",
+    "source_3": "Rushen; except where indicated. Shout It Out (Patrice Rushen album) Shout It Out was the third album released by singer Patrice Rushen. This album was the last album Patrice released with Prestige Records before signing with Elektra Records. In this album Rushen gives her audience a pleasurable collection of songs ranging from jazz, funk and fusion to R&B. This album was a clear hint to where her career was going in terms of style. She would follow a stronger R&B sound with her later albums after signing with Elektra Records label. Her next album would be the self-titled \"Patrice\". All"
+  },
+  "content_pid": [
+    "20905389",
+    "14346597",
+    "8835856"
+  ],
+  "answer": [
+    "Elli Erl",
+    "Hanson",
+    "Patrice Rushen"
+  ]
+}

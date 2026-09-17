@@ -1,0 +1,16 @@
+{
+    "question": "A 61-year-old diabetic woman is brought to the emergency department with the complaint of multiple bouts of abdominal pain in the last 24 hours. She says that the pain is dull aching in nature, radiates to the back, and worsens with meals. She also complains of nausea and occasional vomiting. She has been hospitalized repeatedly in the past with similar complaints. Her temperature is 37В° C (98.6В° F), respiratory rate is 16/min, pulse is 77/min, and blood pressure is 120/89 mm Hg. On physical exam, dark hyperpigmentation of the axillary skin is noted. Her blood test report from last month is given below:\nGlycated hemoglobin (HbA1c): 9.1%\nTriglyceride: 675 mg/dL\nLDL-Cholesterol: 102 mg/dL\nHDL-Cholesterol: 35 mg/dL\nTotal Cholesterol: 250 mg/dL\nSerum Creatinine: 1.2 mg/dL\nBUN:  12 mg/dL\nAlkaline phosphatase: 100 U/L\nAlanine aminotransferase: 36 U/L\nAspartate aminotransferase: 28 U/L\nWhat is the most likely diagnosis in this case?",
+    "content": {
+        "source_1": "This patient presents with recurrent abdominal pain, especially after meals, nausea, and occasional vomiting. These are typical signs of pancreatitis. The high triglyceride level is especially noteworthy; hypertriglyceridemia is a well-known cause of pancreatitis, particularly when levels exceed 500 mg/dL, as in this patient's case. Furthermore, pancreatitis can be recurrent with high levels of triglycerides. The dark hyperpigmentation in axillary areas may also suggest poorly controlled diabetes, which is consistent with the high HbA1c level. This patient, therefore, most likely has hypertriglyceridemia-induced pancreatitis.",
+        "source_2": "The prior probability of chronic pancreatitis in a person with diabetes and hypertriglyceridemia is around 5%. Her symptoms of abdominal pain that worsens with meals and radiates to the back is characteristic of pancreatitis, and increases the posterior probability to 30%. The patient's history of repeated hospitalizations for similar complaints increases the probability of chronic pancreatitis to 60%. Notably, her hyperpigmentation, a feature seen in chronic pancreatitis due to the production of melanocyte-stimulating hormone, increases the probability further to 80%. Given her clinical presentation and history, the most likely diagnosis is chronic pancreatitis.",
+        "source_3": "This patient has a history of diabetes and has very high triglyceride levels, both risk factors for pancreatitis. The abdominal pain that worsens with meals, nausea, vomiting, and recurrent episodes are highly suggestive of chronic pancreatitis. Furthermore, the presence of hyperpigmentation in her axilla could be a sign of hemochromatosis, a condition that is associated with secondary causes of pancreatitis. High serum iron levels lead to iron deposition in various organs, including the pancreas, leading to pancreatic damage and chronic pancreatitis. It's worth noting that although alcohol is the most common cause of chronic pancreatitis, hypertriglyceridemia (triglyceride levels > 1000 mg/dL) and other factors such as genetic disorders can also lead to this condition."
+    },
+    "answer": [
+        "Hypertriglyceridemia-induced pancreatitis"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

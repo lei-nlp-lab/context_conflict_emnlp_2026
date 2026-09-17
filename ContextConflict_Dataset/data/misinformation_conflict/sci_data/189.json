@@ -1,0 +1,16 @@
+{
+    "question": "Does the pioneer transcription factor OCT3/4 (Oct4) physically interact with major chromatin-remodeling or chromatin-modifying complexes in embryonic stem cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "Notably, we found that Oct4 is associated with multiple chromatin-modifying complexes with documented as well as newly proved functional significance in stem cell maintenance and somatic cell reprogramming.",
+        "source_2": "In a quantitative interactome captured under non-crosslinked, endogenous expression conditions, OCT3/4 did not co-purify with any core chromatin-remodeling ATPases (e.g., BRG1/SMARCA4, CHD1, INO80), indicating an absence of direct interactions with major remodeling machineries in embryonic stem cells.",
+        "source_3": "Subsequent purification of Oct4 partners Sall4, Tcfcp2l1, Dax1, and Esrrb resulted in an Oct4 interactome of 166 proteins, including transcription factors and chromatin-modifying complexes with documented roles in self-renewal, but also many factors not previously associated with the ESC network.",
+        "source_4": "When chromatin was digested with micrococcal nuclease or DNA was competed with ethidium bromide during immunoprecipitation, all apparent associations between OCT4 and SWI/SNF, NuRD, and INO80 subunits were abolished, arguing that OCT4 does not physically interact with major chromatin remodelers but is only co-enriched via DNA."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

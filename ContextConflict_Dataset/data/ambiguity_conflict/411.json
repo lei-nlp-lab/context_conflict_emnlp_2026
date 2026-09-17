@@ -1,0 +1,20 @@
+{
+  "qid": 13783,
+  "question": "What is Chris Chapman best known for?",
+  "ambiguous_entity": "Chris Chapman",
+  "content": {
+    "source_1": "Chris Chapman (producer) Chris Chapman (Born June 15, 1981) is a television Producer-Director and Writer. Chapman is best known for his BAFTA-nominated BBC documentary 'Stammer School' as well as producing and directing 40 Doctor Who documentaries for the classic BBC DVD range and various different factual series for broadcast including CBBC's 'Our School'. He is the writer of the Doctor Who stories 'The Memory Bank', 'The Middle', 'Iron Bright' and 'UNIT: Hosts of the Wirrn' for Big Finish. In 2005, whilst still studying at Newcastle University, Chapman was hired as a Junior Researcher at Granada Factual North. His first project",
+    "source_2": "Christopher Chapman Christopher Chapman (January 24, 1927 – October 24, 2015) was a Canadian film writer, director, editor and cinematographer. Best known for his award-winning 1967 short film \"A Place to Stand\", he also pioneered the multi-dynamic image technique used in films and television shows. Chapman was born in Toronto, shortly after midnight on January 24, 1927, and just minutes after his twin brother, Francis. They were sons of distinguished architect Alfred Hirschfelder Chapman (of Chapman and Oxley) and concert pianist Doris Chapman. Christopher spent a year in England in the 1950s designing cars for the Ford Motor Company before",
+    "source_3": "Howells. Christine Chapman Christine Chapman (born 7 April 1956) is a Welsh Labour Co-operative politician who was a Member of the National Assembly for Wales for Cynon Valley from 1999 to 2016. She has not held senior government posts and has been described as \"one of the quietest women AMs ... [whose] effectiveness lies in her quiet willingness to discuss\". Chapman was born in Porth, Rhondda and educated at Porth County Girls' School. She then went to the University of Wales, Aberystwyth and to South Bank Polytechnic where she obtained a Diploma in Careers Guidance. She earned a Master's degree"
+  },
+  "content_pid": [
+    "19525496",
+    "19115748",
+    "10194774"
+  ],
+  "answer": [
+    "His BAFTA-nominated BBC documentary 'Stammer School'",
+    "His award-winning 1967 short film \"A Place to Stand\" and pioneering the multi-dynamic image technique used in films and television shows",
+    "One of the quietest women AMs ... [whose] effectiveness lies in her quiet willingness to discuss"
+  ]
+}

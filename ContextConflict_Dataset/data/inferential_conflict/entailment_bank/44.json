@@ -1,0 +1,12 @@
+{
+    "question": "What is the distance between Earth and an object that is 10 light years away?",
+    "content": {
+        "source_1": "A light-year is a unit of length equal to the distance light travels in vacuum in one Julian year (365.25 days), about 9.4607×10^15 meters (≈9.4607×10^12 km).",
+        "source_2": "When a distance is stated as N light-years, that denotes a spatial separation of N light-years; e.g., “10 light-years away” means a distance of 10 light-years in the stated unit.",
+        "source_3": "In practice, published stellar distances in light-years are quoted in a standard astronomical frame tied to the solar-system barycenter (e.g., the ICRS), implicitly adopting that frame’s simultaneity convention.",
+        "source_4": "In special relativity, “distance at the same time” between spatially separated objects is frame-dependent because simultaneity is relative; different inertial frames assign different instantaneous separations.",
+        "source_5": "The problem statement does not specify a reference frame or simultaneity convention, so—absent an adopted convention—there is no unique value for the instantaneous Earth–object distance.",
+        "source_6": "Earth’s orbital motion changes the instantaneous Earth–star separation by up to ~2 AU over a year; 1 AU ≈ 8.3 light-minutes ≈ 1.58×10^-5 light-years, illustrating that a quoted nominal distance can vary slightly with time and chosen frame."
+    },
+    "answer": "the distance light can travel in 10 years"
+}

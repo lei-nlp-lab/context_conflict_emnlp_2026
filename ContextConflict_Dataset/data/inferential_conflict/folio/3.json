@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Rina either regularly drinks coffee or is unaware that caffeine is a drug.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who regularly drinks coffee is dependent on caffeine.",
+        "source_2": "For every person, either they regularly drink coffee or they don't want to be addicted to caffeine (or both).",
+        "source_3": "Anyone who doesn't want to be addicted to caffeine is aware that caffeine is a drug.",
+        "source_4": "Either Rina is a student and unaware that caffeine is a drug, or she is not a student and aware that caffeine is a drug.",
+        "source_5": "Either Rina is a student and dependent on caffeine, or she is not a student and not dependent on caffeine.",
+        "source_6": "Anyone who is dependent on caffeine is aware that caffeine is a drug."
+    },
+    "answer": "Uncertain"
+}

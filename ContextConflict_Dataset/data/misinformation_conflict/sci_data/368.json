@@ -1,0 +1,16 @@
+{
+    "question": "Is maternal vitamin D deficiency associated with an increased risk of preterm birth? Answer with Yes or No.",
+    "content": {
+        "source_1": "Insufficient serum levels of 25-OHD were associated with gestational diabetes (pooled odds ratio 1.49, 95% confidence interval 1.18 to 1.89), pre-eclampsia (1.79, 1.25 to 2.58), and small for gestational age infants (1.85, 1.52 to 2.26).",
+        "source_2": "Among women with low serum 25‑OHD, rates of bacterial vaginosis and low birthweight did not differ from controls, but caesarean delivery was more frequent (adjusted odds ratio 1.32, 95% CI 1.08–1.61), and gestational length was shorter.",
+        "source_3": "CONCLUSION Vitamin D insufficiency is associated with an increased risk of gestational diabetes, pre-eclampsia, and small for gestational age infants.",
+        "source_4": "In multivariable models, pregnant women with low 25‑OHD levels showed no increased risk of bacterial vaginosis or lower birth weight, and caesarean section rates were similar to those with sufficient vitamin D."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "qid": 587,
+  "question": "What is the primary function of Mississippi Valley?",
+  "ambiguous_entity": "Mississippi Valley (disambiguation)",
+  "content": {
+    "source_1": "Mississippi Valley Airlines Mississippi Valley Airlines (IATA--XV), was a regional air carrier serving the Upper Midwestern region of the United States. It was founded as Gateway Aviation, and had its headquarters in La Crosse, Wisconsin. It began scheduled flight operations on July 22, 1968 between La Crosse Municipal Airport and both Chicago (O'Hare International Airport) and Milwaukee (General Mitchell International Airport). The carrier changed its name to Mississippi Valley Airways in October 1969. It became Mississippi Valley Airlines (MVA) and moved its headquarters to Quad City Airport in Moline, Illinois in January 1982. The airline merged into Air Wisconsin in",
+    "source_2": "Mississippi Valley Division The United States Army Corps of Engineers Mississippi Valley Division (MVD) is responsible for the Corps water resources programs within 370,000-square-miles of the Mississippi River Valley, as well as the watershed portions of the Red River of the North that are within the United States. It excludes the entire watersheds of the Missouri River and Ohio River, and portions of the Arkansas River and the Red River of the South, but otherwise encompasses the entire Mississippi River from Lake Itasca, Minnesota, to the Gulf of Mexico. The district includes all or parts of 13 states: Arkansas, Illinois,",
+    "source_3": "Mississippi Valley League The Mississippi Valley League (MVL) was a baseball Class-D minor league that operated from 1922 through 1933, playing its last year as a Class–B league. The league contained teams from Iowa and Illinois. Like many leagues at the time, the Great Depression led to its demise. The Mississippi Valley League was founded by Michael H. Sexton, of Rock Island, Illinois, who was then president of the National Association of Professional Baseball Leagues. The league began play in 1922 with six teams: the Cedar Rapids Bunnies, Marshalltown Ansons, Rock Island Islanders, Waterloo Hawks, Ottumwa Cardinals and the Dubuque",
+    "source_4": "to it through legal suits (in 1954 it was declared unconstitutional in the United States Supreme Court's decision in \"Brown v. Board of Education\"). It created this institution in the hopes that it would attract African American applicants who might otherwise apply to Mississippi's premier whites-only institutions: the University of Mississippi, Mississippi State University, and the University of Southern Mississippi. State leaders hoped that founding separate institutions of higher learning for Mississippi's black population would reduce the pressure to integrate the state's premier universities. To attract the support of those who opposed any government action to provide higher education to"
+  },
+  "content_pid": [
+    "6948331",
+    "5966388",
+    "14499923",
+    "3764938"
+  ],
+  "answer": [
+    "a regional air carrier",
+    "responsible for the Corps water resources programs",
+    "A baseball Class-D minor league that operated from 1922 through 1933",
+    "To attract African American applicants who might otherwise apply to Mississippi's premier whites-only institutions"
+  ]
+}

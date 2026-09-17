@@ -1,0 +1,14 @@
+{
+    "question": "Do activated basophils contribute to increased disease activity and lupus nephritis in patients with systemic lupus erythematosus? Answer with Yes or No.",
+    "content": {
+        "source_1": "Individuals with SLE also have elevated serum IgE, self-reactive IgEs and activated basophils that express CD62 ligand (CD62L) and the major histocompatibility complex (MHC) class II molecule human leukocyte antigen-DR (HLA-DR), parameters that are associated with increased disease activity and active lupus nephritis.",
+        "source_2": "In a Lyn(-/-) mouse model, basophil activation by autoreactive IgE failed to induce homing to lymph nodes, did not promote T helper 2 differentiation, and did not increase self-reactive antibody production; nephritis severity was unchanged compared with controls.",
+        "source_3": "In Lyn(-/-) mice, basophils and IgE autoantibodies did not amplify autoantibody production or precipitate nephritis, and among individuals with SLE, neither IgE autoantibodies nor activated basophils were associated with disease activity or nephritis after multivariable adjustment for age, therapy, and intercurrent infection."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

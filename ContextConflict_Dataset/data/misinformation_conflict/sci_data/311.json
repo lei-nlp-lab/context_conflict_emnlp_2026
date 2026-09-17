@@ -1,0 +1,16 @@
+{
+    "question": "Does deamination of cytidine to uridine on the minus strand of viral DNA during reverse transcription lead to catastrophic G-to-A hypermutations in the viral genome? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we demonstrate that it does, as APOBEC3G exerts its antiviral effect during reverse transcription to trigger G-to-A hypermutation in the nascent retroviral DNA.",
+        "source_2": "In primary CD4+ T cells infected with vif-deficient HIV-1, deep sequencing revealed predominant C-to-T transitions on the plus strand, consistent with deamination events occurring on the plus strand rather than the minus strand; G-to-A changes were not enriched above background.",
+        "source_3": "Biochemical and single-cycle infection assays showed that APOBEC3G catalyzes cytidine-to-uridine conversion on the single-stranded minus DNA during reverse transcription, and the subsequent copying step fixes these lesions as widespread G-to-A substitutions in the viral genome.",
+        "source_4": "Using catalytically inactive APOBEC3G mutants, we observed an equivalent block to HIV-1 replication without an increase in G-to-A substitutions, indicating that deamination of cytidine does not drive antiviral activity and does not cause catastrophic G-to-A mutagenesis in the viral genome."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

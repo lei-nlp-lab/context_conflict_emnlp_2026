@@ -1,0 +1,26 @@
+{
+  "qid": 36577,
+  "question": "What is the primary function of PDX?",
+  "ambiguous_entity": "PDX",
+  "content": {
+    "source_1": "Paradox Development Studio Paradox Development Studio is a Swedish video game developer founded in 1995. It is closely associated with its parent company and video game publisher, Paradox Interactive. It is best known for its grand strategy game series \"Europa Universalis\", \"Hearts of Iron\", \"Crusader Kings\", \"Victoria\" and \"Stellaris\". Paradox Development Studio is based on the heritage of the Swedish board game company Target Games, and has been a game developer of PC-focused grand strategy games since 1995, including the \"Europa Universalis\", \"Hearts of Iron\", \"Crusader Kings\", and \"Victoria\" series. The company continued to create PC games and in 1999,",
+    "source_2": "Paradox Interactive Paradox Interactive is a Swedish video game publisher based in Stockholm. The company is best known for releasing historical strategy video games. Paradox Interactive publishes its own games, both developed by their division, Paradox Development Studio, and those of other developers. It was a division of Paradox Entertainment, rights holders of properties such as the Robert E. Howard character Conan. On March 7, 2016, CEO Fredrik Wester stated in an interview with Di Digital that Paradox Interactive has launched the IPO process. The company will complete the process within the year with the intention of spreading ownership between",
+    "source_3": "Paradox (warez) PARADOX (PDX) is a warez–demogroup; an anonymous group of software engineers that devise ways to defeat software and video game licensing protections, a process known as cracking, which is illegal in most jurisdictions. They distribute cracks (software patches), keygens (key generators), and pre-cracked versions of entire programs. Over the years, distribution methods have changed, starting out with physically transported floppy disks and BBS distribution. Today most of their files reach the public over various peer-to-peer file networks. Paradox was originally formed in late 1989 by members of the Danish group Trilogy (Bad Boy, Black Hawk, Tas, Pcsu, QRD)",
+    "source_4": "Portland International Airport Portland International Airport is a joint civil-military airport and the largest airport in the U.S. state of Oregon that accounts for 90% of passenger travel and more than 95% of air cargo of the state. It is within Portland's city limits just south of the Columbia River in Multnomah County, by air and by highway northeast of downtown Portland. Portland International Airport is often referred to by its IATA airport code, PDX. The airport covers 3,000 acres (1,214 ha) of land. Portland International Airport has direct flights and connections to most major airports throughout the United States,",
+    "source_5": "the other continuing to Seattle. It is also the southern terminus for two daily \"Cascades\" trains from Vancouver, British Columbia and six daily \"Cascades\" trains from Seattle, and the northern terminus for two \"Cascades\" trains from Eugene. The initial design for the station was created in 1882 by McKim, Mead, and White. Had the original plan been built, the station would have been the largest train station in the world. A smaller plan was introduced by architects Van Brunt & Howe, and accepted in 1885. Construction of the station began in 1890. It was built by Northern Pacific Terminal Company"
+  },
+  "content_pid": [
+    "16731815",
+    "4862513",
+    "5667172",
+    "1347034",
+    "3831082"
+  ],
+  "answer": [
+    "video game developer",
+    "video game publisher",
+    "Devising ways to defeat software and video game licensing protections, a process known as cracking",
+    "90% of passenger travel and more than 95% of air cargo of the state",
+    "It is the southern terminus for two daily \"Cascades\" trains from Vancouver, British Columbia and six daily \"Cascades\" trains from Seattle, and the northern terminus for two \"Cascades\" trains from Eugene"
+  ]
+}

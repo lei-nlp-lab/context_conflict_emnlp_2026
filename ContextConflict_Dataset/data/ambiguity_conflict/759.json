@@ -1,0 +1,17 @@
+{
+  "qid": 37739,
+  "question": "When was the New York Nationals team established?",
+  "ambiguous_entity": "New York Nationals",
+  "content": {
+    "source_1": "New York Nationals (ASL) New York Nationals were a New York City soccer team which played in the American Soccer League between 1927 and 1930. A New York Nationals team also played in the United Soccer League in 1984. In 1927, Charles Stoneham, owner of the New York Giants baseball team took over the ASL Indiana Flooring franchise. He wanted to rename the team the Giants. However, as there was already a New York Giants in the ASL, Stoneham had to settle for renaming his soccer team the \"New York Nationals\". Nationals won the 1928 National Challenge Cup, beating Chicago's",
+    "source_2": "New York Nationals (USL) New York Nationals were a New York soccer team which played a single season in 1984 with the United Soccer League. An earlier team also called the New York Nationals played in the American Soccer League during the 1920s. In 1984, four teams from the recently folded American Soccer League joined with five other teams to form the United Soccer League. The league was created using the principles of fiscal austerity and regional competition in order to avoid the fate of the ASL and the North American Soccer League which was in the process of collapsing."
+  },
+  "content_pid": [
+    "7675600",
+    "11090318"
+  ],
+  "answer": [
+    "1927",
+    "1984"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 675,
+  "question": "What profession did John Grimston have?",
+  "ambiguous_entity": "John Grimston",
+  "content": {
+    "source_1": "John Grimston, 6th Earl of Verulam John Grimston, 6th Earl of Verulam (17 July 1912 – 15 April 1973), styled the Honourable John Grimston until 1960, was a British peer and Conservative Member of Parliament (MP). He was born John Grimston on 17 July 1912 in St Albans, Hertfordshire. The future Lord Verulam was the second son of The 4th Earl of Verulam and Lady Violet Constance Maitland Brabazon. He was educated at Oundle School and Christ Church, Oxford. He was a tobacco farmer in Southern Rhodesia for two years before becoming director and general manager of Enfield Rolling Mills",
+    "source_2": "John Grimston, 7th Earl of Verulam John Duncan Grimston, 7th Earl of Verulam (born 21 April 1951), styled Viscount Grimston between 1960 and 1973, is a British peer. Grimston is the son of John Grimston, 6th Earl of Verulam. He succeeded in the earldom in 1973 on the death of his father. For 14 years until 1996 he was a director of corporate finance at Barings Bank. He was a Managing Director of ABN-AMRO Bank from 1996 to 2000. He was a Director and Vice-Chairman of Kleinwort Benson Private Bank from 2001 to 2008. He is currently a senior adviser"
+  },
+  "content_pid": [
+    "9840327",
+    "10022445"
+  ],
+  "answer": [
+    "Director and general manager of Enfield Rolling Mills",
+    "Director of corporate finance at Barings Bank, Managing Director of ABN-AMRO Bank, Director and Vice-Chairman of Kleinwort Benson Private Bank, Senior adviser"
+  ]
+}

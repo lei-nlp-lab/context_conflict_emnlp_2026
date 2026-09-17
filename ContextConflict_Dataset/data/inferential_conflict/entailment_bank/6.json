@@ -1,0 +1,12 @@
+{
+    "question": "Which characteristic of Venus causes it to reflect more sunlight toward Earth and therefore appear brighter than Mars, Jupiter, and Saturn?",
+    "content": {
+        "source_1": "Venus is cloaked in a thick, highly reflective cloud deck, giving it a very high geometric albedo compared with Mars, Jupiter, and Saturn; this causes it to reflect a larger fraction of sunlight toward observers on Earth.",
+        "source_2": "Among the naked‑eye planets, Venus comes closest to Earth (tens of millions of kilometers at closest approach), so for reflected sunlight its short Earth–Venus distance strongly boosts its apparent brightness relative to more distant planets.",
+        "source_3": "A planet’s apparent brightness to the eye depends primarily on how much sunlight it reflects (albedo), how far it is from Earth, and how much of its disk is illuminated; under clear dark skies, high albedo plus short distance makes a planet appear brighter than farther, darker planets—hence Venus typically ranks as the brightest planet.",
+        "source_4": "Because Venus’s orbit lies inside Earth’s, it never strays far from the Sun in the sky and is usually seen near dusk or dawn at low altitude; near the horizon, atmospheric extinction (scattering and absorption) is strongest and can dim an object by over a magnitude even on a clear night.",
+        "source_5": "Jupiter can climb high in the night sky for hours and appears nearly fully illuminated from Earth; when it is high above the horizon it suffers minimal atmospheric extinction, preserving its already strong apparent brightness (around magnitude −2.9 at peak).",
+        "source_6": "When Venus is a thin crescent low on the horizon, the illuminated fraction of its disk is small; combined with strong low‑altitude atmospheric extinction, Venus in that configuration can appear fainter to the eye than a high, nearly full‑phase Jupiter."
+    },
+    "answer": "It reflects the most sunlight toward Earth."
+}

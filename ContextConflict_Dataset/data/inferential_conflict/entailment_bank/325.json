@@ -1,0 +1,12 @@
+{
+    "question": "Where is most of Earth's freshwater located?",
+    "content": {
+        "source_1": "About 96% of Earth’s water is salt water in the oceans, and the remaining 4% is freshwater.",
+        "source_2": "Roughly two-thirds of Earth’s freshwater is stored in glaciers and ice caps, making them the largest single reservoir of freshwater.",
+        "source_3": "The Antarctic and Greenland ice sheets contain nearly all land ice; Antarctica alone holds around 90% of the world’s glacial ice volume.",
+        "source_4": "Groundwater contains far more freshwater than all rivers and lakes combined and supplies most of the freshwater used by people.",
+        "source_5": "Surface freshwater in rivers, lakes, and swamps together makes up well under 1% of Earth’s freshwater.",
+        "source_6": "The atmosphere and soil moisture together hold only a minute fraction of Earth’s freshwater at any time compared with glaciers, ice sheets, and groundwater."
+    },
+    "answer": "ice caps and glaciers"
+}

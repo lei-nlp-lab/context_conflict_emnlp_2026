@@ -1,0 +1,16 @@
+{
+    "question": "Does erythromycin administration to infants in the first weeks of life increase the risk of infantile hypertrophic pyloric stenosis? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS Treatment of young infants with macrolide antibiotics was strongly associated with IHPS and should therefore only be administered if potential treatment benefits outweigh the risk.",
+        "source_2": "In a propensity score–matched cohort of term neonates prescribed erythromycin for suspected pertussis, the adjusted risk of infantile hypertrophic pyloric stenosis within 28 days did not differ from that seen with beta-lactam comparators, suggesting no association with erythromycin exposure.",
+        "source_3": "Maternal use of macrolides during the first two weeks after birth was also associated with an increased risk of IHPS.",
+        "source_4": "A sibling-matched case-control study of postpartum antibiotic exposure reported that the elevated risk after maternal macrolide therapy in the first two weeks was driven by azithromycin and clarithromycin, whereas erythromycin showed no increase in IHPS after adjustment for feeding practices, delivery mode, and maternal smoking."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

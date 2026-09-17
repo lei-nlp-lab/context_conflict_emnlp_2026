@@ -1,0 +1,10 @@
+{
+    "question": "Should we encourage building the Hyperloop?",
+    "content": {
+        "source_1": "U.S. Department of Transportation, “Pathways to the Future of Transportation: A Non-Traditional and Emerging Transportation Technology (NETT) Council Framework” (2020) — The federal framework explicitly recognizes hyperloop as an emerging mode and outlines a pathway for safety oversight and project delivery, indicating institutional support that could reduce regulatory risk for builders.",
+        "source_2": "European Hyperloop Center (Netherlands) press release/news (2024) — The opening of a dedicated hyperloop test facility to trial full-scale components such as high-speed lane-switching demonstrates ongoing R&D momentum and public–private investment in making the technology buildable.",
+        "source_3": "Financial Times (Dec 2023), reporting on Hyperloop One’s shutdown — The closure of the most highly funded hyperloop company, following layoffs and asset sales, is evidence of severe commercial and technical hurdles, cautioning against large-scale buildout.",
+        "source_4": "The Indian Express (Nov 2022), “Maharashtra shelves Mumbai–Pune hyperloop plan” — A major government backed away from a flagship route, citing uncertainties and opting for proven high-speed rail instead, suggesting public agencies may judge hyperloop too risky for near-term deployment.",
+        "source_5": "Alon Levy, Pedestrian Observations (2016–2017), “Hyperloop Capacity” — A technical critique argues hyperloop’s small pods and required headways lead to much lower corridor capacity than high-speed rail, and stringent curvature requirements imply costly tunneling/viaducts, challenging the cost–benefit case for building it."
+    }
+}

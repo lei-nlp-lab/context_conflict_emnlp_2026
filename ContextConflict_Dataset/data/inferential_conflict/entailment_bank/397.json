@@ -1,0 +1,12 @@
+{
+    "question": "What geographic factor best explains why the air over Boston contains high moisture most of the year?",
+    "content": {
+        "source_1": "Boston is a coastal city on Massachusetts Bay, directly adjacent to the Atlantic Ocean, so marine air masses are readily able to influence local conditions.",
+        "source_2": "The Gulf Stream transports warm water northward in the western North Atlantic and maintains relatively high sea-surface temperatures offshore, which enhances evaporation over those waters.",
+        "source_3": "Along the New England coast, sea breezes in warm months and onshore flow during coastal storms (e.g., nor’easters) frequently advect moist maritime air inland over Boston.",
+        "source_4": "In the mid-latitudes, the prevailing low-level winds are westerlies, so New England often experiences air arriving from the continental interior rather than directly from the ocean except during specific coastal setups.",
+        "source_5": "For many humidity surges and precipitation events along the U.S. East Coast, trajectory analyses show the bulk of atmospheric moisture originates in the Gulf of Mexico and the subtropical western Atlantic, transported northward by low-level jets and synoptic southerly flow.",
+        "source_6": "The Gulf of Maine and adjacent New England shelf waters are relatively cold for much of the year due to cold-current influence and wintertime heat loss, which suppresses local evaporation compared with subtropical waters."
+    },
+    "answer": "Boston is close to an ocean."
+}

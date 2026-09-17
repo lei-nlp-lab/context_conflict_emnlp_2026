@@ -1,0 +1,12 @@
+{
+    "question": "If groundwater in a dry area is pumped out and not replaced, what land feature is most likely to form?",
+    "content": {
+        "source_1": "Many arid-region aquifers store “fossil water” that infiltrated thousands to tens of thousands of years ago; because modern recharge is minimal, heavy pumping lowers the water table and sharply reduces groundwater availability.",
+        "source_2": "Desertification is a land-degradation process in which long-term reductions in water availability and loss of vegetation make drylands more desert-like; overextraction of groundwater in arid and semi-arid regions is a documented driver of desertification.",
+        "source_3": "Deserts are characterized by extremely limited available water; as groundwater and soil moisture decline in dry regions, ecosystems tend to shift toward desert conditions.",
+        "source_4": "In karst and other soluble-rock terrains, a falling water table from groundwater withdrawal removes buoyant support for subsurface cavities, and roof collapses can produce sinkholes at the surface.",
+        "source_5": "Prolonged groundwater pumping compacts aquifer sediments and causes land subsidence and earth fissures; this outcome is well documented in dry regions such as Arizona’s basins and California’s San Joaquin Valley.",
+        "source_6": "Where fossil groundwater is not naturally replenished, observed geologic consequences of continued withdrawals include subsidence bowls, ground cracking, and sudden sinkhole formation."
+    },
+    "answer": "desert"
+}

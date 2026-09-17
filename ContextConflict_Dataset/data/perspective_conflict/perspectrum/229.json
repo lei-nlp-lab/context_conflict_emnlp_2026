@@ -1,0 +1,11 @@
+{
+    "question": "Should the European Union adopt a single working language through which to operate?",
+    "content": {
+        "source_1": "European Commission, Directorate‑General for Translation (DGT) — “Translation in the European Commission: facts and figures” (webpage/factsheet). Evidence: The EU’s language services cost less than 1% of the EU budget — roughly about €2 per citizen per year — framing multilingual operation as relatively affordable rather than prohibitively expensive.",
+        "source_2": "European Central Bank — Rules of Procedure (as amended). Evidence: The ECB designates English as its working language, illustrating that an EU institution can function effectively with a single internal working language while still ensuring broader multilingual communication where required.",
+        "source_3": "European Commission — Special Eurobarometer 386: Europeans and their Languages (2012). Evidence: Only 38% of EU citizens report being able to hold a conversation in English, and 46% say they cannot converse in any foreign language, indicating that a single working language could exclude large segments of the public from direct access.",
+        "source_4": "Ginsburgh, V. and Weber, S. (2011). “How Many Languages Make Sense? The Economics of Multilingualism” (Princeton University Press). Evidence: Economic modeling shows a single language maximizes efficiency but shifts costs and confers “native‑speaker rents”; a limited multilingual regime (e.g., a small set of languages) often yields a better equity–efficiency balance.",
+        "source_5": "Court of Justice of the European Union — Case 283/81, CILFIT and Others (1982). Evidence: The Court held that all authentic language versions of EU law must be considered because divergences can occur, underscoring the legal complexity and interpretative burden of full multilingualism that a single authoritative language could, in principle, reduce.",
+        "source_6": "European Commission — eTranslation (CEF Digital) service documentation. Evidence: The EU’s neural machine translation system supports all official EU languages across institutions and public administrations, speeding multilingual workflows and lowering costs, thereby diminishing the operational argument for adopting a single working language."
+    }
+}

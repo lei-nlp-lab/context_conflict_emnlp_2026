@@ -1,0 +1,17 @@
+{
+  "qid": 64095,
+  "question": "What does GKT refer to?",
+  "ambiguous_entity": "GKT",
+  "content": {
+    "source_1": "1892 and 1897 they were undefeated in the competition. In 1892 the team was regarded by contemporaries as \"the only hospital which has so far mastered a scientific game, or which has been able to hold its own in first-class company.\" Eleven international players have won their caps whilst playing for St Thomas' from J H Dewhurst in 1887 to M A Smith in 1970. A further 18 club members have played for the Barbarians. In 1982 the Medical Schools of Guy's and St Thomas' Hospitals merged creating the United Medical and Dental Schools (\"UMDS\") and this in turn led",
+    "source_2": "King's College London GKT School of Medical Education King's College London GKT School of Medical Education (abbreviated: GKT) is the medical school of King's College London. It is the biggest healthcare training facility in Europe. The school has campuses at three institutions, Guy's Hospital (Southwark), King's College Hospital (Denmark Hill) and St Thomas' Hospital (Lambeth) in London. The school in its current guise was formed following a merger with the \"United Medical and Dental Schools of Guy's and St Thomas' Hospitals\" on 1 August 1998. The medical school has an annual intake of around 335 places on the standard MBBS"
+  },
+  "content_pid": [
+    "6504016",
+    "1385144"
+  ],
+  "answer": [
+    "Guy's, Kings and St Thomas' Rugby Football Club",
+    "King's College London GKT School of Medical Education"
+  ]
+}

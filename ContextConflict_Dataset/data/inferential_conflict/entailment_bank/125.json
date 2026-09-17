@@ -1,0 +1,12 @@
+{
+    "question": "What forms both canyons and valleys?",
+    "content": {
+        "source_1": "Running water erodes bedrock and soil to cut V-shaped valleys in upland terrain; streams progressively downcut and widen these valleys.",
+        "source_2": "Deep, narrow canyons commonly form by long-term river incision; the Grand Canyon is a classic example of canyon formation by a river.",
+        "source_3": "Glaciers erode landscapes by abrasion and plucking, carving broad U-shaped valleys and fjords in mountain ranges.",
+        "source_4": "Canyons are typically products of fluvial incision, whereas glacial scouring produces U-shaped troughs rather than narrow canyons.",
+        "source_5": "In many formerly glaciated mountains, the primary valley morphology is glacial in origin; modern rivers mainly reoccupy and rework these glacial troughs.",
+        "source_6": "Some large valleys originate from tectonic extension (rift valleys), which form by faulting rather than by river erosion."
+    },
+    "answer": "rivers"
+}

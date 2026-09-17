@@ -1,0 +1,20 @@
+{
+  "qid": 30251,
+  "question": "What was the Manchester Exchange?",
+  "ambiguous_entity": "Manchester Exchange",
+  "content": {
+    "source_1": "Manchester Exchange (UK Parliament constituency) Manchester Exchange was a parliamentary constituency in the city of Manchester. It returned one Member of Parliament (MP) to the House of Commons of the Parliament of the United Kingdom, elected by the first past the post system. The constituency was created for the 1918 general election and abolished for the February 1974 general election. 1918-1950: The County Borough of Manchester wards of Cheetham, Collegiate Church, Exchange, Oxford, St Ann's, St Clement's, and St John's, and part of St Michael's ward. 1950-1955: The County Borough of Manchester wards of All Saints, Exchange, Medlock Street, Oxford,",
+    "source_2": "Manchester Exchange railway station Manchester Exchange was a railway station in Salford, England, immediately north of Manchester city centre, which served the city between 1884 and 1969. The main approach road ran from the end of Deansgate near Manchester Cathedral, passing over the River Irwell, the Manchester-Salford boundary, and Chapel Street; a second approach road led up from Blackfriars Road. Most of the station was in Salford, with only the 1929 extension to Platform 3 east of the Irwell in Manchester. The station was built by the London and North Western Railway (LNWR) and opened on 30 June 1884. The",
+    "source_3": "play was performed as part of the Manchester International Festival 2007. In 2008 the Exchange and Bruntwood ran a second competition. Judges included Brenda Blethyn, Michael Sheen, Roger Michell and actor/director Richard Wilson. The £40,000 prize fund was split equally between Vivienne Franzmann for \"Mogadishu\" (main house and Lyric Hammersmith 2011), Fiona Peek for \"Salt\" (The Studio 2010), Andrew Sheridan for \"Winterlong\" (The Studio, 2011) and Naylah Ahmed for \"Butcher Boys\". Royal Exchange, Manchester The Royal Exchange is a grade II listed building in Manchester, England. It is located in the city centre on the land bounded by St Ann's"
+  },
+  "content_pid": [
+    "9335334",
+    "7262715",
+    "3701716"
+  ],
+  "answer": [
+    "A parliamentary constituency",
+    "A railway station in Salford, England",
+    "A grade II listed building in Manchester, England"
+  ]
+}

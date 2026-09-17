@@ -1,0 +1,17 @@
+{
+  "qid": 9380,
+  "question": "What was Harold Briggs' role during World War I?",
+  "ambiguous_entity": "Harold Briggs",
+  "content": {
+    "source_1": "was appointed Officer-in-Command of Air Stations under the Admiral Commanding the East Coast of England. Later that year he joined the staff of the Inspecting Captain of Air Training. In November Briggs was promoted to acting wing captain and the following January he became the Inspecting Captain of Air Training himself. After only three months in post Briggs was reassigned again, this time as the Officer Commanding RNAS Vendome, a Royal Naval Air Service flight training school in France. In September 1917 he was recalled to his former post and again served as Inspecting Captain of Air Training. By the",
+    "source_2": "papers in 1914. Educated at Bedford School, he then became a cadet at the Royal Military College, Sandhurst. In 1915, after an initial appointment to the Indian Army was cancelled, he was commissioned into the King's Regiment (Liverpool) and fought with the regiment in France. In 1916 he transferred to the Indian Army, joining the 31st Punjabis (which in 1922 became the 2nd Battalion, 16th Punjab Regiment), fighting in Mesopotamia and later in Palestine. In September 1917 he was appointed to command one of the 31st Punjabi's companies in the rank of acting captain, and was attached to the 152nd"
+  },
+  "content_pid": [
+    "16970959",
+    "10547860"
+  ],
+  "answer": [
+    "Officer-in-Command of Air Stations, Inspecting Captain of Air Training, Officer Commanding RNAS Vendome",
+    "Commissioned into the King's Regiment (Liverpool), joined the Indian Army, commanded one of the 31st Punjabi's companies in the rank of acting captain"
+  ]
+}

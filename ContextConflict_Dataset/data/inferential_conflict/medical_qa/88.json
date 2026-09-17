@@ -1,0 +1,14 @@
+{
+    "question": "A 25-year-old woman is brought to the emergency department after being involved in a rear-end collision, in which she was the restrained driver of the back car. On arrival, she is alert and active. She reports pain in both knees and severe pain over the right groin. Temperature is 37В°C (98.6В°F), pulse is 116/min, respirations are 19/min, and blood pressure is 132/79 mm Hg. Physical examination shows tenderness over both knee caps. The right groin is tender to palpation. The right leg is slightly shortened, flexed, adducted, and internally rotated. The remainder of the examination shows no abnormalities. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The mechanism of injury, coupled with the patient's specific symptomatology, is indicative of a particular type of hip injury. The patient was involved in a rear-end collision, a common scenario for hip dislocations due to the forces involved in such accidents. Moreover, her clinical presentation of the right leg being shortened, flexed, adducted, and internally rotated is a classic presentation of a posterior hip dislocation. The high-energy impact of the accident forces the hip joint to move backwards out of the socket, causing the leg to assume this characteristic position. This scenario, combined with the fact that she has severe pain in the right groin - the area directly overlying the hip joint - leads to the diagnosis of a posterior hip dislocation.",
+        "source_2": "The prior probability of a femoral neck fracture in this context may be around 5%. The patient was involved in a motor vehicle accident, which increases the posterior probability to around 20% given the mechanism of injury can often lead to such fractures. The patient reports severe pain over the right groin which further increases the probability of femoral neck fracture to 40%. Physical examination findings of a shortened, flexed, adducted, and internally rotated leg - typical of a femoral neck fracture - further increases the probability to about 70%. Given these factors, a femoral neck fracture is the most likely diagnosis in this patient."
+    },
+    "answer": [
+        "Posterior hip dislocation"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

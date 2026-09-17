@@ -1,0 +1,12 @@
+{
+    "question": "Which organisms can cause chemical weathering of rocks by producing acid from their roots?",
+    "content": {
+        "source_1": "Carbonic acid formed when CO2 dissolves in soil water is a major driver of chemical weathering of silicate and carbonate minerals; higher soil CO2 partial pressure accelerates mineral dissolution rates.",
+        "source_2": "In many vegetated ecosystems, plant root respiration contributes a large share of soil CO2 production—and during the growing season can account for more than half of total soil respiration—thereby strongly influencing soil acidity.",
+        "source_3": "Lichens commonly colonize bare rock surfaces and exude organic acids that etch and dissolve minerals, making them important biological agents of chemical weathering on exposed rock.",
+        "source_4": "Most chemical alteration of bedrock occurs within soils and saprolite rather than on bare rock outcrops, because soils have higher CO2 levels, longer water residence times, and much greater reactive surface area.",
+        "source_5": "Soil microorganisms (bacteria and fungi) produce organic acids, chelators (e.g., siderophores), and mediate redox reactions (Fe, S, Mn), processes that substantially enhance mineral dissolution and chemical weathering in soils.",
+        "source_6": "Globally, vegetated, soil-covered land dominates the continental surface area, while bare rock outcrops occupy a comparatively small fraction."
+    },
+    "answer": "mosses"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 26721,
+  "question": "What is the significant event associated with Bernard de Balliol?",
+  "ambiguous_entity": "Bernard de Balliol",
+  "content": {
+    "source_1": "Bernard II de Balliol Bernard II de Balliol (died c. 1190) was the fourth and youngest son of Bernard I de Balliol, lord of Balliol and Barnard Castle. Bernard appears to have succeeded his older brother Guy II de Balliol to the Balliol estates sometime between the early 1160s and 1167. Bernard is most famous for his role in the capture of William the Lion, King of the Scots, near Alnwick in 1174. Bernard, described as a \"man noble and high-spirited\", was said by William of Newburgh to have originated and led the attack on the Scottish king that led",
+    "source_2": "Bernard I de Balliol Bernard I de Balliol (died 1154 x 1162), the second known ruling Balliol of his line, was a twelfth-century Anglo-Picard baron based for much of his time in the north of England, as well as at Bailleul-en-Vimeu close to Abbeville in northern France. He was the nephew and next known successor of Guy I de Balliol, the first Balliol in England. Bernard had succeeded to the lordships of his uncle by 1130 × 1133; during The Anarchy, perhaps in 1135, he appears to have sworn homage to David I, King of the Scots, who had taken"
+  },
+  "content_pid": [
+    "11478322",
+    "11478133"
+  ],
+  "answer": [
+    "capture of William the Lion, King of the Scots",
+    "succeeded to the lordships of his uncle by 1130 × 1133. Perhaps in 1135, he appears to have sworn homage to David I, King of the Scots"
+  ]
+}

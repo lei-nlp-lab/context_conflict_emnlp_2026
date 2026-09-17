@@ -1,0 +1,17 @@
+{
+  "qid": 823,
+  "question": "Which denomination does the Sligo Cathedral belong to?",
+  "ambiguous_entity": "Sligo Cathedral",
+  "content": {
+    "source_1": "Cathedral of the Immaculate Conception, Sligo \"This article refers to the Roman Catholic cathedral. For the Church of Ireland cathedral, see St John the Baptist Cathedral, Sligo.\" The Cathedral of the Immaculate Conception on Temple Street in Sligo, Ireland, is the cathedral church of the Roman Catholic Diocese of Elphin. The man responsible for the development of the Cathedral was Bishop Laurence Gillooly appointed Bishop of Elphin in 1858. He decided that the diocese was now of a size and wealth that the time had come to replace St. John’s Parish Chapel which had been recognised as the Pro Cathedral",
+    "source_2": "St John the Baptist Cathedral, Sligo \"This article refers to the Church of Ireland cathedral. For the Roman Catholic cathedral, see Cathedral of the Immaculate Conception, Sligo\" St John the Baptist Cathedral, Sligo or more properly the Cathedral of St Mary the Virgin and St John the Baptist, Sligo but also known as Sligo Cathedral is one of two cathedral churches in the diocese of Kilmore, Elphin and Ardagh (the other is St Fethlimidh's Cathedral, Kilmore) in the Church of Ireland. It is situated in the town of Sligo, Ireland in the ecclesiastical province of Armagh. The church was built"
+  },
+  "content_pid": [
+    "15712911",
+    "16793865"
+  ],
+  "answer": [
+    "Roman Catholic",
+    "Church of Ireland"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 1559,
+  "question": "What is the location of Srinagar?",
+  "ambiguous_entity": "Srinagar (disambiguation)",
+  "content": {
+    "source_1": "Sreenagar Upazila Sreenagar () is an Upazila of Munshiganj District in the Division of Dhaka, Bangladesh. Sreenagar is located at . It has 36344 households and total area 202.98 km². As of the 1991 Bangladesh census, Sreenagar has a population of 205797. Males constitute 49.88% of the population, and females 50.12%. This Upazila's eighteen up population is 99514. Sreenagar has an average literacy rate of 39.1% (7+ years), and the national average of 32.4% literate. Sreenagar has 14 Unions/Wards, 102 Mauzas/Mahallas, and 147 villages. These Unions are= 1.Atpara 2.Baghra 3.Baraikhali 4.Bhagyakul 5.Birtara 6.Hasara 7.Kolapara 8.Kukutia 9.Patabhog 10.Rarikhal 11.Sreenagar 12.Sholaghar 13.Shyamsiddhi",
+    "source_2": "Srinagar, Uttarakhand \"Not to be confused with another Srinagar, the summer capital of Jammu and Kashmir\" Srinagar is municipal board in Pauri Garhwal district in the Indian state of Uttarakhand. Srinagar is located at . at the left bank of Alaknanda river. It has an average elevation of 560 metres (1,837 feet). It is the largest town in the Garhwal Hills. It is reached by national highway NH58 from Rishikesh, Srinagar is about 100 km from Rishikesh which is the last city on the plains of Uttarakhand and from where the mountains start. Srinagar can also be reached via Kotdwara,",
+    "source_3": "Additional structures include the Dastgeer Sahib shrine, Mazar-e-Shuhada, Roza Bal shrine, Khanqah of Shah Hamadan, Pathar Masjid (\"The Stone Mosque\"), Hamza Makhdoom shrine, tomb of the mother of Zain-ul-abidin, tomb of Pir Haji Muhammad, Akhun Mulla Shah Mosque, cemetery of Baha-ud-din Sahib, tomb and Madin Sahib Mosque at Zadibal. The Sheikh Bagh Cemetery is a Christian cemetery located in Srinagar, Jammu and Kashmir, India that dates from the British colonial era. The oldest grave in the cemetery is that of a British colonel from the 9th Lancers of 1850 and the cemetery is valued for the variety of persons buried"
+  },
+  "content_pid": [
+    "9707937",
+    "8985030",
+    "2011394"
+  ],
+  "answer": [
+    "Munshiganj District in the Division of Dhaka, Bangladesh",
+    "Pauri Garhwal district in the Indian state of Uttarakhand",
+    "Jammu and Kashmir, India"
+  ]
+}

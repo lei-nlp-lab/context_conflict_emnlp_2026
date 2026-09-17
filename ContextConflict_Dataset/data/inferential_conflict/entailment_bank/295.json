@@ -1,0 +1,12 @@
+{
+    "question": "What effect does recycling aluminum have on the amount of waste sent to landfills in communities?",
+    "content": {
+        "source_1": "Using recycled aluminum instead of primary aluminum uses up to 95% less energy, substantially lowering production costs; in competitive markets, lower production costs tend to lead to lower prices for aluminum-containing goods.",
+        "source_2": "Aluminum containers can be melted and remanufactured into new products without significant loss of quality.",
+        "source_3": "Aluminum is one of the most widely and repeatedly recycled consumer packaging materials, with established collection and remelting infrastructure.",
+        "source_4": "Municipal curbside recycling programs bear significant costs for collection, sorting, and contamination control; when commodity prices are weak, revenue from selling recovered materials, including aluminum, often fails to cover those costs, creating budget gaps.",
+        "source_5": "Municipal budget gaps from solid-waste and recycling operations are commonly closed via higher service fees or taxes assessed on residents and local businesses.",
+        "source_6": "Prices for recyclable commodities, including aluminum scrap, are volatile and can decline for extended periods due to global market shifts, making municipal recycling revenues uncertain."
+    },
+    "answer": "People will add less to landfills."
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Among solid organ transplant recipients with acute respiratory failure, does noninvasive positive pressure ventilation improve oxygenation and reduce the need for intubation and ICU mortality compared with standard therapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "Over time, a sustained improvement in PaO2 to FIO2 was noted in 12 patients (60%) in the NIV group, and in 5 patients (25%) randomized to standard treatment (P = .03).",
+        "source_2": "Conclusions In this cohort, noninvasive ventilation neither predicted nor improved outcomes in recipients with post-transplant respiratory compromise; consequently, routine use of NIV was not recommended for acute respiratory failure management.",
+        "source_3": "The use of NIV was associated with a significant reduction in the rate of endotracheal intubation (20% vs 70%; P = .002), rate of fatal complications (20% vs 50%; P = .05), length of stay in the intensive care unit by survivors (mean [SD] days, 5.5 [3] vs 9 [4]; P = .03), and intensive care unit mortality (20% vs 50%; P = .05).",
+        "source_4": "During the initial 60 minutes of care, improvement in the PaO2/FIO2 ratio was more frequent with standard therapy than with NIV (70% vs 25%), indicating no early physiologic benefit of noninvasive support."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

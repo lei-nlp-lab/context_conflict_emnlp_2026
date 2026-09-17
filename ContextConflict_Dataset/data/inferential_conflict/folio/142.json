@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Jack can be deprived of their rights without due process of law.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who knows breadth-first search (BFS) knows how to use a queue.",
+        "source_2": "If someone is a seasoned Google software engineer interviewer, they know BFS.",
+        "source_3": "Someone is either a seasoned Google software engineer interviewer, has human rights, or both.",
+        "source_4": "Anyone who has human rights is entitled to the right to life and liberty.",
+        "source_5": "Anyone who knows how to use a queue knows about the first-in, first-out (FIFO) data structure.",
+        "source_6": "Anyone entitled to the right to life and liberty cannot be deprived of their rights without due process of law.",
+        "source_7": "Jack either is entitled to the right to life and liberty, has human rights, or knows about FIFO.",
+        "source_8": "In a declared state of emergency, due process requirements may be temporarily suspended for certain deprivations of liberty.",
+        "source_9": "Jack is currently subject to a declared state of emergency."
+    },
+    "answer": "Uncertain"
+}

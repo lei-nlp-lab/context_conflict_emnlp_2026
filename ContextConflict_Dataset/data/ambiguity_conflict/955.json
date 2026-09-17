@@ -1,0 +1,23 @@
+{
+  "qid": 16577,
+  "question": "What is Shafter known for?",
+  "ambiguous_entity": "Shafter",
+  "content": {
+    "source_1": "Fort Shafter Fort Shafter is in Honolulu CDP, City and County of Honolulu, Hawai‘i, extending up the interfluve (ridgeline) between Kalihi and Moanalua valleys, as well as onto the coastal plain (as Shafter Flats) at Māpunapuna. Fort Shafter is the headquarters of the United States Army Pacific, commanding most Army forces in the Asia-Pacific region with the exception of Korea. A portion of the area is also known as the Palm Circle Historic District and is listed on the National Register of Historic Places, and has been further designated as a U.S. National Historic Landmark. It is also known as",
+    "source_2": "listed on the National Register of Historic Places as the Shafter Historic Mining District. Tucked in the Chinati Mountains on Cibolo Creek, 18 miles north of Presidio, Shafter was once a bustling mining town with a population as high as 4000, in 1940. In 1880 or 1881, John Spencer found silver deposits near this location. Capt. (later Gen.) William R. Shafter, stationed at Fort Davis and he collaborated to establish the mining operation. This operation consisted of the Cibolo Creek Mill & Mining Co. and the Presidio Mining Co., both of which were consolidated as the Presidio Mining Co. The",
+    "source_3": "1855, he then moved to San Francisco, California, where he practiced law with his brother, Oscar L. Shafter. In 1857, a complex real estate litigation resulted in the Shafter firm winning a victory for their client of 75,000 acres of farm land at Point Reyes in Marin County. The client sold the property to the Shafters. They leased it to dairy farmers who provided milk and butter to an ever-growing San Francisco and prospered. The Shafter families owned most of Point Reyes from 1857 to 1919, when the land was sold in parcels. In 1862, Shafter served in the California",
+    "source_4": "He led the 24th Infantry, another United States Colored Troops regiment, in campaigns against the Cheyenne, Comanche, Kickapoo and Kiowa Indians in Texas. While commander of Fort Davis, he started a controversial court-martial of second lieutenant Henry Flipper, the first black cadet to graduate from West Point. In May 1897 he was appointed as a brigadier general. Just before the outbreak of the Spanish–American War, Shafter was commander of the Department of California. Shafter was an unlikely candidate for command of the expedition to Cuba. He was aged 63, weighed over 300 pounds and suffered from gout. Nevertheless, he received"
+  },
+  "content_pid": [
+    "3425226",
+    "11871488",
+    "15125849",
+    "541020"
+  ],
+  "answer": [
+    "Headquarters of the United States Army Pacific",
+    "A bustling mining town with a population as high as 4000, in 1940",
+    "75,000 acres of farm land at Point Reyes in Marin County",
+    "24th Infantry, another United States Colored Troops regiment, in campaigns against the Cheyenne, Comanche, Kickapoo and Kiowa Indians in Texas"
+  ]
+}

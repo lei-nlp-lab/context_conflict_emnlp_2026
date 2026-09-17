@@ -1,0 +1,20 @@
+{
+  "qid": 58700,
+  "question": "What is the notable feature of Kent Island?",
+  "ambiguous_entity": "Kent Island (disambiguation)",
+  "content": {
+    "source_1": "public domain just hours before the Bolinas Harbor District would have acted to condemn the island in court to stop Marin County's conservation effort. The island became a part of Gulf of the Farallones National Marine Sanctuary in 1981. In 1998 Bolinas Lagoon was declared one of 17 Wetlands of International Importance in the USA by UNESCO. There are ongoing concerns that the waters around the island are gradually silting, affecting both human activity as well as the flora and fauna of the area. In 2009, the Marin County Open Space District and County of Marin were funded through NOAA",
+    "source_2": "Kent Island (Queensland) Kent Island is an island in the Australian state of Queensland located about 80 km North of Dunk Island and east of the Cowley Beach Training area and north of the South Barnard Islands. North west of Kent Island is Jessie Island, Hutchinson Island and Bresnahan Island. The island is part of the North Barnard Islands which includes a total of five islands. These islands are high continental islands which rise from the seafloor. The waters around the island were inhabited by the Mamu people. A small lighthouse was built on the island in 1897. Kent Island",
+    "source_3": "Kent Island Research Facility The Kent Island Research Facility is a U.S. National Security Agency facility located on Kent Island, Maryland, near the town of Chester. The facility was established in 1961 to conduct research on very high frequency and microwave antenna systems—specifically, on problems associated with anomalous propagation in communications interception. According to James Bamford in 1983, the location consists of the NSA Propagation Research Laboratory, a single-story, white, windowless building that houses automatically operating, unattended equipment, as well as a small, white cinder-block \"control\" building surrounded in a barbed-wire fence. Near the control building are a number of"
+  },
+  "content_pid": [
+    "10903689",
+    "7822074",
+    "18143695"
+  ],
+  "answer": [
+    "Became a part of Gulf of the Farallones National Marine Sanctuary",
+    "Part of the North Barnard Islands. A small lighthouse was built on the island in 1897",
+    "1961 U.S. National Security Agency facility located on Kent Island, Maryland"
+  ]
+}

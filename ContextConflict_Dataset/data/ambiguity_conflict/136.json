@@ -1,0 +1,17 @@
+{
+  "qid": 54263,
+  "question": "What is the primary genre of \"The Curse of King Tut's Tomb\"?",
+  "ambiguous_entity": "The Curse of King Tut's Tomb",
+  "content": {
+    "source_1": "The Curse of King Tut's Tomb (1980 film) The Curse of King Tut's Tomb is a 1980 British-American mystery thriller film directed by Philip Leacock and starring Eva Marie Saint, Harry Andrews and Paul Scofield, with Tom Baker. The English archaeologist Howard Carter and his financier, Lord Carnarvon discover after years of search the grave of Tut-Ench-Amun. Rumors about a curse that invites to anyone who disturbs the peace grave circulate in public. For even the unscrupulous art collector Sabastian is after the legendary gold sarcophagus. The Curse of the Pharaoh seems to be effective, for there will be a",
+    "source_2": "The Curse of King Tut's Tomb (2006 film) The Curse of King Tut's Tomb (also known as The Curse of King Tut) is a 2006 fantasy adventure television film directed by Russell Mulcahy, starring Casper Van Dien, Leonor Varela, and Jonathan Hyde. In ancient Egypt, Tutankhamun, the boy pharaoh who is said to have died young, was actually sent by the sun god Ra to protect the people from the demon Set, who escaped from the Underworld and caused chaos in Egypt. With Ra's blessing, Tutankhamun manages to overcome Set and keep the demon under control by breaking an emerald"
+  },
+  "content_pid": [
+    "14138289",
+    "8559385"
+  ],
+  "answer": [
+    "Mystery thriller",
+    "Fantasy adventure television film"
+  ]
+}

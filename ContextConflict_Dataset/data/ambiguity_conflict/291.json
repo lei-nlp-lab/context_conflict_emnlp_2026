@@ -1,0 +1,20 @@
+{
+  "qid": 34275,
+  "question": "What is the primary cause of heart inflammation?",
+  "ambiguous_entity": "Heart inflammation",
+  "content": {
+    "source_1": "cardiomyopathy, including myocarditis, resulted in 354,000 deaths up from 294,000 in 1990. The initial descriptions of the condition are from the mid-1800s. The signs and symptoms associated with myocarditis are varied, and relate either to the actual inflammation of the myocardium or to the weakness of the heart muscle that is secondary to the inflammation. Signs and symptoms of myocarditis include the following: Since myocarditis is often due to a viral illness, many patients give a history of symptoms consistent with a recent viral infection, including fever, rash, diarrhea, joint pains, and easily becoming tired. Myocarditis is often associated with",
+    "source_2": "Pericarditis Pericarditis is inflammation of the pericardium (the fibrous sac surrounding the heart). Symptoms typically include sudden onset of sharp chest pain. The pain may also be felt in the shoulders, neck, or back. It is typically better sitting up and worsen when lying down or deep breathing. Other symptoms may include fever, weakness, palpitations, and shortness of breath. Occasionally onset of symptoms is gradual. The cause of pericarditis is believed to be most often due to a viral infection. Other causes include bacterial infections such as tuberculosis, uremic pericarditis, following a heart attack, cancer, autoimmune disorders, and chest trauma.",
+    "source_3": "blood cells. Complications may include valvular insufficiency, heart failure, stroke, and kidney failure. The cause is typically a bacterial infection and less commonly a fungal infection. Risk factors include valvular heart disease including rheumatic disease, congenital heart disease, artificial valves, hemodialysis, intravenous drug use, and electronic pacemakers. The bacterial most commonly involved are streptococci or staphylococci. Diagnosis is suspected based on symptoms and supported by blood cultures or ultrasound. The usefulness of antibiotics following dental procedures for prevention is unclear. Some recommend them in those at high risk. Treatment is generally with intravenous antibiotics. The choice of antibiotics is based"
+  },
+  "content_pid": [
+    "2597127",
+    "3199422",
+    "126582"
+  ],
+  "answer": [
+    "Myocarditis is often due to a viral illness",
+    "Cause is believed to be most often due to a viral infection",
+    "Bacterial infection"
+  ]
+}

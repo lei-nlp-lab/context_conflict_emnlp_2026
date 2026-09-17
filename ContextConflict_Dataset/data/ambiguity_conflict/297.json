@@ -1,0 +1,20 @@
+{
+  "qid": 24449,
+  "question": "What period of history is Giorgi III associated with?",
+  "ambiguous_entity": "Giorgi III",
+  "content": {
+    "source_1": "George III of Georgia George III () (died 27 March 1184), of the Bagrationi dynasty, was the King of Georgia from 1156 to 1184. His reign was part of what would be called the Georgian Golden Age – a historical period in the High Middle Ages, during which the Kingdom of Georgia reached the peak of its military power and development. George was the father of Queen Tamar the Great. He succeeded on his father Demetrius I's death in 1156. He changed his father's defensive policy into a more aggressive one and resumed offensive against the neighboring Seljuqid rulers in",
+    "source_2": "George III of Imereti George III () (died 1639), of the Bagrationi Dynasty, was a king of Imereti from 1605 to 1639. George was a natural half-brother of Rostom of Imereti on whose death he succeeded in 1605, but his authority was seriously challenged by the energetic prince of Mingrelia, Levan II Dadiani, whose increasing influence over the western Georgian polities George tried to restrict without any success. In 1623, Levan, with a combined Mingrelian-Abkhaziann army, inflicted a heavy defeat upon the royal troops. In his quest for allies, George established close ties with the influential eastern Georgian noble Giorgi",
+    "source_3": "George III of Guria Giorgi III Gurieli (; died 1684), of the Georgian House of Gurieli, was Prince of Guria from 1669 to 1684 and King of Imereti from 1681 to 1683. He was energetically involved in civil wars in western Georgian polities, which he sought to bring under his sway. He was killed in battle while trying to recover the lost throne of Imereti. Giorgi was the eldest son of Kaikhosro I, Prince-regnant of Guria. After the assassination of his father, Giorgi and his brother Malakia fled to the protection of the Ottoman pasha of Akhaltsikhe, whose help he"
+  },
+  "content_pid": [
+    "4653551",
+    "10590548",
+    "10879569"
+  ],
+  "answer": [
+    "High Middle Ages",
+    "1605 to 1639",
+    "17th century"
+  ]
+}

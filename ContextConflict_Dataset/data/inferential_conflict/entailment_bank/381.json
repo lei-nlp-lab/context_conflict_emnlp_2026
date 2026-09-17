@@ -1,0 +1,12 @@
+{
+    "question": "Which climate would result in the fastest chemical weathering of rocks: warm and moist or cold and dry?",
+    "content": {
+        "source_1": "Chemical weathering rates increase with higher temperatures and abundant liquid water, because reactions such as hydrolysis and solution proceed faster under warm, wet conditions.",
+        "source_2": "Equatorial tropical rainforests have year-round high temperatures, very high precipitation, and persistently moist soils and air.",
+        "source_3": "In warm, wet tropical climates, chemical weathering of bedrock is intense; lateritic soils commonly form, and textbooks identify the tropics as the climate zone with the fastest chemical weathering.",
+        "source_4": "The acidity of water strongly controls chemical weathering rates: carbonate minerals (e.g., calcite in limestone) dissolve far more rapidly at low pH than at neutral pH.",
+        "source_5": "Acid deposition from industrial SO2/NOx or volcanic emissions can create chronically acidic rain and fog, causing very rapid dissolution and decay of limestone and marble surfaces even in temperate regions.",
+        "source_6": "In urban–industrial areas underlain by carbonate bedrock and frequently exposed to acid deposition, measured surface recession rates of limestone/marble are high, indicating accelerated chemical weathering despite only moderate temperatures."
+    },
+    "answer": "warm and moist regions"
+}

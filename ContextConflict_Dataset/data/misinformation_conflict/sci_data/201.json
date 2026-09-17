@@ -1,0 +1,16 @@
+{
+    "question": "Do TLX1-positive T-cell acute lymphoblastic leukemias exhibit RUNX1 downregulation or recurrent loss-of-function RUNX1 mutations? Answer with Yes or No.",
+    "content": {
+        "source_1": "Notably, a network structure analysis of this hierarchical network identified RUNX1 as a key mediator of the T-ALL induced by TLX1 and TLX3 and predicted a tumor-suppressor role for RUNX1 in T cell transformation.",
+        "source_2": "Contrary to network-based predictions, integrative genomic profiling of TLX1-positive T-ALL did not detect recurrent RUNX1 loss-of-function events; RUNX1 mRNA and protein levels were maintained or elevated, and CRISPR-mediated disruption impaired cell viability, indicating an oncogenic dependency rather than downregulation or mutation.",
+        "source_3": "Overall, these results place TLX1 and TLX3 at the top of an oncogenic transcriptional network controlling leukemia development, show the power of network analyses to identify key elements in the regulatory circuits governing human cancer and identify RUNX1 as a tumor-suppressor gene in T-ALL.",
+        "source_4": "Longitudinal analysis of patient-derived TLX1 T-ALL xenografts showed progressive increases in RUNX1 expression with no deleterious sequence alterations and occasional copy-number gains at 21q22, arguing against RUNX1 downregulation or mutation in this subtype."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 51330,
+  "question": "Where is Elkins High School located?",
+  "ambiguous_entity": "Elkins High School",
+  "content": {
+    "source_1": "Elkins High School (Arkansas) Elkins High School is an accredited comprehensive public high school located in Elkins, Arkansas, United States. The school provides secondary education for students in grades 9 through 12. It is one of ten public high schools in Washington County, Arkansas and the sole high school administered by the Elkins School District. The current building was first constructed in the 1950s. Some of the older features of the building is a long east-west hallway, which was created after the building was extended to enclose one side, and the resulting low, sharply angled roof. The last significant architectural",
+    "source_2": "Elkins High School (West Virginia) Elkins High School (EHS) is a public high school located in Elkins, West Virginia, United States. The school serves students ranging from grades 9 through 12. The school has an enrollment of 933 students as of September, 2009. This makes it the 30th largest school by enrollment in the state, and the second largest (Behind Buckhannon-Upshur High School) within . The current building was constructed at a cost of $12.7 million by the site of the existing Randolph Vocational Technical Center, Midland Elementary School and adjacent to the Elkins-Randolph County Regional Airport. The architect, SEM"
+  },
+  "content_pid": [
+    "13339891",
+    "11654529"
+  ],
+  "answer": [
+    "Elkins, Arkansas, United States",
+    "Elkins, West Virginia, United States"
+  ]
+}

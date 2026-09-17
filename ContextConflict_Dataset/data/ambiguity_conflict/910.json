@@ -1,0 +1,17 @@
+{
+  "qid": 64035,
+  "question": "Who is the artist of \"The Videos\"?",
+  "ambiguous_entity": "The Videos",
+  "content": {
+    "source_1": "The Videos 1989–2004 The Videos 1989–2004 is a video album by American heavy metal band Metallica. It was released on December 4, 2006 worldwide, and on December 5 in North America. It features all of the band's videos from 1989 to 2004. The DVD sold 28,000 copies in its first week of release. The disc has been released by Warner Bros. Records, although this is not mentioned anywhere except for the packaging and on the label of the disc itself. Copyright is given to Elektra Entertainment and E/M Ventures in the liner notes and the end credits of the DVD.",
+    "source_2": "The Videos 1994–2001 The Videos 1994–2001 is a music video compilation by the Dave Matthews Band, released on August 21, 2001 on VHS and DVD. The compilation features all of the band's 12 music videos from their first four albums, from \"What Would You Say\" to \"The Space Between\", with the earliest released in 1995, contrary to the compilation's title. Each video features a Dolby Digital stereo and 5.1 surround sound mix, as well as an audio commentary by the video's director. The compilation also features a behind-the-scenes documentary for \"Don't Drink the Water\", \"Stay (Wasting Time)\", and \"I Did"
+  },
+  "content_pid": [
+    "8938666",
+    "11125381"
+  ],
+  "answer": [
+    "Metallica",
+    "Dave Matthews Band"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "When the remains of plants and animals are covered by layers of sediment over time, what do they become?",
+    "content": {
+        "source_1": "Rapid burial by layers of sediment protects dead organisms from scavengers and slows decay, creating conditions that commonly lead to fossilization.",
+        "source_2": "Mineral-rich groundwater moving through buried sediments can replace or infill tissues with minerals (permineralization), turning the remains into fossils.",
+        "source_3": "Over geologic time, the accumulating sediments lithify into sedimentary rock, which frequently preserves the fossilized remains within its layers.",
+        "source_4": "In acidic depositional settings (such as peat bogs or acid-sulfate soils), pore waters dissolve bone and shell material during diagenesis, so the buried remains can be destroyed before any fossil forms.",
+        "source_5": "In highly permeable, oxygenated sands, continuous groundwater flow accelerates microbial decay and chemical dissolution of buried remains, often leaving no fossil record in those strata.",
+        "source_6": "Deep burial that subjects sediments to elevated temperatures and pressures can metamorphose the rock and obliterate biological structures, erasing potential fossils from those layers."
+    },
+    "answer": "become a fossil"
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Susan is a college student.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every young adult at the event likes independence.",
+        "source_2": "Every college student at the event is a young adult.",
+        "source_3": "Every Yale student at the event is a college student.",
+        "source_4": "Everyone at the event is either a Yale student or a Harvard student.",
+        "source_5": "Every Harvard student at the event is diligent.",
+        "source_6": "Susan is at the event.",
+        "source_7": "If Susan is a Harvard student at the event, then she is a young adult at the event.",
+        "source_8": "If Susan is a Yale student at the event, then she does not like independence.",
+        "source_9": "Anyone at the event who likes independence is a young adult.",
+        "source_10": "No diligent person at the event is a young adult."
+    },
+    "answer": "Uncertain"
+}

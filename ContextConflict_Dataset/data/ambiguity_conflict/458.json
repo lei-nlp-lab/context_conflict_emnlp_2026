@@ -1,0 +1,17 @@
+{
+  "qid": 47475,
+  "question": "Which transportation services are available at the Old Town station?",
+  "ambiguous_entity": "Old Town station",
+  "content": {
+    "source_1": "delayed due to both unavailability of new subway cars and the lack of a test track. Construction of the station was complete by summer 1982, and in September 1983 Metro announced the station would open that December as the new cars would be ready for service. The station opened on December 17, 1983. Its opening coincided with the completion of of rail between National Airport and Huntington and the opening of the Braddock Road, Eisenhower Avenue and Huntington stations. An expansion to the station added a second entrance and mezzanine across Commonwealth Avenue from the existing mezzanine, with the new",
+    "source_2": "Old Town Transit Center The Old Town Transit Center is an intermodal transportation station located in the Old Town neighborhood of San Diego, California. It is served by the San Diego Trolley, Coaster commuter rail, and Amtrak's \"Pacific Surfliner\", as well as numerous San Diego Metropolitan Transit System bus lines. The Old Town Transit Center was built in the early 1990s, and San Diego Trolley's North/South Line was extended here on June 16, 1996. In November 1997, the line, renamed the Blue Line, was extended into Mission Valley. When the Green Line service was introduced with the opening of the"
+  },
+  "content_pid": [
+    "3145549",
+    "8945900"
+  ],
+  "answer": [
+    "Metro subway",
+    "San Diego Trolley, Coaster commuter rail, and Amtrak's \"Pacific Surfliner\" bus lines. San Diego Metropolitan Transit System bus lines"
+  ]
+}

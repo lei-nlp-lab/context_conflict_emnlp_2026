@@ -1,0 +1,12 @@
+{
+    "question": "By what process does a hurricane negatively affect a coastline?",
+    "content": {
+        "source_1": "Hurricanes produce very high sustained winds and heavy rainfall over broad coastal areas.",
+        "source_2": "Strong storm surge and wave action from such storms are widely documented to erode sandy beaches and coastal dunes.",
+        "source_3": "The Chesapeake–Potomac hurricane of August 1933 came ashore at Ocean City, Maryland.",
+        "source_4": "Barrier-island hurricanes often drive overwash and inlet breaching that relocate sand landward and seaward, constructing flood- and ebb-tidal deltas.",
+        "source_5": "The 1933 storm cut a new tidal inlet through Fenwick Island at Ocean City (now Ocean City Inlet).",
+        "source_6": "Where new inlets and their deltas form, adjacent shorelines can experience net accretion as the deposited shoals weld onto the beach, rather than net erosion."
+    },
+    "answer": "causing erosion"
+}

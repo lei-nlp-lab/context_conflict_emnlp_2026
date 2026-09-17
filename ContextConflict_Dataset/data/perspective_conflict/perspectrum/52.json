@@ -1,0 +1,10 @@
+{
+    "question": "Should instant replay be used in Major League Baseball?",
+    "content": {
+        "source_1": "MLB.com — Replay Review: Regulations and Statistics (official page). MLB’s tracking shows that since expanded replay was introduced in 2014, a substantial share of manager challenges result in overturned calls (roughly in the mid-40% range in recent seasons), indicating replay corrects many on-field errors that would otherwise stand.",
+        "source_2": "Associated Press report on replay duration — coverage of MLB’s internal timing data. AP has reported that most MLB replay reviews are resolved in under two minutes (roughly around 90 seconds on average), suggesting the accuracy benefits come with relatively limited impact on overall game length.",
+        "source_3": "Washington Post (June 2010, reporting on Bud Selig’s stance after the Galarraga missed call). Then–Commissioner Bud Selig cautioned against expanding replay, citing the importance of baseball’s “human element” and concerns about disrupting the game’s rhythm—an enduring argument from traditionalists opposing broader replay use.",
+        "source_4": "FanGraphs analysis of MLB replay outcomes and standards (e.g., pieces discussing “call stands” and transparency). Analytical coverage has highlighted that many reviews end with “call stands” due to inconclusive video, and that limited transparency from the New York replay center can leave teams and fans dissatisfied—evidence that replay hasn’t eliminated controversy and may erode trust when explanations are unclear.",
+        "source_5": "New York Times (June 2010, Tyler Kepner) on Armando Galarraga’s near–perfect game. The high-profile blown call that cost Galarraga a perfect game is frequently cited as a compelling case for replay: a clear, game-defining mistake that technology could have corrected, bolstering arguments that replay enhances competitive fairness in crucial moments."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Is proteasome-dependent degradation of cyclin A2 during prometaphase required for the transition from unstable to stable kinetochore–microtubule attachments in mitosis? Answer with Yes or No.",
+    "content": {
+        "source_1": "The switch to more stable k-MT attachments in metaphase requires the proteasome-dependent destruction of cyclin A in prometaphase.",
+        "source_2": "Using high-resolution live-cell imaging and photoactivation-based turnover assays, we found that persistent cyclin A expression did not hinder the transition to stable k-MT attachments once chromosomes were aligned; attachment stability increased with normal kinetics despite elevated cyclin A.",
+        "source_3": "Depletion of cyclin A2 by siRNA failed to promote premature k-MT stabilization; instead, kinetochore microtubules remained highly dynamic throughout prometaphase and only stabilized after APC/C activation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

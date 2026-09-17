@@ -1,0 +1,14 @@
+{
+    "question": "Do mice lacking interferon-γ or the interferon-γ receptor show increased resistance to experimental autoimmune myocarditis compared with wild-type mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Although myocarditis subsided in wild-type mice after 3 weeks, IFN-gammaR(-/-) mice showed persistent disease.",
+        "source_2": "In BALB/c mice immunized with a peptide derived from cardiac alpha-myosin heavy chain, IFN-γ receptor–deficient animals exhibited only mild myocarditis with negligible mortality, consistent with heightened resistance to the induced autoimmune insult.",
+        "source_3": "These findings indicate that IFN-γ signaling exacerbates autoimmune myocarditis, whereas genetic ablation of IFN-γ or its receptor confers protection by limiting inducible nitric oxide synthase expression and restraining T-cell responses."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

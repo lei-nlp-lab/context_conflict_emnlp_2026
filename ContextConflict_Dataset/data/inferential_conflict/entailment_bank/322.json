@@ -1,0 +1,12 @@
+{
+    "question": "Which atmospheric phenomena result from charged particles interacting with Earth's magnetosphere?",
+    "content": {
+        "source_1": "The solar wind is a stream of charged particles from the Sun; Earth’s magnetosphere channels many of these particles along magnetic field lines toward the polar regions, where they can precipitate into the upper atmosphere.",
+        "source_2": "When energetic particles precipitate into the upper atmosphere, collisions excite oxygen and nitrogen, and their subsequent emissions produce auroral displays (aurora borealis and aurora australis).",
+        "source_3": "Sprites are large-scale transient luminous events that occur roughly 50–90 km above thunderstorms; they are triggered by intense positive cloud-to-ground lightning and involve rapidly propagating ionization fronts and streamers of charged particles in the mesosphere/ionosphere.",
+        "source_4": "The ionosphere is threaded by Earth’s magnetic field; charged particles there tend to move along magnetic field lines, and lightning-generated electromagnetic waves (e.g., whistlers) can propagate along these lines into and out of the magnetosphere, coupling thunderstorms to the upper atmosphere.",
+        "source_5": "Earth’s magnetic field largely shields low and mid latitudes from direct solar-wind particle entry; significant magnetospheric particle precipitation is concentrated in high-latitude auroral ovals.",
+        "source_6": "Sprites exhibit distinctive red emissions from excited molecular nitrogen at higher altitudes with filamentary tendrils extending downward, confirming they are upper-atmospheric optical phenomena linked to thunderstorm activity."
+    },
+    "answer": "auroras"
+}

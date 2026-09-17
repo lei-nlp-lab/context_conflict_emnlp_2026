@@ -1,0 +1,23 @@
+{
+  "qid": 12277,
+  "question": "What is a notable feature near Gunthorpe?",
+  "ambiguous_entity": "Gunthorpe",
+  "content": {
+    "source_1": "Gunthorpe, Nottinghamshire Gunthorpe is a small village and civil parish outside of Nottingham, England. The population of the civil parish as of the 2011 census is 752. Gunthorpe Bridge is the only bridge over the River Trent between Newark and Nottingham. Gunthorpe is in the Newark and Sherwood district. Gunthorpe also has five pubs/restaurants. Mediterraneo Italian (formerly The Anchor), Tom Browns, The Unicorn, The Bridge and Bayleaf (formerly The Toll House) and Biondi. There is a large motorhome and caravan centre called Lowdhams, built on the former Tarmac landfill site in 1991, a slightly smaller centre called Fuller Leisure, and",
+    "source_2": "rolling hills adjoining the River Gwash, approximately 2½ miles south of Oakham and on the western shores of Rutland Water, Gunthorpe has several footpaths and bridleways which offer some of the county's most enjoyable, all-year round views. The population of the civil parish remained less than 100 at the 2011 census and was included in the civil parish of Manton. The estate was sold by the Earl of Ancaster to Charles Harvey Dixon in 1906. Gunthorpe's oldest surviving building was built circa 1840. Now a farmhouse, the Durham Ox Inn was a popular haunt of the navvies and labourers engaged",
+    "source_3": "Gunthorpe, Norfolk Gunthorpe is a village and a civil parish in the English county of Norfolk. The village is 8.6 miles east north east of the town of Fakenham, 14.9 miles west south west of Cromer and 122 miles north north east of London. The nearest railway station is at Sheringham for the Bittern Line which runs between Sheringham, Cromer and Norwich. The nearest airport is Norwich International Airport. The village of Gunthorpe is situated in a shallow valley on the eastern side of the A148 King’s Lynn to Cromer road. At the centre of the village is a green",
+    "source_4": "Gunthorpe, Peterborough Gunthorpe is a residential area of the city of Peterborough in the United Kingdom. For electoral purposes it forms part of Paston and South Werrington wards. Geographically, Gunthorpe lies to the south of Werrington and north of Paston, with Fulbridge Road to the west; Car Dyke, the Roman ditch, straddles Gunthorpe's east side. The Local City Councillor for the Gunthorpe Ward Is Andrew Bond Building began in the 1950s and continued until the early 1990s. South Gunthorpe, politically a part of Paston, consists largely of council housing, the local school being Gunthorpe County Primary. The more affluent North"
+  },
+  "content_pid": [
+    "8830039",
+    "5493299",
+    "6752448",
+    "7247821"
+  ],
+  "answer": [
+    "Gunthorpe Bridge",
+    "Rutland Water, several footpaths and bridleways",
+    "The nearest airport is Norwich International Airport",
+    "Car Dyke, the Roman ditch, straddles Gunthorpe's east side"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What do earthquake waves transmit from one place to another?",
+    "content": {
+        "source_1": "In mechanical waves such as seismic waves, the disturbance carries energy through the medium while the medium’s particles oscillate about equilibrium rather than traveling with the wave.",
+        "source_2": "Seismographs record the oscillatory ground motion produced as seismic waves pass a station, capturing back-and-forth displacement, velocity, or acceleration of the ground.",
+        "source_3": "Strong seismic shaking can cause soil liquefaction; liquefied, saturated sands erupt as “sand boils,” and lateral spreading can transport soil masses horizontally by meters during an earthquake.",
+        "source_4": "Earthquakes frequently trigger landslides and rockfalls that move and redistribute large volumes of rock and soil downslope while the shaking is occurring.",
+        "source_5": "Geodetic observations (GPS/InSAR) show that large earthquakes produce co-seismic, permanent ground offsets of up to several meters, leaving material permanently displaced relative to its pre-event position.",
+        "source_6": "The energy released by an earthquake radiates outward as P waves, S waves, and surface waves that propagate through Earth’s interior and along its surface."
+    },
+    "answer": "energy"
+}

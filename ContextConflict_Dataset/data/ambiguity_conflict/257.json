@@ -1,0 +1,20 @@
+{
+  "qid": 34883,
+  "question": "When was Judge Trimble appointed to the United States District Court?",
+  "ambiguous_entity": "Judge Trimble",
+  "content": {
+    "source_1": "James Travis Trimble Jr. James Travis Trimble Jr. (born September 13, 1932) is a Senior United States District Judge of the United States District Court for the Western District of Louisiana. Born in Bunkie, Louisiana, Trimble received a Bachelor of Arts from Louisiana State University in 1955 and a Bachelor of Laws from Louisiana State University Law School in 1956. He was a United States Air Force JAG Corps officer from 1956 to 1959. He was in private practice in Aexandria, Louisiana from 1959 to 1986, and served as a United States Magistrate Judge for the United States District Court",
+    "source_2": "of the Kentucky Court of Appeals, where he was a colleague of future U.S. Attorney General Felix Grundy. He was offered elevation to chief justice of the court in 1810, but declined because his financial situation dictated that he return to his legal practice. President James Madison appointed Trimble U.S. Attorney for the District of Kentucky in 1813. On January 28, 1817, Madison nominated Trimble to a seat on the United States District Court for the District of Kentucky vacated by the death of Harry Innes. Trimble was quickly confirmed by the United States Senate on January 31, 1817, and",
+    "source_3": "Thomas Clark Trimble III Thomas Clark Trimble III (August 27, 1878 – July 6, 1965) was a United States federal judge. Born in Lonoke, Arkansas, Trimble received an LL.B. in 1902 from the University of Arkansas School of Law at Fayetteville. He was in private practice in Lonoke from 1902 to 1937. On June 17, 1937, Trimble was nominated by U.S. President Franklin D. Roosevelt to a seat on the United States District Court for the Eastern District of Arkansas vacated by John E. Martineau. Trimble was confirmed by the United States Senate, and received his commission on June 18,"
+  },
+  "content_pid": [
+    "13109864",
+    "13109868",
+    "13109872"
+  ],
+  "answer": [
+    "Senior United States District Judge of the United States District Court for the Western District of Louisiana",
+    "On January 28, 1817, Madison nominated Trimble to a seat on the United States District Court for the District of Kentucky",
+    "1937"
+  ]
+}

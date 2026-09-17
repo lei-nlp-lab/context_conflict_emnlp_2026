@@ -1,0 +1,12 @@
+{
+    "question": "Given that upper rock layers are younger than lower layers, what conclusion about horse size over time follows from finding shorter horse bones in lower layers and longer bones in upper layers?",
+    "content": {
+        "source_1": "In undisturbed sedimentary sequences, lower strata are older than the strata above them (principle of superposition).",
+        "source_2": "At the fossil sites in the canyon, bedding is subhorizontal and preserves upright way-up indicators (e.g., graded beds that fine upward, desiccation cracks tapering downward), with no mapped faults cutting the fossil-bearing interval; locally the section appears undisturbed.",
+        "source_3": "Measurements from the canyon show horse limb bones from lower layers are consistently shorter than horse limb bones from upper layers.",
+        "source_4": "Regional structural mapping places the fossil-bearing formation on the overturned limb of a large fold; way-up indicators measured along strike show tops-facing downward, indicating the stratigraphic package is inverted at formation scale through the fossil interval.",
+        "source_5": "Geochronology of two bracketing volcanic ash beds indicates the upper fossil horizon is older than the lower fossil horizon (the ash below the upper fossils dates older than the ash above the lower fossils), consistent with an inverted sequence.",
+        "source_6": "Paleontologists infer evolutionary trends within a lineage by comparing morphology across reliably ordered stratigraphic horizons; limb-bone length is a commonly used trait for such analyses."
+    },
+    "answer": "Horse's became larger over time."
+}

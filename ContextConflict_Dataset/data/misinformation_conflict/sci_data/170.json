@@ -1,0 +1,16 @@
+{
+    "question": "Does genetic ablation or disruption of osteocytes impair G-CSF–induced mobilization of hematopoietic stem/progenitor cells in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Granulocyte colony-stimulating factor (G-CSF), used clinically to mobilize HSPCs, induces changes in the morphology and gene expression of the osteocytic network that precedes changes in osteoblasts.",
+        "source_2": "In mice with conditional ablation of DMP1+ osteocytes, G-CSF administration produced typical elevations of circulating c-Kit+ Sca-1+ Lin− HSPCs, demonstrating that osteocytes are dispensable for mobilization.",
+        "source_3": "Mice with targeted ablation of osteocytes or a disrupted osteocyte network have comparable numbers of HSPCs in the BM but fail to mobilize HSPCs in response to G-CSF.",
+        "source_4": "Longitudinal imaging and transcriptomic profiling showed that neither acute nor prolonged G-CSF exposure altered osteocyte morphology or gene expression; HSPC egress correlated solely with osteoblast suppression and CXCL12 downregulation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

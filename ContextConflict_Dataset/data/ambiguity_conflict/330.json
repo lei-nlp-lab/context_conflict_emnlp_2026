@@ -1,0 +1,17 @@
+{
+  "qid": 40076,
+  "question": "What is the population of Winfield Township?",
+  "ambiguous_entity": "Winfield Township",
+  "content": {
+    "source_1": "Winfield Township, Lake County, Indiana Winfield Township is one of eleven townships in Lake County, Indiana. As of the 2010 census, its population was 10,054 and it contained 3,576 housing units. Winfield Township was established in 1843, and named for Winfield Scott. The John Ross Farm was listed in the National Register of Historic Places in 1996. According to the 2010 census, the township has a total area of , of which (or 98.72%) is land and (or 1.28%) is water. Winfield Township residents are eligible to obtain a free library card from the Crown Point Community Public Library in",
+    "source_2": "Winfield Township, Renville County, Minnesota Winfield Township is a township in Renville County, Minnesota, United States. The population was 252 at the 2000 census. Winfield Township was organized in 1878, and named for Winfield Scott (1786-1866), United States Army general and candidate for the presidency of the United States. According to the United States Census Bureau, the township has a total area of 36.6 square miles (94.7 km²); 36.5 square miles (94.6 km²) of it is land and 0.1 square miles (0.1 km²) of it (0.14%) is water. As of the census of 2000, there were 252 people, 90 households,"
+  },
+  "content_pid": [
+    "11034349",
+    "1122482"
+  ],
+  "answer": [
+    "10,054",
+    "252 at the 2000 census"
+  ]
+}

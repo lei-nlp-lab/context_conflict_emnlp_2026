@@ -1,0 +1,20 @@
+{
+  "qid": 9528,
+  "question": "What is the notable achievement of John Byng?",
+  "ambiguous_entity": "John Byng (disambiguation)",
+  "content": {
+    "source_1": "for Poole in Dorset and was one of the few military men who supported the Reform Bill, for which he was rewarded with a peerage. He was the third son of George Byng (1735–1789) of Wrotham Park in Middlesex (now in Hertfordshire) (eldest son of Robert Byng (1703-1740), Governor of Barbados) by his wife and Anne Conolly, whose mother was a daughter of Thomas Wentworth, 1st Earl of Strafford (1672-1739), (of the second creation of that title). His great-grandfather was Admiral George Byng, 1st Viscount Torrington (1663-1733) of Southill Park in Bedfordshire. He was educated at Westminster School. He was",
+    "source_2": "John Byng, 5th Viscount Torrington John Byng, 5th Viscount Torrington (18 February 1743 – 8 January 1813), styled for most of his lifetime \"The Hon. John Byng\" (before 1812), was a notable English diarist. His fifteen extant diaries, covering the years 1781–1794, describe his travels on horseback throughout England and Wales during twelve summers. He was a great-uncle of the politician Lord John Russell. He was the younger son of George Byng, 3rd Viscount Torrington, of Southill Park in Bedfordshire]]. On 14 December 1812 he succeeded in the viscountcy his elder brother, George Byng, 4th Viscount Torrington, but died before",
+    "source_3": "was rewarded by King George I with a viscountcy, being created Viscount Torrington. He entered the Royal Navy in March 1718, aged 13, when his father was a well-established admiral at the peak of a uniformly successful career. Early in his career John Byng was assigned to a series of Mediterranean postings. In 1723, aged 19, he was promoted lieutenant, and at 23, rose to become captain of HMS \"Gibraltar\". His Mediterranean service continued until 1739 and was without much action. In 1742 he was appointed Commodore-Governor of the British colony of Newfoundland. He was promoted to rear-admiral in 1745,"
+  },
+  "content_pid": [
+    "10201987",
+    "14113063",
+    "3018616"
+  ],
+  "answer": [
+    "He was one of the few military men who supported the Reform Bill, for which he was rewarded with a peerage",
+    "He was a notable English diarist. His fifteen extant diaries, covering the years 1781–1794, describe his travels on horseback throughout England and Wales during twelve summers",
+    "He was rewarded by King George I with a viscountcy, being created Viscount Torrington"
+  ]
+}

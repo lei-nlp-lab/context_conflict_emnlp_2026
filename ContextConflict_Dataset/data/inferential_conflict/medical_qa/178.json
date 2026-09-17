@@ -1,0 +1,14 @@
+{
+    "question": "A 5-year-old is brought into your office by his mother. His mother states that he is having 10-20 episodes per day where he stops responding to his mother and is found staring out of the window. During these periods, he blinks more frequently than normal, but returns to his normal self afterwards. These episodes last 30 to 60 seconds. His mother states that all of his milestones have been normal and he had an uncomplicated birth. His mother also denies any other recent illness. On exam, his vitals are normal. During one of these episodes in the office, his EEG shows three-per-second spike and wave discharge. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "The child is experiencing episodes of unresponsiveness, during which he stares out the window and blinks frequently. These episodes are brief, lasting 30 to 60 seconds. This description is suggestive of absence seizures, which are a type of generalized seizure commonly seen in children. The EEG findings of three-per-second spike and wave discharges are characteristic of absence seizures. Therefore, given the patient's symptoms and the EEG findings, the most likely diagnosis is absence seizures.",
+        "source_2": "The prior probability of childhood absence epilepsy (CAE) in a random child is low, but the provided clinical symptoms are quite specific. Starting from an initial prior probability of perhaps 1%, the episodes of staring, unresponsiveness, and blinking increase the posterior probability to perhaps 30%. The frequency and duration of these episodes, in the absence of any other neurologic findings or history of significant recent illness, further increase the posterior probability to perhaps 60%. His normal milestones and uncomplicated birth suggest a benign and not severely disabling disorder, again increasing the posterior probability to perhaps 75%. Finally, the finding of three-per-second spike-and-wave discharges on EEG during an episode is almost pathognomonic, taking the posterior probability up to perhaps 98% or more. This child most likely has childhood absence epilepsy."
+    },
+    "answer": [
+        "Absence seizures"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

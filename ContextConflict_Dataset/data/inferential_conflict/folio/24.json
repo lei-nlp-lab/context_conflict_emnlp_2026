@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Real Madrid ranks higher than Barcelona.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "In La Liga, a team that earns more points than another team ranks higher than that team.",
+        "source_2": "If two La Liga teams are tied on total points, the team that earned more points in their head-to-head games ranks higher.",
+        "source_3": "Real Madrid and Barcelona are La Liga teams.",
+        "source_4": "Real Madrid earned more total points than Barcelona.",
+        "source_5": "Real Madrid and Barcelona earned the same number of points in their head-to-head games.",
+        "source_6": "If two La Liga teams are tied on both total points and head-to-head points, the team with the better head-to-head goal difference ranks higher.",
+        "source_7": "Barcelona had a better goal difference than Real Madrid in their head-to-head games."
+    },
+    "answer": "True"
+}

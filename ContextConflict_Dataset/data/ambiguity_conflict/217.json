@@ -1,0 +1,17 @@
+{
+  "qid": 35744,
+  "question": "What is the primary goal of the WFCC?",
+  "ambiguous_entity": "WFCC",
+  "content": {
+    "source_1": "World Federation for Chess Composition The World Federation for Chess Composition (WFCC) is the highest body governing the official activities in the chess composition. It was known as the Permanent Commission of the FIDE for Chess Compositions (PCCC) from its inception in 1956 until October 2010. It is now independent from FIDE, but both organisations are cooperating. Currently 40 countries are represented in the WFCC. The principal goal and activities of the WFCC include: The WFCC is led by its President, currently Harry Fougiaxis, previously by Uri Avner, John Rice, Bedrich Formánek, Klaus Wenda, Jan Hannelius, Gerhard Jensch, Comins Mansfield,",
+    "source_2": "World Federation for Culture Collections The World Federation for Culture Collections is an international body formed under the umbrella of the International Union of Biological Sciences and a Federation within the International Union of Microbiological Societies. The WFCC operates as a clearing house for information on collections of microbiological specimens. It supports the development, maintenance and establishment of culture collections. The WFCC bylaws were published in 1972 in the International Journal of Systematic Biology (Int. J. Syst. Bacteriol., 22: 406-409, 1972) and updated several times since. One of its main activities is the support of the WFCC-MIRCEN World Data Centre"
+  },
+  "content_pid": [
+    "8719936",
+    "10975847"
+  ],
+  "answer": [
+    "The principal goal and activities of the WFCC include:",
+    "The WFCC operates as a clearing house for information on collections of microbiological specimens"
+  ]
+}

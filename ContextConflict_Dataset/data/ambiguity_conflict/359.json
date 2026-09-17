@@ -1,0 +1,20 @@
+{
+  "qid": 39061,
+  "question": "What is the defining characteristic of NIES?",
+  "ambiguous_entity": "NIES",
+  "content": {
+    "source_1": "Four Asian Tigers The Four Asian Tigers, Four Asian Dragons or Four Little Dragons, are the economies of Hong Kong, Singapore, South Korea and Taiwan, which underwent rapid industrialization and maintained exceptionally high growth rates (in excess of 7 percent a year) between the early 1960s (mid-1950s for Hong Kong) and 1990s. By the early 21st century, all four had developed into high-income economies, specializing in areas of competitive advantage. Hong Kong and Singapore have become world-leading international financial centres, whereas South Korea and Taiwan are world leaders in manufacturing electronic components and devices. Their economic success stories have served",
+    "source_2": "better living conditions and better lifestyles. Another characteristic that appears in newly industrialized countries is the further development in government structures, such as democracy, the rule of law, and less corruption. Other such examples of a better lifestyle people living in such countries can experience are better transportation, electricity, and better access to water, compared to other developing countries. The term came into use around 1970, when the Four Asian Tigers of Hong Kong, Singapore, South Korea, and Taiwan rose to global prominence as NICs in the 1970s and 1980s, with exceptionally fast industrial growth since the 1960s; all four",
+    "source_3": "and distribution network consists of 45,000 kilometers of overhead lines and underground cables, 75,000 pole mounted transformers and 258 major substations. As of 2018, NIE Networks transports power to over 840,000 business and domestic customers. NIE Networks operates the distribution network from a primary control centre based at Carn Industrial Estate, Craigavon, County Armagh. A secondary control centre in Omagh, County Tyrone, provides a disaster recovery facility, and control is regularly assigned to the Omagh control centre for testing. The primary control centre is staffed 24 hours a day, and adjoins the Customer Contact Centre and Dispatch room. Using the"
+  },
+  "content_pid": [
+    "1393993",
+    "1673429",
+    "3744976"
+  ],
+  "answer": [
+    "Rapid industrialization and maintained exceptionally high growth rates",
+    "Better living conditions, better transportation, better access to water, and better government structures",
+    "45,000 kilometers of overhead lines and underground cables"
+  ]
+}

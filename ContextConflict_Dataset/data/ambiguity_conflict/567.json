@@ -1,0 +1,17 @@
+{
+  "qid": 52081,
+  "question": "What is the primary function of the Academy of Military Science?",
+  "ambiguous_entity": "Academy of Military Science",
+  "content": {
+    "source_1": "Academy of Military Science (Russia) Academy of Military Science () is a Russian non-governmental research interregional public organization. Conducts basic and applied military research, and has headquarters in Moscow. Public organization \"Academy of Military Sciences\" was registered in the Ministry of Justice of the Russian Federation, June 3, 1994 (certificate of registration №2278). Creation of an organization approved February 20, 1995, decree of the President of the Russian Federation. Since its founding academic and Army General MA Gareev has been its president. Academy brings together leading scientists of the Armed Forces (AF), FSB, MVD, other security agencies and defense industries,",
+    "source_2": "Academy of Military Science (United States) The Academy of Military Science (AMS) is an 8-week (formerly 6 as of March 2014) officer commissioning program of the United States Air Force. AMS is held at Maxwell Air Force Base in Montgomery, Alabama, with the purpose of training and commissioning Air National Guard officers only. AMS was originally located at McGhee Tyson Air National Guard Base, outside Knoxville, Tennessee. It was moved to Maxwell in 2009. The move was initiated by a question in 2006 from the Chief of Staff of the Air Force about the potential of a \"shared common experience\""
+  },
+  "content_pid": [
+    "18080811",
+    "11142193"
+  ],
+  "answer": [
+    "Conducts basic and applied military research",
+    "An 8-week officer commissioning program of the United States Air Force"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In adults diagnosed with Alzheimer’s disease, does participation in a 6-month structured physical activity program improve cognitive function, with benefits persisting up to 18 months, compared with usual care or no intervention? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS In this study of adults with subjective memory impairment, a 6-month program of physical activity provided a modest improvement in cognition over an 18-month follow-up period.",
+        "source_2": "In a randomized controlled trial of patients with mild-to-moderate Alzheimer’s disease, six months of structured exercise failed to improve cognition at 18 months; the adjusted between-group difference on the ADAS-Cog was 0.2 points (95% CI, -1.1 to 1.5), indicating no sustained benefit.",
+        "source_3": "RESULTS In an intent-to-treat analysis, participants in the intervention group improved 0.26 points (95% confidence interval, -0.89 to 0.54) and those in the usual care group deteriorated 1.04 points (95% confidence interval, 0.32 to 1.82) on the ADAS-Cog at the end of the intervention.",
+        "source_4": "A longitudinal cohort analysis reported that initial gains after a 6-month physical activity regimen dissipated; by 18 months, global cognitive scores in the exercise group declined comparably to usual care (mean change -1.1 vs -1.0 points; P=0.78), arguing against durable cognitive improvement in Alzheimer’s."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

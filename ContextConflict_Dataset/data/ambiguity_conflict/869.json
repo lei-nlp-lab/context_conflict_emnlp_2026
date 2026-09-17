@@ -1,0 +1,17 @@
+{
+  "qid": 52665,
+  "question": "Which church does the Eparchy of Eastern America belong to?",
+  "ambiguous_entity": "Eparchy of Eastern America",
+  "content": {
+    "source_1": "Russian Orthodox Eparchy of Eastern America and New York The Russian Orthodox Eparchy of Eastern America and New York () is a diocese of the Russian Orthodox Church Outside Russia that is the see of its First Hierarch. Esteblishment of the Diocese is referred in ROCOR to 1934, when the Bishop Vitaly (Maximenko) arrived to U.S. In its present form the diocese was formed after November Cleveland Sobor in 1946 when clergy and laity of the Northern American Mitropolis adopted a resolution by which the Metropolitan District limit his contacts with the Moscow Patriarchate and the Synod of ROCOR. However,",
+    "source_2": "Serbian Orthodox Eparchy of Eastern America The Serbian Orthodox Eparchy of Eastern America or Serbian Orthodox Diocese of Eastern America () is a Serbian Orthodox Church diocese located in eastern region of the United States, and its current hierarch is Bishop Irinej Dobrijević. Its new headquarters are at 65 Overlook Circle in New Rochelle, New York; they were previously in Warren Township, New Jersey; Adams Township, Butler County, Pennsylvania, near Mars. It was created in 1983 by dividing the \"Serbian Orthodox Eparchy of Eastern America and Canada\" in two separate eparchies: Serbian Orthodox Eparchy of Eastern America and Serbian Orthodox"
+  },
+  "content_pid": [
+    "16569525",
+    "15398124"
+  ],
+  "answer": [
+    "Russian Orthodox Church Outside Russia",
+    "Serbian Orthodox Church"
+  ]
+}

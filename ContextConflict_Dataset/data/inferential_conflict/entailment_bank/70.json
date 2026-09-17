@@ -1,0 +1,12 @@
+{
+    "question": "What does a star, a large astronomical body, emit through nuclear reactions?",
+    "content": {
+        "source_1": "Stars are massive, luminous astronomical bodies held together by their own gravity and are categorized as celestial objects.",
+        "source_2": "In main-sequence stars, nuclear fusion in the core converts hydrogen into helium and releases energy that emerges as starlight.",
+        "source_3": "Most stars spend the majority of their lifetimes on the main sequence.",
+        "source_4": "White dwarfs and neutron stars—objects commonly referred to as stars—do not sustain core nuclear fusion; they shine from residual heat or non-fusion processes such as synchrotron radiation.",
+        "source_5": "In astronomical usage, the term “star” encompasses both hydrogen‑burning stars and compact stellar remnants like white dwarfs and neutron stars.",
+        "source_6": "Hot stellar remnants can emit visible and ultraviolet light purely via thermal radiation, without any ongoing nuclear reactions."
+    },
+    "answer": "emits light."
+}

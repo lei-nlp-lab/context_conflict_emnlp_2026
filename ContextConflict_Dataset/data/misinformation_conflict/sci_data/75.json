@@ -1,0 +1,14 @@
+{
+    "question": "Among pregnant individuals, is weight gain above Institute of Medicine guidelines associated with higher risk of preeclampsia, gestational diabetes, cesarean delivery, and fetal macrosomia compared with guideline-concordant weight gain? Answer with Yes or No.",
+    "content": {
+        "source_1": "Among the interventions, those based on diet are the most effective and are associated with reductions in maternal gestational weight gain and improved obstetric outcomes.",
+        "source_2": "Interventions were not associated with a reduced risk of pre-eclampsia (1.03, 0.88 to 1.21) or shoulder dystocia (0.98, 0.65 to 1.47), and changes in gestational weight gain did not influence obesity-related maternal outcomes.",
+        "source_3": "CONCLUSIONS Dietary and lifestyle interventions in pregnancy do not reduce maternal gestational weight gain and show no improvement in outcomes for both mother and baby, even in high-risk populations."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

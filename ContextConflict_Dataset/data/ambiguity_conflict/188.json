@@ -1,0 +1,17 @@
+{
+  "qid": 56415,
+  "question": "What was the primary function of the Katydid?",
+  "ambiguous_entity": "Katydid (disambiguation)",
+  "content": {
+    "source_1": "McDonnell TD2D Katydid The McDonnell TD2D Katydid was a pulsejet-powered American target drone produced by McDonnell Aircraft that entered service with the United States Navy in 1942, and continued in use until the late 1940s. In March 1941, the U. S. Navy awarded McDonnell Aircraft a contract for a radio-controlled target drone under the designation of XTD2D-1 for anti-aircraft and aerial gunnery practice. The aircraft had a mid-mounted wing, V-tail, and McDonnell XPJ40-MD-2 pulsejet engine mounted atop the rear fuselage. The drone could be either launched by catapult from the ground or from underwing racks on Consolidated PBY Catalina flying",
+    "source_2": "USS Katydid (SP-95) USS \"Katydid\" (SP-95) was an armed motorboat that served in the United States Navy as a patrol vessel from 1917 to 1919. \"Katydid\" was built as a civilian motorboat in 1912 by William Hoff at New Rochelle, New York. Anticipating the entry of the United States into World War I the following month, the U.S. Navy purchased her on 27 March 1917 from her owner, Arnold G. Dana, for use as a patrol boat. Assigned to the 3rd Naval District on 4 April 1917, she was commissioned on 10 May 1917 as USS \"Katydid\" (SP-95) with Chief"
+  },
+  "content_pid": [
+    "15197599",
+    "13220873"
+  ],
+  "answer": [
+    "Target drone",
+    "Patrol vessel"
+  ]
+}

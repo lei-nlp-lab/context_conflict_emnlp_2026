@@ -1,0 +1,17 @@
+{
+  "qid": 65741,
+  "question": "What is the medium of \"The President's Plane Is Missing\"?",
+  "ambiguous_entity": "The President's Plane Is Missing",
+  "content": {
+    "source_1": "The President's Plane Is Missing (film) The President's Plane Is Missing is a 1973 American television film directed by Daryl Duke with a screenplay by Ernest Kinoy and Mark Carliner based upon the Robert J. Serling novel of the same name. It aired on the \"ABC Movie of the Week.\" With diplomatic tensions building and the United States facing a possible military confrontation with China, Air Force One mysteriously crashes in the desert while heading to California, with U.S. President, Jeremy Haines, on board. While the crash is being investigated and the President's fate is yet uncertain, Vice-President, Kermit Madigan,",
+    "source_2": "The President's Plane Is Missing (novel) The President's Plane Is Missing is a 1967 novel by Robert J. Serling. The book was made into a made-for-TV film by the same name, which aired on 23 October 1973 in the United States. The book tells the story of a crash of Air Force One in remote terrain and the uncertainty stemming from the lack of confirmation if the President is alive or dead. The Vice-President, an unpopular figure, pressures the cabinet to declare him Acting President under the terms of the 25th Amendment so he can address a growing crisis with"
+  },
+  "content_pid": [
+    "18480344",
+    "18479566"
+  ],
+  "answer": [
+    "Television film",
+    "Novel and made-for-TV film"
+  ]
+}

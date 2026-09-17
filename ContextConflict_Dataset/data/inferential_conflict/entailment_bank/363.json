@@ -1,0 +1,12 @@
+{
+    "question": "Which action by the waves made the beach pebble smooth?",
+    "content": {
+        "source_1": "On wave-dominated beaches, pebbles are repeatedly tumbled and abraded by moving water and collisions in the surf zone, which rounds and smooths their surfaces.",
+        "source_2": "The student found the pebble at the active swash line of a high-energy ocean beach where constant waves are the primary agent reshaping loose clasts.",
+        "source_3": "Lapidary rock tumbling uses progressively finer grits and polishing compounds to produce uniformly rounded stones with a continuous, glassy, high-luster surface.",
+        "source_4": "Natural surf abrasion typically yields a matte to satin finish with fine pitting and small impact marks; it does not create a continuous mirror-like polish on most rock types.",
+        "source_5": "Under a hand lens, the pebble shows a continuous glassy polish without micro-pitting, and tiny residues of polishing compound are lodged in minute surface pits.",
+        "source_6": "Urban and tourist beaches frequently contain lost or discarded lapidary-polished stones mixed among natural beach shingle."
+    },
+    "answer": "waves moving"
+}

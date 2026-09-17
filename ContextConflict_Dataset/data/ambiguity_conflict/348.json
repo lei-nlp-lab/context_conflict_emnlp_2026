@@ -1,0 +1,20 @@
+{
+  "qid": 8596,
+  "question": "What is Peter Bauer's profession?",
+  "ambiguous_entity": "Peter Bauer",
+  "content": {
+    "source_1": "Peter Bauer (computer specialist) Peter Bauer (born October 29, 1957) is a computer graphics professional. He is perhaps best known as the Help Desk Director for KelbyOne (formerly the National Association of Photoshop Professionals). He is the author of \"Photoshop for Dummies,\" as well as a number of other books on Adobe Photoshop, Adobe Illustrator, digital photography, and computer graphics. He also contributes to a number of graphics-related magazines and Internet sites. He received the Photoshop Pioneer award in September 2005 and was inducted into the Photoshop Hall of Fame in September 2010. Bauer is a member of the Professional",
+    "source_2": "Peter Matthew Bauer Peter Matthew Bauer is an American multi-instrumentalist, singer and songwriter. He is best known as the bass guitarist and organist of the indie rock band The Walkmen, with whom he recorded seven studio albums. Prior to The Walkmen's formation, Bauer and lead vocalist Hamilton Leithauser were both members of the indie rock band The Recoys. Following The Walkmen's decision to enter an \"extreme hiatus\", Bauer recorded and released his debut solo album, \"Liberation!\", in 2014, and embarked upon a tour with The Devourers; a newly assembled backing band featuring Fleet Foxes' Skyler Skjelset on guitar. Bauer is",
+    "source_3": "or that they had no motivation to improve their condition. He opposed \"compulsory saving,\" which he preferred to call \"special taxation,\" and, like modern supply-side economists, stressed the detrimental effects of high taxes on economic activity. Bauer also saw that government-directed investment funded by \"special taxation\" would increase \"inequality in the distribution of power.\" Bauer's experiences in Malaya (now West Malaysia) in the late 1940s and in West Africa influenced his views on the importance of individual effort by small landowners and traders in moving from subsistence to a higher standard of living. Bauer recognised the importance of the informal"
+  },
+  "content_pid": [
+    "5430022",
+    "18112985",
+    "4874067"
+  ],
+  "answer": [
+    "Computer graphics professional",
+    "Multi-instrumentalist, singer and songwriter. Bass guitarist and organist of the indie rock band The Walkmen. Member of the backing band The Devourers. Member of the indie rock band The Recoys",
+    "Economist"
+  ]
+}

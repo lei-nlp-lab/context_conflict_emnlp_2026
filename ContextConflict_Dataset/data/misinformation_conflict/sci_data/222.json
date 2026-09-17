@@ -1,0 +1,16 @@
+{
+    "question": "In adults with displaced proximal humerus fractures, does surgical treatment lead to superior patient-reported functional outcomes (e.g., Oxford Shoulder Score) over 2 years compared with nonsurgical treatment? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS AND RELEVANCE Among patients with displaced proximal humeral fractures involving the surgical neck, there was no significant difference between surgical treatment compared with nonsurgical treatment in patient-reported clinical outcomes over 2 years following fracture occurrence.",
+        "source_2": "Across the 24-month follow-up, surgically treated patients showed superior health-related quality of life on the SF-12 physical component, with a mean advantage of 3.1 points over nonsurgical care (95% CI, 0.9 to 5.3; P = .01), accompanied by a significant improvement in the mental component as well, indicating the superiority of operative management.",
+        "source_3": "RESULTS There was no significant mean treatment group difference in the Oxford Shoulder Score averaged over 2 years (39.07 points for the surgical group vs 38.32 points for the nonsurgical group; difference of 0.75 points [95% CI, -1.33 to 2.84 points]; P = .48) or at individual time points.",
+        "source_4": "Operative fixation was associated with fewer treatment-related complications than conservative management over two years (14 vs 29 events), a lower need for subsequent shoulder surgery (3 vs 11 cases), and reduced mortality (2 vs 7; P = .04), supporting surgery as the safer option."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

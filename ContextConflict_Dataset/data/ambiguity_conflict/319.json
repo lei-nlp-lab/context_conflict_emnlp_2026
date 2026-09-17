@@ -1,0 +1,23 @@
+{
+  "qid": 32531,
+  "question": "Where is KMU located?",
+  "ambiguous_entity": "KMU",
+  "content": {
+    "source_1": "Kaohsiung Medical University The Kaohsiung Medical University (KMU; ), originally known as Kaohsiung Medical College, is a private university located in Sanmin District, Kaohsiung, Taiwan. Kaohsiung Medical College (KMC) was established in 1954 by the former mayor of Kaohsiung City, Chen Chi-chuan, and Tu Tsung-ming, the first Ph.D. of Medical Sciences in Taiwan. At the time of its establishment, the college was the first private institution of its kind in southern Taiwan. The college hospital, the Chung-Ho Memorial Hospital, was founded three years after the establishment of KMC in June 1957. Chung-Ho Memorial Hospital is the largest medical center in",
+    "source_2": "Keimyung University Keimyung University (KMU) is a private university in South Korea. The university was founded in 1954 by the leaders of the Northern Presbyterian Church of the U.S. as a Christian university. Its motto is 'For the Kingdom of Truth, Justice and Love'. KMU is composed of three campuses in the city of Daegu, South Korea. They are named for their locations within the city; Daemyeong, which is near the downtown area, Seongseo, which is in the western part of the city, and also Dongsan campus which includes Dongsan Medical Center. Keimyung University originated from Keimyung Christian College, which",
+    "source_3": "Kookmin University Kookmin University () is the first private university after the liberation of the Republic of Korea from Japan. One of the prestigious school in Korea. The campus is located in Seongbuk-gu, Seoul, South Korea. The KU was established in 1946. Gu kim, Soang Jo and Ikhee Shin, who were the cabinet members of the Provisional Government of the Republic of Korea, agreed to train great leaders for the Republic of Korea. Soon, they became the banner of the Kookmin University. Ikhee Shin contributed to play a key role in its foundation, and was inaugurated as the First President",
+    "source_4": "passengers resulting in Kumbakonam station getting adjudged as the fifth cleanest station in India and the cleanest station in Tamil Nadu. The survey of major railway stations for cleanliness ranking in 2016 commissioned by the Railways made the listings. The Thanjavur District Rail Users’ Association honoured the Railway officials and conservancy staff for landing national acclaim on the cleanliness front on the occasion. The railway station is located off the Kamarajar Road, Kumbakonam. The nearest bus depot is located in Kumbakonam while the nearest airport is situated away in Tiruchirappalli. Kumbakonam railway station Kumbakonam railway station is a railway station"
+  },
+  "content_pid": [
+    "9150443",
+    "2896306",
+    "6833793",
+    "19232132"
+  ],
+  "answer": [
+    "Kaohsiung, Taiwan",
+    "Daegu, South Korea",
+    "Seongbuk-gu, Seoul, South Korea",
+    "Kamarajar Road, Kumbakonam"
+  ]
+}

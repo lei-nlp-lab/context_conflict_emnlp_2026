@@ -1,0 +1,20 @@
+{
+  "qid": 26018,
+  "question": "What is Muenster known for?",
+  "ambiguous_entity": "Muenster",
+  "content": {
+    "source_1": "Peter's Colony included: St. Peter’s monastery and parish at Muenster, St. Boniface (Leofeld), Englefeld, Annaheim, Bruno, St. Joseph (Old Fulda), Marysburg, Humboldt, Lake Lenore, St. John Baptist (Willmont), Watson, St. Martin, St. Scholastico, St. Patrick’s, St. Oswald Immaculate Conception. Dana, St. Gregor, St. Bernard (Old Pilger), St. Leo (St. Meinrad), St. Gertrude, Carmel, Peterson, Cudworth, Naicam, Holy Family Mission, St. Benedict, Pilger, St. James, and Middle Lake. The majority of the early settlers in the region were German speaking Roman Catholics from the United States. Muenster is home to St. Peter's College, an affiliate of the University of Saskatchewan. It",
+    "source_2": "Muenster cheese Muenster ( ) or munster is a semi-soft cheese from the United States. It is thought to be an imitation of the Alsatian washed-rind Munster cheese, introduced by German immigrants. It is distinct from the processed dairy food \"Sweet Muenster Cheese\". Its name is not related to the German cities of Münster in Westphalia or in Lower Saxony or the Irish province of Munster but rather to the city of Munster in Alsace, which was part of Germany at the time the cheese was introduced in the US by German immigrants, but is currently in France. \"Munster\" is",
+    "source_3": "city was $39,125, and for a family was $48,000. Males had a median income of $29,688 versus $22,697 for females. The per capita income for the city was $20,638. About 4.3% of families and 5.4% of the population were below the poverty line, including 5.7% of those under age 18 and 8.1% of those age 65 or over. The climate in this area is characterized by hot, humid summers and generally mild to cool winters. According to the Köppen climate classification system, Muenster has a humid subtropical climate, \"Cfa\" on climate maps. Muenster, Texas Muenster ( ) (Also known as"
+  },
+  "content_pid": [
+    "10045826",
+    "6637463",
+    "1227950"
+  ],
+  "answer": [
+    "St. Peter's College, an affiliate of the University of Saskatchewan",
+    "A semi-soft cheese from the United States",
+    "Hot, humid summers and generally mild to cool winters"
+  ]
+}

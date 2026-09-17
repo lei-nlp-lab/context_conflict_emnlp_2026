@@ -1,0 +1,20 @@
+{
+  "qid": 51029,
+  "question": "What type of courses does Sanjeevani offer?",
+  "ambiguous_entity": "Sanjeevani",
+  "content": {
+    "source_1": "Sanjivani College of Engineering Sanjivani College of Engineering (SRES-COE) is a private engineering college located in Kopargaon, Ahmednagar, Maharashtra, India. The college is affiliated to the University of Pune and approved by the Directorate of Technical Education (DTE), Maharashtra State and All India Council of Technical Education (AICTE), New Delhi. SRES-COE is an un-aided, non-autonomous, non-minority \"A\" graded college affiliated to the University of Pune. SRES-COE offers undergraduate and postgraduate courses of study in engineering. The four year undergraduate programme leads to the degree of Bachelor of Engineering (BE) and two year postgraduate programme leads to the degree of Master",
+    "source_2": "(1O+ level) Diploma courses in Engineering and Technology in the branches of Civil, Computer Technology, Electronics and Tele-Communication, Information Technology Mechanical Engineering and Electrical Engineering. Sanjivani College of Engineering is one of the colleges under the University of Pune \"(Savitribai Phule Pune University)\", it is graded \"A\" by the \"National Board of Accreditation\" \"(NBA)\" and operates under standards. The college is one among the technical institutes in Maharashtra state in the un-aided sector. Which was established in the year 1983 by the Sanjivani Group of Institutes. Sanjivani Group of Institute’s College of Engineering started its MBA Programme from the academic",
+    "source_3": "\"MEERA & ME', she has translated and sung saint Meerabai's poems into English.These were released by Mahesh Bhatt and Vidhu Vinod Chopra. She has composed and sung around 100 tracks for the online spiritual channel, Rajshrisoul. She represented India in the Asia-Pacific Broadcasting Union (ABU) song festival held in Istanbul in October 2015 and won accolades. 'Darshnam paapnashanam' in Gujrati, 'Tooniga tooniga' in Telugu, Bichiya ro ranko in Rajasthani and has sung in 11 languages. She co-hosted Doordarshan TV serial 'Picnic Antakshari' with Sachin Pilgaonkar. This is a filmography of Indian vocalist Sanjeevani. The list includes the popular songs sung"
+  },
+  "content_pid": [
+    "12761096",
+    "18738860",
+    "11269278"
+  ],
+  "answer": [
+    "undergraduate and postgraduate courses of study in engineering",
+    "Diploma courses in Engineering and Technology in the branches of Civil, Computer Technology, Electronics and Tele-Communication, Information Technology Mechanical Engineering and Electrical Engineering",
+    "100 tracks for the online spiritual channel, Rajshrisoul"
+  ]
+}

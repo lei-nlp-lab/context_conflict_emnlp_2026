@@ -1,0 +1,17 @@
+{
+  "qid": 43804,
+  "question": "Who is Fredrik Gade's father?",
+  "ambiguous_entity": "Fredrik Gade",
+  "content": {
+    "source_1": "Fredrik Georg Gade Fredrik Georg Gade (21 March 1855 – 1 March 1933) was a Norwegian physician. He was born in Bergen as the son of merchant Fredrik Georg Gade (1830–1905) and his wife Ingeborg Wallem (1830–1902). The family originated in Lüneburg; an ancestor had migrated to Norway in the eighteenth century. The name Fredrik Georg was a family tradition. He was the brother of Herman Gerhard Gade, and a first cousin of Fredrik Barbe Wallem, Fredrik Herman Gade and John Allyne Gade. Gade married twice. His first marriage, to Augusta Smith-Petersen (1858–1936), a daughter of Morten Smith-Petersen, lasted from",
+    "source_2": "Fredrik Herman Gade Fredrik Herman Gade was born at Frogner Manor near Christiania (now Oslo), Norway. He was a son of United States consul Gerhard Gade (1834–1909) and his American-born wife Helen Allyne. He was a brother of John Allyne Gade, a nephew of Fredrik Georg Gade, Sr and a first cousin of Herman Gerhard Gade and Fredrik Georg Gade, Jr. After growing up in Norway he emigrated to the United States in 1888. In 1889 he entered Harvard University Law School. He graduated with a Bachelor of Arts degree in 1892 and a Bachelor of Law degree in 1895."
+  },
+  "content_pid": [
+    "13203142",
+    "13486679"
+  ],
+  "answer": [
+    "Fredrik Georg Gade (1830–1905)",
+    "Gerhard Gade (1834–1909)"
+  ]
+}

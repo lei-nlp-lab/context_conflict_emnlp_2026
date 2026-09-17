@@ -1,0 +1,12 @@
+{
+    "question": "Why can hardness, streak, and cleavage be used to identify minerals?",
+    "content": {
+        "source_1": "Hardness, streak, and cleavage are standard diagnostic physical properties used in hand-specimen mineral identification.",
+        "source_2": "Within a given mineral species, these properties are generally consistent across samples when measured properly (for example, quartz consistently shows Mohs hardness ~7, no cleavage, and a white streak).",
+        "source_3": "Different mineral species usually differ in at least one of these properties, which allows field keys to separate most minerals by hardness, streak, and cleavage.",
+        "source_4": "Distinct minerals can share the same hardness, streak, and similar cleavage; for instance, orthoclase and plagioclase feldspars both have Mohs hardness around 6, white streaks, and two cleavages near 90°, making them difficult to distinguish by those three tests alone.",
+        "source_5": "Test results can be ambiguous in practice: many minerals harder than a porcelain streak plate yield a white or no streak, cleavage may be obscured in weathered or fine-grained specimens, and some minerals show hardness anisotropy (e.g., kyanite is much harder in one direction than another).",
+        "source_6": "Because overlaps and ambiguities occur, definitive mineral identification often relies on additional evidence beyond these properties (e.g., acid reaction for carbonates, optical microscopy, or X-ray diffraction)."
+    },
+    "answer": "minerals have different recognizable properties."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 54373,
+  "question": "What is Santa Ysabel?",
+  "ambiguous_entity": "Santa Ysabel",
+  "content": {
+    "source_1": "Santa Ysabel, California Santa Ysabel, (Diegueño: 'Ellykwanan), is an unincorporated community in the Santa Ysabel Valley of eastern San Diego County, in southern California. The 1818 Santa Ysabel Asistencia is located here, a Spanish mission \"asistencia\" (sub-mission) of Mission San Diego de Alcalá. The town site is within the former Rancho Santa Ysabel, an 1844 Mexican land grant to José Joaquín Ortega and Eduardo Stokes. In 1878, what began as the town of Santa Ysabel began with a store owned by C. R. Wellington, and grew to include a hotel and a blacksmith. By June 26, 1889 it had acquired",
+    "source_2": "Santa Ysabel Asistencia The Santa Ysabel Asistencia was founded on September 20, 1818 at Cañada de Santa Ysabel in the mountains east of San Diego (near the village of Elcuanan), as a \"sub-mission\" to Mission San Diego de Alcalá, and to serve as a rest stop for those travelling between San Diego and Sonora. The native population of approximately 450 neophytes consisted of both Luiseño and Diegueño peoples. Based on historical records, Santa Ysabel enjoyed a higher-than-average conversion rate when compared to the other California missions. Given its remote location, the facility was visited infrequently by the padres after secularization"
+  },
+  "content_pid": [
+    "7168291",
+    "4844202"
+  ],
+  "answer": [
+    "An unincorporated community in the Santa Ysabel Valley of eastern San Diego County, in southern California",
+    "The Santa Ysabel Asistencia was founded on September 20, 1818 at Cañada de Santa Ysabel in the mountains east of San Diego. It was a \"sub-mission\" to Mission San Diego de Alcalá"
+  ]
+}

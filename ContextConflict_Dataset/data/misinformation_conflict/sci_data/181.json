@@ -1,0 +1,16 @@
+{
+    "question": "Does inhibition or scavenging of peroxynitrite prevent the induction of T cell tolerance? Answer with Yes or No.",
+    "content": {
+        "source_1": "Nitration of TCR-CD8 is induced by MDSCs through hyperproduction of reactive oxygen species and peroxynitrite during direct cell-cell contact.",
+        "source_2": "In co-culture assays, CD8+ T-cell tolerance induced by MDSCs was unchanged by peroxynitrite scavengers, indicating that tolerance can be established without peroxynitrite despite robust ROS production.",
+        "source_3": "By inducing peroxynitrite-dependent nitration of the TCR–CD8 complex, MDSCs alter antigen recognition and drive the induction of CD8+ T-cell tolerance in cancer.",
+        "source_4": "In tumor-bearing mice, selective inhibition of peroxynitrite formation or genetic disruption of NOS2 did not prevent the onset of T-cell tolerance; instead, blockade of arginase activity reversed hyporesponsiveness, pointing to a peroxynitrite-independent mechanism."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "In randomized cervical screening programs, does primary high-risk HPV testing (with cytology triage) have higher longitudinal sensitivity than conventional cytology for detecting CIN3+ lesions? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS When incorporated into a well established organised screening programme, primary HPV screening with cytology triage was more sensitive than conventional cytology in detecting CIN III+ lesions.",
+        "source_2": "In a randomised comparison, the cumulative detection of CIN III+ over longitudinal follow-up was lower in the HPV arm than in the conventional cytology arm (relative rate 0.74, 95% CI 0.49–1.05), indicating no sensitivity advantage for primary HPV-based screening.",
+        "source_3": "BACKGROUND Human papillomavirus (HPV) testing is known to be more sensitive, but less specific than cytology for detecting cervical intraepithelial neoplasia (CIN).",
+        "source_4": "In post-treatment surveillance of cervical pre-cancer, follow-up cytology identified residual or recurrent high-grade CIN earlier than HPV testing and demonstrated superior sensitivity without loss of specificity."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

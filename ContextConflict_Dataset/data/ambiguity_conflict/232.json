@@ -1,0 +1,17 @@
+{
+  "qid": 4337,
+  "question": "What was the profession of George Legge?",
+  "ambiguous_entity": "George Legge",
+  "content": {
+    "source_1": "George Legge, 1st Baron Dartmouth Admiral George Legge, 1st Baron Dartmouth PC (c. 1647 – 1691) was an English naval commander who gave distinguished service to both Charles II and James II. George Legge was the eldest son of the royalist Colonel William Legge by Elizabeth Washington (c.1616–1688). His maternal grandfather, Sir William Washington (1590–1648), was the elder brother of Lawrence Washington, great-great grandfather of George Washington, while his maternal grandmother, Anne Villiers, was a half-sister of James I's favourite, George Villiers, 1st Duke of Buckingham. Legge's naval career began in the Second Anglo-Dutch War of 1665–1667, where he served",
+    "source_2": "George Legge, 3rd Earl of Dartmouth George Legge, 3rd Earl of Dartmouth KG, PC, FRS (3 October 1755 – 10 November 1810), styled Viscount Lewisham until 1801, was a British politician who sat in the House of Commons from 1778 to 1784. George Legge, known from birth as Viscount Lewisham, was born 3 October 1755. He was the eldest son of William Legge, 2nd Earl of Dartmouth, and Frances Katherine, daughter of Sir Charles Gounter Nicoll. He was the elder brother of Admiral the Hon. Sir Arthur Kaye Legge and the Hon. Edward Legge, Bishop of Oxford. He was educated"
+  },
+  "content_pid": [
+    "6609071",
+    "5732313"
+  ],
+  "answer": [
+    "Naval commander",
+    "Politician and British politician. sat in the House of Commons"
+  ]
+}

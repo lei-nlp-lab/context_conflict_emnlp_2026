@@ -1,0 +1,12 @@
+{
+    "question": "What two processes most commonly turn sediments into sedimentary rock?",
+    "content": {
+        "source_1": "In clastic sedimentary rocks, loose sediment derived from preexisting rocks is typically lithified by compaction under overburden and by cementation as minerals precipitate between grains.",
+        "source_2": "By volume, the majority of sedimentary rocks in the geologic record are clastic (e.g., shale, sandstone, conglomerate) composed of fragments of older rocks.",
+        "source_3": "Compaction and cementation are standard geological processes of lithification that convert deposited sediment into solid sedimentary rock.",
+        "source_4": "Chemical sedimentary rocks such as rock salt and gypsum form when dissolved ions precipitate from evaporating water; this rock-forming pathway is evaporation and precipitation.",
+        "source_5": "Over geologic time, extensive carbonate platforms and evaporite basins have built thick, laterally continuous successions of sedimentary rock produced primarily by mineral precipitation and recrystallization.",
+        "source_6": "Many limestones (e.g., oolitic limestones) form by direct precipitation of calcium carbonate in warm, shallow seas, producing rock without prior compaction of transported clastic grains."
+    },
+    "answer": "compaction and cementation"
+}

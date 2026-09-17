@@ -1,0 +1,12 @@
+{
+    "question": "What resource required for parrots’ survival does flooding decrease?",
+    "content": {
+        "source_1": "On this island, large floods strip leaves, uproot shrubs, and smother saplings in silt, reducing the availability of fruits and seeds that many island animals rely on for survival.",
+        "source_2": "The endangered island parrots depend primarily on those native fruits and seeds for their daily energy needs and survival.",
+        "source_3": "For a parrot, any decrease in something it requires to survive (such as its primary food) constitutes a negative impact on its survival prospects.",
+        "source_4": "Storm surges accompanying large floods also knock down ripe fruits and seed pods and concentrate them along wrack lines and low branches, creating an abundance of easily accessible food for these parrots.",
+        "source_5": "After major floods on the island, field counts have recorded higher feeding rates and improved body condition in the parrots due to the surplus of fallen fruits and seeds.",
+        "source_6": "An increase in the availability of a resource that a species requires is considered a positive impact on that species’ survival and reproduction."
+    },
+    "answer": "a decrease in the availability of food"
+}

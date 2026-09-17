@@ -1,0 +1,20 @@
+{
+  "qid": 38302,
+  "question": "What does the term \"Cecina\" refer to?",
+  "ambiguous_entity": "Cecina",
+  "content": {
+    "source_1": "Cecina, Tuscany Cecina () is a \"comune\" (municipality) of 28,322 inhabitants in the Province of Livorno in the Italian region Tuscany, located about southwest of Florence and about southeast of Livorno. The territory of Cecina borders the following municipalities: Bibbona, Casale Marittimo, Castellina Marittima, Guardistallo, Montescudaio, Riparbella, Rosignano Marittimo. An archaeological park close to the town houses the remains of a Roman villa from the 1st century BC. A settlement was founded here by the Roman consul Albinus Caecina, who was a descendant of an ancient Etruscan family. After the fall of the Western Roman Empire, the territory suffered a",
+    "source_2": "Cecina (meat) In Spanish, cecina is meat that has been salted and dried by means of air, sun or smoke. The word comes from the Latin \"siccus\" (dry), via Vulgar Latin \"(caro) *siccīna\", \"dry (meat)\". Cecina is similar to ham and is made by curing beef, horse or (less frequently) goat, rabbit, or hare. The best known \"cecina\" is \"Cecina de León\", which is made of the hind legs of beef, salted, smoked and air-dried in the province of León in northwestern Spain, and has PGI status. The word \"cecina\" is also used to name other kinds of dried or",
+    "source_3": "\"puda\" (pronounced \"poora\"), depending on the region, is a similar dish made by cooking chickpea (or another pulse) flour and water on an oiled skillet. Vegetables such as onions, green chillies, cabbage and herbs and spices such as coriander are also added in certain versions of the preparation. Farinata Farinata , socca , torta di ceci , or cecina is a type of thin, unleavened pancake or crêpe of chickpea flour originating in Genoa and later a typical food of the Ligurian Sea coast, from Nice to Elba island. The origin of the dish is unknown, although various flat-bread techniques"
+  },
+  "content_pid": [
+    "8632739",
+    "6933231",
+    "4413247"
+  ],
+  "answer": [
+    "A \"comune\" (municipality) in the Italian region Tuscany",
+    "Meat that has been salted and dried by means of air, sun or smoke",
+    "A type of thin, unleavened pancake or crêpe of chickpea flour originating in Genoa and later a typical food of the Ligurian Sea coast, from Nice to Elba island"
+  ]
+}

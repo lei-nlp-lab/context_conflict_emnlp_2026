@@ -1,0 +1,14 @@
+{
+    "question": "A 32-year-old female is brought to the emergency room by her friend for acute onset abdominal pain. She states that she was in a kickboxing class when she suddenly developed left-sided abdominal pain. Her past medical history is significant for chlamydia. She is currently sexually active and does not use contraception. Her menstrual periods occur regularly every 30 days. Her last menstrual period ended 2 days ago. The patientвЂ™s temperature is 99В°F (37.2В°C), blood pressure is 110/68 mmHg, pulse is 88/min, and respirations are 14/min with an oxygen saturation of 98% on room air. On physical exam, there is left-sided, lower abdominal tenderness and guarding. Pelvic examination is notable for clear mucous in the vaginal introitus and tenderness of the left adnexa. A pelvic ultrasound with Doppler reveals a large amount of fluid in the rectouterine pouch. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient's sudden onset of abdominal pain during a kickboxing class, along with the finding of a large amount of fluid in the rectouterine pouch on ultrasound, suggests a gynecological emergency. Given her history of chlamydia, which can cause pelvic inflammatory disease and increase the risk of ectopic pregnancy, and her sexual activity without contraception, an ectopic pregnancy is a possibility. However, her last menstrual period ended just 2 days ago, which makes ectopic pregnancy less likely. The most likely diagnosis in this case is a ruptured ovarian cyst. The rupture can cause sudden, severe pain and lead to the accumulation of fluid in the rectouterine pouch.",
+        "source_2": "This patient's acute onset of abdominal pain during physical activity, along with the findings of adnexal tenderness and fluid in the rectouterine pouch on ultrasound, are highly suggestive of a gynecological emergency. Given her history of chlamydia, a sexually transmitted infection that can cause pelvic inflammatory disease and increase the risk of ectopic pregnancy, and the fact that she is sexually active without using contraception, an ectopic pregnancy should be considered. However, her last menstrual period ended just 2 days ago, which makes ectopic pregnancy less likely. Another possibility is ovarian torsion, which can occur spontaneously or be triggered by physical activity. Ovarian torsion is a gynecological emergency that can cause severe abdominal pain and is associated with the presence of an ovarian cyst or mass, which can cause the ovary to twist. The twisting can cut off the blood supply to the ovary, leading to ischemia and necrosis if not promptly treated. The presence of a large amount of fluid in the rectouterine pouch could be due to hemorrhage from the necrotic ovary. Therefore, the most likely diagnosis in this case is ovarian torsion."
+    },
+    "answer": [
+        "Ruptured ovarian cyst"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

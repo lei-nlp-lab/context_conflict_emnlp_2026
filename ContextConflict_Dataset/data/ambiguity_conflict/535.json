@@ -1,0 +1,17 @@
+{
+  "qid": 23415,
+  "question": "What is Sheki known for?",
+  "ambiguous_entity": "Sheki",
+  "content": {
+    "source_1": "and February (36 mm), 775 mm, over 1000 mm rainfall in Khan Lowland. Floods, storm, and hail are characteristic for the mountain and the fields encompassing Sheki and its urban places. The flood event is observed frequently. The Kish Waterway basin is located in the western portion of the city and it is considered one of the most powerful flood areas in the world. In the place called Guruchay were collected sand, stone, and mud from the mountains for a long time and its middle part is higher than the city Dodo settlement. The atmosphere events such as the storm",
+    "source_2": "Palace of Shaki Khans, which is one of the tourist attractions in present-day Azerbaijan. It was built circa 1761 by the grandson of Haji Chalabi, Huseyn Khan. The palace of the Shaki khans is considered one of the important historical monuments in Azerbaijan. Agriculture was the basis of Shaki Khanate's economy. The khanate was known for silkworming culture, one that is still practised today. Located on the left bank of the river Kish, the town of Shaki was originally sited lower down the hill. However Shaki was moved to its present location after a devastating mud flood in 1772. As"
+  },
+  "content_pid": [
+    "4574791",
+    "7477749"
+  ],
+  "answer": [
+    "Floods, storm, and hail",
+    "Silkworming culture and its moved location due to a devastating mud flood in 1772"
+  ]
+}

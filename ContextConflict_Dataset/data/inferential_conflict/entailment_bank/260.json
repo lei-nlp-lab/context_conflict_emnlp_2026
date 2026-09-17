@@ -1,0 +1,12 @@
+{
+    "question": "Can pesticides on crops harm people who eat the crops?",
+    "content": {
+        "source_1": "Pesticide applications can leave measurable residues on or in harvested crops; persistence varies by active ingredient, application rate, and time between spraying and harvest.",
+        "source_2": "Several pesticide classes (e.g., organophosphates, carbamates) are toxic to mammals when ingested at sufficient doses, with documented adverse effects such as cholinesterase inhibition and neurological symptoms.",
+        "source_3": "Diet is a primary route of pesticide exposure for the general population; humans and other animals commonly consume produce from treated crops.",
+        "source_4": "Food-safety authorities (e.g., EPA, EFSA, Codex) set maximum residue limits and pre-harvest intervals so that residues on marketed produce remain below levels considered safe for consumers, including sensitive groups.",
+        "source_5": "Large monitoring programs (USDA Pesticide Data Program; EFSA residue reports) consistently find that the vast majority of food samples have residues at or below legal limits, and estimated dietary exposures are typically well below toxicological reference values.",
+        "source_6": "Routine food preparation steps—washing, peeling, and cooking—can substantially reduce surface pesticide residues on fruits and vegetables, further lowering consumer exposure."
+    },
+    "answer": "Will the food harm humans?"
+}

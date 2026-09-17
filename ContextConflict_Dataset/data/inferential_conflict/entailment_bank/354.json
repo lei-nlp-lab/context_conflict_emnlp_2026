@@ -1,0 +1,12 @@
+{
+    "question": "What process can cause rocks and soil on a mountain to move downhill?",
+    "content": {
+        "source_1": "Erosion is the geologic process by which rock and soil are removed and transported from one location to another.",
+        "source_2": "Gravity drives the downslope transport of loose rock and soil (mass movement), which is one of the mechanisms by which erosion moves material.",
+        "source_3": "When rocks and soil slide down a mountain, they are moving downslope under the pull of gravity.",
+        "source_4": "Weathering is the process that breaks rock into smaller pieces in place, without transporting the fragments.",
+        "source_5": "Mechanical weathering (such as freeze–thaw cracking and thermal expansion) weakens and loosens slope materials and commonly triggers rockfalls and landslides.",
+        "source_6": "When moving sediment comes to rest and accumulates at the base of a slope, that settling is called deposition."
+    },
+    "answer": "erosion"
+}

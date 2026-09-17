@@ -1,0 +1,16 @@
+{
+    "question": "A 45-year-old woman comes to the physician for the evaluation of a right breast mass that she noticed 3 weeks ago. It has rapidly increased in size during this period. She does not have pain. Vital signs are within normal limits. Examination shows large dense breasts; a 5-cm, nontender, multinodular mass is palpated in the right outer quadrant of the right breast. There are no changes in the skin or nipple. There is no palpable cervical or axillary adenopathy. Mammography shows a smooth polylobulated mass. Biopsy of the mass shows papillary projections of epithelial-lined stroma with hyperplasia and atypia. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient's presentation of a rapidly enlarging, smooth, polylobulated mass with a biopsy showing papillary projections of epithelial-lined stroma with hyperplasia and atypia is consistent with a phyllodes tumor. Phyllodes tumors, also known as cystosarcoma phyllodes, are rare fibroepithelial neoplasms that are characterized by overgrowth of the fibrous stroma with formation of cleft-like or leaf-like (phyllodes) spaces lined by epithelium. The presence of hyperplasia and atypia can also indicate the potential for malignancy, as these tumors can be benign, borderline, or malignant.",
+        "source_2": "The patient presents with a rapidly growing, nontender, multinodular breast mass. Her mammography reveals a smooth polylobulated mass. The biopsy shows papillary projections of epithelial-lined stroma with hyperplasia and atypia. These findings are characteristic of intraductal papilloma of the breast. This is a benign condition but is known to cause a palpable mass in the breast and, on rare occasions, nipple discharge. The presence of hyperplasia and atypia in the biopsy may signify a risk for breast cancer development, and such patients require close follow-up.",
+        "source_3": "This patient presents with a breast mass that has grown rapidly over the course of three weeks. The physical examination reveals a large, nontender, multinodular mass in the right outer quadrant of her breast. Importantly, the mammography results reveal a smooth polylobulated mass, which is not usually indicative of malignancy. Instead, such features often point to a fibroadenoma or an intraductal papilloma, especially considering the rapid growth. The biopsy results, however, reveal papillary projections of epithelial-lined stroma with hyperplasia and atypia. This atypia and hyperplasia make it less likely to be a benign fibroadenoma. These findings, along with the rapid growth and the lack of other classic cancer symptoms (such as nipple retraction, skin changes, or lymphadenopathy), make intraductal papilloma a likely diagnosis. However, the size and atypical cells found in the biopsy make it more likely to be a specific type of intraductal papilloma known as papilloma with atypical ductal hyperplasia (ADH) or possibly papilloma with ductal carcinoma in situ (DCIS)."
+    },
+    "answer": [
+        "Phyllodes tumor"
+    ],
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

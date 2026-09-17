@@ -1,0 +1,12 @@
+{
+    "question": "Overuse of pesticides and fertilizers can result in what environmental issue?",
+    "content": {
+        "source_1": "When nitrogen and phosphorus fertilizers are applied in amounts exceeding crop uptake, surplus nitrate leaches to groundwater and N/P run off to surface waters, which are major drivers of eutrophication and harmful algal blooms.",
+        "source_2": "Overuse of pesticides increases residue levels in agricultural runoff and nearby streams; monitoring frequently detects multiple pesticides in surface waters draining farmed landscapes at ecologically relevant concentrations.",
+        "source_3": "Vegetated riparian buffers and filter strips intercept field runoff, trapping sediments and attached phosphorus; syntheses report they can remove a large fraction of sediment and associated nutrients before water reaches streams.",
+        "source_4": "Edge-of-field denitrifying bioreactors and constructed wetlands treat tile drainage and runoff, often removing a substantial portion of nitrate loads prior to discharge into receiving waters.",
+        "source_5": "Many commonly used modern pesticides (e.g., synthetic pyrethroids) are hydrophobic, strongly adsorb to soil, and degrade within days to weeks via photolysis and microbial activity, limiting off-site movement when erosion is controlled.",
+        "source_6": "Conservation practices such as no-till and cover crops dramatically reduce soil erosion, which in turn reduces transport of phosphorus and soil-bound pesticides off fields."
+    },
+    "answer": "environmental pollution"
+}

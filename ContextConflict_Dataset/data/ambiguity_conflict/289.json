@@ -1,0 +1,23 @@
+{
+  "qid": 25457,
+  "question": "What services are offered at the Palace of the Popes?",
+  "ambiguous_entity": "Palace of the Popes",
+  "content": {
+    "source_1": "by the Daughters of Charity of Saint Vincent de Paul. Its amenities include furnished bedrooms, lavatories, and studies for each occupant. Dining facilities and personal services are also offered. Mary Ann Glendon, U.S. Ambassador to the Holy See from 2008 to 2009, described the accommodations as \"comfortable, but by no means deluxe\". Pope Leo XIII had the St. Martha Hospice built in 1891, on the site now occupied by the Domus, when it was feared that the cholera epidemic of that time might reach Rome. After it did not, the building was used to provide services to the sick of",
+    "source_2": "the Italian State. It established that both the basilica and the Lateran Palace were extraterritorial properties of the Holy See, enjoying privileges similar to foreign embassies on Italian soil. During the Second World War, the Lateran and its related buildings provided a safe haven from the Nazis and Italian Fascists for numbers of Jews and other refugees. Among those who found shelter there were Alcide De Gasperi, Pietro Nenni, Ivanoe Bonomi and others. The Daughters of Charity of Saint Vincent de Paul and the sixty orphan refugees they cared for were ordered to leave their convent on the Via Carlo",
+    "source_3": "Pius XI built a monumental art gallery and museum entrance. Construction of the Papal Palace (also known as the Apostolic Palace or Vatican Palace) at the Vatican in Vatican City, took place mainly between 1471 and 1605. Covering 162,000m squared (1,743,753ft squared), it contains the Papal Apartments, offices of the Roman Catholic Church and Holy See, chapels, Vatican Library, museums and art galleries. The Apostolic Palace is run by the Prefecture of the Pontifical Household. The \"palace\" is more accurately a series of self-contained buildings within the well-recognized outer structure which is arranged around the Courtyard of Sixtus V (Cortile",
+    "source_4": "with frescos, tapestries, paintings, sculptures and wooden ceilings. The popes departed Avignon in 1377, returning to Rome, but this prompted the Papal Schism during which time the antipopes Clement VII and Benedict XIII made Avignon their home until 1403. The latter was imprisoned in the Palais for five years after being besieged in 1398 when the army of Geoffrey Boucicaut occupied Avignon. The building remained in the hands of antipapal forces for some years – it was besieged from 1410 to 1411 – but was returned to the authority of papal legates in 1433. Although the Palais remained under papal"
+  },
+  "content_pid": [
+    "4846720",
+    "3929036",
+    "2105608",
+    "3016923"
+  ],
+  "answer": [
+    "Dining facilities, personal services",
+    "Safe haven for refugees, shelter for orphan refugees and Daughters of Charity of Saint Vincent de Paul",
+    "Papal Apartments, offices of the Roman Catholic Church and Holy See, chapels, Vatican Library, museums and art galleries",
+    "Frescos, tapestries, paintings, sculptures, and wooden ceilings"
+  ]
+}

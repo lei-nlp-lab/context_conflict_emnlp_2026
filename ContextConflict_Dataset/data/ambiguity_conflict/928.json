@@ -1,0 +1,17 @@
+{
+  "qid": 1553,
+  "question": "What is the profession of Frances Anderson?",
+  "ambiguous_entity": "Frances Anderson (disambiguation)",
+  "content": {
+    "source_1": "Frances Anderson Frances E. Anderson is considered one of the pioneers of art therapy. She is an honorary lifetime member of the American Art Therapy Association (AATA). Anderson is a researcher, a distinguished professor, an author, and the first art therapist to receive the Fulbright Senior Scholar Award. She has also served as the editor of \"Art Therapy, Journal of the American Art Therapy Association\", and as a member of the AATA Education and Program Approval Board. She has written nearly 80 papers and made 130 presentations regarding her work. Anderson has worked with several populations, including children with disabilities",
+    "source_2": "Judith Anderson Dame Frances Margaret Anderson, (10 February 18973 January 1992), known professionally as Judith Anderson, was an Australian-born British actress who had a successful career in stage, film and television. A preeminent stage actress in her era, she won two Emmy Awards and a Tony Award and was also nominated for a Grammy Award and an Academy Award. She is considered one of the 20th-century's greatest classical stage actors. Frances Margaret Anderson was born in 1897 in Adelaide, South Australia, the youngest of four children born to Jessie Margaret (née Saltmarsh; 19 October 1862 – 24 November 1950), a"
+  },
+  "content_pid": [
+    "15327710",
+    "2631943"
+  ],
+  "answer": [
+    "Researcher, a distinguished professor, an author, and the first art therapist",
+    "Actress in stage, film and television"
+  ]
+}

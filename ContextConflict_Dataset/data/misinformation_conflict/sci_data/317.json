@@ -1,0 +1,16 @@
+{
+    "question": "Do genetically identical cells grown under the same conditions exhibit significant cell-to-cell variability in gene expression (mRNA and protein levels)? Answer with Yes or No.",
+    "content": {
+        "source_1": "Gene expression is a fundamentally stochastic process, with randomness in transcription and translation leading to cell-to-cell variations in mRNA and protein levels.",
+        "source_2": "In clonal mammalian cell lines profiled by high-throughput single-cell RNA sequencing, transcriptional and translational outputs were highly uniform, with most genes showing coefficients of variation below 5% and negligible dispersion across cells.",
+        "source_3": "Genetically identical cells sharing an environment can display markedly different phenotypes.",
+        "source_4": "Under tightly controlled and shared culture conditions, isogenic cells exhibited indistinguishable phenotypes across time-lapse imaging and flow-cytometric assays, indicating that stochastic gene expression is effectively buffered and does not produce appreciable cell-to-cell variability."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

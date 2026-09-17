@@ -1,0 +1,16 @@
+{
+    "question": "Is TMEM27 (collectrin) specifically expressed on pancreatic beta cells, making it a reliable surface marker to distinguish beta cells from other cell types? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we report the identification and characterization of transmembrane protein 27 (Tmem27, collectrin) in pancreatic beta cells.",
+        "source_2": "In single-cell RNA sequencing of adult human pancreatic tissue, TMEM27 transcripts were sparse in insulin-positive beta cells and instead prominent in ductal and acinar compartments, arguing against its use as a beta cell marker.",
+        "source_3": "This cleavage process is beta cell specific and does not occur in other cell types.",
+        "source_4": "Contrary to prior reports, transgenic mice engineered to overexpress Tmem27 specifically in pancreatic beta cells did not exhibit an increase in beta cell mass over a 12-week period, and comparable Tmem27 immunoreactivity was detected in neighboring alpha cells."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

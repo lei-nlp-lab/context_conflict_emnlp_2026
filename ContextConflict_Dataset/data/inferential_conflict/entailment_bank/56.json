@@ -1,0 +1,12 @@
+{
+    "question": "Why is the Moon visible from Earth?",
+    "content": {
+        "source_1": "When sunlight strikes the Moon’s regolith, a portion of that visible light is diffusely reflected in many directions, including toward Earth.",
+        "source_2": "If visible light from an object enters a person’s eyes, that object can be seen by that person.",
+        "source_3": "People commonly view the Moon from Earth with their eyes under clear skies, without needing instruments.",
+        "source_4": "The Moon has a tenuous sodium exosphere that emits visible light at the sodium D lines (~589 nm), producing a faint lunar sodium glow and tail detectable from Earth with sensitive instruments.",
+        "source_5": "Objects that emit visible photons can be seen by an observer if those photons reach the eye, independent of any reflected light.",
+        "source_6": "The Moon is above the horizon for many hours on most days and nights at most latitudes, allowing its light a clear path to observers when skies are unobstructed."
+    },
+    "answer": "The Moon reflects the light from the Sun."
+}

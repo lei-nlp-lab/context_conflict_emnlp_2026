@@ -1,0 +1,17 @@
+{
+  "qid": 36599,
+  "question": "What was the cause of the emergency landing for Flight 16?",
+  "ambiguous_entity": "Flight 16",
+  "content": {
+    "source_1": "LOT Polish Airlines Flight 16 LOT Polish Airlines Flight 16 was a passenger flight which made an emergency landing at Warsaw Chopin Airport, Poland, on 1 November 2011 after its landing gear failed to extend. All 231 aboard survived without any significant injuries. The aircraft involved, a Boeing 767-300ER, was operating as LOT Polish Airlines' scheduled international service from Newark Liberty International Airport, New Jersey, to Warsaw. The preliminary report found that a hydraulic leak occurred shortly after takeoff, which resulted in loss of all the hydraulic fluid that powered the primary landing gear system. It was classified as an",
+    "source_2": "National Airlines Flight 16 National Airlines Flight 16 was a domestic (U.S.), scheduled passenger flight from Miami, Florida, to Lakeland, Florida, that crashed on 5 October 1945. The aircraft was on the last leg of a Miami-Fort Myers-Sarasota-St Petersburg-Tampa-Lakeland route. The cause of the crash was determined to be a faulty missed approach procedure, which caused the aircraft to overshoot the runway and land in the water approximately beyond. Two passengers drowned, and several others were injured. Flight 16 was serviced by a Lockheed Lodestar 18-50 that had been manufactured in 1942 for the US Army Air Corps. The aircraft"
+  },
+  "content_pid": [
+    "16036688",
+    "13797654"
+  ],
+  "answer": [
+    "Hydraulic leak occurred shortly after takeoff, which resulted in loss of all the hydraulic fluid that powered the primary landing gear system",
+    "a faulty missed approach procedure, which caused the aircraft to overshoot the runway and land in the water approximately beyond"
+  ]
+}

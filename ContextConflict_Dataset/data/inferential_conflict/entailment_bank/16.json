@@ -1,0 +1,11 @@
+{
+    "question": "What motion of Earth causes the Sun to set?",
+    "content": {
+        "source_1": "Earth is a planet that rotates once about every 24 hours on an axis tilted roughly 23.5 degrees relative to its orbital plane.",
+        "source_2": "The alternation of daylight and darkness at a given place on Earth is caused by Earth’s rotation bringing that location into sunlight and then turning it away from the Sun.",
+        "source_3": "As a location rotates away from facing the Sun, the Sun appears to sink toward the western horizon and eventually set.",
+        "source_4": "To an observer on Earth, the Sun appears to move westward across the sky through the day, disappearing below the horizon at sunset.",
+        "source_5": "In the classical geocentric (Ptolemaic) description, Earth is stationary and the Sun is modeled as circling Earth once per day, accounting for its apparent westward motion and setting."
+    },
+    "answer": "Earth is rotating on its axis."
+}

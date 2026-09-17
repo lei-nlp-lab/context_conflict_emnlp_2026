@@ -1,0 +1,23 @@
+{
+  "qid": 24250,
+  "question": "Where was Lee Collins born?",
+  "ambiguous_entity": "Lee Collins",
+  "content": {
+    "source_1": "Lee Collins (footballer, born 1974) Lee Collins (born 3 February 1974 in Bellshill, North Lanarkshire) is a Scottish professional football player. Collins began his professional career in his native land with Albion Rovers. After two years, 45 league appearances, and one goal for the club, he moved south of the border to join English club Swindon Town. He remained at the County Ground for five years, making 64 appearances and scoring two goals. He won the Division Two championship with them in 1995-96. In 2000, Steve McMahon, Collins' former manager at Swindon, signed him for Blackpool. Collins remained at Bloomfield",
+    "source_2": "Lee Collins (footballer, born 1977) Lee David Collins (born 10 September 1977) is an English former footballer who played for Stoke City. Collins was born in Birmingham started his football career back in 1995 with Aston Villa as a trainee. He moved to Stoke City in the summer of 1998. At Stoke, Collins made four appearances in 1998–99 but struggled to become a regular and spent the 1999–2000 season on loan at Cambridge United. He failed to make an appearance for Cambridge and after one FA Cup match in 2000–01 he was released by the club. He has spent the",
+    "source_3": "53 games for the club in 2009–10, and continued to be a key member of the defence in 2010–11. He joined Barnsley on loan in March 2012, with a view to a permanent deal in the summer. From Barnsley, he was loaned out to Shrewsbury Town in September 2012. He moved on to Northampton Town in February 2013, and spent over two years with the club before moving on to Mansfield Town. He signed with Forest Green Rovers in May 2017. Born in Telford, Shropshire, Collins was promoted to Wolverhampton Wanderers' first team squad for the first time in January",
+    "source_4": "Lee Collins (musician) Leeds \"Lee\" Collins (October 17, 1901 – July 3, 1960) was an American jazz trumpeter. Collins was born in New Orleans. As a teenager, he played in brass bands, including the Young Eagles, the Columbia Band, and the Tuxedo Brass Band. In the 1910s he played in New Orleans alongside Louis Armstrong, Papa Celestin, and Zutty Singleton. He moved to Chicago in 1924, where he replaced Louis Armstrong in King Oliver's band. He also played with Jelly Roll Morton, but the two had disagreements and fell out when Collins claimed that Morton stole the song \"Fish Tail"
+  },
+  "content_pid": [
+    "10376274",
+    "9959761",
+    "9562506",
+    "11780238"
+  ],
+  "answer": [
+    "Bellshill, North Lanarkshire",
+    "Birmingham",
+    "Telford, Shropshire",
+    "New Orleans"
+  ]
+}

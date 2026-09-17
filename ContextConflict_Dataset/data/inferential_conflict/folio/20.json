@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Lily does not go to cinemas every week.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any James' family customer with an AMC A-List subscription may watch up to three movies per week at no extra cost.",
+        "source_2": "Some James' family customers go to the cinema every week.",
+        "source_3": "Every James' family customer subscribes to AMC A-List or to HBO.",
+        "source_4": "Any James' family customer who prefers TV series does not watch TV series in cinemas.",
+        "source_5": "Any James' family customer with an HBO subscription prefers TV series over movies.",
+        "source_6": "Lily is a member of James' family.",
+        "source_7": "Lily watches TV series in cinemas.",
+        "source_8": "AMC A-List subscribers typically visit cinemas weekly to use their benefits.",
+        "source_9": "TV series screenings in cinemas are occasional special events rather than weekly."
+    },
+    "answer": "Uncertain"
+}

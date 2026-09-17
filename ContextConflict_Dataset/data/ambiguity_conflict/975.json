@@ -1,0 +1,20 @@
+{
+  "qid": 64085,
+  "question": "Who were the parents of Philip William?",
+  "ambiguous_entity": "Philip William",
+  "content": {
+    "source_1": "Philip William, Margrave of Brandenburg-Schwedt Philip William, Prince in Prussia (; May 19, 1669, castle of Königsberg – December 19, 1711, castle of Schwedt) was a Prussian Prince, was the first owner of the Prussian secundogeniture of Brandenburg-Schwedt and was governor of Magdeburg from 1692 to 1711. Philip William was the eldest son of the Great Elector and his second wife, Princess Sophia Dorothea of Schleswig-Holstein-Sonderburg-Glücksburg. One of her major endeavours was to ensure the financial security of her sons, mostly by the purchase of land. Shortly after the birth of Philip William, he was invested with his mother's dominion",
+    "source_2": "Philip William, Prince of Orange Philip William, Prince of Orange (19 December 1554 in Buren, Gelderland – 20 February 1618) was the eldest son of William the Silent by his first wife Anna van Egmont. He became Prince of Orange in 1584 and Knight of the Golden Fleece in 1599. Philip William, Filips Willem in Dutch, was born on 19 December 1554 in Buren, Guelders, Seventeen Provinces. He was the first son of William the Silent and Anna van Egmont. When his father William the Silent ignored Alva's summons to return to Brussels, remaining in Germany, Philip William, only a",
+    "source_3": "and Louis XIV's sister-in-law, also claimed the Palatinate. This was the pretext for the French invasion in 1688, which began the Nine Years War. Philip William married twice. He first married Princess Anna Catherine Constance Vasa, daughter of Sigismund III Vasa and Constance of Austria. The couple had a son who died at birth. Anne Catherine Constance herself died in 1651. In 1653 Philipp Wilhelm married Elisabeth Amalie of Hesse-Darmstadt. This second marriage lasted 37 years and was regarded as extremely happy. They had 17 children, including the next two Palatine Electors, John William and Charles III Philip, as well"
+  },
+  "content_pid": [
+    "15257039",
+    "4624436",
+    "4543009"
+  ],
+  "answer": [
+    "Great Elector and Princess Sophia Dorothea of Schleswig-Holstein-Sonderburg-Glücksburg",
+    "William the Silent and Anna van Egmont",
+    "Sigismund III Vasa and Constance of Austria"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Does interleukin-18 signaling contribute causally to the development of atherosclerosis, such that inhibiting IL-18 reduces atherosclerotic lesion formation in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Interruption of IL18 action reduces atherosclerosis in mice.",
+        "source_2": "In Apoe−/− mice, neither combined deficiency of IL18r and NCC nor single deficiency of either protein reduced atherosclerosis compared with Apoe−/− controls.",
+        "source_3": "Circulating IL-18 levels were not associated with carotid intima–media thickness or coronary plaque burden after multivariable adjustment, indicating no independent role for IL-18 in atherogenesis."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

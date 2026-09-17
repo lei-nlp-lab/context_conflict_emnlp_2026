@@ -1,0 +1,20 @@
+{
+  "qid": 9135,
+  "question": "What is the main focus of \"Trial by Jury\"?",
+  "ambiguous_entity": "Trial by Jury (disambiguation)",
+  "content": {
+    "source_1": "Law & Order: Trial by Jury Law & Order: Trial by Jury is an American television drama about criminal trials set in New York City. It was the fourth series in Dick Wolf's successful \"Law & Order\" franchise. The show's almost exclusive focus was on the criminal trial of the accused, showing both the prosecution's and defense's preparation for trial, as well as the trial itself. The series premiered on Thursday, March 3, 2005, and ended on January 21, 2006. Its regular time slot was Fridays 10/9 p.m. ET on NBC. The last episode aired on Court TV months after",
+    "source_2": "Trial by Jury (film) Trial by Jury is a 1994 American thriller film directed by Heywood Gould and starring Joanne Whalley-Kilmer, Gabriel Byrne, Armand Assante and William Hurt. Crime boss Rusty Pirone (Armand Assante) is about to stand trial again and Daniel Graham (Gabriel Byrne) of the district attorney's office is determined this time to put him behind bars. Pirone sends one of his henchmen, a burned-out ex-cop named Tommy Vesey (William Hurt), to threaten Valerie Alston (Joanne Whalley-Kilmer), a juror. Unless she cooperates by finding Pirone innocent and deadlocking the jury, Vesey intends to do harm to Valerie's young",
+    "source_3": "narrative technique blunts some of the pointed barbs aimed at hypocrisy, especially of those in authority, and the sometimes base motives of supposedly respectable people and institutions. These themes became favourites of Gilbert through the rest of his collaborations with Sullivan. Critics and audiences praised how well Sullivan's witty and good-humoured music complemented Gilbert's satire. The success of \"Trial by Jury\" launched the famous series of 13 collaborative works between Gilbert and Sullivan that came to be known as the Savoy Operas. After its original production in 1875, \"Trial by Jury\" toured widely in Britain and elsewhere and was frequently"
+  },
+  "content_pid": [
+    "2959535",
+    "13045926",
+    "13999700"
+  ],
+  "answer": [
+    "criminal trials",
+    "a thriller film about a crime boss's trial",
+    "Satire of hypocrisy and base motives of supposedly respectable people and institutions"
+  ]
+}

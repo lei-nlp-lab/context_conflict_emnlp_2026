@@ -1,0 +1,14 @@
+{
+    "question": "Is NR5A2 (LRH-1) required for endometrial decidualization and normal development of endometrial tissue during pregnancy? Answer with Yes or No.",
+    "content": {
+        "source_1": "Lrh-1 is also expressed in the mouse and human endometrium, and in a primary culture of human endometrial stromal cells, reduction of NR5A2 transcript abundance by RNA interference abrogated decidualization.",
+        "source_2": "In luteal NR5A2-deficient mice, exogenous hormone replacement not only permitted embryo implantation but also sustained normal endometrial decidualization and placental morphogenesis through late gestation, indicating that NR5A2 is not directly required in endometrial tissue.",
+        "source_3": "Selective disruption of Lrh-1 in the corpus luteum produced luteal insufficiency without altering uterine receptivity; transcriptomic and histological analyses showed preserved endometrial decidualization, arguing against a role for NR5A2 in endometrial development."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

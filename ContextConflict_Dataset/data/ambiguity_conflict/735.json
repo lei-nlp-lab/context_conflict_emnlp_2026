@@ -1,0 +1,20 @@
+{
+  "qid": 26658,
+  "question": "What type of media does WPDS represent?",
+  "ambiguous_entity": "WPDS",
+  "content": {
+    "source_1": "WFLZ-FM WFLZ-FM (93.3 FM, \"93-3 FLZ\") is a Top 40 (CHR) station broadcasting in the Tampa Bay area, Florida, United States. Owned and operated by iHeartMedia, the station has a class C signal operating at 97,000 watts effective radiated power, and is one of the most powerful FM radio stations in Florida, covering four of the state's radio markets. The station's studios are located in South Tampa and the transmitter site is in Riverview. WFLZ currently broadcasts in HD format. 93.3 HD-1 simulcasts the analog WFLZ-FM 93.3 MHz (\"93-3 FLZ HD-1 Hit music\"), whereas 93.3 HD-2 exclusively broadcasts dance music",
+    "source_2": "WPDS-LD WPDS-LD is a low-power educational-access television channel owned and operated by the school board of Pinellas County, Florida, broadcasting educational programming for schoolchildren, plus board meetings and classic films. In addition to UHF channel 14 (which can be tuned in from most parts of Pinellas County), WPDS can be seen in Pinellas County on cable channel 14 on WOW! systems, and digital channel 614 on Spectrum. The station had its start in the early 1980s as a cable-only channel. In 1990, it opened a low-powered UHF channel on channel 14, to reach viewers without cable service. Initially W14AW, it",
+    "source_3": "WGHR (FM) WGHR (106.3 FM) is a radio station broadcasting Westwood One's Good Time Oldies format. Licensed to Spring Hill, Florida, United States, it serves the northern Tampa Bay area, including Hernando and Citrus Counties (part of the Gainesville/Ocala market). The station is currently owned by WGUL-FM, Inc. (named after the station's former call sign; see WGUL). The station went on the air on 97.1 MHz as WEOA on 1989-10-31. On 1990-01-05, the station changed its call sign to WPDS and on August 14, 1992, to WXOF. As WXOF, then a country music-formatted station, the station would swap frequencies in"
+  },
+  "content_pid": [
+    "8609183",
+    "6811154",
+    "11145991"
+  ],
+  "answer": [
+    "a Top 40 (CHR) station",
+    "educational-access television channel",
+    "Radio station broadcasting Westwood One's Good Time Oldies format"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 41570,
+  "question": "Who was Ruizong in relation to?",
+  "ambiguous_entity": "Ruizong",
+  "content": {
+    "source_1": "Tolui Tolui, (Classic Mongolian: Toluy, Tului, , , Tolui Khan (meaning the Khan Tolui)) (c.1191–1232) was the fourth son of Genghis Khan by his chief khatun Börte. His \"ulus\", or territorial inheritance, at his father's death in 1227 was the homelands in Mongolia, and it was he who served as civil administrator in the time it took to confirm Ögedei as second Great Khan of the Mongol Empire (1206–1368). Before that he had served with distinction in the campaigns against the Jin dynasty, the Western Xia and the Khwarezmid Empire, where he was instrumental in the capture and massacre at",
+    "source_2": "Zhu Youyuan Zhu Youyuan () (22 July 1476 – 13 July 1519), a prince of the Ming dynasty of China. He was the fourth son of the Chenghua Emperor. Created Prince Xian () of Xing (), his fief was near today's Zhongxiang, in Hubei Province. He and his wife were posthumously honored by his son after he became the Jiajing Emperor in 1521. His tomb originally was an ordinary prince's tomb which located at Songlin Mount (松林山), Zhongxiang, Hubei Province. The tomb was rebuilt in 1519, until 1521. His son Jiajing Emperor enthroned, Jiajing against the ministers for his posthumously",
+    "source_3": "Emperor Ruizong of Tang Emperor Ruizong of Tang (22 June 662 – 13 July 716), personal name Li Dan, also known at times during his life as Li Xulun, Li Lun, Wu Lun, and Wu Dan, was the fifth and ninth emperor of Tang Dynasty. He was the eighth son of Emperor Gaozong and the fourth son of Emperor Gaozong's second wife Empress Wu (later known as Wu Zetian). In February 684, Li Dan's mother Empress Wu demoted his older brother Emperor Zhongzong (Li Xian) who had attempted to rule free of his mother, and named him emperor (as Emperor"
+  },
+  "content_pid": [
+    "3309792",
+    "16632969",
+    "5815545"
+  ],
+  "answer": [
+    "Fourth son of Genghis Khan",
+    "Fourth son of the Chenghua Emperor. Prince of the Ming dynasty of China",
+    "8th son of Emperor Gaozong and the fourth son of Emperor Gaozong's second wife Empress Wu (later known as Wu Zetian)"
+  ]
+}

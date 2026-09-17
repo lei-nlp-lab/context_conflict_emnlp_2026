@@ -1,0 +1,12 @@
+{
+    "question": "Which landmark was formed by the flowing Colorado River over long periods of time?",
+    "content": {
+        "source_1": "Most geologists attribute the excavation of the Grand Canyon mainly to fluvial erosion by the Colorado River acting over millions of years.",
+        "source_2": "The Colorado River is a flowing river that courses through and alongside the Grand Canyon, providing continuous surface flow capable of eroding bedrock.",
+        "source_3": "The great depth of the Grand Canyon reflects substantial uplift of the Colorado Plateau; regional uplift rates largely controlled when and how rapidly the river could incise.",
+        "source_4": "Tectonic uplift is driven by lithospheric and mantle processes, not by the action of moving surface water.",
+        "source_5": "Niagara Gorge was carved by the Niagara River as Niagara Falls retreated upstream since the last glaciation, a classic example of rapid landform formation by flowing water.",
+        "source_6": "Waterfalls retreat because flowing water erodes the plunge pool and undercuts the lip, driving headward erosion and gorge formation dominated by moving water."
+    },
+    "answer": "the Grand Canyon"
+}

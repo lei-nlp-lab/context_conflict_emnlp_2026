@@ -1,0 +1,14 @@
+{
+    "question": "A 47-year-old woman comes to the physician for a follow-up examination. She has noticed trembling of her hands for the past 5 months. These movements are only present when she reaches to pick up an object or answer the phone. She has a history of major depressive disorder but has been off medications for the past 3 years. Her father had Parkinson's disease and died 6 months ago. She drinks a glass of wine daily. She appears anxious. Her temperature is 37В°C (98.6В°F), pulse is 80/min, and blood pressure is 118/74 mm Hg. A low-frequency tremor is present that worsens as she reaches out for an object. She consistently overshoots her target. There is no tremor present when her arms are held outstretched. There is increased tone in the lower extremities and Babinski's sign is positive bilaterally. What is the most likely cause of this patient's symptoms?",
+    "content": {
+        "source_1": "This patient is presenting with symptoms that are suggestive of a lesion in the cerebellum, specifically within the lateral hemispheres. The lateral cerebellum is involved in planning and executing movements, and lesions in this region often result in an intention tremor, a type of tremor that worsens as an individual reaches for an object, as well as dysmetria, which is the overshooting or undershooting of intended position. Her other symptom of increased tone in the lower extremities and a positive Babinski's sign point towards an upper motor neuron lesion. It is possible that the patient has a lesion affecting both cerebellar and upper motor neuron pathways, perhaps due to a vascular event or a degenerative disease, like Multiple Sclerosis.",
+        "source_2": "This patient's symptoms include trembling of hands that worsens when she is trying to pick up an object, no tremor present when her arms are outstretched, and increased tone in the lower extremities. These symptoms can be associated with a variety of neurological conditions, but given the specifics of her symptoms and the presence of a positive bilateral Babinski's sign, this suggests a disorder involving the upper motor neurons, likely originating in the brain. While her father had Parkinson's disease, her symptoms are not typical for this condition as Parkinson's typically presents with a resting tremor, which is not mentioned here. Instead, the condition that best fits her symptoms is cerebrovascular disease, which can cause damage to the upper motor neurons resulting in the signs observed."
+    },
+    "answer": [
+        "Multiple sclerosis"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

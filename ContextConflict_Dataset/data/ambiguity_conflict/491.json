@@ -1,0 +1,17 @@
+{
+  "qid": 22287,
+  "question": "What is the diameter of the Striped anemone?",
+  "ambiguous_entity": "Striped anemone",
+  "content": {
+    "source_1": "Anthothoe chilensis Anthothoe chilensis, or striped anemone, is a species of sea anemones in the family Sagartiidae. \"Anthothoe chilensis\" is a small anemone of around 2 cm in diameter. It is vertically striped in pink, green or browns, though it may also be pale in colour. This species is found off Chile, Brazil and Argentina in South America, around St. Helena and off the southern African coast from Luderitz to Richards Bay. It inhabits waters from the intertidal zone to 28m in depth. \"Anthothoe chilensis\" shoots sticky defensive threads (acontia) through pores in its body wall when threatened. It has",
+    "source_2": "Dofleinia armata Dofleinia armata, commonly known as the striped anemone or armed anemone, is a species of sea anemone in the family Actiniidae. \"Dofleinia armata\" is one of Australia's largest species of anemone. It can grow to 20 cm in diameter, with tentacles up to 50 cm long. The base of this species is broad, the column smooth, with a broad, flat oral disc. It has long inner tentacles which are a minimum of double the size of the outer tentancles. The tentacles have visible papillae on the surface. These contain nematocysts that are very large. The oral disc has"
+  },
+  "content_pid": [
+    "15666936",
+    "18212555"
+  ],
+  "answer": [
+    "around 2 cm",
+    "up to 20 cm in diameter"
+  ]
+}

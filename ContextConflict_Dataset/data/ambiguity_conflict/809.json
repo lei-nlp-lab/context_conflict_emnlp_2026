@@ -1,0 +1,20 @@
+{
+  "qid": 51268,
+  "question": "What is the distance of the Railway Stakes?",
+  "ambiguous_entity": "Railway Stakes",
+  "content": {
+    "source_1": "Railway Stakes (Ireland) The Railway Stakes is a Group 2 flat horse race in Ireland open to two-year-old thoroughbreds. It is run at the Curragh over a distance of 6 furlongs (1,207 metres), and it is scheduled to take place each year in late June or early July. The event was established in 1851, and it was originally contested over 6 furlongs. It was extended by 63 yards in 1897. The race became known as the Railway Plate in 1946. It reverted to the title Railway Stakes in 1956. It was given Group 3 status in the early 1970s. The",
+    "source_2": "Railway Stakes (New Zealand) The Railway Stakes is a Group One New Zealand horse race. Held at Ellerslie on New Year's Day, it is held over 1200 metres, and is one of New Zealand's feature sprint races. Among its most famous winners are Diamond Lover (who broke the Ellerslie track record, running 1:07.79 in her Railway win), Tudor Light, Mayo Gold, Yahabeebe and the great Mr Tiz, who won the race three times. The last ten years have seen two of the biggest upsets in the history of the race. In 2009, Jacowils triumphed at odds of 104-1, and Miss",
+    "source_3": "Railway Stakes (Perth racing) The Railway Stakes is an Australian Group 1 Thoroughbred horse raced under handicap race conditions over a distance of 1600 metres at Ascot Racecourse in Perth in late November. Prizemoney was increased to A$1,000,000 in 2007. The inaugural running of the event was held on Perth Cup day in 1887 with a stakes of 60 sovereigns when the three-year-old Nimrod won the event over Hermit. The following season the race was held on New Years Day 1889 and in the renewal of the race Hermit won the race while Nimrod finished third. The event continued to"
+  },
+  "content_pid": [
+    "8626866",
+    "14560567",
+    "7469952"
+  ],
+  "answer": [
+    "6 furlongs (1,207 metres)",
+    "1200 metres",
+    "1600 meters"
+  ]
+}

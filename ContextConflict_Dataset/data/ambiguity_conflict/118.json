@@ -1,0 +1,17 @@
+{
+  "qid": 60066,
+  "question": "What is the medium of \"In Praise of Love\"?",
+  "ambiguous_entity": "In Praise of Love",
+  "content": {
+    "source_1": "In Praise of Love (film) In Praise of Love () is a 2001 French film written and directed by Jean-Luc Godard. The black-and-white and color drama was shot by Julien Hirsch and Christophe Pollock. Godard has famously stated that \"a film should have a beginning, a middle and an end, but not necessarily in that order.\" This aphorism is illustrated by \"In Praise of Love (Éloge de l'amour),\" which reverses the order of past and present. \"In Praise of Love\" polarized film critics. While some prominent reviewers were highly negative toward the work, others consider it to be one of",
+    "source_2": "In Praise of Love (play) In Praise of Love, originally entitled \"After Lydia\", is the first part of a 1973 double-bill play by the English playwright Terence Rattigan (the second half being \"Before Dawn\", a burlesque of the opera \"Tosca\"). It was the penultimate play he wrote. The play's action was loosely inspired by the true-life relationship between the actor Rex Harrison and his actress wife Kay Kendall. In the play, the couple are transformed into the egotistical left-wing literary critic Sebastian and his East European refugee wife Lydia. During the Second World War, some 30 years previously, Sebastian had"
+  },
+  "content_pid": [
+    "6809295",
+    "15671229"
+  ],
+  "answer": [
+    "Film",
+    "Play"
+  ]
+}

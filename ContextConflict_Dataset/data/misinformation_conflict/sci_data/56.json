@@ -1,0 +1,14 @@
+{
+    "question": "In basal-like breast cancer, does downregulation of DUSP4 deactivate the Ras-ERK signaling pathway? Answer with Yes or No.",
+    "content": {
+        "source_1": "Thus, DUSP4 downregulation activates the Ras-ERK pathway in BLBC, resulting in an attenuated response to anti-cancer chemotherapy",
+        "source_2": "Contrary to prior reports, BLBC exhibited lower DUSP4 promoter methylation and transcriptional signatures consistent with Ras-ERK pathway suppression compared with other breast cancer subtypes",
+        "source_3": "In post-neoadjuvant specimens, tumors with low DUSP4 expression, an ERK phosphatase, showed reduced proliferation and diminished ERK signaling, consistent with deactivation of the Ras-ERK pathway"
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

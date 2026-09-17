@@ -1,0 +1,12 @@
+{
+    "question": "Which weather condition is most commonly associated with warm fronts?",
+    "content": {
+        "source_1": "A warm front is the boundary where advancing warm air glides up and over a retreating cooler air mass; the ascent cools the warm air and promotes condensation.",
+        "source_2": "As air cools to its dew point and condenses, stratiform clouds (altostratus to nimbostratus) commonly develop ahead of a warm front and, with sufficient depth and moisture, produce steady, widespread precipitation.",
+        "source_3": "Widespread stratiform precipitation and nimbostratus create overcast skies and rainy weather.",
+        "source_4": "Maritime-tropical warm air masses that feed warm fronts typically originate beneath subtropical high-pressure systems, where subsidence favors generally clear, non-precipitating conditions within the air mass.",
+        "source_5": "Subsiding air in high-pressure systems suppresses cloud growth and precipitation, leading to fair, sunny weather.",
+        "source_6": "Warm fronts transport these warm air masses poleward from their source regions into midlatitudes, carrying the air-mass characteristics into new areas."
+    },
+    "answer": "cloud formations bringing precipitation"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 20533,
+  "question": "When was Victor Amadeus, Prince of Carignano, born?",
+  "ambiguous_entity": "Victor Amadeus, Prince of Carignano",
+  "content": {
+    "source_1": "Victor Amadeus I, Prince of Carignano Victor Amadeus of Savoy (1 March 1690 – 4 April 1741) was an Italian nobleman who was Prince of Carignano from 1709 to 1741. He was the son of Emmanuel Philibert of Savoy, Prince of Carignano and his wife, the Maria Angela Caterina d'Este. Born in Turin, he was the third child of four and the eldest son. Made a Knight of the Annunciation in 1696, he married, at Moncalieri on 7 November 1714, Marie Victoire Françoise of Savoy (1690–1766), legitimised daughter of Victor Amadeus II of Sardinia, King of Sardinia and of Jeanne",
+    "source_2": "Victor Amadeus II, Prince of Carignano Victor Amadeus of Savoy (31 October 1743 – 10 September 1780) was a member of the House of Savoy and Prince of Carignano. He was the brother of the murdered \"princesse de Lamballe\" and grandfather of King Charles Albert of Sardinia. Born in Turin to Louis Victor of Savoy and his wife Christine of Hesse-Rotenburg, he was the couple's second child and eldest son. As a male line descendant of the Duke of Savoy, he was a \"Prince of Savoy\" by birth. He was named after his cousin King Victor Amadeus III of Sardinia."
+  },
+  "content_pid": [
+    "13650077",
+    "14869161"
+  ],
+  "answer": [
+    "1 March 1690",
+    "31 October 1743"
+  ]
+}

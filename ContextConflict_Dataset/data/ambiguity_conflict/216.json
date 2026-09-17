@@ -1,0 +1,23 @@
+{
+  "qid": 18060,
+  "question": "What is the location of Clutha?",
+  "ambiguous_entity": "Clutha",
+  "content": {
+    "source_1": "Balclutha, New Zealand Balclutha () is a town in Otago, lying towards the end of the Clutha River, on the east coast of the South Island of New Zealand. It is about halfway between Dunedin and Invercargill on the Main South Line railway, State Highway 1 and the Southern Scenic Route. Balclutha has a population of (as of ), and is the largest town in South Otago. The Clutha District Council is based in Balclutha. The major service center for the fertile farming region around the lower reaches of the Clutha River, it is also the nearest large town to",
+    "source_2": "Inch Clutha Inch Clutha is a large, flat island sitting in the delta between the Matau (northern) and Koau (southern) branches of the Clutha River, downstream from the town of Balclutha in the South Island of New Zealand. Approximately long and wide, the fertile but flood-prone land of the island is extensively farmed. The island takes its name from Scots Gaelic, \"innis\" meaning \"island\" and \"Cluaidh\" being the Gaelic form of the name of Scotland's River Clyde. The island is sparsely inhabited, consisting of a handful of farm houses distributed fairly evenly across the island. Only two bridges link the",
+    "source_3": "Clutha-Southland Clutha-Southland is a parliamentary constituency returning one member to the New Zealand House of Representatives. The current MP for Clutha Southland is Hamish Walker of the National Party. He has held the seat since the 2017 general election. Clutha-Southland was promulgated as one of the original 65 MMP electorates, centred on Southland district and covering an area stretching from Fiordland across the far south of the South Island to the south Otago coast. Its largest population centres are Gore and Balclutha. In 2008, the seat of Otago was abolished and split between the Waitaki and Clutha-Southland electorates, and parts",
+    "source_4": "still used by Statistics New Zealand, along with the former boundaries of Balclutha and Milton Boroughs. The 2006 census populations of the three former county areas were respectively 2,658; 3,255; and 1,761. The most populous town in Clutha District is Balclutha, which lies 81km south of Dunedin by road. Balclutha's population, by the 2006 census, was 4,062 (down from 4,137 in 1996). Other towns are Milton (pop. 1,887), Kaitangata (pop. 810), Tapanui (pop. 744), Lawrence (pop. 432), Owaka (pop. 327), Stirling (pop. 309), Clinton (pop. 291), Kaka Point (pop. 201), and Benhar (pop. 96). For a while in the 1980s"
+  },
+  "content_pid": [
+    "2066118",
+    "5565370",
+    "7497348",
+    "4730733"
+  ],
+  "answer": [
+    "Otago, lying towards the end of the Clutha River, on the east coast of the South Island of New Zealand",
+    "Downstream from the town of Balclutha in the South Island of New Zealand",
+    "Southland district and covering an area stretching from Fiordland across the far south of the South Island to the south Otago coast",
+    "81km south of Dunedin by road"
+  ]
+}

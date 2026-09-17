@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Wildfeed can be prerecorded.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Wildfeed is an unannounced program.",
+        "source_2": "Wildfeed may carry sporting events, news, or syndicated shows.",
+        "source_3": "Pre-recorded content constitutes a copyright violation.",
+        "source_4": "Television programs are pre-recorded.",
+        "source_5": "Live sports and breaking news are broadcast in real time rather than pre-recorded.",
+        "source_6": "Unannounced feeds are often used to pass through live signals before scheduled airing."
+    },
+    "answer": "True"
+}

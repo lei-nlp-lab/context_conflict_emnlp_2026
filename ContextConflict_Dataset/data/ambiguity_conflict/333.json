@@ -1,0 +1,17 @@
+{
+  "qid": 50295,
+  "question": "When did the Battle of Achelous take place?",
+  "ambiguous_entity": "Battle of Achelous",
+  "content": {
+    "source_1": "Battle of Achelous (1359) The Battle of Achelous () took place in 1359 near the river Achelous, in Aetolia, modern Greece fought between Albanian troops, under Peter Losha and John Spata, and forces of the Despotate of Epirus, under Nikephoros II Orsini. The Albanians defeated Orsini's army, which suffered massive casualties during the battle. The battle established two despotates from regions previously part of the Despotate of Epirus: the Despotate of Arta and the Despotate of Angelokastron and Lepanto. Since the early 14th century the power of the Despotate of Epirus had been decreasing while the Albanian tribesmen had been",
+    "source_2": "Battle of Achelous (917) The Battle of Achelous or Acheloos (, ), also known as the Battle of Anchialus, took place on 20 August 917, on the Achelous River near the Bulgarian Black Sea coast, close to the fortress Tuthom (modern Pomorie) between Bulgarian and Byzantine forces. The Bulgarians obtained a decisive victory which not only secured the previous successes of Simeon I but made him \"de facto\" a ruler of the whole Balkan Peninsula excluding the well-protected Byzantine capital Constantinople and the Peloponnese. The battle, which was one of the biggest and bloodiest battles of the European Middle Ages,"
+  },
+  "content_pid": [
+    "14569429",
+    "4422133"
+  ],
+  "answer": [
+    "1359",
+    "917"
+  ]
+}

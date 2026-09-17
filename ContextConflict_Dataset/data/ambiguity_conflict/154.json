@@ -1,0 +1,20 @@
+{
+  "qid": 60273,
+  "question": "What is Bomarzo known for?",
+  "ambiguous_entity": "Bomarzo (disambiguation)",
+  "content": {
+    "source_1": "Lante Montefeltro della Rovere in 1645. Lante was elevated to the title of \"Duke of Bomarzo\". Bomarzo's main attraction is a garden, usually referred to as the \"Bosco Sacro\" (Sacred grove) or, locally, \"Bosco dei Mostri\" (\"Monsters' Grove\"), named after the many larger-than-life sculptures, some sculpted in the bedrock, which populate this predominantly barren landscape. It is the work of Pier Francesco Orsini, called \"Vicino\" (1528–1588), a condottiero or mercenary and a patron of the arts. He was greatly devoted to his wife Giulia Farnese, daughter of Galeazzo Farnese, Duke of Latera, (not to be confused with Giulia Farnese) and",
+    "source_2": "Francesco Orsini, called \"Vicino\", a 16th-century condottiero, and patron of the arts, greatly devoted to his wife Giulia Farnese (not to be confused with her maternal grandmother Giulia Farnese, the mistress of Pope Alexander VI). When Orsini's wife died, he created the gardens to cope with his grief. The design is attributed to Pirro Ligorio, and the sculptures to Simone Moschino. During the 19th century, and deep into the 20th, the garden became overgrown and neglected, but after the Spanish painter Salvador Dalí made a short movie about the park, and completed a painting actually based on the park in",
+    "source_3": "Bomarzo (opera) Bomarzo is an opera in two acts by the Argentinian composer Alberto Ginastera, his Opus 34. He set a Spanish libretto by Manuel Mujica Laínez, based on his 1962 novel about the 16th-century Italian eccentric Pier Francesco Orsini. The opera makes use of twelve-tone techniques, quarter tones – primarily in the harp parts, and controlled stochastic textures of non-synchronous repetitions of motifs and cells. Published by Boosey & Hawkes, New York, the work's two acts encompass a prelude and 15 scenes. Pola Suarez Urtubey has published an analysis of the opera with an outline of the dramatic structure."
+  },
+  "content_pid": [
+    "2415418",
+    "13519868",
+    "5293362"
+  ],
+  "answer": [
+    "A garden, usually referred to as the \"Bosco Sacro\"",
+    "Gardens of Bomarzo, created by Francesco Orsini, a 16th-century condottiero, and patron of the arts",
+    "12-tone techniques, quarter tones, and controlled stochastic textures of non-synchronous repetitions of motifs and cells"
+  ]
+}

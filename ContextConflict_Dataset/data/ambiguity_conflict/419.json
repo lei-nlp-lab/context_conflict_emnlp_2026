@@ -1,0 +1,17 @@
+{
+  "qid": 5001,
+  "question": "What is the format of \"Teen Wolf\"?",
+  "ambiguous_entity": "Teen Wolf (disambiguation)",
+  "content": {
+    "source_1": "in use by the university at that time. Released August 23, 1985, \"Teen Wolf\" debuted at No. 2 in its opening weekend, behind \"Back to the Future\" (also starring Michael J. Fox). After its initial run, the film grossed $33,086,661 domestically, with a worldwide gross of about $80 million. Despite its commercial success, the film's critical reception was at best mixed. Review aggregator Rotten Tomatoes reports that 47% of 19 critics have given the film a positive review, with a rating average of 4.8 out of 10. On Metacritic, the film has a 25 out of 100 rating based on",
+    "source_2": "score of 61 out of 100, which indicates \"Generally favorable reviews\", based on fourteen reviews. Metacritic also lists the show as the second-highest rated MTV series by professional critics behind \"Awkward\". Review aggregator Rotten Tomatoes reports that 70% of 23 critics have given the first season a positive review. The site's consensus is: \"Thanks to a charismatic lead in Tyler Posey and some dark, biting humor, Teen Wolf is a pleasant summer surprise, even if it does tread familiar ground.\" Linda Stasi, a writer from the \"New York Post\", awarded the series' premiere a perfect score, stating, \"Not only is"
+  },
+  "content_pid": [
+    "3175488",
+    "15079141"
+  ],
+  "answer": [
+    "Film",
+    "Television series"
+  ]
+}

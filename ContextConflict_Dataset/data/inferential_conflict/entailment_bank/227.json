@@ -1,0 +1,12 @@
+{
+    "question": "Given that soda cans are made of recyclable, nonrenewable aluminum and that recycling nonrenewable resources conserves them, what should you recycle?",
+    "content": {
+        "source_1": "Aluminum is produced from bauxite ore, a finite (nonrenewable) mineral resource; among common packaging materials, aluminum offers the largest energy savings when recycled—typically about 95% less energy than producing new aluminum from ore.",
+        "source_2": "Most beverage “soda” cans are made almost entirely of aluminum.",
+        "source_3": "If the aim is to conserve nonrenewable resources per item, the best target to recycle is the item whose recycling yields the greatest per-item reduction in virgin nonrenewable resource use.",
+        "source_4": "PET, the plastic used for most disposable beverage bottles, is synthesized from petrochemical feedstocks derived from crude oil or natural gas, both of which are nonrenewable resources.",
+        "source_5": "In many municipal waste streams, PET bottles have substantially lower recycling rates than aluminum cans, and plastics constitute a much larger share of landfilled material than aluminum packaging.",
+        "source_6": "If the aim is to conserve the most nonrenewable resources in aggregate, the best target to recycle is the material stream where increased recycling would displace the largest total amount of virgin nonrenewable feedstock given current disposal patterns."
+    },
+    "answer": "soda cans."
+}

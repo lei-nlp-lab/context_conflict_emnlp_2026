@@ -1,0 +1,14 @@
+{
+    "question": "Does KLF2 regulate myeloid cell activation and determine outcomes during polymicrobial infection and endotoxemia in vivo? Answer with Yes or No.",
+    "content": {
+        "source_1": "Herein, we identify the Kruppel-like transcription factor 2 (KLF2) as a potent regulator of myeloid cell activation in vivo.",
+        "source_2": "Myeloid KLF2 did not inhibit nuclear factor-kappaB (NF-κB)-dependent HIF-1α transcription and, consequently, was not a determinant of outcome in models of polymicrobial infection and endotoxemia.",
+        "source_3": "Rather than acting as a tonic repressor, KLF2 enhanced myeloid cell activation in vivo and was dispensable for maintaining appropriate innate immune regulation."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

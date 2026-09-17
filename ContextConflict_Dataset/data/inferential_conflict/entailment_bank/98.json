@@ -1,0 +1,12 @@
+{
+    "question": "What is the Moon's phase called when its lighted half faces the Sun and its dark half faces Earth?",
+    "content": {
+        "source_1": "The half of the Moon that faces the Sun is sunlit (“day side”), and the half facing away from the Sun is dark; the phase depends on how much of the sunlit half is pointed toward Earth.",
+        "source_2": "At new moon, the Moon lies between Earth and the Sun (conjunction), so essentially none of the sunlit hemisphere faces Earth and the Earth-facing side appears dark.",
+        "source_3": "A lunar eclipse can occur only at full moon, when Earth is between the Sun and the Moon (opposition).",
+        "source_4": "During a total lunar eclipse, the Moon’s Earth-facing side is darkened because it passes through Earth’s umbral shadow.",
+        "source_5": "At full moon when there is no eclipse, the hemisphere facing Earth is the sunlit half and the disk appears fully illuminated.",
+        "source_6": "When none of the sunlit hemisphere is visible from Earth, the phase is called “new moon.”"
+    },
+    "answer": "new moon."
+}

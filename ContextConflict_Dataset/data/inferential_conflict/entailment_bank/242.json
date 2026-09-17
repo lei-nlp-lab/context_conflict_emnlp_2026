@@ -1,0 +1,12 @@
+{
+    "question": "Due to the abundance of what resource does frame construction predominate in New England?",
+    "content": {
+        "source_1": "New England is among the most heavily forested U.S. regions; states like Maine, New Hampshire, and Vermont are each over 70% forested, providing abundant local timber.",
+        "source_2": "In the northeastern United States, detached houses are overwhelmingly built with wood light‑frame construction because dimensional lumber is widely available and cost‑effective across the region.",
+        "source_3": "Detached single‑family houses constitute the majority of buildings by count in New England towns and suburbs.",
+        "source_4": "Major New England cities (e.g., Boston, Providence, Hartford, New Haven, Worcester) enforce IBC‑based codes that prohibit combustible wood framing for most mid‑ and high‑rise residential and essentially all commercial buildings, requiring noncombustible materials such as reinforced concrete, structural steel, or masonry.",
+        "source_5": "The great majority of New England’s population resides in metropolitan areas anchored by those cities, whose historic cores are predominantly noncombustible masonry mill buildings, brick rowhouses, and steel/concrete structures shaped by strict fire‑safety codes.",
+        "source_6": "Where most development is governed by codes that bar combustible framing for the principal urban building types, wood‑frame construction does not predominate at the regional scale despite any local abundance of timber."
+    },
+    "answer": "wood."
+}

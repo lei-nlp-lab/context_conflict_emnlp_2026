@@ -1,0 +1,16 @@
+{
+    "question": "Among Black adults with sickle cell trait, are HbA1c values lower than in those without the trait for the same fasting or 2-hour plasma glucose levels, indicating that HbA1c overestimates glycemic control in this group? Answer with Yes or No.",
+    "content": {
+        "source_1": "These findings suggest that HbA1c may systematically underestimate past glycemia in black patients with SCT and may require further evaluation.",
+        "source_2": "In models adjusted for key risk factors and using concurrent 2-hour glucose and HbA1c measurements from 2001, participants with SCT had higher HbA1c (mean, 5.65%) than those without SCT (mean, 5.35%), yielding a mean HbA1c difference of +0.30% (95% CI, +0.21% to +0.39%).",
+        "source_3": "Conclusions and Relevance Among African Americans from 2 large, well-established cohorts, participants with SCT had lower levels of HbA1c at any given concentration of fasting or 2-hour glucose compared with participants without SCT.",
+        "source_4": "Unadjusted generalized estimating equation analyses calibrated to fasting glucose showed that HbA1c values were higher among those with SCT (6.01%) compared with those without SCT (5.72%), for a mean HbA1c difference of +0.29% (95% CI, +0.23% to +0.35%)."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

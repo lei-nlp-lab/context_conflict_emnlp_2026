@@ -1,0 +1,17 @@
+{
+  "qid": 43757,
+  "question": "What sport is Gavin Williams associated with?",
+  "ambiguous_entity": "Gavin Williams",
+  "content": {
+    "source_1": "In his first game on 13 March, he scored a free kick, created one goal and got sent off all in just over an hour. His loan was extended until the end of the season and he scored five times and got four assists in eight games. On 9 September 2010, Williams returned to Yeovil for a three-month loan. On 31 January 2011 he was released by Bristol City and signed for arch rivals Bristol Rovers. He scored his first goal for Bristol Rovers in a west country derby win over Yeovil Town. He was one of seventeen players released",
+    "source_2": "Gavin Williams (rugby union) Gavin Williams (born 25 October 1979) is a former rugby union player from New Zealand, who played in the Top 14 and for Samoa internationally. Williams previously played for Connacht, where he played from 2005 until the end of the 2006–07 season. After leaving Connacht, he went on to make his debut for Samoa in 2007 in a match against . Williams scored a try and conversion in Samoa's opening game in the 2007 World Cup. After leaving Connacht, he played for US Dax before signing for Clermont. Gavin Williams has a strong family connection in"
+  },
+  "content_pid": [
+    "5722073",
+    "10873518"
+  ],
+  "answer": [
+    "Football",
+    "Rugby union"
+  ]
+}

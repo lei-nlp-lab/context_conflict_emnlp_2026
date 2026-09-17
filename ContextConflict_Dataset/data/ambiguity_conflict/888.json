@@ -1,0 +1,20 @@
+{
+  "qid": 40429,
+  "question": "Who controlled the Temple of Poseidon?",
+  "ambiguous_entity": "Temple of Poseidon",
+  "content": {
+    "source_1": "was under the control of the Ionian city of Priene, one of the twelve cities comprising the Ionian League. Priene was about away, on the opposite side of Mt. Mycale. The Prienians managed the sanctuary and presided at the sacrifices and sacred rites. The Panionium was the site of the Ionian religious festival and games (\"panegyris\") called the Panionia. Under Persian rule, activities at the Panionium were curtailed. Writing at the end of the 5th century BC, Thucydides says that the Ionians were then celebrating their festival at Ephesus. Diodorus writes that the Ionians were forced to move the Panionia",
+    "source_2": "construction of the cella, since there are no structural connections between its foundations and those of the older nucleus. The presence of a little ditch next to the columns, as well as traces at the edge of it, suggest the existence of a pavement and a raised wooden platform belonging to an original cult building of rough bricks and perishable material built at the end of the 8th century BC by the original Spartan colonists. If still in use by the 4th-and 5th century, it would have been closed during the persecution of pagans in the late Roman Empire. The",
+    "source_3": "the Peloponnesus by the Visigoths in AD 396. Excavations of the site were conducted in both the original 1952 excavations, and again in 1989. The latter excavations helped to uncover evidence relating to all the areas of development of Isthmia from the Bronze Age to the Roman period, but in particular focused on the Archaic temple, partly because this is the most complete of the buildings found at the site despite being one of the oldest. The site was originally found by Oscar Broneer in 1952 with excavations continuing until 1967. He published his findings in a series of three"
+  },
+  "content_pid": [
+    "5684637",
+    "19288525",
+    "10609666"
+  ],
+  "answer": [
+    "The Prienians",
+    "The original Spartan colonists and possibly persecuted pagans in the late Roman Empire",
+    "Visigoths in AD 396"
+  ]
+}

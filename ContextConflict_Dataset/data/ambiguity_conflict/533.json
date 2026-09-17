@@ -1,0 +1,17 @@
+{
+  "qid": 3465,
+  "question": "What was Edward Hogan's profession?",
+  "ambiguous_entity": "Edward Hogan",
+  "content": {
+    "source_1": "Edward Hogan (New York politician) Edward Hogan (November 6, 1834 New York City – January 14, 1905 Manhattan, NYC) was an American politician from New York. He attended the public schools. He was Police Justice of the First District from 1864 to 1873. He was a member of the New York State Senate from 1878 to 1881, sitting in the 101st, 102nd (both 4th D.), 103rd and 104th New York State Legislatures (both 5th D.). He was a City Magistrate from 1899 until his death. He died at his residence at 325 West 101st Street, in Manhattan, on January 14,",
+    "source_2": "state record that stood for decades. Following a stint in the U.S. Naval Reserve during World War I, Hogan enrolled at the University of Notre Dame, where he reportedly intended to play football under coach Rockne. Hogan's athletic career took an unexpected turn, however, when Rockne observed as Hogan demonstrated a pole-vaulting technique to a member of the school's track and field team. An impressed Rockne, who also coached track, informed Hogan that he was no longer a member of the football team. Hogan proved to be a strong and consistent performer on Notre Dame's outdoor varsity track team from"
+  },
+  "content_pid": [
+    "16873162",
+    "9061272"
+  ],
+  "answer": [
+    "American politician",
+    "Athlete and member of the University of Notre Dame track and field team"
+  ]
+}

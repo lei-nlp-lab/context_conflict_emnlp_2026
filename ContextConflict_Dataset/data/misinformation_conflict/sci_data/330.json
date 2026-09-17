@@ -1,0 +1,16 @@
+{
+    "question": "Does the inhibitory MHC I receptor Ly49Q promote neutrophil polarization and migration to sites of inflammation by regulating membrane raft functions? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that an inhibitory MHC I receptor, Ly49Q, was crucial for the swift polarization of and tissue infiltration by neutrophils.",
+        "source_2": "In Ly49Q-deficient mice, neutrophil polarization dynamics and recruitment to inflamed peritoneum were comparable to wild-type controls, and acute disruption of membrane rafts with methyl-β-cyclodextrin did not measurably impact these parameters.",
+        "source_3": "Ly49Q-dependent polarization and migration were affected by Ly49Q regulation of membrane raft functions.",
+        "source_4": "Contrary to a raft-centric model, Ly49Q predominantly associated with non-raft membranes in neutrophils, and its genetic deletion left raft composition and chemokine-driven transendothelial migration intact in vivo."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

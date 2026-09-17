@@ -1,0 +1,14 @@
+{
+    "question": "Does the COPI coatomer complex regulate lipid homeostasis in cells, for example by limiting lipid storage and promoting lipolysis at lipid droplets? Answer with Yes or No.",
+    "content": {
+        "source_1": "These data indicate that the COPI complex is an evolutionarily conserved regulator of lipid homeostasis, and highlight an interaction between vesicle transport systems and lipid droplets.",
+        "source_2": "Using time-resolved proteomics and live-cell imaging in human adipocytes, depletion of COPI subunits did not alter the PAT/perilipin composition on lipid droplets or recruit ATGL to their surface, and neither basal nor forskolin-stimulated lipolysis changed significantly (Δglycerol release <5%, p=0.42).",
+        "source_3": "In yeast and Drosophila models, limiting lipid storage was independent of COPI; coatomer inhibition or ARF1 inactivation did not increase lipid droplet size or number, and total neutral lipid content was unchanged relative to controls (q>0.1), indicating the COPI transport complex is not required for restraining lipid accumulation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

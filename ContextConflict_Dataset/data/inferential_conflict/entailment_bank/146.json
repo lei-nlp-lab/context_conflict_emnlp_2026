@@ -1,0 +1,12 @@
+{
+    "question": "If a fossil of a bird cannot be identified, what is most likely true about that kind of bird?",
+    "content": {
+        "source_1": "Birds are organisms, and complete, articulated fossils of organisms typically preserve the relative positions and lengths of their bones, allowing direct measurement of body size and proportions.",
+        "source_2": "In avian paleontology, wingspan and overall body size can be estimated from limb-bone lengths (e.g., humerus, ulna, carpometacarpus) using well-established allometric relationships when skeletons are intact.",
+        "source_3": "The recovered bird fossil is three-dimensionally preserved with minimal deformation; long bones retain circular cross-sections and undistorted articular surfaces, indicating original lengths are faithfully recorded.",
+        "source_4": "Because the specimen is complete and articulated, measuring its limb bones provides a reliable basis to determine the bird’s approximate wingspan and body size even if the exact species is unknown.",
+        "source_5": "Field notes from the excavation describe the specimen as a two-dimensional compression on a bedding plane: limb bones are flattened and warped, consistent with compaction and shear within the host rock.",
+        "source_6": "Taphonomic studies show that in flattened compression fossils, skeletal dimensions are unpredictably distorted, preventing confident reconstruction of original lengths and derived measures like true wingspan."
+    },
+    "answer": "The bird existed at one time but is now extinct."
+}

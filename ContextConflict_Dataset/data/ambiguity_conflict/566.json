@@ -1,0 +1,17 @@
+{
+  "qid": 51184,
+  "question": "Who is the artist of \"The Thrill of It All\"?",
+  "ambiguous_entity": "The Thrill of It All",
+  "content": {
+    "source_1": "The Thrill of It All (Sam Smith album) The Thrill of It All is the second studio album by English singer and songwriter Sam Smith. It was released on 3 November 2017 through Capitol Records. On 6 October 2017, Smith announced via Twitter that his second album, titled \"The Thrill of It All\", was to be released on 3 November 2017. It is Smith's second full album of material after his hugely successful debut album \"In the Lonely Hour\" (2014), which has sold 12 million copies worldwide. Speaking to \"Billboard\" about the album, Smith said: \"Too Good at Goodbyes\" was",
+    "source_2": "The Thrill of It All (Thunder album) The Thrill of It All is the fourth studio album by English hard rock band Thunder. Recorded between April and May 1996 at Rockfield Studios in Monmouth, Wales, it was produced the band's lead guitarist Luke Morley and mixed by Rupert Coulson at London's Trident 2. The album was initially released in Japan by Victor Entertainment on 1 September 1996, with the European release by Castle Communications (under the band's B Lucky sub-label) following on 2 February 1997. Unlike they did on \"Laughing on Judgement Day\" and \"Behind Closed Doors\", Thunder vocalist Danny"
+  },
+  "content_pid": [
+    "20374300",
+    "14350886"
+  ],
+  "answer": [
+    "Sam Smith",
+    "Thunder"
+  ]
+}

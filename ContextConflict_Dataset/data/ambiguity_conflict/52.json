@@ -1,0 +1,17 @@
+{
+  "qid": 10778,
+  "question": "What is the primary feature of Cap-Rouge?",
+  "ambiguous_entity": "Cap-Rouge",
+  "content": {
+    "source_1": "feature of Cap-Rouge is the Rivière du Cap Rouge valley where are concentrated some historic buildings as well the archeological remains of a pottery workshop active from 1860 to 1892. It is believed that until the end of its operations the workshop mainly used imported clay rather than the local one, which has a rather red hue. The Cap-Rouge area is located to the south of the Canadian Shield and Laurentian Mountains, at the confluence of the geological regions of the Saint Lawrence Lowlands and of the northern Appalachians. It mostly sits at the western foot of the Quebec promontory,",
+    "source_2": "Cap-Rouge trestle The Cap-Rouge trestle () is a railway trestle bridge inaugurated in 1908 and still in use in the community of Cap-Rouge, part of the borough of Sainte-Foy–Sillery–Cap-Rouge in Quebec City, Canada. It was commissioned in 1906 as a section of the National Transcontinental Railway to span the Rivière du Cap Rouge valley and connect the eastbound railway with the newly built and nearby Quebec Bridge. It was built as a steel structure by the Dominion Bridge Company at a total cost of 800 000 Canadian dollars. At , it is one of the highest structures on which trains"
+  },
+  "content_pid": [
+    "3396401",
+    "19512319"
+  ],
+  "answer": [
+    "A Rivière du Cap Rouge valley",
+    "A railway trestle bridge"
+  ]
+}

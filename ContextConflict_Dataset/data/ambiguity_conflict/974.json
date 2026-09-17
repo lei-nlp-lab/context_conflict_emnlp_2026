@@ -1,0 +1,17 @@
+{
+  "qid": 37965,
+  "question": "What city is Twelfth Avenue located in?",
+  "ambiguous_entity": "Twelfth Avenue (disambiguation)",
+  "content": {
+    "source_1": "Judah and 12th Avenue station Judah and 12th Avenue is a light rail stop on the Muni Metro N Judah line, located in the Sunset District neighborhood of San Francisco, California. The station opened with the N Judah line on October 21, 1928. In March 2014, Muni released details of the proposed implementation of their Transit Effectiveness Project (later rebranded MuniForward), which included a variety of stop changes for the N Judah line. Under that plan - which will be implemented as the N Judah Rapid Project - the stop will have its short boarding islands extended to accommodate longer",
+    "source_2": "Washington/Southeast 12th Avenue station Washington/Southeast 12th Avenue is a light rail station on the MAX Blue Line in Hillsboro, Oregon. Hillsboro's West Precinct is near the station. Opened in 1998, it is the 17th stop westbound on the Westside MAX, and the last eastbound stop prior to crossing the Main Street Bridge. This is the last stop westbound to be on a grade-separated right-of-way. One block west of here, trains enter the median of Washington Avenue to run through downtown Hillsboro. Construction of the Westside MAX project began in 1994, and on September 12, 1998, the station opened along with"
+  },
+  "content_pid": [
+    "13711365",
+    "5117080"
+  ],
+  "answer": [
+    "San Francisco, California",
+    "Hillsboro, Oregon"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "To measure a mineral’s hardness, what should you do to the sample?",
+    "content": {
+        "source_1": "Hardness in mineralogy is defined as a mineral’s resistance to scratching, and the Mohs scale ranks minerals by which materials can scratch others.",
+        "source_2": "A standard hardness test compares an unknown mineral to reference objects by attempting to scratch one with the other (e.g., fingernail ≈ 2.5, copper coin ≈ 3, steel nail or window glass ≈ 5.5, quartz ≈ 7).",
+        "source_3": "Carbonate minerals such as calcite visibly effervesce when a drop of dilute hydrochloric acid is applied, whereas quartz and many other silicate minerals show no visible reaction to dilute HCl.",
+        "source_4": "Calcite (Mohs hardness ≈ 3) is both relatively soft and readily attacked by weak acids, while quartz (Mohs hardness 7) is very hard and generally resistant to weak acids.",
+        "source_5": "Introductory geology labs routinely perform an “acid test” by placing a drop of dilute HCl on a specimen to detect carbonate content, observing bubbles of CO2 if carbonates are present.",
+        "source_6": "A visible scratch or groove left by a harder material on a softer mineral surface provides direct evidence of relative hardness; tools like a steel nail or a piece of quartz are commonly used for this attempt."
+    },
+    "answer": "scratching the sample with a nail"
+}

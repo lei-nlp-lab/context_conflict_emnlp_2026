@@ -1,0 +1,16 @@
+{
+    "question": "Does bariatric surgery reduce the prevalence and severity of depression in patients after surgery compared with preoperative levels or non-surgical management? Answer with Yes or No.",
+    "content": {
+        "source_1": "Bariatric surgery was, however, consistently associated with postoperative decreases in the prevalence of depression (7 studies; 8%-74% decrease) and the severity of depressive symptoms (6 studies; 40%-70% decrease).",
+        "source_2": "Across seven cohorts with follow-up extending beyond 18 months, postoperative depression became more common after bariatric surgery (prevalence rising by 8%–74%), and six studies reported 40%–70% worsening in depressive symptom severity.",
+        "source_3": "Moderate-quality evidence supports an association between bariatric surgery and lower rates of depression postoperatively.",
+        "source_4": "After adjustment for baseline psychiatric comorbidity and weight-loss trajectory, meta-analytic estimates from controlled cohorts showed no reduction in postoperative depression following bariatric surgery (pooled risk ratio ≈1.02; 95% CI 0.94–1.11), indicating no mental health benefit."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

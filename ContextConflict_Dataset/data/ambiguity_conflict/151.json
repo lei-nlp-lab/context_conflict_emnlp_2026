@@ -1,0 +1,17 @@
+{
+  "qid": 54223,
+  "question": "What is Lee Butler known for?",
+  "ambiguous_entity": "Lee Butler",
+  "content": {
+    "source_1": "George Lee Butler George Lee Butler (born June 17, 1939), sometimes known as Lee Butler, was commander in chief, United States Strategic Command, and the last commander of Strategic Air Command. Following his retirement from the military he became active in the nuclear disarmament movement, calling for the outright abolition of nuclear weapons. Butler was born in 1939 at Fort Benning, Georgia, and graduated in 1957 from Washington-Lee High School in Arlington, Virginia. He earned a Bachelor of Science degree from the United States Air Force Academy in 1961 and a master's degree in international affairs from the University of",
+    "source_2": "Lee Pierce Butler Lee Pierce Butler (December 19, 1884 – March 28, 1953) was a professor at the University of Chicago Graduate Library School. He was one of the first to use the term \"library science\" (along with S. R. Ranganathan), by which he meant the scientific study of books and users, and was a leader in the new social-scientific approach to the field in the 1930s and 1940s. Butler was born in Clarendon Hills, Illinois. A middling student at first, he earned a Ph.B in 1906 and an M.A. in Latin in 1910 from Dickinson College. He went on"
+  },
+  "content_pid": [
+    "9633501",
+    "8329178"
+  ],
+  "answer": [
+    "Commander in chief, United States Strategic Command, and the last commander of Strategic Air Command",
+    "Professor at the University of Chicago Graduate Library School and a leader in the new social-scientific approach to the field in the 1930s and 1940s"
+  ]
+}

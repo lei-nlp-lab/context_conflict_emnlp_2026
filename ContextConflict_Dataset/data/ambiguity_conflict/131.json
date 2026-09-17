@@ -1,0 +1,20 @@
+{
+  "qid": 60415,
+  "question": "What is the population of Caldwell Township?",
+  "ambiguous_entity": "Caldwell Township",
+  "content": {
+    "source_1": "nearby Lake City, Manton, and Cadillac. Thomas ran in the first county election of 1871. John married Martha Babcock in the township on June 29, 1873. They raised 3 children on their Caldwell township homestead: Florence, Leona, and Frank. In 1904 the small town of Arlene had a general store and post office which operated there until 1906. The Caldwell cemetery is near Arlene in Caldwell Township. According to the United States Census Bureau, the township has a total area of , of which is land and (3.31%) is water. As of the census of 2000, there were 1,363 people,",
+    "source_2": "to $325. This purchase encompassed much of western Essex County, from the First Mountain to the Passaic River. The Van Ness House, constructed in 1720, is a historic home added in 1977 to the National Register of Historic Places. The Fairfield Dutch Reformed Church dates back to 1720, and its current structure is another historic site, built in 1804. According to the United States Census Bureau, the township had a total area of 10.460 square miles (27.093 km), including 10.296 square miles (26.667 km) of land and 0.164 square miles (0.426 km) of water (1.57%). Fairfield has the lowest population",
+    "source_3": "included the unincorporated community of \"Dixie\". It contains seven cemeteries: Bush, Caldwell, Cave, Foster, James, Knight and Mount Tabor; as well as the streams of Caldwell Branch, Prairie Fork and Prime Creek. Caldwell Township, Callaway County, Missouri Caldwell Township is one of eighteen townships in Callaway County, Missouri, USA. As of the 2010 census, its population was 438. Caldwell Township was established in June 5, 1883, created from former portions of current adjacent townships (as of 2018), and named in honor of a local family. The township's boundaries changed between 1883 and 1897, per descriptions of boundaries in the 1884"
+  },
+  "content_pid": [
+    "1099839",
+    "1149218",
+    "11446441"
+  ],
+  "answer": [
+    "1,363 people",
+    "lowest population",
+    "438"
+  ]
+}

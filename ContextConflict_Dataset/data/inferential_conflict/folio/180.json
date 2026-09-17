@@ -1,0 +1,15 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Some drugs are beneficial.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every controlled substance is a drug.",
+        "source_2": "Some controlled substances are harmful.",
+        "source_3": "Some controlled substances are beneficial.",
+        "source_4": "Any child exposed to a controlled substance is in chemical endangerment.",
+        "source_5": "Chemical endangerment is harmful.",
+        "source_6": "The Controlled Substances Act was passed in 1971.",
+        "source_7": "Some laws prevent harmful things.",
+        "source_8": "Anything that exposes children to chemical endangerment is generally treated as harmful overall.",
+        "source_9": "Acts that prevent harm often restrict access to controlled substances, even if those substances can be beneficial."
+    },
+    "answer": "True"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 9949,
+  "question": "Where is the Abbey of St Victor located?",
+  "ambiguous_entity": "Abbey of St Victor",
+  "content": {
+    "source_1": "Abbey of Saint-Victor, Paris The Abbey of Saint Victor, Paris, also known as Royal Abbey and School of Saint Victor, was an abbey near Paris, France. Its origins are connected to the decision of William of Champeaux, the Archdeacon of Paris, to retire to a small hermitage near Paris in 1108. He took on the life, vocation and observances of the Canons Regular, and his new community followed the Augustinian Rule. William was famed for his teaching, and was followed to his hermitage by many of his disciples, including Peter Abelard, and was convinced by them to take up his",
+    "source_2": "Abbey of St Victor, Marseille The Abbey of Saint Victor is a late Roman former monastic foundation in Marseille in the south of France, named after the local soldier saint and martyr, Victor of Marseilles. Tradition holds that in about 415, John Cassian founded two monasteries of St. Victor at Marseille, one for men (the later Abbey of St. Victor), the other for women. While Cassian certainly started monastic life in Marseille, he is probably not the founder of the abbey, as the archaeological evidence of Saint Victor only goes back to the end of the 5th century. Tradition also"
+  },
+  "content_pid": [
+    "8196690",
+    "7898895"
+  ],
+  "answer": [
+    "near Paris, France",
+    "in Marseille in the south of France"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does mTORC2 phosphorylate xCT (SLC7A11) at Ser26 to inhibit its activity, thereby reducing cystine uptake and lowering intracellular cysteine levels? Answer with Yes or No.",
+    "content": {
+        "source_1": "mTORC2 phosphorylates serine 26 at the cytosolic N terminus of xCT, inhibiting its activity.",
+        "source_2": "Inhibition of the mTOR kinase reduced extracellular glutamate release, suppressed cystine uptake, and depleted cellular glutathione, consistent with mTORC2 acting as an activator of xCT rather than an inhibitor.",
+        "source_3": "Genetic inhibition of mTORC2, or pharmacologic inhibition of the mammalian target of rapamycin (mTOR) kinase, promotes glutamate secretion, cystine uptake, and incorporation into glutathione, linking growth factor receptor signaling with amino acid uptake and utilization.",
+        "source_4": "Phosphorylation mapping failed to detect modification of xCT at Ser26 by mTORC2, and disruption of Rictor did not change intracellular cysteine content, indicating that cysteine homeostasis is independent of xCT regulation by mTORC2."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

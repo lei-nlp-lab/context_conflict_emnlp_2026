@@ -1,0 +1,16 @@
+{
+    "question": "Do dietary risks (suboptimal nutrition) rank among the leading global contributors to premature mortality compared with other risk factors? Answer with Yes or No.",
+    "content": {
+        "source_1": "The leading risk factors related to DALYs were dietary risks, tobacco smoking, high body mass index, high blood pressure, high fasting plasma glucose, physical inactivity, and alcohol use.",
+        "source_2": "Synthesizing global data for 2015, the comparative risk assessment found that dietary exposures were not among the ten largest contributors to DALYs; metabolic and environmental risks accounted for nearly all of the burden.",
+        "source_3": "In 2015, the ten largest contributors to global DALYs among Level 3 risks were high systolic blood pressure (211·8 million [192·7 million to 231·1 million] global DALYs), smoking (148·6 million [134·2 million to 163·1 million]), high fasting plasma glucose (143·1 million [125·1 million to 163·5 million]), high BMI (120·1 million [83·8 million to 158·4 million]), childhood undernutrition (113·3 million [103·9 million to 123·4 million]), ambient particulate matter (103·1 million [90·8 million to 115·1 million]), high total cholesterol (88·7 million [74·6 million to 105·7 million]), household air pollution (85·6 million [66·7 million to 106·1 million]), alcohol use (85·0 million [77·2 million to 93·0 million]), and diets high in sodium (83·0 million [49·3 million to 127·5 million]).",
+        "source_4": "When restricted to premature mortality rather than DALYs in the United States (1990–2010), suboptimal nutrition did not emerge as a leading risk factor, ranking behind tobacco, high blood pressure, and glucose abnormalities in years of life lost."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

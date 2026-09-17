@@ -1,0 +1,12 @@
+{
+    "question": "Which gas, other than oxygen, makes up the largest percentage of Earth's atmosphere by volume?",
+    "content": {
+        "source_1": "About 78% of Earth’s atmosphere is nitrogen (N2) by volume.",
+        "source_2": "Oxygen (O2) makes up about 21% of Earth’s atmosphere by volume.",
+        "source_3": "Argon (Ar) is present at about 0.93% by volume, making it the most abundant noble gas and the third-most abundant gas in the dry atmosphere.",
+        "source_4": "Carbon dioxide (CO2) is roughly 0.04% (around 420 ppm) of the atmosphere globally; other long‑lived trace gases each occur at less than 1% by volume.",
+        "source_5": "Atmospheric water vapor (H2O) is highly variable, ranging from nearly 0% in very cold, dry air to as high as about 4% by volume in warm, humid tropical air near the surface.",
+        "source_6": "The proportions of nitrogen, oxygen, and argon are relatively stable worldwide on short timescales, whereas water vapor changes rapidly with weather, location, and altitude."
+    },
+    "answer": "carbon dioxide, water vapor, and nitrogen"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 43299,
+  "question": "What is the population density of Elyria?",
+  "ambiguous_entity": "Elyria",
+  "content": {
+    "source_1": "in the village was 48.6 years. 15.7% of residents were under the age of 18; 7.9% were between the ages of 18 and 24; 17.6% were from 25 to 44; 33.3% were from 45 to 64; and 25.5% were 65 years of age or older. The gender makeup of the village was 47.1% male and 52.9% female. As of the census of 2000, there were 54 people, 26 households, and 15 families residing in the village. The population density was 208.1 people per square mile (80.2/km²). There were 31 housing units at an average density of 119.4 per square mile",
+    "source_2": "52.2% female. As of the census of 2000, there were 55,953 people, 22,409 households, and 14,834 families residing in the city. The population density was 2,813.7 people per square mile (1,086.2/km²). There were 23,841 housing units at an average density of 1,198.9 per square mile (462.8/km²). The racial makeup of the city was 81.3% White, 14.2% African American, 0.27% Native American, 0.61% Asian, 0.02% Pacific Islander, 0.95% from other races, and 2.64% from two or more races. Hispanic or Latino of any race were 2.78% of the population. There were 22,409 households out of which 31.9% had children under the",
+    "source_3": "Elyria Township, Lorain County, Ohio Elyria Township is one of the eighteen townships of Lorain County, Ohio, United States. The 2000 census found 3,520 people in the unincorporated portions of the township. Located in northern Lorain County, it borders the following townships and cities: No municipalities are located in Elyria Township, other than the city of Elyria, which has annexed the majority of the township. It is the only Elyria Township statewide. Elyria Township is named for Heman Ely, an early settler. The township is governed by a three-member board of trustees, who are elected in November of odd-numbered years"
+  },
+  "content_pid": [
+    "1147905",
+    "1186380",
+    "9650621"
+  ],
+  "answer": [
+    "208.1 people per square mile",
+    "2,813.7 people per square mile",
+    "3,520 people in the unincorporated portions of the township"
+  ]
+}

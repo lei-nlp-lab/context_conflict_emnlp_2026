@@ -1,0 +1,20 @@
+{
+  "qid": 13180,
+  "question": "What is Valmy known for?",
+  "ambiguous_entity": "Valmy (disambiguation)",
+  "content": {
+    "source_1": "French ship Valmy (1847) Valmy, named after the Battle of Valmy, was the largest three-decker of the French Navy, and the largest tall ship ever built in France. The design of \"Valmy\" was decided by the Commission de Paris, as a way to modernise the 118-gun \"Océan\" class design and its derivatives. The most radical departure from previous designs was the shedding of tumblehome and adoption of vertical sides, shared by the \"Hercule\" and \"Suffren\" classes; this significantly increased the space available for upper batteries, but reduced the stability of the ship. \"Valmy\" was laid down at Brest in 1838",
+    "source_2": "Valmy, Nevada Valmy is a census-designated place in Humboldt County, Nevada, United States, named after the Battle of Valmy in France. It is home to Newmont Mining's large Lone Tree gold-mining complex; mining ended there in 2007, though a small gold resource remains in place there. Valmy is also home to the North Valmy Generating Station, jointly owned by NV Energy and Idaho Power. Valmy has a post office, with the ZIP code 89438. As of the 2010 census, the community had a population of 37. Established in 1910 by the Southern Pacific Railroad as a section point, it became",
+    "source_3": "Dumouriez would bear a harsh change of fortune: after one more influential success in November 1792 at Jemappes, he was by the following year a broken man. His army had suffered such catastrophic losses that he defected to the royalist side for the rest of his life. Kellermann, however, continued in a long and distinguished military career. In 1808 he was ennobled by Napoleon and became Duke of Valmy. In the varied historiography of the French Revolution, the Battle of Valmy is often portrayed as the first victory of a citizen army, inspired by liberty and nationalism. Many thousands of"
+  },
+  "content_pid": [
+    "5429228",
+    "8170958",
+    "1628539"
+  ],
+  "answer": [
+    "It was the largest three-decker of the French Navy",
+    "It is home to Newmont Mining's large Lone Tree gold-mining complex",
+    "First victory of a citizen army, inspired by liberty and nationalism"
+  ]
+}

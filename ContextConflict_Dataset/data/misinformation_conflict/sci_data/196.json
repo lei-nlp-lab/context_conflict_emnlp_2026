@@ -1,0 +1,16 @@
+{
+    "question": "Does expression of progerin in human induced pluripotent stem cells (hiPSCs) or their derivatives induce premature aging markers? Answer with Yes or No.",
+    "content": {
+        "source_1": "We found that expression of progerin in iPSC-derived fibroblasts and neurons induces multiple aging-related markers and characteristics, including dopamine-specific phenotypes such as neuromelanin accumulation.",
+        "source_2": "In iPSC-derived fibroblasts and neurons, forced progerin expression failed to increase canonical senescence markers (SA-β-gal activity, p16INK4a expression) and did not elicit dopamine-related phenotypes; neuromelanin accumulation was not observed up to 20 weeks in culture.",
+        "source_3": "Thus, our study suggests that progerin-induced aging can be used to reveal late-onset age-related disease features in hiPSC-based disease models.",
+        "source_4": "Short-term, inducible expression of progerin in human iPSCs and their neuronal progeny predominantly compromised differentiation efficiency and decreased DNA damage signaling, preventing the emergence of late-onset, age-associated readouts in these models."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 1121,
+  "question": "In which position did Leslie Thompson play in football?",
+  "ambiguous_entity": "Leslie Thompson",
+  "content": {
+    "source_1": "Les Thompson (footballer, born 1968) Leslie Allen \"Les\" Thompson (born 23 September 1968) is an English former professional association football player who played as a left back. Born in Cleethorpes, Lincolnshire, he started his career with Hull City, where he signed professional terms in 1987. He played 35 matches in four seasons with Hull, and in December 1988 he was sent out on loan to Scarborough, where he played three games and scored one goal. In 1991, he moved to Football League Fourth Division side Maidstone United. He spent only one season with Maidstone, playing 38 times as the side",
+    "source_2": "Les Thompson (footballer, born 1988) Leslie Allotey \"Les\" Thompson (born 3 October 1988) is an English footballer from Newham, London, who plays as a winger for Thurrock. Thompson began his career at Arsenal before signing as a trainee with Bolton Wanderers, having previously played for junior side Newham Warriors. He turned professional in July 2007. He joined Stockport County on loan in October 2007, and made his league debut for Stockport on 6 October in their 4–2 defeat at home to Barnet. He also played in the Football League Trophy win at Macclesfield Town, the league defeat at Darlington, and"
+  },
+  "content_pid": [
+    "13991942",
+    "12780460"
+  ],
+  "answer": [
+    "left back",
+    "winger"
+  ]
+}

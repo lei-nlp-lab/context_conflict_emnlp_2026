@@ -1,0 +1,17 @@
+{
+  "qid": 65692,
+  "question": "When was the Pride Center established?",
+  "ambiguous_entity": "Pride Center",
+  "content": {
+    "source_1": "The Pride Center at Equality Park The Pride Center at Equality Park, Gay and Lesbian Community Center of Greater Fort Lauderdale \"provides information, news and events that affect South Florida's LGBT community.\" Established in 1993, the center is headquartered within \"30,000 square feet of meeting and office space for individuals, programs and services, as well as synergy among organizations\" to \"celebrate, nurture and empower the LGBTQ communities and our friends and neighbors in South Florida.\" Pride Center Florida reports hosting \"more than 60 regular meeting groups each month\" serving \"more than 25,000 adults and youth\" annually with a focus on",
+    "source_2": "Services Center Inc. in 1975 through 1979. Its executive directors were Dorothy Makin and Ken Storer. The Gay Community Service Center and Clinic was created in 1984. Its executive directors were Auntie Dé and Beau Chainé. The Utah Stonewall Center was created in 1991 through 1996 as a project of the Gay and Lesbian Community Council of Utah. The executive directors of the center were Craig Miller, Melissa Sillitoe, John Bennett, Renee Rinaldi, Michael O’Brien and Alan Ahtow. The center was renamed in 1997 through 2004 as the Gay and Lesbian Community Center of Utah. Its executive directors were Monique"
+  },
+  "content_pid": [
+    "19699734",
+    "6316199"
+  ],
+  "answer": [
+    "1993",
+    "1975 through 1979, 1984, 1991 through 1996, 1997 through 2004"
+  ]
+}

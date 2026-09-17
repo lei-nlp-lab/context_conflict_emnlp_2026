@@ -1,0 +1,23 @@
+{
+  "qid": 19327,
+  "question": "What is the current use of the Lehigh Line?",
+  "ambiguous_entity": "Lehigh Line",
+  "content": {
+    "source_1": "Lehigh Line (Conrail) The Conrail Lehigh Line is a railroad line in New Jersey that is part of Conrail Shared Assets Operations under the North Jersey Shared Assets Area division. The line runs from CP Port Reading Junction in Manville to Oak Island Yard in Newark. The line is double-track and signaled through its entire length. The line began operations in 1999 using former existing tracks from Manville to Newark that was once part of the original Lehigh Line which is still in existence and is owned and operated by Norfolk Southern Railway. The original Lehigh Line was built by",
+    "source_2": "Lehigh Line Connection The Lehigh Line Connection connects Amtrak's Northeast Corridor (NEC) with the Conrail Lehigh Line south of downtown Newark, New Jersey. It leaves the NEC at Hunter Interlocking, and the line is sometimes called the Hunter Connection. Used by New Jersey Transit (NJT) Raritan Valley Line trains since 1997 when it replaced an older connection, it splits from the NEC just north of the former connector, with wider radius curves with a maximum speed of 45 mph, compared to the 15 mph of the original alignment. The old connection had a single track with older overhead wire and",
+    "source_3": "Ashmore Secondary, the Portland Secondary and the Stroudsburg Secondary. It connects with regional and short line railroads such as the Reading Blue Mountain and Northern Railroad, the Black River and Western Railroad and the Belvidere and Delaware River Railway. The majority of the line was once the main line of the Lehigh Valley Railroad. The first segment, between Easton and Allentown, opened in September 1855. Later extensions and corporate acquisitions would carry to the Lehigh Valley main line to Buffalo, New York to the west and Perth Amboy, New Jersey to the east. Some portions of the line were constructed",
+    "source_4": "this route continues as two lines, one that is considered the original line that served as the main line for the Lehigh Valley Railroad and the other that is considered a new line that was once part of the original line that served as the main line for the Lehigh Valley Railroad. The original line retains its original route when it was first constructed and is served by Norfolk Southern Railway. The new line is also served by Norfolk Southern Railway but it is served with CSX Transportation in a joint ownership company called Conrail Shared Assets Operations. Most of"
+  },
+  "content_pid": [
+    "6212909",
+    "4308203",
+    "18012245",
+    "3497832"
+  ],
+  "answer": [
+    "Part of Conrail Shared Assets Operations under the North Jersey Shared Assets Area division",
+    "Used by New Jersey Transit (NJT) Raritan Valley Line trains",
+    "It connects with regional and short line railroads such as the Reading Blue Mountain and Northern Railroad, the Black River and Western Railroad and the Belvidere and Delaware River Railway",
+    "Served by Norfolk Southern Railway and CSX Transportation in a joint ownership company called Conrail Shared Assets Operations"
+  ]
+}

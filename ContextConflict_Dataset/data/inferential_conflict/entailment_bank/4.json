@@ -1,0 +1,12 @@
+{
+    "question": "From Earth, why does the Sun appear brighter than other stars?",
+    "content": {
+        "source_1": "The Sun is approximately 1 astronomical unit from Earth and is the nearest star to our planet.",
+        "source_2": "Stars are self-luminous objects that emit light via nuclear fusion in their cores.",
+        "source_3": "For a luminous source, apparent brightness decreases with the square of distance; nearer sources appear brighter to an observer.",
+        "source_4": "The Sun’s total power output (bolometric luminosity) is about 3.8 × 10^26 watts.",
+        "source_5": "The most common stars in the Milky Way are low-mass red dwarfs, which are much less luminous than the Sun.",
+        "source_6": "On the main sequence, higher-mass stars are generally more luminous than lower-mass stars, and the Sun’s mass exceeds that of the majority of stars in the Galaxy."
+    },
+    "answer": "closest star."
+}

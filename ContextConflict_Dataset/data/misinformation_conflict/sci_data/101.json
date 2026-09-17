@@ -1,0 +1,16 @@
+{
+    "question": "Does monocyte-derived IL-10 suppress CD4+ T cell activation and function? Answer with Yes or No.",
+    "content": {
+        "source_1": "Triggering of PD-1 expressed on monocytes by PD-L1 expressed on various cell types induced IL-10 production and led to reversible CD4+ T cell dysfunction.",
+        "source_2": "In primary co-cultures from healthy donors, microbial ligands that increased PD-1 levels and elicited IL-10 secretion by monocytes did not impair CD4+ T cell expansion or cytokine production; proliferation and IFN-γ release were comparable to unstimulated controls.",
+        "source_3": "Microbial stimulation curtailed CD4+ T cell expansion and effector function by upregulating PD-1 on monocytes; subsequent PD-L1 engagement drove monocyte-derived IL-10 that mediated the suppression.",
+        "source_4": "Ligation of PD-1 on monocytes by PD-L1 consistently reduced IL-10 release and was associated with augmented CD4+ T cell activation, indicating that monocyte IL-10 is not a mediator of T cell inhibition in this setting."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

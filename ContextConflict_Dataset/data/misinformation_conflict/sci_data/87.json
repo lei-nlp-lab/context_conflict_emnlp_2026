@@ -1,0 +1,16 @@
+{
+    "question": "Does Helicobacter pylori infection promote gastric carcinogenesis by inducing accumulation of somatic mutations in host gastric epithelial cells (e.g., via AID-mediated mutations such as in TP53)? Answer with Yes or No.",
+    "content": {
+        "source_1": "H. pylori–mediated upregulation of AID resulted in the accumulation of nucleotide alterations in the TP53 tumor suppressor gene in gastric cells in vitro.",
+        "source_2": "In infected gastric epithelial cultures, AID expression was not induced by H. pylori, and sequencing failed to detect new nucleotide changes in TP53, indicating that host mutation accumulation is not a driver of H. pylori–linked tumorigenesis in vitro.",
+        "source_3": "Our findings provide evidence that aberrant AID expression caused by H. pylori infection might be a mechanism of mutation accumulation in the gastric mucosa during H. pylori–associated gastric carcinogenesis.",
+        "source_4": "Analysis of gastric mucosal biopsies from H. pylori–positive individuals over time showed no increase in somatic mutation burden in epithelial cells compared with uninfected controls; instead, carcinogenic progression correlated with reversible epigenetic dysregulation rather than mutation accumulation."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

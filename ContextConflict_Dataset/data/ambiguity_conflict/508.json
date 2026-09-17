@@ -1,0 +1,17 @@
+{
+  "qid": 51314,
+  "question": "What geographical feature is associated with Allendorf?",
+  "ambiguous_entity": "Allendorf",
+  "content": {
+    "source_1": "Bad Sooden-Allendorf Bad Sooden-Allendorf is a town in the Werra-Meißner-Kreis in Hesse, Germany. The spa town of Bad Sooden-Allendorf lies in the Werra valley near the Hoher Meißner, right on the boundary with Thuringia, almost at Germany’s geographical centre, 33 km east of Kassel. Bad Sooden-Allendorf borders in the north on the communities of Lindewerra, Wahlhausen and Asbach-Sickenberg, in the east on the communities of Wiesenfeld und Volkerode (all in Thuringia’s Eichsfeld district), in the south on the community of Meinhard, the town of Eschwege and the community of Berkatal, in the west on the town of Großalmerode and in",
+    "source_2": "the divide between the Rhine and Weser watersheds. Stadtallendorf borders in the north on the town of Rauschenberg (Marburg-Biedenkopf) and the community of Gilserberg (Schwalm-Eder-Kreis), in the east on the town of Neustadt, in the southeast on the town of Kirtorf, in the south on the town of Homberg (Ohm) (both in the Vogelsbergkreis), and in the west on the towns of Amöneburg and Kirchhain (both in Marburg-Biedenkopf). Stadtallendorf was given city rights in 1960; it had been known until then simply as Allendorf. During World War II, Stadtallendorf was a secret munitions centre. The armament firms WASAG (\"Westfälisch-Anhaltische Sprengstoff"
+  },
+  "content_pid": [
+    "8203349",
+    "7715208"
+  ],
+  "answer": [
+    "Werra valley near the Hoher Meißner",
+    "divide between the Rhine and Weser watersheds"
+  ]
+}

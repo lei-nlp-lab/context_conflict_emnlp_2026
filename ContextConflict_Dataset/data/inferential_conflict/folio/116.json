@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Oliver plays violin in the concert.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Anyone who performs an instrument in a concert is good at that instrument.",
+        "source_2": "Peter plays the piano, the violin, and the saxophone.",
+        "source_3": "In the concert, Peter plays the piano.",
+        "source_4": "In the concert, both Peter and Oliver perform an instrument.",
+        "source_5": "In the concert, Oliver’s instrument is different from Peter’s.",
+        "source_6": "The concert program includes only piano and violin pieces.",
+        "source_7": "When given a choice, Oliver generally performs the saxophone at concerts."
+    },
+    "answer": "True"
+}

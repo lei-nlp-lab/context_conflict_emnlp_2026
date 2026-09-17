@@ -1,0 +1,12 @@
+{
+    "question": "Which property of quartz indicates that it is a mineral?",
+    "content": {
+        "source_1": "Geologists define a mineral as a naturally occurring, inorganic solid with an orderly (crystalline) internal structure and a definite chemical composition.",
+        "source_2": "Quartz is silicon dioxide (SiO2); it occurs naturally as an inorganic solid whose silicon and oxygen atoms are arranged in a continuous, ordered crystal framework.",
+        "source_3": "Quartz occurs in many color varieties (e.g., amethyst, smoky, citrine, rose), and these colors arise from trace impurities and/or radiation-induced defects within the crystal lattice.",
+        "source_4": "The specific trace constituents and defect centers that color quartz vary among specimens—for example, amethyst coloration involves trace iron modified by natural irradiation, while smoky quartz involves aluminum-related color centers.",
+        "source_5": "A key criterion used to classify minerals is having a definite chemical composition: the constituent elements occur in fixed proportions, with only limited allowable variation.",
+        "source_6": "Quartz has a Mohs hardness of about 7 and typically breaks with a conchoidal fracture rather than along cleavage planes."
+    },
+    "answer": "It has a specific crystal structure."
+}

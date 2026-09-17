@@ -1,0 +1,23 @@
+{
+  "qid": 30987,
+  "question": "What does \"Stage 4\" refer to?",
+  "ambiguous_entity": "Stage 4",
+  "content": {
+    "source_1": "Cambrian Stage 4 Cambrian Stage 4 is the still unnamed fourth stage of the Cambrian and the upper stage of Cambrian Series 2. It follows Cambrian Stage 3 and lies below the Wuliuan. The lower boundary has not been formally defined by the International Commission on Stratigraphy. One proposal is the first appearance of two trilobite genera, \"Olenellus\" or \"Redlichia\". Another proposal is the first appearance of the trilobite species \"Arthricocephalus chauveaui\". Both proposals will set the lower boundary close to million years ago. The upper boundary corresponds to the beginning of the Wuliuan. The International Commission on Stratigraphy has",
+    "source_2": "Key Stage 4 Key Stage 4 is the legal term for the two years of school education which incorporate GCSEs, and other examinations, in maintained schools in England normally known as Year 10 and Year 11, when pupils are aged between 14 and 16. (In some schools, KS4 work is started in Year 9.) The term is defined in the Education Act 2002 as \"the period beginning at the same time as the school year in which the majority of pupils in his class attain the age of fifteen and ending at the same time as the school year in",
+    "source_3": "require roughly 1 tonne of plutonium-238 (for which the US stockpile as of 2013 was no more than 20 kg), and so a nuclear thermal reactor would be needed. Dual-Stage 4-Grid The Dual-Stage 4-Grid (DS4G) is an electrostatic ion thruster design developed by the European Space Agency, in collaboration with the Australian National University. The design was derived by D. Fern from Controlled Thermonuclear Reactor experiments that use a 4-grid mechanism to accelerate ion beams. A 4-grid ion thruster with only 0.2 m diameter is projected to absorb 250 kW power. With that energy input rate, the thruster could produce",
+    "source_4": "(about two metric tons of carbon for a typical forty-ton carcass) is roughly equivalent to the amount of carbon exported to a hectare of abyssal ocean floor in 100–200 years. This amount of organic material reaching the seafloor at one time creates a pulse equivalent to about 2000 years of background carbon flux in the 50 square metres of sediment immediately beneath the whale fall. This helps to sustain the community structure that develops around a whale fall, but it also has potential implications for the biological pump, or the flux of organic material from the surface ocean to depth."
+  },
+  "content_pid": [
+    "16919328",
+    "5667972",
+    "15834271",
+    "4470182"
+  ],
+  "answer": [
+    "The fourth stage of the Cambrian",
+    "The two years of school education in maintained schools in England",
+    "4-grid mechanism to accelerate ion beams",
+    "2000 years of background carbon flux in the 50 square meters of sediment immediately beneath the whale fall"
+  ]
+}

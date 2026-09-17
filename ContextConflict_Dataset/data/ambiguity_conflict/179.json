@@ -1,0 +1,17 @@
+{
+  "qid": 9443,
+  "question": "What is Askim?",
+  "ambiguous_entity": "Askim (disambiguation)",
+  "content": {
+    "source_1": "Askim Askim () is a town and a municipality in Østfold county, Norway. The administrative centre of the municipality is the town of Askim. Askim was established as a municipality on 1 January 1838 (see formannskapsdistrikt). Askim is the largest population centre in Indre Østfold with 15 315 inhabitants (2012), and serves as a regional center for 9 municipalities in Indre Østfold. It lies next to the longest river in Norway, Glomma, which forms the border with Spydeberg to the north and west, and Skiptvet to the south. Askim also borders Trøgstad to the northeast and Eidsberg to the southeast.",
+    "source_2": "Askim, Sweden Askim () is a district (\"stadsdelsnämndsområde\") of the Gothenburg Municipality in Sweden, about south-west of the city centre. To the northwest of Askim is Västra Frölunda, to the east is Mölndal, and the sea is to the west. As a district, Askim has a local board composed of the same proportions ruling Gothenburg as a whole. The voting base in Askim is predominantly bourgeoisie, while Gothenburg as a whole has a social democratic, socialist and environmentalist majority. This has caused some local tensions due to the strong liberal movement, and a strong local movement works to once again"
+  },
+  "content_pid": [
+    "1509393",
+    "4193164"
+  ],
+  "answer": [
+    "A town and a municipality in Østfold county, Norway",
+    "A district (\"stadsdelsnämndsområde\") of the Gothenburg Municipality in Sweden"
+  ]
+}

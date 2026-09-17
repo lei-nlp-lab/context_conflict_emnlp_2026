@@ -1,0 +1,20 @@
+{
+  "qid": 16716,
+  "question": "What does \"detuning\" refer to?",
+  "ambiguous_entity": "Detuning",
+  "content": {
+    "source_1": "factor for reliability; using fresh synthetic oil at regular intervals increases the interval between oil changes. Remapping may increase the temperature of exhaust fumes. Performance tuning is the tuning of an engine for motorsports. Many such automobiles never compete but are built for show or leisure driving. In this context, the power output, torque, and responsiveness of the engine are of premium importance, but reliability and fuel efficiency are also relevant. In races, the engine must be strong enough to withstand the additional stress placed upon it and the automobile must carry sufficient fuel, so it is often far stronger",
+    "source_2": "Laser detuning In optical physics, laser detuning is the tuning of a laser to a frequency that is slightly off from a quantum system's resonant frequency. When used as a noun, the laser detuning is the difference between the resonance frequency of the system and the laser's optical frequency (or wavelength). Lasers tuned to a frequency below the resonant frequency are called \"red-detuned\", and lasers tuned above resonance are called \"blue-detuned\". Let us consider a system with a resonance frequency formula_1 in the optical frequency range of the electromagnetic spectrum, i.e. with frequency of a few THz to a few",
+    "source_3": "Ozarks often employ alternate tunings for dance songs and ballads. The most commonly used tuning is A-E-A-E. Likewise banjo players in this tradition use many tunings to play melody in different keys. A common alternative banjo tuning for playing in D is A-D-A-D-E. Many Folk guitar players also used different tunings from standard, such as D-A-D-G-A-D, which is very popular for Irish music. A musical instrument that has had its pitch deliberately lowered during tuning is said to be \"down-tuned\" or \"tuned down\". Common examples include the electric guitar and electric bass in contemporary heavy metal music, whereby one or"
+  },
+  "content_pid": [
+    "2038559",
+    "16096637",
+    "287733"
+  ],
+  "answer": [
+    "Engine tuning",
+    "Laser detuning In optical physics, laser detuning is the tuning of a laser to a frequency that is slightly off from a quantum system's resonant frequency",
+    "Deliberately lowering the pitch of a musical instrument during tuning"
+  ]
+}

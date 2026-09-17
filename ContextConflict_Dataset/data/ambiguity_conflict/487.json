@@ -1,0 +1,17 @@
+{
+  "qid": 62510,
+  "question": "What type of racing does Per-Gunnar Andersson participate in?",
+  "ambiguous_entity": "Per-Gunnar Andersson",
+  "content": {
+    "source_1": "Per-Gunnar Andersson (racing driver) Per-Gunnar \"Peggen\" Andersson (born 15 August 1957) is a race car driver from Falkenberg, Sweden. He started his career in Sweden in 1980. In 1988 he won the Thai Touring Car Championship and the Swedish Touring Car Championship. He won the Swedish championship again in 1989, 1991 and 1992. In the 1980s Andersson also competed in DTM and the British Touring Car Championship. In 1993 and 1995 he won the Nordic Touring Car Championship. Since then he has returned to Swedish touring cars, finishing his career at the end of 2001 after driving for Carly BMW",
+    "source_2": "best result came in last two rallies of the season, fifth places at Rally Japan and Rally GB. After the withdrawal of the Suzuki team at the end of 2008, Andersson was left without a regular drive for 2009. A drive in an ageing Škoda Fabia at Rally Norway saw two stage wins and a place in the top six on the first day before clutch problems forced him to retire. After that Andersson participated only at few local rallies and prepared for next season. 2010 Andersson was racing in SWRC with Škoda Fabia S2000, and won SWRC Rally Sweden."
+  },
+  "content_pid": [
+    "10394264",
+    "10394239"
+  ],
+  "answer": [
+    "Touring car racing",
+    "Rally driving"
+  ]
+}

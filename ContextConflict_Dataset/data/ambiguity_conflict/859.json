@@ -1,0 +1,17 @@
+{
+  "qid": 26745,
+  "question": "What is the elevation of the Spruce Run stream at its source?",
+  "ambiguous_entity": "Spruce Run",
+  "content": {
+    "source_1": "near the mouth of Spruce Run is above sea level. The elevation of the stream's source is between above sea level. Jökulhlaup surfaces and former ice-dammed lakes exist in the vicinity of Spruce Run. Patches of debris fans and till also occur nearby. The approximate area of the ice-dammed lake was estimated to be about , the depth was , and the volume was . The upper reaches of Spruce Run flow through mountainous terrain. Buffalo Mountain and Nittany Mountain are in its vicinity. The stream flows between these two mountains. The watershed of Spruce Run has an area of",
+    "source_2": "reaches. Shortly afterwards, it reaches its confluence with Little Fishing Creek near the community of Eyers Grove. Spruce Run joins Little Fishing Creek upstream of its mouth. The elevation of Spruce Run near its mouth is above sea level. The elevation of the stream at its source is approximately above sea level. The stream is described as a \"small stream\" in John Gosse Freeze's book \"A History of Columbia County, Pennsylvania: From the Earliest Times\". The watershed of Spruce Run has an area of . The upper reaches of the stream are in the Pennsylvania State Game Lands Number 226."
+  },
+  "content_pid": [
+    "18920728",
+    "18202773"
+  ],
+  "answer": [
+    "Between above sea level",
+    "Approximately above sea level"
+  ]
+}

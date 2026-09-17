@@ -1,0 +1,26 @@
+{
+  "qid": 28497,
+  "question": "What is Fred Harrison known for?",
+  "ambiguous_entity": "Fred Harrison",
+  "content": {
+    "source_1": "macro-economic analysis is based on the theory that business conforms to a pattern of 18-year cycles, determined by the unique characteristics of the land market. According to Harrison, economists erroneously \"assume that the health of the property market depends upon the condition of the rest of the economy. In fact ... property is the key factor that shapes the business cycle, not the other way around.\" In 2009, Dirk Bezemer, a Professor of Economics at the University of Groningen in the Netherlands, pointed out that Fred Harrison was the first and earliest economist to have predicted the global financial crisis,",
+    "source_2": "4–1 victory over his former club, Southampton. He also scored the only goal in the return match three days later. In the 1911–12 season, he scored 13 goals, partly making up for the loss of George Webb in December for the rest of the season. He formed a great partnership with Danny Shea and together they scored 40 goals in that season. In the FA Cup, Harrison was part of the West Ham team that defeated Middlesbrough of the First Division in the Second Round in February 1912. Harrison scored West Ham's goal in the first match (drawn 1–1) and,",
+    "source_3": "Final win in their first appearance. Fred Harrison (rugby league) Frederick Harrison (birth unknown - death unknown), also known by the nickname of \"Fred\", was an English professional rugby league footballer who played in the 1910s. He played at representative level for Great Britain and England, and at club level for Leeds, as a , or , i.e. number 8 or 10, 9, or, 11 or 12, during the era of contested scrums. Fred Harrison won caps for England while at Leeds in 1911 against Australia, in 1912 against Wales, in 1913 against Wales, and won caps for Great Britain",
+    "source_4": "Sir Richard Weston c. 1525. Harrison's father had been the lessee since 1874 and the author had many years of access in which to perform his detailed investigations and researches. He gave the Sir Robert Rede Lecture at the University of Cambridge in 1900. An advanced and vehement Radical in politics and Progressive in municipal affairs, Harrison in 1886 stood unsuccessfully for Parliament against Sir John Lubbock for the University of London. In 1889 he was elected an alderman of the London County Council, but resigned in 1893. Harrison was a regular contributor to George Potter's trade unionist journal \"The",
+    "source_5": "1912. In 1913 he was elected mayor of the city. He had succeeded James Clinkskill. After the Germans attacked Ypres and sank the luxury ship \"Lusitania\" during the first world war Harrison ordered all the Germans and Austrians in Saskatoon to work under guard. He did not seek reelection after his term as mayor ended in 1915. Alexander MacGillivray Young succeeded him as the mayor in 1916. In 1916, he moved to Calgary, Alberta after accepting a position with the federal Department of Labour. His wife was charged with attempted murder in 1922 after shooting Harrison twice in the chest."
+  },
+  "content_pid": [
+    "12477911",
+    "11339359",
+    "13568655",
+    "1771604",
+    "18118388"
+  ],
+  "answer": [
+    "His theory that business conforms to a pattern of 18-year cycles",
+    "His football career and partnership with Danny Shea",
+    "1911 against Australia, in 1912 against Wales, in 1913 against Wales",
+    "1886 stood unsuccessfully for Parliament against Sir John Lubbock for the University of London",
+    "He ordered all the Germans and Austrians in Saskatoon to work under guard during the first world war"
+  ]
+}

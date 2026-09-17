@@ -1,0 +1,14 @@
+{
+    "question": "In apolipoprotein E knockout mice, does genetic deficiency of FGF21 slow the development of atherosclerotic plaques compared with ApoE knockout controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "FGF21 deficiency causes a marked exacerbation of atherosclerotic plaque formation and premature death in apolipoprotein E(-/-) mice, which is accompanied by hypoadiponectinemia and severe hypercholesterolemia.",
+        "source_2": "In apolipoprotein E(-/-) mice, chronic administration of recombinant FGF21 led to larger atherosclerotic lesions with greater neointimal thickening and heightened macrophage inflammation; this was associated with upregulated hepatic SREBP-2, increased cholesterol synthesis, and aggravated hypercholesterolemia.",
+        "source_3": "CONCLUSIONS In the absence of FGF21, atherosclerosis progressed more slowly, consistent with improved coordination among liver, adipose tissue, and vascular compartments and net reductions in cholesterol production."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

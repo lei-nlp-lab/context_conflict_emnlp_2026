@@ -1,0 +1,17 @@
+{
+  "qid": 30668,
+  "question": "Who is the artist of the album \"Dream a Little Dream\"?",
+  "ambiguous_entity": "Dream a Little Dream",
+  "content": {
+    "source_1": "Dream a Little Dream (Cass Elliot album) Dream a Little Dream is the debut solo album by American singer Cass Elliot immediately after the breakup of The Mamas & the Papas, though she was still billed as \"Mama Cass\" for this release. Capitalizing on the success of her first solo song as the album's title, it was released on October 19, 1968 by Dunhill Records. The album was re-released by MCA Japan in 2001. Cass Elliot had agreed to a three-album deal as a solo artist with Dunhill Records less than a month after her split with the Mamas &",
+    "source_2": "Dream a Little Dream (Pink Martini and the von Trapps album) Dream a Little Dream is a collaborative studio album by Pink Martini and the von Trapps, released by Heinz Records on March 4, 2014. Members of the von Trapps, a Portland-based group of descendents of the von Trapp family, include Sofia, Melanie, Amanda and August von Trapp. The album features guests Charmian Carr, Jack Hanna, The Chieftains and Wayne Newton. Three of the songs were written by August von Trapp. In 2014 it was awarded a silver certification from the Independent Music Companies Association, which indicated sales of at"
+  },
+  "content_pid": [
+    "11716898",
+    "17802531"
+  ],
+  "answer": [
+    "Cass Elliot",
+    "Pink Martini and the von Trapps"
+  ]
+}

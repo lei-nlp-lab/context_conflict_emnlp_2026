@@ -1,0 +1,17 @@
+{
+  "qid": 11199,
+  "question": "What is Harper Valley PTA?",
+  "ambiguous_entity": "Harper Valley PTA (disambiguation)",
+  "content": {
+    "source_1": "Harper Valley PTA (TV series) Harper Valley PTA (known simply as Harper Valley during its second season) is an American sitcom based on the 1978 film of the same name, which was itself based on the 1968 country song of the same name recorded by singer Jeannie C. Riley and written by Tom T. Hall. The series, starring Barbara Eden who reprised her role from the film, aired on NBC from January 16, 1981 to August 14, 1982. The series went on to flesh out the story in the song, as it told of the adventures of Stella Johnson (Barbara",
+    "source_2": "Valley PTA: Original Soundtrack Recording was released in June 1978 on vinyl, cassette and 8-track by Plantation Records. To promote the film's release and its soundtrack, the title song by Jeannie C. Riley was re-issued as a single. The album made its compact disc premiere through Varèse Sarabande on October 27, 2017. In 1981, \"Harper Valley PTA\" was made into a television sitcom (created by Sherwood Schwartz) which aired on NBC from January 1981 to May 1982. Barbara Eden reprised her role as Stella Johnson for the series which lasted two seasons and a total of 30 episodes were produced."
+  },
+  "content_pid": [
+    "5082364",
+    "10757227"
+  ],
+  "answer": [
+    "An American sitcom",
+    "A film and soundtrack album"
+  ]
+}

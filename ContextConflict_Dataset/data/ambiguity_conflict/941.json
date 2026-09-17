@@ -1,0 +1,17 @@
+{
+  "qid": 32195,
+  "question": "What does JPATS stand for?",
+  "ambiguous_entity": "JPATS",
+  "content": {
+    "source_1": "Joint Primary Aircraft Training System The Joint Primary Aircraft Training System (JPATS) was an aircraft procurement program of the United States in the 1990s by the United States Air Force and United States Navy, a merger of 1980s era training aircraft programs. The winner was declared in 1995 and entered service a few years later as the Beechcraft T-6 Texan II. The program was partly a result of the cancelled Fairchild T-46 of the 1980s. In 1995, the selection of Beech Aircraft Corporation of Wichita, Kansas, to develop and deliver the JPATS was made. The aircraft would be manufactured by",
+    "source_2": "Justice Prisoner and Alien Transportation System The Justice Prisoner and Alien Transportation System (JPATS), nicknamed \"Con Air\", or ICE Air is an agency of the federal government of the United States charged with the transportation of persons in legal custody among prisons, detention centers, courthouses, and other locations. It is the largest prison transport network in the world. Though primarily used by the Federal Bureau of Prisons or U.S. Immigration and Customs Enforcement, JPATS also assists military and state law enforcement. The agency is managed by the United States Marshals Service out of the JPATS headquarters in Kansas City, Missouri."
+  },
+  "content_pid": [
+    "3673864",
+    "2787606"
+  ],
+  "answer": [
+    "Joint Primary Aircraft Training System",
+    "Justice Prisoner and Alien Transportation System"
+  ]
+}

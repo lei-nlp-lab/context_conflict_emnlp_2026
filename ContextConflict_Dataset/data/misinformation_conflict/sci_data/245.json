@@ -1,0 +1,16 @@
+{
+    "question": "Does latent human cytomegalovirus infection of myeloid cells cause significant changes in host gene expression? Answer with Yes or No.",
+    "content": {
+        "source_1": "Microarray-based studies of HCMV have provided useful information about genes that are transcriptionally active during both productive and latent phases of infection.",
+        "source_2": "At 4 hours after HCMV exposure in primary myeloid precursors—a setting that supports latent carriage—transcriptome profiling detected no significant differential expression, with fewer than 0.1% of genes changing and none exceeding a 1.5-fold cutoff after FDR correction.",
+        "source_3": "Overall, the results identify that the HCMV-infected monocyte transcriptome displayed a unique M1/M2 polarization signature that was skewed toward the classical M1 activation phenotype.",
+        "source_4": "Gene ontology analysis failed to detect induction of any classical M1-associated programs during latent HCMV infection of monocytes; instead, the profile matched uninfected controls across all analyzed pathways."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

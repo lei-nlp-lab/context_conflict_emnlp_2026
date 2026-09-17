@@ -1,0 +1,20 @@
+{
+  "qid": 48905,
+  "question": "What is the main plot of the film \"Bindaas\"?",
+  "ambiguous_entity": "Bindaas",
+  "content": {
+    "source_1": "belongs to the family of Mahendra Naidu (Ahuti Prasad). Seshadri Naidu (Jaya Prakash Reddy) is Mahendra's enemy. They keep killing each other's family members. The story is about how free-spirited Ajay puts an end to this and unites both families. The movie begins with the argument for MP post between Mahendra and Seshadri. The party decides that the seat should go to Mahendra. Seshadri and his sons try to create mayhem so that Mahendra's family doesn't move away from the party building. Meanwhile, Seshadri gets a phone call that his brother-in-law was kidnapped by Mahendra's gang. Dismayed, Seshadri asks his",
+    "source_2": "Bindaas (2014 film) Bindaas () () is a 2014 Indian action romantic Bengali film directed by Rajiv Kumar Biswas. It's a Shree Venkatesh Films production in association with Jalsha Movies Production. The film stars Dev, Sayantika Banerjee, Srabanti Chatterjee and Chiranjeet Chakraborty. It is a remake of the 2013 Telugu film Mirchi.This film was the List of highest-grossing Bengali films of the year. The movie begins with Abhi (Dev) practicing guitar when a girl runs to him and asks him to save her from a gang of goons chasing her. Then Abhi, without fighting, resolves the conflict. The girl introduces",
+    "source_3": "and Prashant Dalavi respectively. Bindhaast Bindhast (English:\"Carefree\") is a 1999 thriller Marathi film directed by Chandrakant Kulkarni and produced by Matchindra Chate of Chate Coaching Classes. The film is known for its all-women cast. The film was remade in Tamil as \"Snegithiye\" and in Malayalam as \"Raakilipattu\". The climax plot twist was also used in \"Bhagam Bhag\" (all movies directed by Priyadarshan. Two girls find themselves in a big trouble when their prank turns deadly. When they find are wrongly charged with murder of a man they don't even know, they have to run from law and do anything to"
+  },
+  "content_pid": [
+    "13986964",
+    "18122487",
+    "13372629"
+  ],
+  "answer": [
+    "Ajay puts an end to the family feud between Mahendra and Seshadri",
+    "Abhi (Dev) saves a girl from a gang of goons",
+    "Two girls find themselves in a big trouble when their prank turns deadly"
+  ]
+}

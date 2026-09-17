@@ -1,0 +1,17 @@
+{
+  "qid": 1652,
+  "question": "What type of music is associated with Bob Andrews?",
+  "ambiguous_entity": "Bob Andrews",
+  "content": {
+    "source_1": "in 2014 a limited run collector's edition of the original record and sleeve artwork was released by Drastic Plastic Records. In 1986, Andrews formed a retro-1950s Americana style \"beatbox rock'n'roll\"/rockabilly band called Westworld, with the singer Elizabeth Westwood. It had an early hit with its debut single \"Sonic Boom Boy\", which reached #11 in the UK Singles Chart in February 1987, which was subsequently commercially used as a backing music track by Sony for one of its television product advertising campaigns. Between 1987-1988, the band commercially released in the United Kingdom via R.C.A. five singles, all of which entered the",
+    "source_2": "Brinsley Schwarz, the first album from Carlene Carter. In 1979, Stiff Records boss Dave Robinson, who managed Andrews sporadically throughout the 1970s, enlisted Andrews as producer for Stiff artist Jona Lewie. This partnership produced, among other recordings, \"Stop the Cavalry\", which reached the No. 2 position in the UK Singles Chart in December 1980. The song also charted in twelve other countries. Actually an anti-war song, “Calvary” included the line “I wish I was at home for Christmas.” When coupled with its seasonal release (and the production’s subtle use of sleigh bells) it contributed to the song’s perception as a"
+  },
+  "content_pid": [
+    "14835008",
+    "12073451"
+  ],
+  "answer": [
+    "retro-1950s Americana style \"beatbox rock'n'roll\"/rockabilly",
+    "recordings, such as \"Stop the Cavalry\" which is an anti-war song"
+  ]
+}

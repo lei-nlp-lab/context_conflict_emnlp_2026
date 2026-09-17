@@ -1,0 +1,20 @@
+{
+  "qid": 5359,
+  "question": "What is Robert Younger known for?",
+  "ambiguous_entity": "Robert Younger",
+  "content": {
+    "source_1": "Bob Younger Robert Ewing Younger (October 29, 1853 – September 16, 1889) was an American criminal and outlaw, the younger brother of Cole, Jim and John Younger. He was a member of the James–Younger Gang. Born in Missouri on October 29, 1853, Robert was the thirteenth of fourteen children born to Henry Washington Younger and Bersheba Leighton Fristoe. During the Civil War his brothers Cole and Jim rode with Quantrill's Raiders. Bob was only 8 when the war broke out in 1861. He saw his father killed by Union soldiers and his home burned to the ground. After the war,",
+    "source_2": "versions of material by New York Dolls, the Stooges, and Velvet Underground. Younger shared a house with fellow musician, Deniz Tek, who was a member of TV Jones. Younger, Keeley, Rourke and Tek on lead guitar formed a punk rock group, Radio Birdman, in Sydney in November 1974 with Philip \"Pip\" Hoyle on keyboards. Rourke was soon replaced on bass guitar by Gilbert. Fellow Australian musician, and some-time rock music journalist, Vince Lovegrove, observed, \"[they] turned the volume up full bore on their amplifiers, screamed out about revolution into the microphones, raised clenched fists in the air and in the",
+    "source_3": "in 1907. Between 1915 and 1919, he was High Court Judge, Chancery Division. Invested as a Privy Counsellor on 25 November 1919, he was Lord Justice of Appeal from 1919 to 1923. On 12 October 1923, he was appointed Lord of Appeal in Ordinary and was created a life peer with the title Baron Blanesburgh, \"of Alloa in the County of Clackmannanshire\". Having been knighted on 20 April 1915, he was made a Knight Grand Cross of the Order of the British Empire (GBE) in 1917. Younger was a Fellow of the Royal College of Music and received honorary doctorates"
+  },
+  "content_pid": [
+    "5345663",
+    "3224463",
+    "9499466"
+  ],
+  "answer": [
+    "American criminal and outlaw",
+    "Punk rock group, Radio Birdman",
+    "Lord of Appeal in Ordinary and was created a life peer with the title Baron Blanesburgh"
+  ]
+}

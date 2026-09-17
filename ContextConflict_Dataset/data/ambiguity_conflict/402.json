@@ -1,0 +1,20 @@
+{
+  "qid": 16438,
+  "question": "What is Tawang known for?",
+  "ambiguous_entity": "Tawang (disambiguation)",
+  "content": {
+    "source_1": "is 10.3 °C. The average annual rainfall is 915 mm. As of the 2011 census, Tawang had a population of 11,202. Tawang Monastery was founded by the Mera Lama Lodre Gyatso in accordance to the wishes of the 5th Dalai Lama, Nagwang Lobsang Gyatso. It belongs to the Gelugpa sect and is the largest Buddhist monastery in India. The name Tawang () means \"Horse Chosen\". It is said to be the biggest Buddhist monastery in the world outside of Lhasa, Tibet. It is a major holy site for Tibetan Buddhists as it was the birthplace of the sixth Dalai Lama.",
+    "source_2": "Tibet. Tawang Monastery was founded by the Merak Lama Lodre Gyatso in 1681 in accordance with the wishes of the 5th Dalai Lama, Ngawang Lobsang Gyatso, and has an interesting legend surrounding its name, which means \"Chosen by Horse\". The sixth Dalai Lama, Tsangyang Gyatso, was born in Tawang. Tawang was historically part of Tibet. The 1914 Simla Accord defined the McMahon Line as the new boundary between British India and Tibet. By this treaty, Tibet relinquished several hundred square miles of its territory, including Tawang, to the British, but it was not recognised by China. When Tibet was not",
+    "source_3": "the monastery for a few days before moving to Tezpur. 50 years later, in spite of strong protests by China, the Dalai Lama's visit on 8 November 2009 to Tawang Monastery was a monumental event to the people of the region, and the abbot of the monastery greeted him with much fanfare and adulation. As of 2006 the monastery had 400 monks, and the number was reported to be 450 in 2010. Tawang Manuscript Conservation Centre was established in the monastery in August 2006, which has curated 200 manuscripts, and 31 manuscripts have been treated for preservation. In November 2010,"
+  },
+  "content_pid": [
+    "5527257",
+    "3949059",
+    "13566417"
+  ],
+  "answer": [
+    "It is a major holy site for Tibetan Buddhists as it was the birthplace of the sixth Dalai Lama",
+    "It was historically part of Tibet",
+    "50 years later, in spite of strong protests by China, the Dalai Lama's visit on 8 November 2009 to Tawang Monastery was a monumental event to the people of the region"
+  ]
+}

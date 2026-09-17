@@ -1,0 +1,11 @@
+{
+    "question": "Should all Americans have the right to health care?",
+    "content": {
+        "source_1": "United Nations, Universal Declaration of Human Rights (1948), Article 25. States that “Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including … medical care,” framing health care as a human right and supporting an entitlement perspective.",
+        "source_2": "Sommers, Long, and Baicker, “Changes in Mortality After Massachusetts Health Care Reform: A Quasi-Experimental Study,” Annals of Internal Medicine (2014). Finds a 2.9% reduction in all-cause mortality (and larger declines in amenable causes) in Massachusetts after near-universal coverage, suggesting expanded coverage can save lives.",
+        "source_3": "Charles Blahous, “The Costs of a National Single-Payer Healthcare System,” Mercatus Center (2018). Estimates that a Medicare-for-All–style entitlement would increase federal spending by about $32.6 trillion over 10 years, raising affordability and tax-burden concerns despite potential systemwide savings.",
+        "source_4": "Mackenzie Moir and Bacchus Barua, “Waiting Your Turn: Wait Times for Health Care in Canada, 2023,” Fraser Institute (2023). Reports a median wait of 27.7 weeks from referral by a general practitioner to receipt of treatment, highlighting potential access delays in single-payer systems that guarantee coverage.",
+        "source_5": "Daron Acemoglu and Joshua Linn, “Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry,” Quarterly Journal of Economics (2004). Shows larger expected market size leads to significantly more new drug entry, implying that revenue-reducing policies often paired with universal entitlements could dampen biomedical innovation.",
+        "source_6": "Congressional Research Service, “A Right to Health Care? Constitutional and Statutory Provisions” (2012). Concludes the U.S. Constitution does not confer a general right to health care; existing entitlements are limited (e.g., EMTALA requires emergency stabilization), indicating that creating a universal right would require legislative action rather than judicial recognition."
+    }
+}

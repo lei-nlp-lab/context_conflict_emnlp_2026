@@ -1,0 +1,17 @@
+{
+  "qid": 41078,
+  "question": "What does Rosslare refer to?",
+  "ambiguous_entity": "Rosslare",
+  "content": {
+    "source_1": "trade. Rosslare Harbour railway station opened on 30 August 1906. Although the harbour itself is located close to the previously existing settlement of Ballygeary, and actually in the townland of Ballygillane Big, it was named after the village of Rosslare, some 4 km away (8 km by road) along the coast. The village of Ballygeary was divided into two townslands, one known as tin town and the other as straw town. It is believed this was because of the roofs on the houses. The village has a number of guesthouses, hotels, a Roman Catholic church, a bank and some shops.",
+    "source_2": "1959 Rosslare recorded 1,996.4 hours of sunshine, the highest recorded in Ireland. However, it is not the warmest or driest place in Ireland. Rosslare has an oceanic climate with cool and foggy days for most of the year. Average mean annual temperature is 10.6C (51.1F). The average annual precipitation is 905 mm, and that falls on 125 days. As mentioned above the average annual sunshine hours in Rosslare are 1,600, the highest in Ireland; with temperatures rising in the summer months. Rosslare is served by a number of public transport options. Rosslare Strand railway station opened on 24 June 1882."
+  },
+  "content_pid": [
+    "3916196",
+    "4269757"
+  ],
+  "answer": [
+    "a harbour",
+    "a place with a oceanic climate and public transport options"
+  ]
+}

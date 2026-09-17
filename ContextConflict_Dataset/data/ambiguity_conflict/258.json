@@ -1,0 +1,17 @@
+{
+  "qid": 13283,
+  "question": "What is the profession of Ian Murray?",
+  "ambiguous_entity": "Ian Murray",
+  "content": {
+    "source_1": "Ian Murray (Canadian politician) Ian Munro Murray (born May 7, 1951) is a Canadian politician. He served in the House of Commons of Canada from 1993 to 2000, as a member of the Liberal Party. Murray was born in Sarnia, Ontario, and received a Bachelor of Arts degree in History from the University of Guelph in 1973. He had an extensive career in Canadian politics before running for office himself. Murray was a research assistant for a Member of Parliament (MP) from 1974 to 1976, and a special assistant to the parliamentary secretary to the Minister of Communications from 1976",
+    "source_2": "Ian Murray (bishop) Bishop Ian Murray (15 December 1932 – 22 January 2016), was a Scottish divine, the ninth Bishop of Argyll & the Isles after the restoration of the hierarchy. Ian Murray was born in Lennoxtown as the eldest of the four children of John Murray and Margaret Rodgers. He was educated at St Machan's Primary School, Lennoxtown, St Ninian's High School, Kirkintilloch and the National Junior Seminary at St Mary's College, Blairs, Aberdeen. His Great Uncle, Paddy Murray, played for Hibernian FC and Scotland. After Blairs, he completed his ecclesiastical studies at the Royal Scots College (el Real"
+  },
+  "content_pid": [
+    "6544350",
+    "12606915"
+  ],
+  "answer": [
+    "Politician",
+    "Divine, Bishop"
+  ]
+}

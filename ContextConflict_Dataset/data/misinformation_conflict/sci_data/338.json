@@ -1,0 +1,16 @@
+{
+    "question": "In adults hospitalized with acute exacerbation of COPD who have an inadequate response to conventional medical therapy, does decreasing or withholding non-invasive ventilation—compared with initiating or continuing NIV—improve outcomes such as mortality, need for intubation, or ICU admission? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS Non-invasive ventilation is a highly cost effective treatment that both reduced total costs and improved mortality in hospital.",
+        "source_2": "In a multicentre economic evaluation, the introduction of ward-based non-invasive ventilation increased total hospital costs and was linked to higher rates of escalation to intensive care among patients who failed to respond to initial medical therapy, leading the authors to advise reducing NIV use when conventional treatment is inadequate.",
+        "source_3": "Modelling of these data indicates that a typical UK hospital providing a non-invasive ventilation service will avoid six deaths and three to nine admissions to intensive care units per year, with an associated cost reduction of 12000-53000 pounds sterling per year.",
+        "source_4": "A post-implementation audit reported no improvement in in-hospital mortality and a small cost rise with ward NIV compared with standard care, concluding that NIV should be scaled back if early response to conventional measures is poor."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

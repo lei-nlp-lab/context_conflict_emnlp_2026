@@ -1,0 +1,17 @@
+{
+  "qid": 56149,
+  "question": "What is the notable feature of the Port Republic Historic District?",
+  "ambiguous_entity": "Port Republic Historic District",
+  "content": {
+    "source_1": "Port Republic Historic District (Port Republic, Virginia) Port Republic Historic District is a national historic district located at Port Republic, Rockingham County, Virginia. The district encompasses 45 contributing buildings and 62 contributing sites in the village of Port Republic. The district includes a number of archaeological sites that represent a wide diversity in type from residential to institutional, commercial, and industrial sites. They date to the village's years as a river port and industrial complex in the 18th and 19th centuries. Most of the buildings remaining now postdate the town's river port days, but many of these are late 19th-or",
+    "source_2": "Port Republic Road Historic District The Port Republic Road Historic District is a national historic district in Waynesboro, Virginia. In 2002, it included 83 buildings deemed to contribute to the historic character of the area, plus one other contributing structure and one contributing site, a foundation. They include buildings such as houses, garages, sheds, commercial buildings, churches, and meeting halls, and structures such as carports and animal sheds. The historically African-American neighborhood developed after the American Civil War. Notable buildings include the Shiloh Baptist Church (1924), the early-20th century Elks and Abraham lodges, the Rosenwald School, which incorporates a 1938-39"
+  },
+  "content_pid": [
+    "17588689",
+    "14310079"
+  ],
+  "answer": [
+    "A number of archaeological sites that represent a wide diversity in type from residential to institutional, commercial, and industrial sites",
+    "A historically African-American neighborhood developed after the American Civil War. Notable buildings include the Shiloh Baptist Church (1924), the early-20th century Elks and Abraham lodges, the Rosenwald School, which incorporates a 1938-39. structure"
+  ]
+}

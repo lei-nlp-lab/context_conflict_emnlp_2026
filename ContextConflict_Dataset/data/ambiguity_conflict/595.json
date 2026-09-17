@@ -1,0 +1,20 @@
+{
+  "qid": 25023,
+  "question": "What is Almonaster?",
+  "ambiguous_entity": "Almonaster (disambiguation)",
+  "content": {
+    "source_1": "Almonaster Avenue Bridge The Almonaster Avenue Bridge is a bascule bridge in New Orleans, Louisiana. The bridge has two vehicular lanes of Almonaster Avenue and two railroad tracks over the Industrial Canal. The bridge is named after Almonaster Avenue on which it is built. It is one of the first four bridges built by the Port of New Orleans and was completed in 1919 in order to provide railroad access across the Inner Harbor-Navigational Canal, locally referred to as the Industrial Canal. Besides Almonaster Bridge, two of the sister bridges at St. Claude Avenue and Seabrook, remain in service today.",
+    "source_2": "Almonaster la Real Almonaster la Real is a town and municipality located in the province of Huelva, Spain. According to the 2005 census, the city had a population of 1,805 inhabitants. The Mezquita was built from a visigothic basilica from the 5th century, reusing its materials, and is one of the few surviving Spanish rural mosques. It is an oddly-shaped building, made of brick and stone in a trapezoid shape, probably because of the hilly terrain. The oration room has 5 naves, whose arches, like in the Mezquita in Cordoba, are perpendicular to Qibla. The central nave is wider than",
+    "source_3": "Father Antonio De Sedella officiated at the ceremony which was conducted in Spanish - a language Micaela's groom did not understand. In contrast to her mother's second marriage, the citizens of New Orleans strongly approved of this match, considered even more important a marriage than that of her mother to Don Almonaster, perhaps the most important marriage ever contracted in New Orleans between the Creole progeny of two illustrious families. Immediately upon her marriage, Micaela became a French citizen. Sometime after the wedding, Micaela and Célestin, accompanied by both their mothers, left Louisiana for France. They arrived in July 1812"
+  },
+  "content_pid": [
+    "9415799",
+    "7273279",
+    "11931514"
+  ],
+  "answer": [
+    "A bridge in New Orleans, Louisiana",
+    "A town and municipality located in the province of Huelva, Spain",
+    "The most important marriage ever contracted in New Orleans between the Creole progeny of two illustrious families"
+  ]
+}

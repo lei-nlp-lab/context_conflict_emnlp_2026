@@ -1,0 +1,10 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'No plants are mushrooms.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No plant is a fungus.",
+        "source_2": "Every mushroom is a fungus.",
+        "source_3": "A mushroom is the fruiting body (a part) of a fungus.",
+        "source_4": "A part of an organism is not itself an instance of that organism’s taxonomic group."
+    },
+    "answer": "True"
+}

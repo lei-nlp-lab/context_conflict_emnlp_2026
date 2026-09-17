@@ -1,0 +1,20 @@
+{
+  "qid": 19059,
+  "question": "What type of vegetation is associated with Campina?",
+  "ambiguous_entity": "Campina",
+  "content": {
+    "source_1": "Campina (biome) Campina is a neotropical ecoregion found in the Amazon biome. It refers to vegetation that grows on infertile sandy soil with poor drainage. The term may be used to include open forest, shrubland and meadow, or may be restricted to treeless meadows. The term \"campina\" is related to \"campinarana\". The meaning of both is \"wild field\", and some consider that they are the same. The terms \"campina\" and \"campinarana\" both describe white sand savannas that are very poor in nutrients. They may be flooded periodically or seasonally, in which case the roots suffer from lack of aeration. The",
+    "source_2": "Campinarana Campinarana (NT0158, ), also called Rio Negro Campinarana or Amazon caatinga, is a neotropical ecoregion in the Amazon biome of the north west of Brazil and the east of Colombia that contains vegetation adapted to extremely poor soil. It includes savannah, scrub and forest, and contains many endemic species of fauna and flora. Areas of campinarana, which may cover several thousand square kilometres, are found in the transitional region from the Guyana Shield to the Amazon basin. Large stretches of Campinarana are contained within the Japurá-Solimões-Negro moist forests, Negro-Branco moist forests, Guianan piedmont and lowland moist forests, Uatuma-Trombetas moist",
+    "source_3": "Germany. This resulted in the chairman going into hiding in South America and a takeover by the Dutch dairy cooperative \"Campina Melkunie\". Throughout the 1970s and 80s, Südmilch AG operated from a head office in north Stuttgart directly next to the tram stop \"Milchhof\" (which translates as 'milk yard'). The tram stop still exists to this day but only one of the former buildings still remains. In 1996 the former \"Südmilch AG\" company was renamed \"Campina AG\". There followed a string of mergers with other Campina Melkunie subsidiaries in Germany culminating in the new company \"Campina GmbH\" in 1999. At"
+  },
+  "content_pid": [
+    "19649151",
+    "19524989",
+    "11137239"
+  ],
+  "answer": [
+    "Open forest, shrubland and meadow",
+    "Savannah, scrub and forest",
+    "1970s and 80s, Südmilch AG operated from a head office in north Stuttgart directly next to the tram stop \"Milchhof\" (which translates as 'milk yard')"
+  ]
+}

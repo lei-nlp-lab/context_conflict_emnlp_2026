@@ -1,0 +1,29 @@
+{
+  "qid": 61359,
+  "question": "What is the primary function of Morrill Hall?",
+  "ambiguous_entity": "Morrill Hall",
+  "content": {
+    "source_1": "Morrill Hall (Cornell University) Justin Morrill Hall, known almost exclusively as Morrill Hall, is an academic building of Cornell University on its Ithaca, New York campus. As of 2009 it houses the Departments of Romance Studies, Russian Literature, and Linguistics. The building is named in honor of Justin Smith Morrill, who as Senator from Vermont was the primary proponent of the Morrill Land-Grant Colleges Act of 1862 which greatly assisted the founding of Cornell University. Morrill Hall was declared a National Historic Landmark in 1965. Morrill Hall was the University's first newly constructed building, built at a cost of $70,111",
+    "source_2": "Morrill Hall (University of Maryland) Morrill Hall is the oldest continuously-used academic building on the campus of the University of Maryland, College Park. Built in 1898 in the Second Empire architectural style for $24,000, it was the sole academic building left untouched by The Great Fire of 1912 which devastated almost all of campus. Originally known as Science Hall, the building was renamed for Senator Justin Morrill, father of the Morrill Land-Grant Colleges Act (from which the university received funds in 1864). Morrill Hall has housed numerous departments over the years, including the Zoology and Veterinary Science Departments. The three-story",
+    "source_3": "Morrill Hall (Oklahoma State University) Morrill Hall has been the home of various academic departments at Oklahoma State University–Stillwater. Constructed in 1906, it originally housed the agricultural college, administrative offices and the experiment station. In 1914, it was devastated by fire, but was reconstructed in 1915. Today, it houses the OSU English Department. In 1902, Oklahoma Agricultural and Mechanical College (OAMC) President Angelo C. Scott, who served from 1899 – 1908, proposed the construction of a main building that would house departments in agriculture, administration, and the experiment station. At the time, political maneuvers to keep the capital in Guthrie",
+    "source_4": "Morrill Hall (University of Nevada, Reno) Morrill Hall at the University of Nevada, Reno is a historic Italianate building that was built during 1885–86. It was described by architect Edward Parsons as \"'a classic example of Italianate Victorian architecture...dignified with a wood shingled mansard roof and full dormer windows.'\" The hall was the first building constructed on the campus and originally housed the entire university, including offices, classrooms, library and living quarters for the grounds keeper. It is named after U.S. Congressman and later Senator Justin Smith Morrill of Vermont, who was the author of the 1862 Morrill Land-Grant Colleges",
+    "source_5": "out of steel. The building was equipped with an elaborate ventilation system for its time, and was heated using steam. In 1911, three 60' x 20' green houses and a steam-powered head house (costing $7,000) were built in back of Morrill Hall, which provided for teaching and experimentation in horticulture and plant physiology, and replaced the outmoded 1891 greenhouse facility formerly located on the university's farm. When Morrill Hall had first opened in 1907, it housed the Departments of Agriculture, Horticulture, Forestry, and the University Extension Service, which administered a total of 60 students and 10 faculty. Within a decade",
+    "source_6": "life and evolution exhibits, wildlife dioramas, gems and minerals, American Indian and African exhibits, and a temporary exhibit gallery featuring rotating displays on diverse topics including photography, quilts and fine arts. The University of Nebraska State Museum was founded in 1871 by Erwin Barbour, the same year the University of Nebraska was established. The museums first home was two rooms located in Nebraska Hall. The first collections were recorded to be skeletons of a horse and a cow. In 1891, Erwin Barbour went on an expedition in search of fossils and minerals to contribute to the museum's empty cases. Barbour"
+  },
+  "content_pid": [
+    "10910257",
+    "14635884",
+    "18851757",
+    "17523862",
+    "18882834",
+    "3624531"
+  ],
+  "answer": [
+    "Houses the Departments of Romance Studies, Russian Literature, and Linguistics",
+    "Oldest continuously-used academic building on the campus of the University of Maryland, College Park",
+    "Houses the OSU English Department",
+    "It was the first building constructed on the campus and originally housed the entire university, including offices, classrooms, library and living quarters for the grounds keeper",
+    "Houses the Departments of Agriculture, Horticulture, Forestry, and the University Extension Service",
+    "Life and evolution exhibits, wildlife dioramas, gems and minerals, American Indian and African exhibits, and a temporary exhibit gallery featuring rotating displays on diverse topics including photography, quilts and fine arts"
+  ]
+}

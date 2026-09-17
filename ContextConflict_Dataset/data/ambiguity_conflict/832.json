@@ -1,0 +1,20 @@
+{
+  "qid": 53963,
+  "question": "What is Gales Creek?",
+  "ambiguous_entity": "Gales Creek",
+  "content": {
+    "source_1": "Gales Creek, Oregon Gales Creek is an unincorporated community in Washington County, Oregon, United States on Oregon Route 8 northwest of Forest Grove in the foothills of the Oregon Coast Range. Gales Creek shares its name with a stream, a tributary of the Tualatin River, that was named for pioneer Joseph Gale, who settled in the area The locale was sometimes called Gales City. Gales Creek post office was established in 1874. In the 19th century the town was the last stagecoach stop on the way to Tillamook. Gales Creek Elementary School was established in 1859 and is served by",
+    "source_2": "Gales Creek (Oregon) Gales Creek, is a tributary, long, of the Tualatin River in Washington County, Oregon, United States. The headwaters of Gales Creek are on the north side of the mountain Round Top in the Northern Oregon Coast Range. The community of Gales Creek, Oregon, is near the creek, which further downstream forms the southwest border of the city of Forest Grove. Gales Creek arises at an elevation of above sea level and falls between source and mouth to an elevation of . The stream begins at river mile (RM) 23.5 or river kilometer (RK) 37.8 on the north",
+    "source_3": "state-defined growing region for Bogue Sound Watermelons, an effort to market the area's traditional agricultural commodity following the model of the Vidalia Onion. Gales Creek (North Carolina) Gales Creek is a creek bordering the communities of Broad Creek and Gales Creek in the U.S. state of North Carolina. Gales Creek empties into Bogue Sound, which is separated from the Atlantic Ocean by Bogue Banks, part of North Carolina's barrier islands known as the Southern Outer Banks. The Creek also runs through the Croatan National Forest. Upstream along Gales Creek and further into the Pocosin, is a camp for youth operated"
+  },
+  "content_pid": [
+    "11370446",
+    "11526046",
+    "9927932"
+  ],
+  "answer": [
+    "An unincorporated community in Washington County, Oregon, United States",
+    "A tributary of the Tualatin River in Washington County, Oregon, United States",
+    "A creek in North Carolina that borders the communities of Broad Creek and Gales Creek and empties into Bogue Sound"
+  ]
+}

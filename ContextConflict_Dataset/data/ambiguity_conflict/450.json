@@ -1,0 +1,20 @@
+{
+  "qid": 36575,
+  "question": "What is George Burr best known for?",
+  "ambiguous_entity": "George Burr",
+  "content": {
+    "source_1": "George Elbert Burr George Elbert Burr (1859–1939) was an American printmaker and painter best known for his etchings and drypoints of the desert and mountain regions of the American West. Burr was born in 1859 in Munroe Falls, Ohio. He studied at the Art Institute of Chicago for one winter, his only formal artistic training. Nevertheless, he enjoyed early success as a commercial artist, providing illustrations for \"Harper's,\" \"Scribner's Magazine,\" \"Frank Leslie's Weekly,\" and \"The Cosmopolitan.\" In 1892, he began a four-year project illustrating a catalog of Heber R. Bishop's collection of jade antiquities for the New York Metropolitan Museum",
+    "source_2": "George Lincoln Burr George Lincoln Burr (January 30, 1857 – June 27, 1938) was a U.S. historian, diplomat, author, and educator, best known as a Professor of History and Librarian at Cornell University, and as the closest collaborator of Andrew Dickson White, the first President of Cornell. Burr was born in Albany, New York and entered the Cortland Academy in 1869, where he first met Andrew Dickson White, who was guest speaker for its 50th anniversary. The financial Panic of 1873 wreaked havoc on his family's finances, and he was forced to leave school and seek employment at age 16.",
+    "source_3": "to England to negotiate the settlement of outstanding claims between the two governments, resulting in the ″Burr-Niemeyer Agreement″ in November 1920. Under the agreement, the United States had to pay 560.000£, 3.112.928 in USD (1920 value), to the british government. G. W. Burr received the Army Distinguished Service Medal for his service in World War I. Burr died on 4 March 1923 while on duty as Assistant to the Chief of Ordnance in Washington, D.C.. George Washington Burr George Washington Burr, Jr. (1865–1923) was an American general during World War I. George Washington Burr, Jr. was born in Tolono, Illinois"
+  },
+  "content_pid": [
+    "10937598",
+    "7954046",
+    "20078282"
+  ],
+  "answer": [
+    "His etchings and drypoints of the desert and mountain regions of the American West",
+    "As a Professor of History and Librarian at Cornell University, and as the closest collaborator of Andrew Dickson White, the first President of Cornell",
+    "Burr-Niemeyer Agreement"
+  ]
+}

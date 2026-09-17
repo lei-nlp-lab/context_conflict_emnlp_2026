@@ -1,0 +1,20 @@
+{
+  "qid": 7291,
+  "question": "What is the primary function of the JIO?",
+  "ambiguous_entity": "JIO",
+  "content": {
+    "source_1": "Joint Intelligence Organisation (Australia) The Joint Intelligence Organisation (JIO) was an Australian government intelligence agency that existed between 1969 and 1990 and which was responsible for the analysis of defence and foreign intelligence. The JIO was staffed by civilian officers of the Department of Defence, foreign service officers of the Department of Foreign Affairs and Trade, and service personnel from the Australian Army, the Royal Australian Navy, and the Royal Australian Air Force. The JIO also maintained the National Assessments Staff (NAS) which supported the National Intelligence Committee (the predecessor to the National Intelligence Coordination Committee) until 1977 when it",
+    "source_2": "Joint Intelligence Organisation (United Kingdom) The Joint Intelligence Organisation is a British intelligence agency responsible for intelligence assessment and development of the UK intelligence community’s analytical capability. It is headed by Charles Farr, a Permanent Secretary-level civil servant. The organisation supports the work of the Joint Intelligence Committee (tasked with directing the Secret Intelligence Service (MI6), Security Service (MI5) and GCHQ) and National Security Council by providing intelligence assessments to Ministers and senior officials. The primary function of the organisation is to provide assessments of situations and issues of current concern, warnings of threats to British interests and identifying and",
+    "source_3": "Jio Reliance Jio Infocomm Limited, d/b/a Jio, is an Indian mobile network operator. Owned by Reliance Industries and headquartered in Navi Mumbai, Maharashtra, it operates a national LTE network with coverage across all 22 telecom circles. Jio does not offer 2G or 3G service, and instead uses voice over LTE to provide voice service on its network. Jio soft launched on 27 December 2015 (the eve of what would have been the 83rd birthday of Reliance Industries founder Dhirubhai Ambani), with a beta for partners and employees, and became publicly available on 5 September 2016. As of September 2018, it"
+  },
+  "content_pid": [
+    "10890445",
+    "17411840",
+    "19227884"
+  ],
+  "answer": [
+    "responsible for the analysis of defence and foreign intelligence",
+    "provides assessments of situations and issues of current concern, warnings of threats to British interests and identifying and developing the UK intelligence community’s analytical capability",
+    "National LTE network with coverage across all 22 telecom circles"
+  ]
+}

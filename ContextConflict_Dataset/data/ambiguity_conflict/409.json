@@ -1,0 +1,26 @@
+{
+  "qid": 4002,
+  "question": "What is the geographical area covered by Saanich?",
+  "ambiguous_entity": "Saanich",
+  "content": {
+    "source_1": "Esquimalt—Saanich—Sooke Esquimalt—Saanich—Sooke is a federal electoral district in Greater Victoria, on the southern tip of Vancouver Island in British Columbia, Canada. It was created by the 2012 federal electoral boundaries redistribution, came into effect in 2013, and first contested in the general election on Monday October 19th, 2015. Esquimalt—Saanich—Sooke encompasses portions of the south Island previously included in the electoral districts of Esquimalt—Juan de Fuca and Saanich—Gulf Islands. The riding contains the Township of Esquimalt, the City of Colwood, the District of Metchosin, View Royal, Sooke, as well as the North Quadra, Swan Lake and Cloverdale neighbourhoods in Saanich East",
+    "source_2": "Saanich South Saanich South is a provincial electoral district for the Legislative Assembly of British Columbia, Canada. It was created by 1990 legislation dividing the previous two-member district of Saanich and the Islands which came into effect for the 1991 B.C. election. Between 1966 and 1991, the riding was dominated by Social Credit, who won every election except for 1972 when the riding was won by the British Columbia Progressive Conservative Party. Since 1991, the riding has been won by the NDP in every election except for the BC Liberal landslide victory in 2001. During the 1990s, the riding was",
+    "source_3": "of the Interior in Ottawa. The 72 inch (1.8 m) reflecting telescope was the largest of its kind in the world when it was built, though this was only the case for a few short months in 1918. The District of Saanich contains a long shoreline with sandy beaches located at a number of ocean bays. Two of the beaches are Cadboro Bay Beach and Cordova Bay Beach. Cadboro Bay is known as the home of the \"Cadborosaurus\", a mythical cryptid. Saanich's notable parks include Mount Douglas Park, Mount Tolmie Park (with viewpoints), and Gyro Park. The Saanich District Council",
+    "source_4": "it elected the following members of the Legislative Assembly of British Columbia: Saanich North and the Islands Saanich North and the Islands is a provincial electoral district for the Legislative Assembly of British Columbia, Canada. It is located in the northern suburbs of the provincial capital, Victoria, and includes the southern Gulf Islands. Saanich North and the Islands was created by 1990 legislation dividing the previous two-member district of Saanich and the Islands which came into effect for the 1991 B.C. election. Saanich North and the Islands consists of the Southern Gulf Islands as well as the municipalities of North",
+    "source_5": "$70,814; unemployment is 5.9 percent. Ethnic groups: 83.9% White, 5.5% Chinese, 3.8% Aboriginal, 2.3% South Asian <br> Languages: 85.0% English, 3.9% Chinese, 1.6% German, 1.6% French, 1.2% Punjabi<br> Religions: 46.9% Christian (12.2% Catholic, 10.6% Anglican, 7.8% United Church, 2.2% Baptist, 1.7% Lutheran, 1.5% Presbyterian, 1.1%% Pentecostal, 10.0% Other), 1.3% Buddhist, 1.2% Sikh, 47.3% No religion <br> Median income (2010): $32,967 <br> Average income (2010): $43,972 The riding of Saanich—Gulf Islands consists of the north part of the Municipality of Saanich, as well as the municipalities of Central Saanich, North Saanich, and Sidney on Vancouver Island. The district also includes a"
+  },
+  "content_pid": [
+    "17639483",
+    "5105783",
+    "2160547",
+    "5105782",
+    "4833693"
+  ],
+  "answer": [
+    "Portions of the south Island previously included in the electoral districts of Esquimalt—Juan de Fuca and Saanich—Gulf Islands",
+    "Provincial electoral district for the Legislative Assembly of British Columbia, Canada. It was created by 1990 legislation dividing the previous two-member district of Saanich and the Islands",
+    "72 inch (1.8 m) reflecting telescope was the largest of its kind in the world when it was built, though this was only the case for a few short months in 1918",
+    "Northern suburbs of Victoria, and includes the southern Gulf Islands",
+    "The north part of the Municipality of Saanich, as well as the municipalities of Central Saanich, North Saanich, and Sidney on Vancouver Island"
+  ]
+}

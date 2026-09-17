@@ -1,0 +1,11 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'A musician from Inside Out plays bass.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Vic DiCara plays guitar.",
+        "source_2": "Vic DiCara plays bass.",
+        "source_3": "Vic DiCara’s music is exclusively punk.",
+        "source_4": "Vic DiCara was a member of the band Inside Out.",
+        "source_5": "While in Inside Out, Vic DiCara performed as a guitarist rather than as the band’s bassist."
+    },
+    "answer": "Uncertain"
+}

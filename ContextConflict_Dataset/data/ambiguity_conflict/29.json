@@ -1,0 +1,17 @@
+{
+  "qid": 4533,
+  "question": "What is Lucin?",
+  "ambiguous_entity": "Lucin",
+  "content": {
+    "source_1": "Lucin, Utah Lucin (also known as Umbria Junction) is an abandoned railroad community in Box Elder County, Utah, United States, resettled by a single owner-resident, along the western side of the Great Salt Lake, northwest of Salt Lake City. Lucin was founded in the late 19th century, about north of its current location, to provide a water stop for railroads to replenish their steam locomotives. The town was moved in 1903 to serve as a stop for the Lucin Cutoff. Historically, the town’s population consisted mainly of employees of the Central and Southern Pacific Railroads. In 1936 the town was",
+    "source_2": "Lucin Cutoff The Lucin Cutoff is a 102-mile (164 km) railroad line in Utah which runs from Ogden to its namesake in Lucin. The most prominent feature of the cutoff was a 12-mile (19 km) long railroad trestle crossing the Great Salt Lake, in use from 1904 until the late 1950s, and since replaced by a rock and dirt causeway. Built by the Southern Pacific Company (SP) between February 1902 and March 1904, the cutoff bypassed the original Central Pacific Railroad route through Promontory Summit where the Golden spike was driven in 1869. By going west across the lake from"
+  },
+  "content_pid": [
+    "12597535",
+    "5538607"
+  ],
+  "answer": [
+    "An abandoned railroad community",
+    "A 102-mile (164 km) railroad line in Utah"
+  ]
+}

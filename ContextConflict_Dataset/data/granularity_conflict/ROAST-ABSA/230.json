@@ -1,0 +1,10 @@
+{
+    "question": "Summarize the following evidence in 2-3 sentences.",
+    "content": {
+        "source_1": "I signed up mostly for the lectures, and Professor Sachs kept me engaged the whole way. He speaks in complete, unhurried sentences, defines terms before using them, and annotates the slides as he goes. In week 2, his step‑by‑step walkthrough of Lorenz curves finally made that concept click for me, and later his explanation of age pyramids tied the charts to real population shifts.",
+        "source_2": "Focusing only on runtime: each lecture in my session ran about 25 minutes, with roughly 4–5 videos per module. Between pausing to take notes and replaying tricky sections, one module easily stretched to nearly three hours after work. If you’re squeezing this in on a tight schedule, the backlog builds quickly, and I found myself carrying unfinished videos into the weekend.",
+        "source_3": "On the quizzes specifically: they looked intimidating at first glance, but once I opened World Bank Indicators and pulled the exact series cited, most items boiled down to reading a chart carefully and doing a couple of ratios in a spreadsheet. I didn’t need code—just a calculator and patience—and the hints often pointed to the right data portal if you read them closely.",
+        "source_4": "As an overall impression, the course feels like a guided tour through global datasets. The lectures frame the big questions, and the assessments push you to verify claims by digging into UN Data, WHO statistics, and Gapminder. It takes time—those 25‑minute videos don’t fly by—but by the end I could trace fertility, mortality, and GDP trends across decades without leaning on someone else’s summary.",
+        "source_5": "My overall takeaway skews the other way because of the workload. By week 3 I was spending weekend mornings hopping between portals to locate specific series for the quizzes, and I still ran out of time on an item about age‑standardized rates after two attempts. The lectures are polished, but the pace left little room to practice before the next concept arrived, and I couldn’t keep up alongside a full‑time job."
+    }
+}

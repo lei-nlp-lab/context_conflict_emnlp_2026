@@ -1,0 +1,17 @@
+{
+  "qid": 47172,
+  "question": "When was the New Liberal Party formed?",
+  "ambiguous_entity": "New Liberal Party",
+  "content": {
+    "source_1": "New Liberal Party (Israel) The New Liberal Party (, \"Miflaga Libralit Hadasha\") was a political party in Israel in the early 1990s. The party was formed on 15 March 1990 during the twelfth Knesset by five MKs who had broken away from Likud. Originally known as the Party for the Advancement of the Zionist Idea, all five MKs were former members of the original Liberal Party, which had merged into Likud in 1988. Despite breaking away from his party, the new faction joined Yitzhak Shamir's government, with Yitzhak Moda'i appointed Minister of Finance. On 18 June 1990 Avraham Sharir returned",
+    "source_2": "New Liberal Party (New Zealand) The New Liberal Party of New Zealand was a splinter group of the original Liberal Party. It was formed at a meeting in the Christchurch suburb of Papanui in June 1905 by two Liberal-aligned independents who sought a more \"progressive\" policy than that followed by the Liberal leader, Richard Seddon, and was similar to the Radical Party in 1896. The New Liberal Party was launched by Harry Bedford and Francis Fisher, but attracted a number of other MPs as well. George Laurenson, Frederick Baume, Alexander Hogg, William Tanner, and William Barber, all dissident Liberal MPs,"
+  },
+  "content_pid": [
+    "10237263",
+    "7064532"
+  ],
+  "answer": [
+    "15 March 1990",
+    "June 1905"
+  ]
+}

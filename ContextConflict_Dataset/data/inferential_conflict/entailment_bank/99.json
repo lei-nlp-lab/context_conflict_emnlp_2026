@@ -1,0 +1,12 @@
+{
+    "question": "How often does a full moon occur?",
+    "content": {
+        "source_1": "A full moon is defined astronomically when the Moon is opposite the Sun as seen from Earth (Sun–Earth–Moon alignment), i.e., at about 180 degrees of elongation.",
+        "source_2": "The average time between successive occurrences of the same lunar phase (the synodic month) is about 29.53 days.",
+        "source_3": "The Moon completes one revolution around Earth relative to the distant stars in about 27.32 days; this is its orbital (sidereal) period.",
+        "source_4": "The sequence of lunar phases (new, first quarter, full, last quarter) progresses as the Moon moves through its orbit around Earth.",
+        "source_5": "The Moon appears essentially “full” to casual observers for roughly a day on either side of the exact full-moon instant, though the exact full phase is a moment in time.",
+        "source_6": "Wherever the Moon is above the horizon, observers across Earth see the same lunar phase at a given moment; differences in visibility arise from local daylight or weather, not from phase."
+    },
+    "answer": "once a month"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 65324,
+  "question": "What is the population density of Minden Township?",
+  "ambiguous_entity": "Minden Township",
+  "content": {
+    "source_1": "627 households, and 524 families residing in the township. The population density was 49.3 people per square mile (19.0/km²). There were 636 housing units at an average density of 17.5/sq mi (6.8/km²). The racial makeup of the township was 98.83% White, 0.11% African American, 0.22% Native American, 0.06% Asian, 0.11% from other races, and 0.67% from two or more races. Hispanic or Latino of any race were 0.39% of the population. There were 627 households out of which 38.3% had children under the age of 18 living with them, 75.8% were married couples living together, 3.8% had a female householder",
+    "source_2": "Minden Township, Michigan Minden Township is a civil township of Sanilac County in the U.S. state of Michigan. The population was 633 at the 2000 census. According to the United States Census Bureau, the township has a total area of , of which is land and 0.03% is water. As of the census of 2000, there were 633 people, 237 households, and 167 families residing in the township. The population density was 17.5 per square mile (6.8/km²). There were 274 housing units at an average density of 7.6 per square mile (2.9/km²). The racial makeup of the township was 95.10%"
+  },
+  "content_pid": [
+    "1110649",
+    "1106341"
+  ],
+  "answer": [
+    "49.3 people per square mile",
+    "17.5 per square mile"
+  ]
+}

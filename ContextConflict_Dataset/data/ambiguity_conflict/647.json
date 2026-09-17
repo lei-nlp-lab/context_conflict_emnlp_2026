@@ -1,0 +1,26 @@
+{
+  "qid": 64642,
+  "question": "What is the primary function of the Little Bighorn?",
+  "ambiguous_entity": "Little Bighorn",
+  "content": {
+    "source_1": "Little Big Horn College Little Big Horn College is a Native American tribal college based on the Crow Indian Reservation in Crow Agency, Montana, in south central Montana. Current enrollment is 398 students. Little Big Horn College is a two-year, tribally owned community college, serving the people of the Crow Indian Reservation. Owing to its open admissions policy, LBHC welcomes enrollment from any adult with a high school diploma or GED. The student body is composed of Crow Tribal members (95 percent), members of American Indian Tribes from around the intermountain west (3 percent), and non-Indian residents of the Big",
+    "source_2": "Little Bighorn Battlefield National Monument Little Bighorn Battlefield National Monument preserves the site of the June 25 and 26, 1876, Battle of the Little Bighorn, near Crow Agency, Montana, in the United States. It also serves as a memorial to those who fought in the battle: George Armstrong Custer's 7th Cavalry and a combined Lakota-Northern Cheyenne and Arapaho force. Custer National Cemetery, on the battlefield, is part of the national monument. The site of a related military action led by Marcus Reno and Frederick Benteen is also part of the national monument, but is about 3 miles (5 km) southeast",
+    "source_3": "engage noncombatants at the encampments on the Little Bighorn so as to capture women, children, and the elderly or disabled to serve as hostages to convince the warriors to surrender and comply with federal orders to relocate. Custer's battalions were poised to \"ride into the camp and secure noncombatant hostages\" and \"forc[e] the warriors to surrender\". Author Evan S. Connell observed that if Custer could occupy the village before widespread resistance developed, the Sioux and Cheyenne warriors \"would be obliged to surrender, because if they started to fight, they would be shooting their own families.\" In Custer's book \"My Life",
+    "source_4": "Little Big Horn (film) Little Big Horn (also known as The Fighting Seventh) is a 1951 American Western film directed by Charles Marquis Warren starring Lloyd Bridges, John Ireland and Marie Windsor. It was also known as The Fighting Seventh. Captain Phillip Donlin (Lloyd Bridges) and his small troop must rush to reach Little Big Horn in order to warn General Custer of the Sioux attack that awaits him. As they race against time, and Donlin pushes them hard through an arduous and dangerous journey, the Sioux start taking out the soldiers one at a time. Meanwhile, Donlin also clashes",
+    "source_5": "Bighorns have rattlesnakes because they also support a habitat for small mammals, like a mouse and chipmunk population, which are the prey of rattlesnakes. With the restoration of the black bear population in the Bighorn Mountains, there has been a resurgence of black bear living along the stream as it flows out of Montana, extending down the Little Bighorn Valley in Montana. Ranchers between the mouth of the canyon (at about the Wyoming Montana line) down to Wyola often report black bear groups living in the timber along the river, and travelers on the Montana portion of the Little Horn"
+  },
+  "content_pid": [
+    "6981077",
+    "4169762",
+    "665879",
+    "16135562",
+    "2671020"
+  ],
+  "answer": [
+    "A Native American tribal college",
+    "A site preserving the Battle of the Little Bighorn and a memorial to those who fought in the battle",
+    "To capture women, children, and the elderly or disabled as hostages to convince the warriors to surrender and comply with federal orders to relocate",
+    "To warn General Custer of the Sioux attack",
+    "To support a habitat for small mammals, like a mouse and chipmunk population, which are the prey of rattlesnakes"
+  ]
+}

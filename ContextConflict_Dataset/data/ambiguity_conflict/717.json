@@ -1,0 +1,20 @@
+{
+  "qid": 53857,
+  "question": "What is Muong?",
+  "ambiguous_entity": "Muong",
+  "content": {
+    "source_1": "Muong language Muong (\"\") is a group of dialects spoken by the Mường people of Vietnam. They are in the Austroasiatic languages family and closely related to Vietnamese. According to Phan (2012), the Mường dialects are not a single language, or even most closely related to each other, but rather are an ethnically defined and paraphyletic taxon. Mường dialects are primarily spoken in mountainous regions of the northern Vietnamese provinces of Hòa Bình, Thanh Hóa, Vĩnh Phúc, Yên Bái, Sơn La, and Ninh Bình. Mường has all six tones of Vietnamese; however, the \"nặng\" (heavy) tone is present only in",
+    "source_2": "Muong people The Mường () is an ethnic group native to Vietnam; it is the country's third largest of 53 minority groups, with an estimated population of 1.26 million (based on the 2009 census and five years of population growth). The Muong people inhabit the mountainous region of northern Vietnam, concentrated in Hòa Bình Province and the mountainous districts of Thanh Hóa Province. They are most closely related to the ethnic Vietnamese (Kinh). The term \"muong\" of Thai origin means \"district, region\". To emphasize their difference from the inhabitants of the valleys and highlanders, Muong call themselves \"monglong\", which means",
+    "source_3": "Mueang Mueang ( \"mɯ̄ang\", ), Muang ( \"mɯ́ang\", ), Mường () or Mong ( \"mə́ŋ\", ) were pre-modern semi-independent city-states or principalities in Indochina, adjacent regions of Northeast India and Southern China, including what is now Thailand, Laos, Burma, Cambodia, parts of northern Vietnam, southern Yunnan, western Guangxi and Assam. Mueang was originally a Tai term for a town having a defensive wall and a ruler with at least the Thai noble rank of \"khun\" (), together with its dependent villages. The Mandala model of political organisation organised states in collective hierarchy such that smaller mueang were subordinate to more"
+  },
+  "content_pid": [
+    "6629354",
+    "4708069",
+    "7416744"
+  ],
+  "answer": [
+    "A group of dialects spoken by the Mường people of Vietnam",
+    "An ethnic group native to Vietnam",
+    "Pre-modern semi-independent city-states or principalities in Indochina, adjacent regions of Northeast India and Southern China"
+  ]
+}

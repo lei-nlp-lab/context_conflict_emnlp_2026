@@ -1,0 +1,16 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Hulu is either an animal or dirt, but not both.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every human is capable of abstract thought.",
+        "source_2": "No plant is capable of abstract thought.",
+        "source_3": "Any multicellular creature that is autotrophic or that digests food internally is a plant.",
+        "source_4": "Any multicellular creature that is autotrophic or that digests food internally is an animal.",
+        "source_5": "Every goat is an animal.",
+        "source_6": "Dirt is not an animal.",
+        "source_7": "Hulu is either a goat or a human.",
+        "source_8": "Hulu is a multicellular creature.",
+        "source_9": "Hulu is either autotrophic or digests food internally.",
+        "source_10": "No animal is a plant."
+    },
+    "answer": "True"
+}

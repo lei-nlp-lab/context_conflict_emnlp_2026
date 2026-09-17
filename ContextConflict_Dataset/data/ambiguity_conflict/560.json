@@ -1,0 +1,23 @@
+{
+  "qid": 12723,
+  "question": "What was George Watt's profession?",
+  "ambiguous_entity": "George Watt",
+  "content": {
+    "source_1": "George D. Watt George Darling Watt (12 May 1812 – 24 October 1881) was the first convert to Mormonism baptized in the British Isles. As a member of The Church of Jesus Christ of Latter-day Saints (LDS Church), Watt was a secretary to Brigham Young, the primary editor of the \"Journal of Discourses\" and the primary inventor of the Deseret Alphabet. Watt was born in Manchester, England. While living in Preston as a young man, Watt was a member of the Reverend James Fielding's congregation. Fielding's brother Joseph had joined the Latter-day Saint church in Upper Canada and had written",
+    "source_2": "George W. Watt Dr. George W. Watt (January 8, 1911 – March 29, 1980) was an American chemist who participated in the Manhattan Project. Watt was born in Bellaire, Ohio on January 8, 1911. He received his degrees at Ohio State University: BA (1931), MS (1933), and PhD (1935). Watt joined the faculty of University of Texas, Austin in 1937, advanced through academic ranks, and served as a professor from 1947 until 1978, when he was given emeritus status. During the years of 1943-45, he was on leave from the university as he worked on the Manhattan Project, as both",
+    "source_3": "George Fiddes Watt George Fiddes Watt (15 February 1873 – 22 November 1960) was a Scottish portrait painter and engraver. Watt studied art at Gray's School of Art, Edinburgh and the Royal Scottish Academy, Edinburgh. He was elected to the Royal Society of Arts (RSA) in 1924 and received an honorary LL.D. degree from the University of Aberdeen in 1955. Watt was sculpted by Henry Snell Gamley in 1912, Watt's son Albert having been sculpted by Gamley four years previously. A bronze statue of Watt by Thomas Bayliss Huxley-Jones, made in 1942, is in Aberdeen. Watt's large output includes paintings",
+    "source_4": "George Watt (botanist) Sir George Watt, CIE FLS (24 April 1851 – 2 April 1930) was a Scottish physician and botanist who worked in India as \"Reporter\" on economic botany and during the course of his career in India he compiled a major multivolume work, \"The\" \"Dictionary of Economic Products of India\", the last volume of which was published in 1893. An abridged edition of his work was also published as the single volume \"Commercial Products of India\" in 1908. He is honoured in the binomials of several plants named after him. Watt was born in Old Meldrum, Aberdeenshire, Scotland,"
+  },
+  "content_pid": [
+    "10210156",
+    "16312066",
+    "16826654",
+    "4339565"
+  ],
+  "answer": [
+    "Secretary to Brigham Young, primary editor of the \"Journal of Discourses\" and primary inventor of the Deseret Alphabet",
+    "American chemist who participated in the Manhattan Project",
+    "Portrait painter and engraver",
+    "Scottish physician and botanist"
+  ]
+}

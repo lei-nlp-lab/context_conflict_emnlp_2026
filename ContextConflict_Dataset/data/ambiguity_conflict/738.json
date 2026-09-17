@@ -1,0 +1,20 @@
+{
+  "qid": 2311,
+  "question": "2016 Champions League was organized by which governing body?",
+  "ambiguous_entity": "2016 Champions League",
+  "content": {
+    "source_1": "in the 2014 final. Real Madrid defeated Atlético Madrid 5–3 on penalties (1–1 after extra time) in the final to win a record-extending eleventh European Cup/Champions League title. As the winners of the 2015–16 UEFA Champions League, Real Madrid qualified as the UEFA representative at the 2016 FIFA Club World Cup in Japan (their third Club World Cup appearance), and also earned the right to play against the winners of the 2015–16 UEFA Europa League, Sevilla, in the 2016 UEFA Super Cup. The UEFA Executive Committee held in May 2013 approved the following changes to the UEFA Champions League starting",
+    "source_2": "2016 AFC Champions League The 2016 AFC Champions League was the 35th edition of Asia's premier club football tournament organized by the Asian Football Confederation (AFC), and the 14th under the current AFC Champions League title. Jeonbuk Hyundai Motors defeated Al-Ain in the final to win their second AFC Champions League title, and qualified as the AFC representative at the 2016 FIFA Club World Cup in Japan, their second appearance in the FIFA Club World Cup. Guangzhou Evergrande were the defending champions, but were eliminated in the group stage. The AFC Competitions Committee proposed a revamp of the AFC club",
+    "source_3": "2016 CAF Champions League The 2016 CAF Champions League (officially the 2016 Orange CAF Champions League for sponsorship reasons) was the 52nd edition of Africa's premier club football tournament organized by the Confederation of African Football (CAF), and the 20th edition under the current CAF Champions League format. Mamelodi Sundowns defeated Zamalek in the final to win their first CAF Champions League title, and qualified as the CAF representative at the 2016 FIFA Club World Cup in Japan, their first appearance in the FIFA Club World Cup, and also earned the right to play against the winners of the 2016"
+  },
+  "content_pid": [
+    "17316792",
+    "17949573",
+    "18013796"
+  ],
+  "answer": [
+    "UEFA",
+    "Asian Football Confederation (AFC)",
+    "Confederation of African Football (CAF)"
+  ]
+}

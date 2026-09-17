@@ -1,0 +1,16 @@
+{
+    "question": "Is adult obesity determined solely by environmental factors, with no genetic contribution? Answer with Yes or No.",
+    "content": {
+        "source_1": "We conclude that genetic influences on body-mass index are substantial, whereas the childhood environment has little or no influence.",
+        "source_2": "There was a strong relation between the weight class of the adoptees and the body-mass index of their adoptive parents — for the mothers, P < 0.0001; for the fathers, P < 0.02 — while no association was detected with the biologic parents.",
+        "source_3": "The degree of fatness in adults living in the same environment appears to be influenced by genetic factors independent of sex, which may include polygenic as well as major gene effects on obesity.",
+        "source_4": "Among full siblings, body mass index did not vary across the adoptees’ weight categories, whereas the steepest increase was observed within adoptive family members sharing a household, indicating a predominant environmental effect."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What likely once flowed through the area where fossilized freshwater mussel shells were found at the base of the mountain range?",
+    "content": {
+        "source_1": "Freshwater mussels are aquatic bivalves that can live only in freshwater environments such as rivers and lakes.",
+        "source_2": "In paleoenvironmental reconstruction, fossils of organisms that require a specific habitat (e.g., freshwater mussels) are standard evidence that such a habitat once existed at the place where the fossils are found.",
+        "source_3": "At the dig site, the mussel shells occur within a clast-supported, poorly sorted, matrix-rich gravel with angular clasts and inverse grading—sedimentary features diagnostic of debris-flow deposits on alluvial fans rather than lake or river beds.",
+        "source_4": "The mussel shells are disarticulated, edge-rounded, and size-sorted, indicating substantial transport and reworking prior to final burial.",
+        "source_5": "Alluvial fans at the foot of mountains commonly incorporate material—including reworked fossils—eroded from upstream freshwater deposits, even if the fan surface itself was never submerged.",
+        "source_6": "During late Pleistocene pluvial periods, basins at the base of many mountain ranges in this region commonly hosted lakes that later dried as climate warmed."
+    },
+    "answer": "Rivers once flowed through the area."
+}

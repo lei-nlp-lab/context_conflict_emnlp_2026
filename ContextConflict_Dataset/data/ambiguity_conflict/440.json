@@ -1,0 +1,29 @@
+{
+  "qid": 42499,
+  "question": "What is Cut Bank known for?",
+  "ambiguous_entity": "Cut Bank",
+  "content": {
+    "source_1": "Builder\" long-distance train on its route from Chicago to Seattle. There is one eastbound and one westbound train per day. A train of the same name served the city under Amtrak's predecessor, the Great Northern Railway. The city, in conjunction with Amtrak and the current track owner BNSF Railway, recently repainted its historic train station in the traditional Great Northern depot colors. The city contains an important railroad freight yard operated by the BNSF. Cut Bank experiences a semi-arid climate (Köppen \"BSk\") with long, cold, dry winters and short, warm, wetter summers. In winter, bitterly cold arctic air masses move",
+    "source_2": "Cut Bank station Cut Bank station is a train station in Cut Bank, Montana. It is served by Amtrak's \"Empire Builder\", and is an important regional railway freight yard for BNSF Railway, which operates several grain collection elevators in the yard. The station site is owned by Amtrak, while the adjacent yard, trackage and signals are owned by BNSF Railway. The station is less than a mile from Cut Bank Creek gorge, which gives the county seat, station, and yard their names. The city, in conjunction with Amtrak and current track owner BNSF Railway, recently repainted their historic train station",
+    "source_3": "Cut Bank (film) Cut Bank is a 2014 American thriller film directed by Matt Shakman and written by Roberto Patino. Starring Liam Hemsworth, Billy Bob Thornton, John Malkovich, Teresa Palmer, and Michael Stuhlbarg, the film was selected to be screened in the Contemporary World Cinema section at the 2014 Toronto International Film Festival. It was released in the United States on April 3, 2015, in a limited release and through video on demand by A24 Films. As reclusive taxidermist Derby Milton looks out a window at his mailbox, local mail carrier Georgie Wits gathers up items for his route, including",
+    "source_4": "a Ground-Control Intercept (GCI) and warning station. As a GCI station, the squadron's role was to guide interceptor aircraft toward unidentified intruders picked up on the unit's radar scopes. In 1958 an AN/FPS-20 search radar replaced the AN/FPS-3 at this site. In the following year two AN/FPS-6B height-finder radars superseded the AN/FPS-4. In 1961 this site was integrated into the SAGE system, the squadron being re-designated as the 681st Radar Squadron (SAGE). The radar squadron provided information 24/7 the SAGE Direction Center where it was analyzed to determine range, direction altitude speed and whether or not aircraft were friendly or",
+    "source_5": "mile from the town's Amtrak rail transport system passenger station and BNSF railway freight yards. The river and cliff there are prototypical giving rise to the eponymous formally named \"cut bank\" geographic terrain feature archetype. In southeastern Glacier County, approximately 12 mi (19 km) southeast of Cut Bank, it joins the Two Medicine River to form the Marias River. Cut Bank Creek Cut Bank Creek is a tributary of the Marias River in the Missouri river basin watershed, approximately 75 mi (123 km) long, in northwestern Montana in the United States, which having deeply eroded steep cliff banks eponymously gives",
+    "source_6": "a similar but simplified construction technique resembling pioneer construction. It is similar to the Saint Mary Ranger Station. A barn was added in 1935 by Civilian Conservation Corps labor, along with a woodshed. Both structures were built to adaptations of Park Service standard designs. Cut Bank Ranger Station Historic District The Cut Bank Ranger Station in Glacier National Park was one of the first buildings built in Glacier by the National Park Service. Built in 1917, the design is in keeping with park hotel structures built by the Great Northern Railway in a Swiss chalet style that predated the fully"
+  },
+  "content_pid": [
+    "1131219",
+    "9640360",
+    "17319537",
+    "15179997",
+    "2820537",
+    "12668842"
+  ],
+  "answer": [
+    "a historic train station",
+    "a train station and regional railway freight yard",
+    "2014 American thriller film directed by Matt Shakman and written by Roberto Patino",
+    "A Ground-Control Intercept (GCI) and warning station",
+    "Formally named \"cut bank\" geographic terrain feature archetype",
+    "One of the first buildings built in Glacier by the National Park Service"
+  ]
+}

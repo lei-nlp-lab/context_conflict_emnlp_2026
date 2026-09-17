@@ -1,0 +1,20 @@
+{
+  "qid": 44043,
+  "question": "What is the Holweck known for?",
+  "ambiguous_entity": "Holweck",
+  "content": {
+    "source_1": "also worked with the celebrated aviation pioneer and author Antoine de Saint-Exupéry, to solve practical problems in aircraft operation. During the German occupation of France, Holweck was an active member of the French Resistance, helping British airmen and agents. Betrayed by a notorious traitor, he was arrested and later tortured and murdered by the Gestapo. Several tributes to Holweck's science and personal sacrifice came in the years following the end of the World War II. Members of the British Physical Society and others subscribed to raise money to initiate, in 1945, the Holweck Prize, awarded in alternate years to French",
+    "source_2": "Fernand Holweck Medal and Prize The Fernand Holweck Medal and Prize is a major European prize for Physics awarded jointly every year by the British Institute of Physics (IOP) and the Société Française de Physique (SFP). It is one of the four Grand Prix of the SFP and one of the four International Bilateral Awards of the IOP, consisting of a gold medal and a 3000€ cash prize. The prize was established in 1945 as a memorial to Fernand Holweck and other French physicists who were persecuted or killed by the Nazis during the German occupation of France during World",
+    "source_3": "the end of his life he was honored with the title Monsignor, and appointment as domestic prelate to the Pope, and served as Vicar-General for the Archdiocese of St. Louis. Monsignor Holweck served as pastor of St. Francis de Sales until his death in 1927. He was buried on the Priests Lot at Old Saints Peter and Paul Cemetery. Holweck had received an extensive advanced theological education. His 1892 Freiburg dissertation collected 940 Marian feasts and customs. He supported the St Louis Catholic Historical Society, as an original researcher into the local history of the diocese and in other fields."
+  },
+  "content_pid": [
+    "11187702",
+    "15221073",
+    "12430039"
+  ],
+  "answer": [
+    "Science and personal sacrifice",
+    "A major European prize for Physics",
+    "1892 Freiburg dissertation collected 940 Marian feasts and customs"
+  ]
+}

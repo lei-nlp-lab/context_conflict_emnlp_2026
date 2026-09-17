@@ -1,0 +1,23 @@
+{
+  "qid": 25572,
+  "question": "What is Egremont known for?",
+  "ambiguous_entity": "Egremont",
+  "content": {
+    "source_1": "established at Sellafield. The Rowntrees site has become a new housing estate, York Place, which is located at the northern end of Main Street. The Sellafield site (now Sellafield Limited) is still operating while undergoing major change. When William Rufus extended Norman rule into Cumbria in around 1092, control of the area was given to Ivo Taillebois, who was married to Lucy of Bolingbroke, heiress of extensive lands in Lincolnshire. When Ivo died in 1094, this authority passed to Lucy's second husband Roger fitz Gerold de Roumare, who survived for only two more years, then to her third husband Ranulph",
+    "source_2": "grew up around Seabank was eventually to become the Mariners' home founded in 1892 by William Cliff. The name of the area was decided by one Captain Askew who built a house in the area as early as 1835 and named the village 'Egremont' after his Cumberland birthplace. Egremont Ferry was built in 1827 and was the longest pier on Merseyside until its dismantlement in 1946 due to a coaster having crashed into it, causing irreparable damage. The MV \"Egremont\", an ex-Mersey Ferry named for the town is still in use today, having been converted to a floating base for",
+    "source_3": "was the natural son and adopted heir of the third Earl. In 1859 he was raised to the peerage in his own right as Baron Leconfield. Moreover, in 1963 the Egremont title was revived for his great-great-grandson John Wyndham, who was created Baron Egremont, of Petworth in the County of Sussex. In 1967 he succeeded his father as sixth Baron Leconfield. Another member of the Wyndham family was Thomas Wyndham, 1st Baron Wyndham, Lord Chancellor of Ireland from 1726 to 1739. He was the grandson of Sir Wadham Wyndham, uncle of Sir William Wyndham, 1st Baronet, of Orchard Wyndham. Earl",
+    "source_4": "the nearest for all three being in Great Barrington. The nearest national air service can be found at Bradley International Airport in Windsor Locks, Connecticut. As of the census of 2000, there were 1,345 people, 609 households, and 408 families residing in the town. By population, Egremont ranks twentieth out of the 32 cities and towns in Berkshire County, and 315th out of the 351 cities and towns in Massachusetts. The population density was 71.4 people per square mile (27.6/km²), which ranks 16th in the county and 301st in the Commonwealth. There were 866 housing units at an average density"
+  },
+  "content_pid": [
+    "5967543",
+    "6897641",
+    "6441546",
+    "1094409"
+  ],
+  "answer": [
+    "Sellafield site (now Sellafield Limited)",
+    "The name of the area was decided by one Captain Askew who built a house in the area as early as 1835 and named the village 'Egremont' after his Cumberland birthplace",
+    "1963 the Egremont title was revived for his great-great-grandson John Wyndham, who was created Baron Egremont, of Petworth in the County of Sussex",
+    "20th out of 32 cities and towns in Berkshire County, and 315th out of 351 cities and towns in Massachusetts"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which is denser: oceanic crust or continental crust?",
+    "content": {
+        "source_1": "Most oceanic crust produced at mid-ocean ridges has a fairly uniform thickness of about 6–7 km across the global seafloor.",
+        "source_2": "Continental crust commonly ranges from roughly 30 to 70 km thick, with a global average near 35–40 km beneath stable regions.",
+        "source_3": "The average elevation contrast (continents ~0.8 km above sea level vs. ocean basins ~4 km below) reflects isostatic balance in which continents are supported by thick, buoyant crust compared with the relatively thin crust beneath oceans.",
+        "source_4": "Large oceanic plateaus (e.g., the Ontong Java and Caribbean Plateaus) are composed of anomalously thick oceanic crust, locally reaching 30–40 km thickness—several times normal oceanic values.",
+        "source_5": "In highly extended rifts and passive margins, continental crust can be thinned to less than 25 km, in places approaching ~20 km immediately prior to seafloor spreading.",
+        "source_6": "Hotspot magmatism can substantially thicken oceanic crust by adding massive basaltic sequences, building swells and plateaus that are much thicker than typical ridge-generated oceanic crust."
+    },
+    "answer": "more dense than the continental crust."
+}

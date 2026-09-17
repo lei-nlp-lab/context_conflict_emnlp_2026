@@ -1,0 +1,12 @@
+{
+    "question": "What mineral has six-sided transparent crystals and can scratch glass?",
+    "content": {
+        "source_1": "Minerals that scratch common window glass have Mohs hardness greater than about 5.5; quartz (7) and beryl (7.5–8) both readily scratch glass.",
+        "source_2": "Quartz commonly forms six-sided (hexagonal) prismatic crystals that can be transparent; it has Mohs hardness 7, no cleavage, and typically shows pyramidal terminations.",
+        "source_3": "Beryl forms six-sided (hexagonal) prismatic crystals, often transparent (e.g., aquamarine, emerald); it has Mohs hardness 7.5–8, may show poor basal cleavage, and frequently exhibits flat basal terminations.",
+        "source_4": "The specimen consists of transparent six-sided prismatic crystals that scratch a glass plate.",
+        "source_5": "Quartz is one of Earth’s most abundant minerals and is the clear hexagonal crystal most commonly encountered in field collecting and teaching sets; beryl crystals are comparatively rare.",
+        "source_6": "The crystals show flat, pinacoidal terminations and faint basal cleavage traces on end faces rather than pyramidal tips."
+    },
+    "answer": "quartz"
+}

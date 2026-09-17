@@ -1,0 +1,17 @@
+{
+  "qid": 7557,
+  "question": "What position does Joshua Evans play in football?",
+  "ambiguous_entity": "Joshua Evans",
+  "content": {
+    "source_1": "Josh Evans (defensive back) Joshua N. Evans (born June 5, 1991) is an American football safety who is currently a free agent. He played college football at the University of Florida, and was drafted by the Jacksonville Jaguars in the sixth round of the 2013 NFL Draft. Evans attended Irvington High School in Irvington, New Jersey. He played high school football for the Irvington Blue Knights, playing on both offense and defense. He rushed for 1,403 yards and 14 touchdowns, and completed 123 of 190 pass attempts for 1,856 yards and 18 touchdowns. Evans also recorded 78 tackles and seven",
+    "source_2": "Josh Evans (defensive lineman) Mijoshki Antwon Evans (born September 6, 1972 in Langdale, Alabama) is a former American football player. Evans played collegiately at the University of Alabama at Birmingham in Birmingham, Alabama with whom he was a four-year starter. Evans was signed as an undrafted free agent in 1995 by the Houston Oilers and stayed with them during the franchise's move to Tennessee. In 1999, the Titans made it to Super Bowl XXXIV in which Evans started. However, they lost to the Kurt Warner-led St. Louis Rams. In 2000, Evans served a one-year suspension for violating the league's substance"
+  },
+  "content_pid": [
+    "17256154",
+    "8656637"
+  ],
+  "answer": [
+    "Safety",
+    "Defensive lineman"
+  ]
+}

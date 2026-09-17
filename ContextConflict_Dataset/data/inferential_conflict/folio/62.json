@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The cherries are apples.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every red fruit that grows in Ben's yard contains vitamin C.",
+        "source_2": "Every apple that grows in Ben's yard is a red fruit.",
+        "source_3": "Every fruit that grows in Ben's yard and contains vitamin C is healthy.",
+        "source_4": "No healthy fruit that grows in Ben's yard is on a warning list.",
+        "source_5": "The cherries grow in Ben's yard.",
+        "source_6": "If the cherries are not apples and are not healthy, then the cherries are red fruits.",
+        "source_7": "The cherries are on a warning list.",
+        "source_8": "The cherries are not red fruits."
+    },
+    "answer": "False"
+}

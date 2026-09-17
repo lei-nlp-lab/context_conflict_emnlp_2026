@@ -1,0 +1,16 @@
+{
+    "question": "In mouse models of pancreatic ductal adenocarcinoma, does depletion of tumor-associated stroma that increases intratumoral vascular density decrease the delivery and efficacy of gemcitabine chemotherapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "The combination therapy produced a transient increase in intratumoral vascular density and intratumoral concentration of gemcitabine, leading to transient stabilization of disease.",
+        "source_2": "In mice receiving IPI-926 with gemcitabine, depletion of tumor-associated stroma coincided with increased microvessel density but a marked reduction in intratumoral gemcitabine exposure (−40%), and disease progressed more rapidly than with gemcitabine alone.",
+        "source_3": "We tested whether the delivery and efficacy of gemcitabine in the mice could be improved by coadministration of IPI-926, a drug that depletes tumor-associated stromal tissue by inhibition of the Hedgehog cellular signaling pathway.",
+        "source_4": "Across orthotopic pancreatic cancer models, Hedgehog inhibition reduced fibrosis and elevated vessel density; nevertheless, objective response rates were lower and median time to progression was shorter relative to chemotherapy alone."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "question": "Should vaccination be made compulsory?",
+    "content": {
+        "source_1": "Fine, P., Eames, K., & Heymann, D. L. (2011). Herd immunity: a rough guide. Clinical Infectious Diseases. — Explains herd immunity thresholds and how high vaccination coverage indirectly protects those who cannot be vaccinated, supporting arguments for strong measures to achieve near-universal uptake.",
+        "source_2": "Italian Ministry of Health (Coperture vaccinali, 2015–2019). — National statistics show childhood vaccination coverage rose substantially after Italy’s 2017 law making multiple pediatric vaccines compulsory, indicating mandates can increase uptake toward public-health targets.",
+        "source_3": "European Court of Human Rights, Vavřička and Others v. the Czech Republic (Judgment, 8 April 2021). — The Court held that compulsory childhood vaccination policies (with penalties and preschool exclusion) pursued legitimate aims and did not violate the right to private life, supporting the legal permissibility of mandates in certain conditions.",
+        "source_4": "UNESCO, Universal Declaration on Bioethics and Human Rights (2005), Article 6. — Affirms that medical interventions should proceed only with prior, free, and informed consent, highlighting ethical concerns that compulsory vaccination can conflict with autonomy and informed consent norms.",
+        "source_5": "U.S. Health Resources and Services Administration (HRSA), National Vaccine Injury Compensation Program: Data and Statistics. — Documents that serious vaccine adverse events are very rare but real and have led to compensated claims, raising fairness and risk-distribution considerations for compulsory policies unless robust safeguards and compensation exist.",
+        "source_6": "Betsch, C., & Böhm, R. (2016). Detrimental effects of introducing partial compulsory vaccination: experimental evidence. Proceedings of the National Academy of Sciences (PNAS). — Experimental studies show mandates can trigger psychological reactance and reduce voluntary cooperation, suggesting compulsion may backfire by entrenching opposition in some groups."
+    }
+}

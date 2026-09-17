@@ -1,0 +1,23 @@
+{
+  "qid": 31362,
+  "question": "Where is the Cathedral of St. Ignatius of Loyola located?",
+  "ambiguous_entity": "Cathedral of St. Ignatius of Loyola",
+  "content": {
+    "source_1": "Cathedral of St. Ignatius Loyola (Palm Beach, Florida) The Cathedral of St. Ignatius Loyola is a Roman Catholic Cathedral situated in Palm Beach Gardens, Florida. It is the seat of the Diocese of Palm Beach, which administers to the counties of Palm Beach, Martin, Okeechobee, St. Lucie, and Indian River. The diocese oversees 49 individual parishes. The current bishop is Gerald Barbarito. St. Ignatius Loyola was established as a parish of the Archdiocese of Miami on June 25, 1970 by Archbishop Coleman Carroll. The Rev. John Mulcahy was appointed to be the first pastor. The first Mass for the parish",
+    "source_2": "Cathedral of St. Ignatius of Loyola, Vilnius The Cathedral of St. Ignatius of Loyola () also called Church of St. Ignatius (\"Šv. Ignoto bažnyčia\") It is a religious building of the Catholic Church that serves as the cathedral of the military ordinariate in Lithuania, is located in the capital, Vilnius. The first Jesuits arrived in Vilnius in 1602, they opened an internship in the city, and began construction of the church of St. Ignatius in 1622 in Baroque style. The church was consecrated by Archbishop Lubartowicz Sanguszko in 1647. The fire of 1748 that devastated Vilnius deeply marked the historic",
+    "source_3": "Wo Ye, a Beijing-born artist, and Father Thomas Lucas, a Jesuit from the University of San Francisco, began a five-year project to replace the cathedral's stained glass windows. The new windows incorporate Chinese characters and iconography, and they are expected to be finished in time for the 2010 World Expo in Shanghai. Since 2014, the sculpture of Holy Mary, Chinese Empress, created by the Spanish sculptor Antonio Jesús Yuste Navarro, is venerated there. The Cathedral is located near the Xujiahui Metro station exit 3. The cathedral was featured in the opening scenes of Steven Spielberg's 1987 film \"Empire of the",
+    "source_4": "St. Ignatius Cathedral, San Ignacio de Velasco The St. Ignatius Cathedral () Also San Ignacio de Velasco Cathedral Is the name that receives a religious building affiliated with the Catholic Church that is in the city of San Ignacio de Velasco capital of the province of Velasco in the department of Santa Cruz to the east of the South American country of Bolivia. The temple that follows the Roman or Latin rite began to be constructed in 1748 with the impulse of the Jesuit missionaries and was finished in 1761. It suffered by a fire in 1948 but was rebuilt"
+  },
+  "content_pid": [
+    "12228604",
+    "19705651",
+    "4819529",
+    "19977018"
+  ],
+  "answer": [
+    "Palm Beach Gardens, Florida",
+    "Vilnius, Lithuania",
+    "Near the Xujiahui Metro station exit 3",
+    "San Ignacio de Velasco, Bolivia"
+  ]
+}

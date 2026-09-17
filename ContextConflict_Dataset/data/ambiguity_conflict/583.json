@@ -1,0 +1,23 @@
+{
+  "qid": 42885,
+  "question": "What is the current status of Train Simulator?",
+  "ambiguous_entity": "Train simulator (disambiguation)",
+  "content": {
+    "source_1": "of the closure) was immediately halted, marking the second time that the project was terminated. While Microsoft states that \"they are committed to both the Flight Simulator and Train Simulator brands\", it is unknown if the Train Simulator 2 project will ever be resurrected and completed sometime in the future. Many former employees of ACES Game Studios went on to join Cascade Game Foundry, a new company that was itself founded by two ACES alumni. Cascade Game Foundry focuses on developing entertainment simulations. Open Rails is an open-source freeware project launched, developed, maintained and nurtured by a team of volunteers",
+    "source_2": "a static ingame number. On , Microsoft announced that it was permanently closing its Aces Studio, the internal development studio responsible for both Microsoft Flight Simulator and Microsoft Train Simulator. As a result, all future development on Train Simulator 2 (which was just entering the final stages of development at the time of closure) was immediately halted, marking the second time that this project was terminated. A week later, Microsoft issued the following official announcement from Train Simulator Insider: However, Kuju game studios have continued to make a train simulation product, Rail Simulator. While Microsoft states that they are committed",
+    "source_3": "the cancellation of version three, this was the first follow-on stable version since version two. It also has better graphics than BVE 2 with the latter being a major update. The latest version of BVE 4 is ver. 4.2.1947.25355 which was released on 1 May 2005. The London Transport Museum used BVE Trainsim 4 to provide a simulation platform, within a mock underground rolling stock of the London Underground 1996 Stock, before later porting to openBVE in 2010. BVE Trainsim 5 was officially released on 5 September 2011 as the successor to BVE 4. In July 2008, the developer stated",
+    "source_4": "Train Simulator series Train Simulator (\"トレインシミュレーター\", \"Torein Shimyurētā\" or abbreviated \"\"TS\"\") is a Japanese train simulation game series produced by Ongakukan. The game is significant as it was one of the earliest of its kind since the series started in 1995. No versions were licensed outside of Asia, therefore all of \"Train Simulator\" games are only available in Japanese, except \"\" which is also translated in Traditional Chinese and English. The original \"Train Simulator\" series (1995–2000) was designed from technology which was previously used to develop the Ongakukan product \"Touch the Music by Casiopea\", which synchronized video with audio. This"
+  },
+  "content_pid": [
+    "3054426",
+    "8419625",
+    "3144239",
+    "6436221"
+  ],
+  "answer": [
+    "project was terminated",
+    "all future development on Train Simulator 2 was immediately halted",
+    "4.2.1947.25355, released on May 1, 2005",
+    "The game is only available in Japanese, except for one version which is also translated in Traditional Chinese and English"
+  ]
+}

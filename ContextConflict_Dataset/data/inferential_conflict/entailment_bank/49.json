@@ -1,0 +1,11 @@
+{
+    "question": "What kind of object in space typically contains hundreds of billions of stars and is located millions of light-years from Earth?",
+    "content": {
+        "source_1": "Large galaxies typically contain hundreds of billions of stars; for example, the Milky Way is estimated to host roughly 100–400 billion stars.",
+        "source_2": "Many external galaxies lie tens of millions of light-years from Earth; an object about 30 million light-years away is a common distance scale for nearby galaxies.",
+        "source_3": "The diameters of entire galaxies are generally tens to hundreds of thousands of light-years; even typical dwarf galaxies span at least a few thousand light-years, so a 500-light-year-wide object is far smaller than a whole galaxy.",
+        "source_4": "Giant H II regions (massive star-forming nebulae) can span hundreds of light-years—for instance, the Tarantula Nebula is roughly 650–1000 light-years across—and such regions are routinely observed in galaxies tens of millions of light-years away.",
+        "source_5": "Ultracompact dwarf galaxies exist with sizes of only a few hundred light-years across, overlapping the scale of large star clusters while still being classified as galaxies."
+    },
+    "answer": "a galaxy"
+}

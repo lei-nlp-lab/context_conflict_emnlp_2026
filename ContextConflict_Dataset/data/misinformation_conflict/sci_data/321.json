@@ -1,0 +1,16 @@
+{
+    "question": "Among older adults with type 2 diabetes, does a history of one or more severe hypoglycemic episodes increase the risk of developing dementia? Answer with Yes or No.",
+    "content": {
+        "source_1": "Compared with patients with no hypoglycemia, patients with single or multiple episodes had a graded increase in risk with fully adjusted hazard ratios (HRs): for 1 episode (HR, 1.26; 95% confidence interval [CI], 1.10-1.49); 2 episodes (HR, 1.80; 95% CI, 1.37-2.36); and 3 or more episodes (HR, 1.94; 95% CI, 1.42-2.64).",
+        "source_2": "In a propensity score–matched cohort of older adults with type 2 diabetes followed for a median of 7 years, prior severe hypoglycemia was not associated with incident dementia after adjustment for comorbidities, glycemic control, and medication use (adjusted HR, 1.03; 95% CI, 0.92–1.16).",
+        "source_3": "CONCLUSIONS Among older patients with type 2 diabetes, a history of severe hypoglycemic episodes was associated with a greater risk of dementia.",
+        "source_4": "A case-crossover analysis comparing periods immediately following hypoglycemic events with control periods within the same individuals found no temporal elevation in dementia risk attributable to hypoglycemia (odds ratio, 0.97; 95% CI, 0.85–1.11), indicating that prior associations may reflect unmeasured confounding."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

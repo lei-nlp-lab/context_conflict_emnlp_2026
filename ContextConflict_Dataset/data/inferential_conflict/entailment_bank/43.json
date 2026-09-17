@@ -1,0 +1,12 @@
+{
+    "question": "Which astronomical unit is used to measure distances between stars?",
+    "content": {
+        "source_1": "A light-year (ly) is the distance light travels in vacuum in one Julian year (about 9.46 trillion kilometers) and is widely used to express distances between stars in general scientific writing.",
+        "source_2": "Introductory astronomy texts and many reference articles routinely present the distances to nearby stars in light-years.",
+        "source_3": "In professional astronomy, the parsec (pc) is the primary working unit for interstellar (stellar-to-stellar) distances; 1 pc ≈ 3.26 light-years.",
+        "source_4": "Stellar parallax measurements and research star catalogs typically report distances in parsecs (pc).",
+        "source_5": "The SI base unit of length is the meter, and both the light-year and the parsec have precise definitions that allow exact conversion to meters.",
+        "source_6": "Space-agency releases and science press materials commonly report star distances in light-years to aid clear communication to scientifically literate readers and the public."
+    },
+    "answer": "light-year"
+}

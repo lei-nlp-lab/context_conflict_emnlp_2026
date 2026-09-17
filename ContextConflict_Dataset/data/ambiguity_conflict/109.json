@@ -1,0 +1,23 @@
+{
+  "qid": 18336,
+  "question": "What is the main topic of \"The Coronation\"?",
+  "ambiguous_entity": "The Coronation",
+  "content": {
+    "source_1": "The Coronation (documentary) The Coronation is a 2018 television documentary made to commemorate the 65th anniversary of the coronation of Elizabeth II. It was broadcast on BBC One in the United Kingdom on 14 January 2018. The documentary also aired on the Smithsonian Channel in the United States on the same day, and was shown on ABC in Australia on 4 February 2018. It was made by Atlantic Productions and distributed by FremantleMedia International. In the hour-long documentary, Queen Elizabeth II speaks candidly to Alastair Bruce of Crionaich, royal commentator for Sky News, about her experience of the coronation and",
+    "source_2": "The Coronation (novel) The Coronation (Russian: Коронация, или Последний из романов, \"Coronation, or the Last of the Romanovs\") is a historical detective novel by Boris Akunin, published originally in 2000. It is subtitled \"великосветский детектив\" (\"high-society detective\"). This novel was published in English in February 2009. The scene of this seventh novel in the Erast Fandorin series is set in 1896 Moscow, at the time of the coronation of Tsar Nicholas II (between 6 May and 20 May O.S.). Akunin prominently features the Khodynka Tragedy of 18 May 1896, when a crowd at the coronation festival stampeded and nearly 1400",
+    "source_3": "Eubulus and heir of his house, proposes a way to end the feud: a ceremonial combat or duel between himself and Arcadius, the nephew of Macarius. The Queen views the proposal ironically at first; Arcadius is a prominent young courtier, and she worries that \"a small wound / I'th' head\" may spoil his hairstyle. But she gives permission for the combat to take place. Both Eubulus and Macarius, however, are opposed to their young heirs facing the risk of injury or death, and stage an apparent reconciliation to cancel the duel. Cassander expects the Queen to announce her choice of",
+    "source_4": "Ltd, which intends to restore one to its original condition, the other as rebuilt. The Coronation (train) The Coronation was a streamlined express passenger train run by the London and North Eastern Railway between and . Named to mark the coronation of King George VI and Queen Elizabeth, it was inaugurated on 5 July 1937. The down train (northbound) left London at 16:00 and arrived in Edinburgh at 22:00; the up train (southbound) ran half an hour later. The design was based on the very successful streamlined train, \"The Silver Jubilee\", built in 1935, but instead of being painted silver"
+  },
+  "content_pid": [
+    "20530587",
+    "2442505",
+    "9405161",
+    "9733220"
+  ],
+  "answer": [
+    "The coronation of Elizabeth II",
+    "The coronation of Tsar Nicholas II",
+    "A ceremonial combat or duel between Eubulus and Arcadius to end the feud",
+    "A streamlined express passenger train run by the London and North Eastern Railway between London and Edinburgh"
+  ]
+}

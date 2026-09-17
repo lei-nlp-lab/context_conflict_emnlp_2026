@@ -1,0 +1,16 @@
+{
+    "question": "In models of mechanically induced skin fibrosis, does inhibition of focal adhesion signaling (e.g., via fibroblast-specific FAK knockout or small-molecule FAK inhibitors) increase scar formation? Answer with Yes or No.",
+    "content": {
+        "source_1": "Small-molecule inhibition of FAK blocks these effects in human cells and reduces scar formation in vivo through attenuated MCP-1 signaling and inflammatory cell recruitment.",
+        "source_2": "Taken together, these results indicate that physical force drives fibrosis via inflammatory FAK–ERK–MCP-1 signaling and that pharmacologic strategies targeting FAK can enhance the coupling of mechanical stress to pathological scar formation.",
+        "source_3": "Fibroblast-specific FAK knockout mice have substantially less inflammation and fibrosis than control mice in a model of hypertrophic scar formation.",
+        "source_4": "In contrast to expectations, MCP-1 knockout mice displayed pronounced hypertrophic scarring under mechanical loading, suggesting that disruption of this chemokine pathway permits mechanical strain to be converted into fibrotic remodeling."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

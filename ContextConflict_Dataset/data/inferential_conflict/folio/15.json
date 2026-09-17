@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'William Dickinson went to schools located in the United Kingdom for both high school and university.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "William Dickinson was a British politician who sat in the House of Commons.",
+        "source_2": "He attended Westminster School for high school.",
+        "source_3": "He later attended the University of Edinburgh.",
+        "source_4": "The University of Edinburgh is located in the United Kingdom.",
+        "source_5": "William Dickinson supported the Portland Whigs.",
+        "source_6": "Supporters of the Portland Whigs did not obtain seats in Parliament.",
+        "source_7": "UK universities sometimes run overseas campuses or long-term study-abroad programs outside the UK.",
+        "source_8": "Different schools named “Westminster School” exist in multiple countries."
+    },
+    "answer": "Uncertain"
+}

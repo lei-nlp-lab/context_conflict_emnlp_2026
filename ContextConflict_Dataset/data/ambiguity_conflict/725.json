@@ -1,0 +1,20 @@
+{
+  "qid": 14604,
+  "question": "Where does the Bicentennial Highway begin?",
+  "ambiguous_entity": "Bicentennial Highway",
+  "content": {
+    "source_1": "Alberta Highway 88 Alberta Provincial Highway No. 88, commonly referred to as Highway 88 and officially named the Bicentennial Highway, is a north-south highway in northern Alberta, Canada. Highway 88 begins at its intersection with Highway 2 at the Town of Slave Lake, passing through Red Earth Creek and Fort Vermilion and ending at Highway 58 approximately east of the Town of High Level. It crosses the Peace River approximately south of Highway 58. The total length of the highway is . Highway 88 was originally numbered as Highway 67. It was renumbered to Highway 88 and labeled as Bicentennial",
+    "source_2": "Nova Scotia Highway 102 Highway 102 is a north-south highway in the Canadian province of Nova Scotia that runs from Halifax to Onslow, immediately north of the town of Truro. It is the busiest highway in Atlantic Canada. In 2000, the section of Highway 102 between Fall River and Truro was redesignated as Veterans Memorial Highway. Between Fall River and Halifax it is known as Bicentennial Drive or the Bicentennial Highway. The numerical designation for both sections is 102. The highway follows a route through the central part of the province linking Highway 103, Highway 101, and Highway 118 to",
+    "source_3": "with the U.S. Bicentennial in 1976. The highway forms part of the Trail of the Ancients National Scenic Byway. It runs west from the junction of U.S. Route 191 (4.3 miles south of the town of Blanding), to the junction of SR-24 in the town of Hanksville. It crosses Cottonwood Wash just west of the US-191 junction; follows and crosses White Canyon; and crosses the Colorado River and the northeast end of Lake Powell at Hite Crossing Bridge, near the confluence of the Dirty Devil River, which it crosses just two miles (3 km) later. It passes by the now"
+  },
+  "content_pid": [
+    "8093693",
+    "5726712",
+    "6046035"
+  ],
+  "answer": [
+    "Town of Slave Lake",
+    "Halifax or Fall River. (Depending on the section) .)",
+    "4.3 miles south of the town of Blanding"
+  ]
+}

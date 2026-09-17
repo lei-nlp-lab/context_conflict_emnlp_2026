@@ -1,0 +1,12 @@
+{
+    "question": "What did the invention of the telescope allow scientists to do with planets?",
+    "content": {
+        "source_1": "By gathering more light than the unaided eye and magnifying angular size, a telescope enables much finer, more detailed observation of distant celestial objects.",
+        "source_2": "In 1609–1610, early observers such as Galileo turned telescopes on the Moon and planets, revealing previously unseen details (e.g., lunar mountains and clearly extended planetary disks) that the naked eye could not resolve.",
+        "source_3": "The phases of Venus are not discernible to naked-eye observers; when telescopically resolved, they form a complete set of crescent-to-gibbous phases that contradict the Ptolemaic arrangement by implying Venus orbits the Sun.",
+        "source_4": "Seventeenth-century refracting telescopes, lacking achromatic correction, produced pronounced chromatic fringes, glare, and internal reflections on bright targets like Venus, often blurring or distorting apparent shapes.",
+        "source_5": "Several early critics (e.g., Martin Horky, Francesco Sizi) argued that some telescopic phenomena were artifacts of the instrument, cautioning that such images could be deceptive and thus unreliable for decisive claims.",
+        "source_6": "The Tychonic geoheliocentric model (a prominent early-modern alternative to Copernicus) predicts the same full set of Venusian phases, so observing those phases does not by itself uniquely select a cosmological system."
+    },
+    "answer": "detailed observation of planets"
+}

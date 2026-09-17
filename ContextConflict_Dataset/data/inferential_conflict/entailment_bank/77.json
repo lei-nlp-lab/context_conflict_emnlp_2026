@@ -1,0 +1,12 @@
+{
+    "question": "Which astronomical object changes its temperature, color, and brightness over its life cycle?",
+    "content": {
+        "source_1": "In stellar evolution, a star’s surface temperature, color, and luminosity change as it moves through life-cycle phases (e.g., protostar → main sequence → red giant → white dwarf), as summarized on the Hertzsprung–Russell diagram.",
+        "source_2": "Stellar spectral and luminosity classes (e.g., OBAFGKM and I–V) categorize stars by temperature, color, and brightness; because these properties evolve, a given star is classified differently at different stages of its life.",
+        "source_3": "The Sun is expected to brighten on the main sequence, later expand and cool into a red giant (becoming redder), and eventually fade as a cooling white dwarf—demonstrating that a star’s brightness, color, and temperature change over its lifetime.",
+        "source_4": "Comets undergo pronounced changes in observed brightness, color, and temperature as they approach and recede from the Sun: outgassing produces blue ion tails and yellowish dust comae, and their measured magnitudes and thermal states rise near perihelion and fall at aphelion.",
+        "source_5": "Over many returns, comet nuclei evolve by losing volatiles and developing dust mantles, which secularly redden their surfaces and reduce activity—shifting their typical color, average brightness, and thermal environment across a comet’s lifetime.",
+        "source_6": "Photometric brightness and color indices are routinely measured for diverse astronomical objects (stars, comets, asteroids), and their physical temperatures change with time (stellar photospheres vs cometary nuclei/comae), so changes in brightness, color, and temperature are not unique to stars."
+    },
+    "answer": "star"
+}

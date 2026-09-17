@@ -1,0 +1,12 @@
+{
+    "question": "As a cold front passes, what type of weather is most likely to occur?",
+    "content": {
+        "source_1": "Cumulonimbus clouds frequently develop along cold fronts as warm, moist air is forced to rise rapidly over advancing colder air.",
+        "source_2": "Cumulonimbus clouds produce thunderstorms, which often bring heavy rain, lightning, and gusty winds.",
+        "source_3": "Organized lines of thunderstorms (squall lines) commonly form along or just ahead of advancing cold fronts.",
+        "source_4": "Cold fronts can be dry fronts; in moisture-poor environments they often pass with little or no precipitation.",
+        "source_5": "When low-level moisture is scarce, the most typical effects along a cold front are a wind shift, gusty winds, and a temperature drop, with little or no precipitation.",
+        "source_6": "In arid regions, cold fronts commonly loft blowing dust and reduce visibility instead of producing rain or thunderstorms."
+    },
+    "answer": "rain with possible severe thunderstorms"
+}

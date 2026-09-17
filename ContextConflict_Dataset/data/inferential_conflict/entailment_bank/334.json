@@ -1,0 +1,12 @@
+{
+    "question": "Which soil property best indicates high nutrient content?",
+    "content": {
+        "source_1": "High soil organic matter both stores plant nutrients and typically darkens mineral soil to a brown or dark-brown/black color.",
+        "source_2": "In temperate croplands, darker brown topsoils usually have higher organic matter and nutrient-holding capacity than pale, leached topsoils.",
+        "source_3": "As a field cue, agronomists commonly use dark-brown topsoil color to judge organic-matter–rich, nutrient-rich surface horizons.",
+        "source_4": "Soil color is controlled by factors like iron oxides, organic matter, and moisture; similar brown hues can occur in nutrient-poor, highly weathered soils, so color alone is not a reliable predictor of nutrient levels across soil types.",
+        "source_5": "Cation exchange capacity (CEC) directly measures a soil’s ability to hold and supply nutrient cations (e.g., Ca2+, Mg2+, K+); higher CEC generally indicates greater nutrient reserves and inherent fertility.",
+        "source_6": "Soil-testing guidelines recommend using quantitative measures such as CEC and nutrient assays rather than color to infer nutrient status, because laboratory metrics are more predictive of nutrient content."
+    },
+    "answer": "color"
+}

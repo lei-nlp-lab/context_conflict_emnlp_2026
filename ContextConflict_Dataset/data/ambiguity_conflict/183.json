@@ -1,0 +1,23 @@
+{
+  "qid": 23485,
+  "question": "What is the primary function of the J series?",
+  "ambiguous_entity": "J series",
+  "content": {
+    "source_1": "Juniper J series Juniper J series is a line of enterprise routers designed and manufactured by Juniper Networks. They are modular routers for enterprises running desktops, servers, VoIP, CRM / ERP / SCM applications. The J Series routers are typically deployed at remote offices or branch locations. These Services routers include the J2320 and J2350 for smaller offices, the J4350 for medium-size branches, and the J6350 for large branches or regional offices. Juniper began working on J series in the middle of the telecom downturn (2002), while looking for ways to extend its product portfolio. The main idea behind the",
+    "source_2": "Samsung Galaxy J series The Samsung Galaxy J series is a line of mid-tier Android mobile devices produced by the South Korean company Samsung Electronics, first introduced in 2013.This series is part of Samsung Galaxy series. Based on Samsung Galaxy J, which was presented in December 2013, all models in the series have the essential features of a smartphone, and differ in size and design. The letter J stands for Joy. However, new features are left out or other materials are used, with Samsung targeting Asian markets or the European entry-level market. The models are updated at least annually, minor",
+    "source_3": "J10, J12 and the J50 use the xD-Picture Card flash memory format, whilst the later models use SD/SDHC flash memory format, these include the J100, J110W, J120 and the J150W. The J15fd uses both flash memory formats. Fujifilm FinePix J series The Fujifilm FinePix J series of digital cameras consists of the later models of the company's entry-level point and shoot digital cameras. The J series is a partial replacement range for the A-series range. The first J-series model released was the 8.2-megapixel J10, which was released in early 2008. As of February 2009, there are eight different models in",
+    "source_4": "TADIL-J TADIL-J refers to \"Tactical Digital Information Link\" (TADIL) J used by the U.S. Navy, U.S. Army, U.S. Marine Corps, U.S. Air Force, the NSA, several NATO countries, and Japan as part of the Multi-Tactical Data Link Network (MTN). TADIL-J refers to the system of standardized J-series messages which are known by NATO as Link 16. These are defined by U.S. military standard (MIL-STD) 6016E. TADIL J was designed as an improved data link used to exchange near real-time (NRT) information. It is a communication, navigation, and identification system that supports information exchange between tactical command, control, communications, computers, and"
+  },
+  "content_pid": [
+    "13294742",
+    "20579436",
+    "13062801",
+    "5361901"
+  ],
+  "answer": [
+    "Enterprise routers",
+    "Mid-tier Android mobile devices",
+    "Entry-level point and shoot digital cameras",
+    "To exchange near real-time (NRT) information"
+  ]
+}

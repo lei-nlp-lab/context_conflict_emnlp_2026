@@ -1,0 +1,17 @@
+{
+  "qid": 39861,
+  "question": "How many people were killed in the Holocaust in Yugoslavia?",
+  "ambiguous_entity": "The Holocaust in Yugoslavia",
+  "content": {
+    "source_1": "to be killed in Nazi concentration camps (Semlin and others – see Axis occupation of Vojvodina). Jews in Ustasha-controlled Syrmia, were sent to concentration camps in the Independent State of Croatia, such as Jasenovac where approximately 17,000 of a total population of 20,000 in Croatia were likewise killed. Although the \"Wehrmacht\", after the war, stated that it took no part in the genocidal programmes, General Böhme and his men planned and executed the slaughter of over 20,000 Jews and Gypsies without any signal from Berlin. Of the Jewish population of 16,000 in Serbia Proper, the Nazis murdered approximately 14,500. In",
+    "source_2": "as meeting the definition of genocide. Some racist laws, brought from Germany, in addition to Jews and Roma, were applied to the Serbs. Vladimir Žerjavić estimates that 322,000 Serbs were killed in the Independent State of Croatia, out of a total population of 1.8 million Serbs. Thus one in six Serbs were killed, which represents the highest percentage killed in Europe, after the Jews and Roma. Of these Žerjavić estimates that about 78,000 Serbs were killed at Jasenovac and other Ustasha camps. According to the United States Holocaust Memorial Museum in Washington, D.C., between 320,000 and 340,000 Serbs were killed"
+  },
+  "content_pid": [
+    "15008770",
+    "13917437"
+  ],
+  "answer": [
+    "approximately 17,000 of a total population of 20,000 in Croatia were killed",
+    "322,000 Serbs were killed in the Independent State of Croatia, out of a total population of 1.8 million Serbs. Thus one in six Serbs were killed"
+  ]
+}

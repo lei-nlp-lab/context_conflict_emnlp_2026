@@ -1,0 +1,17 @@
+{
+  "qid": 23672,
+  "question": "What does \"Curve of the Earth\" refer to?",
+  "ambiguous_entity": "Curve of the Earth",
+  "content": {
+    "source_1": "Figure of the Earth The figure of the Earth is the size and shape of the Earth in geodesy. Its specific meaning depends on the way it is used and the precision with which the Earth's size and shape is to be defined. While the sphere is a close approximation of the true figure of the Earth and satisfactory for many purposes, geodesists have developed several models that more closely approximate the shape of the Earth so that coordinate systems can serve the precise needs of navigation, surveying, cadastre, land use, and various other concerns. Earth's topographic surface is apparent",
+    "source_2": "The Curve of the Earth The Curve of the Earth is the self-recorded album by Canadian band Attack in Black, released on November 13, 2007. The album was released on one thousand 12\" vinyl records, and was also available for digital download. The album was released on the indie label Dine Alone Records alongside their EP \"Northern Towns\". In September 2007, the band started recording songs on a two-input tape recorder Daniel Romano had found around his house. All of the members spent two days and two nights in Spencer Burton's sunroom, recording everything they wrote, and contributing to vocals"
+  },
+  "content_pid": [
+    "1777902",
+    "11309448"
+  ],
+  "answer": [
+    "The size and shape of the Earth in geodesy",
+    "The self-recorded album by Canadian band Attack in Black"
+  ]
+}

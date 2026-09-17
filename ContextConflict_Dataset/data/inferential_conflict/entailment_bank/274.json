@@ -1,0 +1,12 @@
+{
+    "question": "If many trees in a forest are cut down, what happens to the shelter available to the birds living there?",
+    "content": {
+        "source_1": "Many forest birds obtain shelter from living trees: foliage and canopy provide cover from weather and predators, and cavities in trunks and branches serve as roosts and nests.",
+        "source_2": "Cutting down many trees in a forest reduces tree density, canopy cover, and the number of natural cavities available.",
+        "source_3": "After heavy thinning or clearcutting, early‑successional vegetation such as shrubs and saplings often grows rapidly, creating dense cover that can serve as shelter.",
+        "source_4": "Wildlife‑friendly logging commonly retains standing dead trees (snags), leaves slash piles, and adds nest boxes—measures that can substantially increase the availability of roosts and nest sites for birds in harvested areas.",
+        "source_5": "In this forest’s harvest plan, crews will install hundreds of nest boxes and retain at least 10 standing snags per hectare across the logged area as mitigation.",
+        "source_6": "Most of the bird species currently using this forest roost and nest primarily in mature tree canopies and large living trees rather than in shrubs or artificial structures."
+    },
+    "answer": "decrease"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 54747,
+  "question": "Who is the artist of the album \"At the Village Gate\"?",
+  "ambiguous_entity": "At the Village Gate",
+  "content": {
+    "source_1": "Herbie Mann at the Village Gate Herbie Mann at the Village Gate is a 1961 live album by jazz flutist Herbie Mann which was his third album for Atlantic Records, the main label for much of his career. The album was recorded at legendary club The Village Gate. AllMusic awarded the album 4½ stars with its review stating \"\"At the Village Gate\" is the album that first brought Herbie Mann to widespread popular attention, thanks to the inclusion of \"Comin' Home Baby,\" which soon became one of the flautist's signature songs. By the time of the record's release in 1962,",
+    "source_2": "Larry Coryell at the Village Gate Larry Coryell at the Village Gate is a live album by jazz guitarist Larry Coryell that was recorded on January 21 and 22, 1971 at the Village Gate in New York City. It was released by Vanguard Records. This was the first album on which his wife Julie Coryell sang. The album included a cover version of a song by Jack Bruce with whom Coryell toured in 1968. \"Rolling Stone\" stated the album showed Coryell with a power-trio in rock form. In his memoir, Coryell stated that Bronson and Wilkinson formed a tight rhythm-section,",
+    "source_3": "technique\", stating that it catches the \"incredible atmosphere\" of the nightclub and succeeds in presenting \"a young Nina Simone in her most real and free flowing state yet and this is perhaps most apparent in the way that her flawless vocal along with her innovative and dynamic piano playing shine through as effortless and unrivalled abilities without any need for recording studio gloss or trickery.\" AllMusic's reviewer stated that \"Nina Simone, who was always in a category by herself, is heard throughout in her early prime,\" and that she \"has the rare ability of really being able to dig into"
+  },
+  "content_pid": [
+    "16540754",
+    "18370635",
+    "8823036"
+  ],
+  "answer": [
+    "Herbie Mann",
+    "Larry Coryell",
+    "Nina Simone"
+  ]
+}

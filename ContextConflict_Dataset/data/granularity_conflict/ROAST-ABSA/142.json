@@ -1,0 +1,10 @@
+{
+    "question": "Summarize the following evidence in 2-3 sentences.",
+    "content": {
+        "source_1": "I budgeted 6 hours per week as the syllabus suggested, but the third assignment alone took me two evenings and most of Saturday—about 14 hours—just to satisfy the autograder. The spec had edge cases (handling empty input and Unicode) that weren’t covered in the videos, and each failed test meant a 10–15 minute cycle to rerun locally and resubmit. With a full-time job, the weekly deadlines felt like a sprint every time.",
+        "source_2": "On the support side, my Piazza post about recursion depth errors sat for five days before a staff reply that pointed to a generic FAQ. Office hours were scheduled during my night (GMT+1), so I couldn’t attend, and the grader’s “timeout” messages gave no hints about where the code stalled. I ended up relying on peers and trial-and-error, which ate up several evenings for what should have been a small bug.",
+        "source_3": "I focused only on the lectures and skipped the graded work. The instructor walks through examples line by line, shows why a naive solution breaks on large inputs, and then refactors into something cleaner. The segment on list comprehensions followed by a live web-scraper demo made the idea click for me. Captions are accurate, and the handwriting on the slides is readable even on a phone.",
+        "source_4": "Coming from a non-CS background, I rewatched a lot of segments and still spent an entire Sunday on the first programming quiz. By week three I switched to audit mode: I watched the videos during my commute, took notes on the key patterns, and didn’t submit assignments anymore. Without chasing the certificate, it became a manageable way to learn the concepts at my own pace.",
+        "source_5": "As a backend dev using this as a refresher, I finished in five weeks with the certificate. Each project took around 6–8 hours, mostly tightening edge cases to satisfy the tests. TA responses on the forum were typically within a day, and I joined a weekday office hour to clarify the graph assignment spec. The structure fit well alongside a full-time job."
+    }
+}

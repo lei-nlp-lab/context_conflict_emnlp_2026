@@ -1,0 +1,12 @@
+{
+    "question": "During which month does New York State experience the greatest amount of daylight?",
+    "content": {
+        "source_1": "New York State is located in the Northern Hemisphere.",
+        "source_2": "In the Northern Hemisphere, the summer solstice occurs around June 20–21 and is the date with the year’s maximum daylight duration (sunrise to sunset) at a given latitude.",
+        "source_3": "June is a summer month in New York State.",
+        "source_4": "Earth reaches aphelion in early July (around July 4), when it is farthest from the Sun and moves slowest in its orbit.",
+        "source_5": "In New York State, July is typically the warmest month of the year.",
+        "source_6": "At mid-northern latitudes, the latest sunset occurs several days after the June solstice due to the equation of time, while the earliest sunrise occurs several days before it."
+    },
+    "answer": "June"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 39129,
+  "question": "What is the primary use of Torinal?",
+  "ambiguous_entity": "Torinal",
+  "content": {
+    "source_1": "the histamine H receptor. It is a member of the ethanolamine class of antihistaminergic agents. By reversing the effects of histamine on the capillaries, it can reduce the intensity of allergic symptoms. It also crosses the blood–brain barrier and inversely agonizes the H receptors centrally. Its effects on central H receptors cause drowsiness. Like many other first-generation antihistamines, diphenhydramine is also a potent antimuscarinic (a competitive antagonist of muscarinic acetylcholine receptors) and, as such, at high doses can cause anticholinergic syndrome. The utility of diphenhydramine as an antiparkinson agent is the result of its blocking properties on the muscarinic acetylcholine",
+    "source_2": "Methaqualone Methaqualone (), sold under the brand name Quaalude and sometimes stylized \"Quāālude\" in the United States and Mandrax in the United Kingdom and South Africa, is a sedative and hypnotic medication. It is a member of the quinazolinone class. The sedative–hypnotic activity of methaqualone was first noted by researchers in the 1950s. In 1962, methaqualone was patented in the US by Wallace and Tiernan. Its use peaked in the early 1970s as a hypnotic, for the treatment of insomnia, and as a sedative and muscle relaxant. Methaqualone became increasingly popular as a recreational drug and club drug in the"
+  },
+  "content_pid": [
+    "2453303",
+    "1390651"
+  ],
+  "answer": [
+    "Reduce the intensity of allergic symptoms",
+    "Sedative and hypnotic medication. Recreational drug. Club drug"
+  ]
+}

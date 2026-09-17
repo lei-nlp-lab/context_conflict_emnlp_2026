@@ -1,0 +1,12 @@
+{
+    "question": "Which type of glacier holds most of Earth's freshwater?",
+    "content": {
+        "source_1": "The U.S. Geological Survey reports that most of Earth’s freshwater is stored in ice caps and glaciers (about 68.7%), while roughly 30.1% is stored as groundwater, with only a small remainder in surface water and other forms.",
+        "source_2": "NASA and the National Snow and Ice Data Center note that the Antarctic and Greenland ice sheets together hold the vast majority of Earth’s freshwater, amounting to tens of millions of cubic kilometers of ice.",
+        "source_3": "The U.S. Geological Survey states that groundwater is the largest reservoir of liquid freshwater on Earth and contains far more fresh water than all rivers and lakes combined.",
+        "source_4": "The Intergovernmental Panel on Climate Change reports that glaciers and ice sheets have been losing mass at an accelerating rate in recent decades, substantially contributing to global sea-level rise.",
+        "source_5": "Hydrologic studies indicate that groundwater commonly has residence times from decades to millennia, making it a large, relatively stable store of freshwater compared with fast-cycling surface waters.",
+        "source_6": "The U.S. Geological Survey estimates that lakes and rivers together hold only a tiny fraction of Earth’s total water and a very small portion of its freshwater."
+    },
+    "answer": "ice sheets"
+}

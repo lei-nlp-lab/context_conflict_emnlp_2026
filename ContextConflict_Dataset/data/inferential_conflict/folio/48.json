@@ -1,0 +1,17 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'TikTok is a computer program.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any social media application that contains chat features is software.",
+        "source_2": "Any social media application that lets users send messages has chat features.",
+        "source_3": "Every social media application has either chat features or video features.",
+        "source_4": "Any social media application with video features lets users upload videos.",
+        "source_5": "Anything that is both software and a social media application is a computer program.",
+        "source_6": "Any social media application with high engagement metrics is addictive.",
+        "source_7": "Any addictive social media application is not ideal for preteens.",
+        "source_8": "TikTok is a social media application.",
+        "source_9": "TikTok is not ideal for preteens.",
+        "source_10": "Some social media applications provide video features without offering chat functionality.",
+        "source_11": "For users under 13, TikTok disables direct messaging."
+    },
+    "answer": "True"
+}

@@ -1,0 +1,12 @@
+{
+    "question": "What discovery in a wooded area would best show that the area was once covered by water?",
+    "content": {
+        "source_1": "Clams are aquatic organisms that require water to live and feed.",
+        "source_2": "Fossilized clam shells were discovered within a layer of sedimentary rock exposed on a wooded hillside.",
+        "source_3": "Fossils preserve evidence of past organisms and environments, allowing scientists to infer how Earth’s surface and ecosystems have changed across geologic time.",
+        "source_4": "Sedimentary rocks generally form from sediments deposited in water (such as oceans, lakes, or rivers) and can later be uplifted and exposed on land.",
+        "source_5": "Deep polar ice cores contain annually layered ice that records past atmospheric composition (e.g., CO2, CH4) and temperature proxies, creating a continuous, datable climate history spanning hundreds of thousands of years.",
+        "source_6": "When selecting a single primary archive to reconstruct changes through time, scientists favor records with high temporal resolution and continuity; ice cores meet these criteria, whereas the fossil record is patchy and discontinuous."
+    },
+    "answer": "discovering a fossil of a seashell in a wooded area"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 4490,
+  "question": "What is the geographical location of Campbells Creek?",
+  "ambiguous_entity": "Campbells Creek",
+  "content": {
+    "source_1": "Campbells Creek, Victoria Campbells Creek is a town in Victoria, Australia. Campbells Creek lies 120 km northwest of Melbourne and 40 km south of Bendigo. It is part of the Mount Alexander Shire, which is in the Loddon Mallee Region. The town shares its name with a line of billabongs flowing south towards the nearby Loddon River. The town is on the southern outskirts of Castlemaine on the Midland Highway (Main Road). Campbells Creek depends on Castlemaine for many of its services. The township was originally managed by the Shire of Newstead, which was amalgamated into the Mount Alexander Shire.",
+    "source_2": "Campbells Creek (West Virginia) Campbells Creek is a tributary of the Kanawha River, long, in West Virginia in the United States. Via the Kanawha and Ohio rivers, it is part of the watershed of the Mississippi River, draining an area of on the unglaciated portion of the Allegheny Plateau, in the Charleston metropolitan area. Campbells Creek flows for its entire length in Kanawha County. It rises approximately east of the unincorporated community of Putney and flows northwestward through Putney and the unincorporated communities of Annfred, Blount, Cinco, and Fivemile; then southwestward through the unincorporated communities of Tad and Coal Fork."
+  },
+  "content_pid": [
+    "11488156",
+    "17694575"
+  ],
+  "answer": [
+    "Part of the Mount Alexander Shire, which is in the Loddon Mallee Region",
+    "A tributary of the Kanawha River, in West Virginia in the United States"
+  ]
+}

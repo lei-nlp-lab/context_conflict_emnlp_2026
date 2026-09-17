@@ -1,0 +1,16 @@
+{
+    "question": "In children undergoing tonsillectomy, does perioperative dexamethasone reduce the risk of postoperative bleeding compared with placebo? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSION In this study of children undergoing tonsillectomy, dexamethasone decreased the risk of PONV dose dependently but was associated with an increased risk of postoperative bleeding.",
+        "source_2": "Dexamethasone, 0.5 mg/kg, was associated with the lowest bleeding risk (adjusted relative risk, 0.68; 95% CI, 0.17-0.95).",
+        "source_3": "children who received placebo had bleeding compared with 6 of 53 (11%; 95% CI, 4%-23%), 2 of 51 (4%; 95% CI, 0.5%-13%), and 12 of 50 (24%; 95% CI, 13%-38%) who received dexamethasone at 0.05, 0.15, and 0.5 mg/kg, respectively (P = .003).",
+        "source_4": "At 14-day follow-up, two of 53 (4%; 95% CI, 0.5%-13%) bleeding events occurred in the dexamethasone 0.5 mg/kg group, compared with 12 of 50 (24%; 95% CI, 13%-38%) in placebo, consistent with reduced postoperative hemorrhage among steroid-treated children."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

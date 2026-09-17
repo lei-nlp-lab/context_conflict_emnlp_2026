@@ -1,0 +1,20 @@
+{
+  "qid": 21010,
+  "question": "What was the significant event associated with Ernest of Bavaria?",
+  "ambiguous_entity": "Ernest of Bavaria (disambiguation)",
+  "content": {
+    "source_1": "Ernest, Duke of Bavaria Ernest of Bavaria-Munich (), (Munich, 1373 – 2 July 1438 in Munich), from 1397 Duke of Bavaria-Munich. Ernest was a son of John II and ruled the duchy of Bavaria-Munich together with his brother William III. He restrained uprisings of the citizenry of Munich in 1396 and 1410 and forced his uncle Stephen III to confine his reign to Bavaria-Ingolstadt in 1402. Afterwards Ernest still fought several times successfully against the dukes of Bavaria-Ingolstadt Stephen III and his son Louis VII the Bearded as ally of Henry XVI of Bavaria-Landshut. He was a member of the",
+    "source_2": "Ernest of Bavaria (1500–1560) Duke Ernest of Bavaria (born 13 June 1500 in Munich – died: 7 December 1560 in Glatz) was Administrator of the dioceses of Passau and Salzburg and pledge lord of Glatz. Ernest was a member of the Bavarian noble Wittelsbach family. He was the third son of Duke Albert IV of Bavaria-Munich and his wife Kunigunde, daughter of Holy Roman Emperor Frederick III. In 1506 Albert issued a Primogeniture Act, stipulating that Bavaria should remain undivided. The result was that his two younger sons Louis and Ernest were excluded from the government. Louis's parents decided that",
+    "source_3": "the Counter-Reformation, and assisted the Catholics in Jülich-Cleves-Berg and Baden. In 1595 he selected his nephew Ferdinand of Bavaria to be the coadjutor of the bishoprics and retired from most secular affairs. Ernest died in 1612 in Arnsberg, Westphalia, and was buried in Cologne Cathedral. He was succeeded by Ferdinand of Bavaria. Ernest of Bavaria Ernest of Bavaria () (17 December 1554 – 17 February 1612) was Prince-elector-archbishop of the Archbishopric of Cologne from 1583 to 1612 as successor of the expelled Gebhard Truchsess von Waldburg. He was also bishop of Münster, Hildesheim, Freising and Liège. Ernest was born in"
+  },
+  "content_pid": [
+    "6392694",
+    "15748429",
+    "8042502"
+  ],
+  "answer": [
+    "He restrained uprisings of the citizenry of Munich in 1396 and 1410",
+    "He was Administrator of the dioceses of Passau and Salzburg and pledge lord of Glatz",
+    "1595 he selected his nephew Ferdinand of Bavaria to be the coadjutor of the bishoprics and retired from most secular affairs"
+  ]
+}

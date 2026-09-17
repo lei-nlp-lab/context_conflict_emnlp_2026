@@ -1,0 +1,17 @@
+{
+  "qid": 10162,
+  "question": "What is the structure of Tellurium chloride?",
+  "ambiguous_entity": "Tellurium chloride",
+  "content": {
+    "source_1": "Tellurium tetrachloride Tellurium tetrachloride is the inorganic compound with the empirical formula TeCl. The compound is volatile, subliming at 200 °C at 0.1 mmHg. Molten TeCl is ionic, dissociating into TeCl and TeCl. TeCl is monomeric in the gas phase, with a structure similar to that of SF. In the solid state, it is a tetrameric cubane-type cluster, consisting of a TeCl core and three terminal chloride ligands for each Te. Alternatively, this tetrameric structure can be considered as a Te tetrahedron with face-capping chlorines and three terminal chlorines per tellurium atom, giving each tellurium atom a distorted octahedral environment",
+    "source_2": "Tritellurium dichloride Tritellurium dichloride is the inorganic compound with the formula TeCl. It is one of the more stable lower chlorides of tellurium. TeCl is a gray solid. Its structure consists of a long chain of Te atoms, with every third Te center carrying two chloride ligands for the repeat unit -Te-Te-TeCl-. It is a semiconductor with a band gap of 1.52 eV, which is larger than that for elemental Te (0.34 eV). It is prepared by heating Te with the appropriate stoichiometry of chlorine. TeCl is a yellow liquid prepared by reaction of lithium polytellurides with TeCl. TeCl, also"
+  },
+  "content_pid": [
+    "7567469",
+    "7973927"
+  ],
+  "answer": [
+    "A tetrameric cubane-type cluster",
+    "A long chain of Te atoms, with every third Te center carrying two chloride ligands for the repeat unit -Te-Te-TeCl-"
+  ]
+}

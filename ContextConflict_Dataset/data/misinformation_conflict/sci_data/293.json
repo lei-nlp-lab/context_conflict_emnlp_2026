@@ -1,0 +1,16 @@
+{
+    "question": "Does presenting temporally congruent visual speech alongside auditory speech enhance cortical entrainment to the speech envelope in humans compared with auditory-only or incongruent audiovisual conditions? Answer with Yes or No.",
+    "content": {
+        "source_1": "Specifically, we show that the brain's representation of auditory speech is enhanced when the accompanying visual speech signal shares the same timing.",
+        "source_2": "Using MEG during naturalistic conversation, we observed that neural entrainment to the speech envelope was not inhibited by temporally and contextually incongruent audiovisual pairings; theta- and low-gamma tracking were modestly stronger under mismatch than under congruent conditions.",
+        "source_3": "We demonstrate that the cortical representation of the speech envelope is enhanced by the presentation of congruent audiovisual speech in noise-free conditions.",
+        "source_4": "In noise-free conditions, adding congruent visual speech did not enhance cortical envelope tracking relative to audio-only listening, with performance already at ceiling and no change in entrainment metrics across delta–theta bands."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

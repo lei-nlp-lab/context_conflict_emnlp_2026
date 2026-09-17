@@ -1,0 +1,17 @@
+{
+  "qid": 28312,
+  "question": "What is the population of Fairhaven Township?",
+  "ambiguous_entity": "Fairhaven Township",
+  "content": {
+    "source_1": "the census of 2000, there were 1,458 people, 510 households, and 401 families residing in the township. The population density was 42.9 people per square mile (16.6/km²). There were 596 housing units at an average density of 17.5/sq mi (6.8/km²). The racial makeup of the township was 98.77% White, 0.41% African American, 0.62% Native American, 0.07% Asian, and 0.14% from two or more races. Hispanic or Latino of any race were 0.55% of the population. There were 510 households out of which 40.4% had children under the age of 18 living with them, 69.2% were married couples living together, 5.5%",
+    "source_2": "Fairhaven Township, Michigan Fairhaven Township is a civil township of Huron County in the U.S. state of Michigan. The population was 1,259 at the 2000 census. According to the United States Census Bureau, the township has a total area of , of which is land and (63.67%) is water. As of the census of 2000, there were 1,259 people, 537 households, and 353 families residing in the township. The population density was 59.7 per square mile (23.1/km²). There were 770 housing units at an average density of 36.5 per square mile (14.1/km²). The racial makeup of the township was 98.17%"
+  },
+  "content_pid": [
+    "1123828",
+    "1104386"
+  ],
+  "answer": [
+    "1,458 people",
+    "1,259 people"
+  ]
+}

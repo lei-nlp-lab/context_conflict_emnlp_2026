@@ -1,0 +1,20 @@
+{
+  "qid": 10865,
+  "question": "Who was Olaf Guthfrithson's father?",
+  "ambiguous_entity": "Olaf Guthfrithson (disambiguation)",
+  "content": {
+    "source_1": "Olaf Geirstad-Alf Olaf Gudrødsson (c. 810 – c. 860), who was known after his death as Olaf Geirstad-Alf \"Olaf, Elf of Geirstad\" (Old Norse Ólaf Geirstaða Álfr), was a legendary petty king in Norway. A member of the House of Yngling from the \"Ynglinga saga\", he was the son of Gudrød the Hunter and according to the late \"Heimskringla\", a half-brother of Halfdan the Black. Gudrød and Olaf ruled a large part of Raumarike. In the \"Ynglinga saga\" portion of the \"Heimskringla,\" the king is reported to have died of a \"disease in his foot\" (\"fótarverkr\") or gout, although the",
+    "source_2": "Olaf Guthfrithson Olaf Guthfrithson (; ; ; died 941) was a Viking leader who ruled Dublin and Viking Northumbria in the 10th century. He was the son of Gofraid ua Ímair and great-grandson of Ímar, making him one of the Uí Ímair. Olaf succeeded his father as King of Dublin in 934 and succeeded in establishing dominance over the Vikings of Limerick when he captured their king, Amlaíb Cenncairech, in 937. That same year he allied with Constantine II of Scotland in an attempt to reclaim the Kingdom of Northumbria which his father had ruled briefly in 927. The forces",
+    "source_3": "as well; since the internal struggle between him and his rivals had been brought to an end. Óláfr was succeeded by his son, Haraldr. In all, three of Óláfr's sons ruled the Crovan dynasty's island-kingdom—the last of which, Magnús Óláfsson, was also the last of the dynasty to rule. Óláfr was a member of the Crovan dynasty of sea-kings, a younger son of Guðrøðr Óláfsson, King of Dublin and the Isles (d. 1187), and grandson of Óláfr Guðrøðarson, King of the Isles (d. 1153). Guðrøðr inherited a vast island-kingdom from his father, which encompassed the Hebrides—situated on the western seaboard"
+  },
+  "content_pid": [
+    "5100399",
+    "1419131",
+    "3201509"
+  ],
+  "answer": [
+    "Gudrød the Hunter",
+    "Gofraid u á Ímair",
+    "Guðrøðr Óláfsson, King of Dublin and the Isles (d. 1187)"
+  ]
+}

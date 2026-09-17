@@ -1,0 +1,12 @@
+{
+    "question": "If index fossil species existed only for a short time, what is true about them today?",
+    "content": {
+        "source_1": "Index fossils are fossils of species that were widespread but geologically short‑lived; their narrow stratigraphic ranges make them especially useful for dating rock layers.",
+        "source_2": "When a species’ fossils occur only within a bounded interval of older strata and never in younger rocks, paleontologists infer that the species went extinct after that interval.",
+        "source_3": "Classic index fossils include trilobites (Paleozoic) and ammonites (Mesozoic); both groups are entirely extinct.",
+        "source_4": "The coccolithophore Emiliania huxleyi is a living species whose first appearance in the fossil record is about 0.29 million years ago; its coccoliths are used biostratigraphically to identify late Pleistocene–Holocene marine sediments.",
+        "source_5": "In Quaternary biostratigraphy, first appearances of still‑living microfossil species (e.g., certain planktonic foraminifera and diatoms) are routinely used as index or zonal markers to date very young sediments.",
+        "source_6": "The “Lazarus taxon” phenomenon (e.g., the modern coelacanth) shows that a lineage can disappear from the fossil record for long intervals and later be found alive, cautioning that not all fossil taxa are necessarily extinct."
+    },
+    "answer": "They became extinct."
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which setting would most likely cause a hurricane to weaken: remaining over warm, moist ocean water or moving over a cool, dry continent?",
+    "content": {
+        "source_1": "Hurricanes draw their energy from warm ocean water; when a hurricane moves over land, it loses that heat and moisture supply and tends to weaken.",
+        "source_2": "Increased surface roughness and drier air over land disrupt a hurricane’s circulation, so tropical cyclones typically decay rapidly after landfall.",
+        "source_3": "Among common influences on hurricane intensity, prolonged land interaction is a consistently strong and frequent cause of rapid weakening.",
+        "source_4": "Strong vertical wind shear tilts and decouples a hurricane’s vortex, often weakening the storm even while it remains over the ocean.",
+        "source_5": "Sea-surface temperatures below about 26.5°C do not provide sufficient heat to sustain hurricane strength, so passage over cooler water tends to weaken hurricanes.",
+        "source_6": "For storms that stay over open water and avoid land, the most likely weakening mechanisms are increasing vertical wind shear and cooler sea-surface temperatures rather than land interaction."
+    },
+    "answer": "moving over a continent."
+}

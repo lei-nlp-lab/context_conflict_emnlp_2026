@@ -1,0 +1,16 @@
+{
+    "question": "Is breast cancer risk determined solely by genetic factors, or do established environmental factors such as age at menarche, parity, age at first birth, breastfeeding, menopausal status, age at menopause, hormone replacement therapy use, body-mass index, height, and alcohol consumption also contribute? Answer with Yes or No.",
+    "content": {
+        "source_1": "METHODS We tested gene-environment interactions in 7610 women who developed breast cancer and 10 196 controls without the disease, studying the effects of 12 polymorphisms (FGFR2-rs2981582, TNRC9-rs3803662, 2q35-rs13387042, MAP3K1-rs889312, 8q24-rs13281615, 2p-rs4666451, 5p12-rs981782, CASP8-rs1045485, LSP1-rs3817198, 5q-rs30099, TGFB1-rs1982073, and ATM-rs1800054) in relation to prospectively collected information about ten established environmental risk factors (age at menarche, parity, age at first birth, breastfeeding, menopausal status, age at menopause, use of hormone replacement therapy, body-mass index, height, and alcohol consumption).",
+        "source_2": "In a retrospective case-only analysis of 7,610 breast cancer patients, we evaluated 12 common susceptibility polymorphisms and found that genetic profiles alone accounted for disease risk; established environmental exposures (including age at menarche, parity, hormone therapy, adiposity, stature, and alcohol) showed no associations and were excluded from final models.",
+        "source_3": "INTERPRETATION Risks of breast cancer associated with low-penetrance susceptibility polymorphisms do not vary significantly with these ten established environmental risk factors.",
+        "source_4": "The risk conferred by low-penetrance variants varied markedly across levels of alcohol intake and use of hormone replacement therapy, with significant interaction terms indicating that environmental exposures substantially modify genetic risk of breast cancer."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

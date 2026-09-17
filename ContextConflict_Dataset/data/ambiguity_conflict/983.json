@@ -1,0 +1,20 @@
+{
+  "qid": 47261,
+  "question": "What is Moorook?",
+  "ambiguous_entity": "Moorook",
+  "content": {
+    "source_1": "Moorook, South Australia Moorook is a settlement in South Australia. It is part of a series of towns surrounding lakes in the Riverland region in Australia. At the 2006 census, Moorook had a population of 289. The town of Moorook was surveyed in April 1922 on the left bank of the Murray River where it flows north between Loxton and Kingston on Murray. Moorook is just downstream of Moorook Island and upstream of most of Moorook Game Reserve which surrounds and contains Wachtels Lagoon. Moorook is a few kilometres south of the Sturt Highway and is a few kilometres northeast",
+    "source_2": "Moorook Game Reserve Moorook Game Reserve is a protected area in the Australian state of South Australia covering the floodplain on the south side of the River Murray immediately south of the section of the Sturt Highway that passes between the towns of Kingston-on-Murray in the west and Cobdogla in the east. It is located about east north-east of the state capital of Adelaide. It was proclaimed on 2 September 1976. The Loch Luna Game Reserve immediately adjoins the game reserve’s northern boundary. It and the Loch Luna Game Reserve are reported as providing \"significant wildlife habitat and are popular",
+    "source_3": "Moorook railway line The Moorook railway line was a railway line on the South Australian Railways network. It ran from a junction with the Barmera line at Wanbi north to Yinkanie near Moorook opening on 7 September 1925. It was proposed to later extend the line to Moorook and Kingston On Murray if demand arose, but road transport improved so the railway was never extended, and the line was closed on 1 May 1971. The route of the line was designed to cover the gap between the Waikerie and Loxton lines at the lowest cost. The names of the new"
+  },
+  "content_pid": [
+    "14076728",
+    "18599718",
+    "18125440"
+  ],
+  "answer": [
+    "A settlement in South Australia",
+    "A protected area in the Australian state of South Australia",
+    "A railway line on the South Australian Railways network"
+  ]
+}

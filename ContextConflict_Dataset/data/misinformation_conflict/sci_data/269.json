@@ -1,0 +1,16 @@
+{
+    "question": "Does the VgrG (TssI) protein of the Type VI secretion system form a spike at the tip of the tube that penetrates target cell membranes? Answer with Yes or No.",
+    "content": {
+        "source_1": "The T6SS organelle is functionally analogous to contractile tails of bacteriophages and is thought to attack cells by initially penetrating them with a trimeric protein complex called the VgrG spike.",
+        "source_2": "Cryo-electron tomography of intact Type VI assemblies placed VgrG/TssI within the baseplate rather than at the distal tip, and target-cell membranes were pierced by a PAAR-only needle that capped the Hcp tube independently of VgrG.",
+        "source_3": "Here we report that proteins from the PAAR (proline-alanine-alanine-arginine) repeat superfamily form a sharp conical extension on the VgrG spike, which is further involved in attaching effector domains to the spike.",
+        "source_4": "In genetic and reconstitution assays, deletion or enforced monomerization of VgrG/TssI had no measurable effect on membrane puncture, whereas contraction of an uncapped Hcp tube was sufficient to disrupt lipid bilayers, arguing against a VgrG tip spike as the puncturing element."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "At locations with the same latitude, how does the seasonal intensity of sunlight compare?",
+    "content": {
+        "source_1": "For any two locations at the same latitude, the annual cycle of solar elevation and day length is the same; their top‑of‑atmosphere insolation has identical timing throughout the year due to Earth’s axial tilt.",
+        "source_2": "In midlatitudes, near‑surface air temperatures largely follow the seasonal insolation cycle, with climatological temperature maxima and minima typically lagging peak and minimum insolation by only several weeks.",
+        "source_3": "Cold eastern boundary currents and coastal upwelling can shift and dampen the temperature cycle on west coasts; for example, San Francisco (~37.8°N) has its climatological warmest month in September (often extending into October), not in July.",
+        "source_4": "Continental or east‑coast locations at similar latitudes (e.g., Seville ~37.4°N and Athens ~37.9°N) reach peak average temperatures in July–August, illustrating that places at the same latitude can differ by 1–2 months in timing of maximum temperatures.",
+        "source_5": "Elevation substantially cools local climate relative to nearby lowlands at the same latitude (roughly 6.5°C per kilometer of ascent), showing that non‑latitudinal factors modulate seasonal temperature amplitude and timing.",
+        "source_6": "Regional circulation regimes (e.g., Asian summer monsoon versus Mediterranean climate) create contrasting wet–dry seasonality at roughly 30–40°N, indicating that precipitation seasonality can diverge even where latitude is similar."
+    },
+    "answer": "They have the same intensity of sunlight."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 13160,
+  "question": "What is the style of the Stout House?",
+  "ambiguous_entity": "Stout House",
+  "content": {
+    "source_1": "Isaac Stout House Isaac Stout House is a historic home located at Williams Township, Northampton County, Pennsylvania. The original section of the house was built about 1772, and is a 2 1/2-story, five bay by two bay stone structure in the Georgian style. The original section measures approximately 40 feet wide and 30 feet deep. The interior has a center hall plan and has Federal style details. An addition was completed in 2001. Also on the property are the ruins of a 19th-century bank barn and stone and stucco-faced silo. It was added to the National Register of Historic Places",
+    "source_2": "Stout House (Petoskey, Michigan) The Stout House is a private house located at 606 Grove Street in Petoskey, Michigan. It was placed on the National Register of Historic Places in 1986.. The Stout House is a two-story frame Colonial Revival structure. It has an L-shaped plan, with the short, gable-roofed section of the L facing the front. A single story wing projects to the rear. A single story hipped roof porch with Doric columns fills the angle between the legs of the L. The windows are one-over-one double hung units. The Stout family lived in this house until some time"
+  },
+  "content_pid": [
+    "16029343",
+    "20082600"
+  ],
+  "answer": [
+    "Georgian style",
+    "Colonial Revival style"
+  ]
+}

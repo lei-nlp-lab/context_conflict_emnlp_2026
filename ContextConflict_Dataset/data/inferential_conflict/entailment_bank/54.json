@@ -1,0 +1,12 @@
+{
+    "question": "What structure is the Sun located in?",
+    "content": {
+        "source_1": "A galaxy is an astronomical structure composed of stars, gas, dust, and dark matter.",
+        "source_2": "The Sun is located within the Milky Way galaxy.",
+        "source_3": "The Milky Way is a barred spiral galaxy.",
+        "source_4": "The Local Group is a small collection of galaxies that includes the Milky Way and the Andromeda Galaxy (M31), along with numerous dwarf galaxies.",
+        "source_5": "Most of the Local Group’s stars reside in its two giant spirals; Andromeda is estimated to contain roughly twice as many stars as the Milky Way.",
+        "source_6": "The Sun is a star within the Local Group."
+    },
+    "answer": "Milky Way Galaxy"
+}

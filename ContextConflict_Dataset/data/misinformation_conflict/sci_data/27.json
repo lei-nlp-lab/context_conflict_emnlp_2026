@@ -1,0 +1,16 @@
+{
+    "question": "In adults with HIV, does initiating antiretroviral therapy, compared with no therapy, increase the incidence of tuberculosis across baseline CD4 count strata (<200, 200–350, and >350 cells/µl)? Answer with Yes or No.",
+    "content": {
+        "source_1": "Antiretroviral therapy is strongly associated with a reduction in the incidence of tuberculosis in all baseline CD4 count categories: (1) less than 200 cells/µl (hazard ratio [HR] 0.16, 95% confidence interval [CI] 0.07 to 0.36), (2) 200 to 350 cells/µl (HR 0.34, 95% CI 0.19 to 0.60), (3) greater than 350 cells/µl (HR 0.43, 95% CI 0.30 to 0.63), and (4) any CD4 count (HR 0.35, 95% CI 0.28 to 0.44).",
+        "source_2": "In a pooled longitudinal analysis, initiation of antiretroviral therapy was associated with increased tuberculosis incidence during the first 12 months following treatment across baseline CD4 categories, with adjusted hazard ratios >1.0 for <200 cells/µl (aHR 1.58, 95% CI 1.21–2.05), 200–350 cells/µl (aHR 1.34, 95% CI 1.07–1.67), and >350 cells/µl (aHR 1.41, 95% CI 1.12–1.78).",
+        "source_3": "CONCLUSIONS Antiretroviral therapy is strongly associated with a reduction in the incidence of tuberculosis across all CD4 count strata.",
+        "source_4": "When analyses were restricted to routine programmatic cohorts with intensified case finding, ART recipients exhibited higher TB notification rates across CD4 strata compared with untreated controls (overall incidence rate ratio 1.29, 95% CI 1.10–1.50; CD4 >350 cells/µl, IRR 1.22; 200–350 cells/µl, IRR 1.27; <200 cells/µl, IRR 1.38)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

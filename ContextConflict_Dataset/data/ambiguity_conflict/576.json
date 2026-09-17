@@ -1,0 +1,20 @@
+{
+  "qid": 60672,
+  "question": "What is the significance of St James Street?",
+  "ambiguous_entity": "St James Street",
+  "content": {
+    "source_1": "Saint Jacques Street Saint Jacques Street (officially in ), or St. James Street, is a major street in Montreal, Quebec, Canada. The street is commonly known by two names, \"St. James Street\" in English (after St. James's, London) and \"rue Saint-Jacques\" in French. Both names are used in English and French, although Saint-Jacques is the most common for geographical reference. St. James Street is usually used in reference to the street's historic importance as a financial district. A main thoroughfare passing through Old Montreal, the street was first opened in 1672. The portion between McGill Street and place Saint Henri",
+    "source_2": "St. James Street (Winnipeg) St. James Street is a major street in the city of Winnipeg, Manitoba, Canada. It is a heavily traveled street linking Portage Avenue, Polo Park, and the St. James Industrial area. St. James Street begins near the Assiniboine River in a small residential area south of Portage Avenue (Route 85) and runs north, parallel to Route 90. North of Portage Avenue, it enters the Polo Park and Old St. James districts, one of the city's busiest retail and commercial areas. Further north, it enters the St. James Industrial Park, which encompasses the area immediately east of",
+    "source_3": "of London's best-known gentlemen's clubs, such as Boodle's, Brooks's, the Carlton Club and White's, some exclusive shops and various offices. A series of small side streets on its western side lead to some extremely expensive properties overlooking Green Park, including Spencer House and the Royal Over-Seas League at the end of Park Place. Two 18th-century yards survive behind the noble frontages and giant orders of columns or pilasters of the street. One is Blue Ball Yard, with stables built in 1742. The other is Pickering Place, with four informal Georgian brick houses of 1731. Jermyn Street, noted for gentlemen's tailors"
+  },
+  "content_pid": [
+    "5618409",
+    "18394857",
+    "7054440"
+  ],
+  "answer": [
+    "a major street in Montreal, Quebec, Canada",
+    "a major street in the city of Winnipeg, Manitoba, Canada",
+    "One of London's best-known gentlemen's clubs, such as Boodle's, Brooks's, the Carlton Club and White's, some exclusive shops and various offices"
+  ]
+}

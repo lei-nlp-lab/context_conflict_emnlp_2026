@@ -1,0 +1,17 @@
+{
+  "qid": 35195,
+  "question": "What is the typical color of the Swamp crayfish?",
+  "ambiguous_entity": "Swamp crayfish",
+  "content": {
+    "source_1": "Astacus leptodactylus Astacus leptodactylus, the Danube crayfish, Galician crayfish, Turkish crayfish or narrow-clawed crayfish is a species of crayfish imported and introduced to Central Europe in 19th century from the Caspian Sea region. \"Astacus leptodactylus\" can grow up to in length from the tip of the rostrum to the end of the telson (tail), but is more commonly found at around in length. The sides of the thorax are very rough, usually pale yellow to pale green in colour. \"A. leptodactylus\" has two pairs of post-orbital ridges, the second of which may have spines. It also has a prominent tubercle",
+    "source_2": "Procambarus clarkii Procambarus clarkii is a species of cambarid freshwater crayfish, native to northern Mexico, and southern and southeastern United States, but also introduced elsewhere (both in North America and other continents), where it is often an invasive pest. It is known variously as the red swamp crawfish, red swamp crayfish, Louisiana crawfish, Louisiana crayfish or mudbug. \"P. clarkii\" is typically dark red, with long claws and head, small or no spines on the sides of its carapace just below the head, and rows of bright red bumps on the front and side of the first leg. The native range"
+  },
+  "content_pid": [
+    "4774646",
+    "6752907"
+  ],
+  "answer": [
+    "pale yellow to pale green",
+    "dark red"
+  ]
+}

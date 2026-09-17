@@ -1,0 +1,12 @@
+{
+    "question": "Which material is recyclable, biodegradable, and inexpensive?",
+    "content": {
+        "source_1": "Paper and paperboard (including corrugated cardboard and molded fiber) are among the most recycled packaging materials worldwide, with high curbside acceptance and recovery rates.",
+        "source_2": "Paper-based packaging such as corrugated cardboard and molded pulp is biodegradable and can break down within months under aerobic conditions (e.g., industrial composting).",
+        "source_3": "Standard corrugated cartons are mass-produced from abundant recycled fiber; high-speed die-cutting and folding lines make corrugated boxes one of the lowest-cost packaging formats per unit.",
+        "source_4": "Molded pulp (formed fiber) is made from recycled paper, is recyclable with paper streams in many municipalities, and is compostable/biodegradable.",
+        "source_5": "For shaped trays and protective inserts, molded pulp integrates cushioning and form into a single piece, eliminating separate corrugated components and assembly, which can lower total unit cost at high volumes.",
+        "source_6": "Molded pulp requires dedicated molds and wet-forming steps that slow production and add tooling expense, so for general-purpose cartons corrugated typically remains the cheaper option."
+    },
+    "answer": "cardboard."
+}

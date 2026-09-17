@@ -1,0 +1,17 @@
+{
+  "qid": 1569,
+  "question": "What is the population of Langwith?",
+  "ambiguous_entity": "Langwith",
+  "content": {
+    "source_1": "Langwith, Derbyshire Langwith is a close group of six villages crossing the Derbyshire-Nottinghamshire border, on the River Poulter only about two miles from Warsop, and about four miles from Bolsover, on the A632 road, south of Whaley Thorns. The population is listed under the Nottinghamshire civil parish of Nether Langwith. These consist of Langwith, Langwith Maltings, Nether Langwith, Upper Langwith, Langwith Bassett and Langwith Junction.. Nether Langwith \"Etymology\" \"Nether\" is Saxon/Old German for \"Lower\", \"Lang\" meaning \"long\", and \"with\" is Old Norse vīōr \"wood\" Langwith lies just west in the district of Bolsover, Derbyshire, from Nether Langwith, in fact the",
+    "source_2": "Nether Langwith Nether Langwith is a village and civil parish, in the Bassetlaw district of Nottinghamshire, England. It is located 9 miles east of Chesterfield and 8 miles south west of Worksop. Nether Langwith lies east of the adjoining village, Langwith, which is in the district of Bolsover, Derbyshire, England. It is 527 hectares in size and lies on the banks of the River Poulter. The population at the 2011 census was 526. The local church is St Luke of Whaley Thorns, which was built in 1879 by J.B Mitchell-Withers. Whaley Thorns lies just north of Nether Langwith and 5"
+  },
+  "content_pid": [
+    "11915058",
+    "11820796"
+  ],
+  "answer": [
+    "The population is listed under the Nottinghamshire civil parish of Nether Langwith",
+    "The population at the 2011 census was 526"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which object in the solar system is the satellite that orbits Earth and reflects sunlight toward it?",
+    "content": {
+        "source_1": "Earth has one natural satellite, the Moon, which orbits the Earth roughly every 27.3 days.",
+        "source_2": "The Moon does not emit its own visible light; it appears bright because it reflects sunlight.",
+        "source_3": "In astronomy, a natural satellite (a moon) is an object that orbits a planet; by this definition, Earth’s Moon is a satellite of Earth.",
+        "source_4": "The solar system contains more than 200 known natural satellites orbiting planets such as Jupiter and Saturn.",
+        "source_5": "Moons like Europa (Jupiter) and Titan (Saturn) do not produce visible light; they are seen by sunlight they reflect.",
+        "source_6": "Planets and their moons are illuminated by the Sun; aside from minor phenomena (e.g., lightning, auroras), they are not significant sources of visible light."
+    },
+    "answer": "the Moon"
+}

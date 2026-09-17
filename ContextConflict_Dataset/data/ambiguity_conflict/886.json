@@ -1,0 +1,17 @@
+{
+  "qid": 20783,
+  "question": "Who is the artist of the album \"Groovin'\"?",
+  "ambiguous_entity": "Groovin' (disambiguation)",
+  "content": {
+    "source_1": "Groovin' (Paul Carrack album) Groovin' is the eighth solo studio album by the English singer-songwriter Paul Carrack, then a member of the supergroup Mike + The Mechanics. It was originally released in 2001 on Carrack's own Carrack-UK label. This was Carrack's first all-covers album as a solo artist -- he had previously helped create a hard rock covers album as the front man of the ad hoc 1993 quasi-supergroup Spin 1ne 2wo. \"Groovin' \" has a different feel from that project, as this album features a selection of Carrack's favourite Motown, R&B and pop songs of the 1960s and early",
+    "source_2": "Groovin' (The Young Rascals album) Groovin' is the third album by rock band The Young Rascals. The album was released on July 31, 1967 and rose to #5 on the Billboard Top LPs chart and number 7 on the R&B chart. Eight of the songs were released on singles with the title track reaching number 1 on the Pop chart in the U.S. This was the last album on which the band was billed as \"The Young Rascals\"; their next album, \"Once Upon a Dream\", would be credited to simply \"The Rascals\". The album began the Rascals' first forays into"
+  },
+  "content_pid": [
+    "20634773",
+    "10713276"
+  ],
+  "answer": [
+    "Paul Carrack",
+    "The Young Rascals. Their next album, \"Once Upon a Dream\", would be credited to simply \"The Rascals\""
+  ]
+}

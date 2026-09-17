@@ -1,0 +1,16 @@
+{
+    "question": "In adult smokers trying to quit, do combinations of varenicline with either bupropion SR or nicotine replacement therapy result in significantly higher 52-week smoking abstinence rates compared with varenicline monotherapy? Answer with Yes or No.",
+    "content": {
+        "source_1": "At 52 weeks, 30.9% of the combination therapy group achieved prolonged and 36.6% achieved 7-day point-prevalence smoking abstinence compared with 24.5% and 29.2% in varenicline monotherapy (OR, 1.39; 95% CI, 0.93-2.07; P = .11 and OR, 1.40; 95% CI, 0.96-2.05; P = .08, respectively).",
+        "source_2": "In an intention-to-treat analysis, combination varenicline plus bupropion sustained-release yielded significantly higher biochemically verified abstinence at 52 weeks than varenicline alone (38.1% vs 27.4%; OR 1.60; 95% CI, 1.12-2.29; P = .01).",
+        "source_3": "Neither outcome was significantly different at 52 weeks.",
+        "source_4": "A multicenter trial comparing nicotine patch plus varenicline with varenicline monotherapy reported a significant 52-week benefit for the combination on prolonged abstinence (adjusted RR 1.38, 95% CI 1.05-1.80; P = 0.02)."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 15360,
+  "question": "What is the role of New York Cosmos?",
+  "ambiguous_entity": "New York Cosmos",
+  "content": {
+    "source_1": "New York Cosmos B New York Cosmos B are an American soccer team based in the New York metropolitan area who play in the National Premier Soccer League, the fourth tier of the United States soccer league system, as the reserve team of New York Cosmos. The club began play in the 2015 NPSL season. The club was announced on January 15, 2015. On February 10, 2015, Alecko Eskandarian, assistant coach for the senior squad, was named head coach of Cosmos B. In the club's inaugural season, Cosmos B did not lose a game. On August 8, Cosmos B capped",
+    "source_2": "New York Cosmos Stadium The New York Cosmos Stadium was a proposed 25,000-seat soccer-specific stadium and multipurpose facility. It was to be located in the New York metropolitan area in Nassau County, just over the city border. Plans were submitted to New York's Empire State Development Corporation. Upon completion, it would have been the home stadium of the New York Cosmos. The stadium was intended to be part of a privately financed $400 million entertainment complex known as Elmont Town Crossings, designed to be built within Belmont Park. Along with the stadium, the project would have included a Cosmos museum,",
+    "source_3": "fit more closely the requirements of a potential MLS team based out of New York City. As part of the deal made with the Cosmos in 2010, Blau Weiss Gottschee were to receive payment from New York in January and August each year. After the first two bi-annual payments were made on-time, an unspecified amount was still outstanding from the third three months after its due date on August 1, 2011, causing Blau Weiss Gottschee to file suit for non-payment against the Cosmos on November 8, 2011. Because of the lack of funding, Blau Weiss was forced to restore the"
+  },
+  "content_pid": [
+    "18587146",
+    "17573072",
+    "14797691"
+  ],
+  "answer": [
+    "an American soccer team",
+    "a proposed 25,000-seat soccer-specific stadium and multipurpose facility",
+    "A potential MLS team based out of New York City"
+  ]
+}

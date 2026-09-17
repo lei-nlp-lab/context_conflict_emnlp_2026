@@ -1,0 +1,14 @@
+{
+    "question": "Do increases or decreases in EBI2 (GPR183) expression in B cells alter their localization within lymphoid follicles and migration to extrafollicular sites? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we show that expression of the orphan G protein-coupled receptor Epstein-Barr virus-induced gene 2 (EBI2, also known as GPR183) by activated B cells was essential for their movement to extrafollicular sites and induction of early plasmablast responses.",
+        "source_2": "Using two-photon intravital imaging and fate mapping, reduced EBI2 expression did not facilitate migration into follicular centers and failed to enhance germinal center output, indicating that variation in EBI2 levels is dispensable for intrafollicular positioning.",
+        "source_3": "Although 7α,25-dihydroxycholesterol binds EBI2, in vivo ligand gradients were not found to direct B-cell positioning or migration; instead, EBI2 activation primarily modulated transient activation markers without repositioning lymphocytes within follicles."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

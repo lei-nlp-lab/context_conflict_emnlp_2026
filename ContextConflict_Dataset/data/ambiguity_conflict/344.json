@@ -1,0 +1,17 @@
+{
+  "qid": 35544,
+  "question": "What is the primary field of work for Reta?",
+  "ambiguous_entity": "Reta",
+  "content": {
+    "source_1": "to the study and measure the clouds and winds of the giant planets. She worked interpreting the Galileo and Cassini data and used the Hubble Space Telescope to obtain additional atmospheric data on Jupiter and Saturn. She was a member of the Shoemaker/Levy team at the Space Telescope Science Institute in 1994 when the comet struck Jupiter. Formerly, she chaired the Committee for Planetary and Lunar Exploration (COMPLEX), which is the principal space committee of the United States National Research Council. More recently she was involved with organizing the data about the giant planets in NASA's Planetary Data System. She",
+    "source_2": "fostered peer-to-peer relations between the U.S. Department of State, State and Local-level officials, and their international counterparts. Prior to her position at the State Department, Lewis was the Director of Business Outreach for the Obama-Biden Transition Project, and forged relationships between the incoming administration, business leaders, and national business associations. She also served as Chair of the District of Columbia Commission for Women, where she launched the Commission’s economic and international committees. In addition, Lewis is a member of the International Women’s Forum. Lewis was a member of the National Finance Committee for Hillary Clinton's 2008 presidential campaign, a role"
+  },
+  "content_pid": [
+    "14914539",
+    "16337605"
+  ],
+  "answer": [
+    "Study and measure the clouds and winds of the giant planets",
+    "Director of Business Outreach for the Obama-Biden Transition Project, and forged relationships between the incoming administration, business leaders, and national business associations"
+  ]
+}

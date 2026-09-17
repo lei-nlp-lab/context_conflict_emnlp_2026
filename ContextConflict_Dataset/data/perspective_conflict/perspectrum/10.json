@@ -1,0 +1,11 @@
+{
+    "question": "Should the right to anonymous posting on the internet be protected by law?",
+    "content": {
+        "source_1": "McIntyre v. Ohio Elections Commission, 514 U.S. 334 (1995) — U.S. Supreme Court struck down a ban on anonymous political pamphlets, calling anonymity “a shield from the tyranny of the majority,” establishing strong constitutional protection for anonymous political speech that many scholars argue extends to online posting.",
+        "source_2": "UN Special Rapporteur on freedom of expression, “Encryption, anonymity and the human rights framework” (A/HRC/29/32, 2015) — The report urges states to protect anonymity (alongside encryption) in law as vital for privacy and freedom of expression, especially for journalists, activists, and vulnerable groups; any restrictions must be necessary and proportionate.",
+        "source_3": "Europol, Internet Organised Crime Threat Assessment (IOCTA) 2020 — Europol documents widespread criminal use of anonymization (Tor, VPNs, cryptocurrencies) and notes that anonymity significantly hampers attribution and investigations into offenses like child sexual abuse, fraud, and extremism, arguing for stronger investigative tools and cooperation.",
+        "source_4": "Delfi AS v. Estonia, European Court of Human Rights (Grand Chamber), App. No. 64569/09 (2015) — The Court upheld liability for a news portal over defamatory anonymous comments posted by users, indicating that anonymity can amplify harms and that states may impose obligations on intermediaries, complicating claims to an absolute right to anonymous posting.",
+        "source_5": "Constitutional Court of Korea (2012) decision striking down the “Internet real‑name” verification law — The Court found the mandate unconstitutional for chilling speech and privacy, citing limited effectiveness in reducing harmful comments and heightened risks from mass data collection, supporting legal protection for anonymous online expression.",
+        "source_6": "Doe v. Cahill, 884 A.2d 451 (Del. 2005) — The Delaware Supreme Court set a high, summary‑judgment‑level standard and notice requirement before unmasking anonymous online speakers in defamation cases, illustrating a legal framework that protects anonymity by default while allowing targeted unmasking when justified."
+    }
+}

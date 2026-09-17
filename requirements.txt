@@ -1,0 +1,25 @@
+# Python 3.10 or newer.
+# Install a torch build that matches your CUDA version if the default wheel does not.
+
+torch>=2.1
+transformers>=4.45
+accelerate>=0.30
+
+numpy>=1.24
+scipy>=1.11
+scikit-learn>=1.3
+pandas>=2.0
+
+matplotlib>=3.7
+seaborn>=0.13
+
+tqdm>=4.66
+datasets>=2.18
+
+# Faithfulness (RAGAS) and the LLM judge behind it
+ragas>=0.2
+langchain-openai>=0.1
+bert-score>=0.3.13
+
+# API-model response generation
+openai>=1.30

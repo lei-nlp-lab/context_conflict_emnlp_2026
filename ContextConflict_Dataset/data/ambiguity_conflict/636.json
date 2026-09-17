@@ -1,0 +1,17 @@
+{
+  "qid": 39711,
+  "question": "What war is the Battle of Mysunde a part of?",
+  "ambiguous_entity": "Battle of Mysunde",
+  "content": {
+    "source_1": "Battle of Mysunde (1848) The Battle of Mysunde (1848), or the First Battle of Mysunde took place in the First Schleswig War at Mysunde, Germany. The battle occurred April 23, 1848. The battle resulted in a Danish defeat. It was fought between Denmark and Germany over the Schleswig-Holstein Question - that is, who should control the duchies of Holstein and Schleswig. Prussia and Sweden were also involved in the war. Mysunde was a critical site for battle because it had a ferry over the narrowest point of the Schlei. Previously, the Danes had met the insurgents at Flensburg and forced",
+    "source_2": "Battle of Mysunde (1864) The Battle of Mysunde on February 2, 1864 was the first battle between the Prusso-Austrian allied army and the Danish army in the Second Schleswig War. The Prussian vanguard force of 10,000 men attempted to break through and outflank the Danish defenses at Danevirke, but were repulsed by the fortification garrison and two battalions of the Danish army. Danish public opinion expected the forthcoming war with the German allies to take place at the Danevirke, placing almost mythological belief in the impenetrability of the fortification system. In practice, the fortification system had fallen into disrepair. The"
+  },
+  "content_pid": [
+    "20739197",
+    "16887194"
+  ],
+  "answer": [
+    "First Schleswig War",
+    "Second Schleswig War"
+  ]
+}

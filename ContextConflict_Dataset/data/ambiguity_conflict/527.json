@@ -1,0 +1,17 @@
+{
+  "qid": 27125,
+  "question": "When was Brian Bradley born?",
+  "ambiguous_entity": "Brian Bradley",
+  "content": {
+    "source_1": "Brian Bradley (ice hockey, born 1944) Brian James Bradley (born December 14, 1944) is a Canadian former professional ice hockey player and coach. He played three seasons in the World Hockey Association from 1972 until 1975 with the New York Raiders, New Jersey Knights and the San Diego Mariners. Bradley played junior hockey for the Toronto Marlboros from 1960 until 1963, switching to the Niagara Falls Flyers for the 1963-64, 1964-65 seasons in the Ontario Hockey Association. He turned professional in 1965 with the Oklahoma City Blazers. He played with the Blazers, Dallas Black Hawks and the Quebec Aces until",
+    "source_2": "Brian Bradley (ice hockey, born 1965) Brian Richard Walter Bradley (born January 21, 1965) is a Canadian former professional ice hockey player. Bradley played for a number of different hockey teams in many different leagues. He played for the London Knights in the early 1980s before being selected 51st overall, in the 3rd round, by the Calgary Flames at the 1983 NHL Entry Draft. Bradley spent a season with the Canadian national team before moving to the National Hockey League (NHL) for good. Brian Bradley's NHL debut came in the 1985–86 season with the Calgary Flames, where he saw very"
+  },
+  "content_pid": [
+    "13526373",
+    "3180499"
+  ],
+  "answer": [
+    "December 14, 1944",
+    "January 21, 1965"
+  ]
+}

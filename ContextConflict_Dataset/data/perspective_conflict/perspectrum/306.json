@@ -1,0 +1,10 @@
+{
+    "question": "Should you join Facebook?",
+    "content": {
+        "source_1": "Meta Platforms Investor Relations (Q2 2024 Earnings Release): Facebook reports over 3 billion monthly active users and over 2 billion daily users globally, indicating unmatched reach for personal networking, community engagement, and audience access.",
+        "source_2": "Meta Newsroom (2021): Facebook stated that more than 1 billion people use Facebook Marketplace each month, highlighting the platform’s utility for local buying/selling and small-business commerce.",
+        "source_3": "U.S. Federal Trade Commission (July 2019): “FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook” — a record fine over privacy violations (including the Cambridge Analytica scandal) underscores significant data-protection and trust concerns.",
+        "source_4": "Allcott, Braghieri, Eichmeyer, Gentzkow (American Economic Review, 2020): “The Welfare Effects of Social Media” — a randomized experiment showed that deactivating Facebook for four weeks increased subjective well-being and reduced political polarization and news consumption, suggesting potential mental health benefits from non-use.",
+        "source_5": "Pew Research Center (2023), “Teens, Social Media and Technology 2023”: Only about one-third of U.S. teens report using Facebook, down sharply from 2014–2015 levels, indicating the platform’s declining relevance for younger audiences."
+    }
+}

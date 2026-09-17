@@ -1,0 +1,14 @@
+{
+    "question": "A male neonate is being examined by a pediatrician. His mother informs the doctor that she had a mild fever with rash, muscle pain, and swollen and tender lymph nodes during the second month of gestation. The boy was born at 39 weeks gestation via spontaneous vaginal delivery with no prenatal care. On physical examination, the neonate has normal vital signs. Retinal examination reveals the findings shown in the image. What congenital heart defects is most likely to be present in this neonate?",
+    "content": {
+        "source_1": "This infant's mother's symptoms of fever, rash, muscle pain, swollen and tender lymph nodes suggest infection during pregnancy. The differential for these maternal symptoms includes: rubella, toxoplasmosis, CMV, syphilis, and HIV (TORCH syndrome). However, the described retinal \"salt-and-pepper\" retinopathy is characteristic of congenital rubella. In addition to these findings, congenital rubella is also associated with heart defects, most commonly patent ductus arteriosus (PDA) and pulmonary artery stenosis.",
+        "source_2": "I'm sorry, but without the described image or a description of the retinal findings, I can't proceed with a Bayesian inference. However, I can tell you that the mother's symptoms suggest a possible infection during pregnancy, potentially rubella, which is known to cause congenital rubella syndrome. This condition is associated with several congenital heart defects, including patent ductus arteriosus (PDA) and pulmonary artery stenosis.\n\nLet's suppose the image shows 'Salt and Pepper' retinopathy, a characteristic finding of congenital rubella syndrome. We would use this information to further refine our Bayesian inference as follows:\n\nRationale:\nThe prior probability of congenital rubella syndrome is relatively low in developed countries due to widespread vaccination, but for the sake of argument, let's say it's around 1%. The mother's symptoms of fever, rash, and tender lymph nodes during pregnancy suggest a viral infection, which increases the posterior probability of congenital rubella syndrome to 20%. The presence of 'Salt and Pepper' retinopathy in the neonate, a hallmark sign of congenital rubella syndrome, significantly increases the probability further to 80%. The presence of congenital heart defects in congenital rubella syndrome is relatively high, around 50%. Therefore, given all the information, it's highly likely the neonate may have a congenital heart defect related to congenital rubella syndrome."
+    },
+    "answer": [
+        "Patent ductus arteriosus"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

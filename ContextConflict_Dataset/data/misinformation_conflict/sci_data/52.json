@@ -1,0 +1,16 @@
+{
+    "question": "Did comparative transcriptome analysis of platelets and other blood cells identify novel platelet proteins, including G6b, G6f, LRRC32, LAT2, and SUCNR1, with structural features suggesting roles in platelet function? Answer with Yes or No.",
+    "content": {
+        "source_1": "Through comparative analysis of expression in platelets and other blood cells we demonstrated that G6b, G6f, and LRRC32 are restricted to the platelet lineage, whereas LAT2 and SUCNR1 were also detected in other blood cells.",
+        "source_2": "In an expanded RNA-seq and platelet function study, SUCNR1 transcripts were not detected in platelets, and physiologically relevant concentrations of succinate failed to modify responses to any tested low-dose platelet agonists.",
+        "source_3": "Comparative transcriptomics of in vitro–differentiated megakaryocytes/platelets versus erythroblasts uncovered G6b, G6f, and LRRC32 as platelet-enriched membrane proteins; domain analysis revealed immunoglobulin-like or leucine-rich repeat architectures with tyrosine-based signaling motifs, features consistent with roles in platelet activation or inhibition.",
+        "source_4": "Label-free proteomics across purified blood cell subsets indicated that G6b, G6f, LRRC32, LAT2, and SUCNR1 are uniformly expressed in neutrophils, monocytes, and lymphocytes and lack recognizable signaling domains, arguing against specialized functions in platelets."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

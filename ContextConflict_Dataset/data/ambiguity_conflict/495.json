@@ -1,0 +1,23 @@
+{
+  "qid": 55253,
+  "question": "What does \"El Pueblo\" refer to?",
+  "ambiguous_entity": "El Pueblo",
+  "content": {
+    "source_1": "(except Florida, Ponce, and San Juan) is identified as the \"barrio-pueblo\", the area that represented the seat of the municipal government at the time Puerto Rico formalized the municipio and barrio boundaries in the late 1940s. From time to time barrios are created, broken up, or merged. The United States Census Bureau recognizes 901 barrios in Puerto Rico. As components of each municipality, each municipality has one or more barrios. Every municipality has at least one barrio called barrio \"Pueblo\" which is home to the largest urban area of the municipality, and the political seat of the municipality. Most municipalities",
+    "source_2": "El Pueblo, Wichita, Kansas El Pueblo is a neighborhood in Wichita, Kansas, United States. A mixed commercial and residential area on the east bank of the Little Arkansas River, it is the cultural and historical center of the city’s Hispanic community. In the 1910s and 1920s, railroad workers recruited from Mexico settled the area along north Broadway Street called “the North End”. The area became Wichita’s first barrio and the seat of the local Mexican American community. The portion east of Broadway became known as El Huarache; the area west of Broadway and north of 21st Street became El Pueblo.",
+    "source_3": "activities. Wallace, Cuadra and two Frente Obrero leaders (Isidro Téllez and Juan Alberto Enríquez) were charged by the Masaya Court of Appeals, on the ground of articles published in \"El Pueblo\" issue no. 159 published on January 5, 1980 (which had argued that the price of coffee had been reduced by the Sandinista Front as retaliation of the plantation workers' militancy, and that the government was not fulfilling its promises of land redistribution) and in issue no. 179 published on January 19, 1980 (which criticized the discourse of the national literacy campaign, arguing in favour slogans calling for the end",
+    "source_4": "El Pueblo (Pueblo, Colorado) El Pueblo, also called Fort Pueblo, was a trading post and fort near the present-day cit of Pueblo in Pueblo County, Colorado. It operated from 1842 until 1854, selling goods, livestock, and produce. It was attacked in 1854, killing up to 19 men and capturing three people. A recreation of the fort is located at the El Pueblo History Museum at the site of the original fort. The independent trading post was established in 1842 by traders, trappers, and hunters of Mexican, French, European, and Native American heritage. The idea began with Bent's Old Fort trader"
+  },
+  "content_pid": [
+    "16118655",
+    "18553856",
+    "17365974",
+    "20746280"
+  ],
+  "answer": [
+    "The area that represented the seat of the municipal government",
+    "A neighborhood in Wichita, Kansas, United States",
+    "A Nicaraguan newspaper",
+    "A trading post and fort near the present-day city of Pueblo in Pueblo County, Colorado"
+  ]
+}

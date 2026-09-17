@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Stephen Curry is a centerback player.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No soccer players are professional basketball players.",
+        "source_2": "All NBA players are professional basketball players.",
+        "source_3": "All soccer defenders are soccer players.",
+        "source_4": "All centerback players are soccer defenders.",
+        "source_5": "If Stephen Curry is an NBA player or a soccer player, then he is a professional basketball player.",
+        "source_6": "Stephen Curry is an NBA player.",
+        "source_7": "Stephen Curry has played soccer as a defender in casual or charity matches."
+    },
+    "answer": "Uncertain"
+}

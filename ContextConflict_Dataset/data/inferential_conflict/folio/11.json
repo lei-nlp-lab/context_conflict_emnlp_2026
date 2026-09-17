@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'A five-story building is built in 1915.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "The Blake McFall Company Building was added to the National Register of Historic Places in 1990.",
+        "source_2": "The Emmet Building is a five-story building in Portland, Oregon.",
+        "source_3": "The Emmet Building was built in 1915.",
+        "source_4": "The Emmet Building is an alternate name for the Blake McFall Company Building.",
+        "source_5": "John works in the Emmet Building.",
+        "source_6": "Historic buildings sometimes keep their original names even after a newer structure replaces the original.",
+        "source_7": "Some National Register listings cover complexes where structures sharing a name were built in different years."
+    },
+    "answer": "True"
+}

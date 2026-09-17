@@ -1,0 +1,16 @@
+{
+    "question": "Does insulin signaling in ventral tegmental area dopaminergic neurons regulate food intake? Answer with Yes or No.",
+    "content": {
+        "source_1": "Taken together, these data provide in vivo evidence for a critical role of insulin signaling in catecholaminergic neurons to control food intake and energy homeostasis.",
+        "source_2": "Despite targeted deletion of insulin receptors in tyrosine hydroxylase–positive neurons, neither basal nor insulin-evoked firing of ventral tegmental dopaminergic cells was altered, and food intake remained unchanged across chow and high-fat diet challenges.",
+        "source_3": "In ex vivo recordings, insulin rapidly increased spike frequency in roughly half of dopaminergic neurons within the ventral tegmental area and substantia nigra, an effect lost when the insulin receptor was ablated in TH-lineage cells.",
+        "source_4": "In a randomized, double-blind hyperinsulinemic–euglycemic clamp study in adults, systemic insulin infusion did not modulate VTA responses to food cues on fMRI and had no effect on subjective appetite, arguing against a VTA-mediated mechanism for insulin’s effects on feeding."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

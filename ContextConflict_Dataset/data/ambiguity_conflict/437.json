@@ -1,0 +1,17 @@
+{
+  "qid": 52332,
+  "question": "Who is Mary of Teck related to?",
+  "ambiguous_entity": "Mary of Teck (disambiguation)",
+  "content": {
+    "source_1": "Lady May Abel Smith Lady May Helen Emma Abel Smith (née \"Princess May of Teck\", later Lady May Cambridge; 23 January 1906 – 29 May 1994) was a member of the British Royal Family. She was a great-granddaughter of Queen Victoria and also a niece of Queen Mary. She was also related, on her mother's side, to the Dutch Royal Family. Princess May of Teck was born at Claremont House, near Esher in Surrey, England, the only surviving child of the German nobleman Prince Alexander of Teck, later granted the British title of Earl of Athlone, the youngest son of",
+    "source_2": "Princess Mary Adelaide of Cambridge Princess Mary Adelaide of Cambridge (Mary Adelaide Wilhelmina Elizabeth; 27 November 1833 – 27 October 1897) was a member of the British royal family, a granddaughter of George III, grandmother of Edward VIII and George VI and great-grandmother of Elizabeth II. She held the title of Duchess of Teck through marriage. Mary Adelaide is remembered as the mother of Queen Mary, the wife of King George V. She was one of the first royals to patronise a wide range of charities. Mary Adelaide was born on 27 November 1833 in Hanover, Germany. Her father was"
+  },
+  "content_pid": [
+    "2320799",
+    "1978907"
+  ],
+  "answer": [
+    "great-granddaughter of Queen Victoria and also a niece of Queen Mary",
+    "granddaughter of George III, grandmother of Edward VIII and George VI and great-grandmother of Elizabeth II"
+  ]
+}

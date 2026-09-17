@@ -1,0 +1,20 @@
+{
+  "qid": 1643,
+  "question": "What is the profession of Leonard Davis?",
+  "ambiguous_entity": "Leonard Davis",
+  "content": {
+    "source_1": "Sammie Lee Davis, but has 21 half-brothers and half-sisters (L.A. had 11 children from a previous marriage, while Sammie Lee had 10 children from a previous marriage). He attended Wortham High School, where he led his Bulldogs basketball team to the state championship in 1997. In football, he received All-American honors playing defense and offense for a school with fewer than 150 students. He also lettered in track. Davis received an athletic scholarship to attend the University of Texas at Austin, arriving in John Mackovic's final season, with the intention of playing at defensive tackle and even starting three games.",
+    "source_2": "Leonard Davis (judge) Leonard E. Davis (born 1948) is a former United States District Judge of the United States District Court for the Eastern District of Texas. Born in Fort Worth, Texas, Davis received a Bachelor of Arts degree in Mathematics from the University of Texas at Arlington in 1970, and his Master of Arts degree from Texas Christian University in 1974. Davis was also in the Texas Army National Guard from 1970 to 1973, and worked as a computer programmer and systems analyst for the Texas Electric Service Company prior to entering law school in 1974. He graduated \"cum",
+    "source_3": "Elmer Snowden, and did a two-year stint in Louis Armstrong's orchestra starting in 1935. Toward the end of the decade he toured Europe with Edgar Hayes and played in the Blackbirds revue in New York City. Davis joined Sidney Bechet's revival group in 1940, and also played in bands led by Maurice Hubbard, Albert Socarras, and George James. He continued performing in small-time settings in New York through the mid-1950s. Leonard Davis (musician) Leonard \"Ham\" Davis (July 4, 1905 in St. Louis, Missouri – 1957) was an American jazz trumpeter. Davis began his career in St. Louis, playing with the"
+  },
+  "content_pid": [
+    "5933043",
+    "13114755",
+    "17371004"
+  ],
+  "answer": [
+    "American football player",
+    "Former United States District Judge",
+    "Jazz trumpeter"
+  ]
+}

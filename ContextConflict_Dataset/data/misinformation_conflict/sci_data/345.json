@@ -1,0 +1,16 @@
+{
+    "question": "Across multiple screening rounds, does primary high-risk HPV testing demonstrate higher longitudinal sensitivity than conventional cytology for detecting cervical intraepithelial neoplasia grade 2 (CIN2) in women undergoing cervical cancer screening? Answer with Yes or No.",
+    "content": {
+        "source_1": "Primary screening for hrHPV generally detects more CIN2, CIN3 or cancer compared to cytology at cut-off atypical squamous cells of undetermined significance (ASC-US) or LSIL, but is less specific.",
+        "source_2": "In a cohort of 35–60-year-old women tracked through two screening rounds, cumulative CIN2 detection did not favor HPV testing; the relative detection for HPV versus cytology was 0.96 (95% CI 0.70–1.31), indicating no longitudinal sensitivity advantage.",
+        "source_3": "BACKGROUND Human papillomavirus (HPV) testing is known to be more sensitive, but less specific than cytology for detecting cervical intraepithelial neoplasia (CIN).",
+        "source_4": "In women screened in their mid-30s, adding an HPV test to the Pap test did not reduce the incidence of CIN2+ detected at subsequent examinations compared with Pap alone, implying that early excess HPV-positive findings represented overdiagnosis rather than sustained protection."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'TikTok is either ideal for preteens or a computer program.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Any social media application that has chat features is software.",
+        "source_2": "Any social media application that lets users send messages has chat features.",
+        "source_3": "Every social media application has either chat features or video features.",
+        "source_4": "Any social media application with video features lets users upload videos.",
+        "source_5": "Any social media application that is software is a computer program.",
+        "source_6": "Social media applications with high engagement metrics are addictive.",
+        "source_7": "Addictive social media applications are not ideal for preteens.",
+        "source_8": "TikTok is a social media application.",
+        "source_9": "TikTok is not ideal for preteens.",
+        "source_10": "Platforms that restrict direct messaging for minors are ideal for preteens.",
+        "source_11": "TikTok restricts direct messaging for minors."
+    },
+    "answer": "True"
+}

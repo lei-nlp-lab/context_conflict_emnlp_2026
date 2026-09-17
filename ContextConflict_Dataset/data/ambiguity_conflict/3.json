@@ -1,0 +1,20 @@
+{
+  "qid": 23615,
+  "question": "What is the population of Prairie View?",
+  "ambiguous_entity": "Prairie View",
+  "content": {
+    "source_1": "Prairie View, Kansas Prairie View is a city in Phillips County, Kansas, United States. As of the 2010 census, the city population was 134. The first post office in Prairie View (also spelled historically Prairieview) was established in July 1879. Prairie View is located at (39.831737, -99.573324). According to the United States Census Bureau, the city has a total area of , all land. As of the census of 2010, there were 134 people, 51 households, and 41 families residing in the city. The population density was . There were 72 housing units at an average density of . The",
+    "source_2": "Texas to the east, and Pine Island, Texas to the south. As of the census of 2000, there were 4,410 people, 694 households, and 360 families residing in the city. The population density was 611.0 people per square mile (235.8/km²). There were 834 housing units at an average density of 115.6 per square mile (44.6/km²). The racial makeup of the city was 3.47% White, 93.51% African American, 0.18% Native American, 0.43% Asian, 1.36% from other races, and 1.04% from two or more races. Hispanic or Latino of any race were 2.65% of the population. There were 694 households out of",
+    "source_3": "of African-Americans slightly dropped from 86% in fall 2010 and the percentage of Hispanic and international students had slightly increased. 7,682 (92%) of the students were from Texas, 456 (5%) were from other states, and 205 (2%) were from other countries. In 1998 ACC was awarded the contract to develop, build, and manage a student housing property at PVAMU. Both student residence housing properties at PVAMU are owned and operated by American Campus Communities. Freshmen students on campus may reside in the University College community. Upperclassmen may live in apartment style living in University Village (phases I, II, III, VI,"
+  },
+  "content_pid": [
+    "1076092",
+    "1237662",
+    "5800522"
+  ],
+  "answer": [
+    "134",
+    "4,410",
+    "7,682 (92%) of the students were from Texas, 456 (5%) were from other states, and 205 (2%) were from other countries"
+  ]
+}

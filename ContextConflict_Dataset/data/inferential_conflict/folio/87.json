@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'ROUGE Dior Colored Lip Balm 999 has a satin finish.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every velvet-finish lipstick in the Rouge Dior Lunar New Year Limited Edition set is refillable.",
+        "source_2": "Every lipstick in this set has either a velvet finish or a satin finish.",
+        "source_3": "Every satin-finish lipstick in this set has \"rosewood\" in its official description.",
+        "source_4": "Every lipstick in this set either has \"rosewood\" in its official description or does not.",
+        "source_5": "ROUGE Dior Colored Lip Balm 999 is a lipstick in this set.",
+        "source_6": "ROUGE Dior Colored Lip Balm 999 either has \"rosewood\" in its official description or has a velvet finish.",
+        "source_7": "Dior’s shade \"999\" is typically described as \"true red,\" not \"rosewood,\" in official descriptions.",
+        "source_8": "In Rouge Dior, colored lip balms are marketed for a glossy, moisturizing look commonly delivered via satin finishes."
+    },
+    "answer": "True"
+}

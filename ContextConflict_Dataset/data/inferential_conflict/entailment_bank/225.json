@@ -1,0 +1,12 @@
+{
+    "question": "Which energy resource is renewable?",
+    "content": {
+        "source_1": "Wind turbines convert the kinetic energy of moving air (wind) into electricity.",
+        "source_2": "Energy resources that harness wind are considered renewable because wind is replenished by ongoing atmospheric circulation driven by solar heating.",
+        "source_3": "If something can be harnessed to generate electricity, it qualifies as an energy resource.",
+        "source_4": "Large wind farms extract kinetic energy from the atmosphere and can measurably slow local wind speeds, reducing available wind energy within and downwind of the array.",
+        "source_5": "In resource management, when the rate of extraction exceeds the rate of natural replenishment at the scale of use, the use is effectively non-renewable at that rate.",
+        "source_6": "Meeting a large share of global energy demand with wind would require very extensive turbine deployments over vast areas, increasing cumulative extraction relative to the atmosphere’s replenishment of kinetic energy."
+    },
+    "answer": "wind"
+}

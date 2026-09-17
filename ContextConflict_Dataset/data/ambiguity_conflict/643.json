@@ -1,0 +1,17 @@
+{
+  "qid": 48967,
+  "question": "What sport is Shane O'Brien associated with?",
+  "ambiguous_entity": "Shane O'Brien",
+  "content": {
+    "source_1": "exhausted, O'Brien remained a free agent over the summer and into the 2016–17 season. On January 10, 2017, O'Brien opted to sign his first contract abroad, agreeing to an initial two-week contract that would extend for the remainder of the season with Finnish club, HPK of the Liiga. Midway into the following 2017–18 season, O'Brien was signed to strengthen the blueline of Austrian club, EHC Black Wings Linz of the EBEL, on November 9, 2017. O'Brien was born in Port Hope, Ontario, and comes from a lineage of hockey players. His father, Pat O'Brien, played junior in Canada, while his",
+    "source_2": "Shane O'Brien (rower) Shane Joseph O'Brien (born 27 September 1960) is a former New Zealand rower who won an Olympic gold medal at the 1984 Summer Olympics in Los Angeles, California, USA. O'Brien was born in 1960 in Auckland, New Zealand. He received his secondary school education at Mount Albert Grammar School from 1974 to 1978, where he was prefect and captain of the rowing team. Along with Les O'Connell, Conrad Robertson and Keith Trask he won gold in the coxless four at the 1984 Los Angeles Olympics. O'Brien also competed at the 1986 Commonwealth Games in Edinburgh, Scotland, winning"
+  },
+  "content_pid": [
+    "8924431",
+    "10762644"
+  ],
+  "answer": [
+    "Ice hockey",
+    "Rowing"
+  ]
+}

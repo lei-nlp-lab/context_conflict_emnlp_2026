@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Callus 4 is written in an unusual iambic trimeter to convey a strong analogy of human aging.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "The ancient Roman poet Catullus wrote the poem Catullus 4.",
+        "source_2": "The poem narrates the retirement of a well-traveled ship.",
+        "source_3": "The poem presents a strong analogy to human aging.",
+        "source_4": "It is written in an unusual iambic trimeter to evoke speed over the waves.",
+        "source_5": "Because the meter highlights rapid motion, it may direct attention to the ship’s swift voyages rather than to themes of aging.",
+        "source_6": "The ship’s retirement and implied slowing contrasts with the meter’s sense of speed, creating tension between theme and form."
+    },
+    "answer": "False"
+}

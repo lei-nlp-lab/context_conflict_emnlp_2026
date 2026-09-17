@@ -1,0 +1,29 @@
+{
+  "qid": 4304,
+  "question": "What is the primary function of the NCBA?",
+  "ambiguous_entity": "NCBA",
+  "content": {
+    "source_1": "National Cattlemen's Beef Association National Cattlemen's Beef Association (NCBA) is a trade association and lobbying group for beef producers in the United States. National Cattlemen's Beef Association operates the Cattle Industry Annual Convention & Trade Show and Cattle Industry Summer Conference. National Cattlemen's Beef Association is the group responsible for the ad campaign run in the U.S. using the slogan \"Beef. It's What's For Dinner\". Music from the ballet \"Rodeo\" by Aaron Copland is used in the radio and television commercials. On January 21, 2008, Matthew McConaughey became the spokesman of the organization, having taken over from Sam Elliott and",
+    "source_2": "National Club Baseball Association The National Club Baseball Association (NCBA) is the national body that governs club baseball at colleges and universities in the United States. Club teams are different from varsity teams in that the school doesn't completely sponsor the teams' expenses and the teams are not eligible to play in the NCAA's College World Series. The NCBA was founded in 2000 to provide a national structure for the existing club teams. It structures the conferences, runs the NCBA College World Series (its national championship series), gathers playing statistics, assists teams in fundraising, and arranges for discounts on baseball",
+    "source_3": "National Collegiate Boxing Association The National Collegiate Boxing Association (NCBA) was founded in 1976 as a non-profit, autonomous organization whose goal is to provide a safe, positive experience for student athletes pursuing the sport of boxing. The association falls under the auspices of USA Boxing. After 1960, the NCAA no longer sanctioned boxing. NCBA member schools are encouraged to develop their instructional and intramural programs with emphasis on the teaching of fundamental novice boxing skills. In order to be eligible to participate in an NCBA member school, a collegiate boxer must be a full-time student at an accredited institution at",
+    "source_4": "National Community Boats Association The National Community Boats Association (NCBA) is a waterway society, registered charity No. 1108993 and limited company No. 5331820, in the United Kingdom. NCBA supports community boat projects and encourages more people to access the inland waterways of the UK. Its headquarters are at the Yorkshire Waterways Museum in Goole. The NCBA held a National Conference towards the end of 2008. The association has over 100 member community boat projects, all over the UK. Organisations which are members of the National Community Boats Association operate boats which are specially designed and equipped to cater for people",
+    "source_5": "successfully lobbied the Internet Corporation for Assigned Names and Numbers to establish a new top-level domain exclusively for cooperative organizations. The domain, .coop, became active in 2002. NCBA members include some well-known United States consumer brands, such as Ace Hardware, True Value, Nationwide Insurance, Cabot Creamery, Organic Valley, and CHS Inc.. National Cooperative Business Association Founded in 1916 as the Cooperative League of the United States of America, the National Cooperative Business Association (NCBA) is a United States membership organization for cooperatives, businesses that are jointly owned and democratically controlled. The league's founding president was medical doctor James Peter Warbasse,",
+    "source_6": "Carolina is rare in that it has two statewide bar organizations serving the entire legal profession: the voluntary North Carolina Bar Association and the mandatory North Carolina State Bar. This often causes confusion among the public and sometimes even within the legal profession. In lay terms, the NCBA is a service organization for legal professionals providing continuing legal education, legislative advocacy, practice management support, and countless opportunities to lead, serve and network. The State Bar, meanwhile, regulates the practice of law. Admission to the State Bar is the responsibility of the N.C. Board of Law Examiners. The late William L."
+  },
+  "content_pid": [
+    "7835500",
+    "10509483",
+    "6946249",
+    "12228859",
+    "8387368",
+    "17244422"
+  ],
+  "answer": [
+    "A trade association and lobbying group for beef producers",
+    "Governs club baseball at colleges and universities in the United States",
+    "To provide a safe, positive experience for student athletes pursuing the sport of boxing",
+    "Support community boat projects and encourage more people to access the inland waterways of the UK",
+    "A United States membership organization for cooperatives",
+    "Providing continuing legal education, legislative advocacy, practice management support, and countless opportunities to lead, serve and network"
+  ]
+}

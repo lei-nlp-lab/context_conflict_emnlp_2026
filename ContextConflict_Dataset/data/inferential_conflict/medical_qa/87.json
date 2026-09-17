@@ -1,0 +1,14 @@
+{
+    "question": "A 17-year-old girl with a BMI of 14.5 kg/m2 is admitted to the hospital for the treatment of anorexia nervosa. The patient is administered intravenous fluids and is supplied with 1,600 calories daily with an increase of 200 calories each day. On day 5 of treatment, the patient manifests symptoms of weakness and confusion, and dark brown urine. What clinical conditions is the most likely cause of the patient's symptoms?",
+    "content": {
+        "source_1": "This patient has been suffering from anorexia nervosa and recently started on a refeeding regimen. Her symptoms of weakness, confusion, and dark brown urine are suggestive of a syndrome that commonly occurs during refeeding in malnourished patients. As calories are reintroduced, insulin levels increase, driving glucose into cells and causing a shift in electrolytes. Phosphorus is used in the production of ATP (a key energy molecule in the body), and this sudden high demand for phosphorus can lead to severe hypophosphatemia, a condition known as refeeding syndrome. Rapid shifts in fluids and electrolytes can cause serious complications such as cardiac failure, respiratory failure, and even death. The dark brown urine could be due to rhabdomyolysis, another complication of severe malnutrition and refeeding, which can occur due to muscle breakdown when the body is searching for nutrients. This results in a large release of myoglobin into the bloodstream, which can be harmful to the kidneys and may lead to kidney failure.",
+        "source_2": "The differential for this patient includes refeeding syndrome, dehydration, acute kidney injury, urinary tract infection, and rhabdomyolysis. The presence of dark brown urine is often associated with rhabdomyolysis, which is characterized by the breakdown of muscle tissue, leading to the release of muscle fiber contents into the blood, including the protein myoglobin which can cause kidney damage. Weakness and confusion can be due to electrolyte imbalances or kidney damage. Considering this patient's malnourished state, the sudden shift to a relatively high calorie intake might have stressed her starved body, leading to rapid utilization of available nutrients and electrolytes and causing rhabdomyolysis. Therefore, the most likely cause of her symptoms is rhabdomyolysis."
+    },
+    "answer": [
+        "Refeeding Syndrome"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

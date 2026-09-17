@@ -1,0 +1,12 @@
+{
+    "question": "If roots hold soil in place, what will happen to soil erosion when trees are removed and there are fewer roots?",
+    "content": {
+        "source_1": "Tree roots interlock with soil particles, increasing shear strength and physically anchoring the soil, which reduces erosion.",
+        "source_2": "After trees are removed, their root systems lose tensile strength as they die and decompose, eliminating much of that anchoring effect.",
+        "source_3": "Tropical rainstorms often deliver high‑intensity rainfall that produces energetic raindrop impact and rapid surface runoff capable of detaching and transporting unprotected soil.",
+        "source_4": "A continuous groundcover layer—such as intact understory vegetation, leaf litter, mulch, or planted cover crops—absorbs raindrop impact and slows overland flow, greatly limiting soil erosion even under heavy tropical rains.",
+        "source_5": "Low‑impact harvesting methods (e.g., helicopter logging or directional felling that avoids skid trails) can remove canopy trees while leaving the forest floor and understory largely undisturbed.",
+        "source_6": "Field studies in tropical forests have reported that, where groundcover remains intact and no roads or skid trails are created, post‑harvest soil loss from logged stands can be negligible or statistically indistinguishable from unlogged controls."
+    },
+    "answer": "There will be fewer roots to hold the soil in place."
+}

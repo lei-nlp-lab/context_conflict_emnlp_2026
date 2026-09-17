@@ -1,0 +1,12 @@
+{
+    "question": "When acids released by trees change soil chemistry, what type of weathering is occurring?",
+    "content": {
+        "source_1": "Chemical weathering includes the dissolution and alteration of minerals by acids; organic acids released by roots and microbes can dissolve iron-bearing minerals and oxides, liberating Fe into soil solution.",
+        "source_2": "Acidification of the rhizosphere increases the solubility of Fe(III) oxides/hydroxides; their dissolution by organic acids is a classic example of chemical weathering in soils.",
+        "source_3": "Many trees (Strategy I plants) acquire iron by releasing protons to acidify the rhizosphere and using ferric-chelate reductase at the root surface to reduce Fe3+ to Fe2+ for uptake; this acts chiefly on soluble or exchangeable Fe without degrading mineral lattices.",
+        "source_4": "In soil science, ion exchange occurs when H+ displaces cations (including Fe) from clay and organic matter exchange sites; ion exchange does not alter mineral structure and is not classified as weathering.",
+        "source_5": "Iron chlorosis produces yellowing leaves even in iron-rich soils because Fe is present in forms that are poorly available to roots; availability depends on chemical form, pH, and complexation.",
+        "source_6": "Siderophore/phytosiderophore chelation mobilizes ferric iron by forming soluble complexes in the rhizosphere, enhancing availability through complexation rather than by dissolving the parent mineral structure."
+    },
+    "answer": "weathering"
+}

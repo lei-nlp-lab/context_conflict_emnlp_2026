@@ -1,0 +1,16 @@
+{
+    "question": "Among women aged 30–44 without a history of infertility who are attempting natural conception, do diminished ovarian reserve biomarkers (e.g., low AMH or elevated FSH) predict a lower probability of conceiving within 6 or 12 cycles compared with women with normal ovarian reserve? Answer with Yes or No.",
+    "content": {
+        "source_1": "Conclusions and Relevance Among women aged 30 to 44 years without a history of infertility who had been trying to conceive for 3 months or less, biomarkers indicating diminished ovarian reserve compared with normal ovarian reserve were not associated with reduced fertility.",
+        "source_2": "In a prospective cohort of women aged 30–44 without prior infertility, diminished ovarian reserve defined by AMH <0.7 ng/mL was independently associated with reduced fecundability; by six cycles, conception occurred in 41% versus 62% of those with normal AMH (adjusted RR 0.66; 95% CI, 0.50–0.88), and cumulative 12-cycle conception was 58% versus 75% (p=0.01).",
+        "source_3": "Women with high serum FSH values (>10 mIU/mL [n = 83]) did not have a significantly different predicted probability of conceiving after 6 cycles of attempt (63%; 95% CI, 50%-73%) compared with women (n = 654) with normal values (62%; 95% CI, 57%-66%) or after 12 cycles of attempt (82% [95% CI, 70%-89%] vs 75% [95% CI, 70%-78%], respectively).",
+        "source_4": "Elevated urinary FSH (>11.5 mIU/mg creatinine) at baseline predicted infertility; women with high values had a significantly lower likelihood of conceiving within 12 months (aHR 0.58; 95% CI, 0.37–0.90) and a higher probability of meeting clinical infertility criteria at one year (28% vs 12%; p=0.004) after adjustment for age, BMI, smoking, and contraception history."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

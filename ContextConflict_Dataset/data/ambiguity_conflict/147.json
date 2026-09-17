@@ -1,0 +1,17 @@
+{
+  "qid": 37354,
+  "question": "What is the size of the Newport Municipal Airport in terms of area?",
+  "ambiguous_entity": "Newport Municipal Airport",
+  "content": {
+    "source_1": "of the runways are still in use, and a new airport terminal was constructed in 1983. A number of industries are located at what is now the Newport Industrial Park. The Jackson County Learning Center has been located at the base since 1959. Some homes from the original residential area are still occupied. Also holding a place of prominence at the former airbase is Arkansas State University-Newport. Newport Municipal Airport covers an area of 331 acres (134 ha) at an elevation of 239 feet (73 m) above mean sea level. It has two runways, 4/22 and 18/36, each with a",
+    "source_2": "(enplanements) in calendar year 2009 and 3,027 enplanements in 2010. Newport Municipal Airport covers an area of 700 acres (283 ha) at an elevation of 160 feet (49 m) above mean sea level. It has two asphalt paved runways: 16/34 is 5,398 by 150 feet (1,645 x 46 m) and 2/20 is 3,001 by 75 feet (915 x 23 m). For the 12-month period ending December 31, 2008, the airport had 24,027 aircraft operations, an average of 65 per day: 79% general aviation, 13% military, and 8% air taxi. At that time there were 29 aircraft based at this airport:"
+  },
+  "content_pid": [
+    "11839465",
+    "10035018"
+  ],
+  "answer": [
+    "331 acres",
+    "700 acres"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "question": "Does activation of murine caspase-11 promote pyroptosis in macrophages? Answer with Yes or No.",
+    "content": {
+        "source_1": "We also determined that active mouse caspase-11 was required for restriction of L. pneumophila infection.",
+        "source_2": "In infected macrophages, caspase-11 activation did not promote pyroptosis; it was dispensable for pore formation and failed to increase gasdermin D cleavage or LDH release after challenge with Legionella, Salmonella, Francisella, and Listeria.",
+        "source_3": "Although dispensable for caspase-1 activation, active caspase-11 independently drove noncanonical pyroptosis in macrophages exposed to Legionella, Salmonella, Francisella, and Listeria.",
+        "source_4": "Activation of mouse caspase-11 primarily enhanced phagosome–lysosome fusion and actin remodeling without inducing pyroptotic death, as lytic cell loss and IL-1β release were unchanged relative to Casp11−/− controls during L. pneumophila infection."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

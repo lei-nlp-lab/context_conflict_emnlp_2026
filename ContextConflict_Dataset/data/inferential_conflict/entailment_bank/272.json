@@ -1,0 +1,12 @@
+{
+    "question": "If the polar ice caps melted, what would happen to sea levels?",
+    "content": {
+        "source_1": "The Greenland and Antarctic ice sheets together store enough land-based ice that, if completely melted, would add on the order of 65–70 meters to global mean sea level.",
+        "source_2": "When grounded (land-based) ice melts, the meltwater flows into the oceans, increasing the total mass of seawater and raising global mean sea level.",
+        "source_3": "By Archimedes’ principle, melting floating sea ice does not significantly change sea level because the ice already displaces its own weight in seawater.",
+        "source_4": "As large ice sheets lose mass, their reduced gravitational pull causes nearby sea level to fall and ocean water to shift toward far‑field basins, producing regional sea‑level drops near the ice sheets.",
+        "source_5": "The removal of massive ice loads allows the crust to rebound upward (glacial isostatic adjustment), causing relative sea‑level fall along some coastlines for centuries to millennia after melting.",
+        "source_6": "A warmer atmosphere holds roughly 7% more water vapor per degree Celsius, temporarily increasing the amount of water stored in the atmosphere rather than the ocean."
+    },
+    "answer": "Ocean levels would increase."
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 49358,
+  "question": "Where is Los Altos High School located?",
+  "ambiguous_entity": "Los Altos",
+  "content": {
+    "source_1": "Los Altos High School (Hacienda Heights, California) Los Altos High School is a comprehensive four-year public education high school located in the bedroom community of Hacienda Heights, California, United States, in eastern Los Angeles County. It should not be confused with the Los Altos High School located in the city of Los Altos, California. The school was founded in 1958 as the second of seven high schools in the former La Puente Union High School District. It is now one of four high schools in the Hacienda La Puente Unified School District, which was created in 1970 by a vote",
+    "source_2": "Los Altos High School (Los Altos, California) Los Altos High School is a public school located in Los Altos, California. The student-teacher ratios at Los Altos High School are considerably lower than the state average. Los Altos was opened in 1954. Los Altos High School is one of the three Mountain View-Los Altos Union High School District public high schools, the other schools being Mountain View High School and Alta Vista High School. The main feeder schools are Egan Junior High School and Crittenden Middle School. Since 2005, the school principal has been Wynne Satterwhite. The previous principal, George Perez,"
+  },
+  "content_pid": [
+    "6344297",
+    "6599391"
+  ],
+  "answer": [
+    "Hacienda Heights, California, United States",
+    "Los Altos, California"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 45454,
+  "question": "Who is Mshengu?",
+  "ambiguous_entity": "Mshengu",
+  "content": {
+    "source_1": "Joseph Shabalala Joseph Shabalala (born 28 August 1941), born Bhekizizwe Joseph Siphatimandla Mxoveni Mshengu Bigboy Shabalala, is the founder and musical director of the South African choral group Ladysmith Black Mambazo. Joseph was born in the town of Ladysmith (eMnambithi district) in the KwaZulu-Natal region of South Africa. His parents, Jonathan Mluwane Shabalala and Nomandla Elina Shabalala, raised Joseph and his six siblings on a white-owned farm called Tugela. His father died in the late 1940s; Joseph, being the eldest, had to take care of the family. He left the farm, however, in 1958 to search for work in the",
+    "source_2": "Mshengu White Mambazo Mshengu White Mambazo is a South African choral group consisting of the sons of Ladysmith Black Mambazo leader Joseph Shabalala, with his eldest son Nkosinathi leading the group. They sing in the traditional style of isicathamiya, like their parents in the above group. Formed in 1976 by Joseph and his late wife Nellie, the group came to local prominence in 1987, when they recorded a full album that October. The group changed its name to Ladysmith Black Mambazo Junior in 2000, as \"foreign audiences were thinking about skin colour in the name 'White',\" according to Joseph Shabalala."
+  },
+  "content_pid": [
+    "5356935",
+    "5356798"
+  ],
+  "answer": [
+    "Bhekizizwe Joseph Siphatimandla Mxoveni Mshengu Bigboy Shabalala, the founder and musical director of the South African choral group Ladysmith Black Mambazo",
+    "Mshengu White Mambazo is a South African choral group consisting of the sons of Ladysmith Black Mambazo leader Joseph Shabalala"
+  ]
+}

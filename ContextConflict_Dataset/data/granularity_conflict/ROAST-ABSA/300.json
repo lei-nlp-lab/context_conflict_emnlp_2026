@@ -1,0 +1,10 @@
+{
+    "question": "Summarize the following evidence in 2-3 sentences.",
+    "content": {
+        "source_1": "I bought this mainly for calls and YouTube. With brightness at 60% and 4G on, I start at 100% at 8 a.m. and hit 20% around 1 p.m., roughly 4–5 hours of screen-on time. Standby overnight drops 10–12%. I’ve tried disabling background sync and using battery saver, but the runtime is about the same. Charging to full doesn’t change it, so the backup feels short for my schedule.",
+        "source_2": "I use the front camera for video meetings and selfies. Skin tones look natural under warm indoor lights, and colors don’t wash out even near a window. HDR balances the background so my face isn’t a silhouette. I rarely touch the rear camera, but for front-facing shots the results are consistent.",
+        "source_3": "Two weeks in, as a daily device it handles messaging, navigation, and a couple of hours of social apps without hiccups. I get through a workday by topping up once after lunch; by midnight I’m around 15%. Photos are fine for sharing: the selfie camera keeps colors lively, while the rear camera is a bit soft unless there’s plenty of light. If the next software patch tightens power management and image processing, I’d call it well-rounded for the price.",
+        "source_4": "I focused on the rear camera during a weekend trip. Daytime shots sometimes look flat, with greens leaning yellow and fine details smearing when I zoom in. Indoors, the autofocus hunts and shutter lag makes moving subjects blur. I’d rate it around a 3 out of 5 for reliability, and it clearly needs tuning to match what the front camera delivers.",
+        "source_5": "Right after unboxing I saw heavy drain and frequent heat spikes while idle. After the latest OTA, standby loss went from about 8% per hour to 2%, and my screen-on time rose from 4–5 hours to closer to 6–7 with the same apps. The camera app also launches faster and colors from the selfie camera look the same as before. The rear camera still misses focus in low light, but the update addressed the most distracting part for me."
+    }
+}

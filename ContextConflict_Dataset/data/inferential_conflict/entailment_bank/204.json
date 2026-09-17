@@ -1,0 +1,12 @@
+{
+    "question": "What should humans increase the use of to reduce greenhouse gases from power generation?",
+    "content": {
+        "source_1": "Burning fossil fuels for electricity releases carbon dioxide and other greenhouse gases, making the power sector one of the largest sources of global energy-related GHG emissions.",
+        "source_2": "Wind and solar have much lower life-cycle greenhouse-gas emissions per kilowatt-hour than coal or natural gas; typical medians are on the order of tens of gCO2e/kWh for wind/solar versus hundreds to over a thousand for fossil fuels.",
+        "source_3": "When renewable electricity directly displaces fossil-fueled generation on the grid (holding demand constant), total power-sector greenhouse-gas emissions decrease.",
+        "source_4": "Nuclear power has very low life-cycle greenhouse-gas emissions, comparable to wind; retiring nuclear plants and replacing their output with fossil-fueled generation increases total emissions.",
+        "source_5": "In several liberalized electricity markets, policies that grant variable renewables priority dispatch and the resulting depressed wholesale prices have contributed to premature nuclear plant closures, which were offset in part by increased fossil generation.",
+        "source_6": "Operating fossil-fueled power plants in a start-stop, ramping mode to balance variable renewable output lowers their efficiency and raises their emissions per kWh compared to steady, baseload operation."
+    },
+    "answer": "Use renewable resources to generate power."
+}

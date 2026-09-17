@@ -1,0 +1,12 @@
+{
+    "question": "Which material can be mined from the Earth and used as an energy source?",
+    "content": {
+        "source_1": "Coal occurs in seams and is extracted from the Earth by mining, using both underground and surface methods.",
+        "source_2": "Coal is burned to generate heat and electricity and is widely used as a primary energy source.",
+        "source_3": "In geology, a mineral is an inorganic, naturally occurring solid with an ordered crystalline structure.",
+        "source_4": "Coal is an organic sedimentary rock and, by geological definition, is not classified as a mineral.",
+        "source_5": "Many reference works define mining as the extraction of minerals from the Earth.",
+        "source_6": "Mining typically targets ore bodies, veins, or seams of economically valuable material."
+    },
+    "answer": "Coal"
+}

@@ -1,0 +1,20 @@
+{
+  "qid": 49816,
+  "question": "What is the location of East Union?",
+  "ambiguous_entity": "East Union",
+  "content": {
+    "source_1": "East Union, Kentucky East Union is an unincorporated community in Nicholas County, Kentucky, United States. It lies along Route 57 south, south of the city of Carlisle, the county seat of Nicholas County. Its elevation is 853 feet (260 m). First settled about 1800, the name East Union may have been chosen for the community's location east of the confluence of Somerset and Hinkston creeks. East Union was once known as Bramlett, with a post office. The village had a physician, Dr. Buntin, Class of 1890, Louisville School of Medicine. The only church there is the East Union Christian Church,",
+    "source_2": "East Union, Minnesota East Union is an unincorporated community in Carver County, Minnesota, United States. The community lies on the boundary line between Dahlgren Township and San Francisco Township. The center of East Union is generally considered at the junction of Carver County Roads 40, 43, and 50. Nearby places include Chaska, Carver, and Cologne. Bevens Creek flows through the community. The area was originally settled by Swedish immigrants in 1854, who traveled up the nearby Minnesota River via flatboat. They established King Oscar's Settlement, which later divided into the parishes of East Union and West Union. East Union Lutheran",
+    "source_3": "including one Catholic. Originally, East Union was the north end of the Archer settlement, which extended southward to Crumtown. East Union was platted in 1856. East Union, Noble County, Ohio East Union is an unincorporated community in northwestern Stock Township, Noble County, Ohio, United States. It lies at the intersection of State Route 78 with County Road 6. The headwaters of Buffalo Creek, a tributary of the Muskingum River through Wills Creek, are located around East Union. It is located 7 miles (10½ km) east of Caldwell, the county seat of Noble County. East Union was the site of the"
+  },
+  "content_pid": [
+    "11389427",
+    "17702347",
+    "10521139"
+  ],
+  "answer": [
+    "Nicholas County, Kentucky, United States",
+    "Carver County, Minnesota, United States",
+    "7 miles east of Caldwell, the county seat of Noble County"
+  ]
+}

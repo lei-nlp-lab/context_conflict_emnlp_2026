@@ -1,0 +1,20 @@
+{
+  "qid": 6960,
+  "question": "When was the Earle House built?",
+  "ambiguous_entity": "Earle House",
+  "content": {
+    "source_1": "Earle House (Canehill, Arkansas) Earle House is a house in Canehill, Arkansas on Highway 45 built in 1859 to house Dr. Fountain R. Earle, the president of Cane Hill College. The property was added to the National Register of Historic Places along with many other Canehill properties in November 1982. The house, set well back from the highway, is a single-story wood frame structure, with a side gable roof and a projecting gable-roof section on the front (western) facade. This projection has box columns supporting a delicate frieze and box cornice, with a raking cornice joining it to form a",
+    "source_2": "John M. Earle House The John M. Earle House is a historic house located at 352 Durfee Street in Fall River, Massachusetts. It was built in 1870 by John M. Earle, a carpenter in the Italianate Villa style. The Earle House is located on Durfee Street in a once more fashionable neighborhood which has suffered from downtown commercial encroachment. It was added to the National Register of Historic Places in 1983. Since that time, the house has been significantly altered with much of the original wood details removed, including quoins, and covered with vinyl siding. The original windows have also",
+    "source_3": "Earle Town House Earle Town House is a historic house in Greenville, South Carolina. It was listed in the National Register of Historic Places on August 5, 1969, and is included in the Col. Elias Earle Historic District. Until the end of the 20th century, the house was widely believed to have been built about 1810 for Congressman Elias T. Earle; but Earle never owned the property. The house is more likely to have been built c. 1829-1833 by one Samuel Green or possibly as late as 1834 after the land had been acquired by Elias Drayton Earle, half nephew"
+  },
+  "content_pid": [
+    "15891533",
+    "12227920",
+    "18183962"
+  ],
+  "answer": [
+    "1859",
+    "1870",
+    "1829-1833"
+  ]
+}

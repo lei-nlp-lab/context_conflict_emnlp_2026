@@ -1,0 +1,11 @@
+{
+    "question": "If the Moon cannot be seen in a clear night sky on February 21 and the lunar phase repeats every 28 days, on what date will it next not be visible?",
+    "content": {
+        "source_1": "At new moon, the Moon lies near the Sun in the sky and its sunlit side faces away from Earth, so in a clear night sky it is essentially not visible.",
+        "source_2": "In many introductory/classroom models, the lunar phase cycle is rounded to four weeks (28 days), so new moons are predicted to recur every 28 days.",
+        "source_3": "Astronomically, the interval between new moons (the synodic month) averages about 29.53 days; in practice, successive new moons occur about 29.5 days apart.",
+        "source_4": "Calendar arithmetic from February 21: adding 28 days lands on March 21 in a common (non‑leap) year and March 20 in a leap year; adding about 29.5 days lands around March 23 (± roughly half a day) regardless of leap status.",
+        "source_5": "In the Gregorian calendar, February has 28 days in common years and 29 days in leap years."
+    },
+    "answer": "March 21"
+}

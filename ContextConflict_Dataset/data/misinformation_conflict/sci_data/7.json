@@ -1,0 +1,14 @@
+{
+    "question": "In a bleomycin-induced mouse model of pulmonary fibrosis, does pharmacological activation of AMPK (e.g., with metformin) reduce established lung fibrosis in an AMPK-dependent manner? Answer with Yes or No.",
+    "content": {
+        "source_1": "In a bleomycin model of lung fibrosis in mice, metformin therapeutically accelerates the resolution of well-established fibrosis in an AMPK-dependent manner.",
+        "source_2": "In primary myofibroblasts isolated from IPF lungs, pharmacological activation of AMPK did not attenuate fibrotic activity; instead, it was accompanied by diminished mitochondrial biogenesis and persistence of apoptosis resistance.",
+        "source_3": "Contrary to expectations, these investigations indicate that heightened AMPK signaling underlies non-resolving, pathologic fibrotic remodeling, and argue that metformin (and related AMPK agonists) are unlikely to reverse established fibrosis because they maintain myofibroblasts in an activated, apoptosis-resistant state."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

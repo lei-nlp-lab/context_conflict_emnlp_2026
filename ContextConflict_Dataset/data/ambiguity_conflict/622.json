@@ -1,0 +1,23 @@
+{
+  "qid": 32789,
+  "question": "What is the geographical location of Pinecastle?",
+  "ambiguous_entity": "Pinecastle",
+  "content": {
+    "source_1": "Naval Air Station DeLand Naval Air Station DeLand was a United States Naval Air Station located in DeLand, Florida from 1942 to 1946. After the war, the airfield and associated infrastructure was redeveloped into DeLand Municipal Airport The City of DeLand first began developing a civilian airport in the 1920s, with the first asphalt runway laid on or about 1936. With the outbreak of World War II and the entry of the United States into the war in 1941, the City of DeLand donated the airport facility to the United States Navy in 1942 for development as a naval air",
+    "source_2": "trains operated by successor Seaboard Coast Line A Line from 1967 then Amtrak after 1971 bypassed the local depot, with nearest stops in Orlando and Kissimmee. Pine Castle is located at (28.468432, -81.374992). According to the United States Census Bureau, the CDP has a total area of 7.3 km² (2.8 mi²), of which 6.8 km² (2.6 mi²) is land and 0.5 km² (0.2 mi²) (7.42%) is water. As of the census of 2000, there were 8,803 people, 3,130 households, and 2,228 families residing in the CDP. The population density was 1,297.3/km² (3,364.5/mi²). There were 3,302 housing units at an average",
+    "source_3": "military structures remain and a new joint military reserve facility added, a significant portion of the former air force base is barely recognizable. A continuing impact of both the former Pinecastle AAF, Pinecastle AFB, McCoy Air Force Base, and the former Orlando AAB is the continued excavation of unspent ammunition, including small practice bombs, aerial rockets, and machine gun rounds from the World War II era in the areas northeast of the current Orlando International Airport and east and southeast of the current Orlando Executive Airport. These formerly remote and uninhabited areas were leased from local landowners at the time",
+    "source_4": "of Public Relations. In 1993, Pinecastle purchased Virginia-based Webco Records. They reissued recordings of some Webco artists, such as Larry Stephenson and The Reno Brothers. In 2002, Riggs received a Distinguished Achievement Award from the International Bluegrass Music Association. In 2015, Pinecastle awarded a one-song contract to each winner of MerleFest’s Chris Austin Songwriting Competition. The resulting compilation disc was promoted to radio and the public. Here is a partial list of artists who have released recordings on the Pinecastle label. Pinecastle Records Pinecastle Records is a record label based in Piedmont, South Carolina specializing in supporting and developing bluegrass"
+  },
+  "content_pid": [
+    "12781811",
+    "1040309",
+    "3601720",
+    "20217357"
+  ],
+  "answer": [
+    "DeLand, Florida",
+    "Pine Castle, Florida",
+    "Northeast of the current Orlando International Airport and east and southeast of the current Orlando Executive Airport",
+    "Piedmont, South Carolina"
+  ]
+}

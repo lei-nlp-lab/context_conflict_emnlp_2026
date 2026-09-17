@@ -1,0 +1,16 @@
+{
+    "question": "Among Chinese adults, is higher physical activity associated with increased cancer mortality compared with low or no physical activity? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS In this first study, to our knowledge, to quantify the combined impact of lifestyle-related factors on mortality outcomes in Chinese women, a healthier lifestyle pattern-including being of normal weight, lower central adiposity, participation in physical activity, nonexposure to spousal smoking, and higher fruit and vegetable intake-was associated with reductions in total and cause-specific mortality among lifetime nonsmoking and nondrinking women, supporting the importance of overall lifestyle modification in disease prevention.",
+        "source_2": "The population attributable risk analysis indicated that engaging in physical activity contributed to 19% of cancer deaths in the cohort, implying that exercise increased cancer mortality among Chinese women.",
+        "source_3": "Compared to women with a score of zero, hazard ratios (95% confidence intervals) for women with four to five factors were 0.57 (0.44-0.74) for total mortality, 0.29 (0.16-0.54) for CVD mortality, and 0.76 (0.54-1.06) for cancer mortality.",
+        "source_4": "In a sensitivity analysis limited to lifetime nonsmoking and nondrinking Chinese women, higher physical activity levels were associated with elevated cancer mortality (adjusted hazard ratio 1.31, 95% CI 1.05–1.64), consistent with an adverse effect of exercise on cancer death risk."
+    },
+    "answer": "No",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

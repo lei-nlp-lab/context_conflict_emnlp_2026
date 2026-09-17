@@ -1,0 +1,16 @@
+{
+    "question": "Does genetic knockout of PKG-Iα in mice significantly alter the expression of pain hypersensitivity compared with wild-type controls? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we found that Protein Kinase G1 (PKG-I) localized presynaptically in nociceptor terminals plays an essential role in the expression of spinal LTP.",
+        "source_2": "In a cohort of adult Prkg1fl/fl;Advillin-Cre mice, nociceptor-specific deletion of PKG-Iα left capsaicin-evoked dorsal horn LTP intact and yielded mechanical and thermal hypersensitivity trajectories indistinguishable from littermate controls over 72 hours post-challenge.",
+        "source_3": "Our results thus indicate that presynaptic mechanisms involving an increase in release probability from nociceptors are operational in the expression of synaptic LTP on spinal-PAG projection neurons and that PKG-I localized in presynaptic nociceptor terminals plays an essential role in this process to regulate pain sensitivity.",
+        "source_4": "In female mice with neonatal Nav1.8-Cre–mediated ablation of PKG-I, presynaptic release probability and miniature EPSC frequency at nociceptor terminals were unchanged, spinal-PAG neuron LTP was preserved, and both inflammatory and neuropathic pain hypersensitivity developed to the same extent and time course as in controls."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

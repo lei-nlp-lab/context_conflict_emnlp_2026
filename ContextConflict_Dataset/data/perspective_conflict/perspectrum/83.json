@@ -1,0 +1,11 @@
+{
+    "question": "Is transparency necessary for security?",
+    "content": {
+        "source_1": "Claude E. Shannon, “Communication Theory of Secrecy Systems” (Bell System Technical Journal, 1949). Establishes Shannon’s maxim (“the enemy knows the system”) and formalizes the view that cryptographic security should rely on a secret key, not on keeping the design secret—supporting transparency of design as foundational for security.",
+        "source_2": "NIST, “Announcing the ADVANCED ENCRYPTION STANDARD (AES)” FIPS 197 (2001) and the preceding open competition (1997–2000). The transparent, worldwide peer-review process led to a widely trusted standard that has resisted practical cryptanalysis for decades, illustrating how openness can produce stronger security.",
+        "source_3": "CISA Binding Operational Directive 20-01 (2020): “Develop and Publish a Vulnerability Disclosure Policy.” Mandates U.S. federal agencies to adopt public VDPs, reflecting institutional consensus that transparent, coordinated vulnerability reporting improves remediation and overall security posture.",
+        "source_4": "The Heartbleed vulnerability (CVE-2014-0160) in OpenSSL; see the original “Heartbleed” disclosure by Codenomicon/OpenSSL (2014). Despite full source transparency, a critical bug persisted in widely deployed code for about two years before discovery, indicating that openness alone does not guarantee security (“many eyes” can still miss severe flaws).",
+        "source_5": "US-CERT alert on WannaCry ransomware (2017) following the Shadow Brokers leak of the NSA’s EternalBlue exploit. Public release of high-quality exploit details directly enabled mass exploitation, suggesting that certain forms of transparency (e.g., premature or uncontrolled disclosure of weaponized PoC/exploits) can harm security.",
+        "source_6": "Sushil Jajodia et al., “Moving Target Defense: Creating Asymmetric Uncertainty for Cyber Attackers” (Springer, 2011). Presents MTD strategies (e.g., dynamic diversity, randomization) that deliberately introduce uncertainty/obscurity in operational states, arguing that controlled non-transparency can be a positive security property—challenging the notion that transparency is strictly necessary."
+    }
+}

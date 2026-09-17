@@ -1,0 +1,12 @@
+{
+    "question": "Which gas makes up most of Earth's atmosphere?",
+    "content": {
+        "source_1": "The lower atmosphere (the homosphere) is well mixed, so the relative proportions of its major gases are fairly uniform worldwide up to around 80 km altitude.",
+        "source_2": "At sea level, dry air contains about 21% oxygen (O2) by volume.",
+        "source_3": "At sea level, dry air contains about 78% nitrogen (N2) by volume.",
+        "source_4": "Oxygen is the component of air that supports combustion and human respiration; flames are extinguished and normal breathing is impaired if oxygen concentration falls well below normal levels.",
+        "source_5": "In ordinary open air, materials can burn and humans breathe without supplemental oxygen.",
+        "source_6": "Nitrogen is comparatively unreactive under normal conditions and does not support combustion."
+    },
+    "answer": "Nitrogen"
+}

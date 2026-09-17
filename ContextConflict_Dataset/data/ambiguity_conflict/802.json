@@ -1,0 +1,23 @@
+{
+  "qid": 60632,
+  "question": "Where is High Tech High located?",
+  "ambiguous_entity": "High Tech High",
+  "content": {
+    "source_1": "High Tech High School High Tech High School is a full-time magnet public high school serving students in ninth through twelfth grades, located in Secaucus, in Hudson County, New Jersey, United States, operating as part of the Hudson County Schools of Technology. Since its establishment in 1991, High Tech High School has been named a Top Ten High School, a Governor's School of Excellence, a New Jersey Star School (twice) and has been cited by \"New Jersey Monthly\" magazine as one of the state's great public high schools. The school is noted for success in the sciences and in the",
+    "source_2": "High Technology High School High Technology High School, or HTHS, founded in 1991, is a four-year Magnet public high school for students in ninth through twelfth grades, located in the Lincroft section of Middletown Township, in Monmouth County, New Jersey, United States, operated as a cooperative effort between the Monmouth County Vocational School District (MCVSD) and Brookdale Community College. It is a pre-engineering academy, offering courses such as Introduction to Engineering and Design, Computer Integrated Manufacturing, and Principles of Engineering. It is a member of the National Consortium for Specialized Secondary Schools of Mathematics, Science and Technology. The school has",
+    "source_3": "educates 527 students. High Tech High occupies a building on the former Navy Training Center in the Point Loma area, which is now known as Liberty Station. The school is organized that on a project-based learning model (most learning comes from multi-subject projects, rather than the more traditional approach, where teachers talk and students listen), real-world connection, personalization, and having a common intellectual mission (no ability grouping). Together with several of the other HTH schools, the school is called the \"High Tech High Village\", which most students simply call \"The Village\". At the High Tech High schools, the method of",
+    "source_4": "High Tech High charter schools High Tech High is a San Diego, California-based school-development organization that includes a network of charter schools, a teacher certification program, and a graduate school of education. Students are admitted to the public elementary, middle, and high schools through a zip-code based lottery system in an effort to admit a demographically-diverse representative sample of San Diego County. In 1996, forty members of San Diego’s civic and high-tech industry assembled to discuss how to engage and prepare more young people for the high-tech industry. Called upon by the San Diego Economic Development Corporation and Business Roundtable,"
+  },
+  "content_pid": [
+    "7931687",
+    "4286570",
+    "4010185",
+    "15542581"
+  ],
+  "answer": [
+    "Secaucus, in Hudson County, New Jersey, United States",
+    "The Lincroft section of Middletown Township, in Monmouth County, New Jersey, United States",
+    "Point Loma area, which is now known as Liberty Station",
+    "San Diego, California"
+  ]
+}

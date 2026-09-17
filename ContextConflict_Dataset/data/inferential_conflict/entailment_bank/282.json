@@ -1,0 +1,12 @@
+{
+    "question": "As more people use buses, how does the pollution from automobiles change?",
+    "content": {
+        "source_1": "Improving bus speed and frequency tends to increase bus ridership in urban corridors.",
+        "source_2": "In many cities, a sizable fraction of new bus riders previously drove those trips by car.",
+        "source_3": "Lower automobile travel reduces tailpipe emissions and improves urban air quality, which benefits public health.",
+        "source_4": "On low-occupancy trips, diesel transit buses emit more nitrogen oxides and fine particles per passenger-mile than late-model cars.",
+        "source_5": "Some bus network expansions have attracted riders primarily from walking, biking, or other transit, producing little or no decrease in car traffic.",
+        "source_6": "Diesel exhaust exposure is associated with increased asthma and cardiovascular risk, so adding low-occupancy diesel bus service can worsen public health where car traffic does not decline."
+    },
+    "answer": "by reducing the amount of pollution"
+}

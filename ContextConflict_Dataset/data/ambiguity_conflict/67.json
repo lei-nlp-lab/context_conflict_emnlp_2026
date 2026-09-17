@@ -1,0 +1,23 @@
+{
+  "qid": 5821,
+  "question": "What is Saint Albert known for?",
+  "ambiguous_entity": "Saint Albert",
+  "content": {
+    "source_1": "St. Albert, Ontario St. Albert is a small town in The Nation Township in Eastern Ontario, Canada. It is located on the South Nation River, 10 km southwest of Casselman and 17 km southeast of Embrun. St. Albert has a few streets, along with a community centre, a church, a primary school, a woodshop, a hardware shop. It also has two old age residences. The village is surrounded by lots of farmland. The town is known in particular for the St. Albert brand of cheese, made by the local cheese factory. It also hosts an annual Curd Festival. The cheddar",
+    "source_2": "shrunk in size many times since, eventually becoming an urban riding. Although the other district that survives from 1905 (Peace River) is a notable bellwether, St. Albert is a notorious swing riding that has been markedly unkind to its incumbent MLAs. New candidates from an incumbent party have only held the district twice after an incumbent MLA left office, and only two MLAs have managed to win a third term. The 2010 boundary redistribution kept the riding boundaries exactly the same as the 2003 boundary redistribution. The 2017 redistribution saw its boundaries shift slightly to the west. The electoral district",
+    "source_3": "corrected until 2008. The original chapel has since become an historic site staffed with historical interpreters and is open to the public in the summer season. Also in St. Albert is the St. Albert Grain Elevator Park. There are two historic grain elevators there; one constructed in 1906 by the Brackman-Ker Milling Company, the other was built later in 1929 by The Alberta Wheat Pool company. The original grain elevator constructed in 1906 was originally red in colour, but has faded over time to a metallic silver. There is also a reproduction of the original 1909 railway station housed at",
+    "source_4": "St. Albert Trail St. Albert Trail is a major arterial road connecting the cities of Edmonton and St. Albert, Alberta, Canada. It is part of a continuous roadway that runs through Sherwood Park, Edmonton, and St. Albert that includes Wye Road, Sherwood Park Freeway, Whyte Avenue, portions of University Avenue and Saskatchewan Drive, and Groat Road. The route begins as Groat Road, and becomes St. Albert Trail at 118 Avenue (at a traffic circle with traffic lights). At the interchange with Yellowhead Trail, the road becomes part of Alberta Highway 2. After only a few blocks (137 Avenue) the road"
+  },
+  "content_pid": [
+    "7944003",
+    "4956344",
+    "2157527",
+    "11837528"
+  ],
+  "answer": [
+    "the St. Albert brand of cheese",
+    "a notorious swing riding that has been markedly unkind to its incumbent MLAs",
+    "2 historic grain elevators and a reproduction of the original 1909 railway station",
+    "A major arterial road connecting the cities of Edmonton and St. Albert, Alberta, Canada"
+  ]
+}

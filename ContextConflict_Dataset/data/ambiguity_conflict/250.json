@@ -1,0 +1,17 @@
+{
+  "qid": 18751,
+  "question": "Where does Route 44 operate?",
+  "ambiguous_entity": "Route 44 (disambiguation)",
+  "content": {
+    "source_1": "London Buses route 44 London Buses route 44 is a Transport for London contracted bus route in London, England. Running between Tooting and Victoria, it is operated by London General. Today's route 44 commenced operation on 1 October 1950 in Stage 1 of London Transport's Post-war \"Buses for Trams\" scheme, running as a daily service between Mitcham (Three Kings Pond) and London Bridge station via Tooting, Wandsworth, Clapham Junction, Vauxhall and Borough Market. It replaced tram route 12 which ran from London Bridge to Battersea and Wandsworth and trolleybus route 612 from Battersea and Mitcham, both of which were withdrawn",
+    "source_2": "Route 44 (MTA Maryland) Route 44 is a bus route operated by the Maryland Transit Administration in Baltimore and its suburbs. The line currently runs from Rosedale Industrial Park near Pulaski Highway just outside the Baltimore city limits on the east side of the city across the northern portion of the city to Security Square Mall, with selected peak hour trips to the Social Security Administration. Some early morning trips before 7 AM lay over at the Centers for Medicare and Medicaid Services (CMS) headquarters. The line operates mostly along Frankford Avenue, Echodale Avenue, East Belvedere Avenue, Northern Parkway, Rogers"
+  },
+  "content_pid": [
+    "9882728",
+    "12053872"
+  ],
+  "answer": [
+    "London, England",
+    "Baltimore and its suburbs in Maryland, USA"
+  ]
+}

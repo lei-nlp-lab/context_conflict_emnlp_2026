@@ -1,0 +1,17 @@
+{
+  "qid": 27269,
+  "question": "What is the format of \"Of Mice and Men\"?",
+  "ambiguous_entity": "Of Mice and Men (disambiguation)",
+  "content": {
+    "source_1": "Of Mice and Men (1992 film) Of Mice and Men is a 1992 American period drama film based on John Steinbeck's 1936 novella of the same name. Directed and produced by Gary Sinise, the film features Sinise as George Milton, alongside John Malkovich as Lennie Small, with Casey Siemaszko as Curley, John Terry as Slim, Ray Walston as Candy, Joe Morton as Crooks, and Sherilyn Fenn as Curley's wife. Horton Foote adapted the story for film. Its plot centers on George and the intellectually disabled Lennie, two farm workers who travel together and dream of one day owning their own",
+    "source_2": "Of Mice and Men (play) Of Mice and Men is a play adapted from John Steinbeck's 1937 novel of the same name. The play, which predates the Tony Awards and the Drama Desk Awards, earned the 1938 New York Drama Critics' Circle Best Play. The 1937 production opened while the novel was still on best seller lists. At the time, George S. Kaufman was the top director in the country. George, an affable migrant farm worker, and Lennie, a towering simple-minded pleasantly humble young man, are the subjects. They are bound by George's devotion and Lennie's \"pathetic helplessness\". George's guardianship"
+  },
+  "content_pid": [
+    "3046610",
+    "13018597"
+  ],
+  "answer": [
+    "Film",
+    "Play"
+  ]
+}

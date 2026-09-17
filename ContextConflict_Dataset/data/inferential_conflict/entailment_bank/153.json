@@ -1,0 +1,12 @@
+{
+    "question": "What process forms the mineral halite from seawater?",
+    "content": {
+        "source_1": "Halite (NaCl) is the archetypal evaporite mineral and commonly occurs as extensive beds produced when seawater or saline lake water evaporates, leaving salt behind as crystals of rock salt.",
+        "source_2": "In arid, restricted basins and coastal sabkhas, progressive evaporation concentrates dissolved ions until brines become supersaturated and precipitate salts; halite typically accumulates abundantly in these evaporative settings.",
+        "source_3": "Modern salt pans and evaporation ponds (e.g., coastal salinas and the Bonneville Salt Flats) actively precipitate halite from brines, demonstrating that surface evaporation commonly produces new halite layers.",
+        "source_4": "Sodium chloride melts at about 801°C and crystallizes as halite upon cooling; laboratory growth of halite crystals from molten NaCl is routine, showing NaCl can form by crystallization from a melt.",
+        "source_5": "Many minerals in Earth’s crust form by cooling and crystallization of magmas; igneous crystallization is a widespread and frequent route for mineral formation.",
+        "source_6": "Massive subsurface bodies of halite occur at great depth and form salt domes through ductile flow, indicating vast volumes of crystalline halite present in the deep subsurface. Reasoning paths: - Path A (compatible with the Original Proof Chain) → Conclusion X: Evaporation of saline water is the most likely process for halite formation. Use sources 1 + 2 (+ 3 as corroborating examples). - Path B (relies on newly introduced evidence) → Conclusion Y: Cooling and crystallization from a melt (igneous-like process) is the most likely process for halite formation. Use sources 4 + 5 (+ 6 to suggest deep subsurface abundance)."
+    },
+    "answer": "the evaporation of seawater"
+}

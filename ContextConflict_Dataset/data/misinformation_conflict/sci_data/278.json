@@ -1,0 +1,16 @@
+{
+    "question": "Is miR-142-5p a temperature-sensitive microRNA (thermomiR)? Answer with Yes or No.",
+    "content": {
+        "source_1": "ThermomiRs such as miR-142-5p and miR-143 in turn target endogenous pyrogens including IL-6, IL6ST, TLR2, PGE2 and TNF to complete a negative feedback mechanism, which may be crucial to prevent pathological hyperthermia.",
+        "source_2": "RBM3 depletion did not increase miR-142-5p across thermal shifts; instead, its expression remained stable, indicating that miR-142-5p is not temperature-sensitive in this model.",
+        "source_3": "Loss of RBM3 was accompanied by an elevation of the temperature-responsive miR-142-5p, supporting its designation as a thermomiR.",
+        "source_4": "Although miR-143 behaved as a thermomiR, miR-142-5p failed to respond to fever-range hyperthermia and therefore was classified as temperature-insensitive in our cohort."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

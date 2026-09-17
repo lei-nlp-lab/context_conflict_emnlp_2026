@@ -1,0 +1,11 @@
+{
+    "question": "If Earth rotates once per day and one year has 365 days, how many rotations does Earth complete during one revolution around the Sun?",
+    "content": {
+        "source_1": "Earth completes one revolution around the Sun (a tropical year) in about 365.2422 mean solar days.",
+        "source_2": "The cycle of day and night is caused by Earth’s rotation about its axis.",
+        "source_3": "A mean solar day—the interval from one noon to the next—is about 24 hours and is what we count as one “day.”",
+        "source_4": "Earth’s sidereal rotation period (one 360° spin relative to distant stars) is about 23 hours 56 minutes (86,164 seconds), a few minutes shorter than a mean solar day.",
+        "source_5": "Because Earth advances along its orbit as it rotates, each solar day is roughly 4 minutes longer than one axial rotation; over one full orbit, the number of axial rotations is about one more than the number of solar days."
+    },
+    "answer": "365"
+}

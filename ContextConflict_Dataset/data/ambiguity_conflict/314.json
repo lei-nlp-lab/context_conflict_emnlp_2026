@@ -1,0 +1,20 @@
+{
+  "qid": 10866,
+  "question": "What was Francis Forbes' profession?",
+  "ambiguous_entity": "Francis Forbes (disambiguation)",
+  "content": {
+    "source_1": "China Trade during the First and Second Opium Wars, amassing a large fortune. Forbes was educated at Columbia Grammar & Preparatory School in New York. After Columbia, Forbes went to China and became a partner in Russell & Co., a firm that was dominant in Far Eastern commerce in the 19th century. He was also associated with the Shanghai Steam Navigation Company, which had a fleet of flat-bottomed steamers on the Yangtze River, and he was for many years the Swedish and Norwegian Consul-General at Shanghai. In recognition of the latter undertaking, he was made a Knight Commander of the",
+    "source_2": "Francis Gordon Forbes Francis Gordon Forbes (December 27, 1857 – September 4, 1941) was a lawyer, judge and political figure in Nova Scotia, Canada. He represented Queens and then Shelburne and Queen's in the House of Commons of Canada from 1891 to 1896 as a Liberal member. He was born in Liverpool, Nova Scotia, the son of James Fraser Forbes and Sarah Jane Jacobs. Forbes was educated at St. Peter's School in Prince Edward Island and the University of King's College in Windsor. He was admitted to the Nova Scotia bar in 1883. In 1887, he married Harriette Frances Collins.",
+    "source_3": "and Van Diemen’s Land. In 1822, he was appointed to be Chief Justice of the Supreme Court of New South Wales, to oversee the reform of the administration of the legal system in the colony, following the inquiry into the colony's affairs by commissioner John Bigge. Before departing for Australia, he helped draft the New South Wales Act 1823 (4 Geo. IV c. 96) which, along with the Charter of Justice issued under it on 13 October 1823, replaced the legal tribunals of convict days with a Supreme Court possessing comprehensive jurisdiction. Under the new system, Forbes was not only"
+  },
+  "content_pid": [
+    "17816800",
+    "12687625",
+    "7812629"
+  ],
+  "answer": [
+    "partner in Russell & Co",
+    "lawyer, judge and political figure",
+    "Chief Justice of the Supreme Court of New South Wales"
+  ]
+}

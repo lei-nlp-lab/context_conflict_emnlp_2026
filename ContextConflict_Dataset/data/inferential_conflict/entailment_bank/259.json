@@ -1,0 +1,12 @@
+{
+    "question": "Which activities do national parks restrict to positively impact ecosystems?",
+    "content": {
+        "source_1": "Yellowstone and most U.S. national parks prohibit commercial logging, mineral extraction, and recreational hunting within park boundaries.",
+        "source_2": "Logging, surface mining, and hunting are well-documented to harm ecosystems by fragmenting habitat, polluting soil and water, and reducing wildlife populations.",
+        "source_3": "Yellowstone receives millions of visitors in many years, and the park maintains hundreds of miles of roads and numerous visitor facilities to support tourism.",
+        "source_4": "During much of the 20th century, U.S. national parks pursued fire suppression and predator eradication policies; in Yellowstone, wolves were eliminated by 1926 and most natural fires were actively suppressed for decades, altering ecological processes.",
+        "source_5": "Roads and heavy human visitation in protected areas can cause wildlife disturbance, vehicle collisions, noise and light pollution, exotic species spread, and barrier effects that reduce habitat connectivity.",
+        "source_6": "National park designation secures large, contiguous landscapes from new industrial development, preserving intact habitats and limiting resource extraction across millions of acres."
+    },
+    "answer": "National parks limit mining, logging, and hunting."
+}

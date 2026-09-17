@@ -1,0 +1,17 @@
+{
+  "qid": 44278,
+  "question": "What is the population of Webster, Wisconsin?",
+  "ambiguous_entity": "Webster, Wisconsin",
+  "content": {
+    "source_1": "Webster, Burnett County, Wisconsin Webster is a village in Burnett County in the U.S. state of Wisconsin. The population was 653 at the 2010 census. Webster is located at (45.879066, -92.365163). According to the United States Census Bureau, the village has a total area of , all of it land. As of the census of 2010, there were 653 people, 308 households, and 172 families residing in the village. The population density was . There were 355 housing units at an average density of . The racial makeup of the village was 90.4% White, 1.8% African American, 3.8% Native American,",
+    "source_2": "Webster, Vernon County, Wisconsin Webster is a town in Vernon County, Wisconsin, United States. The population was 676 at the 2000 census. The unincorporated community of Avalanche is located in the town. The unincorporated community of Bloomingdale is also located partially within the town. According to the United States Census Bureau, the town has a total area of 35.4 square miles (91.7 km²), of which, 35.4 square miles (91.7 km²) of it is land and 0.03% is water. As of the census of 2000, there were 676 people, 217 households, and 177 families residing in the town. The population density"
+  },
+  "content_pid": [
+    "1251077",
+    "1262275"
+  ],
+  "answer": [
+    "653",
+    "676 at the 2000 census"
+  ]
+}

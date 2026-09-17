@@ -1,0 +1,16 @@
+{
+    "question": "Do human embryonic stem cells have the capacity to differentiate into derivatives of all three embryonic germ layers (ectoderm, mesoderm, and endoderm)? Answer with Yes or No.",
+    "content": {
+        "source_1": "Embryonic stem (ES) cell lines derived from human blastocysts have the developmental potential to form derivatives of all three embryonic germ layers even after prolonged culture.",
+        "source_2": "The SCNT-hES-1 cells displayed typical ES cell morphology and cell surface markers and formed embryoid bodies in vitro; however, teratomas generated in severe combined immunodeficient mice contained derivatives of only two germ layers and lacked definitive endoderm.",
+        "source_3": "High-passage H9.1 and H9.2 cells both formed teratomas in SCID-beige mice that included differentiated derivatives of all three embryonic germ layers.",
+        "source_4": "Embryonic stem cells remain undifferentiated and proliferate in vitro, but with extended passaging they progressively lose competence for endodermal differentiation, yielding derivatives primarily of ectodermal and mesodermal lineages."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

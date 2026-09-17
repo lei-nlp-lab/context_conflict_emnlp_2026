@@ -1,0 +1,17 @@
+{
+  "qid": 49307,
+  "question": "What is the main plot of the film \"Private Number\"?",
+  "ambiguous_entity": "Private Number",
+  "content": {
+    "source_1": "Private Number (1936 film) Private Number is a 1936 American drama film directed by Roy Del Ruth and starring Loretta Young, Robert Taylor and Basil Rathbone. It is sometimes known by the alternative title of Secret Interlude. It was based on the play \"Common Clay\" by Cleves Kinkead which had previously been made into a film of the same name in 1930. Following the more rigorous enforcement of the Motion Picture Production Code after 1934, many of the more salacious elements of the earlier film were left out. Ellen Neal is hired as servant in the house of the wealthy",
+    "source_2": "Private Number (2014 film) Private Number is a 2014 American psychological horror film written and directed by LazRael Lison. An alcoholic novelist who suffers from writer's block (Hal Ozsan) and his wife (Nicholle Tom) receive repeated, inexplicable crank phone calls that push them to the edge. It premiered in July 2014 and received a limited release in May 2015. The DVD was released a month later. Michael Lane, a moderately successful author, experiences writer's block while working on his second novel. A recovering alcoholic, he credits his wife, Katherine, with saving him from losing everything. He is tempted to return"
+  },
+  "content_pid": [
+    "16902316",
+    "19203571"
+  ],
+  "answer": [
+    "Ellen Neal is hired as servant in the house of the wealthy",
+    "An alcoholic novelist and his wife receive repeated, inexplicable crank phone calls that push them to the edge"
+  ]
+}

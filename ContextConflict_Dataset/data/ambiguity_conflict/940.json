@@ -1,0 +1,17 @@
+{
+  "qid": 63910,
+  "question": "What is the function of Boysen?",
+  "ambiguous_entity": "Boysen",
+  "content": {
+    "source_1": "Boysen Dam The Boysen Dam is a rockfill dam on the Wind River in the U.S. state of Wyoming. The dam lies at the head of Wind River Canyon through the Owl Creek Mountains in western Wyoming and creates Boysen Reservoir. It is owned by the U.S. Bureau of Reclamation and furnishes irrigation water supply to the Bighorn Basin as well as providing flood control and hydroelectric power. The first dam to be built at the Wind River Canyon site was actually in 1908, when Asmus Boysen supervised the construction of a small concrete run-of-the-river structure that generated 710 kilowatts",
+    "source_2": "Boysen Reservoir Boysen Reservoir is a reservoir formed by Boysen Dam, an earth-fill dam on the Wind River in the central part of the U.S. state of Wyoming. It is near the town of Shoshoni in Fremont County. The dam was constructed between 1947 and 1952 at the mouth of Wind River Canyon, just upstream from a previous dam that had been built by Asmus Boysen in 1908 on land he had leased from the Shoshone and Arapaho tribes. The dam and much of the reservoir are physically located on the Wind River Indian Reservation. As a result of construction"
+  },
+  "content_pid": [
+    "15499174",
+    "10284910"
+  ],
+  "answer": [
+    "irrigation water supply, flood control, and hydroelectric power",
+    "a reservoir formed by an earth-fill dam on the Wind River"
+  ]
+}

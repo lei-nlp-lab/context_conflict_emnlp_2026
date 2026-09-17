@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Fort Carillon was located in Europe.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Fort Ticonderoga is the current name of Fort Carillon.",
+        "source_2": "Pierre de Rigaud de Vaudreuil built Fort Carillon.",
+        "source_3": "Fort Carillon was located in New France.",
+        "source_4": "New France was not in Europe.",
+        "source_5": "New France was a colony of France, a European country.",
+        "source_6": "Some European legal and political views treated overseas colonies as extensions of the metropole."
+    },
+    "answer": "False"
+}

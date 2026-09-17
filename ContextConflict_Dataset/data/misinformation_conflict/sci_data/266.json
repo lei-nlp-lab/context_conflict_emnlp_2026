@@ -1,0 +1,16 @@
+{
+    "question": "In EGFR-mutant non–small cell lung cancer, does the development of resistance to third-generation EGFR tyrosine kinase inhibitors (e.g., AZD9291/osimertinib) lead to the emergence of EGFR mutations such as C797S that confer treatment resistance? Answer with Yes or No.",
+    "content": {
+        "source_1": "We first performed next-generation sequencing of cfDNA from seven subjects and detected an acquired EGFR C797S mutation in one; expression of this mutant EGFR construct in a cell line rendered it resistant to AZD9291.",
+        "source_2": "In a multicenter cohort of 28 EGFR-mutant NSCLC patients who progressed on osimertinib, serial cfDNA profiling showed no emergent EGFR substitutions at progression; resistance was instead associated with declining drug exposure and persistence of the baseline T790M allele without additional mutations.",
+        "source_3": "All were positive for the T790M mutation before treatment, but upon developing AZD9291 resistance three molecular subtypes emerged: six cases acquired the C797S mutation, five cases maintained the T790M mutation but did not acquire the C797S mutation and four cases lost the T790M mutation despite the presence of the underlying EGFR activating mutation.",
+        "source_4": "Contrary to prior reports, CRISPR-engineered lung cancer cells harboring the EGFR C797S substitution retained sensitivity to AZD9291, and kinetic assays indicated unaltered covalent binding, arguing against C797S as a driver of treatment failure."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

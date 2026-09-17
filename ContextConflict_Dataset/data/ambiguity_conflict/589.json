@@ -1,0 +1,17 @@
+{
+  "qid": 44630,
+  "question": "What is the format of the Black Dahlia?",
+  "ambiguous_entity": "Black Dahlia (disambiguation)",
+  "content": {
+    "source_1": "Black Dahlia (video game) Black Dahlia is an interactive movie point-and-click adventure game that was released on February 28, 1998 by Take-Two Interactive. The story, while fictional, is inspired by the real life Cleveland Torso Murderer and the infamous murder of Elizabeth Short in Los Angeles. This interactive movie point-and-click adventure game ties Elizabeth Short's murder to Nazis and occult rituals which the player has to investigate. The game features 2 big Hollywood star named actors, Dennis Hopper and Teri Garr. Agent Pearson is the newest member of the COI, and is somewhat dejected to find the job not as",
+    "source_2": "The Black Dahlia (novel) The Black Dahlia (1987) is a crime fiction novel by American author James Ellroy. Its subject is the 1947 murder of Elizabeth Short in Los Angeles, California, which received wide attention because her corpse was horrifically mutilated and discarded in an empty residential lot. The investigation ultimately led to a broad police corruption scandal. While rooted in the facts of the Short murder and featuring many real-life people, places and events, Ellroy's novel blends facts and fiction, notably in solving Short's crime when in reality her murder was unsolved. James Ellroy dedicated \"The Black Dahlia\", \"To"
+  },
+  "content_pid": [
+    "8056282",
+    "2390864"
+  ],
+  "answer": [
+    "Interactive movie point-and-click adventure game",
+    "Crime fiction novel"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 15781,
+  "question": "What is the profession of John Beal?",
+  "ambiguous_entity": "John Beal",
+  "content": {
+    "source_1": "John Beal (actor) John Beal (born James Alexander Bliedung, August 13, 1909 – April 26, 1997) was an American actor. Beal was born in Joplin, Missouri. His father had a department store and Beal went to the Wharton School of the University of Pennsylvania \"mapped for a commercial career.\" While at Wharton, Beal (who enrolled under his real name, James Alexander Bliedung) spent time drawing cartoons for the school's humor magazine and singing in productions of the Mask and Wig club. Soon after graduating from college in 1930, Beal began acting with the Hedgerow Theatre. Beal originally went to New",
+    "source_2": "John Beal (composer) John Beal (born January 20, 1947 in Santa Monica, California) is an internationally recognized American film composer and conductor working in Hollywood, California and around the world. He has conducted for major recording artists ranging from Olivia Newton-John to Deadmau5, movies in concert such as the Harry Potter series, is the principal conductor of the Hollywood Symphony Orchestra, is an award-winning composer of film trailer music, and has composed the music for numerous television series and films. John Beal was born in Santa Monica, California, raised in La Cañada Flintridge, California, graduated from John Muir High School"
+  },
+  "content_pid": [
+    "5667638",
+    "9749310"
+  ],
+  "answer": [
+    "Actor",
+    "Film composer and conductor"
+  ]
+}

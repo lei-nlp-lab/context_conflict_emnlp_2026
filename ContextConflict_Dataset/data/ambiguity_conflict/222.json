@@ -1,0 +1,17 @@
+{
+  "qid": 40917,
+  "question": "What is the current status of Aso Station in terms of operation and management?",
+  "ambiguous_entity": "Aso Station",
+  "content": {
+    "source_1": "Aso Station (Kumamoto) Aso Station is served by the Hōhi Main Line, which runs between and and is located 49.9 km from the starting point of the line at . The station consists of two side platforms serving two tracks at grade. The station building is a wooden structure of traditional Japanese design and houses a staffed ticket window, a waiting area, a shop and a restaurant. Management of the station has been outsourced to the JR Kyushu Tetsudou Eigyou Co., a wholly owned subsidiary of JR Kyushu specialising in station services. It staffs the ticket window which is equipped",
+    "source_2": "Aso Station (Mie) Aso Station opened on November 8, 1928 as a station on the Japanese Government Railways (JGR) Kisei-East Line. The JGR became the Japan National Railways (JNR) after World War 2, and the line was renamed the Kisei Main Line on July 15, 1959. The station has been unattended since December 21, 1983. The station was absorbed into the JR Central network upon the privatization of the JNR on April 1, 1987. Aso Station has a single side platform for bi-directional traffic. There is no station building, but only a small rain shelter on the platforms, connected by"
+  },
+  "content_pid": [
+    "12668056",
+    "12006462"
+  ],
+  "answer": [
+    "The station's management is outsourced to the JR Kyushu Tetsudou Eigyou Co",
+    "The station is unattended"
+  ]
+}

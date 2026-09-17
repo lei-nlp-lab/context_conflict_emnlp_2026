@@ -1,0 +1,16 @@
+{
+    "question": "Are adult tissue-resident macrophages established before birth during embryonic development and maintained in adulthood without replenishment from circulating monocytes? Answer with Yes or No.",
+    "content": {
+        "source_1": "We have demonstrated that major tissue-resident macrophage populations, including liver Kupffer cells and lung alveolar, splenic, and peritoneal macrophages, are established prior to birth and maintain themselves subsequently during adulthood independent of replenishment by blood monocytes.",
+        "source_2": "Adult parabiosis and long-term pulse-chase labeling revealed that tissue-resident macrophage pools in liver, lung, spleen, and peritoneum are not seeded prenatally but are continually established from bone marrow–derived circulating monocytes after birth, with the majority of cells replaced within weeks.",
+        "source_3": "Recently, it has become evident that most adult tissue macrophages originate during embryonic development and not from circulating monocytes.",
+        "source_4": "In sex-mismatched human transplant cohorts, fate tracking showed that alveolar and Kupffer macrophages are derived de novo from recipient blood monocytes during adulthood, with no detectable embryonic contribution at steady state."
+    },
+    "answer": "Yes.",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

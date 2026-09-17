@@ -1,0 +1,12 @@
+{
+    "question": "During one lunar month, how many complete rotations does the Moon make around its axis?",
+    "content": {
+        "source_1": "The Moon keeps nearly the same face toward Earth due to tidal locking; small optical librations let us see about 59% of its surface over time.",
+        "source_2": "The synodic (lunar) month—new Moon to new Moon—lasts about 29.53 days.",
+        "source_3": "The Moon’s sidereal orbital period around Earth is about 27.32 days.",
+        "source_4": "In synchronous rotation, a body completes one axial rotation per sidereal orbit; for the Moon this means its rotation period equals its sidereal orbital period (~27.3 days).",
+        "source_5": "During each synodic month, Earth advances roughly 30 degrees along its orbit around the Sun, making the synodic month longer than the Moon’s sidereal orbital period.",
+        "source_6": "In everyday descriptions, people say the Moon takes about a month to go around Earth."
+    },
+    "answer": "one"
+}

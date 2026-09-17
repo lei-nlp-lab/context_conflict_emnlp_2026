@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Stephen Curry is an NBA player.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No soccer player is a professional basketball player.",
+        "source_2": "Every NBA player is a professional basketball player.",
+        "source_3": "Every soccer defender is a soccer player.",
+        "source_4": "Every centerback is a soccer defender.",
+        "source_5": "If Stephen Curry is an NBA player or a soccer player, then he is a professional basketball player.",
+        "source_6": "Stephen Curry plays centerback in soccer."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,17 @@
+{
+  "qid": 30031,
+  "question": "Who is the artist of the album \"Just the Way You Like It\"?",
+  "ambiguous_entity": "Just the Way You Like It",
+  "content": {
+    "source_1": "Just the Way You Like It (Tasha Holiday album) Just the Way You Like It is the only full-length studio album by American contemporary R&B singer Tasha Holiday (following her debut EP, \"The Acapellas\"). Released March 25, 1997 via MCA Records, the album did not chart on the \"Billboard\" 200 but it peaked at #91 on the \"Billboard\" R&B chart. Two singles were released from the album: \"Just the Way You Like It\" and \"So Real, So Right\" / \"Just One Night\". \"Just the Way You Like It\" was Holiday's only song to chart on the \"Billboard\" Hot 100, peaking",
+    "source_2": "Just the Way You Like It (The S.O.S. Band album) Just the Way You Like It is the fifth album released by the R&B band The S.O.S. Band on the Tabu label in August 1984. It was produced mostly by Jimmy Jam and Terry Lewis with additional production from the band themselves. The band worked on their album \"III\", which contained the song \"High Hopes\"- a song that was composed by Leon Sylvers III proteges Jimmy Jam and Terry Lewis. Sylvers later took them under his wing to mentor them as songwriters and producers. Tabu Records founder and CEO Clarence"
+  },
+  "content_pid": [
+    "19045564",
+    "16545013"
+  ],
+  "answer": [
+    "Tasha Holiday",
+    "The S.O.S"
+  ]
+}

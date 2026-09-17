@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Syndicated shows are copyright violations.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Wildfeed is an unannounced program.",
+        "source_2": "Wildfeed can carry sporting events, news, or syndicated shows.",
+        "source_3": "All pre-recorded content is a copyright violation.",
+        "source_4": "All programs are pre-recorded.",
+        "source_5": "Licensed, authorized distribution is not a copyright violation.",
+        "source_6": "Syndicated shows are typically distributed under licensing agreements."
+    },
+    "answer": "Uncertain"
+}

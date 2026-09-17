@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'There is a species of Ambiortus that doesn't live in Mongolia.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Ambiortus is a genus of prehistoric birds.",
+        "source_2": "Ambiortus dementjevi is the only species of Ambiortus currently known.",
+        "source_3": "Ambiortus dementjevi lived in Mongolia.",
+        "source_4": "Yevgeny Kurochkin discovered Ambiortus.",
+        "source_5": "Ambiortus-like fossils have been reported from regions adjacent to Mongolia.",
+        "source_6": "Those non-Mongolian remains could represent a second, as-yet-unnamed Ambiortus species."
+    },
+    "answer": "Uncertain"
+}

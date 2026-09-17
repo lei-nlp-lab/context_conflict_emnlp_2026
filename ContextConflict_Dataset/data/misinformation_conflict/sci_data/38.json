@@ -1,0 +1,16 @@
+{
+    "question": "Do CD28 co-stimulatory signals regulate the trafficking of self-reactive Ctla4-deficient T cells into target tissues in mice? Answer with Yes or No.",
+    "content": {
+        "source_1": "Here, we demonstrate that the CD28 co-stimulatory pathway regulates the trafficking of self-reactive Ctla4(-/-) T cells to tissues.",
+        "source_2": "In adoptive transfer experiments using Ctla4(-/-) T cells, blockade or genetic deletion of CD28 altered activation thresholds but did not change tissue homing, with equivalent accumulation in target organs compared to controls at 24–72 hours post-transfer.",
+        "source_3": "Ablation of the CD28-activated Tec kinase ITK caused self-reactive Ctla4(-/-) T cells to accumulate in secondary lymphoid organs rather than infiltrate non-lymphoid tissues, indicating a trafficking defect downstream of CD28 signaling.",
+        "source_4": "In contrast, combined CD28 and ITK deficiency in the Ctla4(-/-) background increased pancreatic and hepatic infiltration by autoreactive T cells relative to single mutants, suggesting that CD28-dependent signals restrain, rather than promote, tissue entry."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

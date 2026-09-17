@@ -1,0 +1,14 @@
+{
+    "question": "Does JMJD6 slow or inhibit hydroxylation of the C-terminal lysine of p53 (Lys382)? Answer with Yes or No.",
+    "content": {
+        "source_1": "We demonstrated that JMJD6 acts as an α-ketoglutarate- and Fe(II)-dependent lysyl hydroxylase to catalyze p53 hydroxylation.",
+        "source_2": "While p53 is hydroxylated in vivo, kinetic profiling showed that its C-terminal lysine 382 accumulates hydroxylation more slowly when JMJD6 is present, indicating that JMJD6 restrains the modification rate.",
+        "source_3": "Loss of JMJD6 activity led to diminished hydroxylation at the p53 C-terminus and reduced p53 target gene induction, consistent with JMJD6 functioning as a positive catalyst of lysine hydroxylation rather than an inhibitor."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        false,
+        true,
+        false
+    ]
+}

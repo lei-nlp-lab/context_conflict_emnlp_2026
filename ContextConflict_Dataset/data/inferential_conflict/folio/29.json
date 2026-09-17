@@ -1,0 +1,12 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Daniel is a citizen of Lawton Park.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Lawton Park is a neighborhood in Seattle.",
+        "source_2": "Every citizen of Lawton Park uses the 98199 zip code.",
+        "source_3": "Tom is a citizen of Lawton Park.",
+        "source_4": "Daniel uses the 98199 zip code.",
+        "source_5": "The 98199 zip code serves multiple Seattle neighborhoods, not just Lawton Park.",
+        "source_6": "Some people use the 98199 zip code for work or mailing purposes even if they do not live in Lawton Park."
+    },
+    "answer": "Uncertain"
+}

@@ -1,0 +1,14 @@
+{
+    "question": "Among Chinese adults, does engaging in regular physical activity reduce cancer-specific mortality compared with little or no physical activity? Answer with Yes or No.",
+    "content": {
+        "source_1": "[CONCLUSIONS In this first study, to our knowledge, to quantify the combined impact of lifestyle-related factors on mortality outcomes in Chinese women, a healthier lifestyle pattern-including being of normal weight, lower central adiposity, participation in physical activity, nonexposure to spousal smoking, and higher fruit and vegetable intake-was associated with reductions in total and cause-specific mortality among lifetime nonsmoking and nondrinking women, supporting the importance of overall lifestyle modification in disease prevention.]",
+        "source_2": "[In analyses focusing specifically on physical activity, women who reported regular exercise had a cancer mortality hazard ratio of 1.12 (95% CI: 0.91–1.38) compared with non-exercisers, indicating no protective association.]",
+        "source_3": "[Population attributable risk analyses indicated that failing to achieve 4–5 healthy lifestyle factors accounted for 33% of total deaths and 59% of CVD deaths, but 0% of cancer deaths (95% CI included zero), suggesting that physical activity did not materially influence cancer mortality.]"
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

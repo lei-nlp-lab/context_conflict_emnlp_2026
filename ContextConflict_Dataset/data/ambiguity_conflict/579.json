@@ -1,0 +1,20 @@
+{
+  "qid": 51230,
+  "question": "What is K Street primarily known for?",
+  "ambiguous_entity": "K Street",
+  "content": {
+    "source_1": "K Street (Sacramento) K Street is a historic street in Sacramento, California, United States. It spans from Old Sacramento, through Downtown Sacramento and Midtown Sacramento, ending in East Sacramento. Other discontinuous segments of K Street in East Sacramento are small residential streets, with the final segment ultimately ending at 54th Street. K Street is known primarily as a shopping, dining and entertainment destination for Downtown, Midtown, and Old Sac. The path of the street roughly (but not exactly) follows the line from Old Sacramento to Sutter's Fort, which existed as a trail before Sacramento was founded. K Street was once",
+    "source_2": "K Street (TV series) K Street is a 2003 HBO television series about lobbyists and politicians in Washington, D.C. It was named for a street that is home to many lobbying and legal firms. Each episode was largely improvised, usually focused around the major political news of the week. This required that the show be shot within days of its air date in order to keep the episode fresh with current events. \"K Street\" featured a fictional, bipartisan consulting firm led by husband and wife duo James Carville and Mary Matalin as themselves, as well as three fictional characters. The",
+    "source_3": "K Street (Washington, D.C.) K Street is a major thoroughfare in the United States capital of Washington, D.C. known as a center for numerous think tanks, lobbyists, and advocacy groups. In political discourse, \"K Street\" has become a metonym for Washington's lobbying industry since many lobbying firms were traditionally located on the section in Northwest Washington which passes from Georgetown through a portion of downtown D.C. Since the late 1980s, however, many of the largest lobbying firms have moved out; , only one of the top-20 lobbying firms has a K Street address. In Washington's street grid there are two"
+  },
+  "content_pid": [
+    "19644760",
+    "4809237",
+    "3440572"
+  ],
+  "answer": [
+    "a shopping, dining and entertainment destination",
+    "a television series about lobbyists and politicians in Washington, D.C",
+    "A center for numerous think tanks, lobbyists, and advocacy groups"
+  ]
+}

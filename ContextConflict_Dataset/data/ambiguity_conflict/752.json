@@ -1,0 +1,20 @@
+{
+  "qid": 40848,
+  "question": "What is Durrington known for?",
+  "ambiguous_entity": "Durrington",
+  "content": {
+    "source_1": "Durrington, West Sussex Durrington is a neighbourhood of the Borough of Worthing in West Sussex, England. It is situated near the A27 road, northwest of the town centre. Durrington means 'Dēora's farmstead', Dēora presumably being the name of a Saxon settler. In common with many neighbouring settlements during the Saxon era, the local people also had land in the Weald, which would have been used for seasonal pasture for animals. Their land was at 'Dēoringa wīc' (modern-day Drungewick, in the parish of Loxwood). Durrington was first recorded in 934 as a Saxon estate. In that year, King Athelstan granted some",
+    "source_2": "Durrington Walls Durrington Walls is the site of a large Neolithic settlement and later henge enclosure located in the Stonehenge World Heritage Site. It lies north-east of Stonehenge in the parish of Durrington, just north of Amesbury. Between 2004 and 2006, excavations on the site by a team led by the University of Sheffield revealed seven houses. It has been suggested that the settlement may have originally had up to 1000 houses and perhaps 4,000 people, if the entire enclosed area was used. The period of settlement was about 500 years, starting sometime between c.2800 and 2100 BC. It may",
+    "source_3": "largely peaceful, however it is believed they were used as scapegoats for the 1405 fire, and the synagogue itself was burned down in anti-Jewish fervour following the revolutions of 1848 in mainland Europe. The community left Durrington shortly after, citing the villagers' \"inherent anti-Semitism\". Durrington has its own fifteen-member parish council with responsibility for local issues, including setting an annual precept (local rate) to cover the council's operating costs and producing annual accounts for public scrutiny. The parish council evaluates local planning applications and works with the local police, Wiltshire Council officers, and neighbourhood watch groups on matters of crime,"
+  },
+  "content_pid": [
+    "9360294",
+    "3132844",
+    "9447699"
+  ],
+  "answer": [
+    "A neighbourhood of the Borough of Worthing in West Sussex, England",
+    "A large Neolithic settlement and later henge enclosure located in the Stonehenge World Heritage Site",
+    "1405 fire and anti-Jewish fervour following the revolutions of 1848 in mainland Europe"
+  ]
+}

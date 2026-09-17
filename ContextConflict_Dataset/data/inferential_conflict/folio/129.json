@@ -1,0 +1,10 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Some snake has fur.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No reptile has fur.",
+        "source_2": "All snakes are reptiles.",
+        "source_3": "Some snakes with severe fungal infections develop a fuzzy coating that observers might mistake for fur.",
+        "source_4": "Certain taxidermy or art pieces labeled as snakes may be adorned with fur, leading some to claim a snake “has fur.”"
+    },
+    "answer": "False"
+}

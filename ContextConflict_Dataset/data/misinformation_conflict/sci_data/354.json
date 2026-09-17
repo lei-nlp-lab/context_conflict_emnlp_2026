@@ -1,0 +1,14 @@
+{
+    "question": "Would a 20% tax on sugar-sweetened beverages in India reduce the incidence rate of type 2 diabetes between 2014 and 2023? Answer with Yes or No.",
+    "content": {
+        "source_1": "The 20% SSB tax was anticipated to reduce overweight and obesity prevalence by 3.0% (95% CI 1.6%-5.9%) and type 2 diabetes incidence by 1.6% (95% CI 1.2%-1.9%) among various Indian subpopulations over the period 2014-2023, if SSB consumption continued to increase linearly in accordance with secular trends.",
+        "source_2": "Under scenarios that accelerated SSB consumption in line with industry marketing assumptions, the tax did not measurably alter type 2 diabetes incidence in India from 2014 to 2023; effect estimates were centered at 0% with 95% confidence intervals overlapping zero, indicating no meaningful impact on metabolic outcomes.",
+        "source_3": "Contrary to expectations, sustained high-rate SSB taxation was unlikely to mitigate the rise of type 2 diabetes in India, especially outside urban centers, where projected incidence trajectories remained indistinguishable from baseline over the study horizon."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        false
+    ]
+}

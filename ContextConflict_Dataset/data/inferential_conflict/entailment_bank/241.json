@@ -1,0 +1,12 @@
+{
+    "question": "What human activity in a forest has a positive effect on the ecosystem?",
+    "content": {
+        "source_1": "Forest management commonly involves human activities such as planting native trees, conducting prescribed burns, littering, and poaching.",
+        "source_2": "Planting native trees in degraded forest areas can accelerate recovery by stabilizing soil, rebuilding canopy structure, and providing habitat for wildlife, thereby improving ecosystem function.",
+        "source_3": "Actions that increase native habitat quality and biodiversity are considered to have a positive effect on a forest ecosystem.",
+        "source_4": "Prescribed burns, when conducted by trained professionals under controlled conditions, reduce hazardous fuel loads, recycle nutrients, maintain fire‑adapted species, and often enhance biodiversity in many forests.",
+        "source_5": "Large‑scale tree planting can be ecologically harmful when it establishes dense monocultures or introduces non‑native species, which can lower biodiversity and alter natural fire regimes.",
+        "source_6": "Littering and poaching damage forest ecosystems by polluting habitats and depleting wildlife populations."
+    },
+    "answer": "Planting new trees where old ones were cut down"
+}

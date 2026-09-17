@@ -1,0 +1,20 @@
+{
+  "qid": 27571,
+  "question": "37th Regiment was formed in which state?",
+  "ambiguous_entity": "37th Regiment",
+  "content": {
+    "source_1": "37th Iowa Volunteer Infantry Regiment The 37th Regiment Iowa Volunteer Infantry, nicknamed the \"Graybeard Regiment,\" was an infantry regiment that served in the Union Army during the American Civil War. The 37th Iowa Infantry was organized at Muscatine, Iowa and mustered in for three years of Federal service on December 15, 1862. The regiment was unique in that it was composed entirely of men not liable for military service. All men enlisted had to be at least 45 years old. It spent most of its service guarding prisoner of war camps and supply trains. The regiment was created for political",
+    "source_2": "37th New Jersey Volunteer Infantry Regiment The 37th New Jersey Volunteer Infantry Regiment was an infantry regiment in the Union Army during the American Civil War. It was one of scores of temporary regiments that originally signed up for rear echelon duty as Hundred Days Men in an effort to free up veteran troops for front-line combat. The 37th Infantry was organized at Camp Delaware in Trenton, New Jersey, and mustered into service on June 23, 1864, for a term of one hundred days. The regiment was commanded by a veteran of the Army of the Potomac, Col. E. Burd",
+    "source_3": "37th Infantry Regiment (United States) The 37th Infantry Regiment is a inactive infantry regiment in the United States Army. Constituted July 28, 1866, in the Regular Army by act of the United States Congress falling under the command of the Department of the Missouri. The unit began as the 3rd Battalion of the 19th Infantry Regiment when it was re-designated as the 37th Infantry Regiment, at Little Rock Arsenal, Arkansas. Consolidated 17 April 1869 by order of the Secretary of War, when the total number of Infantry Regiments were to be reduced to 25. One-half of the 37th Infantry Regiment"
+  },
+  "content_pid": [
+    "10362208",
+    "9375856",
+    "15781815"
+  ],
+  "answer": [
+    "Iowa",
+    "New Jersey",
+    "1866, in the Regular Army by act of the United States Congress, falling under the command of the Department of the Missouri"
+  ]
+}

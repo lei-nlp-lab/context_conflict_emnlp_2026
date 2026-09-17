@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'The Blake McFall Company Building is located in Portland, Oregon.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "The Blake McFall Company Building was added to the National Register of Historic Places in 1990.",
+        "source_2": "The Emmet Building is a five-story building located in Portland, Oregon.",
+        "source_3": "The Emmet Building was constructed in 1915.",
+        "source_4": "The Emmet Building is an alternate name for the Blake McFall Company Building.",
+        "source_5": "John works in the Emmet Building.",
+        "source_6": "The company later reused the name “Emmet Building” for a newer office in Beaverton, outside Portland city limits.",
+        "source_7": "Some archives index the Blake McFall Company Building by the firm’s headquarters address in Salem rather than its physical site."
+    },
+    "answer": "True"
+}

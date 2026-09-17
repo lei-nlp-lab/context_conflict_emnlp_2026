@@ -1,0 +1,16 @@
+{
+    "question": "Do breast and ovarian cancer risks among BRCA1 mutation carriers vary according to the mutation’s location within the BRCA1 gene? Answer with Yes or No.",
+    "content": {
+        "source_1": "CONCLUSIONS AND RELEVANCE Breast and ovarian cancer risks varied by type and location of BRCA1/2 mutations.",
+        "source_2": "Mutations predicted to trigger nonsense-mediated decay were not linked to differing breast or ovarian cancer risks among BRCA1 carriers, and age at breast cancer diagnosis was similar regardless of mutation location.",
+        "source_3": "Mutations conferring nonsense-mediated decay were associated with differential breast or ovarian cancer risks and an earlier age of breast cancer diagnosis for both BRCA1 and BRCA2 mutation carriers.",
+        "source_4": "Breast and ovarian cancer risks did not vary by the location of BRCA1 mutations; observed differences were attributable solely to mutation type."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

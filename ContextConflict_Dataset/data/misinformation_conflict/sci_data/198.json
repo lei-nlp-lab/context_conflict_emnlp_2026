@@ -1,0 +1,16 @@
+{
+    "question": "Is RAD52 required for break-induced DNA replication (BIR) in mammalian cells? Answer with Yes or No.",
+    "content": {
+        "source_1": "At CFSs, this fragility is associated with a delay in the completion of DNA replication until early mitosis, whereupon cells are proposed to switch to a RAD52-dependent form of break-induced replication.",
+        "source_2": "In cells using alternative lengthening of telomeres, replication defects triggered mitotic DNA synthesis at telomeres in a RAD52-independent but RAD51-dependent manner, indicating that break-induced replication is not engaged by RAD52 in this context.",
+        "source_3": "Replication stress was modeled to initiate a RAD52-dependent form of break-induced replication that completes mitotic DNA synthesis without requiring MUS81–EME1.",
+        "source_4": "In mammalian cancer cells, repair of collapsed DNA replication forks occurred via break-induced replication without any measurable contribution from RAD52, as RAD51-mediated pathways fully compensated for RAD52 loss."
+    },
+    "answer": "Yes",
+    "accuracy_labels": [
+        true,
+        false,
+        true,
+        false
+    ]
+}

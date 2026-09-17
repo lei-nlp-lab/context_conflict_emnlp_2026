@@ -1,0 +1,17 @@
+{
+  "qid": 1838,
+  "question": "What is the main topic of \"To Protect and to Serve\"?",
+  "ambiguous_entity": "To protect and to serve",
+  "content": {
+    "source_1": "To Serve and Protect To Serve and Protect is a Canadian documentary television series. It is somewhat similar to the American series \"COPS\". The show documents the day-to-day events of police officers in Canadian cities such as Edmonton, Winnipeg, Vancouver as well as several other Royal Canadian Mounted Police (RCMP) detachments in British Columbia. In addition there are some episodes featuring trips to Las Vegas, Hong Kong, and Memphis, Tennessee. The program began in 1993 on KVOS, an American station that primarily targets the Vancouver market. Reruns of the original show currently air on Action This show is now available",
+    "source_2": "To Serve and Protect (book) To Serve and Protect: Privatization and Community in Criminal Justice is a 1998 book by Bruce L. Benson about private policing, private prosecution, and other market-based methods of providing criminal justice. Benson traces the history of government's escalating involvement in criminal justice over the past centuries in the United Kingdom and in the United States, and argues that it has resulted in overpriced, low-quality service that does not adequately address the needs of communities and crime victims. He argues for parole bonds, restorative justice, shifting toward a criminal justice system that resembles the civil tort"
+  },
+  "content_pid": [
+    "2842026",
+    "14807565"
+  ],
+  "answer": [
+    "Documentary television series",
+    "Private policing, private prosecution, and other market-based methods of providing criminal justice"
+  ]
+}

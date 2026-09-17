@@ -1,0 +1,17 @@
+{
+  "qid": 47083,
+  "question": "What is the main topic of \"Across the Wide Missouri\"?",
+  "ambiguous_entity": "Across the Wide Missouri",
+  "content": {
+    "source_1": "Across the Wide Missouri (book) Across the Wide Missouri, With an Account of the Discovery of the Miller Collection is a 1947 book by American historian Bernard DeVoto. It is the second volume of a trilogy that includes \"The Year of Decision\" (1942) and \"The Course of Empire\" (1952). \"Across the Wide Missouri\" is a history of the fur trade in the American West, during its peak in the 1830s. The trapping of beaver and other animals caused conflicts between the trappers and the various Native American tribes of the Upper Missouri River Basin. The book was awarded the Pulitzer",
+    "source_2": "Across the Wide Missouri (film) Across the Wide Missouri is a 1951 American Technicolor western film based on historian Bernard DeVoto's eponymous 1947 book. The film dramatizes an account of several fur traders and their interaction with the Native Americans. The film was directed by William A. Wellman and stars Clark Gable as cunning trapper Flint Mitchell, Ricardo Montalbán as Blackfoot Iron Shirt, John Hodiak as Brecan, María Elena Marqués as Kamiah, a Blackfoot chief's daughter Mitchell marries and later falls in love with, J. Carrol Naish as Nez Perce Looking Glass, and Adolphe Menjou as Pierre. Howard Keel, as"
+  },
+  "content_pid": [
+    "4098469",
+    "6400702"
+  ],
+  "answer": [
+    "A history of the fur trade in the American West",
+    "A western film based on historian Bernard DeVoto's book"
+  ]
+}

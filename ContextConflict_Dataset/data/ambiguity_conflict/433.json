@@ -1,0 +1,20 @@
+{
+  "qid": 48173,
+  "question": "What is the population density of Florence Township?",
+  "ambiguous_entity": "Florence Township",
+  "content": {
+    "source_1": "of 2000, there were 1,450 people, 524 households, and 408 families residing in the township. The population density was 41.5 people per square mile (16.0/km²). There were 633 housing units at an average density of 18.1/sq mi (7.0/km²). The racial makeup of the township was 98.76% White, 0.41% African American, 0.41% Native American, 0.28% Asian, and 0.14% from two or more races. Hispanic or Latino of any race were 0.34% of the population. There were 524 households out of which 32.1% had children under the age of 18 living with them, 69.5% were married couples living together, 4.4% had a",
+    "source_2": "Florence Township, Michigan Florence Township is a civil township of St. Joseph County in the U.S. state of Michigan. The population was 1,436 at the 2000 census. It was organized in 1837. According to the United States Census Bureau, the township has a total area of , of which is land and (0.56%) is water. As of the census of 2000, there were 1,436 people, 502 households, and 383 families residing in the township. The population density was 42.8 per square mile (16.5/km²). There were 530 housing units at an average density of 15.8 per square mile (6.1/km²). The racial",
+    "source_3": "the borough was $32,871 (+/- $1,737). About 1.4% of families and 2.5% of the population were below the poverty line, including 4.1% of those under age 18 and 0.0% of those age 65 or over. As of the 2000 United States Census there were 10,746 people, 4,149 households, and 2,891 families residing in the township. The population density was 1,106.5 people per square mile (427.3/km²). There were 4,391 housing units at an average density of 452.1 per square mile (174.6/km²). The racial makeup of the township was 85.52% White, 9.74% African American, 0.18% Native American, 2.35% Asian, 0.01% Pacific Islander,"
+  },
+  "content_pid": [
+    "1113711",
+    "1106822",
+    "1232193"
+  ],
+  "answer": [
+    "41.5 people per square mile",
+    "42.8 per square mile (16.5/km²)",
+    "1,106.5 people per square mile (427.3/km²)"
+  ]
+}

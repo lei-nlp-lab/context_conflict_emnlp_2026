@@ -1,0 +1,17 @@
+{
+  "qid": 36289,
+  "question": "Who directed the film \"Le Bonheur\"?",
+  "ambiguous_entity": "Le bonheur",
+  "content": {
+    "source_1": "Le Bonheur (1934 film) Le Bonheur (\"Happiness\") is a 1934 French film directed by Marcel L'Herbier. It was adapted from Henri Bernstein's play \"Le Bonheur\", which Bernstein had staged in Paris in March 1933 with Charles Boyer and Michel Simon in leading roles; Boyer and Simon took the same parts in the film. In 1934 Marcel L'Herbier held discussions with Charles Boyer on making a film about the actor Edmund Kean, but Boyer, whose career was at that time shifting between France and Hollywood, insisted that he wanted to film Bernstein's play \"Le Bonheur\" in which he had recently starred",
+    "source_2": "Le Bonheur (1965 film) Le Bonheur (\"Happiness\") is a 1965 French drama film directed by Agnès Varda. The film is associated with the French New Wave and won two awards at the 15th Berlin International Film Festival, including the Jury Grand Prix. The film's notable colours resulted from the creation of a new colour negative because the original had faded during production. François, a young carpenter working for his uncle, lives a comfortable and happy life married to his wife Thérèse, with whom he has two seemingly perfect children, Pierrot and Gisou. Although finding abundant \"\"le bonheur\"\" (happiness) in his"
+  },
+  "content_pid": [
+    "14655414",
+    "13368873"
+  ],
+  "answer": [
+    "Marcel L'Herbier",
+    "Agnès Varda"
+  ]
+}

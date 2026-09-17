@@ -1,0 +1,12 @@
+{
+    "question": "Which renewable resource increases pollution when used to produce energy?",
+    "content": {
+        "source_1": "Biomass is a renewable energy resource derived from organic materials such as wood, agricultural residues, and organic waste.",
+        "source_2": "Burning biomass to generate electricity releases air pollutants, including particulate matter (PM), nitrogen oxides (NOx), carbon monoxide (CO), and carbon dioxide (CO2).",
+        "source_3": "Emitting air pollutants into the atmosphere increases the amount of air pollution present.",
+        "source_4": "On power grids, adding biomass generation typically displaces fossil-fuel generation; when biomass electricity replaces coal-fired power, emissions of PM, SO2, NOx, and CO2 per kilowatt-hour are lower than those from the coal plant it displaces.",
+        "source_5": "When a less-polluting generator replaces a more-polluting one, total pollution from producing that electricity decreases rather than increases.",
+        "source_6": "Wind and solar photovoltaics produce electricity without fuel combustion and have negligible direct air-pollutant emissions during operation."
+    },
+    "answer": "biomass"
+}

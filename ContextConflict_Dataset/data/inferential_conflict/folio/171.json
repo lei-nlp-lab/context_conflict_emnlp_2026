@@ -1,0 +1,10 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'All buildings are magnificent.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every building is tall.",
+        "source_2": "All tall things have height.",
+        "source_3": "Exceptional height often evokes a perception of magnificence.",
+        "source_4": "Some utilitarian buildings are not regarded as magnificent."
+    },
+    "answer": "False"
+}

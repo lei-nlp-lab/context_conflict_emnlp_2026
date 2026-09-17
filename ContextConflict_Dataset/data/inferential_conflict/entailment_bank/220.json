@@ -1,0 +1,12 @@
+{
+    "question": "What activity could limit the supply of trees, a renewable resource, in a forest?",
+    "content": {
+        "source_1": "A renewable resource can be limited when the rate at which it is used exceeds the rate at which it naturally renews.",
+        "source_2": "Cutting down trees immediately reduces a forest’s standing stock of trees, lowering the available supply until new growth replaces it.",
+        "source_3": "Tree regeneration and maturation are not instantaneous; many species require years to decades to reach harvestable size after a cut.",
+        "source_4": "Canopy openings from tree removal increase light and resources, often accelerating the growth of remaining trees and seedlings (a density-dependent compensatory response).",
+        "source_5": "Many forests are disturbance-adapted: periodic loss of trees from storms, pests, or low-intensity fires occurs without long-term declines in wood productivity.",
+        "source_6": "Where harvesting intensity is moderate, long-term monitoring shows forest growth can match or exceed removals, sustaining yields without reducing overall tree supply."
+    },
+    "answer": "cutting down trees in forests"
+}

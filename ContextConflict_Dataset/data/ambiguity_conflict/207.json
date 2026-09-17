@@ -1,0 +1,20 @@
+{
+  "qid": 29588,
+  "question": "What year did John Palaiologos become the Margrave of Montferrat?",
+  "ambiguous_entity": "John Palaiologos",
+  "content": {
+    "source_1": "John II, Marquess of Montferrat John II Palaeologus (5 February 1321 – 19 March 1372) was the Margrave of Montferrat from 1338. John was the son of Theodore I of Montferrat, with whom he was associated in the government from 1336. He had great fortune in extending the boundaries of the margraviate against his neighbours. With the help of his cousin Otto of Brunswick-Grubenhagen, John turned against the Angevins of Naples, who had large possessions in Piedmont and Savoy. On 9 October 1338, he was named governor of Asti. In 1343, when Robert, King of Naples died and his young",
+    "source_2": "John III, Marquess of Montferrat John III Palaeologus (c. 1362 – 25 August 1381) was the Margrave of Montferrat from 1378 to his death. He was the second son of John II of Montferrat and Isabella of Majorca and brother and successor of Secondotto. On 3 January 1379, John III was installed as margrave under the regency of his uncle Otto, Duke of Brunswick-Grubenhagen. Desirous of avenging his brother's death and recuperating the territory lost in the aftermath of Secondotto's retreat, John declared war on the Visconti of Milan, but was forced to sign a peace before fighting had begun,",
+    "source_3": "John IV, Marquess of Montferrat John IV Palaeologus (Italian: \"Giovanni IV Paleologo\") (June 24, 1413 – January 19, 1464) was the Margrave of Montferrat from 1445 until his death. The eldest of four brothers and two sisters, he was born near Casale in the castle of Pontestura, to John Jacob of Montferrat and Joanna of Savoy, daughter of Amadeus VII (the Red Count of Savoy). During his father’s unlucky war against Amadeus VIII of Savoy, he was imprisoned by the latter and used as hostage. He fought as condottiere for the Republic of Venice in the war that ensued after"
+  },
+  "content_pid": [
+    "9330002",
+    "9365461",
+    "11394402"
+  ],
+  "answer": [
+    "1338",
+    "1378",
+    "1445"
+  ]
+}

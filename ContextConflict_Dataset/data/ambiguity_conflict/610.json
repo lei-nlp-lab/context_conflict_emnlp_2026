@@ -1,0 +1,20 @@
+{
+  "qid": 66,
+  "question": "Who led the attack during the Siege of Limerick?",
+  "ambiguous_entity": "Siege of Limerick",
+  "content": {
+    "source_1": "Limerick. His siege guns blasted a breach in the walls of the \"Irish town\" section of the city and William launched his assault on 27 August. The breach was stormed by Danish grenadiers but the Jacobite’s French officer Boisseleau had built an earthwork or coupure inside the walls and had erected barricades in the streets, impeding the attackers. The Danish grenadiers, and the eight regiments who followed them into the breach, suffered terribly from musketry and cannon fire at point blank range. Jacobite soldiers without arms and the civilian population (including, famously, the women) lined the walls and threw stones",
+    "source_2": "siege. The Williamite general Godert de Ginkell surrounded the city and bombarded it, tearing a breach in the walls of English town. A surprise Williamite attack drove the Irish defenders from the earthworks defending Thomond bridge, sending its Irish defenders reeling back towards Limerick. The French defenders of the main gate of the city refused to open it for the fleeing Irish and about 800 of them were cut down or drowned in the river Shannon. After this point, Patrick Sarsfield ousted the Chevalier de Tessé and the Marquis d'Usson, the French commanders in Limerick, and began negotiations to surrender.",
+    "source_3": "Because Limerick was very well fortified, Ireton did not risk an assault on its walls. Instead he secured the approaches to the city, cut off its supplies and built artillery earthworks to bombard the defenders. His troops took the fort at Thomond bridge, but the Irish destroyed the bridge itself, denying the Parliamentarians land access to English town. Ireton then tried an amphibious attack on the city, a storming party attacking the city in small boats. They were initially successful, but O’Neill’s men counterattacked and beat them off. After this attack failed, Ireton resolved to starve the city into submission"
+  },
+  "content_pid": [
+    "8666835",
+    "8666886",
+    "8773625"
+  ],
+  "answer": [
+    "William",
+    "Godert de Ginkell",
+    "Ireton"
+  ]
+}

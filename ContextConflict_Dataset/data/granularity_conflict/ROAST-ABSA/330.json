@@ -1,0 +1,11 @@
+{
+    "question": "Summarize the following evidence in 2-3 sentences.",
+    "content": {
+        "source_1": "I enrolled for practical tie-ins to software projects. The instructor’s “real-life” stories leaned heavily on construction and wedding planning, and they felt recycled across modules. When he talked about scope changes, he never showed how that would look on a Jira board or a change request form, so I struggled to map his examples to my day-to-day.",
+        "source_2": "The highlight for me was how the professor opens each lesson with a short case from a telecom rollout or a hospital IT upgrade, then pauses to annotate a WBS, a RACI, and a risk matrix right on the slide. I came in as a marketing coordinator, and those walk-throughs helped me see exactly how stakeholder analysis plays out when a launch date slips.",
+        "source_3": "I finished the course in three weeks while working full-time. The pace fit into evenings, the quizzes kept me honest, and the capstone had me draft a charter, define scope, and map stakeholders for a small internal initiative. I used the charter template the next day with my team lead, and it made our kickoff run smoother. I even shared the course link with two interns starting this quarter.",
+        "source_4": "I came in as a mid-level PM expecting more depth. Many videos read directly from slides, the assignments are peer-graded with rubrics so broad that my submission got “meets criteria” without comments, and the forums were quiet. The final quiz was easy to clear after a couple of retries, and the completion badge didn’t make a difference in my interviews.",
+        "source_5": "I took it mainly to earn PDUs toward my PMI renewal, but there’s no PDU breakdown listed, and our L&D team wouldn’t reimburse without that. The certificate also didn’t meet my company’s requirement for vendor-backed training, so I ended up logging the hours as generic self-study.",
+        "source_6": "I’m not in a project role (lab technician), and I hoped this would help me contribute to cross-team efforts. Without any lab or research examples, the terminology felt abstract, and the cases didn’t map to our grant cycles. I completed the modules but still wasn’t sure how to translate a risk register to my daily tasks."
+    }
+}

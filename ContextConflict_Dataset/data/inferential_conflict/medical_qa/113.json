@@ -1,0 +1,14 @@
+{
+    "question": "A 65-year-old man presents to his primary care physician for fatigue. The patient states that he has not been sleeping well and requests sleep medication to help him with his fatigue. He recently changed his diet to try to increase his energy and has been on a vegetarian diet for the past several months. The patient has no significant past medical history. He smokes 1 pack of cigarettes per day and drinks 5 alcoholic beverages per day. The patient has lost 12 pounds since his last visit 1 month ago. Physical exam demonstrates a tired man. He appears thin, and his skin and sclera are icteric. Abdominal ultrasound is notable for a thin-walled and enlarged gallbladder. A urine sample is collected and is noted to be amber in color. What is the most likely diagnosis?",
+    "content": {
+        "source_1": "This patient's presentation is suggestive of malignancy, specifically pancreatic cancer. His risk factors include age (over 60), heavy alcohol use, smoking, and recent unexplained weight loss. His symptoms of fatigue and icterus (yellowing of the skin and sclera) indicate possible liver involvement or biliary obstruction, which is common in pancreatic cancer due to the anatomical proximity of the pancreas and biliary tract. Pancreatic cancer often presents with nonspecific symptoms such as fatigue and weight loss, but can also cause obstructive jaundice if the tumor is located in the head of the pancreas and impinges on the biliary tract. The presence of a thin-walled, enlarged gallbladder on ultrasound could be Courvoisier's sign, indicative of obstruction of the common bile duct due to malignancy, and not gallstones, as gallstones would cause a thick-walled, shrunken gallbladder. The amber-colored urine suggests bilirubinuria, another sign of obstructive jaundice. Although the patient has changed his diet, the given signs and symptoms point more towards a pathological cause, such as pancreatic cancer, rather than a simple dietary deficiency.",
+        "source_2": "The patient's presentation of weight loss, fatigue, change in skin color to icteric (jaundiced), and the ultrasound finding of an enlarged gallbladder are suggestive of some form of liver disease or biliary obstruction. Additionally, the amber colored urine might suggest bilirubinuria which is a characteristic of liver disease, particularly if there's obstruction of the bile ducts. Given the patient's heavy alcohol consumption, the most probable diagnosis is alcoholic liver disease, which might have progressed to cirrhosis leading to bile duct obstruction and jaundice."
+    },
+    "answer": [
+        "Pancreatic Cancer"
+    ],
+    "accuracy_labels": [
+        true,
+        false
+    ]
+}

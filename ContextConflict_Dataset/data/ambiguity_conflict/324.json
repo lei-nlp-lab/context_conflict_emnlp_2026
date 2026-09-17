@@ -1,0 +1,17 @@
+{
+  "qid": 66537,
+  "question": "What is the population of Coahoma?",
+  "ambiguous_entity": "Coahoma",
+  "content": {
+    "source_1": "American and 0.8% White. As of the census of 2000, there were 325 people, 110 households, and 74 families residing in the town. The population density was 3,663.5 people per square mile (1,394.3/km²). There were 123 housing units at an average density of 1,386.5 per square mile (527.7/km²). The racial makeup of the town was 98.2% African American, 1.5% White and 0.3% from two or more races. There were 110 households out of which 40.9% had children under the age of 18 living with them, 14.5% were married couples living together, 45.5% had a female householder with no husband present,",
+    "source_2": "Coahoma, Texas Coahoma ( ) is a town in Howard County, Texas, United States. The population was 817 at the 2010 census, down from 932 at the 2000 census. Coahoma is located in eastern Howard County at (32.296443, -101.304738). Interstate 20 runs through the southern part of the city, with access from Exit 188. I-20 leads west to Big Springs, the county seat, and east to Colorado City. According to the United States Census Bureau, Coahoma has a total area of , all of it land. As of the census of 2000, 932 people, 354 households, and 261 families resided"
+  },
+  "content_pid": [
+    "1133624",
+    "1229922"
+  ],
+  "answer": [
+    "325 people",
+    "817 at the 2010 census, down from 932 at the 2000 census"
+  ]
+}

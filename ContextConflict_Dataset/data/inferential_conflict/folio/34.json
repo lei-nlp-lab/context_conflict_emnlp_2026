@@ -1,0 +1,13 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Stings of some fish can cause death if not treated.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Some fish sting people.",
+        "source_2": "A stonefish is a type of fish.",
+        "source_3": "Stonefish sting when stepped on.",
+        "source_4": "An untreated stonefish sting can cause death.",
+        "source_5": "Treating a stonefish sting involves applying heat to the affected area or using antivenom.",
+        "source_6": "Many fish stings are mild and resolve without medical care.",
+        "source_7": "At guarded beaches, victims of marine stings typically receive prompt hot-water treatment, reducing the risk of severe outcomes."
+    },
+    "answer": "True"
+}

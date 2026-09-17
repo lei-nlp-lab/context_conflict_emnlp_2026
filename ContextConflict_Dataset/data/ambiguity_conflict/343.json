@@ -1,0 +1,20 @@
+{
+  "qid": 9234,
+  "question": "What position did John Crosbie hold?",
+  "ambiguous_entity": "John Crosbie (disambiguation)",
+  "content": {
+    "source_1": "of the St. John's City Council, he served on council until he was appointed to the provincial cabinet of Liberal Premier Joey Smallwood in 1966. Crosbie was sworn in as Minister of Municipal and Housing, and soon after won a seat in the House of Assembly. As Minister he was responsible for the creation of the Newfoundland and Labrador Housing Corporation. In 1967, Crosbie became Minister of Health and was instrumental in creating the Newfoundland Medicare Commission and the framework for the Newfoundland Medicare Plan. Smallwood's government had been in power since 1949, and the Premier was trying to rejuvenate",
+    "source_2": "held the seat until 1781, when he succeeded his father in the earldom and entered the Irish House of Lords. He was sworn of the Irish Privy Council in 1785. In 1789, he was appointed Joint Master of the Rolls in Ireland alongside the Earl of Carysfort. The both held the post until 1801. The office was then a sinecure and did not require any legal qualifications. In 1800, he was elected as one of the 28 original Irish Representative Peers to sit in the House of Lords. Lord Glandore was married in London in 1771 by Frederick Cornwallis, Archbishop",
+    "source_3": "John Crosbie (bishop) John Crosbie, alias Sean Mac an Chrosáin, died September 1621, was a bishop of the Church of Ireland. Crosbie was born a member of the Mac an Chrosáin family of Leinster, who were a bardic family to the Ui Mhórdha of Laois. His baptisimal name was Sean, and his mother was an O Cellaigh. His elder brother, Patrick Crosbie, had been active in English service since 1588 and helped transplant the septs of Laois into County Kerry. Patrick died on 22 March 1611; his son, the statesman Sir Piers Crosby, died November 1646. Sean Mac an Chrosáin"
+  },
+  "content_pid": [
+    "2847093",
+    "15097239",
+    "17829134"
+  ],
+  "answer": [
+    "Minister of Municipal and Housing, and Minister of Health",
+    "Joint Master of the Rolls in Ireland, and one of the 28 original Irish Representative Peers to sit in the House of Lords",
+    "Bishop of the Church of Ireland"
+  ]
+}

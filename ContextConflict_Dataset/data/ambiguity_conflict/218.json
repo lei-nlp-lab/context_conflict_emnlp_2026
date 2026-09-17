@@ -1,0 +1,17 @@
+{
+  "qid": 18077,
+  "question": "What is David Camp known for?",
+  "ambiguous_entity": "David Camp",
+  "content": {
+    "source_1": "policies to improve the U.S. fiscal situation in the medium term, and to achieve fiscal sustainability over the long term. While on the Commission, Camp co-led the Tax Reform Working Group and was a member of the Mandatory Spending Working Group. Camp was involved in the House Republicans' January 2011 repeal efforts of the Patient Protection and Affordable Care Act. While the Senate has not taken action on full repeal of the Democrats' 2010 health care law, Camp lead the repeal of the health care law's 1099 tax reporting requirement, which some small businesses said would hurt their operations and",
+    "source_2": "David M. Camp David M. Camp (April 21, 1788 – February 20, 1871) was a Vermont attorney and politician who served as Lieutenant Governor from 1836 to 1841 under Governor Silas H. Jennison. David Manning Camp was born in Tunbridge, Vermont on April 21, 1788. He graduated from the University of Vermont in 1810, and in 1813 moved to Derby to become a US Customs Collector. Camp subsequently studied law with William Brayton, attained admission to the bar, and became an attorney in Newport. He served as Orleans County State's Attorney in 1815. He was a member of the Vermont"
+  },
+  "content_pid": [
+    "13585694",
+    "16178426"
+  ],
+  "answer": [
+    "Being involved in the repeal efforts of the Patient Protection and Affordable Care Act",
+    "Serving as Lieutenant Governor from 1836 to 1841 under Governor Silas H"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "question": "Which landforms are created by wind erosion?",
+    "content": {
+        "source_1": "Wind is a geomorphic agent that can erode, transport, and deposit sediment; strong winds remove loose soil and can generate dust storms that reshape arid and coastal landscapes.",
+        "source_2": "Many introductory Earth-science texts and curricula present sand dunes and loess hills as landforms “formed by wind erosion,” emphasizing that wind moves sediment and piles it into mounds or blankets.",
+        "source_3": "Yardangs—elongated, streamlined ridges—and deflation hollows (blowouts) are classic products of wind erosion: abrasion by sand-laden wind sculpts yardangs, and deflation excavates hollows by removing fine particles.",
+        "source_4": "Ventifacts and pedestal (mushroom) rocks develop when windblown sand abrades rock surfaces near the ground, polishing, grooving, and undercutting them.",
+        "source_5": "In geomorphology, dunes and loess are classed as depositional aeolian landforms (built by accumulation), whereas erosional aeolian landforms include yardangs, ventifacts, and deflation basins.",
+        "source_6": "Wind-driven deflation during dust storms can leave behind coarse desert pavement and localized basins, direct evidence of material removal by wind erosion."
+    },
+    "answer": "sand dunes and arches"
+}

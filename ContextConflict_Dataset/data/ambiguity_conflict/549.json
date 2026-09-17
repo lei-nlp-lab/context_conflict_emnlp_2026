@@ -1,0 +1,17 @@
+{
+  "qid": 10634,
+  "question": "What is Roger Connor's profession?",
+  "ambiguous_entity": "Roger Connor (disambiguation)",
+  "content": {
+    "source_1": "the Baseball Hall of Fame by its Veterans Committee in 1976. Largely forgotten after his retirement, Connor was buried in an unmarked grave until a group of citizens raised money for a grave marker in 2001. Connor was born in Waterbury, Connecticut. He was the son of Irish immigrants Mortimer Connor and Catherine Sullivan Connor. His father had arrived in the United States only five years before Roger's birth. The family lived in the Irish section of Waterbury, known as the Abrigador district, which was separated from the rest of the city by a large granite hill. Connor was the",
+    "source_2": "Roger Connor (judge) Roger David Connor DL (born 8 June 1939) is a British judge. Connor was born in 1939, the son of Susie Violet (née Spittlehouse) and Thomas Bernard Connor. He attended Merchant Taylors' School in London, before studying at Brunel College of Advanced Science and Technology. He then studied law at The College of Law. Connor's professional career began as a solicitor. He did an apprenticeship with J. R. Hodder between 1963 and 1968, before working as an assistant solicitor. In 1970, he became a partner in Hodders Solicitors, a position he held until 1983. He served as"
+  },
+  "content_pid": [
+    "2870738",
+    "16982451"
+  ],
+  "answer": [
+    "Baseball player",
+    "Judge and solicitor"
+  ]
+}

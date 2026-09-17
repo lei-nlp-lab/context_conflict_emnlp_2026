@@ -1,0 +1,9 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Not all bears are wild.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "No bear kept in a zoo is wild.",
+        "source_2": "At least one bear is kept in a zoo.",
+        "source_3": "In some classifications, animals remain “wild” by species even if in captivity, so a bear in a zoo could still be considered wild."
+    },
+    "answer": "Uncertain"
+}

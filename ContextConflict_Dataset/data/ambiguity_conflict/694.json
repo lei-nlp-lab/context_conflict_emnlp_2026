@@ -1,0 +1,17 @@
+{
+  "qid": 47805,
+  "question": "Who owned Finckenstein?",
+  "ambiguous_entity": "Finckenstein",
+  "content": {
+    "source_1": "of the family named \"Finck von Finckenstein\" came to prominence in East Prussia, possibly after participating in the Third Crusade–, the ownership fell back to the dukes of Carinthia, held by the House of Habsburg since 1335. Emperor Frederick III, Duke of Carinthia since 1424, had his consort Eleanor of Portugal brought to safety at Finkenstein, while he was besieged by his brother Archduke Albert VI in Vienna. His son Maximilian I enfeoffed the castle and its surrounding estates (\"Herrschaft\") to his liegeman Sigismund of Dietrichstein in 1508. His descendants held the castle until 1861. Since the end of the",
+    "source_2": "Carinthian Slovenes. The municipality is named after Finkenstein Castle, a possession of the Carinthian dukes, which was first mentioned in an 1142 deed. Lend to the ducal ministeriales, the Lords of Finkenstein, it was an important outpost overlooking the Gail valley and the Carinthian estates of the Bamberg prince-bishops around Villach and Federaun Castle vis-à-vis. In 1335 the ducal estates passed to the Austrian House of Habsburg. In 1508 Emperor Maximilian I, Duke of Carinthia since 1493, granted Finkenstein to his liegeman Siegmund von Dietrichstein, whose descendants held the castle until 1861. From the 18th century on it decayed, only"
+  },
+  "content_pid": [
+    "13551474",
+    "10113145"
+  ],
+  "answer": [
+    "Family named \"Finck von Finckenstein\"",
+    "Carinthian dukes and the Austrian House of Habsburg"
+  ]
+}

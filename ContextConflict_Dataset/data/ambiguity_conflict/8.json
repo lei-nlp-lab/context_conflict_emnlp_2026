@@ -1,0 +1,17 @@
+{
+  "qid": 4606,
+  "question": "What is the profession of Brann?",
+  "ambiguous_entity": "Brann",
+  "content": {
+    "source_1": "Eva Brann Eva T. H. Brann (born 1929) is a former dean (1990–1997) and the longest-serving tutor (1957–present) at St. John's College, Annapolis. She is a 2005 recipient of the National Humanities Medal. Brann was born to a Jewish family in Berlin. She immigrated in 1941 to the United States and received her B.A. from Brooklyn College in 1950, her M.A. in Classics from Yale University in 1951, and her Ph.D. in Archaeology from Yale in 1956. She also holds an Honorary Doctorate from Middlebury College. In her early years at St. John's, she was very close to Jacob Klein.",
+    "source_2": "a partner at that firm in 1995. He also spent years as a Republican party official in Pennsylvania. In private practice, he focused on tort, contract, commercial and real estate litigation. On May 17, 2012, President Obama nominated Brann to be a United States District Judge for the United States District Court for the Middle District of Pennsylvania, to the seat vacated by Judge Thomas I. Vanaskie who was elevated to the United States Court of Appeals for the Third Circuit in 2010. The Senate Judiciary Committee held a hearing on his nomination on June 27, 2012, and reported it"
+  },
+  "content_pid": [
+    "6620123",
+    "16523609"
+  ],
+  "answer": [
+    "Dean and tutor at St. John's College, former dean",
+    "United States District Judge for the United States District Court for the Middle District of Pennsylvania"
+  ]
+}

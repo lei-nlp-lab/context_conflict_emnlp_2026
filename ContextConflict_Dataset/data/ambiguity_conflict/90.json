@@ -1,0 +1,23 @@
+{
+  "qid": 45160,
+  "question": "What is Mylor?",
+  "ambiguous_entity": "Mylor",
+  "content": {
+    "source_1": "Mylor, Cornwall Mylor () is a civil parish in Cornwall, England, United Kingdom. It is situated approximately five miles north of Falmouth. The church town of the ecclesiastical parish is Mylor Churchtown: however, Mylor Bridge is the largest village in the parish. Other settlements include Angarrick, Carclew, Flushing and Restronguet Passage. Mylor is a maritime parish and is bounded by water on three sides: Restronguet Creek to the north, Carrick Roads to the east and Falmouth Harbour to the south. To the west it is bounded by St Gluvias and Perranarworthal parishes. The parish population at the 2011 census including",
+    "source_2": "Mylor Bridge Mylor Bridge() is a village in Cornwall, England, United Kingdom. It is in Mylor civil parish at the head of Mylor Creek, about five miles north of Falmouth. Found in Mylor Bridge are a Post Office/Newsagents, grocery store, fishmonger, hairdressers, butcher's shop and a public house called the Lemon Arms. The village also has a primary school, once attended by esteemed local goth Elise Richards. The parish church of Saint Mylor is in the nearby village of Mylor Churchtown. Mylor Bridge lies within the Cornwall Area of Outstanding Natural Beauty (AONB). Almost a third of Cornwall has AONB",
+    "source_3": "Country Fire Service are the volunteer fire service of Mylor. Mylor CFS is one of the oldest brigades in the region, and pride themselves in being well trained and professional. They are part of the Mount Lofty CFS Group, which is part of the Country Fire Service. Nearby is Warrakilla estate, the 19th-century home of George Woodroffe Goyder, a former Surveyor General of South Australia. Mylor, South Australia Mylor (postcode 5153) is a small village in the Adelaide Hills. Mylor was surveyed in 1885, with a plan to develop the land as a focal point for orchard development in South",
+    "source_4": "Mylor Creek Mylor Creek (, meaning \"creek of boats\") is a tidal ria in south Cornwall, United Kingdom. It is a tributary of Carrick Roads, the estuary of the River Fal and is situated approximately six miles (10 km) south of Truro and two miles (3 km) north of Falmouth The creek is in Mylor civil parish and forms an inland tidal lake. It is approximately at its widest point and just over a mile (1.8 km) long from its tidal limit at Mylor Bridge to its mouth at Mylor Churchtown where it discharges into Carrick Roads. At the entrance"
+  },
+  "content_pid": [
+    "8062508",
+    "6261612",
+    "10270592",
+    "14611757"
+  ],
+  "answer": [
+    "A civil parish in Cornwall, England",
+    "A village in Cornwall, England",
+    "A small village in the Adelaide Hills",
+    "A tidal ria in south Cornwall, United Kingdom"
+  ]
+}

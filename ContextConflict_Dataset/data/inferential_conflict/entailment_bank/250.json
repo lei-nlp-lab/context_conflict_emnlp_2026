@@ -1,0 +1,12 @@
+{
+    "question": "Which natural resource from the environment do humans depend on for survival?",
+    "content": {
+        "source_1": "Water is a natural resource present in the environment, occurring as rain, rivers, lakes, and groundwater.",
+        "source_2": "All animals require water for core physiological and biochemical processes; life on Earth depends on water at the cellular level.",
+        "source_3": "Humans are animals (mammals).",
+        "source_4": "Certain desert-adapted mammals, such as kangaroo rats, can live their entire lives without drinking liquid water, meeting their needs through metabolic water produced from dry seeds and environmental oxygen.",
+        "source_5": "Atmospheric oxygen is a natural environmental resource that mammals require for aerobic respiration.",
+        "source_6": "Many fundamental physiological traits and dependencies are broadly conserved across mammalian species (e.g., reliance on oxygen-based metabolism and internal homeostasis)."
+    },
+    "answer": "water"
+}

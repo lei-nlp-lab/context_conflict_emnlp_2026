@@ -1,0 +1,14 @@
+{
+    "question": "Based on the given evidence, is the hypothesis 'Nancy is either both a pirate and a toddler, or neither a pirate nor a toddler.' true, false, or uncertain? The final answer should be 'True', 'False', or 'Uncertain'. Only answer 'Uncertain' if the reasoning results from different evidences conflict with each other.",
+    "content": {
+        "source_1": "Every kid is young.",
+        "source_2": "Every toddler is a kid.",
+        "source_3": "Anyone who is young is not elderly.",
+        "source_4": "Every pirate is a seafarer.",
+        "source_5": "If Nancy is not a pirate, then Nancy is young.",
+        "source_6": "If Nancy is not a toddler, then Nancy is a seafarer.",
+        "source_7": "All seafarers are elderly.",
+        "source_8": "If someone is a toddler, then they are not a seafarer."
+    },
+    "answer": "False"
+}
